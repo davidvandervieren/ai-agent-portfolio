@@ -1,152 +1,7 @@
-# 🤖 AI Agent Portfolio — David Van der Vieren
-
-> **Intelligent automation systems purpose-built for business intelligence, legal research, financial analysis, and executive operations.**
-
----
-
-## 👋 About This Portfolio
-
-I'm David Van der Vieren, a developer specializing in the design and deployment of autonomous AI agent systems. The agents showcased here represent a suite of tools I've built to automate high-value knowledge work — the kind that typically requires a team of analysts, lawyers, and researchers.
-
-Each agent is a standalone system capable of ingesting real-world data, reasoning over it, and delivering structured, actionable outputs. This portfolio is a capability teaser — architecture and implementation details are available upon request in a professional context.
-
-📍 Denver, CO | 💼 Open to opportunities | 📬 [Connect on GitHub](https://github.com/davidvandervieren)
-
----
-
-## ⚡ Capability Overview
-
-| Domain | Agent | Core Output |
-|---|---|---|
-| 🏢 Business Strategy | Business Plan Generator | Full business plan with market analysis |
-| 💰 Finance | Financial Modeling Agent | Dynamic multi-scenario financial models |
-| ⚖️ Legal Research | Court Case Research Agent | Case law summaries & precedent maps |
-| 🏛️ Government | Municipal Filing Reviewer | Compliance analysis & risk flags |
-| 🔍 Investigations | Skip Trace Agent | Lead profiles from public data sources |
-| 📋 Records | Public Records Analyst | Structured entity intelligence reports |
-| 📝 Legal Docs | Legal Document Comparison Agent | Clause-level diff with risk scoring |
-| 📊 Presentations | Executive Presentation Agent | Board-ready decks from raw data |
-| 🗺️ Planning | Project Flow Architect | End-to-end project plans with dependencies |
-
----
-
-## 🏢 Agent 01 — Business Plan Generator
-
-**Problem It Solves:** Producing a compelling, investor-ready business plan requires days of market research, competitive analysis, and financial narrative writing. This agent compresses that to minutes.
-
-**What It Does:**
-- Ingests a concept, industry, and target market as inputs
-- Autonomously researches market size, competitors, and trends
-- Structures a full business plan: executive summary, market analysis, value proposition, go-to-market strategy, operational plan, and financial projections overview
-- Outputs a formatted, professional document ready for investor or internal review
-
-**Why It Matters to Employers:** Demonstrates ability to orchestrate multi-step research pipelines, synthesize unstructured data into structured business narratives, and deliver stakeholder-ready outputs autonomously.
-
----
-
-## 💰 Agent 02 — Financial Modeling Agent
-
-**Problem It Solves:** Financial models built manually are slow, error-prone, and hard to update when assumptions change.
-
-**What It Does:**
-- Accepts business inputs (revenue drivers, cost structure, growth assumptions)
-- Builds dynamic multi-scenario models (base, bull, bear case)
-- Performs sensitivity analysis across key variables
-- Produces structured outputs suitable for CFO review or investor due diligence
-
-
-> **Intelligent automation systems, data engineering pipelines, and analytics dashboards — built for business intelligence, legal research, financial analysis, and executive operations.**
-
----
-
-## 👋 About This Portfolio
-
-I'm David Van der Vieren, a developer specializing in autonomous AI agent systems, data engineering, and business intelligence tooling. This portfolio showcases two categories of work: AI agents that automate high-value knowledge work, and coding/data projects that power analytics, automation, and reporting workflows.
-
-This is a capability teaser — architecture and implementation details are available upon request in a professional context.
-
-📍 Denver, CO | 💼 Open to opportunities | 📬 [Connect on GitHub](https://github.com/davidvandervieren)
-
----
-
-## ⚡ Capability Overview
-
-### 🤖 AI Agent Systems
-
-| Domain | Agent | Core Output |
-|---|---|---|
-| 🏢 Business Strategy | Business Plan Generator | Full business plan with market analysis |
-| 💰 Finance | Financial Modeling Agent | Dynamic multi-scenario financial models |
-| ⚖️ Legal Research | Court Case Research Agent | Case law summaries & precedent maps |
-| 🏛️ Government | Municipal Filing Reviewer | Compliance analysis & risk flags |
-| 🔍 Investigations | Skip Trace Agent | Lead profiles from public data sources |
-| 📋 Records | Public Records Analyst | Structured entity intelligence reports |
-| 📝 Legal Docs | Legal Document Comparison Agent | Clause-level diff with risk scoring |
-| 📊 Presentations | Executive Presentation Agent | Board-ready decks from raw data |
-| 🗺️ Planning | Project Flow Architect | End-to-end project plans with dependencies |
-
-### 💻 Coding & Data Engineering
-
-| Technology | Capability | Core Output |
-|---|---|---|
-| 📊 Power BI | Interactive Analytics Dashboards | Executive-ready visual intelligence |
-| 🐍 Python | Data Pull, Parse & Process Pipelines | Automated structured reports |
-| 🐍 Python | File Type Conversion & Processing | Batch-transformed, standardized files |
-| 📜 VBScript | Office & System Automation | Automated workflows & document processing |
-
----
-
-## 🤖 AI AGENT SYSTEMS
-
----
-
-## 🏢 Agent 01 — Business Plan Generator
-
-**Problem It Solves:** Producing a compelling, investor-ready business plan requires days of market research, competitive analysis, and financial narrative writing. This agent compresses that to minutes.
-
-**What It Does:**
-- Ingests a concept, industry, and target market as inputs
-- Autonomously researches market size, competitors, and trends
-- Structures a full business plan: executive summary, market analysis, value proposition, go-to-market strategy, operational plan, and financial projections overview
-- Outputs a formatted, professional document ready for investor or internal review
-
-**Why It Matters to Employers:** Demonstrates ability to orchestrate multi-step research pipelines, synthesize unstructured data into structured business narratives, and deliver stakeholder-ready outputs autonomously.
-
----
-
-## 💰 Agent 02 — Financial Modeling Agent
-
-**Problem It Solves:** Financial models built manually are slow, error-prone, and hard to update when assumptions change.
-
-**What It Does:**
-- Accepts business inputs (revenue drivers, cost structure, growth assumptions)
-- Builds dynamic multi-scenario models (base, bull, bear case)
-- Performs sensitivity analysis across key variables
-- Produces structured outputs suitable for CFO review or investor due diligence
-
-**Why It Matters to Employers:** Shows competency in financial logic, data modeling, and the ability to translate ambiguous business questions into quantifiable frameworks.
-
----
-
-## ⚖️ Agent 03 — Legal Court Case Research Agent
-
-**Problem It Solves:** Legal research is expensive and time-consuming — attorneys bill hundreds per hour to do what this agent does in seconds.
-
-**What It Does:**
-- Accepts a legal question, jurisdiction, and case type as input
-- Retrieves and analyzes relevant case law and statutes
-- Identifies precedents, dissenting opinions, and jurisdictional nuances
-- Produces a structured research memo with citations and risk assessment
-
-**Why It Matters to Employers:** Highlights the ability to build agents that navigate complex, high-stakes knowledge domains and produce legally structured outputs — valuable for legal tech, compliance, and due diligence workflows.
-
----
-
-## 🏛️ Agent 04 — Municipal Filing Reviewer
-
+<div align="center">
 
 # David Van der Vieren
-### AI Systems Developer · Data Engineer · Automation Architect
+### AI Systems Developer &nbsp;·&nbsp; Data Engineer &nbsp;·&nbsp; Automation Architect
 
 **I build systems that replace entire workflows — not just tools that assist them.**
 
@@ -156,10 +11,10 @@ This is a capability teaser — architecture and implementation details are avai
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
-[![VBScript](https://img.shields.io/badge/VBScript-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![VBScript](https://img.shields.io/badge/VBScript%20%2F%20VBA-0078D4?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6B35?style=for-the-badge&logo=openai&logoColor=white)](#)
 [![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#)
-[![Excel](https://img.shields.io/badge/Excel%20%2F%20VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
+[![Excel](https://img.shields.io/badge/Excel%20%2F%20DAX-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](#)
 
 📍 **Denver, CO** &nbsp;|&nbsp; 💼 **Open to Opportunities** &nbsp;|&nbsp; 📬 **[Connect on GitHub](https://github.com/davidvandervieren)**
 
@@ -173,9 +28,9 @@ Most developers build features. I build **leverage** — systems that make one p
 
 I specialize at the intersection of **AI automation**, **data engineering**, and **business intelligence**: the layer where messy real-world data meets the decision-makers who need to act on it. Every system I build is designed to run without babysitting, output without explanation, and scale without a rewrite.
 
-My background spans legal research, financial modeling, investigative intelligence, government data, and enterprise reporting — domains where the cost of slow, manual work is high and the value of automation is immediate.
+My background spans legal research, financial modeling, investigative intelligence, government data, and enterprise reporting — domains where the cost of slow, manual work is high and the value of automation is immediate and measurable.
 
-> **"If a human is doing it repeatedly, I'm already designing the system that does it instead."**
+> *"If a human is doing it repeatedly, I'm already designing the system that does it instead."*
 
 ---
 
@@ -201,7 +56,7 @@ My background spans legal research, financial modeling, investigative intelligen
 |---|---|---|
 | 📊 Power BI | Live KPI dashboards with custom DAX models | Executives get answers in seconds, not meetings |
 | 🐍 Python | End-to-end data pipelines: ingest → parse → transform → report | Eliminates entire analyst workflows |
-| 🐍 Python | Batch file conversion & document processing at scale | Kills the "format chaos" that stalls operations |
+| 🐍 Python | Batch file conversion & document processing at scale | Kills the format chaos that stalls operations |
 | 📜 VBScript / VBA | Microsoft Office & Windows system automation | Turns hours of manual Office work into one click |
 
 ---
@@ -220,7 +75,7 @@ My background spans legal research, financial modeling, investigative intelligen
 - Produces a fully structured plan: executive summary, market analysis, value proposition, go-to-market strategy, operational overview, and financial projections framework
 - Outputs a formatted document ready for investor review or internal strategy sessions
 
-**The Signal for Hiring Managers:** I can design agents that orchestrate multi-step research, synthesize unstructured information into coherent narratives, and produce stakeholder-ready deliverables — without human intervention at each step.
+**The Signal for Hiring Managers:** I can design agents that orchestrate multi-step research, synthesize unstructured information into coherent narratives, and produce stakeholder-ready deliverables without human intervention at each step.
 
 ---
 
@@ -234,13 +89,13 @@ My background spans legal research, financial modeling, investigative intelligen
 - Runs sensitivity analysis across key variables automatically
 - Outputs structured financial projections formatted for CFO review or investor due diligence
 
-**The Signal for Hiring Managers:** Financial logic + data modeling + the ability to translate ambiguous business questions into quantifiable frameworks. This is what separates a developer who understands business from one who just writes code.
+**The Signal for Hiring Managers:** Financial logic + data modeling + translating ambiguous business questions into quantifiable frameworks. This is what separates a developer who understands business from one who just writes code.
 
 ---
 
 ### ⚖️ Agent 03 — Legal Court Case Research Agent
 
-**The Problem:** Legal research costs $300–$500/hr billed by attorneys, and junior associates spend days on work that should take minutes.
+**The Problem:** Legal research costs $300–$500/hr billed by attorneys. Junior associates spend days on work that should take minutes.
 
 **What This Agent Does:**
 - Takes a legal question, jurisdiction, and case type as input
@@ -248,13 +103,13 @@ My background spans legal research, financial modeling, investigative intelligen
 - Identifies key precedents, dissenting opinions, and jurisdictional nuances
 - Produces a structured research memo with citations and risk assessment ready for attorney review
 
-**The Signal for Hiring Managers:** Building agents that operate reliably in high-stakes, domain-specific knowledge environments — legal, compliance, regulatory — requires precision that most AI implementations don't achieve. This one does.
+**The Signal for Hiring Managers:** Building agents that operate reliably in high-stakes, domain-specific knowledge environments — legal, compliance, regulatory — requires precision that most AI implementations don't achieve.
 
 ---
 
 ### 🏛️ Agent 04 — Municipal Filing Reviewer
 
-**The Problem:** Municipal filings — zoning applications, permits, council minutes, public notices — contain business-critical information buried in dense, bureaucratic language that no one has time to read cover-to-cover.
+**The Problem:** Municipal filings contain business-critical information buried in dense, bureaucratic language that no one has time to read cover-to-cover.
 
 **What This Agent Does:**
 - Ingests municipal documents, meeting minutes, and permit filings
@@ -262,13 +117,13 @@ My background spans legal research, financial modeling, investigative intelligen
 - Flags risks, hard deadlines, and approval conditions
 - Delivers a structured summary with actionable intelligence
 
-**The Signal for Hiring Managers:** Document intelligence at the government data layer — extracting signal from noise in regulatory and compliance contexts is directly valuable to real estate, infrastructure, legal, and public affairs organizations.
+**The Signal for Hiring Managers:** Document intelligence at the government data layer — extracting signal from noise in regulatory contexts is directly valuable to real estate, infrastructure, legal, and public affairs organizations.
 
 ---
 
 ### 🔍 Agent 05 — Skip Trace Agent
 
-**The Problem:** Locating individuals or entities through public data is time-intensive, inconsistent, and often done manually by people who don't know what sources to check or how to cross-reference them.
+**The Problem:** Locating individuals or entities through public data is time-intensive, inconsistent, and done manually by people who don't know all the sources to check.
 
 **What This Agent Does:**
 - Takes a name, last known location, or partial identifier as input
@@ -276,13 +131,13 @@ My background spans legal research, financial modeling, investigative intelligen
 - Aggregates addresses, affiliations, business registrations, and contact signals
 - Outputs a structured intelligence report with full source citations
 
-**The Signal for Hiring Managers:** Advanced entity resolution, multi-source data aggregation, and investigative pipeline design — built to operate within legal boundaries while maximizing public data utility. Directly applicable to legal, collections, insurance, and compliance sectors.
+**The Signal for Hiring Managers:** Advanced entity resolution, multi-source aggregation, and investigative pipeline design — built within legal boundaries while maximizing public data utility. Directly applicable to legal, collections, insurance, and compliance.
 
 ---
 
 ### 📋 Agent 06 — Public Records Analyst
 
-**The Problem:** Public records are a goldmine — court filings, property records, business registrations, UCC filings, licensing data — but they're scattered across dozens of sources in inconsistent formats that make manual research impractical at scale.
+**The Problem:** Public records are a goldmine — court filings, property records, business registrations, UCC filings, licensing data — but scattered across dozens of inconsistent sources.
 
 **What This Agent Does:**
 - Takes an entity name (person or business) as input
@@ -290,13 +145,13 @@ My background spans legal research, financial modeling, investigative intelligen
 - Cross-references findings to build a comprehensive entity intelligence profile
 - Surfaces liens, judgments, ownership structures, and historical activity
 
-**The Signal for Hiring Managers:** Cross-source intelligence aggregation systems are high-value infrastructure for financial services, legal, insurance, and investigative organizations. This demonstrates the ability to build that infrastructure from scratch.
+**The Signal for Hiring Managers:** Cross-source intelligence aggregation is high-value infrastructure for financial services, legal, insurance, and investigative organizations.
 
 ---
 
 ### 📝 Agent 07 — Legal Document Comparison Agent
 
-**The Problem:** Comparing two versions of a legal document for substantive differences requires expert-level attention to detail — and is exactly the kind of high-stakes, tedious work where human reviewers make costly errors.
+**The Problem:** Comparing two versions of a legal document for substantive differences requires expert-level attention to detail — exactly the kind of high-stakes, tedious work where human reviewers make costly errors.
 
 **What This Agent Does:**
 - Accepts two document versions as input
@@ -304,36 +159,36 @@ My background spans legal research, financial modeling, investigative intelligen
 - Scores every change by legal risk and business impact
 - Produces a structured redline report with explanatory commentary on material changes
 
-**The Signal for Hiring Managers:** Distinguishing a formatting change from a material legal revision is a genuinely hard NLP problem. Building an agent that does this reliably demonstrates document reasoning at a level most AI implementations don't reach.
+**The Signal for Hiring Managers:** Distinguishing a formatting change from a material legal revision is a genuinely hard NLP problem. Building an agent that does this reliably demonstrates document reasoning most AI implementations don't reach.
 
 ---
 
 ### 📊 Agent 08 — Executive Presentation Agent
 
-**The Problem:** Turning raw data, analysis, or strategy into a crisp executive presentation takes hours of analyst time — and the result still often misses the narrative thread that makes leadership actually act on it.
+**The Problem:** Turning raw data or strategy into a crisp executive presentation takes hours — and the result still often misses the narrative thread that makes leadership act on it.
 
 **What This Agent Does:**
 - Takes raw data, reports, or strategic narratives as input
 - Identifies the key message, supporting evidence, and narrative structure
-- Builds a presentation arc using proven executive communication frameworks (Situation–Complication–Resolution)
-- Outputs a slide-by-slide content plan with speaker notes and data visualization recommendations
+- Builds a presentation arc using proven executive communication frameworks
+- Outputs a slide-by-slide content plan with speaker notes and visualization guidance
 
-**The Signal for Hiring Managers:** This agent demonstrates strategic communication intelligence — understanding audience, context, and narrative structure, not just formatting data. A rare combination of technical and communication capability.
+**The Signal for Hiring Managers:** Strategic communication intelligence — understanding audience, context, and narrative structure, not just formatting data. A rare combination of technical and communication capability.
 
 ---
 
 ### 🗺️ Agent 09 — Project Flow Architect
 
-**The Problem:** Project planning that captures all dependencies, resource requirements, and risk factors is time-consuming to do well — and most plans that get rushed are missing exactly the details that cause projects to fail.
+**The Problem:** Project planning that captures all dependencies and risk factors is time-consuming — and plans that get rushed are missing exactly the details that cause projects to fail.
 
 **What This Agent Does:**
 - Takes a project goal, team composition, and constraints as input
 - Decomposes the project into phases, tasks, and milestones with ownership
 - Maps all dependencies and calculates the critical path
-- Flags resource conflicts, schedule risks, and ambiguous scope
+- Flags resource conflicts, schedule risks, and scope ambiguity
 - Outputs a structured plan ready for PM tools or stakeholder review
 
-**The Signal for Hiring Managers:** Systems thinking, decomposition, and simultaneous reasoning about time, resources, and risk. This is what separates architectural thinking from implementation-only developers.
+**The Signal for Hiring Managers:** Systems thinking, decomposition, and reasoning about time, resources, and risk simultaneously. This separates architectural thinking from implementation-only developers.
 
 ---
 
@@ -343,7 +198,7 @@ My background spans legal research, financial modeling, investigative intelligen
 
 ### 📊 Skill 01 — Power BI Analytics Dashboards
 
-**The Problem:** Business data lives in a dozen places — spreadsheets, databases, exports, APIs — and none of it automatically becomes the live intelligence that executives need to make decisions.
+**The Problem:** Business data lives in a dozen places and none of it automatically becomes the live intelligence executives need to make decisions.
 
 **What I Build:**
 - End-to-end Power BI dashboards connected to live or scheduled data sources
@@ -355,9 +210,9 @@ My background spans legal research, financial modeling, investigative intelligen
 **Demonstrated Strengths:**
 - Translating a vague stakeholder question into a precise, interactive visual answer
 - Designing for non-technical audiences — layouts that need zero training to use
-- Building automated refresh pipelines so dashboards are always current
+- Building automated refresh pipelines so dashboards are always current without manual intervention
 
-**The Signal for Hiring Managers:** Power BI fluency combined with real data modeling instincts means going from a whiteboard question to a live, self-refreshing executive dashboard — without needing a dedicated BI team.
+**The Signal for Hiring Managers:** Power BI fluency combined with real data modeling instincts means going from a whiteboard question to a live, self-refreshing executive dashboard without needing a dedicated BI team.
 
 ---
 
@@ -375,9 +230,9 @@ My background spans legal research, financial modeling, investigative intelligen
 **Demonstrated Strengths:**
 - Zero-touch pipelines that run on a schedule and deliver finished reports with no human intervention
 - Handling real-world data messiness — inconsistent formats, missing fields, encoding issues — without breaking
-- Modular pipeline design: add a new source or output format without rewriting the core logic
+- Modular pipeline design: add a new source or output format without rewriting core logic
 
-**The Signal for Hiring Managers:** This skill eliminates entire categories of manual analyst work. A well-built Python data pipeline pays for itself in time saved within the first week of deployment.
+**The Signal for Hiring Managers:** This eliminates entire categories of manual analyst work. A well-built Python data pipeline pays for itself in time saved within the first week of deployment.
 
 ---
 
@@ -386,24 +241,24 @@ My background spans legal research, financial modeling, investigative intelligen
 **The Problem:** Enterprise environments run on file format chaos — legacy systems produce outputs modern tools can't read, vendors deliver incompatible structures, and batch operations across hundreds of files get done manually.
 
 **What I Build:**
-- Batch conversion scripts: Excel ↔ CSV, PDF ↔ structured data, Word ↔ plain text, JSON ↔ XML, and beyond
+- Batch conversion scripts: Excel ↔ CSV, PDF ↔ structured data, Word ↔ plain text, JSON ↔ XML, and more
 - Document processing pipelines that extract, reformat, and re-export content at scale
 - File organization and renaming automation driven by content, metadata, or naming rules
 - Image and document processing: compression, merging, splitting, watermarking, format standardization
-- Validation scripts that check file integrity against schemas and flag anomalies before they enter downstream systems
+- Validation scripts that check file integrity and flag anomalies before they enter downstream systems
 
 **Demonstrated Strengths:**
 - Processing hundreds or thousands of files in a single automated run
 - Zero silent data loss — fidelity is validated at every conversion step
 - Configurable design: non-technical users can adjust parameters without touching code
 
-**The Signal for Hiring Managers:** File processing bottlenecks are invisible until they're measured — then they turn out to consume enormous analyst and operations time. Automating them eliminates the bottleneck and the entire class of human error it creates.
+**The Signal for Hiring Managers:** File processing bottlenecks consume enormous analyst time once measured. Automating them eliminates the bottleneck and the entire class of human error it creates.
 
 ---
 
 ### 📜 Skill 04 — VBScript / VBA Office & System Automation
 
-**The Problem:** Most enterprise organizations still run on Windows and Microsoft Office. They have high-volume, repetitive workflows — formatting, populating, sending, filing — that have never been automated because no one on the team codes.
+**The Problem:** Most enterprise organizations run on Microsoft Office. They have high-volume, repetitive workflows — formatting, populating, sending, filing — that have never been automated because no one on the team codes.
 
 **What I Build:**
 - Excel and Word macro automation: formatting, data population, multi-sheet operations, business-logic-triggered actions
@@ -417,7 +272,7 @@ My background spans legal research, financial modeling, investigative intelligen
 - Scripts designed for non-technical staff — no command line, no configuration files
 - Production-grade error handling: scripts log failures, alert appropriately, and never silently break
 
-**The Signal for Hiring Managers:** VBScript/VBA expertise combined with modern AI and Python capability is a genuinely rare combination. It delivers immediate value in any organization running on Microsoft Office — which covers most of the enterprise market.
+**The Signal for Hiring Managers:** VBScript/VBA expertise combined with modern AI and Python capability is a genuinely rare combination. It delivers immediate, day-one value in any organization running on Microsoft Office.
 
 ---
 
@@ -427,7 +282,7 @@ Every system — agent or code — is built on the same foundation:
 
 | Principle | What It Means in Practice |
 |---|---|
-| **Output-first** | I start with the deliverable the stakeholder needs, then engineer backwards |
+| **Output-first** | Start with the deliverable the stakeholder needs, then engineer backwards |
 | **Reliability over cleverness** | Production code that runs quietly for months beats clever code that breaks on edge cases |
 | **Non-technical user ready** | If someone needs to understand the implementation to use the output, I haven't finished the job |
 | **Composable** | New sources, report types, or agent capabilities plug in — they don't require rewrites |
@@ -437,34 +292,16 @@ Every system — agent or code — is built on the same foundation:
 
 ## 💼 Why Hire Me
 
-<table>
-<tr>
-<td width="50%">
-
-**End-to-End Ownership**
-I take a business problem from whiteboard to deployed, production-grade system. No handoffs required, no team of specialists needed.
-
-**Rare Stack Combination**
-AI agents + Python data engineering + Power BI + Office automation covers the full range from cutting-edge to "makes the legacy stuff finally work."
-
-</td>
-<td width="50%">
-
-**Domain Intelligence**
-Deep instinct across legal, financial, investigative, and operational contexts means I build systems that understand the domain — not just process the data.
-
-**Automation-First Mindset**
-I don't build things that assist manual work. I build systems that eliminate the manual work entirely.
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **End-to-End Ownership** — I take a business problem from whiteboard to deployed, production-grade system. No handoffs required. | **Domain Intelligence** — Deep instinct across legal, financial, investigative, and operational contexts means systems that understand the domain, not just process data. |
+| **Rare Stack Combination** — AI agents + Python data engineering + Power BI + Office automation covers cutting-edge to "makes the legacy stuff finally work." | **Automation-First Mindset** — I don't build tools that assist manual work. I build systems that eliminate it. |
 
 ---
 
 ## 📬 Let's Talk
 
-I'm open to roles where I can build intelligent automation systems that create real, measurable business value.
+Open to roles where I can build intelligent automation systems that create real, measurable business value.
 
 **Strong fit for organizations in:**
 
@@ -473,7 +310,7 @@ I'm open to roles where I can build intelligent automation systems that create r
 🟢 &nbsp;**Financial Services & Due Diligence** — models and records analysis at scale  
 🟢 &nbsp;**Investigative & Intelligence Platforms** — entity resolution, public records, skip trace  
 🟢 &nbsp;**Enterprise Automation** — replacing manual workflows in Microsoft-heavy environments  
-🟢 &nbsp;**Executive Productivity** — tools that make leadership faster, not just better-informed  
+🟢 &nbsp;**Executive Productivity** — tools that make leadership faster and better-informed  
 
 ---
 
