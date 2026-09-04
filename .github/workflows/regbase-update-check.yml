@@ -1,0 +1,143 @@
+# Weekly RegBase regulatory change check.
+#
+# Runs regbase/tools/check_updates.py against the source registry, commits the
+# report + updated watch state, and opens an issue when something actually
+# changed. Uses only the built-in GITHUB_TOKEN — no secrets are required or
+# accepted here.
+name: RegBase update check
+
+on:
+  schedule:
+    # Mondays 13:00 UTC (~06:00 US Mountain). Cron on GitHub is always UTC.
+    - cron: '0 13 * * 1'
+  workflow_dispatch:
+    inputs:
+      cadence:
+        description: 'Cadence filter (weekly/monthly/quarterly), or "due" to sweep whatever has elapsed'
+        required: false
+        default: 'due'
+        type: string
+      limit:
+        description: 'Max URLs to check (0 = no limit)'
+        required: false
+        default: '0'
+        type: string
+
+# Minimum needed: read the code, commit the report back, file an issue.
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: regbase-update-check
+  cancel-in-progress: false
+
+jobs:
+  check:
+    name: Check for regulatory changes
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        # Single source of truth for pins: regbase/tools/requirements.txt.
+        # Do not duplicate versions here — they drift.
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r regbase/tools/requirements.txt
+
+      - name: Verify normalization fixtures
+        # If normalization regresses, every page looks changed and the issue
+        # this workflow files becomes noise. Fail before that happens.
+        run: python3 regbase/tools/tests/test_normalize.py
+
+      - name: Run change check
+        id: check
+        env:
+          REGBASE_UA: "RegBase/1.0 (+https://github.com/${{ github.repository }}; regulatory research)"
+          CADENCE: ${{ inputs.cadence || 'due' }}
+          LIMIT: ${{ inputs.limit || '0' }}
+        run: |
+          set -euo pipefail
+          ARGS=(--delay 2)
+          if [ "${CADENCE}" = "due" ]; then
+            ARGS+=(--due)
+          elif [ -n "${CADENCE}" ]; then
+            ARGS+=(--cadence "${CADENCE}")
+          fi
+          if [ "${LIMIT}" != "0" ]; then
+            ARGS+=(--limit "${LIMIT}")
+          fi
+          python3 regbase/tools/check_updates.py "${ARGS[@]}"
+          TODAY="$(date -u +%F)"
+          REPORT="regbase/corpus/reports/updates_${TODAY}.md"
+          JSON="regbase/corpus/reports/updates_${TODAY}.json"
+          echo "report=${REPORT}" >> "$GITHUB_OUTPUT"
+          echo "json=${JSON}" >> "$GITHUB_OUTPUT"
+          echo "today=${TODAY}" >> "$GITHUB_OUTPUT"
+          CHANGED="$(python3 -c "import json,sys; print(json.load(open(sys.argv[1]))['counts']['changed'])" "${JSON}")"
+          ERRORS="$(python3 -c "import json,sys; print(json.load(open(sys.argv[1]))['counts']['errors'])" "${JSON}")"
+          echo "changed=${CHANGED}" >> "$GITHUB_OUTPUT"
+          echo "errors=${ERRORS}" >> "$GITHUB_OUTPUT"
+          echo "::notice::${CHANGED} changed, ${ERRORS} errors"
+
+      - name: Run agenda early-warning scan
+        continue-on-error: true
+        env:
+          REGBASE_UA: "RegBase/1.0 (+https://github.com/${{ github.repository }}; regulatory research)"
+        run: python3 regbase/tools/watch_agendas.py --days 45 --delay 2
+
+      - name: Upload reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: regbase-reports-${{ steps.check.outputs.today }}
+          path: regbase/corpus/reports/
+          if-no-files-found: warn
+          retention-days: 90
+
+      - name: Commit reports and watch state
+        run: |
+          set -euo pipefail
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add regbase/corpus/reports regbase/corpus/watch_state.json regbase/corpus/watch_text 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "chore(regbase): weekly update check ${{ steps.check.outputs.today }} (${{ steps.check.outputs.changed }} changed)"
+            git push
+          fi
+
+      - name: Open an issue when regulations changed
+        if: steps.check.outputs.changed != '0'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPORT: ${{ steps.check.outputs.report }}
+          TODAY: ${{ steps.check.outputs.today }}
+          CHANGED: ${{ steps.check.outputs.changed }}
+        run: |
+          set -euo pipefail
+          BODY="$(mktemp)"
+          {
+            echo "\`check_updates.py\` detected **${CHANGED}** changed regulatory document(s) on ${TODAY}."
+            echo
+            echo "Full report (with unified diffs): [\`${REPORT}\`](${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/blob/${GITHUB_REF_NAME}/${REPORT})"
+            echo "Run: [workflow run](${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID})"
+            echo
+            echo "---"
+            echo
+            # Cap the body: GitHub issues reject very large payloads.
+            head -c 55000 "${REPORT}"
+          } > "${BODY}"
+          gh issue create \
+            --title "RegBase: ${CHANGED} regulatory change(s) detected ${TODAY}" \
+            --body-file "${BODY}"

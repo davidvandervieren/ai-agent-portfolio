@@ -133,6 +133,45 @@ check("json substantive change detected",
       normalize_body(j1, "application/json", "u.json").sha256
       != normalize_body(j3, "application/json", "u.json").sha256)
 
+# --------------------------------------------------------------------------
+# 5. PDF: hash the extracted TEXT, not the bytes — producers rewrite
+#    /CreationDate, /ModDate and /ID on every regeneration
+# --------------------------------------------------------------------------
+
+def _mkpdf(text: str, stamp: str) -> bytes:
+    objs = [
+        b"<< /Type /Catalog /Pages 2 0 R >>",
+        b"<< /Type /Pages /Kids [3 0 R] /Count 1 >>",
+        b"<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R "
+        b"/Resources << /Font << /F1 5 0 R >> >> >>",
+    ]
+    stream = b"BT /F1 12 Tf 72 720 Td (" + text.encode() + b") Tj ET"
+    objs.append(b"<< /Length %d >>\nstream\n" % len(stream) + stream + b"\nendstream")
+    objs.append(b"<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>")
+    objs.append(("<< /CreationDate (D:%s) /ModDate (D:%s) >>" % (stamp, stamp)).encode())
+    out, offs = b"%PDF-1.4\n", []
+    for i, o in enumerate(objs, 1):
+        offs.append(len(out))
+        out += b"%d 0 obj\n" % i + o + b"\nendobj\n"
+    xref = len(out)
+    out += b"xref\n0 %d\n0000000000 65535 f \n" % (len(objs) + 1)
+    for off in offs:
+        out += b"%010d 00000 n \n" % off
+    out += (b"trailer\n<< /Size %d /Root 1 0 R /Info 6 0 R /ID [<AB12> <%s>] >>\n"
+            b"startxref\n%d\n%%%%EOF" % (len(objs) + 1, stamp.encode()[:4], xref))
+    return out
+
+
+pdf_a = _mkpdf("Setback of 500 feet required for gathering lines.", "20260904030405")
+pdf_b = _mkpdf("Setback of 500 feet required for gathering lines.", "20260911091200")
+pdf_c = _mkpdf("Setback of 2000 feet required for gathering lines.", "20260904030405")
+pa, pb, pc = (normalize_body(x, "application/pdf", "https://x.gov/rule.pdf")
+              for x in (pdf_a, pdf_b, pdf_c))
+check("pdf bytes differ after re-export (test is meaningful)", pdf_a != pdf_b)
+check("pdf normalizer extracts text", pa.normalizer == "pdf_text", pa.normalizer)
+check("re-exported identical PDF hashes identically", pa.sha256 == pb.sha256)
+check("substantive PDF edit moves the hash", pc.sha256 != pa.sha256)
+
 print()
 if FAILURES:
     print(f"{len(FAILURES)} FAILURE(S): " + ", ".join(FAILURES))

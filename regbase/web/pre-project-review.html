@@ -419,6 +419,8 @@ svg.leaflet-zoom-animated{will-change:transform}
   .permit,.jcard,section.sec{break-inside:avoid;page-break-inside:avoid}
   #map{height:3.2in;break-inside:avoid}
   .leaflet-control-zoom{display:none!important}
+  .clearance select{display:none!important}
+  .clearance{border-width:2pt}
   a[href]::after{content:""}
   .stats{border:1px solid #999}
 }
@@ -595,8 +597,9 @@ svg.leaflet-zoom-animated{will-change:transform}
     </section>
 
     <section class="sec">
-      <h2>Non-Muni Agencies <em>state, federal, tribal &amp; district requirements</em><span class="spacer"></span><button class="btn tiny no-print" id="btn-add-agency">+ Agency</button></h2>
+      <h2>Non-Muni Agencies <em>state, federal, tribal &amp; district requirements</em> <em id="agency-count" class="no-print"></em><span class="spacer"></span><button class="btn tiny no-print" id="btn-add-agency">+ Agency</button></h2>
       <div class="sec-body">
+        <div class="note no-print">Every state / federal / tribal record the registry matches to this scope is listed. Untick anything that does not apply &mdash; unticked rows are left out of the Word, print and JSON exports.</div>
         <div class="tablewrap"><table id="agency-table">
           <thead><tr>
             <th style="min-width:150px">Agency</th>
@@ -1257,6 +1260,23 @@ function nonMuniRecords(){
 function agencyRowsFromRegistry(){
   const rows = [];
   nonMuniRecords().forEach(rec => {
+    /* A record with authority but no permit list still has to reach the form —
+       as an empty, flagged row. Inventing a requirement here would be worse
+       than showing the reviewer that the registry has nothing on file. */
+    if (!(rec.permits || []).length){
+      rows.push({
+        _id: uid(), _key: rec.id + "::(no permit list)", _src: "registry", _source_id: rec.id, _edited: false,
+        _level: rec.level, _include: true, _docSuggestions: docSuggestions(rec),
+        agency: rec.agency || rec.name,
+        requirement: "",
+        cost: "", estimated_time: "", required_docs: [],
+        citation: citationFor(rec),
+        citation_url: rec.landing_url || "",
+        confidence: rec.confidence || "unverified",
+        notes: "Registry places this agency in scope but carries no permit list — confirm requirements directly with the agency."
+      });
+      return;
+    }
     (rec.permits || []).forEach(p => {
       const notes = [];
       if (p.form_id) notes.push("Form: " + p.form_id);
@@ -1977,7 +1997,10 @@ function agencyRow(a){
         a._src === "registry" ? confBadge(a.confidence) : null
       ])
     ]),
-    el("td", null, mk("requirement", {textarea: true})),
+    el("td", null, [
+      mk("requirement", {textarea: true, needs: true, placeholder: "no requirement on file — confirm"}),
+      mk("notes", {textarea: true, placeholder: "notes"})
+    ]),
     el("td", null, mk("cost", {mono: true, needs: true, placeholder: "confirm"})),
     el("td", null, mk("estimated_time", {needs: true, placeholder: "confirm"})),
     el("td", null, docsEditor(a)),
@@ -2026,3 +2049,545 @@ function renderOther(){
     }}, "×")]));
   });
 }
+
+/* ==========================================================================
+   14. Static field binding + whole-page render
+   ========================================================================== */
+function bindStaticFields(){
+  $$("[data-path]").forEach(node => {
+    const path = node.getAttribute("data-path");
+    const v = getPath(R, path);
+    node.value = (v === null || v === undefined) ? "" : String(v);
+    node.addEventListener("input", () => {
+      setPath(R, path, node.value);
+      if (path === "clearance") updateClearance();
+      save();
+    });
+    node.addEventListener("change", () => {
+      setPath(R, path, node.value);
+      if (path === "clearance") updateClearance();
+      save();
+    });
+  });
+}
+function refreshStaticFields(){
+  $$("[data-path]").forEach(node => {
+    const v = getPath(R, node.getAttribute("data-path"));
+    node.value = (v === null || v === undefined) ? "" : String(v);
+  });
+  $("#sc-acre").checked   = !!R.scope.disturbance_over_1_acre;
+  $("#sc-water").checked  = !!R.scope.water_or_wetland_crossing;
+  $("#sc-federal").checked= !!R.scope.federal_or_tribal_surface;
+  $("#sc-sour").checked   = !!R.scope.sour_gas_h2s;
+  $("#sc-hp").value       = R.scope.compression_hp || "";
+  $("#sc-ins").value      = R.scope.in_service_date || "";
+  $("#row-width").value   = R.scope.row_width_ft || 50;
+  $$("#scope-applies input").forEach(cb => { cb.checked = (R.scope.applies_to || []).indexOf(cb.value) >= 0; });
+  updateClearance();
+}
+function updateClearance(){
+  const c = R.clearance || "NOT CLEARED TO CONSTRUCT";
+  $("#clearance").setAttribute("data-c", c);
+  $("#clearance-word").textContent = c;
+  const sel = $("#sel-clearance");
+  if (sel.value !== c) sel.value = c;
+}
+function renderProvenance(){
+  const bits = [];
+  bits.push("generated " + new Date().toLocaleString());
+  if (R.provenance.registry_commit) bits.push(R.provenance.registry_commit);
+  if (R.provenance.sources_consulted.length) bits.push(R.provenance.sources_consulted.length + " registry records consulted");
+  $("#prov-line").textContent = bits.join(" · ");
+}
+function renderAll(){
+  renderStats();
+  drawMap();
+  renderJurisdictions();
+  renderAgencies();
+  renderOther();
+  refreshStaticFields();
+  renderProvenance();
+}
+
+/* ==========================================================================
+   15. Scope panel
+   ========================================================================== */
+function buildScopePanel(){
+  const box = $("#scope-applies"); clear(box);
+  APPLIES_TO.forEach(pair => {
+    const cb = el("input", {type: "checkbox", value: pair[0]});
+    cb.checked = (R.scope.applies_to || []).indexOf(pair[0]) >= 0;
+    cb.addEventListener("change", () => {
+      const arr = R.scope.applies_to || (R.scope.applies_to = []);
+      const i = arr.indexOf(pair[0]);
+      if (cb.checked && i < 0) arr.push(pair[0]);
+      if (!cb.checked && i >= 0) arr.splice(i, 1);
+      syncRegistry(); renderJurisdictions(); renderAgencies(); save();
+    });
+    box.appendChild(el("label", {class: "chk"}, [cb, el("span", {text: pair[1]})]));
+  });
+  const scopeToggle = (id, key) => {
+    $(id).addEventListener("change", () => {
+      R.scope[key] = $(id).checked;
+      syncRegistry(); renderJurisdictions(); renderAgencies(); save();
+    });
+  };
+  scopeToggle("#sc-acre", "disturbance_over_1_acre");
+  scopeToggle("#sc-water", "water_or_wetland_crossing");
+  scopeToggle("#sc-federal", "federal_or_tribal_surface");
+  scopeToggle("#sc-sour", "sour_gas_h2s");
+  $("#sc-hp").addEventListener("input", () => { R.scope.compression_hp = $("#sc-hp").value; save(); });
+  $("#sc-ins").addEventListener("input", () => { R.scope.in_service_date = $("#sc-ins").value; save(); });
+  $("#row-width").addEventListener("input", () => {
+    R.scope.row_width_ft = Number($("#row-width").value) || 50;
+    recomputeGeometry(false);
+    save();
+  });
+}
+
+/* ==========================================================================
+   16. Geometry ingest
+   ========================================================================== */
+function recomputeGeometry(prefill){
+  STATS = computeStats(FEATURES, R.scope.row_width_ft);
+  if (STATS){
+    R.project_map.bbox = STATS.bbox.map(v => Number(v.toFixed(6)));
+    R.project_map.centroid = [Number(STATS.centroid[0].toFixed(6)), Number(STATS.centroid[1].toFixed(6))];
+    R.project_map.total_length_ft = Math.round(STATS.lengthFt);
+    R.project_map.disturbance_acres_est = Number(STATS.disturbanceAcres.toFixed(2));
+    R.project_map.features_geojson = toGeoJSON(FEATURES);
+    if (prefill){
+      R.background.lat_long = STATS.centroid[1].toFixed(6) + ", " + STATS.centroid[0].toFixed(6);
+      R.background.linear_ft_of_line = num(STATS.lengthFt);
+      if (STATS.disturbanceAcres > 1 && !R.scope.disturbance_over_1_acre) R.scope.disturbance_over_1_acre = true;
+    }
+  }
+  renderStats();
+  drawMap();
+  refreshStaticFields();
+}
+async function ingestFile(file){
+  const st = $("#kml-status");
+  setStatus(st, "", "Reading " + file.name + "…");
+  try{
+    let text = null;
+    const isKmz = /\.kmz$/i.test(file.name);
+    if (isKmz){
+      text = await readKmz(await file.arrayBuffer(), file.name);
+    } else {
+      const buf = await file.arrayBuffer();
+      const u8 = new Uint8Array(buf.slice(0, 2));
+      if (u8[0] === 0x50 && u8[1] === 0x4b) text = await readKmz(buf, file.name);   /* PK: zip in disguise */
+      else text = new TextDecoder("utf-8").decode(buf);
+    }
+    const res = parseKmlText(text, file.name);
+    FEATURES = res.features;
+    R.project_map.kml_source_file = file.name;
+    recomputeGeometry(true);
+    $("#btn-lookup").disabled = false;
+    const w = res.warnings.length ? " · " + res.warnings.length + " warning(s)" : "";
+    setStatus(st, res.warnings.length ? "warn" : "ok", FEATURES.length + " feature(s) from " + file.name + w);
+    if (res.warnings.length) console.warn("KML warnings:", res.warnings);
+    renderAll();
+    save();
+  }catch(err){
+    setStatus(st, "bad", err.message);
+  }
+}
+function loadSample(){
+  /* Clearly-labelled demo geometry so the tool opens in a working state.
+     Not a real project and not real survey data. */
+  const route = [[-104.7820,40.3790],[-104.7605,40.3944],[-104.7318,40.4051],[-104.7002,40.4238]];
+  const pad = [[-104.7838,40.3778],[-104.7808,40.3778],[-104.7808,40.3800],[-104.7838,40.3800],[-104.7838,40.3778]];
+  FEATURES = [
+    {id: uid(), name: "SAMPLE 12in gathering line", description: "demo geometry", folder: "SAMPLE (not a real project)", type: "line", coords: route},
+    {id: uid(), name: "SAMPLE compressor pad", description: "demo geometry", folder: "SAMPLE (not a real project)", type: "polygon", rings: [pad]},
+    {id: uid(), name: "SAMPLE meter skid", description: "demo geometry", folder: "SAMPLE (not a real project)", type: "point", coords: [[-104.7002,40.4238]]}
+  ];
+  R.project_map.kml_source_file = "SAMPLE — demo geometry, not a real project";
+  if (!R.background.project_name) R.background.project_name = "SAMPLE — demo route (replace before use)";
+  recomputeGeometry(true);
+  $("#btn-lookup").disabled = false;
+  setStatus($("#kml-status"), "warn", "3 demo features loaded — replace with a real KML");
+  renderAll();
+  save();
+}
+
+/* ==========================================================================
+   17. Persistence
+   ========================================================================== */
+const save = debounce(function(){
+  try{
+    const payload = JSON.stringify({savedAt: new Date().toISOString(), review: R, features: toGeoJSON(FEATURES)});
+    const ok = lsSet(LS_KEY, payload);
+    $("#autosave").textContent = ok ? " · autosaved " + new Date().toLocaleTimeString() : " · autosave unavailable in this browser";
+  }catch(e){
+    $("#autosave").textContent = " · autosave failed (" + e.message + ")";
+  }
+}, 600);
+
+function offerRestore(){
+  const raw = lsGet(LS_KEY);
+  if (!raw) return;
+  let saved = null;
+  try { saved = JSON.parse(raw); } catch(e){ return; }
+  if (!saved || !saved.review) return;
+  const when = saved.savedAt ? new Date(saved.savedAt).toLocaleString() : "an earlier session";
+  const name = (saved.review.background && saved.review.background.project_name) || "(unnamed project)";
+  $("#restore-msg").textContent = "Saved draft found — " + name + ", " + when + ".";
+  $("#restore").hidden = false;
+  $("#btn-restore").onclick = () => {
+    R = mergeReview(saved.review);
+    FEATURES = saved.features ? fromGeoJSON(saved.features) : [];
+    $("#restore").hidden = true;
+    reHydrate();
+  };
+  $("#btn-discard").onclick = () => { $("#restore").hidden = true; };
+}
+function mergeReview(inc){
+  const base = blankReview();
+  const out = Object.assign({}, base, inc || {});
+  out.background = Object.assign({}, base.background, inc.background || {});
+  out.background.new_equipment = Object.assign({}, base.background.new_equipment, (inc.background || {}).new_equipment || {});
+  out.confidentiality = Object.assign({}, base.confidentiality, inc.confidentiality || {});
+  out.project_map = Object.assign({}, base.project_map, inc.project_map || {});
+  out.regulatory = Object.assign({}, base.regulatory, inc.regulatory || {});
+  out.regulatory.municipalities_involved = out.regulatory.municipalities_involved || [];
+  out.regulatory.jurisdictions = (out.regulatory.jurisdictions || []).map(j => {
+    j._id = j._id || uid();
+    j._records = j._records || [];
+    j.permits = (j.permits || []).map(p => {
+      p._id = p._id || uid();
+      p._source_id = p._source_id || p.source_id || "";
+      p._src = p._src || (p._source_id ? "registry" : "manual");
+      p._key = p._key || ((p._source_id || "manual") + "::" + (p.name || uid()));
+      p._edited = true;                      /* imported content is never auto-removed */
+      p._docSuggestions = p._docSuggestions || [];
+      p.required_docs = p.required_docs || [];
+      return p;
+    });
+    j.timing_narrative = j.timing_narrative || [];
+    return j;
+  });
+  out.stakeholder = Object.assign({}, base.stakeholder, inc.stakeholder || {});
+  out.non_muni_agencies = (out.non_muni_agencies || []).map(a => {
+    a._id = a._id || uid();
+    a._source_id = a._source_id || a.source_id || "";
+    a._src = a._src || (a._source_id ? "registry" : "manual");
+    a._key = a._key || ((a._source_id || "manual") + "::" + (a.requirement || uid()));
+    a._edited = true;
+    a._include = a._include !== false;
+    a._docSuggestions = a._docSuggestions || [];
+    a.required_docs = a.required_docs || [];
+    return a;
+  });
+  out.other = out.other || [];
+  out.scope = Object.assign({}, base.scope, inc.scope || {});
+  out.provenance = Object.assign({}, base.provenance, inc.provenance || {});
+  return out;
+}
+function reHydrate(){
+  STATS = computeStats(FEATURES, R.scope.row_width_ft);
+  $("#btn-lookup").disabled = !FEATURES.length;
+  if (FEATURES.length) setStatus($("#kml-status"), "ok", FEATURES.length + " feature(s) restored");
+  if (SOURCES.length) syncRegistry();
+  renderAll();
+  save();
+}
+
+/* ==========================================================================
+   18. Exports
+   ========================================================================== */
+function intOrDrop(v){
+  const n = parseInt(String(v).replace(/[^0-9-]/g, ""), 10);
+  return isFinite(n) ? n : undefined;
+}
+function exportObject(){
+  R.regulatory.jurisdictions.forEach(j => j.permits.forEach(p => { if (p._source_id) p.source_id = p._source_id; }));
+  R.non_muni_agencies.forEach(a => { if (a._source_id) a.source_id = a._source_id; });
+
+  const keep = R.non_muni_agencies.filter(a => a._include !== false);
+  const tmp = Object.assign({}, R, {non_muni_agencies: keep});
+  const out = JSON.parse(JSON.stringify(tmp, (k, v) => (k.charAt(0) === "_" ? undefined : v)));
+
+  out.provenance = out.provenance || {};
+  out.provenance.generated_at = new Date().toISOString();
+  out.provenance.generator = "pre-project-review.html (Form 1.9 drafting tool)";
+
+  const missing = [];
+  (out.regulatory.jurisdictions || []).forEach(j => {
+    j.permits = (j.permits || []).map(p => {
+      p.required_docs = (p.required_docs || []).filter(d => String(d).trim());
+      if (!String(p.cost || "").trim()) missing.push(j.name + " · " + p.name + " · cost");
+      if (!String(p.estimated_time || "").trim()) missing.push(j.name + " · " + p.name + " · estimated time");
+      if (p.confidence === "unverified") missing.push(j.name + " · " + p.name + " · UNVERIFIED registry confidence");
+      return p;
+    });
+  });
+  (out.non_muni_agencies || []).forEach(a => {
+    a.required_docs = (a.required_docs || []).filter(d => String(d).trim());
+    if (!String(a.cost || "").trim()) missing.push(a.agency + " · cost");
+    if (a.confidence === "unverified") missing.push(a.agency + " · UNVERIFIED registry confidence");
+  });
+  out.provenance.human_verification_required = missing;
+  out.provenance.sources_consulted = R.provenance.sources_consulted || [];
+
+  out.other = (out.other || []).filter(t => String(t).trim());
+  out.regulatory.municipalities_involved = (out.regulatory.municipalities_involved || []).filter(t => String(t).trim());
+  const sc = intOrDrop(out.stakeholder.stakeholder_count);
+  if (sc === undefined) delete out.stakeholder.stakeholder_count; else out.stakeholder.stakeholder_count = sc;
+  const nr = intOrDrop(out.stakeholder.notice_radius_ft);
+  if (nr === undefined) delete out.stakeholder.notice_radius_ft; else out.stakeholder.notice_radius_ft = nr;
+  return out;
+}
+function baseFileName(){
+  let d = String(R.review_date || "").match(/^(\d{1,2})\/(\d{1,2})\/(\d{2,4})$/);
+  let stamp;
+  if (d){
+    stamp = String(d[3]).slice(-2) + String(d[1]).padStart(2,"0") + String(d[2]).padStart(2,"0");
+  } else {
+    const n = new Date();
+    stamp = String(n.getFullYear()).slice(2) + String(n.getMonth()+1).padStart(2,"0") + String(n.getDate()).padStart(2,"0");
+  }
+  const code = CLEARANCE_CODE[R.clearance] || "NTCLRD";
+  return "Form_1.9_Pre_Project_Review__" + stamp + "__" + slug(R.background.project_name) + "__" + code;
+}
+function exportJSON(){
+  download(baseFileName() + ".json", "application/json", JSON.stringify(exportObject(), null, 2));
+}
+function exportGeoJSON(){
+  if (!FEATURES.length){ alert("No geometry loaded."); return; }
+  download(slug(R.background.project_name || "project") + "_features.geojson", "application/geo+json",
+    JSON.stringify(toGeoJSON(FEATURES), null, 2));
+}
+
+/* Word: an HTML document with the MSO namespace headers. Word opens these
+   natively and keeps the heading/table structure. */
+function wordHTML(){
+  const d = exportObject();
+  const s = STATS;
+  const rows = (arr) => arr.map(r => "<tr>" + r.map(c => "<td>" + c + "</td>").join("") + "</tr>").join("");
+  const lab = (k, v) => "<tr><td class=k>" + esc(k) + "</td><td>" + esc(v || "") + "</td></tr>";
+  const ul = (arr) => (arr && arr.length) ? "<ul>" + arr.map(x => "<li>" + esc(x) + "</li>").join("") + "</ul>" : "<p class=miss>[none recorded]</p>";
+  const val = v => String(v || "").trim() ? esc(v) : '<span class=miss>[confirm]</span>';
+
+  let h = "";
+  h += "<h1>Pre-Project Regulatory Review</h1>";
+  h += "<p class=sub>Form 1.9 &nbsp;|&nbsp; Review Date: " + esc(d.review_date) + " &nbsp;|&nbsp; Reviewer: " + esc(d.reviewer) + "</p>";
+  h += '<p class="clr ' + (CLEARANCE_CODE[d.clearance] || "NTCLRD") + '">' + esc(d.clearance) + "</p>";
+
+  h += "<h2>Background <i>(To be Completed by Commercial/PM)</i></h2><table class=g>";
+  h += lab("Project #", d.background.project_number);
+  h += lab("Project Name", d.background.project_name);
+  h += lab("Lat/Long", d.background.lat_long);
+  h += lab("New Line (Y/N)", d.background.new_line);
+  h += lab("Linear Ft of Line", d.background.linear_ft_of_line);
+  h += lab("Oil and/or Gas", d.background.oil_and_or_gas);
+  h += lab("New Equipment — Compressors", d.background.new_equipment.compressors);
+  h += lab("New Equipment — Meter Skids", d.background.new_equipment.meter_skids);
+  h += lab("New Equipment — Cathodic", d.background.new_equipment.cathodic);
+  h += lab("New Equipment — Other", d.background.new_equipment.other);
+  h += "</table>";
+
+  h += "<h2>Confidentiality</h2><table class=g>";
+  h += lab("Can this be discussed with parties inside WES (Y/N)", d.confidentiality.inside_wes);
+  h += lab("Can this be discussed with parties outside WES (Y/N)", d.confidentiality.outside_wes);
+  h += lab("Agreements", d.confidentiality.agreements);
+  h += "</table>";
+
+  h += "<h2>Project Map</h2>";
+  h += "<p>Source geometry: " + esc(d.project_map.kml_source_file || "not supplied") + ". Map figure to be inserted from the project GIS / Google Earth.</p>";
+  if (s){
+    h += "<table class=g>";
+    h += lab("Centroid (lat, long)", s.centroid[1].toFixed(6) + ", " + s.centroid[0].toFixed(6));
+    h += lab("Bounding box (W,S,E,N)", s.bbox.map(v => v.toFixed(5)).join(", "));
+    h += lab("Total line length", num(s.lengthFt) + " ft (" + s.lengthMi.toFixed(2) + " mi)");
+    h += lab("Features", s.counts.total + " (" + s.counts.line + " line, " + s.counts.polygon + " polygon, " + s.counts.point + " point)");
+    h += lab("Estimated disturbance", s.disturbanceAcres.toFixed(2) + " acres (line length × " + s.rowWidthFt + " ft assumed ROW + mapped polygons)");
+    h += "</table>";
+    h += "<table class=b><tr><th>Feature</th><th>Type</th><th>Length (ft)</th><th>Area (ac)</th></tr>";
+    h += rows(FEATURES.map(f => [
+      esc(f.name), f.type,
+      f._lengthM ? num(f._lengthM * FT_PER_M) : "—",
+      f._areaM2 ? (f._areaM2 * FT_PER_M * FT_PER_M / SQFT_PER_ACRE).toFixed(2) : "—"
+    ]));
+    h += "</table>";
+  }
+
+  h += "<h2>Regulatory</h2>";
+  h += "<p><b>Municipality(s) Involved:</b> " + (d.regulatory.municipalities_involved.length ? esc(d.regulatory.municipalities_involved.join(", ")) : '<span class=miss>[none identified]</span>') + "</p>";
+  (d.regulatory.jurisdictions || []).forEach(j => {
+    h += "<h3>" + esc(j.name) + " <span class=lvl>[" + esc(j.level || "") + "]</span></h3>";
+    if (j.basis) h += "<p class=basis>" + esc(j.basis) + "</p>";
+    if (!(j.permits || []).length) h += "<p class=miss>[no permits recorded — research required]</p>";
+    (j.permits || []).forEach(p => {
+      h += "<p class=pn><b>" + esc(p.name) + "</b>" + (p.aka ? " " + esc(p.aka) : "") +
+           (p.confidence === "unverified" ? " <span class=unv>[UNVERIFIED — confirm with jurisdiction]</span>" : "") + "</p>";
+      if (p.trigger) h += "<p class=trg>" + esc(p.trigger) + "</p>";
+      h += "<table class=g>";
+      h += "<tr><td class=k>Cost</td><td>" + val(p.cost) + (p.cost_basis ? " <i>(" + esc(p.cost_basis) + ")</i>" : "") + "</td></tr>";
+      h += "<tr><td class=k>Estimated Time</td><td>" + val(p.estimated_time) + "</td></tr>";
+      if (p.decision_body) h += lab("Decision Body", p.decision_body);
+      h += "<tr><td class=k>Required Docs</td><td>" + ul(p.required_docs) + "</td></tr>";
+      h += "<tr><td class=k>Citation</td><td>" + esc(p.citation || "") + (p.citation_url ? " — " + esc(p.citation_url) : "") + "</td></tr>";
+      if (p.notes) h += lab("Notes", p.notes);
+      h += "</table>";
+    });
+    (j.timing_narrative || []).forEach(t => {
+      h += "<p class=pn><b>Timing — " + esc(t.phase) + "</b>" + (t.duration ? " (" + esc(t.duration) + ")" : "") + "</p>";
+      h += ul(t.steps);
+    });
+  });
+
+  h += "<h2>Non-Muni Agencies</h2>";
+  if (!(d.non_muni_agencies || []).length) h += "<p class=miss>[none recorded]</p>";
+  else {
+    h += "<table class=b><tr><th>Agency</th><th>Requirement</th><th>Cost</th><th>Estimated Time</th><th>Required Docs</th><th>Citation</th></tr>";
+    h += rows(d.non_muni_agencies.map(a => [
+      esc(a.agency),
+      val(a.requirement) + (a.confidence === "unverified" ? " <span class=unv>[UNVERIFIED]</span>" : "") +
+        (a.notes ? "<br><i>" + esc(a.notes) + "</i>" : ""),
+      val(a.cost), val(a.estimated_time), ul(a.required_docs),
+      esc(a.citation || "") + (a.citation_url ? "<br>" + esc(a.citation_url) : "")
+    ]));
+    h += "</table>";
+  }
+
+  h += "<h2>Stakeholder</h2><table class=g>";
+  h += lab("Stakeholders within 1,000 ft (Y/N)", d.stakeholder.stakeholders_within_1000ft);
+  h += lab("Stakeholder count", d.stakeholder.stakeholder_count);
+  h += lab("Mailer Required (Y/N)", d.stakeholder.mailer_required);
+  h += lab("Notice radius (ft)", d.stakeholder.notice_radius_ft);
+  h += lab("Neighborhood meeting required", d.stakeholder.neighborhood_meeting_required);
+  h += lab("Notes", d.stakeholder.notes);
+  h += "</table>";
+
+  h += "<h2>Other</h2>" + ul(d.other);
+  h += '<p class=foot>Draft only — every requirement must be confirmed with the jurisdiction before it drives a schedule or budget.</p>';
+
+  const css = "body{font-family:Calibri,Arial,sans-serif;font-size:11pt;color:#000}" +
+    "h1{font-size:18pt;margin:0 0 2pt}h2{font-size:13pt;border-bottom:1px solid #000;margin:16pt 0 6pt}" +
+    "h3{font-size:11.5pt;margin:10pt 0 3pt}p{margin:3pt 0}.sub{font-size:9.5pt;color:#444}" +
+    ".clr{font-size:14pt;font-weight:bold;border:2pt solid #B00;color:#B00;padding:5pt;text-align:center;letter-spacing:1pt}" +
+    ".clr.CLRD{border-color:#1A6539;color:#1A6539}.clr.CLRDCOND{border-color:#7D5300;color:#7D5300}.clr.PNDG{border-color:#555;color:#555}" +
+    "table{border-collapse:collapse;margin:4pt 0;width:100%}" +
+    "table.g td{border:0.5pt solid #bbb;padding:3pt 5pt;vertical-align:top;font-size:10pt}" +
+    "table.g td.k{width:32%;background:#f0f0f0;font-weight:bold}" +
+    "table.b th{border:0.5pt solid #888;background:#e8e8e8;padding:3pt 5pt;font-size:9.5pt;text-align:left}" +
+    "table.b td{border:0.5pt solid #bbb;padding:3pt 5pt;font-size:9.5pt;vertical-align:top}" +
+    "ul{margin:2pt 0 2pt 16pt;padding:0}li{font-size:10pt}" +
+    ".miss{color:#7D5300;font-style:italic}.unv{color:#B00;font-weight:bold;font-size:9pt}" +
+    ".lvl{font-size:9pt;color:#555;font-weight:normal}.basis{font-size:9.5pt;color:#444;font-style:italic}" +
+    ".pn{margin-top:6pt}.trg{font-size:10pt;color:#333}" +
+    ".foot{margin-top:18pt;border-top:1pt solid #000;padding-top:5pt;font-size:9pt;color:#B00;font-weight:bold}";
+
+  return '<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">' +
+    '<head><meta charset="utf-8"><title>' + esc(baseFileName()) + "</title>" +
+    "<!--[if gte mso 9]><xml><w:WordDocument><w:View>Print</w:View><w:Zoom>100</w:Zoom><w:DoNotOptimizeForBrowser/></w:WordDocument></xml><![endif]-->" +
+    "<style>@page{size:8.5in 11in;margin:0.75in}" + css + "</style></head><body>" + h + "</body></html>";
+}
+function exportWord(){
+  download(baseFileName() + ".doc", "application/msword", "\uFEFF" + wordHTML());
+}
+
+/* ==========================================================================
+   19. Wiring + init
+   ========================================================================== */
+function wire(){
+  const drop = $("#drop"), fileKml = $("#file-kml");
+  drop.addEventListener("click", () => fileKml.click());
+  drop.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " "){ e.preventDefault(); fileKml.click(); } });
+  fileKml.addEventListener("change", () => { if (fileKml.files[0]) ingestFile(fileKml.files[0]); fileKml.value = ""; });
+  ["dragenter","dragover"].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.add("over"); }));
+  ["dragleave","drop"].forEach(ev => drop.addEventListener(ev, e => { e.preventDefault(); drop.classList.remove("over"); }));
+  drop.addEventListener("drop", e => { if (e.dataTransfer.files[0]) ingestFile(e.dataTransfer.files[0]); });
+  window.addEventListener("dragover", e => e.preventDefault());
+  window.addEventListener("drop", e => {
+    e.preventDefault();
+    if (e.dataTransfer && e.dataTransfer.files && e.dataTransfer.files[0]) ingestFile(e.dataTransfer.files[0]);
+  });
+
+  $("#btn-sample").addEventListener("click", loadSample);
+  $("#btn-lookup").addEventListener("click", runLookup);
+
+  $("#btn-registry-pick").addEventListener("click", () => $("#file-registry").click());
+  $("#file-registry").addEventListener("change", async () => {
+    const f = $("#file-registry").files[0];
+    if (!f) return;
+    try { useRegistry(JSON.parse(await f.text()), f.name); }
+    catch(err){ setStatus($("#reg-status"), "bad", "Could not read " + f.name + ": " + err.message); }
+    $("#file-registry").value = "";
+  });
+
+  $("#sel-state").addEventListener("change", refreshCountySelect);
+  $("#sel-county").addEventListener("change", refreshMuniSelect);
+  $("#btn-add-jur").addEventListener("click", () => {
+    const st = $("#sel-state").value, co = $("#sel-county").value, mu = $("#sel-muni").value;
+    if (!st){ alert("Pick a state first."); return; }
+    if (mu) addJurisdiction({level: "municipal", state: st, county: co, municipality: mu, name: mu, basis: "Added manually."});
+    else if (co) addJurisdiction({level: "county", state: st, county: co, name: co + " County", basis: "Added manually."});
+    else addJurisdiction({level: "state", state: st, name: st + " (state)", basis: "Added manually."});
+    syncRegistry(); renderAll(); save();
+  });
+  $("#btn-add-blank-jur").addEventListener("click", () => {
+    addJurisdiction({level: "county", state: "", name: "", basis: ""});
+    renderJurisdictions(); save();
+  });
+  $("#btn-add-agency").addEventListener("click", () => { R.non_muni_agencies.push(blankAgency()); renderAgencies(); save(); });
+  $("#btn-add-other").addEventListener("click", () => {
+    R.other.push(""); renderOther();
+    const inputs = $$("#other-list input"); if (inputs.length) inputs[inputs.length-1].focus();
+  });
+
+  $("#btn-json").addEventListener("click", exportJSON);
+  $("#btn-geojson").addEventListener("click", exportGeoJSON);
+  $("#btn-word").addEventListener("click", exportWord);
+  $("#btn-print").addEventListener("click", () => window.print());
+  $("#btn-import").addEventListener("click", () => $("#file-json").click());
+  $("#file-json").addEventListener("change", async () => {
+    const f = $("#file-json").files[0];
+    if (!f) return;
+    try{
+      const inc = JSON.parse(await f.text());
+      R = mergeReview(inc);
+      FEATURES = (inc.project_map && inc.project_map.features_geojson) ? fromGeoJSON(inc.project_map.features_geojson) : [];
+      reHydrate();
+      setStatus($("#kml-status"), FEATURES.length ? "ok" : "warn",
+        FEATURES.length ? FEATURES.length + " feature(s) from imported review" : "imported review has no geometry");
+    }catch(err){ alert("Could not import that JSON: " + err.message); }
+    $("#file-json").value = "";
+  });
+  $("#btn-clear").addEventListener("click", () => {
+    if (!confirm("Clear the whole review, including the saved draft in this browser?")) return;
+    lsDel(LS_KEY);
+    R = blankReview(); FEATURES = []; STATS = null;
+    $("#btn-lookup").disabled = true;
+    setStatus($("#kml-status"), "", "No geometry loaded");
+    if (SOURCES.length) syncRegistry();
+    renderAll();
+  });
+  $("#btn-theme").addEventListener("click", () => {
+    const cur = document.documentElement.getAttribute("data-theme");
+    const next = cur === "dark" ? "light" : cur === "light" ? "" : "dark";
+    if (next) document.documentElement.setAttribute("data-theme", next);
+    else document.documentElement.removeAttribute("data-theme");
+    lsSet(LS_THEME, next);
+    if (map) setTimeout(() => { try { map.invalidateSize(); } catch(e){} }, 60);
+  });
+}
+
+function init(){
+  const th = lsGet(LS_THEME);
+  if (th === "dark" || th === "light") document.documentElement.setAttribute("data-theme", th);
+  buildScopePanel();
+  bindStaticFields();
+  wire();
+  renderAll();
+  offerRestore();
+  loadRegistry();
+}
+if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
+else init();
+
+})();
+</script>

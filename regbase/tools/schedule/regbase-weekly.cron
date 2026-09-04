@@ -1,0 +1,49 @@
+# RegBase change-monitoring — crontab fragment
+# ---------------------------------------------------------------------------
+# Install with:   crontab regbase/tools/schedule/regbase-weekly.cron
+# or append to an existing crontab:
+#                 crontab -l | cat - regbase/tools/schedule/regbase-weekly.cron | crontab -
+# Verify with:    crontab -l
+#
+# Every job needs outbound HTTPS. Adjust REGBASE_HOME to wherever the repo is
+# checked out, and REGBASE_UA to a real contact address — the sites being
+# polled are public agencies and a contactable User-Agent is basic courtesy
+# (and keeps you off their block lists).
+# ---------------------------------------------------------------------------
+
+SHELL=/bin/bash
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+REGBASE_HOME=/opt/regbase
+REGBASE_UA=RegBase/1.0 (oil-and-gas regulatory research; contact: you@example.com)
+MAILTO=""
+
+# --- WEEKLY -----------------------------------------------------------------
+# Mondays 06:15 local. Sources explicitly marked `update_watch.cadence: weekly`.
+# (Nothing in the registry declares `weekly` yet, so this is a no-op until a
+#  source opts in; --due below is the line that does real weekly work.)
+15 6 * * 1  cd $REGBASE_HOME && python3 regbase/tools/check_updates.py --cadence weekly --delay 2 >> corpus/logs/check_updates.log 2>&1
+
+# Mondays 06:45 — everything whose own cadence has actually elapsed since the
+# last check. This is the practical weekly sweep: weekly sources every week,
+# monthly ones every ~30 days, quarterly ones every ~90, all self-pacing.
+45 6 * * 1  cd $REGBASE_HOME && python3 regbase/tools/check_updates.py --due --delay 2 >> corpus/logs/check_updates.log 2>&1
+
+# Mondays 08:00 — pending-change early warning (agendas/packets/minutes).
+0 8 * * 1   cd $REGBASE_HOME && python3 regbase/tools/watch_agendas.py --days 45 --delay 2 >> corpus/logs/watch_agendas.log 2>&1
+
+# --- MONTHLY ----------------------------------------------------------------
+# 1st of the month, 03:00 — full sweep, every watched URL regardless of cadence.
+# Slower delay because it is several hundred requests; it has all night.
+0 3 1 * *   cd $REGBASE_HOME && python3 regbase/tools/check_updates.py --delay 3 >> corpus/logs/check_updates.log 2>&1
+
+# 1st of the month, 07:00 — monthly-cadence sources only (redundant with the
+# full sweep above; keep one or the other, not both, on a bandwidth budget).
+0 7 1 * *   cd $REGBASE_HOME && python3 regbase/tools/check_updates.py --cadence monthly --delay 2 >> corpus/logs/check_updates.log 2>&1
+
+# --- QUARTERLY --------------------------------------------------------------
+# 1st of Jan/Apr/Jul/Oct, 04:00 — quarterly-cadence regulatory sweep.
+0 4 1 1,4,7,10 *  cd $REGBASE_HOME && python3 regbase/tools/check_updates.py --cadence quarterly --delay 3 >> corpus/logs/check_updates.log 2>&1
+
+# 1st of Jan/Apr/Jul/Oct, 05:00 — rebuild the people research queue.
+# This writes a work queue only; it collects nothing and makes no network calls.
+0 5 1 1,4,7,10 *  cd $REGBASE_HOME && python3 regbase/tools/refresh_people.py --stale-days 90 >> corpus/logs/refresh_people.log 2>&1
