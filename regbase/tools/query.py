@@ -96,6 +96,12 @@ def citation(row: sqlite3.Row | dict) -> str:
     root = (get("citation_root") or "").strip()
     heading = (get("heading_path") or "").strip()
     tail = heading.split(" > ")[-1].strip() if heading else ""
+    if root and tail:
+        # avoid 'Weld County Code Ch. 23 Weld County Code Ch. 23-3-40'
+        if tail.startswith(root):
+            root = ""
+        elif root.startswith(tail):
+            tail = ""
     left = " ".join(x for x in (root, tail) if x).strip()
     if not left:
         left = (get("jurisdiction_label") or "").strip() or "uncited"

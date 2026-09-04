@@ -1,0 +1,33 @@
+# RegBase toolchain — pinned to the versions verified in this environment
+# (python 3.11, Debian-based image). Install with:
+#
+#     python3 -m pip install -r regbase/tools/requirements.txt
+#
+# On Debian/Ubuntu images with an externally-managed Python you may need:
+#     python3 -m pip install --break-system-packages -r regbase/tools/requirements.txt
+#
+# NOTE (Debian images): a broken/mismatched cffi<->cryptography pair shows up as
+#   "ImportError: ... _cffi_backend" or an AttributeError deep inside requests'
+#   TLS stack, usually right when harvest.py opens its first HTTPS connection.
+#   Repair it with:
+#     pip install --break-system-packages --upgrade cffi cryptography
+#   (cryptography ships its own vendored OpenSSL; do not downgrade system OpenSSL.)
+
+# registry + schema
+PyYAML==6.0.1                # sources/*.yaml, people/*.yaml           (common.py)
+jsonschema==4.26.0           # schemas/*.json validation               (common.validate_sources)
+
+# harvest
+requests==2.33.1             # polite HTTP with conditional GET        (common.Fetcher)
+
+# extraction
+beautifulsoup4==4.15.0       # HTML -> text/headings                   (extract.py)
+lxml==6.1.3                  # fast parser backend for bs4 + KML/XML   (extract.py, kmlgeo.py)
+pypdf==6.16.2                # PDF text + outline/bookmarks            (extract.py)
+pdfminer.six==20260107       # fallback PDF layout extraction          (extract.py)
+
+# geometry (KML/scope -> jurisdictions)
+shapely==2.1.2               # geometry ops, buffers, intersections    (kmlgeo.py)
+pyproj==3.7.2                # CRS transforms (WGS84 <-> state plane)  (kmlgeo.py)
+
+# build_index.py and query.py need only PyYAML + the stdlib (sqlite3 with FTS5).

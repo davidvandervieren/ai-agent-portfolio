@@ -1115,3 +1115,484 @@ function fromGeoJSON(gj){
   });
   return out;
 }
+
+/* ==========================================================================
+   5. Registry: load, index, match
+   ========================================================================== */
+function setStatus(node, cls, text){
+  clear(node);
+  node.appendChild(el("span", {class: "dot " + (cls || "")}));
+  node.appendChild(el("span", {text: text}));
+}
+function useRegistry(json, label){
+  REG = json;
+  SOURCES = Array.isArray(json) ? json : (json.sources || []);
+  if (!SOURCES.length) throw new Error("No source records found in " + label + ".");
+  R.provenance.registry_commit = (json && json.generated_at) ? "registry.json generated " + json.generated_at : "";
+  setStatus($("#reg-status"), "ok",
+    SOURCES.length + " records · " + ((json && json.generated_at) ? String(json.generated_at).slice(0,10) : label));
+  $("#btn-registry-pick").hidden = true;
+  buildManualSelectors();
+  syncRegistry();
+  renderAll();
+}
+async function loadRegistry(){
+  setStatus($("#reg-status"), "", "Loading registry…");
+  try{
+    const res = await fetch("registry.json", {cache: "no-store"});
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    useRegistry(await res.json(), "registry.json");
+  }catch(err){
+    setStatus($("#reg-status"), "bad", "registry.json not loaded");
+    const p = $("#reg-status").parentNode;
+    if (!$("#reg-help")){
+      p.insertBefore(el("div", {class: "note bad", id: "reg-help", text:
+        "The page could not fetch registry.json (" + err.message + "). This is normal when the page is opened from a file:// path — pick the file below, or serve the folder over http. Manual entry works either way."}),
+        $("#btn-registry-pick"));
+    }
+    $("#btn-registry-pick").hidden = false;
+  }
+}
+
+/* Jurisdiction-name normaliser: strips the words that differ between TIGER,
+   the registry and how a PM writes it. "City of Aurora" == "Aurora city". */
+function normJ(s){
+  return String(s || "").toLowerCase()
+    .replace(/\b(county|parish|borough|municipality|city and county of|city of|town of|village of|city|town|village|cdp)\b/g, " ")
+    .replace(/[^a-z0-9]+/g, "");
+}
+function recCounties(rec){
+  return String(rec.county || "").split("/").map(s => normJ(s)).filter(Boolean);
+}
+function prettyPlace(tigerName){
+  const s = String(tigerName || "").trim();
+  let m = s.match(/^(.*)\s+(city and borough|city|town|village|borough|municipality)$/i);
+  if (m){
+    const w = m[2].toLowerCase();
+    const cap = w === "city" ? "City" : w === "town" ? "Town" : w === "village" ? "Village" : w[0].toUpperCase() + w.slice(1);
+    return cap + " of " + m[1];
+  }
+  m = s.match(/^(.*)\s+CDP$/i);
+  if (m) return m[1] + " (CDP)";
+  return s;
+}
+function citationFor(rec){
+  const d = (rec.documents || []).find(x => x.citation_root);
+  return d ? d.citation_root : (rec.name || "");
+}
+function docSuggestions(rec){
+  return (rec.documents || [])
+    .filter(d => ["form", "application_packet", "checklist", "fee_schedule"].indexOf(d.doc_type) >= 0)
+    .slice(0, 6)
+    .map(d => ({title: d.title, url: d.url}));
+}
+function scopeMatch(rec){
+  const want = R.scope.applies_to || [];
+  const has = rec.applies_to || [];
+  if (!want.length) return true;
+  if (!has.length) return true;
+  return has.some(a => want.indexOf(a) >= 0);
+}
+function permitFromRegistry(rec, p){
+  const notes = [];
+  if (p.form_id) notes.push("Form: " + p.form_id);
+  if (p.notes) notes.push(p.notes);
+  if (p.public_hearing) notes.push("Public hearing required.");
+  return {
+    _id: uid(), _key: rec.id + "::" + p.name, _src: "registry", _source_id: rec.id, _edited: false,
+    _record_name: rec.name, _agency: rec.agency || "",
+    _docSuggestions: docSuggestions(rec),
+    name: p.name || "",
+    aka: "",
+    trigger: p.trigger || "",
+    cost: p.fee || "",
+    cost_basis: "",
+    estimated_time: p.typical_timeline_days || "",
+    required_docs: [],
+    citation: citationFor(rec),
+    citation_url: p.form_url || rec.landing_url || "",
+    decision_body: p.decision_body || "",
+    public_hearing: !!p.public_hearing,
+    notes: notes.join(" — "),
+    confidence: rec.confidence || "unverified"
+  };
+}
+function blankPermit(){
+  return {
+    _id: uid(), _key: "manual::" + uid(), _src: "manual", _source_id: "", _edited: true,
+    _docSuggestions: [],
+    name: "", aka: "", trigger: "", cost: "", cost_basis: "", estimated_time: "",
+    required_docs: [], citation: "", citation_url: "", decision_body: "",
+    public_hearing: false, notes: "", confidence: "unverified"
+  };
+}
+/* Registry records that govern one resolved jurisdiction. */
+function recordsFor(j){
+  if (!SOURCES.length) return [];
+  if (j.level === "municipal"){
+    const target = normJ(j.municipality || j.name);
+    return SOURCES.filter(r => r.level === "municipal" && r.state === j.state && normJ(r.municipality) === target);
+  }
+  if (j.level === "county"){
+    const target = normJ(j.county || j.name);
+    return SOURCES.filter(r => r.level === "county" && r.state === j.state && recCounties(r).indexOf(target) >= 0);
+  }
+  if (j.level === "state") return SOURCES.filter(r => r.level === "state" && r.state === j.state);
+  if (j.level === "federal") return SOURCES.filter(r => r.level === "federal");
+  return [];
+}
+/* State / federal / tribal records that belong in Non-Muni Agencies. */
+function nonMuniRecords(){
+  if (!SOURCES.length) return [];
+  const states = {};
+  R.regulatory.jurisdictions.forEach(j => { if (j.state) states[j.state] = true; });
+  const stateList = Object.keys(states);
+  return SOURCES.filter(r => {
+    if (r.level === "state")   return stateList.indexOf(r.state) >= 0 && scopeMatch(r);
+    if (r.level === "federal") return scopeMatch(r);
+    if (r.level === "tribal")  return R.scope.federal_or_tribal_surface && scopeMatch(r);
+    return false;
+  });
+}
+function agencyRowsFromRegistry(){
+  const rows = [];
+  nonMuniRecords().forEach(rec => {
+    (rec.permits || []).forEach(p => {
+      const notes = [];
+      if (p.form_id) notes.push("Form: " + p.form_id);
+      if (p.notes) notes.push(p.notes);
+      rows.push({
+        _id: uid(), _key: rec.id + "::" + p.name, _src: "registry", _source_id: rec.id, _edited: false,
+        _level: rec.level, _include: true, _docSuggestions: docSuggestions(rec),
+        agency: rec.agency || rec.name,
+        requirement: (p.name || "") + (p.trigger ? " — " + p.trigger : ""),
+        cost: p.fee || "",
+        estimated_time: p.typical_timeline_days || "",
+        required_docs: [],
+        citation: citationFor(rec),
+        citation_url: p.form_url || rec.landing_url || "",
+        confidence: rec.confidence || "unverified",
+        notes: notes.join(" — ")
+      });
+    });
+  });
+  return rows;
+}
+function blankAgency(){
+  return {
+    _id: uid(), _key: "manual::" + uid(), _src: "manual", _source_id: "", _edited: true,
+    _level: "", _include: true, _docSuggestions: [],
+    agency: "", requirement: "", cost: "", estimated_time: "", required_docs: [],
+    citation: "", citation_url: "", confidence: "unverified", notes: ""
+  };
+}
+
+/* Reconcile registry-sourced content with the current scope, without ever
+   throwing away something the user touched (_edited) or typed (_src manual). */
+function syncRegistry(){
+  if (!SOURCES.length) return;
+
+  R.regulatory.jurisdictions.forEach(j => {
+    const recs = recordsFor(j).filter(scopeMatch);
+    const filteredOut = recordsFor(j).length - recs.length;
+    j._records = recs.map(r => ({id: r.id, name: r.name, agency: r.agency, url: r.landing_url, confidence: r.confidence}));
+    j._filtered_out = filteredOut;
+    if (!j.source_id && recs.length) j.source_id = recs[0].id;
+
+    const desired = {};
+    recs.forEach(rec => (rec.permits || []).forEach(p => { desired[rec.id + "::" + p.name] = {rec: rec, p: p}; }));
+
+    j.permits = j.permits.filter(p => p._src !== "registry" || p._edited || desired[p._key]);
+    const have = {};
+    j.permits.forEach(p => { have[p._key] = true; });
+    Object.keys(desired).forEach(k => {
+      if (!have[k]) j.permits.push(permitFromRegistry(desired[k].rec, desired[k].p));
+    });
+  });
+
+  const wanted = agencyRowsFromRegistry();
+  const wantedByKey = {};
+  wanted.forEach(w => { wantedByKey[w._key] = w; });
+  R.non_muni_agencies = R.non_muni_agencies.filter(a => a._src !== "registry" || a._edited || wantedByKey[a._key]);
+  const haveA = {};
+  R.non_muni_agencies.forEach(a => { haveA[a._key] = true; });
+  wanted.forEach(w => { if (!haveA[w._key]) R.non_muni_agencies.push(w); });
+
+  const consulted = {};
+  R.regulatory.jurisdictions.forEach(j => (j._records || []).forEach(r => { consulted[r.id] = true; }));
+  R.non_muni_agencies.forEach(a => { if (a._source_id) consulted[a._source_id] = true; });
+  R.provenance.sources_consulted = Object.keys(consulted).sort();
+}
+
+/* ==========================================================================
+   6. Manual jurisdiction selectors
+   ========================================================================== */
+function buildManualSelectors(){
+  const selState = $("#sel-state");
+  const states = Array.from(new Set(SOURCES.filter(r => r.state && r.state !== "US").map(r => r.state))).sort();
+  clear(selState);
+  selState.appendChild(el("option", {value: "", text: "State…"}));
+  states.forEach(s => selState.appendChild(el("option", {value: s, text: s})));
+  refreshCountySelect();
+}
+function refreshCountySelect(){
+  const st = $("#sel-state").value;
+  const sel = $("#sel-county");
+  clear(sel);
+  sel.appendChild(el("option", {value: "", text: "County…"}));
+  if (st){
+    const set = {};
+    SOURCES.filter(r => r.state === st && r.county).forEach(r => {
+      String(r.county).split("/").forEach(c => { c = c.trim(); if (c) set[c] = true; });
+    });
+    Object.keys(set).sort().forEach(c => sel.appendChild(el("option", {value: c, text: c + " County"})));
+  }
+  refreshMuniSelect();
+}
+function refreshMuniSelect(){
+  const st = $("#sel-state").value, co = $("#sel-county").value;
+  const sel = $("#sel-muni");
+  clear(sel);
+  sel.appendChild(el("option", {value: "", text: "Municipality (optional)…"}));
+  if (st){
+    SOURCES.filter(r => r.state === st && r.level === "municipal" && r.municipality)
+      .filter(r => !co || recCounties(r).indexOf(normJ(co)) >= 0)
+      .map(r => r.municipality)
+      .filter((v,i,a) => a.indexOf(v) === i)
+      .sort()
+      .forEach(m => sel.appendChild(el("option", {value: m, text: m})));
+  }
+}
+
+/* ==========================================================================
+   7. Jurisdiction add / remove
+   ========================================================================== */
+function makeJurisdiction(o){
+  return {
+    _id: uid(), _auto: !!o.auto, _records: [], _filtered_out: 0,
+    name: o.name || "",
+    source_id: "",
+    level: o.level || "county",
+    basis: o.basis || "",
+    state: o.state || "",
+    county: o.county || "",
+    municipality: o.municipality || "",
+    permits: [],
+    timing_narrative: []
+  };
+}
+function jurKey(j){ return [j.level, j.state, normJ(j.county), normJ(j.municipality)].join("|"); }
+function addJurisdiction(o){
+  const j = makeJurisdiction(o);
+  const key = jurKey(j);
+  const dup = R.regulatory.jurisdictions.find(x => jurKey(x) === key);
+  if (dup) return dup;
+  R.regulatory.jurisdictions.push(j);
+  if (j.name && R.regulatory.municipalities_involved.indexOf(j.name) < 0) R.regulatory.municipalities_involved.push(j.name);
+  return j;
+}
+function removeJurisdiction(id){
+  const i = R.regulatory.jurisdictions.findIndex(j => j._id === id);
+  if (i < 0) return;
+  const nm = R.regulatory.jurisdictions[i].name;
+  R.regulatory.jurisdictions.splice(i, 1);
+  const k = R.regulatory.municipalities_involved.indexOf(nm);
+  if (k >= 0) R.regulatory.municipalities_involved.splice(k, 1);
+  syncRegistry(); renderAll(); save();
+}
+
+/* ==========================================================================
+   8. TIGERweb jurisdiction lookup (US Census, public ArcGIS REST)
+   ========================================================================== */
+const TIGER_BASE = "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb";
+const TIGER_SERVICES = ["State_County/MapServer", "Places_CouSub_ConCity_SubMCD/MapServer"];
+let tigerLayers = null;
+
+async function getJSON(url, ms){
+  const ctl = ("AbortController" in window) ? new AbortController() : null;
+  const t = setTimeout(() => { if (ctl) ctl.abort(); }, ms || 15000);
+  try{
+    const res = await fetch(url, ctl ? {signal: ctl.signal} : undefined);
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const j = await res.json();
+    if (j && j.error) throw new Error(j.error.message || "service error");
+    return j;
+  } finally { clearTimeout(t); }
+}
+/* Layer ids differ between TIGERweb services and releases, so they are
+   discovered at runtime by layer name rather than hard-coded. */
+async function discoverTigerLayers(){
+  if (tigerLayers) return tigerLayers;
+  const found = {};
+  for (let i = 0; i < TIGER_SERVICES.length; i++){
+    const svc = TIGER_SERVICES[i];
+    let j = null;
+    try { j = await getJSON(TIGER_BASE + "/" + svc + "?f=json", 15000); } catch(e){ continue; }
+    (j.layers || []).forEach(L => {
+      if (L.subLayerIds) return;
+      const n = String(L.name || "").trim().toLowerCase();
+      if (!found.counties && n === "counties") found.counties = {svc: svc, id: L.id};
+      if (!found.states   && n === "states")   found.states   = {svc: svc, id: L.id};
+      if (!found.places   && n === "incorporated places") found.places = {svc: svc, id: L.id};
+      if (!found.places2  && /place/.test(n) && !/census designated/.test(n)) found.places2 = {svc: svc, id: L.id};
+    });
+  }
+  if (!found.places && found.places2) found.places = found.places2;
+  tigerLayers = found;
+  return found;
+}
+async function queryLayerPoint(layer, lon, lat){
+  const geom = encodeURIComponent(JSON.stringify({x: lon, y: lat, spatialReference: {wkid: 4326}}));
+  const url = TIGER_BASE + "/" + layer.svc + "/" + layer.id + "/query?f=json&geometry=" + geom +
+    "&geometryType=esriGeometryPoint&inSR=4326&spatialRel=esriSpatialRelIntersects" +
+    "&outFields=*&returnGeometry=false";
+  const j = await getJSON(url, 15000);
+  return (j.features || []).map(f => f.attributes || {});
+}
+/* No-layer-id fallback: identify against the whole service and read layerName. */
+async function identifyService(svc, lon, lat){
+  const geom = encodeURIComponent(JSON.stringify({x: lon, y: lat, spatialReference: {wkid: 4326}}));
+  const ext = [lon - 0.004, lat - 0.004, lon + 0.004, lat + 0.004].join(",");
+  const url = TIGER_BASE + "/" + svc + "/identify?f=json&geometry=" + geom +
+    "&geometryType=esriGeometryPoint&sr=4326&layers=all&tolerance=2&mapExtent=" + ext +
+    "&imageDisplay=500,500,96&returnGeometry=false";
+  const j = await getJSON(url, 15000);
+  return (j.results || []).map(r => ({layerName: String(r.layerName || ""), attrs: r.attributes || {}}));
+}
+function attrsToPlace(a){
+  const stFips = String(a.STATE || a.STATEFP || "").padStart(2, "0");
+  return {
+    name: a.NAME || a.BASENAME || "",
+    base: a.BASENAME || a.NAME || "",
+    stateAbbr: FIPS_STATE[stFips] || a.STUSAB || "",
+    geoid: a.GEOID || ""
+  };
+}
+async function lookupPoint(lon, lat){
+  const out = {county: null, place: null};
+  const L = await discoverTigerLayers();
+  if (L.counties || L.places){
+    if (L.counties){
+      try { const r = await queryLayerPoint(L.counties, lon, lat); if (r.length) out.county = attrsToPlace(r[0]); } catch(e){}
+    }
+    if (L.places){
+      try { const r = await queryLayerPoint(L.places, lon, lat); if (r.length) out.place = attrsToPlace(r[0]); } catch(e){}
+    }
+    if (out.county || out.place) return out;
+  }
+  for (let i = 0; i < TIGER_SERVICES.length; i++){
+    let res = [];
+    try { res = await identifyService(TIGER_SERVICES[i], lon, lat); } catch(e){ continue; }
+    res.forEach(r => {
+      const n = r.layerName.toLowerCase();
+      if (!out.county && n === "counties") out.county = attrsToPlace(r.attrs);
+      if (!out.place && /incorporated place/.test(n)) out.place = attrsToPlace(r.attrs);
+    });
+  }
+  return out;
+}
+/* Walk a line, emitting a point at the start, every `spacing` metres, and at the end. */
+function densify(coords, spacing){
+  const pts = [];
+  if (!coords.length) return pts;
+  pts.push(coords[0]);
+  let carry = 0;
+  for (let i = 1; i < coords.length; i++){
+    const a = coords[i-1], b = coords[i];
+    const seg = haversine(a, b);
+    if (seg <= 0) continue;
+    let t = spacing - carry;
+    while (t < seg){
+      const f = t / seg;
+      pts.push([a[0] + (b[0]-a[0]) * f, a[1] + (b[1]-a[1]) * f]);
+      t += spacing;
+    }
+    carry = (carry + seg) % spacing;
+  }
+  pts.push(coords[coords.length-1]);
+  return pts;
+}
+function samplePoints(features){
+  let pts = [];
+  features.forEach(f => {
+    if (f.type === "point") pts.push(f.coords[0]);
+    else if (f.type === "line") pts = pts.concat(densify(f.coords, SAMPLE_SPACING_M));
+    else if (f.type === "polygon"){
+      const ring = f.rings[0];
+      let sx = 0, sy = 0;
+      ring.forEach(c => { sx += c[0]; sy += c[1]; });
+      pts.push([sx / ring.length, sy / ring.length]);
+      pts = pts.concat(densify(ring.concat([ring[0]]), SAMPLE_SPACING_M * 2));
+    }
+  });
+  /* de-duplicate on a ~0.005 degree grid (roughly 500 m) */
+  const seen = {}, uniq = [];
+  pts.forEach(p => {
+    const k = p[0].toFixed(3) + "," + p[1].toFixed(3);
+    if (!seen[k]){ seen[k] = true; uniq.push(p); }
+  });
+  if (uniq.length <= MAX_SAMPLES) return uniq;
+  const stride = uniq.length / MAX_SAMPLES;
+  const capped = [];
+  for (let i = 0; i < MAX_SAMPLES; i++) capped.push(uniq[Math.floor(i * stride)]);
+  capped[capped.length-1] = uniq[uniq.length-1];
+  return capped;
+}
+
+async function runLookup(){
+  if (!FEATURES.length){ alert("Load a KML or KMZ first, or add jurisdictions manually."); return; }
+  const btn = $("#btn-lookup"), bar = $("#lookup-bar"), st = $("#lookup-status");
+  const pts = samplePoints(FEATURES);
+  btn.disabled = true; bar.hidden = false;
+  const counties = {}, places = {};
+  let done = 0, failures = 0;
+
+  for (let i = 0; i < pts.length; i++){
+    setStatus(st, "", "Sampling point " + (i+1) + " of " + pts.length + "…");
+    bar.firstElementChild.style.width = Math.round(i / pts.length * 100) + "%";
+    let r = null;
+    try { r = await lookupPoint(pts[i][0], pts[i][1]); } catch(e){ failures++; continue; }
+    if (!r || (!r.county && !r.place)) { failures++; continue; }
+    done++;
+    if (r.county && r.county.stateAbbr){
+      const k = r.county.stateAbbr + "|" + (r.county.base || r.county.name);
+      counties[k] = (counties[k] || 0) + 1;
+    }
+    if (r.place && r.place.stateAbbr){
+      const k = r.place.stateAbbr + "|" + (r.place.base || r.place.name) + "|" + r.place.name;
+      places[k] = (places[k] || 0) + 1;
+    }
+  }
+  bar.firstElementChild.style.width = "100%";
+  btn.disabled = false;
+  setTimeout(() => { bar.hidden = true; bar.firstElementChild.style.width = "0"; }, 900);
+
+  const stamp = new Date().toISOString().slice(0,10);
+  let added = 0;
+  Object.keys(counties).forEach(k => {
+    const p = k.split("|");
+    addJurisdiction({
+      auto: true, level: "county", state: p[0], county: p[1],
+      name: p[1] + " County",
+      basis: "TIGERweb " + stamp + ": " + counties[k] + " of " + pts.length + " sampled geometry points fall in unincorporated/within this county."
+    });
+    added++;
+  });
+  Object.keys(places).forEach(k => {
+    const p = k.split("|");
+    addJurisdiction({
+      auto: true, level: "municipal", state: p[0], county: "", municipality: p[1],
+      name: prettyPlace(p[2]),
+      basis: "TIGERweb " + stamp + ": " + places[k] + " of " + pts.length + " sampled geometry points fall inside these city limits."
+    });
+    added++;
+  });
+
+  if (!done){
+    setStatus(st, "bad", "TIGERweb lookup failed on every sample — add jurisdictions manually below.");
+  } else {
+    setStatus(st, failures ? "warn" : "ok",
+      added + " jurisdiction(s) from " + done + "/" + pts.length + " points" + (failures ? " (" + failures + " failed)" : ""));
+  }
+  syncRegistry(); renderAll(); save();
+}
