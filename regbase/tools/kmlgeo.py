@@ -303,7 +303,7 @@ def main() -> int:
                                      for x, y in sample_points(feats)]
     print(json.dumps(summary, indent=2))
     if args.geojson:
-        args.geojson.write_text(json.dumps(to_geojson(feats), indent=1))
+        args.geojson.write_text(json.dumps(to_geojson(feats), indent=1), encoding="utf-8")
         print(f"\nwrote {args.geojson}", flush=True)
     return 0
 

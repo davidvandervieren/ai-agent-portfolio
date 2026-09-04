@@ -146,7 +146,7 @@ def store(source: common.Source, doc_title: str, doc_type: str, citation_root: s
                 sha256=digest,
                 fetched_at=common.now_iso(),
             )
-            txt_path.write_text(f"{header}\n\n{text}\n")
+            txt_path.write_text(f"{header}\n\n{text}\n", encoding="utf-8")
 
     return {
         "key": f"{source.id}::{url}",

@@ -488,7 +488,7 @@ def load_people() -> list[dict]:
     path = common.PEOPLE_DIR / "people.seed.yaml"
     if not path.exists() or yaml is None:
         return []
-    data = yaml.safe_load(path.read_text()) or []
+    data = yaml.safe_load(path.read_text(encoding="utf-8")) or []
     if isinstance(data, dict):
         data = data.get("people") or data.get("records") or []
     return [r for r in data if isinstance(r, dict) and r.get("id")]

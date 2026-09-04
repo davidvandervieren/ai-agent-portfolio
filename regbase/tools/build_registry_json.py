@@ -63,7 +63,7 @@ def main() -> None:
     bundle = build()
     out = Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text(json.dumps(bundle, indent=args.indent, ensure_ascii=False))
+    out.write_text(json.dumps(bundle, indent=args.indent, ensure_ascii=False), encoding="utf-8")
     c = bundle["counts"]
     print(f"wrote {out}  sources={c['sources']} documents={c['documents']} permits={c['permits']}")
     print("  by state:", c["by_state"])

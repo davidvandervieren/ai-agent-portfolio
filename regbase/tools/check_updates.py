@@ -435,7 +435,7 @@ def normalize_body(raw: bytes, content_type: str = "", url: str = "") -> Normali
 def load_state() -> dict:
     if WATCH_STATE.exists():
         try:
-            data = json.loads(WATCH_STATE.read_text())
+            data = json.loads(WATCH_STATE.read_text(encoding="utf-8"))
             if isinstance(data, dict) and "urls" in data:
                 return data
         except json.JSONDecodeError:
@@ -448,7 +448,7 @@ def save_state(state: dict) -> None:
     state["updated"] = now_iso()
     WATCH_STATE.parent.mkdir(parents=True, exist_ok=True)
     tmp = WATCH_STATE.with_suffix(".json.tmp")
-    tmp.write_text(json.dumps(state, indent=1, sort_keys=True) + "\n")
+    tmp.write_text(json.dumps(state, indent=1, sort_keys=True) + "\n", encoding="utf-8")
     tmp.replace(WATCH_STATE)
 
 
@@ -740,7 +740,7 @@ def check_target(t: Target, fetcher, state: dict, write_snapshots: bool = True) 
         baseline_path, baseline_kind = find_text_baseline(t.url, t.source_ids, t.titles)
         if baseline_path:
             try:
-                old = baseline_path.read_text(errors="replace")
+                old = baseline_path.read_text(encoding="utf-8", errors="replace")
             except OSError:
                 old = ""
             if old:
@@ -754,7 +754,7 @@ def check_target(t: Target, fetcher, state: dict, write_snapshots: bool = True) 
 
     if write_snapshots and norm.diff_text:
         SNAPSHOT_DIR.mkdir(parents=True, exist_ok=True)
-        snapshot_path(t.url).write_text(norm.diff_text)
+        snapshot_path(t.url).write_text(norm.diff_text, encoding="utf-8")
 
     return res
 
@@ -1125,8 +1125,8 @@ def main(argv: Optional[list[str]] = None) -> int:
     md_path = reports / f"updates_{today}.md"
     js_path = reports / f"updates_{today}.json"
     payload = render_json(results, args, elapsed)
-    md_path.write_text(render_markdown(results, args, elapsed))
-    js_path.write_text(json.dumps(payload, indent=1) + "\n")
+    md_path.write_text(render_markdown(results, args, elapsed), encoding="utf-8")
+    js_path.write_text(json.dumps(payload, indent=1) + "\n", encoding="utf-8")
 
     if args.json:
         print(json.dumps(payload, indent=1))

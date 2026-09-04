@@ -5,6 +5,7 @@ import hashlib
 import json
 import os
 import re
+import sys
 import time
 import unicodedata
 from dataclasses import dataclass, asdict, field
@@ -33,6 +34,28 @@ SCHEMA_DIR = ROOT / "schemas"
 
 for _d in (CORPUS_DIR, RAW_DIR, TEXT_DIR):
     _d.mkdir(parents=True, exist_ok=True)
+
+
+def _use_utf8_console() -> None:
+    """Force UTF-8 on stdout/stderr.
+
+    On Windows, Python writes to the console using the locale code page
+    (cp1252 for a US install), so any character outside it - a section symbol,
+    an em dash, a curly quote lifted from ordinance text - renders as mojibake
+    or raises UnicodeEncodeError mid-report. Regulatory text is full of them.
+
+    errors="replace" is deliberate: a console that still cannot represent a
+    character should print a placeholder, never abort a harvest run.
+    """
+    for stream in (sys.stdout, sys.stderr):
+        try:
+            if stream and getattr(stream, "encoding", "").lower() not in ("utf-8", "utf8"):
+                stream.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass          # non-reconfigurable stream (pipe, IDE capture): carry on
+
+
+_use_utf8_console()
 
 
 def now_iso() -> str:
@@ -114,7 +137,7 @@ def load_sources(paths: Optional[Iterable[Path]] = None) -> list[Source]:
     seen: dict[str, str] = {}
     for p in paths:
         try:
-            data = yaml.safe_load(p.read_text()) or {}
+            data = yaml.safe_load(p.read_text(encoding="utf-8")) or {}
         except yaml.YAMLError as exc:
             raise SystemExit(f"{p}: invalid YAML: {exc}") from exc
         records = data.get("sources") or []
@@ -141,10 +164,10 @@ def validate_sources() -> list[str]:
     """Validate every source file against schemas/source.schema.json."""
     import jsonschema
 
-    schema = json.loads((SCHEMA_DIR / "source.schema.json").read_text())
+    schema = json.loads((SCHEMA_DIR / "source.schema.json").read_text(encoding="utf-8"))
     errors: list[str] = []
     for p in sorted(SOURCES_DIR.glob("*.yaml")):
-        data = yaml.safe_load(p.read_text()) or {}
+        data = yaml.safe_load(p.read_text(encoding="utf-8")) or {}
         for rec in data.get("sources") or []:
             try:
                 jsonschema.validate(rec, schema)
@@ -160,7 +183,7 @@ def manifest_read() -> dict[str, dict]:
     """key -> record. key is source_id::url."""
     out: dict[str, dict] = {}
     if MANIFEST.exists():
-        for line in MANIFEST.read_text().splitlines():
+        for line in MANIFEST.read_text(encoding="utf-8").splitlines():
             line = line.strip()
             if not line:
                 continue
@@ -174,7 +197,7 @@ def manifest_read() -> dict[str, dict]:
 
 def manifest_append(rec: dict) -> None:
     MANIFEST.parent.mkdir(parents=True, exist_ok=True)
-    with MANIFEST.open("a") as fh:
+    with MANIFEST.open("a", encoding="utf-8") as fh:
         fh.write(json.dumps(rec, sort_keys=True) + "\n")
 
 
@@ -182,7 +205,7 @@ def manifest_compact() -> int:
     """Rewrite manifest keeping only the newest record per key."""
     recs = manifest_read()
     lines = [json.dumps(r, sort_keys=True) for _, r in sorted(recs.items())]
-    MANIFEST.write_text("\n".join(lines) + ("\n" if lines else ""))
+    MANIFEST.write_text("\n".join(lines) + ("\n" if lines else ""), encoding="utf-8")
     return len(lines)
 
 

@@ -149,7 +149,7 @@ reconstructed by pattern-matching a domain name.
 def load_people(path: Path = SEED) -> list[dict]:
     if not path.exists():
         raise SystemExit(f"{path} not found")
-    data = yaml.safe_load(path.read_text()) or []
+    data = yaml.safe_load(path.read_text(encoding="utf-8")) or []
     if isinstance(data, dict):                     # tolerate {people: [...]}
         data = data.get("people") or data.get("records") or []
     return [r for r in data if isinstance(r, dict) and r.get("id")]
@@ -486,7 +486,7 @@ def main(argv: Optional[list[str]] = None) -> int:
     reports = Path(args.reports_dir)
     reports.mkdir(parents=True, exist_ok=True)
     out = reports / f"people_refresh_queue_{date.today().isoformat()}.md"
-    out.write_text(render_markdown(items, len(people), args))
+    out.write_text(render_markdown(items, len(people), args), encoding="utf-8")
     if not args.json:
         print(f"people records read: {len(people)}  ({Path(args.seed)})")
         print(f"queued for refresh:  {total}"

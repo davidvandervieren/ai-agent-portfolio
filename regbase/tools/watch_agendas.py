@@ -701,7 +701,7 @@ def main(argv: Optional[list[str]] = None) -> int:
     reports = Path(args.reports_dir)
     reports.mkdir(parents=True, exist_ok=True)
     out = reports / f"agenda_watch_{date.today().isoformat()}.md"
-    out.write_text(render_markdown(hits, targets, errors, discovery, args))
+    out.write_text(render_markdown(hits, targets, errors, discovery, args), encoding="utf-8")
 
     if args.json:
         print(json.dumps({

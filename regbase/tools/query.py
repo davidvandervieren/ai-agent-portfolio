@@ -659,7 +659,7 @@ def counties_named_in_notes(state: str) -> dict[str, list[str]]:
         st = NOTES_STATE.get(p.stem.replace(".notes", ""))
         if st != state:
             continue
-        text = p.read_text(errors="replace")
+        text = p.read_text(encoding="utf-8", errors="replace")
         names: list[str] = [m.group(1).strip() for m in COUNTY_MENTION_RE.finditer(text)]
         for m in COUNTY_LIST_RE.finditer(text):
             names.extend(re.split(r",\s*|\s+and\s+", m.group(1)))

@@ -530,10 +530,11 @@ def main() -> int:
             f"{_CLEARANCE_SUFFIX[args.clearance]}")
 
     md = to_markdown(review)
-    (outdir / f"{stem}.review.json").write_text(json.dumps(review, indent=2))
-    (outdir / f"{stem}.md").write_text(md)
+    (outdir / f"{stem}.review.json").write_text(json.dumps(review, indent=2), encoding="utf-8")
+    (outdir / f"{stem}.md").write_text(md, encoding="utf-8")
     (outdir / f"{stem}.doc").write_text(
-        to_word(md, f"Pre-Project Regulatory Review — {args.project_name}"))
+        to_word(md, f"Pre-Project Regulatory Review - {args.project_name}"),
+        encoding="utf-8")
 
     prov = review["provenance"]
     print(f"wrote {outdir}/{stem}.{{review.json,md,doc}}")
