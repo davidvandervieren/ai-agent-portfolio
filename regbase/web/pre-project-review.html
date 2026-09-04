@@ -2543,6 +2543,7 @@ function wire(){
   $("#btn-geojson").addEventListener("click", exportGeoJSON);
   $("#btn-word").addEventListener("click", exportWord);
   $("#btn-print").addEventListener("click", () => window.print());
+  window.addEventListener("beforeprint", () => { if (map){ try { map.invalidateSize(); } catch(e){} } });
   $("#btn-import").addEventListener("click", () => $("#file-json").click());
   $("#file-json").addEventListener("change", async () => {
     const f = $("#file-json").files[0];
