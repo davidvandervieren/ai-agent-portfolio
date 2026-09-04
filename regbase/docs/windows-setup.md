@@ -66,6 +66,50 @@ py regbase\tools\review.py "C:\path\to\project.kmz" `
 
 PowerShell continues lines with a backtick, not a backslash.
 
+## Troubleshooting
+
+**`Microsoft Visual C++ 14.0 or greater is required` during pip install.**
+A dependency had no prebuilt wheel for your Python version, so pip tried to
+compile it. You do not need a compiler — you need a version that ships a wheel.
+`requirements.txt` uses version floors rather than exact pins for this reason.
+If it happens anyway, install that one package unpinned:
+
+```powershell
+py -m pip install --upgrade <package>
+```
+
+This bit PyYAML on Python 3.14: 6.0.1 has no cp314 wheel, 6.0.2 does.
+
+**`PermissionError: [Errno 13]` reading a `.py` file.**
+Mark-of-the-web on files extracted from a downloaded zip. Clear it:
+
+```powershell
+Get-ChildItem C:\RegBase -Recurse -File | Unblock-File
+```
+
+If that does not do it, the copy inherited restrictive ACLs:
+
+```powershell
+takeown /F C:\RegBase /R /D Y
+icacls C:\RegBase /grant "$env:USERNAME:(OI)(CI)F" /T
+```
+
+**`The argument '.\regbase\tools\setup-windows.ps1' ... does not exist`.**
+You are not in the project root. `dir` should show `regbase` and `README.md`.
+Watch for a doubled folder — extracting `WESRegProject.zip` into a folder that
+is already named for the project nests it one level deeper than expected.
+
+**PowerShell parse errors with mismatched braces all over a `.ps1`.**
+Windows PowerShell 5.1 decodes `.ps1` as the system ANSI code page unless the
+file has a UTF-8 BOM, so one non-ASCII character corrupts the parse and the
+reported line numbers are meaningless. `regbase/tools/tests/test_windows_encoding.py`
+checks every shipped script for this.
+
+**Files show `l` in the `Mode` column.**
+Those are OneDrive cloud placeholders, not local files. Either mark the folder
+"Always keep on this device", or work outside OneDrive — which you want anyway
+once the corpus starts growing.
+
 ## The KML tool
 
 Double-clicking `regbase\web\pre-project-review.html` works, but a `file://`
