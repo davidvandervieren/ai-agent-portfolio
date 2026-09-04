@@ -1596,3 +1596,433 @@ async function runLookup(){
   }
   syncRegistry(); renderAll(); save();
 }
+
+/* ==========================================================================
+   9. Input binding helpers
+   ========================================================================== */
+function markNeeds(node, on){ node.classList.toggle("needs", !!on && !String(node.value || "").trim()); }
+function bindText(node, obj, key, opts){
+  opts = opts || {};
+  node.value = (obj[key] === null || obj[key] === undefined) ? "" : String(obj[key]);
+  markNeeds(node, opts.needs);
+  node.addEventListener("input", () => {
+    obj[key] = node.value;
+    if (opts.mark) obj._edited = true;
+    markNeeds(node, opts.needs);
+    if (opts.after) opts.after();
+    save();
+  });
+  return node;
+}
+function fieldEl(label, obj, key, opts){
+  opts = opts || {};
+  const input = opts.textarea
+    ? el("textarea", {rows: opts.rows || 2, placeholder: opts.placeholder || ""})
+    : el("input", {type: "text", placeholder: opts.placeholder || ""});
+  if (opts.mono) input.className = "mono";
+  bindText(input, obj, key, opts);
+  return el("label", {class: "field" + (opts.full ? " full" : "")}, [el("span", {text: label}), input]);
+}
+function confBadge(c){
+  const v = c || "unverified";
+  const txt = v === "unverified" ? "unverified" : v;
+  return el("span", {class: "badge " + v, title:
+    v === "verified"  ? "Registry confidence: verified against the source document." :
+    v === "probable"  ? "Registry confidence: probable — read the cited source before relying on it." :
+                        "Registry confidence: UNVERIFIED — this has not been confirmed against a source document."
+  }, txt);
+}
+
+/* ==========================================================================
+   10. Map + derived geometry rendering
+   ========================================================================== */
+function initMap(){
+  if (map || typeof window.L === "undefined") return;
+  map = window.L.map("map", {scrollWheelZoom: false, zoomControl: true});
+  map.setView([39.7, -104.9], 7);
+  const tiles = window.L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  });
+  let errs = 0;
+  tiles.on("tileerror", () => {
+    errs++;
+    if (errs > 2 && tilesOk !== false){
+      tilesOk = false;
+      $("#tile-note").textContent = "Basemap tiles unavailable — geometry below is drawn straight from the KML.";
+    }
+  });
+  tiles.on("tileload", () => { if (tilesOk === null){ tilesOk = true; } });
+  tiles.addTo(map);
+}
+function drawMap(){
+  const host = $("#map");
+  if (typeof window.L === "undefined"){
+    host.style.display = "grid";
+    host.style.placeItems = "center";
+    host.textContent = "Map library unavailable offline — the geometry statistics and inventory below carry the record.";
+    return;
+  }
+  initMap();
+  if (!map) return;
+  if (mapLayer){ map.removeLayer(mapLayer); mapLayer = null; }
+  if (!FEATURES.length){ map.invalidateSize(); return; }
+
+  const group = window.L.featureGroup();
+  FEATURES.forEach(f => {
+    const latlngs = cs => cs.map(c => [c[1], c[0]]);
+    let lyr = null;
+    if (f.type === "line") lyr = window.L.polyline(latlngs(f.coords), {color: "#d1451b", weight: 3.5, opacity: .95});
+    else if (f.type === "polygon") lyr = window.L.polygon(f.rings.map(latlngs), {color: "#0c5b6a", weight: 2, fillOpacity: .18});
+    else lyr = window.L.circleMarker([f.coords[0][1], f.coords[0][0]], {radius: 5, color: "#6b21a8", weight: 2, fillColor: "#6b21a8", fillOpacity: .8});
+    const bits = [];
+    bits.push("<b>" + esc(f.name) + "</b>");
+    if (f.folder) bits.push(esc(f.folder));
+    if (f._lengthM) bits.push(num(f._lengthM * FT_PER_M) + " ft (" + (f._lengthM / M_PER_MI).toFixed(2) + " mi)");
+    if (f._areaM2) bits.push((f._areaM2 * FT_PER_M * FT_PER_M / SQFT_PER_ACRE).toFixed(2) + " ac");
+    lyr.bindPopup(bits.join("<br>"));
+    group.addLayer(lyr);
+  });
+  mapLayer = group.addTo(map);
+  try { map.fitBounds(group.getBounds().pad(0.12)); } catch(e){}
+  setTimeout(() => { try { map.invalidateSize(); } catch(e){} }, 60);
+}
+function renderStats(){
+  const wrap = $("#stats"); clear(wrap);
+  const invWrap = $("#inv-wrap"); clear(invWrap);
+  $("#map-src").textContent = R.project_map.kml_source_file ? "source: " + R.project_map.kml_source_file : "";
+
+  if (!STATS){
+    wrap.appendChild(el("div", {class: "stat"}, [
+      el("b", {text: "—"}), el("span", {text: "no geometry loaded"})
+    ]));
+    invWrap.appendChild(el("div", {class: "empty", text: "Drop a KML or KMZ in the panel on the left to populate the map, the centroid and the linear footage."}));
+    return;
+  }
+  const s = STATS;
+  const tiles = [
+    [num(s.lengthFt) + " ft", "total line length"],
+    [s.lengthMi.toFixed(2) + " mi", "total line length"],
+    [s.disturbanceAcres.toFixed(2) + " ac", "est. disturbance"],
+    [String(s.counts.total), "features (" + s.counts.line + "L / " + s.counts.polygon + "P / " + s.counts.point + "pt)"],
+    [s.centroid[1].toFixed(6) + ", " + s.centroid[0].toFixed(6), "centroid (mean vertex)"],
+    [s.bbox.map(v => v.toFixed(4)).join(", "), "bbox W,S,E,N"]
+  ];
+  tiles.forEach(t => wrap.appendChild(el("div", {class: "stat"}, [el("b", {text: t[0]}), el("span", {text: t[1]})])));
+
+  const tbody = el("tbody");
+  FEATURES.forEach(f => {
+    tbody.appendChild(el("tr", null, [
+      el("td", {text: f.name}),
+      el("td", {text: f.folder || "—"}),
+      el("td", {text: f.type}),
+      el("td", {class: "num", text: f._lengthM ? num(f._lengthM * FT_PER_M) : "—"}),
+      el("td", {class: "num", text: f._lengthM ? (f._lengthM / M_PER_MI).toFixed(3) : "—"}),
+      el("td", {class: "num", text: f._areaM2 ? (f._areaM2 * FT_PER_M * FT_PER_M / SQFT_PER_ACRE).toFixed(3) : "—"})
+    ]));
+  });
+  tbody.appendChild(el("tr", null, [
+    el("td", {html: "<b>Total</b>"}), el("td", {text: ""}), el("td", {text: ""}),
+    el("td", {class: "num", html: "<b>" + num(s.lengthFt) + "</b>"}),
+    el("td", {class: "num", html: "<b>" + s.lengthMi.toFixed(3) + "</b>"}),
+    el("td", {class: "num", html: "<b>" + s.polyAcres.toFixed(3) + "</b>"})
+  ]));
+  invWrap.appendChild(el("table", null, [
+    el("thead", null, el("tr", null, [
+      el("th", {text: "Feature"}), el("th", {text: "Folder"}), el("th", {text: "Type"}),
+      el("th", {text: "Length (ft)"}), el("th", {text: "Length (mi)"}), el("th", {text: "Area (ac)"})
+    ])),
+    tbody
+  ]));
+  invWrap.appendChild(el("div", {class: "note", style: "padding:6px 9px;border-top:1px solid var(--line-2)", text:
+    "Disturbance estimate = " + num(s.lengthFt) + " ft of line × " + s.rowWidthFt + " ft assumed ROW (" +
+    s.corridorAcres.toFixed(2) + " ac) + " + s.polyAcres.toFixed(2) + " ac of mapped polygons. Estimate only."}));
+}
+
+/* ==========================================================================
+   11. Regulatory section rendering
+   ========================================================================== */
+function renderMuniChips(){
+  const box = $("#muni-chips"); clear(box);
+  R.regulatory.municipalities_involved.forEach((m, i) => {
+    box.appendChild(el("span", {class: "chip"}, [
+      m,
+      el("button", {type: "button", title: "Remove", "aria-label": "Remove " + m, onclick: () => {
+        R.regulatory.municipalities_involved.splice(i, 1); renderMuniChips(); save();
+      }}, "×")
+    ]));
+  });
+  const inp = el("input", {type: "text", placeholder: "add…", style: "width:120px", class: "no-print"});
+  inp.addEventListener("keydown", e => {
+    if (e.key === "Enter" && inp.value.trim()){
+      R.regulatory.municipalities_involved.push(inp.value.trim());
+      renderMuniChips(); save();
+      const next = $("#muni-chips input"); if (next) next.focus();
+    }
+  });
+  box.appendChild(inp);
+  if (!R.regulatory.municipalities_involved.length){
+    box.insertBefore(el("span", {class: "note", text: "None resolved yet — "}), box.firstChild);
+  }
+}
+function docsEditor(owner){
+  const wrap = el("div", {class: "docs"});
+  function redraw(){
+    clear(wrap);
+    if (!owner.required_docs.length) owner.required_docs.push("");
+    owner.required_docs.forEach((d, i) => {
+      const inp = el("input", {type: "text", placeholder: "required document / submittal"});
+      inp.value = d;
+      markNeeds(inp, owner._src === "registry");
+      inp.addEventListener("input", () => {
+        owner.required_docs[i] = inp.value; owner._edited = true;
+        markNeeds(inp, owner._src === "registry"); save();
+      });
+      wrap.appendChild(el("div", {class: "docrow"}, [
+        inp,
+        el("button", {class: "rowdel no-print", type: "button", title: "Remove line", onclick: () => {
+          owner.required_docs.splice(i, 1); owner._edited = true; redraw(); save();
+        }}, "×")
+      ]));
+    });
+    const tools = el("div", {class: "suggest no-print"});
+    tools.appendChild(el("button", {class: "btn tiny", type: "button", onclick: () => {
+      owner.required_docs.push(""); owner._edited = true; redraw();
+      const inputs = wrap.querySelectorAll(".docrow input");
+      if (inputs.length) inputs[inputs.length-1].focus();
+    }}, "+ Doc"));
+    (owner._docSuggestions || []).forEach(sg => {
+      tools.appendChild(el("button", {class: "btn tiny", type: "button", title: "From registry: " + sg.url, onclick: () => {
+        owner.required_docs.push(sg.title); owner._edited = true; redraw(); save();
+      }}, "+ " + (sg.title.length > 46 ? sg.title.slice(0,44) + "…" : sg.title)));
+    });
+    wrap.appendChild(tools);
+  }
+  redraw();
+  return wrap;
+}
+function permitEl(j, p){
+  const cls = "permit " + (p._src === "manual" ? "is-manual" : "is-" + (p.confidence || "unverified"));
+  const nameInput = el("input", {type: "text", class: "pname", placeholder: "Permit name"});
+  bindText(nameInput, p, "name", {mark: true});
+
+  const top = el("div", {class: "ptop"}, [
+    nameInput,
+    p._src === "registry" ? el("span", {class: "badge reg", title: "Pre-filled from registry record " + p._source_id}, "from registry") : el("span", {class: "badge manual"}, "manual"),
+    p._src === "registry" ? confBadge(p.confidence) : null,
+    p._edited && p._src === "registry" ? el("span", {class: "badge", title: "You have edited this registry-sourced entry."}, "edited") : null,
+    el("span", {style: "margin-left:auto"}),
+    el("button", {class: "rowdel no-print", type: "button", title: "Delete permit", onclick: () => {
+      const i = j.permits.indexOf(p); if (i >= 0) j.permits.splice(i, 1);
+      renderJurisdictions(); save();
+    }}, "×")
+  ]);
+
+  const grid = el("div", {class: "pgrid"}, [
+    fieldEl("aka / plain english", p, "aka", {mark: true, placeholder: "(ie — grading permit)"}),
+    fieldEl("decision body", p, "decision_body", {mark: true, placeholder: "who approves it"}),
+    fieldEl("trigger", p, "trigger", {mark: true, textarea: true, rows: 2, full: true, placeholder: "what makes this required"}),
+    fieldEl("cost", p, "cost", {mark: true, mono: true, needs: p._src === "registry", placeholder: "not in registry — confirm"}),
+    fieldEl("estimated time", p, "estimated_time", {mark: true, needs: p._src === "registry", placeholder: "not in registry — confirm"}),
+    fieldEl("cost basis", p, "cost_basis", {mark: true, full: true, placeholder: "e.g. fee schedule adopted 2025, per-acre review fee"}),
+    el("div", {class: "field full"}, [el("span", {text: "required docs"}), docsEditor(p)]),
+    fieldEl("citation", p, "citation", {mark: true, full: true, placeholder: "code / rule cite"}),
+    fieldEl("citation url", p, "citation_url", {mark: true, mono: true, full: true, placeholder: "https://"}),
+    fieldEl("notes", p, "notes", {mark: true, textarea: true, rows: 2, full: true})
+  ]);
+  if (p.citation_url){
+    grid.appendChild(el("div", {class: "cite full"}, [
+      el("a", {href: p.citation_url, target: "_blank", rel: "noopener noreferrer", text: p.citation_url})
+    ]));
+  }
+  return el("div", {class: cls}, [top, grid]);
+}
+function timingEl(j){
+  const wrap = el("div", {class: "field"}, [el("span", {text: "timing — phased narrative"})]);
+  const list = el("div", {style: "display:flex;flex-direction:column;gap:6px"});
+  function redraw(){
+    clear(list);
+    (j.timing_narrative || []).forEach((ph, i) => {
+      const steps = el("div", {class: "bullets"});
+      function redrawSteps(){
+        clear(steps);
+        (ph.steps || []).forEach((s, k) => {
+          const inp = el("input", {type: "text", placeholder: "step"});
+          inp.value = s;
+          inp.addEventListener("input", () => { ph.steps[k] = inp.value; save(); });
+          steps.appendChild(el("div", {class: "bullet"}, [inp, el("button", {class: "rowdel no-print", type: "button", onclick: () => {
+            ph.steps.splice(k, 1); redrawSteps(); save();
+          }}, "×")]));
+        });
+        steps.appendChild(el("button", {class: "btn tiny no-print", type: "button", onclick: () => {
+          ph.steps = ph.steps || []; ph.steps.push(""); redrawSteps();
+        }}, "+ Step"));
+      }
+      redrawSteps();
+      list.appendChild(el("div", {style: "border:1px solid var(--line-2);border-radius:3px;padding:7px 9px;display:flex;flex-direction:column;gap:6px"}, [
+        el("div", {style: "display:flex;gap:10px;align-items:flex-end"}, [
+          el("div", {style: "flex:2"}, fieldEl("phase", ph, "phase", {placeholder: "e.g. Phase 1 — pre-application"})),
+          el("div", {style: "flex:1"}, fieldEl("duration", ph, "duration", {placeholder: "e.g. 6–8 weeks"})),
+          el("button", {class: "rowdel no-print", type: "button", title: "Delete phase", onclick: () => {
+            j.timing_narrative.splice(i, 1); redraw(); save();
+          }}, "×")
+        ]),
+        steps
+      ]));
+    });
+    list.appendChild(el("button", {class: "btn tiny no-print", type: "button", onclick: () => {
+      j.timing_narrative = j.timing_narrative || [];
+      j.timing_narrative.push({phase: "", duration: "", steps: [""]});
+      redraw();
+    }}, "+ Phase"));
+  }
+  redraw();
+  wrap.appendChild(list);
+  return wrap;
+}
+function jurisdictionEl(j){
+  const nameInput = el("input", {type: "text", class: "jname", placeholder: "Jurisdiction name"});
+  bindText(nameInput, j, "name");
+
+  const levelSel = el("select", {style: "width:auto;flex:none"});
+  ["federal","state","county","municipal","special_district","tribal"].forEach(v =>
+    levelSel.appendChild(el("option", {value: v, text: v, selected: j.level === v})));
+  levelSel.value = j.level || "county";
+  levelSel.addEventListener("change", () => { j.level = levelSel.value; syncRegistry(); renderAll(); save(); });
+
+  const head = el("header", null, [
+    nameInput,
+    el("span", {class: "badge level"}, j.level || "county"),
+    j._auto ? el("span", {class: "badge reg", title: "Detected from the geometry via TIGERweb"}, "auto") : el("span", {class: "badge manual"}, "manual"),
+    el("span", {style: "margin-left:auto"}),
+    el("span", {class: "no-print"}, levelSel),
+    el("button", {class: "rowdel no-print", type: "button", title: "Remove jurisdiction", onclick: () => removeJurisdiction(j._id)}, "×")
+  ]);
+
+  const srcLine = el("div", {class: "jsrc"});
+  if ((j._records || []).length){
+    srcLine.appendChild(document.createTextNode("registry: "));
+    j._records.forEach((r, i) => {
+      if (i) srcLine.appendChild(document.createTextNode(" · "));
+      srcLine.appendChild(r.url
+        ? el("a", {href: r.url, target: "_blank", rel: "noopener noreferrer", text: r.id})
+        : el("span", {text: r.id}));
+    });
+    if (j._filtered_out) srcLine.appendChild(document.createTextNode(" · " + j._filtered_out + " record(s) filtered out by scope"));
+  } else {
+    srcLine.appendChild(el("span", {text: SOURCES.length ? "registry: no record for this jurisdiction — research required" : "registry: not loaded"}));
+  }
+
+  const permits = el("div", {style: "display:flex;flex-direction:column;gap:8px"});
+  if (!j.permits.length){
+    permits.appendChild(el("div", {class: "empty", text: "No permits. The registry has nothing on file for this jurisdiction at the selected scope — add what you find."}));
+  }
+  j.permits.forEach(p => permits.appendChild(permitEl(j, p)));
+
+  const body = el("div", {class: "jbody"}, [
+    srcLine,
+    fieldEl("basis — why this jurisdiction applies", j, "basis", {textarea: true, rows: 2, placeholder: "e.g. route crosses 2.3 mi of unincorporated county"}),
+    permits,
+    el("button", {class: "btn tiny no-print", type: "button", style: "align-self:flex-start", onclick: () => {
+      j.permits.push(blankPermit()); renderJurisdictions(); save();
+    }}, "+ Permit"),
+    timingEl(j)
+  ]);
+  return el("div", {class: "jcard"}, [head, body]);
+}
+function renderJurisdictions(){
+  const box = $("#jurisdictions"); clear(box);
+  if (!R.regulatory.jurisdictions.length){
+    box.appendChild(el("div", {class: "empty", text:
+      "No jurisdictions yet. Load geometry and run “Identify jurisdictions”, or add one manually in the left panel."}));
+  }
+  R.regulatory.jurisdictions.forEach(j => box.appendChild(jurisdictionEl(j)));
+  renderJurList();
+  renderMuniChips();
+}
+function renderJurList(){
+  const box = $("#jur-list"); clear(box);
+  if (!R.regulatory.jurisdictions.length){ box.appendChild(el("div", {class: "note", text: "none yet"})); return; }
+  R.regulatory.jurisdictions.forEach(j => {
+    box.appendChild(el("div", {class: "jur-row"}, [
+      el("span", {class: "badge level"}, j.level),
+      el("span", {class: "grow", text: j.name || "(unnamed)"}),
+      el("span", {class: "badge", title: "permits"}, String(j.permits.length)),
+      el("button", {class: "rowdel", type: "button", title: "Remove", onclick: () => removeJurisdiction(j._id)}, "×")
+    ]));
+  });
+}
+
+/* ==========================================================================
+   12. Non-Muni Agencies
+   ========================================================================== */
+function agencyRow(a){
+  const inc = el("input", {type: "checkbox", title: "Include on the form"});
+  inc.checked = a._include !== false;
+  inc.addEventListener("change", () => { a._include = inc.checked; tr.style.opacity = inc.checked ? "" : ".45"; save(); });
+
+  const mk = (key, opts) => {
+    const n = (opts && opts.textarea) ? el("textarea", {rows: 2, placeholder: (opts && opts.placeholder) || ""})
+                                      : el("input", {type: "text", placeholder: (opts && opts.placeholder) || ""});
+    if (opts && opts.mono) n.className = "mono";
+    bindText(n, a, key, {mark: true, needs: opts && opts.needs && a._src === "registry"});
+    return n;
+  };
+  const tr = el("tr", null, [
+    el("td", null, [
+      el("div", {style: "display:flex;gap:5px;align-items:flex-start"}, [el("span", {class: "no-print"}, inc), mk("agency")]),
+      el("div", {style: "display:flex;gap:4px;flex-wrap:wrap;margin-top:3px"}, [
+        a._level ? el("span", {class: "badge level"}, a._level) : null,
+        a._src === "registry" ? el("span", {class: "badge reg"}, "from registry") : el("span", {class: "badge manual"}, "manual"),
+        a._src === "registry" ? confBadge(a.confidence) : null
+      ])
+    ]),
+    el("td", null, mk("requirement", {textarea: true})),
+    el("td", null, mk("cost", {mono: true, needs: true, placeholder: "confirm"})),
+    el("td", null, mk("estimated_time", {needs: true, placeholder: "confirm"})),
+    el("td", null, docsEditor(a)),
+    el("td", null, [
+      mk("citation"),
+      a.citation_url ? el("div", {class: "cite"}, el("a", {href: a.citation_url, target: "_blank", rel: "noopener noreferrer", text: "source"})) : null
+    ]),
+    el("td", {class: "no-print"}, el("button", {class: "rowdel", type: "button", title: "Delete row", onclick: () => {
+      const i = R.non_muni_agencies.indexOf(a); if (i >= 0) R.non_muni_agencies.splice(i, 1);
+      renderAgencies(); save();
+    }}, "×"))
+  ]);
+  if (!inc.checked) tr.style.opacity = ".45";
+  return tr;
+}
+function renderAgencies(){
+  const body = $("#agency-body"); clear(body);
+  if (!R.non_muni_agencies.length){
+    body.appendChild(el("tr", null, el("td", {colspan: "7"},
+      el("div", {class: "empty", text: "No state, federal or district requirements yet — resolve a jurisdiction or add a row."}))));
+    return;
+  }
+  R.non_muni_agencies
+    .slice()
+    .sort((a,b) => String(a.agency).localeCompare(String(b.agency)))
+    .forEach(a => body.appendChild(agencyRow(a)));
+  const n = R.non_muni_agencies.length, on = R.non_muni_agencies.filter(a => a._include !== false).length;
+  const bar = $("#agency-count");
+  if (bar) bar.textContent = on + " of " + n + " included";
+}
+
+/* ==========================================================================
+   13. Other bullets
+   ========================================================================== */
+function renderOther(){
+  const box = $("#other-list"); clear(box);
+  if (!R.other.length){
+    box.appendChild(el("div", {class: "empty", text: "Unknowns, abandonment / pre- and post-construction obligations, annual inspection fees, schedule risk."}));
+  }
+  R.other.forEach((t, i) => {
+    const inp = el("input", {type: "text", placeholder: "bullet"});
+    inp.value = t;
+    inp.addEventListener("input", () => { R.other[i] = inp.value; save(); });
+    box.appendChild(el("div", {class: "bullet"}, [inp, el("button", {class: "rowdel no-print", type: "button", onclick: () => {
+      R.other.splice(i, 1); renderOther(); save();
+    }}, "×")]));
+  });
+}

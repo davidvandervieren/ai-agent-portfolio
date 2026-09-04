@@ -1,6 +1,9 @@
 corpus/raw/
 corpus/*.sqlite
+corpus/*.sqlite-wal
+corpus/*.sqlite-shm
 corpus/*.db
+corpus/reports/
 *.pyc
 __pycache__/
 .venv/

@@ -421,18 +421,29 @@ def _resolve(path_value: str) -> Optional[Path]:
     return None
 
 
-def guess_text_path(source_id: str, title: str, url: str) -> Optional[Path]:
-    """Fallback discovery for extractor output when the manifest is silent."""
-    stems = {common.slugify(title or "untitled"), common.slugify(url)}
-    dirs = [common.TEXT_DIR / source_id, common.TEXT_DIR]
+def guess_text_path(src: "common.Source", title: str, url: str) -> Optional[Path]:
+    """Fallback discovery for extractor output when the manifest is silent.
+
+    Mirrors harvest.local_paths(): corpus/text/<STATE>/<source-id>/<title-slug>-<8hex>.md
+    and degrades to a few looser layouts so a hand-placed text file is still found.
+    """
+    from urllib.parse import urlsplit
+
+    stem = common.slugify(title or Path(urlsplit(url).path).stem or "document")
+    digest = common.sha256_bytes(url.encode())[:8]
+    dirs = [common.TEXT_DIR / src.state / common.slugify(src.id),
+            common.TEXT_DIR / src.id,
+            common.TEXT_DIR]
+    names = [f"{stem}-{digest}.md", f"{stem}-{digest}.txt", f"{stem}.md", f"{stem}.txt"]
     for d in dirs:
         if not d.is_dir():
             continue
-        for stem in stems:
-            for ext in (".md", ".txt", ".text"):
-                p = d / f"{stem}{ext}"
-                if p.is_file():
-                    return p
+        for n in names:
+            p = d / n
+            if p.is_file():
+                return p
+        for p in sorted(d.glob(f"{stem}-*.md")) + sorted(d.glob(f"{stem}-*.txt")):
+            return p
     return None
 
 
@@ -596,7 +607,7 @@ def index_documents(con: sqlite3.Connection, sources: list[common.Source],
 
             mrec = manifest.get(f"{s.id}::{url}", {}) or {}
             raw_p = _resolve(str(_first(mrec, _RAW_KEYS)))
-            text_p = _resolve(str(_first(mrec, _TEXT_KEYS))) or guess_text_path(s.id, d.title, url)
+            text_p = _resolve(str(_first(mrec, _TEXT_KEYS))) or guess_text_path(s, d.title, url)
             sha = str(_first(mrec, _SHA_KEYS))
             fetched = str(_first(mrec, _FETCHED_KEYS))
             status_raw = _first(mrec, _STATUS_KEYS, None)
