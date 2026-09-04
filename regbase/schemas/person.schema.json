@@ -1,0 +1,132 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "RegBase person record",
+  "description": "A profile of one named PUBLIC OFFICIAL or STAFF MEMBER who touches oil & gas midstream permitting decisions (elected official, board/commission appointee, or career agency staff) at the federal, state, county, or municipal level in CO/WY/NM/UT/TX. Every fact in this record must trace to a public, professional, role-related source (statute, agency roster, meeting minutes/agenda, published vote, official press release, public campaign-finance filing). See regbase/people/README.md for the full ethics/scope policy this schema enforces.",
+  "prohibited_fields": "NEVER store: home/personal address, personal phone number, personal email address, family member names or relationships, health information, religion, non-public financial data (bank/asset details beyond what a public campaign-finance filing itself discloses), or anything sourced from a personal (non-official-capacity) social media account. official_contact fields must contain ONLY office-published contact info (agency phone/email/mailing address), never a personal equivalent. campaign_finance must cite only public filings (e.g. state Secretary of State / TRACER / FEC-style disclosure) and must never speculate about a donor's intent or a person's private finances beyond what the filing states. This record exists to understand institutional decision-making PATTERNS AND PROCESS, not to build a personal dossier -- see the 'Prohibited uses' section of README.md, which this schema is bound to.",
+  "type": "object",
+  "required": ["id", "jurisdiction_id", "state", "level", "body", "role_type", "title", "confidence", "last_reviewed"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable slug, e.g. 'co-ecmc-commissioner-seat3' or 'tx-midland-county-judge'. For an unverified placeholder (no full_name yet known), slug on jurisdiction+title, not on a guessed name."
+    },
+    "full_name": {
+      "type": "string",
+      "description": "Full name as the office/agency itself publishes it. OMIT this field entirely (do not leave empty string) when the current holder has not been verified via a public source -- leave the record as a title/body placeholder instead. Never infer a name from a stale bio, a news article without a masthead date, or memory/inference."
+    },
+    "jurisdiction_id": {
+      "type": "string",
+      "description": "Foreign key to a regbase/schemas/source.schema.json record's 'id' (the regulatory-source entry for the same agency/county). Same slug convention as source.schema.json (e.g. 'co-weld-county-landuse'). May point to a source id that does not exist yet in regbase/sources/ during the people-layer seed phase -- the sources layer is expected to backfill it; do not invent a jurisdiction_id that does not follow the shared convention."
+    },
+    "state": {"enum": ["CO", "WY", "NM", "UT", "TX", "US"]},
+    "level": {"enum": ["federal", "state", "county", "municipal"]},
+    "body": {
+      "type": "string",
+      "description": "The decision body or office, e.g. 'Board of County Commissioners', 'Planning Commission', 'City Council', 'ECMC', 'RRC', 'Oil Conservation Division'."
+    },
+    "role_type": {"enum": ["elected", "appointed", "career_staff"]},
+    "title": {"type": "string", "description": "Official title exactly as the agency publishes it, e.g. 'Commissioner, District 2', 'Director of Community Development'."},
+    "department": {"type": "string"},
+    "term_start": {"type": "string", "format": "date", "description": "Only for elected/appointed seats with a defined term. Omit for career staff or when unverified."},
+    "term_end": {"type": "string", "format": "date"},
+    "next_election": {"type": "string", "format": "date", "description": "Next scheduled election for this seat, if elected and publicly scheduled."},
+    "appointed_by": {"type": "string", "description": "Appointing authority for appointed roles, e.g. 'Governor of Colorado', 'Board of County Commissioners'. Omit for elected/career_staff."},
+    "official_contact": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "OFFICE-published contact info only. Never a personal phone/email/address.",
+      "properties": {
+        "office_phone": {"type": "string"},
+        "office_email": {"type": "string"},
+        "office_url": {"type": "string", "format": "uri"},
+        "mailing_address_office": {"type": "string", "description": "Official office mailing address (e.g. county administration building), never a home address."}
+      }
+    },
+    "staff_or_decision_maker": {
+      "enum": ["recommends", "decides", "advises", "administers"],
+      "description": "recommends = staff who write recommendations for a body to vote on; decides = has a formal vote/decision authority; advises = non-binding advisory role; administers = runs the process/program without a discretionary vote (e.g. permit intake, inspection)."
+    },
+    "portfolio": {
+      "type": "array",
+      "description": "Which permit/authority types this person's role actually touches -- reuse regbase source.schema.json's 'authority_type' and 'applies_to' vocabularies where possible.",
+      "items": {"type": "string"}
+    },
+    "public_positions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["date", "topic", "position_summary", "source_url", "source_type"],
+        "additionalProperties": false,
+        "properties": {
+          "date": {"type": "string", "format": "date"},
+          "topic": {"type": "string"},
+          "position_summary": {"type": "string", "description": "Neutral, sourced paraphrase or direct quote (quoted verbatim if a quote) of a position taken in an official/public capacity."},
+          "source_url": {"type": "string", "format": "uri"},
+          "source_type": {"enum": ["meeting_minutes", "vote", "press", "agenda", "filing"]}
+        }
+      }
+    },
+    "voting_record": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["date", "matter", "vote", "source_url"],
+        "additionalProperties": false,
+        "properties": {
+          "date": {"type": "string", "format": "date"},
+          "matter": {"type": "string", "description": "Docket/case/agenda item name or number as published."},
+          "project_type": {"type": "string", "description": "e.g. 'gas_processing_plant', 'swd_well' -- reuse source.schema.json 'applies_to' vocabulary."},
+          "applicant": {"type": "string", "description": "Public applicant/operator name of record only -- not a private individual."},
+          "vote": {"type": "string", "description": "e.g. 'aye', 'nay', 'abstain', 'recused', or the recorded motion outcome for that member."},
+          "outcome": {"type": "string", "description": "Overall body outcome, e.g. 'approved 4-1', 'denied', 'tabled'."},
+          "source_url": {"type": "string", "format": "uri"}
+        }
+      }
+    },
+    "decision_patterns": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Aggregated, EVIDENCE-LINKED observations only -- never a characterization of the person, only of the observed public record. Every rate/claim here must be reproducible from evidence_urls.",
+      "properties": {
+        "approval_rate_observed": {
+          "type": "string",
+          "description": "e.g. '9/11 (82%) midstream matters, Jan 2023-Dec 2025' -- state the numerator, denominator, project-type scope, and date window inline. Never a bare percentage."
+        },
+        "common_conditions_imposed": {"type": "array", "items": {"type": "string"}},
+        "typical_questions_asked": {"type": "array", "items": {"type": "string"}},
+        "hot_buttons": {"type": "array", "items": {"type": "string"}, "description": "Recurring, publicly-stated topics of concern (e.g. 'setback distance', 'noise mitigation') -- sourced, not inferred."},
+        "evidence_urls": {"type": "array", "items": {"type": "string", "format": "uri"}}
+      }
+    },
+    "process_notes": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "preferred_submittal_format": {"type": "string"},
+        "pre_application_meeting_required": {"type": "boolean"},
+        "typical_review_time_days": {"type": "integer"},
+        "known_completeness_pitfalls": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "campaign_finance": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Elected officials only, and only from public filings (Secretary of State / state campaign-finance portal / TRACER etc.). Never derived from a non-public source.",
+      "properties": {
+        "filing_url": {"type": "string", "format": "uri"},
+        "notable_energy_sector_context": {"type": "string", "description": "Factual, filing-sourced note only, e.g. 'Filing lists contributions from operators registered in the county per [filing_url]' -- never speculation about intent."}
+      }
+    },
+    "confidence": {
+      "enum": ["verified", "probable", "unverified"],
+      "description": "verified = current role/name confirmed directly on the agency's own official page or a primary filing within the last review cycle. probable = confirmed via a secondary but credible public source (e.g. recent news citing the official title) not yet cross-checked against the agency page. unverified = placeholder slot; full_name should be omitted."
+    },
+    "last_reviewed": {"type": "string", "format": "date"},
+    "review_source_urls": {
+      "type": "array",
+      "items": {"type": "string", "format": "uri"},
+      "description": "URL(s) actually opened to confirm this record as of last_reviewed. Every URL here must be transcribed verbatim from a WebSearch result or direct visit -- never reconstructed or guessed."
+    }
+  }
+}

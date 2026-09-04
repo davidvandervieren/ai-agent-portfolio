@@ -1,0 +1,1156 @@
+sources:
+
+  # =========================================================================
+  # STATE LEVEL
+  # =========================================================================
+
+  - id: wy-wogcc-rules
+    jurisdiction_level: state
+    state: WY
+    name: Wyoming Oil and Gas Conservation Commission - Rules and Regulations
+    agency: Wyoming Oil and Gas Conservation Commission (WOGCC)
+    authority_type: [oil_gas_conservation, underground_injection, waste, reclamation, spill_reporting]
+    applies_to: [swd_well, well_pad, tank_battery, midstream_pipeline, produced_water_line, compressor_station, gas_processing_plant]
+    code_platform: state_register
+    landing_url: https://wogcc.wyo.gov/rules
+    documents:
+      - title: WOGCC Rules (Chapters 1-13, incl. Ch.3 Operations, Ch.4 Injection/Disposal, Ch.11 Flaring/Venting)
+        url: https://wogcc.wyo.gov/rules
+        doc_type: regulation
+        format: html
+        citation_root: WOGCC Rules & Regs, Ch. 1-13
+        notes: "Landing page for current WOGCC rule chapters. Ch.4 is WY's Class II UIC primacy program (EPA-delegated). Ch.11 covers flaring/venting. Individual chapter PDFs must be pulled from this page per-chapter; not individually verified this pass."
+      - title: WOGCC home / hearings and orders
+        url: https://wogcc.wyo.gov/home
+        doc_type: guidance
+        format: html
+        notes: Commission hearings held monthly (2nd Tuesday); orders and dockets linked from here.
+    permits:
+      - name: Application for Permit to Drill (APD)
+        form_id: Form 3
+        trigger: Drilling any new well (incl. SWD/injection well prior to conversion)
+        decision_body: WOGCC Supervisor / Commission
+        public_hearing: false
+      - name: Sundry Notice
+        form_id: Form 4
+        trigger: Subsequent well operations changes (workover, plugging, etc.)
+      - name: Organization Report
+        form_id: Form 1
+        trigger: Operating in Wyoming as an oil/gas operator - registration prerequisite
+      - name: Application for Permit to Inject (Class II UIC / SWD)
+        form_id: Form 15
+        trigger: SWD/injection well permitting under WOGCC Ch.4
+        decision_body: WOGCC Supervisor / Commission
+        public_hearing: true
+        typical_timeline_days: unverified
+      - name: Operator Blanket / Idle Well / Pit / Split Estate / Commercial Class II Disposal Bonds
+        trigger: Bonding required by mineral ownership type prior to operations
+        decision_body: WOGCC
+    contacts:
+      - role: WOGCC main office
+        office: Wyoming Oil and Gas Conservation Commission
+        phone: (307) 234-7147
+        url: https://wogcc.wyo.gov/
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-wogcc-eforms
+    jurisdiction_level: state
+    state: WY
+    name: Wyoming eWOGCC / Electronic Forms System
+    agency: Wyoming Oil and Gas Conservation Commission (WOGCC)
+    authority_type: [oil_gas_conservation, underground_injection]
+    applies_to: [swd_well, well_pad, tank_battery, gas_processing_plant]
+    code_platform: self_hosted
+    landing_url: https://wogcc.wyo.gov/electronic-forms
+    documents:
+      - title: WOGCC Electronic Forms (Forms 1, 3, 4, 7, 8, 15, 16, etc.)
+        url: https://wogcc.wyo.gov/electronic-forms
+        doc_type: form
+        format: html
+        notes: Landing/index page for all eForms; individual form numbers not each independently verified this pass.
+      - title: WOGCC Application and Order Templates
+        url: https://wogcc.wyo.gov/hearings/application-and-order-templates
+        doc_type: application_packet
+        format: html
+      - title: WOGCC New Operator Information
+        url: https://wogcc.wyo.gov/public-resources/operators-resources/new-operator-information
+        doc_type: guidance
+        format: html
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-deq-aqd
+    jurisdiction_level: state
+    state: WY
+    name: Wyoming DEQ Air Quality Division - Permitting (WAQSR Ch.6, Ch.8)
+    agency: Wyoming Department of Environmental Quality, Air Quality Division (AQD)
+    authority_type: [air_quality]
+    applies_to: [well_pad, tank_battery, compressor_station, gas_processing_plant, midstream_pipeline]
+    code_platform: state_register
+    landing_url: https://deq.wyoming.gov/aqd/new-source-review/
+    documents:
+      - title: New Source Review (WAQSR Chapter 6, Sections 2/3/4) landing page
+        url: https://deq.wyoming.gov/aqd/new-source-review/
+        doc_type: guidance
+        format: html
+        citation_root: WAQSR Ch. 6
+        notes: "Ch.6 Sec.2 = construction/modification permit (standard); Ch.6 Sec.3 referenced re: operating permits; Ch.6 Sec.4 = PSD preconstruction review (major source). Statewide Oil & Gas Production Facilities Permitting Guidance and Presumptive BACT doc are linked from AQD site but exact guidance-doc URL not independently confirmed this pass."
+      - title: Title V Permitting (major sources incl. large gas processing plants)
+        url: https://deq.wyoming.gov/aqd/title-v-permitting/
+        doc_type: guidance
+        format: html
+      - title: Oil and Gas Methane Rule
+        url: https://deq.wyoming.gov/aqd/oil-and-gas-methane-rule/
+        doc_type: regulation
+        format: html
+        applies_to_note: LDAR/methane requirements for O&G production/compression facilities
+    permits:
+      - name: Chapter 6 Section 2 Construction/Modification Permit
+        trigger: New facility/source or modification with potential air contaminant increase (compressors, tanks, dehydrators, flares)
+        decision_body: DEQ AQD
+        notes: No de minimis exemption in Ch.6; Presumptive BACT allows some O&G production sites to start up before permit issuance if control requirements are met (per WS 35-11-801(e)).
+      - name: Chapter 6 Section 4 PSD/Minor Source Preconstruction Review
+        trigger: Major source PSD applicability
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-deq-wqd
+    jurisdiction_level: state
+    state: WY
+    name: Wyoming DEQ Water Quality Division - WYPDES / Produced Water / Groundwater Pollution Control
+    agency: Wyoming Department of Environmental Quality, Water Quality Division (WQD)
+    authority_type: [water_quality, underground_injection, spill_reporting]
+    applies_to: [produced_water_line, swd_well, well_pad, tank_battery]
+    code_platform: state_register
+    landing_url: https://deq.wyoming.gov/water-quality/
+    documents:
+      - title: Produced Water Disposal & Treatment
+        url: https://deq.wyoming.gov/water-quality/water-wastewater/permitting/produced-water-disposal-treatment/
+        doc_type: guidance
+        format: html
+        notes: Surface discharge of produced water regulated under WYPDES; groundwater discharge under Groundwater Pollution Control (GPC) Program (Class V UIC-adjacent).
+      - title: Water Quality Rules and Regulations, Chapter 11 (incl. industrial waste)
+        url: http://eqc.state.wy.us/orders/Water%20Closed%20Cases/11-3101%20WQD%20Chapt%203,5,11,12,16,20,21,23%20w-NEW%20Chapt.%2025%20and%2026/Chapter%2011%20New%20Clean.pdf
+        doc_type: regulation
+        format: pdf
+        citation_root: Wyoming Water Quality Rules and Regs, Ch. 11
+        notes: URL found via search of EQC closed-cases archive; may not be the current consolidated chapter text - verify against Secretary of State rules.wyo.gov before citing.
+      - title: WYPDES Discharge Permitting
+        url: https://deq.wyoming.gov/water-quality/wypdes/discharge-permitting/
+        doc_type: guidance
+        format: html
+        citation_root: WY Water Quality Rules Ch. 3 (WYPDES)
+      - title: Other Permits (small wastewater / Class V UIC-adjacent)
+        url: https://deq.wyoming.gov/water-quality/water-wastewater/permitting/other-permits/
+        doc_type: guidance
+        format: html
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-deq-lqd
+    jurisdiction_level: state
+    state: WY
+    name: Wyoming DEQ Land Quality Division
+    agency: Wyoming Department of Environmental Quality, Land Quality Division (LQD)
+    authority_type: [reclamation, land_use_zoning]
+    applies_to: [well_pad, access_road, gas_processing_plant]
+    code_platform: state_register
+    landing_url: https://deq.wyoming.gov/land-quality/
+    documents:
+      - title: Land Quality Division home
+        url: https://deq.wyoming.gov/land-quality/
+        doc_type: guidance
+        format: html
+        notes: Primarily a mining-permitting division (coal/non-coal); relevance to midstream O&G is mainly surface disturbance/reclamation adjacency - not independently confirmed to have a distinct O&G midstream permit this pass.
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  - id: wy-deq-shwd
+    jurisdiction_level: state
+    state: WY
+    name: Wyoming DEQ Solid & Hazardous Waste Division - Oil & Gas Waste (Reserve Pits)
+    agency: Wyoming Department of Environmental Quality, Solid & Hazardous Waste Division (SHWD)
+    authority_type: [waste]
+    applies_to: [well_pad, tank_battery, swd_well]
+    code_platform: state_register
+    landing_url: https://deq.wyoming.gov/shwd/
+    documents:
+      - title: Solid & Hazardous Waste Division home
+        url: https://deq.wyoming.gov/shwd/
+        doc_type: guidance
+        format: html
+        citation_root: WAQSR-adjacent Solid Waste rules, Chapter 8 (O&G exploration/production waste - reserve, completion, flare, OBM, cuttings, emergency, workover, production pits)
+        notes: "Chapter 8 exact regulation text URL not confirmed this pass; SHWD administers commercial ponds/pits for O&G fluid disposal per search summary. Cross-reference BLM IM-WY-2012-007 (Management of O&G E&P Pits) for federal-land overlap context only, not a WY state doc."
+      - title: Hazardous Waste Permitting & Corrective Actions
+        url: https://deq.wyoming.gov/shwd/hazardous-waste-permitting-corrective-actions/
+        doc_type: guidance
+        format: html
+      - title: Storage Tank program
+        url: https://deq.wyoming.gov/shwd/storage-tank/
+        doc_type: guidance
+        format: html
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  - id: wy-seo
+    jurisdiction_level: state
+    state: WY
+    name: Wyoming State Engineer's Office - Water Rights / Permit to Appropriate
+    agency: Wyoming State Engineer's Office (SEO)
+    authority_type: [water_quality, surface_owner]
+    applies_to: [water_crossing, produced_water_line, well_pad]
+    code_platform: self_hosted
+    landing_url: https://seo.wyo.gov/
+    documents:
+      - title: SEO e-Permit and Instructions
+        url: https://seo.wyo.gov/home/e-permit-and-instructions
+        doc_type: application_packet
+        format: html
+      - title: SEO General Processes (groundwater)
+        url: https://seo.wyo.gov/ground-water/general-processes
+        doc_type: guidance
+        format: html
+      - title: SEO Surface Water
+        url: https://seo.wyo.gov/surface-water
+        doc_type: guidance
+        format: html
+    permits:
+      - name: Application for Permit to Appropriate Ground Water
+        form_id: U.W. 5
+        trigger: New groundwater well/appropriation (relevant to water source wells for O&G ops)
+      - name: Water crossing / surface water appropriation permit
+        trigger: Pipeline water crossings requiring appropriation or diversion
+    contacts:
+      - role: General e-Permit questions
+        phone: "307-777-6150"
+      - role: Surface Water and Engineering Division
+        phone: "307-777-6475"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-osli
+    jurisdiction_level: state
+    state: WY
+    name: Wyoming Office of State Lands and Investments - State Land ROW / Easements
+    agency: Office of State Lands and Investments (OSLI) / Board of Land Commissioners
+    authority_type: [surface_owner, roads_row]
+    applies_to: [midstream_pipeline, produced_water_line, access_road, electrical_line]
+    code_platform: self_hosted
+    landing_url: https://lands.wyo.gov/
+    documents:
+      - title: OSLI Easements (Non-Roadway Easement Application)
+        url: https://lands.wyo.gov/trust-land-management/surface-leasing/easements
+        doc_type: application_packet
+        format: html
+        notes: Developer submits Non-Roadway Easement Application; 75% deposit of estimated consideration required; easements typically issued for up to 35-year terms.
+      - title: OSLI Applications & Forms
+        url: https://lands.wyo.gov/resources/applications-forms
+        doc_type: form
+        format: html
+      - title: OSLI Land and Lease Map Viewer (GIS)
+        url: https://lands.wyo.gov/resources/land-and-lease-map-viewer
+        doc_type: gis
+        format: unknown
+    permits:
+      - name: Non-Roadway Easement (pipeline/utility ROW across state trust land)
+        trigger: Crossing or occupying Wyoming state trust land
+        decision_body: OSLI / Board of Land Commissioners
+        fee: "75% deposit of estimated consideration required to obtain preliminary approval"
+    gis:
+      - name: OSLI Land and Lease Map Viewer
+        url: https://lands.wyo.gov/resources/land-and-lease-map-viewer
+        service_type: unknown
+        layer_use: State trust land ownership / leasing
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-wydot-utility
+    jurisdiction_level: state
+    state: WY
+    name: WYDOT Utility Accommodation / Access Permits (State Highway ROW)
+    agency: Wyoming Department of Transportation (WYDOT)
+    authority_type: [roads_row]
+    applies_to: [midstream_pipeline, produced_water_line, electrical_line, access_road, water_crossing]
+    code_platform: self_hosted
+    landing_url: https://www.dot.state.wy.us/
+    documents:
+      - title: WYDOT Utility Accommodation Regulation
+        url: https://wyoleg.gov/LSOResearch/2004/WYDOT%20Utility%20Accommodation%20Regulation.pdf
+        doc_type: regulation
+        format: pdf
+        notes: Found via LSO research archive copy dated 2004; verify current version against WYDOT site directly before citing.
+      - title: M-54 License Packet (Utility Construction Authorization)
+        url: https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Highway_Development/Utilities/M-54_License_Packet%20_Apr%202018.pdf
+        doc_type: application_packet
+        format: pdf
+        citation_root: WYDOT Form M-54
+    permits:
+      - name: WYDOT Form M-54 Utility License / Access Permit
+        form_id: M-54
+        trigger: Pipeline, utility line, or access crossing/encroaching WYDOT highway right-of-way
+        decision_body: WYDOT District Maintenance Engineer
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-psc
+    jurisdiction_level: state
+    state: WY
+    name: Wyoming Public Service Commission - Intrastate Gas Pipeline Safety
+    agency: Wyoming Public Service Commission (PSC)
+    authority_type: [pipeline_safety]
+    applies_to: [midstream_pipeline, gas_processing_plant]
+    code_platform: state_register
+    landing_url: https://psc.wyo.gov/pipeline
+    documents:
+      - title: PSC Pipeline Safety program
+        url: https://psc.wyo.gov/pipeline
+        doc_type: guidance
+        format: html
+        notes: PSC has PHMSA-delegated safety jurisdiction over intrastate gas transmission, gas distribution, LPG distribution, and regulated gas gathering systems in WY; NOT interstate gas or hazardous liquids pipelines (those are PHMSA-direct). Regulates ~20 intrastate pipeline companies.
+      - title: PSC Gas program (CPCN)
+        url: https://psc.wyo.gov/gas
+        doc_type: guidance
+        format: html
+        citation_root: Wyoming Statutes Title 37, Ch. 2
+    permits:
+      - name: Certificate of Public Convenience and Necessity (CPCN)
+        trigger: Intrastate gas transmission line or high-pressure distribution line (>125 psig MAOP)
+        decision_body: Wyoming Public Service Commission
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-wgfd-sagegrouse
+    jurisdiction_level: state
+    state: WY
+    name: Wyoming Game & Fish Department - Sage-Grouse Core Area / Big Game Migration Corridor Recommendations
+    agency: Wyoming Game and Fish Department (WGFD); policy set by Governor's Executive Order
+    authority_type: [wildlife, endangered_species]
+    applies_to: [well_pad, midstream_pipeline, access_road, compressor_station]
+    code_platform: self_hosted
+    landing_url: https://wgfd.wyo.gov/wyoming-wildlife/sage-grouse-management/sage-grouse-executive-order
+    documents:
+      - title: Sage-Grouse Executive Order (Core Area policy)
+        url: https://wgfd.wyo.gov/wyoming-wildlife/sage-grouse-management/sage-grouse-executive-order
+        doc_type: policy
+        format: html
+        notes: "Current policy framework is the Governor's (Gordon) Executive Order on Greater Sage-Grouse plus a separate EO on Mule Deer/Antelope Migration Corridors. Core Area standard: no more than 5% surface disturbance within a designated Core Area. Executive Order is state policy, not a WOGCC/DEQ rule - it is implemented mainly through BLM/state land leasing stipulations and WOGCC permit conditions, not a standalone permit."
+      - title: Recommendations for Development of Oil and Gas Resources
+        url: https://wgfd.wyo.gov/media/2358/download
+        doc_type: guidance
+        format: pdf
+        citation_root: WGFD O&G Development Recommendations
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-shpo
+    jurisdiction_level: state
+    state: WY
+    name: Wyoming State Historic Preservation Office - Section 106 Review
+    agency: Wyoming State Historic Preservation Office (SHPO) / Wyoming Office of State Parks and Cultural Resources
+    authority_type: [cultural_historic]
+    applies_to: [midstream_pipeline, well_pad, access_road, compressor_station, gas_processing_plant]
+    code_platform: self_hosted
+    landing_url: https://wyoshpo.wyo.gov/
+    documents:
+      - title: Review and Consultation (Section 106)
+        url: https://wyoshpo.wyo.gov/index.php/programs/review-and-consultation-s106
+        doc_type: guidance
+        format: html
+        notes: Triggered for projects on federal land, using federal funds, or requiring federal permitting; also implements WY Antiquities Act of 1935 and WY Environmental Quality Act of 1973.
+      - title: E-106 Submission portal (WyoTrack)
+        url: https://shpo.uwyo.edu/PublicE106
+        doc_type: application_packet
+        format: html
+      - title: Cultural Records program
+        url: https://wyoshpo.wyo.gov/index.php/programs/cultural-records
+        doc_type: guidance
+        format: html
+    contacts:
+      - role: SHPO main office
+        phone: "307-777-7697"
+        office: 2301 Central Avenue, Cheyenne, WY 82002
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-deq-industrial-siting
+    jurisdiction_level: state
+    state: WY
+    name: Wyoming Industrial Siting Council - Industrial Development Information and Siting Act
+    agency: Wyoming DEQ Industrial Siting Division / Industrial Siting Council
+    authority_type: [land_use_zoning, air_quality, water_quality]
+    applies_to: [gas_processing_plant, compressor_station, midstream_pipeline]
+    code_platform: state_register
+    landing_url: https://deq.wyoming.gov/industrial-siting-2/
+    documents:
+      - title: Industrial Siting - Permitting
+        url: https://deq.wyoming.gov/industrial-siting-2/permitting/
+        doc_type: guidance
+        format: html
+        citation_root: W.S. 35-12-101 et seq. (Title 35, Chapter 12)
+        notes: "CRITICAL for large gas plants/pipelines. Base statutory threshold was $96,000,000, escalated annually by construction-cost indices. Search results were inconsistent on the CURRENT exact dollar figure (~$231M in one source, and separately $283,166,876 permit trigger / $226,533,500 Certificate-of-Insufficient-Jurisdiction trigger in another, source unclear which year each applies to) - the exact current-year threshold MUST be re-verified directly against the Industrial Siting Council's published annual adjustment before use; do not cite the dollar figures from this record without confirming the effective year."
+      - title: Title 35 Chapter 12 - Industrial Development and Siting (2010 statute text, Justia mirror)
+        url: https://law.justia.com/codes/wyoming/2010/Title35/chapter12.html
+        doc_type: statute
+        format: html
+        notes: This is a 2010-vintage statute mirror, not necessarily current; use for structure/definitions only, verify against wyoleg.gov for current text.
+    permits:
+      - name: Industrial Facility Permit (Industrial Siting Permit)
+        trigger: Facility estimated construction cost exceeds the current adjusted statutory threshold (base $96M, escalated - reported as roughly $226M-$283M range across sources, unverified exact current figure)
+        decision_body: Industrial Siting Council
+        public_hearing: true
+      - name: Certificate of Insufficient Jurisdiction
+        trigger: Facility cost falls in a lower band below the full permit threshold (per one source, ~$226.5M) but the Council determines local jurisdiction is sufficient
+        decision_body: Industrial Siting Council
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  - id: wy-onecall
+    jurisdiction_level: state
+    state: WY
+    name: Wyoming 811 / One-Call of Wyoming
+    agency: One-Call of Wyoming (Wyoming811), nonprofit damage-prevention utility notification center
+    authority_type: [roads_row, spill_reporting]
+    applies_to: [midstream_pipeline, produced_water_line, electrical_line, access_road]
+    code_platform: unknown
+    landing_url: https://primis.phmsa.dot.gov/comm/statepages/wyoming.htm
+    documents:
+      - title: PHMSA Stakeholder Communications - Wyoming State Page (811 / damage prevention)
+        url: https://primis.phmsa.dot.gov/comm/statepages/wyoming.htm
+        doc_type: guidance
+        format: html
+        notes: Direct Wyoming811.com landing URL was not independently confirmed in search results this pass; this PHMSA state page and the Wyoming Pipeline Association page reference it. Verify wyoming811.com directly before relying on it.
+      - title: Wyoming Pipeline Association (WyPA)
+        url: https://wypa.pipelineawareness.org/
+        doc_type: guidance
+        format: html
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  - id: wy-pipeline-corridor-initiative
+    jurisdiction_level: state
+    state: WY
+    name: Wyoming Pipeline Corridor Initiative (WPCI) / Wyoming Energy Authority (formerly Pipeline Authority)
+    agency: Wyoming Energy Authority (WEA) - successor to the Wyoming Pipeline Authority
+    authority_type: [roads_row, land_use_zoning]
+    applies_to: [midstream_pipeline]
+    code_platform: unknown
+    landing_url: https://www.eoriwyoming.org/co2-initiative/wyoming-pipeline-corridor-initiative
+    documents:
+      - title: Wyoming Pipeline Corridor Initiative overview
+        url: https://www.eoriwyoming.org/co2-initiative/wyoming-pipeline-corridor-initiative
+        doc_type: guidance
+        format: html
+        notes: "WPCI designates federal-land corridors (primarily for CO2 EOR pipelines) to shorten siting timelines. NOTE: the Wyoming Pipeline Authority has been renamed/absorbed into the Wyoming Energy Authority (WEA) - confirm WEA's own current site (energyauthority.wyo.gov or similar) directly; not independently located/verified this pass."
+      - title: WPCI Record of Decision map
+        url: https://www.eoriwyoming.org/downloads/WPCI_ROD_map.pdf
+        doc_type: map
+        format: pdf
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  # =========================================================================
+  # COUNTIES
+  # =========================================================================
+
+  - id: wy-campbell-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Campbell
+    name: Campbell County Land Use / Zoning
+    agency: Campbell County Planning & Zoning Division
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, tank_battery, access_road]
+    code_platform: self_hosted
+    landing_url: https://www.campbellcountywy.gov/833/Zoning-Regulations
+    documents:
+      - title: Chapter 7 Zoning Regulations (adopted 1969, as amended)
+        url: https://www.campbellcountywy.gov/DocumentCenter/View/474/Chapter-Seven-Rules---Zoning-Regulations
+        doc_type: ordinance
+        format: pdf
+        citation_root: Campbell County Ch. 7 Zoning Regulations
+        notes: "Campbell County has NO county-wide zoning; only individually zoned subdivisions are subject to zoning classification and Zoning Certificate requirements."
+      - title: Campbell County Amended Natural Resource & Land Use Plan
+        url: https://www.campbellcountywy.gov/DocumentCenter/View/4929/Campbell-County-Amended-Natural-Resource--Land-Use-Plan
+        doc_type: policy
+        format: pdf
+      - title: Applications and Forms
+        url: https://www.campbellcountywy.gov/690/Applications-and-Forms
+        doc_type: form
+        format: html
+    permits:
+      - name: Zoning Certificate
+        trigger: Proposed structure/land use in a zoned subdivision
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-converse-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Converse
+    name: Converse County Planning & Zoning / Subdivision Regulations
+    agency: Converse County Planning & Zoning Commission
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, tank_battery, access_road]
+    code_platform: self_hosted
+    landing_url: https://www.conversecountywy.gov/154/Regulations
+    documents:
+      - title: Converse County Subdivision Regulations (2022)
+        url: https://conversecountywy.gov/DocumentCenter/View/3799/2022-Converse-County-Subdivision-Regulations
+        doc_type: regulation
+        format: pdf
+      - title: Permits & Regulations
+        url: https://www.conversecountywy.gov/259/Permits-Regulations
+        doc_type: guidance
+        format: html
+    contacts:
+      - role: Special Projects (Planning & Zoning contact)
+        phone: "(307) 358-1990"
+        email: specialprojects@conversecountywy.gov
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-sublette-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Sublette
+    name: Sublette County Zoning and Development Regulations
+    agency: Sublette County Planning & Zoning
+    authority_type: [land_use_zoning, waste]
+    applies_to: [well_pad, midstream_pipeline, tank_battery, swd_well, access_road, gas_processing_plant]
+    code_platform: self_hosted
+    landing_url: https://www.sublettecountywy.gov/133/Current-Zoning-Development-Regulations
+    documents:
+      - title: 2024 Sublette County Zoning and Development Regulations
+        url: https://www.sublettecountywy.gov/DocumentCenter/View/6328/Sublette-County-Zoning-and-Development-Regulations-Audit--For-Public
+        doc_type: ordinance
+        format: pdf
+        citation_root: Sublette County Zoning and Development Regulations (2024)
+        notes: Defines Oil & Gas Production Waste Disposal Facilities (disposal pits, freeze-thaw ops, contaminated soil/sludge treatment, evaporation ponds) as a distinct regulated use.
+      - title: Sublette County Comprehensive Plan (2003, amended 2005)
+        url: https://www.sublettecountywy.gov/123/Planning-Zoning
+        doc_type: policy
+        format: html
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-sweetwater-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Sweetwater
+    name: Sweetwater County Zoning Resolution / Development Codes
+    agency: Sweetwater County Land Use Department
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, tank_battery, access_road, gas_processing_plant]
+    code_platform: self_hosted
+    landing_url: https://www.sweetwatercountywy.gov/departments/land_use/development_codes.php
+    documents:
+      - title: Sweetwater County 2015 Zoning Resolution
+        url: https://www.sweetwatercountywy.gov/departments/land_use/development_codes.php
+        doc_type: ordinance
+        format: html
+        notes: Also has a Growth Management Plan applying additional regs around Rock Springs/Green River, and separate Subdivision Regulations.
+    permits:
+      - name: Zoning Permit
+        trigger: All residential, commercial, industrial and mineral construction/use in unincorporated county
+    contacts:
+      - role: Land Use Office
+        office: 80 W. Flaming Gorge Way Suite 23, Green River, WY 82935
+        phone: "(307) 872-3914"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-fremont-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Fremont
+    name: Fremont County Planning (No County-Wide Zoning)
+    agency: Fremont County Planning Department
+    authority_type: [floodplain, land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, access_road]
+    code_platform: self_hosted
+    landing_url: https://fremontcountywy.gov/government/departments/planning_department/index.php
+    documents:
+      - title: Fremont County Planning Department home
+        url: https://fremontcountywy.gov/government/departments/planning_department/index.php
+        doc_type: guidance
+        format: html
+        notes: "Fremont County has NO county-wide zoning and no county-specific building code. Department administers Subdivision Regulations, Rural Addressing, Small Wastewater Regulations (septic >2,000 gal/day exempt threshold noted), and Floodplain Zoning Regulations."
+    contacts:
+      - role: Planning Director
+        office: Room 360 Courthouse, 450 N 2nd St, Lander, WY 82520
+        phone: "(307) 332-1077"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-natrona-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Natrona
+    name: Natrona County Zoning Resolution
+    agency: Natrona County Planning Department
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, tank_battery, access_road]
+    code_platform: self_hosted
+    landing_url: https://www.natronacounty-wy.gov/894/Zoning
+    documents:
+      - title: Natrona County Zoning Resolution
+        url: https://www.natronacounty-wy.gov/894/Zoning
+        doc_type: ordinance
+        format: html
+        notes: Includes a Mountain/Wildfire Safety overlay district. Zoning Resolution rewrite was in progress per staff directory reference - verify current adopted version.
+      - title: Planning & Zoning Commission
+        url: https://www.natronacounty-wy.gov/257/Planning-Zoning-Commission
+        doc_type: guidance
+        format: html
+    contacts:
+      - role: Planning Department
+        phone: "307-235-9447"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-carbon-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Carbon
+    name: Carbon County Zoning Resolution
+    agency: Carbon County Department of Planning and Zoning
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, tank_battery, access_road]
+    code_platform: self_hosted
+    landing_url: https://www.carboncountywy.gov/1111/Zoning-Resolution-and-Map
+    documents:
+      - title: Carbon County Zoning Resolution of 2015 (amended 2020)
+        url: https://www.carboncountywy.gov/1111/Zoning-Resolution-and-Map
+        doc_type: ordinance
+        format: html
+      - title: Carbon County Subdivision Regulations of 2023
+        url: https://www.carbonwy.com/DocumentCenter/View/502
+        doc_type: regulation
+        format: pdf
+      - title: Building Permit Application
+        url: https://www.carboncountywy.gov/DocumentCenter/View/6260/Application---Building-Permit
+        doc_type: form
+        format: pdf
+    permits:
+      - name: Building Permit and Zoning Certificate
+        trigger: Construction of new buildings/structures
+        decision_body: Planning and Zoning Department
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-laramie-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Laramie
+    name: Laramie County Land Use Regulations / Oil and Gas Program
+    agency: Laramie County Planning & Development
+    authority_type: [land_use_zoning, oil_gas_conservation]
+    applies_to: [well_pad, midstream_pipeline, tank_battery, swd_well, access_road]
+    code_platform: self_hosted
+    landing_url: https://www.laramiecountywy.gov/County-Government/County-Departments/Planning-Development
+    documents:
+      - title: Laramie County Oil and Gas program page
+        url: https://www.laramiecountywy.gov/County-Government/County-Departments/Planning-Development/Oil-and-Gas
+        doc_type: guidance
+        format: html
+        notes: County reserves Wednesdays 1:00pm for O&G applicant pre-application meetings with Planning, Public Works, and Environmental Health depts jointly. Includes well-location MapServer (Well Head layer).
+      - title: Land Use Regulations (2025 Laramie County Land Use Regulations, notice of intent to adopt)
+        url: https://www.laramiecountywy.gov/Public-Notices/Land-Use-Regulations
+        doc_type: ordinance
+        format: html
+        notes: County was in process of adopting 2025 Land Use Regulations and amending the Unincorporated Laramie County Zone District Map - verify final adoption status/date.
+    contacts:
+      - role: Planning and Development Office
+        phone: "(307) 633-4303"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-lincoln-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Lincoln
+    name: Lincoln County Planning and Development
+    agency: Lincoln County Office of Planning and Development
+    authority_type: [land_use_zoning, floodplain]
+    applies_to: [well_pad, midstream_pipeline, access_road]
+    code_platform: self_hosted
+    landing_url: https://www.lincolncountywy.gov/government/planning_development/index.php
+    documents:
+      - title: Lincoln County Planning and Development home
+        url: https://www.lincolncountywy.gov/government/planning_development/index.php
+        doc_type: guidance
+        format: html
+        notes: Covers Land Use, Zoning, Subdivision, Building, Small Wastewater/Septic permitting, and Floodplain Administration. Online permit portal available. Two offices - Kemmerer and Afton.
+    contacts:
+      - role: Kemmerer office
+        office: 925 Sage Ave. Suite 201, Kemmerer, WY 83101
+        phone: "307-877-9056"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-uinta-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Uinta
+    name: Uinta County Land Use Plan Resolution / Zoning
+    agency: Uinta County Planning & Development
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, tank_battery, access_road]
+    code_platform: self_hosted
+    landing_url: https://www.uintacountywy.gov/1109/Zoning
+    documents:
+      - title: Uinta County Land Use Plan Resolution 23-02
+        url: https://www.uintacountywy.gov/DocumentCenter/View/608/Uinta-County-Land-Use-Resolution-2023
+        doc_type: ordinance
+        format: pdf
+        citation_root: Uinta County Land Use Resolution 23-02
+        notes: Districts include ARD (Agriculture/Resource Development), R, C, I, plus Flood Hazard Area, Airport Protection, and Sexually Oriented Business overlays. Adopted under W.S. 18-5-201.
+    contacts:
+      - role: Planning & Development Department
+        office: 225 9th Street, Evanston, WY 82930
+        phone: "307-783-0318"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-johnson-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Johnson
+    name: Johnson County Planning & Zoning
+    agency: Johnson County Planning Department
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, access_road]
+    code_platform: self_hosted
+    landing_url: https://www.johnsoncowy.gov/departments/planning-zoning
+    documents:
+      - title: Johnson County Planning & Zoning Documents
+        url: https://www.johnsoncowy.gov/departments/planning-zoning-documents
+        doc_type: guidance
+        format: html
+        notes: "As of this research, Johnson County zoning regulations were described as 'Draft Zoning Regulations' - status of formal county-wide zoning adoption is UNVERIFIED; confirm current adoption status directly with department before relying on this record for a zoning determination."
+    contacts:
+      - role: Johnson County Planning Department
+        office: Office Annex A, Suite A, 26 N DeSmet Ave, Buffalo, WY 82834
+        phone: "(307) 684-1907"
+        email: jwaller@johnsoncowy.gov
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  - id: wy-sheridan-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Sheridan
+    name: Sheridan County Zoning and Division of Land Rules and Regulations
+    agency: Sheridan County Planning Department
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, tank_battery, access_road]
+    code_platform: self_hosted
+    landing_url: https://www.sheridancountywy.gov/departments/planning/index.php
+    documents:
+      - title: Sheridan County Planning and Zoning Commission
+        url: https://www.sheridancountywy.gov/county_government/planning_and_zoning_commission_.php
+        doc_type: guidance
+        format: html
+        notes: Zoning districts include Urban, Rural Residential, Agricultural, Commercial, Industrial, Airport Zone, and explicit regulation of Mineral and Oil and Gas Extraction activities. Administers Rezoning, Quarry, Variance, Conditional Use, Subdivision permits.
+    contacts:
+      - role: Planning Department
+        phone: "307-675-2420"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-bighorn-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Big Horn
+    name: Big Horn County Land Planning (No County-Wide Zoning)
+    agency: Big Horn County Land Planning Department
+    authority_type: [land_use_zoning, floodplain]
+    applies_to: [well_pad, midstream_pipeline, access_road]
+    code_platform: self_hosted
+    landing_url: https://www.bighorncountywy.gov/departments/land-planning/planning-zoning
+    documents:
+      - title: Big Horn County Land Use Plan (adopted 2010-01-06)
+        url: https://www.bighorncountywy.gov/departments/land-planning/land-use-plan
+        doc_type: policy
+        format: html
+        notes: "Big Horn County has NO county-wide zoning - only localized Airport Protection zoning. County requires permits for construction/development, subdivisions, floodplain, and small wastewater systems only."
+    contacts:
+      - role: Land Planning Department
+        office: 425 Murphy Street, Basin, WY 82410
+        phone: "307-568-2424"
+        email: planner@bighorncountywy.gov
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-park-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Park
+    name: Park County Planning and Zoning / Land Use Plan
+    agency: Park County Planning and Zoning Department
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, tank_battery, access_road]
+    code_platform: self_hosted
+    landing_url: https://parkcounty-wy.gov/planning-and-zoning/
+    documents:
+      - title: Park County Land Use Plan (adopted 1998-09-15)
+        url: https://parkcounty-wy.gov/planning-and-zoning/regulations/
+        doc_type: policy
+        format: html
+        notes: 12 planning areas; a "2027 Development Standards and Regulations" adoption draft with new zoning map was under public review at time of research (engageparkcounty.com) - verify final adoption status.
+      - title: Park County Natural Resource Management Plan for State and Federal Lands (adopted 2021-09-20)
+        url: https://parkcounty-wy.gov/planning-and-zoning/regulations/
+        doc_type: policy
+        format: html
+    contacts:
+      - role: Planning and Zoning Department
+        office: 1002 Sheridan Ave., Suite 109, Cody, WY 82414
+        phone: "(307) 527-8540"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-washakie-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Washakie
+    name: Washakie County Subdivision and Development Regulations
+    agency: Washakie County Planning Office
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, access_road]
+    code_platform: self_hosted
+    landing_url: https://www.washakiecountywy.gov/210/Planner
+    documents:
+      - title: Washakie County Subdivision and Development Regulations (Resolution 2023-398, eff. 2024-01-01)
+        url: https://www.washakiecountywy.gov/210/Planner
+        doc_type: regulation
+        format: html
+        notes: Whether these regulations constitute full county-wide zoning (vs. subdivision-only regulation) was not conclusively determined this pass - confidence marked unverified pending direct confirmation.
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  - id: wy-hotsprings-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Hot Springs
+    name: Hot Springs County Planning Office / Land Use Plan
+    agency: Hot Springs County Planning Office
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, access_road]
+    code_platform: self_hosted
+    landing_url: https://hscounty.com/departments/planner
+    documents:
+      - title: Hot Springs County Land Use Plan (2020)
+        url: https://hscounty.com/component/edocman/2020-land-use-plan/viewdocument/485?Itemid=0
+        doc_type: policy
+        format: pdf
+        notes: Planning Office reviews proposed developments/land divisions and administers subdivision, addressing, and septic permits; does not appear to be a traditional zoning-district ordinance - status of formal zoning unverified.
+    contacts:
+      - role: Planning Office
+        phone: "307-864-2961"
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  - id: wy-weston-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Weston
+    name: Weston County Growth and Development (No Zoning - Subdivision Regs Only)
+    agency: Weston County Growth and Development Office
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, access_road]
+    code_platform: self_hosted
+    landing_url: https://www.westongov.com/growth-and-development/
+    documents:
+      - title: Weston County Growth and Development
+        url: https://www.westongov.com/growth-and-development/
+        doc_type: guidance
+        format: html
+        notes: "Weston County has NO zoning ordinance - the only local land use regulation is subdivision regulations. DEQ, SEO, and Fire Prevention handle sewer/well/construction permits respectively at the state level in the absence of county zoning."
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-crook-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Crook
+    name: Crook County Land Use Planning & Zoning Commission
+    agency: Crook County Growth and Development Department
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, access_road]
+    code_platform: self_hosted
+    landing_url: https://www.crookcounty.wy.gov/departments/growth_and_development/index.php
+    documents:
+      - title: Crook County Land Use Planning & Zoning Commission (CCLUP&ZC)
+        url: https://www.crookcounty.wy.gov/boards2/land_use_planning___zoning_commission/index.php
+        doc_type: guidance
+        format: html
+        notes: Whether the county has an adopted county-wide zoning ordinance (vs. only a planning/zoning commission with subdivision-review authority) was not conclusively confirmed this pass.
+    contacts:
+      - role: Planning Department
+        office: PO Box 825, Sundance, WY 82729
+        phone: "(307) 283-4548"
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  - id: wy-niobrara-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Niobrara
+    name: Niobrara County Planning and Zoning (No Formal Zoning Ordinance)
+    agency: Niobrara County Planning and Zoning Board
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, access_road]
+    code_platform: self_hosted
+    landing_url: https://www.niobraracounty.org/_departments/_planning_and_zoning/index.asp
+    documents:
+      - title: Niobrara County Planning and Zoning
+        url: https://www.niobraracounty.org/_departments/_planning_and_zoning/index.asp
+        doc_type: guidance
+        format: html
+        notes: "Niobrara County's 'zoning board' assists with land splits/subdivisions only; per search summary there is NO charge or permit required by the county for this, only a checklist of steps. Effectively no substantive county-wide zoning code identified."
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-goshen-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Goshen
+    name: Goshen County Planning Commission
+    agency: Goshen County Planning & GIS
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, access_road]
+    code_platform: self_hosted
+    landing_url: https://www.goshencountywy.gov/210/Planning-and-GIS
+    documents:
+      - title: Goshen County Planning & GIS
+        url: https://www.goshencountywy.gov/210/Planning-and-GIS
+        doc_type: guidance
+        format: html
+        notes: Zoning status (whether a county-wide zoning ordinance exists) was NOT determined this pass - flagged for direct follow-up.
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  - id: wy-platte-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Platte
+    name: Platte County Zoning Rules and Regulations / Land Use Rules
+    agency: Platte County Planning and Zoning Department
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, tank_battery, access_road]
+    code_platform: self_hosted
+    landing_url: https://www.plattecountywyoming.com/departments/PlanningandZoning
+    documents:
+      - title: Platte County Zoning Rules and Regulations
+        url: https://www.plattecountywyoming.com/media/Planning%20&%20Zoning/RulesRegs/Platte%20County%20zoning%20Regs%20Rev%20A.pdf
+        doc_type: ordinance
+        format: pdf
+      - title: Platte County Land Use Rules and Regulations
+        url: https://www.plattecountywyoming.com/media/Planning%20&%20Zoning/RulesRegs/Regulations.pdf
+        doc_type: regulation
+        format: pdf
+    contacts:
+      - role: Planning Office
+        office: Platte County Courthouse, 800 9th Street, Wheatland, WY
+        email: planner@plattecountywyoming.com
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-albany-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Albany
+    name: Albany County Zoning Resolution
+    agency: Albany County Planning Department
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, tank_battery, access_road]
+    code_platform: self_hosted
+    landing_url: https://www.albanycountywy.gov/263/Regulations-Zoning-Map
+    documents:
+      - title: Albany County Zoning Resolution
+        url: https://www.albanycountywy.gov/DocumentCenter/View/1004/Zoning-Resolution-
+        doc_type: ordinance
+        format: pdf
+        notes: Specific oil & gas provisions within the resolution were not independently confirmed this pass.
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-teton-county-landuse
+    jurisdiction_level: county
+    state: WY
+    county: Teton
+    name: Teton County / Jackson Land Development Regulations (LDRs)
+    agency: Teton County Planning Division (joint Jackson/Teton County Comprehensive Plan)
+    authority_type: [land_use_zoning, building_code, floodplain]
+    applies_to: [well_pad, midstream_pipeline, access_road]
+    code_platform: municode
+    landing_url: https://www.tetoncountywy.gov/1680/Land-Development-Regulations
+    documents:
+      - title: Teton County Land Development Regulations
+        url: https://library.municode.com/wy/teton_county/ordinances/land_development_regulations
+        doc_type: ordinance
+        format: html
+        citation_root: Jackson/Teton County Land Development Regulations
+      - title: Comprehensive Plan & LDRs
+        url: https://www.tetoncountywy.gov/1188/Comprehensive-Plan-LDRs
+        doc_type: policy
+        format: html
+      - title: County Building Codes Resolution (2025)
+        url: https://tetoncountywy.gov/DocumentCenter/View/37571/2025-Building-Code-Resoloution--7-1-2025
+        doc_type: ordinance
+        format: pdf
+    contacts:
+      - role: Planner of the Day
+        phone: "(307) 733-3959"
+        email: planneroftheday@tetoncountywy.gov
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # =========================================================================
+  # MUNICIPALITIES (researched this pass; remaining municipalities in the
+  # requested scope were NOT reached before the session web-search budget
+  # was exhausted - see regbase/sources/wy.notes.md for the full gap list)
+  # =========================================================================
+
+  - id: wy-casper-municipal-code
+    jurisdiction_level: municipal
+    state: WY
+    county: Natrona
+    municipality: Casper
+    name: City of Casper Municipal Code - Zoning (Title 17)
+    agency: City of Casper
+    authority_type: [land_use_zoning, building_code]
+    applies_to: [midstream_pipeline, access_road, compressor_station]
+    code_platform: municode
+    landing_url: https://library.municode.com/wy/casper/codes/code_of_ordinances
+    documents:
+      - title: Casper Municipal Code - Title 17 Zoning
+        url: https://library.municode.com/wy/casper/codes/code_of_ordinances?nodeId=TIT17ZO
+        doc_type: ordinance
+        format: html
+        citation_root: Casper Municipal Code Title 17
+      - title: Title 15 Buildings and Construction, Ch.15.06 Infrastructure/Excavation
+        url: https://library.municode.com/wy/casper/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.06INEXBUCO
+        doc_type: ordinance
+        format: html
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-gillette-municipal-code
+    jurisdiction_level: municipal
+    state: WY
+    county: Campbell
+    municipality: Gillette
+    name: City of Gillette Municipal Code
+    agency: City of Gillette
+    authority_type: [land_use_zoning, building_code]
+    applies_to: [midstream_pipeline, access_road, compressor_station]
+    code_platform: sterling
+    landing_url: https://www.gillettewy.gov/Departments/City-Attorney/Current-City-Code
+    documents:
+      - title: Gillette Current City Code (encodeplus platform)
+        url: https://online.encodeplus.com/regs/gillette-wy/doc-viewer.aspx?secid=69
+        doc_type: ordinance
+        format: html
+        notes: Platform is EnCodePlus, which does not have a dedicated enum value in this schema - marked as closest available (sterling) pending a more precise platform category; verify. City Code references a Chapter 12 "Oil and Water Wells."
+      - title: Gillette City Planning Division
+        url: https://www.gillettewy.gov/Departments/Development-Services/City-Planning-Division
+        doc_type: guidance
+        format: html
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-douglas-municipal-code
+    jurisdiction_level: municipal
+    state: WY
+    county: Converse
+    municipality: Douglas
+    name: City of Douglas Municipal Code - Zoning (Title 16)
+    agency: City of Douglas
+    authority_type: [land_use_zoning, building_code, roads_row]
+    applies_to: [midstream_pipeline, access_road]
+    code_platform: municode
+    landing_url: https://www.cityofdouglas.org/226/Municipal-Code
+    documents:
+      - title: Douglas Municipal Code - Title 16 Unified Land Development Code, Ch.4 Zoning
+        url: https://library.municode.com/wy/douglas/codes/code_of_ordinances?nodeId=TIT16UNLADECO_CH4ZO
+        doc_type: ordinance
+        format: html
+        citation_root: Douglas Municipal Code Title 16 Ch. 4
+      - title: Douglas Municipal Code - Title 10 Ch.10.08 Right-of-Way
+        url: https://library.municode.com/wy/douglas/codes/code_of_ordinances?nodeId=TIT10TRCO_CH10.08RI-W_10.08.020SE31-5-22RNLEIN
+        doc_type: ordinance
+        format: html
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-cheyenne-municipal-code
+    jurisdiction_level: municipal
+    state: WY
+    county: Laramie
+    municipality: Cheyenne
+    name: City of Cheyenne Municipal Code
+    agency: City of Cheyenne
+    authority_type: [land_use_zoning, building_code]
+    applies_to: [midstream_pipeline, access_road]
+    code_platform: municode
+    landing_url: https://library.municode.com/wy/cheyenne
+    documents:
+      - title: Cheyenne Municipal Code
+        url: https://library.municode.com/wy/cheyenne/codes/code_of_ordinances
+        doc_type: ordinance
+        format: html
+        notes: Zoning-specific title/chapter number was not pinpointed in this pass (site is large - Titles 1, 2, 8, 15 confirmed present); revisit to identify the exact zoning title.
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-pinedale-municipal-code
+    jurisdiction_level: municipal
+    state: WY
+    county: Sublette
+    municipality: Pinedale
+    name: Town of Pinedale Zoning Ordinance (Chapter 475)
+    agency: Town of Pinedale
+    authority_type: [land_use_zoning]
+    applies_to: [midstream_pipeline, access_road]
+    code_platform: ecode360
+    landing_url: https://ecode360.com/9224846
+    documents:
+      - title: Chapter 475 Zoning - Town of Pinedale
+        url: https://ecode360.com/9224846
+        doc_type: ordinance
+        format: html
+        citation_root: Pinedale Code Ch. 475 (Zoning)
+        notes: "Adopted by Ordinance No. 23; amended in its entirety 1980 by Ordinance No. 68. Districts: R-1, R-2A, R-2, R-4, C-1, C-2, I-1, I-2, plus Recreational Resort Development District (RRDD)."
+      - title: Chapter 275 Land Use Plan/Master Plan - Town of Pinedale
+        url: https://ecode360.com/9227872
+        doc_type: policy
+        format: html
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: wy-rocksprings-municipal-code
+    jurisdiction_level: municipal
+    state: WY
+    county: Sweetwater
+    municipality: Rock Springs
+    name: City of Rock Springs Code of Ordinances - Zoning (Chapter 157)
+    agency: City of Rock Springs
+    authority_type: [land_use_zoning, building_code]
+    applies_to: [midstream_pipeline, access_road]
+    code_platform: american_legal
+    landing_url: https://codelibrary.amlegal.com/codes/rockspringswy/latest/rocksprings_wy/0-0-0-2
+    documents:
+      - title: Chapter 157 Zoning
+        url: https://codelibrary.amlegal.com/codes/rockspringswy/latest/rocksprings_wy/0-0-0-6230
+        doc_type: ordinance
+        format: html
+        citation_root: Rock Springs Code Ch. 157 (Zoning)
+        notes: Current through Ordinance 2026-08 (2026-06-16) per American Legal Publishing header at time of research.
+      - title: Rock Springs Official Zoning Map
+        url: https://cms3.revize.com/revize/rocksprings/Documents/Departments/Planning%20and%20Zoning/Zoning%20Map%20and%20Ordinances/RS_ZONING_MAP%20-%20ANSI%20E%202021%20-%20RS_ZONING_MAP.pdf
+        doc_type: map
+        format: pdf
+    confidence: probable
+    last_reviewed: "2026-09-04"

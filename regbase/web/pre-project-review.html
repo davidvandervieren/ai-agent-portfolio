@@ -1,0 +1,1117 @@
+<title>Pre-Project Regulatory Review</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+
+<style>
+/* ============================================================
+   WES Form 1.9 — Pre-Project Regulatory Review
+   Single-file tool. No build step, no server.
+   Palette: engineering-drawing neutrals (cool grey paper, ink black)
+   with a petrol-teal accent; semantic red/amber/green reserved
+   strictly for clearance + confidence state.
+   ============================================================ */
+
+:root{
+  --ground:#e9ecee;
+  --sheet:#ffffff;
+  --panel:#f6f8f9;
+  --panel-2:#eef1f3;
+  --ink:#13171b;
+  --ink-2:#47515b;
+  --ink-3:#727d86;
+  --line:#ccd3d8;
+  --line-2:#e3e8eb;
+  --accent:#0c5b6a;
+  --accent-ink:#ffffff;
+  --accent-soft:#dcedf0;
+  --danger:#a8231b;
+  --danger-soft:#fbe5e3;
+  --warn:#7d5300;
+  --warn-soft:#fbefd7;
+  --ok:#1a6539;
+  --ok-soft:#dcefe3;
+  --shadow:0 1px 2px rgba(16,28,34,.07), 0 6px 20px rgba(16,28,34,.06);
+  --mono:"IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --sans:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ground:#0e1114;
+    --sheet:#171b1f;
+    --panel:#1b2126;
+    --panel-2:#212930;
+    --ink:#e7ebee;
+    --ink-2:#a6b0b8;
+    --ink-3:#7b858d;
+    --line:#2c343b;
+    --line-2:#232b31;
+    --accent:#54b6c8;
+    --accent-ink:#04222a;
+    --accent-soft:#10313a;
+    --danger:#ff8b7f;
+    --danger-soft:#3b1b18;
+    --warn:#e3ad4d;
+    --warn-soft:#33260f;
+    --ok:#69cb92;
+    --ok-soft:#12301e;
+    --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.35);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#0e1114;
+  --sheet:#171b1f;
+  --panel:#1b2126;
+  --panel-2:#212930;
+  --ink:#e7ebee;
+  --ink-2:#a6b0b8;
+  --ink-3:#7b858d;
+  --line:#2c343b;
+  --line-2:#232b31;
+  --accent:#54b6c8;
+  --accent-ink:#04222a;
+  --accent-soft:#10313a;
+  --danger:#ff8b7f;
+  --danger-soft:#3b1b18;
+  --warn:#e3ad4d;
+  --warn-soft:#33260f;
+  --ok:#69cb92;
+  --ok-soft:#12301e;
+  --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.35);
+  color-scheme: dark;
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0;
+  background:var(--ground);
+  color:var(--ink);
+  font-family:var(--sans);
+  font-size:13.5px;
+  line-height:1.45;
+  -webkit-font-smoothing:antialiased;
+}
+h1,h2,h3,h4{margin:0;text-wrap:balance;font-weight:600}
+p{margin:0}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:1px;border-radius:2px}
+
+/* ---------- app shell ---------- */
+.topbar{
+  position:sticky;top:0;z-index:60;
+  display:flex;align-items:center;gap:14px;flex-wrap:wrap;
+  padding:9px 16px;
+  background:var(--sheet);
+  border-bottom:1px solid var(--line);
+}
+.brand{display:flex;align-items:baseline;gap:9px;margin-right:auto}
+.brand b{font-size:14px;font-weight:600;letter-spacing:-.01em}
+.brand span{
+  font-family:var(--mono);font-size:10.5px;letter-spacing:.09em;
+  text-transform:uppercase;color:var(--ink-3);
+}
+.toolbar{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+
+.btn{
+  display:inline-flex;align-items:center;gap:6px;
+  padding:5px 10px;border:1px solid var(--line);border-radius:3px;
+  background:var(--panel);color:var(--ink);
+  font-size:12px;font-weight:500;cursor:pointer;white-space:nowrap;
+}
+.btn:hover{background:var(--panel-2);border-color:var(--ink-3)}
+.btn:active{transform:translateY(.5px)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.btn.primary:hover{filter:brightness(1.08)}
+.btn.ghost{background:transparent;border-color:transparent;color:var(--ink-2)}
+.btn.ghost:hover{background:var(--panel-2);color:var(--ink)}
+.btn.tiny{padding:2px 7px;font-size:11px}
+.btn.danger{color:var(--danger);border-color:var(--line)}
+.btn.danger:hover{background:var(--danger-soft);border-color:var(--danger)}
+.btn[disabled]{opacity:.45;cursor:not-allowed}
+
+.cols{display:grid;grid-template-columns:352px minmax(0,1fr);align-items:start;gap:18px;padding:18px;max-width:1500px;margin:0 auto}
+@media (max-width:1080px){.cols{grid-template-columns:minmax(0,1fr)}}
+
+/* ---------- left rail ---------- */
+.rail{display:flex;flex-direction:column;gap:12px;position:sticky;top:64px}
+@media (max-width:1080px){.rail{position:static}}
+.panel{background:var(--sheet);border:1px solid var(--line);border-radius:4px;overflow:hidden}
+.panel > h3{
+  display:flex;align-items:center;gap:8px;
+  padding:8px 12px;margin:0;
+  font-family:var(--mono);font-size:10.5px;font-weight:500;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--ink-2);
+  background:var(--panel);border-bottom:1px solid var(--line-2);
+}
+.panel > h3 .step{
+  display:inline-grid;place-items:center;width:16px;height:16px;border-radius:2px;
+  background:var(--accent);color:var(--accent-ink);font-size:10px;letter-spacing:0;
+}
+.panel-body{padding:12px;display:flex;flex-direction:column;gap:10px}
+
+.drop{
+  border:1.5px dashed var(--line);border-radius:4px;background:var(--panel);
+  padding:18px 12px;text-align:center;cursor:pointer;
+}
+.drop:hover,.drop.over{border-color:var(--accent);background:var(--accent-soft)}
+.drop b{display:block;font-size:13px}
+.drop small{color:var(--ink-3);font-size:11.5px}
+
+.scope-grid{display:grid;grid-template-columns:1fr 1fr;gap:2px 10px}
+label.chk{display:flex;gap:7px;align-items:flex-start;font-size:12px;padding:2px 0;cursor:pointer}
+label.chk input{margin:2px 0 0;accent-color:var(--accent);flex:none}
+.field{display:flex;flex-direction:column;gap:3px}
+.field > span,.lbl{
+  font-family:var(--mono);font-size:10px;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--ink-3);
+}
+input[type=text],input[type=date],input[type=number],select,textarea{
+  width:100%;padding:4px 7px;
+  border:1px solid var(--line);border-radius:3px;
+  background:var(--sheet);color:var(--ink);
+  font-family:var(--sans);font-size:12.5px;line-height:1.4;
+}
+textarea{resize:vertical;min-height:32px}
+input:hover,select:hover,textarea:hover{border-color:var(--ink-3)}
+input:focus,select:focus,textarea:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 2px var(--accent-soft)}
+input::placeholder,textarea::placeholder{color:var(--ink-3);opacity:.85}
+.mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
+
+.needs{border-color:var(--warn)!important;background:var(--warn-soft)!important}
+.needs::placeholder{color:var(--warn);opacity:.9}
+
+.note{font-size:11.5px;color:var(--ink-2)}
+.note.bad{color:var(--danger)}
+.status{
+  font-family:var(--mono);font-size:11px;color:var(--ink-2);
+  display:flex;align-items:center;gap:6px;min-height:16px;
+}
+.dot{width:7px;height:7px;border-radius:50%;background:var(--ink-3);flex:none}
+.dot.ok{background:var(--ok)}.dot.warn{background:var(--warn)}.dot.bad{background:var(--danger)}
+.bar{height:3px;background:var(--line-2);border-radius:2px;overflow:hidden}
+.bar > i{display:block;height:100%;background:var(--accent);width:0;transition:width .18s linear}
+
+/* ---------- the form sheet ---------- */
+.sheet{
+  background:var(--sheet);border:1px solid var(--line);border-radius:4px;
+  box-shadow:var(--shadow);
+  padding:26px 30px 34px;
+  max-width:960px;
+}
+.doc-head{display:flex;flex-wrap:wrap;align-items:flex-end;gap:16px;border-bottom:2px solid var(--ink);padding-bottom:10px}
+.doc-head h1{font-size:23px;letter-spacing:-.015em;margin-right:auto}
+.doc-head .formno{font-family:var(--mono);font-size:11px;color:var(--ink-3);letter-spacing:.06em}
+.head-fields{display:flex;gap:18px;flex-wrap:wrap;padding:10px 0 0}
+.head-fields .field{min-width:150px}
+
+.clearance{
+  margin:14px 0 4px;padding:10px 14px;border-radius:3px;
+  border:2px solid var(--danger);background:var(--danger-soft);
+  display:flex;align-items:center;gap:14px;flex-wrap:wrap;
+}
+.clearance .word{
+  font-family:var(--mono);font-size:17px;font-weight:500;letter-spacing:.1em;color:var(--danger);
+}
+.clearance select{max-width:270px;margin-left:auto;flex:none;width:auto}
+.clearance[data-c="CLEARED TO CONSTRUCT"]{border-color:var(--ok);background:var(--ok-soft)}
+.clearance[data-c="CLEARED TO CONSTRUCT"] .word{color:var(--ok)}
+.clearance[data-c="CLEARED WITH CONDITIONS"]{border-color:var(--warn);background:var(--warn-soft)}
+.clearance[data-c="CLEARED WITH CONDITIONS"] .word{color:var(--warn)}
+.clearance[data-c="PENDING REVIEW"]{border-color:var(--ink-3);background:var(--panel)}
+.clearance[data-c="PENDING REVIEW"] .word{color:var(--ink-2)}
+
+section.sec{margin-top:24px}
+section.sec > h2{
+  font-size:15px;letter-spacing:-.01em;
+  padding-bottom:5px;border-bottom:1px solid var(--ink);
+  display:flex;align-items:baseline;gap:10px;
+}
+section.sec > h2 em{font-style:normal;font-weight:400;font-size:11.5px;color:var(--ink-3)}
+section.sec > h2 .spacer{margin-left:auto}
+.sec-body{padding-top:10px;display:flex;flex-direction:column;gap:12px}
+
+.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:10px 18px}
+.grid-3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px 18px}
+.grid-4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px 14px}
+@media (max-width:700px){.grid-2,.grid-3,.grid-4{grid-template-columns:1fr 1fr}}
+
+.subhead{
+  font-family:var(--mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--ink-3);margin-top:2px;
+}
+
+/* map + stats */
+#map{height:330px;border:1px solid var(--line);border-radius:3px;background:var(--panel-2)}
+.map-note{font-size:11px;color:var(--ink-3);display:flex;gap:10px;flex-wrap:wrap}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(132px,1fr));gap:1px;background:var(--line-2);border:1px solid var(--line-2);border-radius:3px;overflow:hidden}
+.stat{background:var(--sheet);padding:7px 10px}
+.stat b{display:block;font-family:var(--mono);font-size:14px;font-variant-numeric:tabular-nums;font-weight:500}
+.stat span{font-family:var(--mono);font-size:9.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3)}
+
+.tablewrap{overflow-x:auto;border:1px solid var(--line-2);border-radius:3px}
+table{border-collapse:collapse;width:100%;font-size:12px}
+th{
+  text-align:left;font-family:var(--mono);font-size:9.5px;font-weight:500;
+  letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);
+  padding:6px 9px;background:var(--panel);border-bottom:1px solid var(--line-2);white-space:nowrap;
+}
+td{padding:4px 9px;border-bottom:1px solid var(--line-2);vertical-align:top}
+tr:last-child td{border-bottom:none}
+td.num{font-family:var(--mono);font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
+table input,table textarea{border-color:transparent;background:transparent;padding:3px 4px}
+table input:hover,table textarea:hover{border-color:var(--line)}
+table input:focus,table textarea:focus{background:var(--sheet)}
+
+/* jurisdiction cards */
+.jcard{border:1px solid var(--line);border-radius:4px;overflow:hidden;background:var(--sheet)}
+.jcard > header{
+  display:flex;align-items:center;gap:9px;flex-wrap:wrap;
+  padding:8px 11px;background:var(--panel);border-bottom:1px solid var(--line-2);
+}
+.jcard > header .jname{font-weight:600;font-size:14px;border:none;background:transparent;padding:2px 3px;width:auto;flex:1 1 220px;min-width:140px}
+.jcard > header .jname:hover{border:none;background:var(--panel-2)}
+.jbody{padding:10px 11px;display:flex;flex-direction:column;gap:10px}
+.jmeta{display:grid;grid-template-columns:1fr 1fr;gap:8px 14px}
+.jsrc{font-size:11px;color:var(--ink-3);font-family:var(--mono)}
+
+.badge{
+  display:inline-flex;align-items:center;gap:4px;flex:none;
+  padding:1px 6px;border-radius:2px;
+  font-family:var(--mono);font-size:9.5px;letter-spacing:.07em;text-transform:uppercase;
+  border:1px solid var(--line);color:var(--ink-2);background:var(--sheet);
+}
+.badge.level{background:var(--accent-soft);border-color:transparent;color:var(--accent)}
+.badge.reg{background:var(--panel-2);color:var(--ink-3)}
+.badge.verified{color:var(--ok);background:var(--ok-soft);border-color:transparent}
+.badge.probable{color:var(--warn);background:var(--warn-soft);border-color:transparent}
+.badge.unverified{color:var(--danger);background:var(--danger-soft);border-color:transparent}
+.badge.manual{color:var(--ink-2);background:var(--panel-2);border-color:transparent}
+
+.permit{border:1px solid var(--line-2);border-left:3px solid var(--accent);border-radius:3px;background:var(--sheet)}
+.permit.is-unverified{border-left-color:var(--danger)}
+.permit.is-probable{border-left-color:var(--warn)}
+.permit.is-manual{border-left-color:var(--ink-3)}
+.permit > .ptop{display:flex;gap:8px;align-items:center;flex-wrap:wrap;padding:7px 9px 5px}
+.permit .pname{font-weight:600;font-size:13px;border-color:transparent;background:transparent;flex:1 1 200px}
+.permit .pname:hover{border-color:var(--line)}
+.pgrid{display:grid;grid-template-columns:1fr 1fr;gap:8px 14px;padding:0 9px 9px}
+.pgrid .full{grid-column:1/-1}
+.docs{display:flex;flex-direction:column;gap:3px}
+.docrow{display:flex;gap:6px;align-items:center}
+.docrow::before{content:"—";font-family:var(--mono);color:var(--ink-3);flex:none;font-size:11px}
+.suggest{display:flex;flex-wrap:wrap;gap:4px;padding-top:2px}
+.suggest .btn.tiny{border-style:dashed;color:var(--ink-2)}
+.cite{font-size:11.5px;display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}
+.cite a{color:var(--accent);word-break:break-all}
+
+.bullets{display:flex;flex-direction:column;gap:4px}
+.bullet{display:flex;gap:7px;align-items:flex-start}
+.bullet::before{content:"•";color:var(--ink-3);line-height:1.7;flex:none}
+
+.chips{display:flex;flex-wrap:wrap;gap:5px;align-items:center}
+.chip{
+  display:inline-flex;align-items:center;gap:6px;
+  padding:2px 4px 2px 9px;border:1px solid var(--line);border-radius:12px;background:var(--panel);font-size:12px;
+}
+.chip button{border:none;background:transparent;cursor:pointer;color:var(--ink-3);line-height:1;padding:0 3px;font-size:14px}
+.chip button:hover{color:var(--danger)}
+
+.empty{
+  border:1px dashed var(--line);border-radius:3px;padding:12px;
+  color:var(--ink-3);font-size:12px;text-align:center;background:var(--panel);
+}
+.rowdel{color:var(--ink-3);border:none;background:transparent;cursor:pointer;padding:2px 5px;border-radius:3px;font-size:14px;line-height:1}
+.rowdel:hover{color:var(--danger);background:var(--danger-soft)}
+
+.restore{
+  display:flex;gap:10px;align-items:center;flex-wrap:wrap;
+  margin:0;padding:8px 16px;background:var(--accent-soft);border-bottom:1px solid var(--line);
+  font-size:12.5px;
+}
+.foot{
+  max-width:1500px;margin:0 auto;padding:6px 18px 30px;
+  font-size:11.5px;color:var(--ink-2);
+}
+.foot b{color:var(--danger)}
+.sheet-foot{margin-top:26px;padding-top:9px;border-top:1px solid var(--line);font-size:11px;color:var(--ink-2)}
+
+.jur-row{display:flex;align-items:center;gap:7px;padding:4px 0;border-bottom:1px solid var(--line-2);font-size:12px}
+.jur-row:last-child{border-bottom:none}
+.jur-row .grow{flex:1;min-width:0;overflow-wrap:anywhere}
+
+/* ---------- Leaflet 1.9.4 — minimal required CSS, inlined
+   (external stylesheets are restricted to fonts.googleapis.com,
+    so only the positioning/control rules Leaflet needs are kept) ---------- */
+.leaflet-pane,.leaflet-tile,.leaflet-marker-icon,.leaflet-marker-shadow,.leaflet-tile-container,
+.leaflet-pane>svg,.leaflet-pane>canvas,.leaflet-zoom-box,.leaflet-image-layer,.leaflet-layer{position:absolute;left:0;top:0}
+.leaflet-container{overflow:hidden;-webkit-tap-highlight-color:transparent;font-family:var(--sans);font-size:12px;line-height:1.4}
+.leaflet-tile,.leaflet-marker-icon,.leaflet-marker-shadow{-webkit-user-select:none;-moz-user-select:none;user-select:none;-webkit-user-drag:none}
+.leaflet-safari .leaflet-tile{image-rendering:-webkit-optimize-contrast}
+.leaflet-container img{max-width:none!important;max-height:none!important;padding:0}
+.leaflet-container.leaflet-touch-zoom{-ms-touch-action:pan-x pan-y;touch-action:pan-x pan-y}
+.leaflet-container.leaflet-touch-drag{-ms-touch-action:pinch-zoom;touch-action:none;touch-action:pinch-zoom}
+.leaflet-container.leaflet-touch-drag.leaflet-touch-zoom{-ms-touch-action:none;touch-action:none}
+.leaflet-tile{filter:inherit;visibility:hidden}
+.leaflet-tile-loaded{visibility:inherit}
+.leaflet-zoom-box{width:0;height:0;box-sizing:border-box;z-index:800}
+.leaflet-pane{z-index:400}
+.leaflet-tile-pane{z-index:200}
+.leaflet-overlay-pane{z-index:400}
+.leaflet-shadow-pane{z-index:500}
+.leaflet-marker-pane{z-index:600}
+.leaflet-tooltip-pane{z-index:650}
+.leaflet-popup-pane{z-index:700}
+.leaflet-map-pane canvas{z-index:100}
+.leaflet-map-pane svg{z-index:200}
+.leaflet-control{position:relative;z-index:800;pointer-events:auto;float:left;clear:both}
+.leaflet-top,.leaflet-bottom{position:absolute;z-index:1000;pointer-events:none}
+.leaflet-top{top:0}.leaflet-right{right:0}.leaflet-bottom{bottom:0}.leaflet-left{left:0}
+.leaflet-right .leaflet-control{float:right;margin-right:8px}
+.leaflet-top .leaflet-control{margin-top:8px}
+.leaflet-bottom .leaflet-control{margin-bottom:8px}
+.leaflet-left .leaflet-control{margin-left:8px}
+.leaflet-zoom-animated{transform-origin:0 0}
+svg.leaflet-zoom-animated{will-change:transform}
+.leaflet-zoom-anim .leaflet-zoom-animated{transition:transform .25s cubic-bezier(0,0,.25,1)}
+.leaflet-zoom-anim .leaflet-tile,.leaflet-pan-anim .leaflet-tile{transition:none}
+.leaflet-zoom-anim .leaflet-zoom-hide{visibility:hidden}
+.leaflet-fade-anim .leaflet-tile{will-change:opacity}
+.leaflet-interactive{cursor:pointer}
+.leaflet-grab{cursor:grab}
+.leaflet-dragging .leaflet-grab,.leaflet-dragging .leaflet-grab .leaflet-interactive{cursor:grabbing}
+.leaflet-container a{color:var(--accent)}
+.leaflet-bar{box-shadow:0 1px 4px rgba(0,0,0,.3);border-radius:3px;background:var(--sheet)}
+.leaflet-bar a{
+  display:block;width:24px;height:24px;line-height:24px;text-align:center;
+  text-decoration:none;color:var(--ink);background:var(--sheet);
+  border-bottom:1px solid var(--line);font-size:16px;font-weight:500;
+}
+.leaflet-bar a:last-child{border-bottom:none}
+.leaflet-bar a:hover{background:var(--panel-2)}
+.leaflet-control-attribution{
+  background:var(--sheet);color:var(--ink-2);margin:0;padding:0 5px;font-size:10px;opacity:.92;
+}
+.leaflet-control-attribution a{color:var(--accent)}
+.leaflet-popup-content-wrapper{background:var(--sheet);color:var(--ink);border-radius:3px;box-shadow:var(--shadow)}
+.leaflet-popup-content{margin:8px 10px;font-size:12px}
+.leaflet-popup{position:absolute;text-align:center;margin-bottom:20px}
+.leaflet-popup-content-wrapper,.leaflet-popup-tip{padding:1px}
+.leaflet-popup-tip-container{width:40px;height:20px;position:absolute;left:50%;margin-left:-20px;overflow:hidden;pointer-events:none}
+.leaflet-popup-tip{width:17px;height:17px;padding:1px;margin:-10px auto 0;transform:rotate(45deg);background:var(--sheet)}
+.leaflet-popup-close-button{position:absolute;top:0;right:0;padding:4px 6px;text-decoration:none;color:var(--ink-3)}
+
+/* ---------- print ---------- */
+@media print{
+  :root{--sheet:#fff;--ground:#fff;--ink:#000;--ink-2:#333;--ink-3:#555;--line:#999;--line-2:#ccc;--panel:#fff;--panel-2:#fff}
+  @page{size:letter portrait;margin:.6in}
+  body{background:#fff;font-size:10.5pt}
+  .topbar,.rail,.restore,.no-print,.foot .btn{display:none!important}
+  .cols{display:block;padding:0;max-width:none}
+  .sheet{border:none;box-shadow:none;padding:0;max-width:none}
+  .btn,.rowdel,.chip button,.suggest{display:none!important}
+  input,textarea,select{
+    border:none!important;background:transparent!important;padding:0!important;
+    box-shadow:none!important;color:#000!important;-webkit-appearance:none;appearance:none;
+  }
+  .needs{background:transparent!important;border-bottom:1px dotted #999!important}
+  .permit,.jcard,section.sec{break-inside:avoid;page-break-inside:avoid}
+  #map{height:3.2in;break-inside:avoid}
+  .leaflet-control-zoom{display:none!important}
+  a[href]::after{content:""}
+  .stats{border:1px solid #999}
+}
+@media (prefers-reduced-motion: reduce){
+  *{animation-duration:.001ms!important;transition-duration:.001ms!important}
+}
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js" crossorigin="anonymous"></script>
+
+<div class="topbar">
+  <div class="brand">
+    <b>Pre-Project Regulatory Review</b>
+    <span>Form 1.9 &middot; WES</span>
+  </div>
+  <div class="toolbar">
+    <button class="btn" id="btn-import">Import JSON</button>
+    <button class="btn" id="btn-json">Export JSON</button>
+    <button class="btn" id="btn-geojson">Export GeoJSON</button>
+    <button class="btn primary" id="btn-word">Export Word</button>
+    <button class="btn" id="btn-print">Print / PDF</button>
+    <button class="btn ghost" id="btn-theme" title="Toggle light / dark">Theme</button>
+    <button class="btn ghost danger" id="btn-clear">Clear</button>
+  </div>
+</div>
+
+<div class="restore" id="restore" hidden>
+  <span id="restore-msg">A saved draft was found.</span>
+  <button class="btn tiny primary" id="btn-restore">Restore last session</button>
+  <button class="btn tiny ghost" id="btn-discard">Discard</button>
+</div>
+
+<div class="cols">
+
+  <aside class="rail">
+
+    <div class="panel">
+      <h3><span class="step">1</span> Project geometry</h3>
+      <div class="panel-body">
+        <div class="drop" id="drop" tabindex="0" role="button" aria-label="Drop a KML or KMZ file, or click to choose one">
+          <b>Drop KML / KMZ</b>
+          <small>or click to choose a file</small>
+        </div>
+        <input type="file" id="file-kml" accept=".kml,.kmz,application/vnd.google-earth.kml+xml,application/vnd.google-earth.kmz" hidden>
+        <div class="status" id="kml-status"><span class="dot"></span><span>No geometry loaded</span></div>
+        <div class="field">
+          <span>Assumed ROW / workspace width (ft)</span>
+          <input type="number" id="row-width" class="mono" value="50" min="1" step="5">
+        </div>
+        <button class="btn tiny ghost" id="btn-sample">Load sample route (demo geometry)</button>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h3><span class="step">2</span> Scope</h3>
+      <div class="panel-body">
+        <div class="lbl">Facility types (drives permit filtering)</div>
+        <div class="scope-grid" id="scope-applies"></div>
+        <div class="lbl" style="margin-top:4px">Triggers</div>
+        <label class="chk"><input type="checkbox" id="sc-acre"><span>Total disturbance over 1 acre</span></label>
+        <label class="chk"><input type="checkbox" id="sc-water"><span>Water body / wetland crossing</span></label>
+        <label class="chk"><input type="checkbox" id="sc-federal"><span>Federal or tribal surface (BLM / USACE / tribal)</span></label>
+        <label class="chk"><input type="checkbox" id="sc-sour"><span>Sour gas / H2S present</span></label>
+        <div class="grid-2">
+          <label class="field"><span>Compression HP</span><input type="text" id="sc-hp" class="mono" placeholder="e.g. 1,380"></label>
+          <label class="field"><span>In-service date</span><input type="text" id="sc-ins" class="mono" placeholder="MM/DD/YY"></label>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h3><span class="step">3</span> Jurisdictions</h3>
+      <div class="panel-body">
+        <div class="status" id="reg-status"><span class="dot"></span><span>Loading registry&hellip;</span></div>
+        <input type="file" id="file-registry" accept=".json,application/json" hidden>
+        <button class="btn tiny" id="btn-registry-pick" hidden>Load registry.json&hellip;</button>
+
+        <button class="btn primary" id="btn-lookup" disabled>Identify jurisdictions from geometry</button>
+        <div class="bar" id="lookup-bar" hidden><i></i></div>
+        <div class="status" id="lookup-status"></div>
+
+        <div class="lbl" style="margin-top:2px">Add manually</div>
+        <select id="sel-state"><option value="">State&hellip;</option></select>
+        <select id="sel-county"><option value="">County&hellip;</option></select>
+        <select id="sel-muni"><option value="">Municipality (optional)&hellip;</option></select>
+        <button class="btn" id="btn-add-jur">Add jurisdiction</button>
+
+        <div class="lbl" style="margin-top:4px">Resolved</div>
+        <div id="jur-list"></div>
+      </div>
+    </div>
+
+  </aside>
+
+  <main class="sheet" id="sheet">
+
+    <div class="doc-head">
+      <h1>Pre-Project Regulatory Review</h1>
+      <div class="formno">FORM 1.9</div>
+    </div>
+
+    <div class="head-fields">
+      <label class="field"><span>Review Date</span><input type="text" class="mono" data-path="review_date" placeholder="MM/DD/YY"></label>
+      <label class="field" style="flex:1"><span>Reviewer</span><input type="text" data-path="reviewer" placeholder="Name / title"></label>
+    </div>
+
+    <div class="clearance" id="clearance" data-c="NOT CLEARED TO CONSTRUCT">
+      <div class="word" id="clearance-word">NOT CLEARED TO CONSTRUCT</div>
+      <select data-path="clearance" id="sel-clearance" aria-label="Clearance status">
+        <option>NOT CLEARED TO CONSTRUCT</option>
+        <option>CLEARED TO CONSTRUCT</option>
+        <option>CLEARED WITH CONDITIONS</option>
+        <option>PENDING REVIEW</option>
+      </select>
+    </div>
+
+    <section class="sec">
+      <h2>Background <em>To be Completed by Commercial/PM</em></h2>
+      <div class="sec-body">
+        <div class="grid-3">
+          <label class="field"><span>Project #</span><input type="text" class="mono" data-path="background.project_number"></label>
+          <label class="field"><span>Project Name</span><input type="text" data-path="background.project_name"></label>
+          <label class="field"><span>Lat / Long</span><input type="text" class="mono" data-path="background.lat_long" id="in-latlong" placeholder="from KML centroid"></label>
+        </div>
+        <div class="grid-3">
+          <label class="field"><span>New Line (Y/N)</span><input type="text" data-path="background.new_line" placeholder="Y / N + detail"></label>
+          <label class="field"><span>Linear Ft of Line</span><input type="text" class="mono" data-path="background.linear_ft_of_line" id="in-linear" placeholder="from KML"></label>
+          <label class="field"><span>Oil and/or Gas</span><input type="text" data-path="background.oil_and_or_gas" placeholder="e.g. Gas gathering"></label>
+        </div>
+        <div class="subhead">New Equipment (Y/N)</div>
+        <div class="grid-4">
+          <label class="field"><span>Compressors</span><input type="text" data-path="background.new_equipment.compressors"></label>
+          <label class="field"><span>Meter Skids</span><input type="text" data-path="background.new_equipment.meter_skids"></label>
+          <label class="field"><span>Cathodic</span><input type="text" data-path="background.new_equipment.cathodic"></label>
+          <label class="field"><span>Other</span><input type="text" data-path="background.new_equipment.other"></label>
+        </div>
+      </div>
+    </section>
+
+    <section class="sec">
+      <h2>Confidentiality</h2>
+      <div class="sec-body">
+        <div class="grid-2">
+          <label class="field"><span>Can this be discussed with parties inside WES (Y/N)</span><input type="text" data-path="confidentiality.inside_wes"></label>
+          <label class="field"><span>Can this be discussed with parties outside WES (Y/N)</span><input type="text" data-path="confidentiality.outside_wes"></label>
+        </div>
+        <label class="field"><span>Agreements</span><textarea data-path="confidentiality.agreements" rows="2" placeholder="e.g. CA in place with counterparty"></textarea></label>
+      </div>
+    </section>
+
+    <section class="sec">
+      <h2>Project Map <em id="map-src"></em></h2>
+      <div class="sec-body">
+        <div id="map"></div>
+        <div class="map-note">
+          <span id="tile-note">Basemap: OpenStreetMap</span>
+          <span class="no-print">Geometry is drawn from the KML; if tiles do not load, the stats and inventory below still carry the record.</span>
+        </div>
+        <div class="stats" id="stats"></div>
+        <div class="tablewrap" id="inv-wrap"></div>
+      </div>
+    </section>
+
+    <section class="sec">
+      <h2>Regulatory <span class="spacer"></span><button class="btn tiny no-print" id="btn-add-blank-jur">+ Jurisdiction</button></h2>
+      <div class="sec-body">
+        <div class="field">
+          <span>Municipality(s) Involved</span>
+          <div class="chips" id="muni-chips"></div>
+        </div>
+        <div id="jurisdictions" style="display:flex;flex-direction:column;gap:14px"></div>
+      </div>
+    </section>
+
+    <section class="sec">
+      <h2>Non-Muni Agencies <em>state, federal, tribal &amp; district requirements</em><span class="spacer"></span><button class="btn tiny no-print" id="btn-add-agency">+ Agency</button></h2>
+      <div class="sec-body">
+        <div class="tablewrap"><table id="agency-table">
+          <thead><tr>
+            <th style="min-width:150px">Agency</th>
+            <th style="min-width:210px">Requirement</th>
+            <th style="min-width:90px">Cost</th>
+            <th style="min-width:110px">Estimated Time</th>
+            <th style="min-width:190px">Required Docs</th>
+            <th style="min-width:120px">Citation</th>
+            <th class="no-print"></th>
+          </tr></thead>
+          <tbody id="agency-body"></tbody>
+        </table></div>
+      </div>
+    </section>
+
+    <section class="sec">
+      <h2>Stakeholder</h2>
+      <div class="sec-body">
+        <div class="grid-3">
+          <label class="field"><span>Stakeholders within 1,000 ft (Y/N)</span><input type="text" data-path="stakeholder.stakeholders_within_1000ft"></label>
+          <label class="field"><span>Stakeholder count</span><input type="text" class="mono" data-path="stakeholder.stakeholder_count"></label>
+          <label class="field"><span>Mailer required (Y/N)</span><input type="text" data-path="stakeholder.mailer_required"></label>
+        </div>
+        <div class="grid-3">
+          <label class="field"><span>Notice radius (ft)</span><input type="text" class="mono" data-path="stakeholder.notice_radius_ft"></label>
+          <label class="field" style="grid-column:span 2"><span>Neighborhood meeting required</span><input type="text" data-path="stakeholder.neighborhood_meeting_required"></label>
+        </div>
+        <label class="field"><span>Notes</span><textarea data-path="stakeholder.notes" rows="2"></textarea></label>
+      </div>
+    </section>
+
+    <section class="sec">
+      <h2>Other <span class="spacer"></span><button class="btn tiny no-print" id="btn-add-other">+ Bullet</button></h2>
+      <div class="sec-body">
+        <div class="bullets" id="other-list"></div>
+      </div>
+    </section>
+
+    <div class="sheet-foot">
+      Draft only &mdash; every requirement must be confirmed with the jurisdiction before it drives a schedule or budget.
+      <span id="prov-line" class="mono" style="display:block;margin-top:3px;color:var(--ink-3);font-size:10px"></span>
+    </div>
+
+  </main>
+</div>
+
+<div class="foot">
+  <b>Draft only &mdash; every requirement must be confirmed with the jurisdiction before it drives a schedule or budget.</b>
+  Registry-sourced values are tagged <span class="badge reg">from registry</span> with a confidence badge; blank amber fields are unanswered by the registry and need your input.
+  Nothing on this page is a legal determination.
+  <span id="autosave" class="mono" style="color:var(--ink-3)"></span>
+</div>
+
+<input type="file" id="file-json" accept=".json,application/json" hidden>
+
+<script>
+(function(){
+"use strict";
+
+/* ==========================================================================
+   0. Small helpers
+   ========================================================================== */
+const $  = (sel, root) => (root || document).querySelector(sel);
+const $$ = (sel, root) => Array.prototype.slice.call((root || document).querySelectorAll(sel));
+
+function el(tag, attrs, children){
+  const n = document.createElement(tag);
+  if (attrs) for (const k in attrs){
+    const v = attrs[k];
+    if (v === null || v === undefined || v === false) continue;
+    if (k === "class") n.className = v;
+    else if (k === "text") n.textContent = v;
+    else if (k === "html") n.innerHTML = v;
+    else if (k.slice(0,2) === "on" && typeof v === "function") n.addEventListener(k.slice(2), v);
+    else if (v === true) n.setAttribute(k, "");
+    else n.setAttribute(k, v);
+  }
+  (Array.isArray(children) ? children : children ? [children] : []).forEach(c => {
+    if (c === null || c === undefined || c === false) return;
+    n.appendChild(typeof c === "string" || typeof c === "number" ? document.createTextNode(String(c)) : c);
+  });
+  return n;
+}
+function clear(node){ while (node && node.firstChild) node.removeChild(node.firstChild); }
+function uid(){ return "x" + Math.random().toString(36).slice(2,9); }
+function debounce(fn, ms){
+  let t = null;
+  return function(){ const a = arguments, self = this; clearTimeout(t); t = setTimeout(() => fn.apply(self, a), ms); };
+}
+function num(n, dp){
+  if (n === null || n === undefined || !isFinite(n)) return "—";
+  return Number(n).toLocaleString(undefined, {minimumFractionDigits: dp || 0, maximumFractionDigits: dp || 0});
+}
+function getPath(obj, path){
+  return path.split(".").reduce((o,k) => (o === null || o === undefined) ? undefined : o[k], obj);
+}
+function setPath(obj, path, val){
+  const parts = path.split(".");
+  let o = obj;
+  for (let i = 0; i < parts.length - 1; i++){
+    if (typeof o[parts[i]] !== "object" || o[parts[i]] === null) o[parts[i]] = {};
+    o = o[parts[i]];
+  }
+  o[parts[parts.length-1]] = val;
+}
+function todayMMDDYY(){
+  const d = new Date();
+  const p = n => String(n).padStart(2, "0");
+  return p(d.getMonth()+1) + "/" + p(d.getDate()) + "/" + String(d.getFullYear()).slice(2);
+}
+function slug(s){
+  return String(s || "").replace(/[^A-Za-z0-9]+/g, "_").replace(/^_+|_+$/g, "").slice(0, 60) || "Untitled";
+}
+function esc(s){
+  return String(s === null || s === undefined ? "" : s)
+    .replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+function download(filename, mime, data){
+  try{
+    const blob = data instanceof Blob ? data : new Blob([data], {type: mime});
+    const url = URL.createObjectURL(blob);
+    const a = el("a", {href: url, download: filename});
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(() => { URL.revokeObjectURL(url); a.remove(); }, 2000);
+  }catch(err){ alert("Could not start the download: " + err.message); }
+}
+/* localStorage throws in private mode / blocked-cookie contexts — never let it break the tool. */
+function lsGet(k){ try { return window.localStorage.getItem(k); } catch(e){ return null; } }
+function lsSet(k,v){ try { window.localStorage.setItem(k,v); return true; } catch(e){ return false; } }
+function lsDel(k){ try { window.localStorage.removeItem(k); } catch(e){} }
+
+/* ==========================================================================
+   1. Constants
+   ========================================================================== */
+const LS_KEY   = "wes.form19.review.v1";
+const LS_THEME = "wes.form19.theme";
+const FT_PER_M = 3.280839895013123;
+const M_PER_MI = 1609.344;
+const SQFT_PER_ACRE = 43560;
+const EARTH_R = 6371008.8;              /* IUGG mean earth radius, metres */
+const SAMPLE_SPACING_M = 0.5 * M_PER_MI; /* jurisdiction sampling: ~every half mile along a line */
+const MAX_SAMPLES = 28;                  /* hard cap on TIGERweb round trips */
+
+const APPLIES_TO = [
+  ["midstream_pipeline",   "Midstream pipeline"],
+  ["produced_water_line",  "Produced water line"],
+  ["swd_well",             "SWD well"],
+  ["compressor_station",   "Compressor station"],
+  ["gas_processing_plant", "Gas processing plant"],
+  ["well_pad",             "Well pad"],
+  ["tank_battery",         "Tank battery"],
+  ["metering",             "Metering"],
+  ["access_road",          "Access road"],
+  ["electrical_line",      "Electrical line"],
+  ["water_crossing",       "Water crossing"],
+  ["temporary_workspace",  "Temporary workspace"]
+];
+
+const CLEARANCE_CODE = {
+  "NOT CLEARED TO CONSTRUCT": "NTCLRD",
+  "CLEARED TO CONSTRUCT": "CLRD",
+  "CLEARED WITH CONDITIONS": "CLRDCOND",
+  "PENDING REVIEW": "PNDG"
+};
+
+const FIPS_STATE = {
+  "01":"AL","02":"AK","04":"AZ","05":"AR","06":"CA","08":"CO","09":"CT","10":"DE","11":"DC","12":"FL",
+  "13":"GA","15":"HI","16":"ID","17":"IL","18":"IN","19":"IA","20":"KS","21":"KY","22":"LA","23":"ME",
+  "24":"MD","25":"MA","26":"MI","27":"MN","28":"MS","29":"MO","30":"MT","31":"NE","32":"NV","33":"NH",
+  "34":"NJ","35":"NM","36":"NY","37":"NC","38":"ND","39":"OH","40":"OK","41":"OR","42":"PA","44":"RI",
+  "45":"SC","46":"SD","47":"TN","48":"TX","49":"UT","50":"VT","51":"VA","53":"WA","54":"WV","55":"WI",
+  "56":"WY","60":"AS","66":"GU","69":"MP","72":"PR","78":"VI"
+};
+
+/* ==========================================================================
+   2. Review state — mirrors schemas/review.schema.json.
+   Keys beginning with "_" are UI bookkeeping and are stripped on export.
+   "scope" and "project_map.features_geojson" are additive extensions the
+   schema permits (it does not set additionalProperties:false) and they are
+   what makes Import JSON round-trip cleanly.
+   ========================================================================== */
+function blankReview(){
+  return {
+    form_version: "1.9",
+    review_date: todayMMDDYY(),
+    reviewer: "",
+    clearance: "NOT CLEARED TO CONSTRUCT",
+    background: {
+      project_number: "", project_name: "", lat_long: "", new_line: "",
+      linear_ft_of_line: "", oil_and_or_gas: "",
+      new_equipment: { compressors: "", meter_skids: "", cathodic: "", other: "" }
+    },
+    confidentiality: { inside_wes: "", outside_wes: "", agreements: "" },
+    project_map: {
+      image_refs: [], kml_source_file: "", bbox: null, centroid: null,
+      total_length_ft: null, disturbance_acres_est: null, features_geojson: null
+    },
+    regulatory: { municipalities_involved: [], jurisdictions: [] },
+    non_muni_agencies: [],
+    stakeholder: {
+      stakeholders_within_1000ft: "", stakeholder_count: "", mailer_required: "",
+      notice_radius_ft: "", neighborhood_meeting_required: "", notes: ""
+    },
+    other: [],
+    scope: {
+      applies_to: ["midstream_pipeline"],
+      disturbance_over_1_acre: false,
+      water_or_wetland_crossing: false,
+      federal_or_tribal_surface: false,
+      sour_gas_h2s: false,
+      compression_hp: "",
+      in_service_date: "",
+      row_width_ft: 50
+    },
+    provenance: {
+      generated_at: new Date().toISOString(),
+      generator: "pre-project-review.html (Form 1.9 drafting tool)",
+      registry_commit: "",
+      sources_consulted: [],
+      unresolved_questions: [],
+      human_verification_required: []
+    }
+  };
+}
+
+let R = blankReview();      /* the review */
+let REG = null;             /* registry.json payload */
+let SOURCES = [];           /* REG.sources */
+let FEATURES = [];          /* parsed KML features */
+let STATS = null;           /* derived geometry */
+let map = null, mapLayer = null, tilesOk = null;
+
+/* ==========================================================================
+   3. KML / KMZ parsing (hand-rolled — no geo library)
+   ========================================================================== */
+function localName(node){ return node.localName || (node.nodeName || "").replace(/^.*:/, ""); }
+function kids(node, name){
+  const out = [];
+  for (let c = node.firstElementChild; c; c = c.nextElementSibling) if (localName(c) === name) out.push(c);
+  return out;
+}
+function kid(node, name){ const k = kids(node, name); return k.length ? k[0] : null; }
+function deepFirst(node, name){
+  const stack = [node];
+  while (stack.length){
+    const n = stack.shift();
+    for (let c = n.firstElementChild; c; c = c.nextElementSibling){
+      if (localName(c) === name) return c;
+      stack.push(c);
+    }
+  }
+  return null;
+}
+function textOf(node){ return node ? String(node.textContent || "").trim() : ""; }
+
+/* KML coordinate tuples: "lon,lat[,alt]" separated by any whitespace/newlines. */
+function parseCoordString(s){
+  const out = [];
+  const toks = String(s || "").trim().split(/[\s\n\r\t]+/);
+  for (let i = 0; i < toks.length; i++){
+    const t = toks[i];
+    if (!t) continue;
+    const p = t.split(",");
+    if (p.length < 2) continue;
+    const lon = parseFloat(p[0]), lat = parseFloat(p[1]);
+    if (!isFinite(lon) || !isFinite(lat)) continue;
+    if (lat < -90 || lat > 90 || lon < -180 || lon > 180) continue;
+    out.push([lon, lat]);
+  }
+  return out;
+}
+/* gx:Track uses <gx:coord>lon lat alt</gx:coord>, space separated. */
+function parseTrack(node){
+  const out = [];
+  kids(node, "coord").forEach(c => {
+    const p = textOf(c).split(/\s+/);
+    const lon = parseFloat(p[0]), lat = parseFloat(p[1]);
+    if (isFinite(lon) && isFinite(lat)) out.push([lon, lat]);
+  });
+  return out;
+}
+
+function geometriesOf(node, acc){
+  acc = acc || [];
+  const ln = localName(node);
+  if (ln === "Point"){
+    const c = parseCoordString(textOf(kid(node, "coordinates")));
+    if (c.length) acc.push({type: "point", coords: [c[0]]});
+  } else if (ln === "LineString" || ln === "LinearRing"){
+    const c = parseCoordString(textOf(kid(node, "coordinates")));
+    if (c.length > 1) acc.push({type: "line", coords: c});
+  } else if (ln === "Track"){
+    const c = parseTrack(node);
+    if (c.length > 1) acc.push({type: "line", coords: c});
+  } else if (ln === "Polygon"){
+    const rings = [];
+    const outer = kid(node, "outerBoundaryIs");
+    if (outer){
+      const lr = deepFirst(outer, "LinearRing");
+      if (lr) { const c = parseCoordString(textOf(kid(lr, "coordinates"))); if (c.length > 2) rings.push(c); }
+    }
+    kids(node, "innerBoundaryIs").forEach(inner => {
+      const lr = deepFirst(inner, "LinearRing");
+      if (lr) { const c = parseCoordString(textOf(kid(lr, "coordinates"))); if (c.length > 2) rings.push(c); }
+    });
+    if (rings.length) acc.push({type: "polygon", rings: rings});
+  } else if (ln === "MultiGeometry" || ln === "MultiTrack" || ln === "MultiPolygon"){
+    for (let c = node.firstElementChild; c; c = c.nextElementSibling) geometriesOf(c, acc);
+  }
+  return acc;
+}
+
+function parseKmlText(text, sourceName){
+  const doc = new DOMParser().parseFromString(text, "application/xml");
+  const bad = doc.getElementsByTagName("parsererror");
+  if (bad && bad.length) throw new Error("This file is not valid XML/KML.");
+  const root = doc.documentElement;
+  if (!root) throw new Error("Empty KML document.");
+
+  const features = [];
+  const warnings = [];
+
+  function walk(node, folderPath){
+    for (let c = node.firstElementChild; c; c = c.nextElementSibling){
+      const ln = localName(c);
+      if (ln === "Document" || ln === "Folder"){
+        const nm = textOf(kid(c, "name"));
+        walk(c, nm ? folderPath.concat([nm]) : folderPath);
+      } else if (ln === "Placemark"){
+        const name = textOf(kid(c, "name"));
+        const desc = textOf(kid(c, "description"));
+        const geoms = [];
+        for (let g = c.firstElementChild; g; g = g.nextElementSibling) geometriesOf(g, geoms);
+        if (!geoms.length){ warnings.push('Placemark "' + (name || "(unnamed)") + '" has no readable geometry.'); continue; }
+        geoms.forEach((g, i) => {
+          features.push({
+            id: uid(),
+            name: (name || "(unnamed)") + (geoms.length > 1 ? " [" + (i+1) + "]" : ""),
+            description: desc,
+            folder: folderPath.join(" / "),
+            type: g.type,
+            coords: g.coords || null,
+            rings: g.rings || null
+          });
+        });
+      } else if (ln === "NetworkLink"){
+        warnings.push("A NetworkLink was skipped — its geometry lives in another file.");
+      } else if (ln === "Placemarks" || ln === "kml"){
+        walk(c, folderPath);
+      } else if (c.firstElementChild){
+        walk(c, folderPath);
+      }
+    }
+  }
+  walk(root, []);
+  if (!features.length) throw new Error("No Point, LineString, Polygon or gx:Track geometry found in " + sourceName + ".");
+  return {features: features, warnings: warnings};
+}
+
+/* KMZ = zip. JSZip when it loaded; otherwise a minimal reader built on the
+   browser's own DecompressionStream("deflate-raw"). */
+async function readKmz(buf, fileName){
+  let entries = null;
+  if (typeof window.JSZip !== "undefined"){
+    const zip = await window.JSZip.loadAsync(buf);
+    const names = Object.keys(zip.files).filter(n => /\.kml$/i.test(n) && !zip.files[n].dir);
+    if (!names.length) throw new Error("No .kml file inside " + fileName + ".");
+    names.sort((a,b) => (/doc\.kml$/i.test(b) ? 1 : 0) - (/doc\.kml$/i.test(a) ? 1 : 0));
+    return await zip.files[names[0]].async("string");
+  }
+  entries = await miniUnzip(buf);
+  const hit = entries.filter(e => /\.kml$/i.test(e.name))
+                     .sort((a,b) => (/doc\.kml$/i.test(b.name) ? 1 : 0) - (/doc\.kml$/i.test(a.name) ? 1 : 0))[0];
+  if (!hit) throw new Error("No .kml file inside " + fileName + ".");
+  return new TextDecoder("utf-8").decode(hit.data);
+}
+
+/* Fallback zip reader: walks the central directory, handles stored (0) and
+   deflate (8) entries. Used only when the JSZip script did not load. */
+async function miniUnzip(buf){
+  const dv = new DataView(buf), u8 = new Uint8Array(buf);
+  let eocd = -1;
+  for (let i = u8.length - 22; i >= 0 && i > u8.length - 66000; i--){
+    if (dv.getUint32(i, true) === 0x06054b50){ eocd = i; break; }
+  }
+  if (eocd < 0) throw new Error("Not a readable ZIP/KMZ archive.");
+  const count = dv.getUint16(eocd + 10, true);
+  let p = dv.getUint32(eocd + 16, true);
+  const out = [];
+  for (let i = 0; i < count; i++){
+    if (dv.getUint32(p, true) !== 0x02014b50) break;
+    const method  = dv.getUint16(p + 10, true);
+    const csize   = dv.getUint32(p + 20, true);
+    const nameLen = dv.getUint16(p + 28, true);
+    const extraLen= dv.getUint16(p + 30, true);
+    const cmtLen  = dv.getUint16(p + 32, true);
+    const lho     = dv.getUint32(p + 42, true);
+    const name    = new TextDecoder().decode(u8.subarray(p + 46, p + 46 + nameLen));
+    const lNameLen  = dv.getUint16(lho + 26, true);
+    const lExtraLen = dv.getUint16(lho + 28, true);
+    const start = lho + 30 + lNameLen + lExtraLen;
+    const raw = u8.subarray(start, start + csize);
+    let data;
+    if (method === 0) data = raw;
+    else if (method === 8){
+      if (typeof window.DecompressionStream === "undefined") throw new Error("This browser cannot unzip the KMZ. Unzip it and load the .kml directly.");
+      const ds = new window.DecompressionStream("deflate-raw");
+      const ab = await new Response(new Blob([raw]).stream().pipeThrough(ds)).arrayBuffer();
+      data = new Uint8Array(ab);
+    } else throw new Error("Unsupported ZIP compression in KMZ.");
+    out.push({name: name, data: data});
+    p += 46 + nameLen + extraLen + cmtLen;
+  }
+  return out;
+}
+
+/* ==========================================================================
+   4. Geometry math
+   ========================================================================== */
+const toRad = d => d * Math.PI / 180;
+
+function haversine(a, b){
+  const dLat = toRad(b[1] - a[1]), dLon = toRad(b[0] - a[0]);
+  const la1 = toRad(a[1]), la2 = toRad(b[1]);
+  const h = Math.sin(dLat/2)**2 + Math.cos(la1) * Math.cos(la2) * Math.sin(dLon/2)**2;
+  return 2 * EARTH_R * Math.asin(Math.min(1, Math.sqrt(h)));
+}
+function lineLengthM(coords){
+  let m = 0;
+  for (let i = 1; i < coords.length; i++) m += haversine(coords[i-1], coords[i]);
+  return m;
+}
+/* Spherical-excess ring area (Chamberlain & Duquette, JPL) — signed, m^2.
+   Chosen over an equirectangular projection so long north-south features in
+   the Rockies / Permian do not skew. */
+function ringAreaM2(coords){
+  if (coords.length < 3) return 0;
+  let total = 0;
+  for (let i = 0; i < coords.length; i++){
+    const p1 = coords[i], p2 = coords[(i + 1) % coords.length];
+    total += toRad(p2[0] - p1[0]) * (2 + Math.sin(toRad(p1[1])) + Math.sin(toRad(p2[1])));
+  }
+  return total * EARTH_R * EARTH_R / 2;
+}
+function featureCoords(f){
+  if (f.type === "polygon") return f.rings.reduce((a,r) => a.concat(r), []);
+  return f.coords || [];
+}
+function computeStats(features, rowWidthFt){
+  if (!features.length) return null;
+  let minLon = 180, minLat = 90, maxLon = -180, maxLat = -90;
+  let sumLon = 0, sumLat = 0, nPts = 0;
+  let lineM = 0, polyM2 = 0, nLine = 0, nPoly = 0, nPoint = 0;
+
+  features.forEach(f => {
+    const cs = featureCoords(f);
+    cs.forEach(c => {
+      if (c[0] < minLon) minLon = c[0];
+      if (c[0] > maxLon) maxLon = c[0];
+      if (c[1] < minLat) minLat = c[1];
+      if (c[1] > maxLat) maxLat = c[1];
+      sumLon += c[0]; sumLat += c[1]; nPts++;
+    });
+    if (f.type === "line"){ f._lengthM = lineLengthM(f.coords); lineM += f._lengthM; nLine++; }
+    else if (f.type === "polygon"){
+      let a = Math.abs(ringAreaM2(f.rings[0]));
+      for (let i = 1; i < f.rings.length; i++) a -= Math.abs(ringAreaM2(f.rings[i]));
+      f._areaM2 = Math.max(0, a); polyM2 += f._areaM2; nPoly++;
+    } else nPoint++;
+  });
+  if (!nPts) return null;
+
+  const lengthFt = lineM * FT_PER_M;
+  const polyAcres = polyM2 * FT_PER_M * FT_PER_M / SQFT_PER_ACRE;
+  const w = Number(rowWidthFt) > 0 ? Number(rowWidthFt) : 50;
+  /* Disturbance estimate = (line length x assumed ROW width) + mapped polygon area.
+     The width is operator-supplied, never inferred — it is an estimate, labelled as one. */
+  const corridorAcres = lengthFt * w / SQFT_PER_ACRE;
+
+  return {
+    bbox: [minLon, minLat, maxLon, maxLat],
+    centroid: [sumLon / nPts, sumLat / nPts],   /* mean of all vertices */
+    lengthM: lineM, lengthFt: lengthFt, lengthMi: lineM / M_PER_MI,
+    polyAcres: polyAcres, corridorAcres: corridorAcres,
+    disturbanceAcres: polyAcres + corridorAcres,
+    counts: {line: nLine, polygon: nPoly, point: nPoint, total: features.length},
+    vertices: nPts, rowWidthFt: w
+  };
+}
+function toGeoJSON(features){
+  return {
+    type: "FeatureCollection",
+    features: features.map(f => ({
+      type: "Feature",
+      properties: {
+        name: f.name, description: f.description || "", folder: f.folder || "",
+        length_ft: f._lengthM ? Math.round(f._lengthM * FT_PER_M) : undefined,
+        area_acres: f._areaM2 ? Number((f._areaM2 * FT_PER_M * FT_PER_M / SQFT_PER_ACRE).toFixed(3)) : undefined
+      },
+      geometry: f.type === "point"    ? {type: "Point", coordinates: f.coords[0]}
+              : f.type === "line"     ? {type: "LineString", coordinates: f.coords}
+              : {type: "Polygon", coordinates: f.rings}
+    }))
+  };
+}
+function fromGeoJSON(gj){
+  const out = [];
+  ((gj && gj.features) || []).forEach(f => {
+    const g = f.geometry || {}, p = f.properties || {};
+    if (g.type === "Point")            out.push({id: uid(), name: p.name || "(unnamed)", description: p.description || "", folder: p.folder || "", type: "point",   coords: [g.coordinates]});
+    else if (g.type === "LineString")  out.push({id: uid(), name: p.name || "(unnamed)", description: p.description || "", folder: p.folder || "", type: "line",    coords: g.coordinates});
+    else if (g.type === "Polygon")     out.push({id: uid(), name: p.name || "(unnamed)", description: p.description || "", folder: p.folder || "", type: "polygon", rings: g.coordinates});
+    else if (g.type === "MultiLineString") g.coordinates.forEach((c,i) => out.push({id: uid(), name: (p.name||"(unnamed)")+" ["+(i+1)+"]", description:"", folder:p.folder||"", type:"line", coords:c}));
+    else if (g.type === "MultiPolygon")    g.coordinates.forEach((r,i) => out.push({id: uid(), name: (p.name||"(unnamed)")+" ["+(i+1)+"]", description:"", folder:p.folder||"", type:"polygon", rings:r}));
+  });
+  return out;
+}

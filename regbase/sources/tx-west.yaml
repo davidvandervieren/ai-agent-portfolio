@@ -1,0 +1,193 @@
+# regbase/sources/tx-west.yaml
+#
+# Scope: Texas state-level agencies (statewide) + Permian Basin and
+# Panhandle/Anadarko counties & municipalities.
+#
+# STATUS: SEVERELY LIMITED THIS RUN — see tx-west.notes.md.
+#
+# This session's WebSearch tool budget was shared across the whole
+# session/environment and was found already exhausted after only 2
+# successful queries (a sibling agent working tx-east.yaml in this same
+# environment confirmed the budget was at 0/200 remaining before it even
+# began). WebFetch/curl/wget are blocked by the network egress proxy per
+# task instructions. As a result, only a handful of Railroad Commission
+# of Texas (RRC) pages were actually seen via WebSearch before the
+# budget hit its cap; TCEQ, GLO, THC, TxDOT, TWDB, TPWD, every
+# groundwater conservation district, and every one of the ~60 counties
+# and ~45 municipalities in scope could NOT be searched at all.
+#
+# Per the task's standing "never guess" / "NEVER invent or reconstruct a
+# URL" rule, records below are limited to what was actually returned by
+# WebSearch. No county, municipal, TCEQ, GLO, THC, TxDOT, TWDB, or GCD
+# records are included because zero real URLs were seen for any of them
+# this run — writing fabricated municode/county-site/agency-subpage URLs
+# would be actively harmful in a registry meant to be machine-trusted.
+#
+# See tx-west.notes.md for the full analytical narrative (HB 40
+# preemption scope, county permitting reality, Edwards Aquifer / SWR 36
+# triggers, GCD name list, TxDOT/GLO/THC context) written from
+# established general regulatory knowledge and flagged for citation
+# verification once WebSearch access is restored, plus the complete
+# list of what still needs research.
+#
+# NEXT STEP: re-run this task once WebSearch budget is available
+# (raise CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION or run in a fresh
+# session with a clean budget), or grant WebFetch to allowlisted state/
+# county government domains.
+
+sources:
+  - id: tx-rrc-statewide-rules-ch3
+    jurisdiction_level: state
+    state: TX
+    name: "Railroad Commission of Texas – Statewide Rules (16 TAC Chapter 3)"
+    agency: "Railroad Commission of Texas (RRC)"
+    authority_type:
+      - oil_gas_conservation
+      - water_quality
+      - underground_injection
+      - waste
+    applies_to:
+      - swd_well
+      - well_pad
+      - tank_battery
+      - midstream_pipeline
+      - produced_water_line
+    code_platform: state_register
+    landing_url: "https://www.rrc.texas.gov/general-counsel/rules/current-rules/"
+    documents:
+      - title: "RRC Current Rules (16 TAC Parts 1, 3, 7-9) – landing page"
+        url: "https://www.rrc.texas.gov/general-counsel/rules/current-rules/"
+        doc_type: regulation
+        format: html
+        citation_root: "16 TAC Ch. 1-9"
+        notes: "Index of current RRC administrative rules, including Statewide Rules (Ch. 3, e.g. SWR 8/9/14/36/46), Pipeline Safety (Ch. 8), Gas Utilities (Ch. 7). Individual SWR sub-pages were not opened this run — treat rule numbers/content below as needing confirmation against this index."
+      - title: "RRC Current Rules (mirror, rrc.state.tx.us)"
+        url: "https://www.rrc.state.tx.us/general-counsel/rules/current-rules/"
+        doc_type: regulation
+        format: html
+      - title: "16 TAC §3.8 (Statewide Rule 8 – Water Protection) – Secretary of State TAC lookup"
+        url: "https://texreg.sos.state.tx.us/public/readtac$ext.TacPage?sl=R&app=9&p_dir=&p_rloc=&p_tloc=&p_ploc=&pg=1&p_tac=&ti=16&pt=1&ch=3&rl=8"
+        doc_type: regulation
+        format: html
+        citation_root: "16 TAC §3.8"
+        notes: "SWR 8 (water protection / oil & gas waste management) via the SOS Texas Administrative Code portal. IMPORTANT: search results indicate RRC replaced SWR 8 with a new 16 TAC Chapter 4, Subchapter A effective July 1, 2025 (see tx-rrc-ch4-waste-rules-2025 record) — whether this §3.8 page still reflects live law or has been repealed/superseded was NOT confirmed this run."
+      - title: "RRC announcement: comment period extended on amendments to Chapter 3 and Chapter 4 rules"
+        url: "https://www.rrc.texas.gov/announcements/091024-rrc-extends-comment-period-on-amendments-to-chapter-3-and-chapter-4-rules/"
+        doc_type: guidance
+        format: html
+        notes: "Confirms active, ongoing rulemaking touching both Ch. 3 (Statewide Rules) and Ch. 4 (waste/environmental protection) as of the announcement date."
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-rrc-ch4-waste-rules-2025
+    jurisdiction_level: state
+    state: TX
+    name: "RRC 16 TAC Chapter 4 – Environmental Protection / Waste Management overhaul (successor to Statewide Rule 8), effective July 1, 2025"
+    agency: "Railroad Commission of Texas (RRC)"
+    authority_type:
+      - waste
+      - water_quality
+      - oil_gas_conservation
+    applies_to:
+      - swd_well
+      - well_pad
+      - tank_battery
+      - produced_water_line
+      - midstream_pipeline
+    code_platform: state_register
+    documents:
+      - title: "Texas Railroad Commission Finalizes Overhaul of Statewide Rule 8 (B3 Insight legal summary)"
+        url: "https://www.b3insight.com/texas-railroad-commission-finalizes-overhaul-of-statewide-rule-8/"
+        doc_type: guidance
+        format: html
+        notes: "Third-party (not RRC-authored) summary stating RRC replaced SWR 8 (16 TAC §3.8) with new 16 TAC Chapter 4, Subchapter A, effective 7/1/2025 — described as the most significant oilfield-waste rule change in ~40 years. Content NOT independently confirmed against RRC's own adopted-rule text this run; treat as a lead, not a citation."
+      - title: "RRC announcement: comment period extended on amendments to Chapter 3 and Chapter 4 rules"
+        url: "https://www.rrc.texas.gov/announcements/091024-rrc-extends-comment-period-on-amendments-to-chapter-3-and-chapter-4-rules/"
+        doc_type: guidance
+        format: html
+      - title: "Texas Register – Adopted Rules, Title 16 Economic Regulation (Feb. 14, 2025 issue archive)"
+        url: "https://www.sos.state.tx.us/texreg/archive/February142025/Adopted%20Rules/16.ECONOMIC%20REGULATION.html"
+        doc_type: regulation
+        format: html
+        notes: "Adopted-rules archive issue that plausibly contains the adopted new Chapter 4 waste-rule text (timing aligns with a mid-2025 effective date); specific rule text within this issue was NOT opened/confirmed this run."
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  - id: tx-rrc-pipeline-t4-pops
+    jurisdiction_level: state
+    state: TX
+    name: "RRC Pipeline Safety – Permit to Operate a Pipeline in Texas (Form T-4) via Pipeline Online Permitting System (POPS)"
+    agency: "Railroad Commission of Texas (RRC), Oversight and Safety Division / Pipeline Safety"
+    authority_type:
+      - pipeline_safety
+      - oil_gas_conservation
+    applies_to:
+      - midstream_pipeline
+      - produced_water_line
+      - gas_processing_plant
+      - compressor_station
+    code_platform: self_hosted
+    landing_url: "https://www.rrc.texas.gov/pipeline-safety/permitting-and-mapping/permitting/"
+    documents:
+      - title: "Pipeline Safety Permitting (landing page)"
+        url: "https://www.rrc.texas.gov/pipeline-safety/permitting-and-mapping/permitting/"
+        doc_type: guidance
+        format: html
+        citation_root: "16 TAC Ch. 8"
+      - title: "Instructions for Filing a Form T-4 Online"
+        url: "https://www.rrc.state.tx.us/pipeline-safety/permitting-and-mapping/permitting/instructions-for-filing-a-form-t-4-online/"
+        doc_type: guidance
+        format: html
+        citation_root: "Form T-4"
+      - title: "Pipeline Online Permitting System (POPS) External User Guide"
+        url: "https://www.rrc.state.tx.us/media/myxib4ls/pops-user-guide.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "A Guide to Pipeline Permit Submissions"
+        url: "https://www.rrc.texas.gov/media/awscllog/a-guide-to-pipeline-permit-submissions.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "Pipeline Notice to Operators – New POPS (2018)"
+        url: "https://rrc.texas.gov/media/pdxd4pnb/pipeline_notice-to-operators_newpops_9-18-2018.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "2025 T-4 Permit Renewal Cover Letter (C-LTR) notice"
+        url: "https://www.rrc.texas.gov/media/ytjc1n53/2025-renewal-c-ltr.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "Announcement: new versions of Form T-4 and Form T-4B adopted and online (2015)"
+        url: "https://www.rrc.texas.gov/announcements/02272015-new-versions-of-form-t-4-applications-to-permits-to-operate-a-pipeline-in-texas-and-form-t-4b-pipeline-transfer-certification-adopted-and-online"
+        doc_type: guidance
+        format: html
+        citation_root: "Form T-4 / Form T-4B"
+    permits:
+      - name: "Permit to Operate a Pipeline in Texas (Form T-4)"
+        trigger: "Operating a pipeline or gathering system in Texas (crude oil, produced water/gathering, gas gathering or transmission, common-carrier midstream lines) not excluded as a production/flow line under 16 TAC Ch. 8; required annually."
+        form_id: "Form T-4"
+        form_url: "https://www.rrc.state.tx.us/pipeline-safety/permitting-and-mapping/permitting/instructions-for-filing-a-form-t-4-online/"
+        typical_timeline_days: "unverified"
+        decision_body: "RRC Oversight and Safety Division – Pipeline Safety"
+        public_hearing: false
+        fee: "unverified"
+      - name: "Pipeline T-4 permit renewal / amendment / system addition / inactivation / transfer (Form T-4B, C-LTR cover letter) — filed via POPS"
+        trigger: "Annual T-4 renewal; adding pipeline system segments; operator/ownership transfer; permit inactivation"
+        form_id: "Form T-4B / Form C-LTR"
+        form_url: "https://www.rrc.state.tx.us/media/myxib4ls/pops-user-guide.pdf"
+        typical_timeline_days: "unverified"
+        decision_body: "RRC POPS (Pipeline Online Permitting System)"
+        public_hearing: false
+        fee: "unverified"
+    contacts:
+      - role: "Pipeline Permitting (POPS)"
+        office: "RRC Pipeline Safety / Oversight and Safety Division"
+        phone: "512-463-7058"
+        email: "pops@rrc.texas.gov"
+        url: "https://www.rrc.texas.gov/pipeline-safety/permitting-and-mapping/permitting/"
+    update_watch:
+      check_urls:
+        - "https://www.rrc.texas.gov/pipeline-safety/permitting-and-mapping/permitting/"
+        - "https://www.rrc.texas.gov/general-counsel/rules/current-rules/"
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"

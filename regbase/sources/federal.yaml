@@ -1,0 +1,1488 @@
+sources:
+
+  # ============================================================
+  # PHMSA — Pipeline Safety
+  # ============================================================
+
+  - id: phmsa-pipeline-safety-cfr-190-195-199
+    jurisdiction_level: federal
+    state: US
+    name: "PHMSA Federal Pipeline Safety Regulations (49 CFR Parts 190, 191, 192, 195, 199)"
+    agency: "Pipeline and Hazardous Materials Safety Administration (PHMSA), U.S. DOT"
+    authority_type: [pipeline_safety]
+    applies_to: [midstream_pipeline, produced_water_line, compressor_station, gas_processing_plant, metering]
+    code_platform: ecfr
+    landing_url: "https://www.phmsa.dot.gov/pipeline/annotated-regulations/49-cfr-192"
+    documents:
+      - title: "49 CFR Part 192 — Transportation of Natural and Other Gas by Pipeline: Minimum Federal Safety Standards"
+        url: "https://www.phmsa.dot.gov/pipeline/annotated-regulations/49-cfr-192"
+        doc_type: regulation
+        format: html
+        citation_root: "49 CFR Part 192"
+        notes: "Governs gas transmission and gathering pipelines, incl. compressor stations and gas processing interconnects."
+      - title: "49 CFR Part 195 — Transportation of Hazardous Liquids by Pipeline"
+        url: "https://www.phmsa.dot.gov/pipeline/annotated-regulations/49-cfr-195"
+        doc_type: regulation
+        format: html
+        citation_root: "49 CFR Part 195"
+        notes: "Governs crude oil / hazardous liquid gathering and transmission pipelines (relevant to produced-water and NGL lines where jurisdictional)."
+      - title: "eCFR 49 CFR Part 191 — Annual, Incident, and Other Reporting for Gas Pipelines"
+        url: "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-D/part-191"
+        doc_type: regulation
+        format: html
+        citation_root: "49 CFR Part 191"
+      - title: "eCFR 49 CFR Part 199 — Drug and Alcohol Testing"
+        url: "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-D/part-199"
+        doc_type: regulation
+        format: html
+        citation_root: "49 CFR Part 199"
+      - title: "eCFR 49 CFR Part 190 — Pipeline Safety Programs and Rulemaking Procedures (enforcement)"
+        url: "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-D/part-190"
+        doc_type: regulation
+        format: html
+        citation_root: "49 CFR Part 190"
+      - title: "PHMSA Operator Qualification (49 CFR 192 Subpart N / 195 Subpart G)"
+        url: "https://www.phmsa.dot.gov/pipeline/operator-qualifications/operator-qualification"
+        doc_type: guidance
+        format: html
+        citation_root: "49 CFR 192 Subpart N; 49 CFR 195 Subpart G"
+        notes: "OQ rule requires written program documenting covered-task qualification of personnel."
+      - title: "Standards Incorporated by Reference (Parts 192/193/195)"
+        url: "https://www.phmsa.dot.gov/standards-rulemaking/pipeline/standards-incorporated-reference"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "Operator Qualification (OQ) Program"
+        trigger: "Any operator performing covered tasks on a Part 192 or 195 regulated pipeline facility"
+        decision_body: "Self-certified by operator; audited by PHMSA / state pipeline safety authority"
+        public_hearing: false
+      - name: "Construction / design compliance (Part 192 Subpart C/D or Part 195 Subpart C/D)"
+        trigger: "New construction, replacement, or uprating of a jurisdictional gas or hazardous liquid pipeline"
+        decision_body: "PHMSA (interstate) or state pipeline safety agency operating under PHMSA certification (intrastate)"
+        public_hearing: false
+    gis:
+      - name: "National Pipeline Mapping System (NPMS) Pipelines dataset"
+        url: "https://services.arcgis.com/G4S1dGvn7PIgYd6Y/arcgis/rest/services/NPMS_Pipelines_2022/FeatureServer"
+        service_type: arcgis_rest
+        layer_use: "Public NPMS feature service showing gas transmission and hazardous liquid pipeline centerlines and attributes."
+      - name: "NPMS Public Viewer"
+        url: "https://pvnpms.phmsa.dot.gov/PublicViewer/"
+        service_type: unknown
+        layer_use: "County-level pipeline map viewer with operator contact info (requires area selection, not a raw REST endpoint)."
+    update_watch:
+      check_urls:
+        - "https://www.phmsa.dot.gov/pipeline/annotated-regulations/49-cfr-192"
+        - "https://www.phmsa.dot.gov/pipeline/annotated-regulations/49-cfr-195"
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: phmsa-integrity-management-hca-mca
+    jurisdiction_level: federal
+    state: US
+    name: "PHMSA Pipeline Integrity Management — High Consequence Areas (HCA) and Moderate Consequence Areas (MCA)"
+    agency: "Pipeline and Hazardous Materials Safety Administration (PHMSA), U.S. DOT"
+    authority_type: [pipeline_safety]
+    applies_to: [midstream_pipeline, compressor_station]
+    code_platform: ecfr
+    landing_url: "https://www.phmsa.dot.gov/pipeline/gas-distribution-transmission/gas-transmission-integrity-management"
+    documents:
+      - title: "49 CFR Part 192 Subpart O — Gas Transmission Pipeline Integrity Management"
+        url: "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-D/part-192/subpart-O"
+        doc_type: regulation
+        format: html
+        citation_root: "49 CFR 192 Subpart O"
+      - title: "49 CFR Part 195 Subpart F — Hazardous Liquid Pipeline Integrity Management"
+        url: "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-D/part-195/subpart-F"
+        doc_type: regulation
+        format: html
+        citation_root: "49 CFR 195 Subpart F"
+      - title: "Federal Register — HCA Identification Methods for Gas Transmission Pipelines"
+        url: "https://www.federalregister.gov/documents/2016/12/13/2016-29880/pipeline-safety-high-consequence-area-identification-methods-for-gas-transmission-pipelines"
+        doc_type: regulation
+        format: html
+    permits:
+      - name: "Integrity Management Program (baseline assessment plan, periodic reassessment)"
+        trigger: "Pipeline segment intersects a High Consequence Area (HCA) or, under the 2019/2022 gas rule amendments, a Moderate Consequence Area (MCA)"
+        decision_body: "PHMSA / delegated state pipeline safety agency"
+        public_hearing: false
+    update_watch:
+      cadence: quarterly
+      method: search
+      check_urls:
+        - "https://www.phmsa.dot.gov/pipeline/gas-distribution-transmission/gas-transmission-integrity-management"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: phmsa-national-registry-opid
+    jurisdiction_level: federal
+    state: US
+    name: "PHMSA National Registry of Pipeline and LNG Operators (Operator ID / OPID)"
+    agency: "Pipeline and Hazardous Materials Safety Administration (PHMSA), U.S. DOT"
+    authority_type: [pipeline_safety]
+    applies_to: [midstream_pipeline, compressor_station, gas_processing_plant]
+    code_platform: ecfr
+    landing_url: "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-D/part-191"
+    documents:
+      - title: "49 CFR 191.22 — National Registry of Pipeline and LNG Operators"
+        url: "https://www.law.cornell.edu/cfr/text/49/191.22"
+        doc_type: regulation
+        format: html
+        citation_root: "49 CFR 191.22"
+      - title: "PHMSA Form F 1000.2 — Operator Registry Notification Form, Instructions"
+        url: "https://www.phmsa.dot.gov/sites/phmsa.dot.gov/files/docs/National_Registry_Notification_Instructions_PHMSA%20F%201000.2_2012%20through%204-2015.pdf"
+        doc_type: form
+        format: pdf
+    permits:
+      - name: "Operator Identification Number (OPID) registration"
+        trigger: "Any new operator of a gas pipeline, gas pipeline facility, UNGSF, or LNG facility subject to 49 CFR 192/193/195; also required before certain new construction / significant asset changes"
+        form_id: "PHMSA F 1000.1 (Operator Assignment Request); PHMSA F 1000.2 (Operator Registry Notification)"
+        decision_body: "PHMSA National Registry"
+        public_hearing: false
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: phmsa-incident-reporting
+    jurisdiction_level: federal
+    state: US
+    name: "PHMSA Pipeline Incident and Annual Reporting"
+    agency: "Pipeline and Hazardous Materials Safety Administration (PHMSA), U.S. DOT"
+    authority_type: [pipeline_safety, spill_reporting]
+    applies_to: [midstream_pipeline, produced_water_line, compressor_station, gas_processing_plant]
+    code_platform: ecfr
+    landing_url: "https://www.phmsa.dot.gov/incident-reporting"
+    documents:
+      - title: "PHMSA Incident Reporting overview"
+        url: "https://www.phmsa.dot.gov/incident-reporting"
+        doc_type: guidance
+        format: html
+      - title: "Gas Transmission, Gathering, and UNGS Incident Report Form F 7100.2"
+        url: "https://www.phmsa.dot.gov/forms/gas-transmission-gathering-and-ungs-incident-report-form-f-71002"
+        doc_type: form
+        format: html
+      - title: "Gas Distribution Incident Report Form F 7100.1"
+        url: "https://www.phmsa.dot.gov/forms/gas-distribution-incident-report-form-f-7100-1"
+        doc_type: form
+        format: html
+      - title: "eCFR 49 CFR 191.3 / 191.15 — Incident definition and reporting for gas transmission and gathering"
+        url: "https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-D/part-191"
+        doc_type: regulation
+        format: html
+    permits:
+      - name: "Telephonic + written incident report"
+        trigger: "Reportable incident under 49 CFR 191.3 (e.g., death, injury requiring hospitalization, $122,000+ damage (indexed), or unintentional gas release of stated thresholds) on a gas transmission/gathering system"
+        form_id: "PHMSA F 7100.2"
+        typical_timeline_days: "Telephonic notice ASAP; written report within 30 days of detection"
+        decision_body: "PHMSA National Response Center / PHMSA"
+        public_hearing: false
+      - name: "Distribution system incident report"
+        trigger: "Reportable incident on a gas distribution system"
+        form_id: "PHMSA F 7100.1"
+        decision_body: "PHMSA"
+        public_hearing: false
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: phmsa-gas-gathering-lines-rule
+    jurisdiction_level: federal
+    state: US
+    name: "PHMSA Gas Gathering Line Safety Rule (Type A/B/C/R classification, 2022 amendments)"
+    agency: "Pipeline and Hazardous Materials Safety Administration (PHMSA), U.S. DOT"
+    authority_type: [pipeline_safety]
+    applies_to: [midstream_pipeline, gas_processing_plant]
+    code_platform: unknown
+    landing_url: "https://www.phmsa.dot.gov/rulemaking-implementation/gas-gathering/gas-gathering-regulatory-overview"
+    documents:
+      - title: "Gas Gathering Regulatory Overview"
+        url: "https://www.phmsa.dot.gov/rulemaking-implementation/gas-gathering/gas-gathering-regulatory-overview"
+        doc_type: guidance
+        format: html
+      - title: "Frequently Asked Questions for Types C and R Gas Gathering"
+        url: "https://www.phmsa.dot.gov/sites/phmsa.dot.gov/files/2023-05/TypeC-and-TypeR-Gas-Gathering-FAQs-04-2023.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "Federal Register — Final rule on gas gathering line reporting and Type C safety standards"
+        url: "https://www.govinfo.gov/content/pkg/FR-2021-11-15/pdf/2021-24240.pdf"
+        doc_type: regulation
+        format: pdf
+    permits:
+      - name: "Gas gathering line reporting (Types A, B, C, R)"
+        trigger: "Owner/operator of any onshore gas gathering line, including previously-unregulated low-pressure/rural gathering lines now classified as Type R (reporting-only) or Type C (regulated onshore gathering, >=8.625in OD and >=20% SMYS or >125 psig)"
+        form_id: "PHMSA F 7100.2-1 (annual gas gathering report)"
+        decision_body: "PHMSA"
+        public_hearing: false
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================================================
+  # FERC
+  # ============================================================
+
+  - id: ferc-nga-section7c-certificate
+    jurisdiction_level: federal
+    state: US
+    name: "FERC Natural Gas Act Section 7(c) Certificate of Public Convenience and Necessity"
+    agency: "Federal Energy Regulatory Commission (FERC)"
+    authority_type: [pipeline_safety, land_use_zoning]
+    applies_to: [midstream_pipeline, compressor_station]
+    code_platform: ecfr
+    landing_url: "https://www.ferc.gov/industries-data/natural-gas/industry-activities"
+    documents:
+      - title: "18 CFR Part 157 — Applications for Certificates of Public Convenience and Necessity (NGA Section 7)"
+        url: "https://www.ecfr.gov/current/title-18/chapter-I/subchapter-E/part-157"
+        doc_type: regulation
+        format: html
+        citation_root: "18 CFR Part 157"
+      - title: "Resource Reports for Applications Filed under the Natural Gas Act at FERC"
+        url: "https://www.ferc.gov/resource-reports-at-ferc"
+        doc_type: guidance
+        format: html
+      - title: "FERC Landowner Resources (eminent domain / ROW notice for certificated projects)"
+        url: "https://www.ferc.gov/alternative-dispute-resolution/landowner-resources"
+        doc_type: guidance
+        format: html
+      - title: "Certificate of Public Convenience and Necessity for Interstate Natural Gas Pipelines (Permitting Dashboard entry)"
+        url: "https://www.permits.performance.gov/node/31941"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "Section 7(c) Certificate of Public Convenience and Necessity"
+        trigger: "Construction and operation of new interstate natural gas transmission pipeline facilities, or new interstate gas transportation/sales service, that is NOT covered by an existing blanket certificate and NOT an exempt gathering facility"
+        decision_body: "FERC (5 Commissioners)"
+        public_hearing: true
+        notes: "Applies only where FERC has NGA jurisdiction — i.e., interstate pipeline transportation. Purely intrastate gathering and intrastate transmission are NOT FERC-certificated (state PUC / OGC jurisdiction instead); the jurisdictional line between 'gathering' (exempt) and 'transmission' (jurisdictional) is fact-specific and frequently litigated."
+    update_watch:
+      cadence: quarterly
+      method: search
+      check_urls:
+        - "https://www.ferc.gov/industries-data/natural-gas/industry-activities"
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: ferc-blanket-certificate-part157
+    jurisdiction_level: federal
+    state: US
+    name: "FERC Blanket Certificate Program (18 CFR Part 157 Subpart F)"
+    agency: "Federal Energy Regulatory Commission (FERC)"
+    authority_type: [pipeline_safety, land_use_zoning]
+    applies_to: [midstream_pipeline, compressor_station]
+    code_platform: ecfr
+    landing_url: "https://www.ferc.gov/natural-gas/blanket-certificates"
+    documents:
+      - title: "FERC Blanket Certificates program page"
+        url: "https://www.ferc.gov/natural-gas/blanket-certificates"
+        doc_type: guidance
+        format: html
+      - title: "Blanket Certificate Program: Notice to Landowners"
+        url: "https://www.ferc.gov/sites/default/files/2020-04/blanketcert.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "18 CFR 157.201–157.218 (Subpart F — Blanket Certificates), via eCFR Part 157"
+        url: "https://www.ecfr.gov/current/title-18/chapter-I/subchapter-E/part-157"
+        doc_type: regulation
+        format: html
+        citation_root: "18 CFR 157.201-157.218"
+    permits:
+      - name: "Blanket certificate automatic authorization"
+        trigger: "Routine construction/replacement/abandonment activity by a pipeline already holding a Part 157 Subpart F blanket certificate, below the automatic-authorization cost threshold"
+        decision_body: "Self-implementing, subject to FERC audit"
+        public_hearing: false
+      - name: "Blanket certificate prior-notice authorization"
+        trigger: "Blanket-certificate activity exceeding automatic-authorization thresholds or otherwise requiring 30/60-day prior notice to the public and landowners"
+        typical_timeline_days: "30-60 days notice period before construction"
+        decision_body: "FERC staff (notice review); Commission if protested"
+        public_hearing: false
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: ferc-form2-3q-financial-reporting
+    jurisdiction_level: federal
+    state: US
+    name: "FERC Form No. 2 / 2-A / 3-Q Natural Gas Pipeline Financial and Operating Reports"
+    agency: "Federal Energy Regulatory Commission (FERC)"
+    authority_type: [tax_fee]
+    applies_to: [midstream_pipeline, compressor_station, gas_processing_plant]
+    code_platform: unknown
+    landing_url: "https://www.ferc.gov/industries-data/natural-gas/industry-forms"
+    documents:
+      - title: "Form No. 2 — Major Natural Gas Pipeline Annual Report"
+        url: "https://www.ferc.gov/industries-data/natural-gas/resources/industry-forms/form-no-2-major-natural-gas-pipeline-annual"
+        doc_type: form
+        format: html
+      - title: "Form No. 3-Q — Quarterly Financial Report of Electric Utilities, Licensees, and Natural Gas Companies"
+        url: "https://www.ferc.gov/industries-data/natural-gas/resources/industry-forms/form-no-3-q-quarterly-financial-report"
+        doc_type: form
+        format: html
+      - title: "Natural Gas Industry Forms landing page"
+        url: "https://www.ferc.gov/industries-data/natural-gas/industry-forms"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "FERC Form No. 2 (annual)"
+        trigger: "Major interstate natural gas pipeline company (combined gas transported/stored for a fee exceeds 50 million Dth); Form 2-A for non-major companies"
+        typical_timeline_days: "Due annually, ~April 18 of the following year"
+        decision_body: "FERC Office of Enforcement (filing only, no approval)"
+        public_hearing: false
+      - name: "FERC Form No. 3-Q (quarterly)"
+        trigger: "Same jurisdictional companies as Form 2/2-A, filed quarterly"
+        typical_timeline_days: "Majors: within 60 days of quarter end; Non-majors: within 70 days"
+        decision_body: "FERC Office of Enforcement"
+        public_hearing: false
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: ferc-ngpa-section311-gathering-exemption
+    jurisdiction_level: federal
+    state: US
+    name: "NGPA Section 311 Intrastate Transportation and the FERC Gathering Exemption"
+    agency: "Federal Energy Regulatory Commission (FERC)"
+    authority_type: [pipeline_safety]
+    applies_to: [midstream_pipeline, produced_water_line]
+    code_platform: unknown
+    landing_url: "https://www.ferc.gov/industries-data/natural-gas/intrastate-transportation/ngpa-section-311-pipelines"
+    documents:
+      - title: "NGPA Section 311 Pipelines program page"
+        url: "https://www.ferc.gov/industries-data/natural-gas/intrastate-transportation/ngpa-section-311-pipelines"
+        doc_type: guidance
+        format: html
+      - title: "FERC Order No. 735 — Contract Reporting Requirements of Intrastate Natural Gas Companies"
+        url: "https://www.ferc.gov/sites/default/files/2020-06/OrderNo.735.pdf"
+        doc_type: regulation
+        format: pdf
+    permits:
+      - name: "Statement of Operating Conditions (SOC) for NGPA Section 311 service"
+        trigger: "Intrastate pipeline transporting gas 'on behalf of' interstate pipelines/shippers without becoming NGA Section 7 jurisdictional"
+        typical_timeline_days: "SOC/rate filing due within 30 days of commencing Section 311 service"
+        decision_body: "FERC"
+        public_hearing: false
+      - name: "Gathering facility determination (jurisdictional 'transmission' vs. exempt 'gathering')"
+        trigger: "Any dispute or declaratory-order request over whether a given line is NGA-jurisdictional transmission or non-jurisdictional gathering — determines whether Section 7 certification applies at all"
+        decision_body: "FERC (declaratory order) — fact-specific, based on the Farmland Industries / primary function test factors"
+        public_hearing: false
+        notes: "Critical threshold issue for midstream gathering systems; state oil & gas conservation agencies (not FERC) regulate purely intrastate gathering."
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================================================
+  # EPA — UIC Class II (SWD / injection) — primacy by state
+  # ============================================================
+
+  - id: epa-uic-class2-overview-144-146-147
+    jurisdiction_level: federal
+    state: US
+    name: "EPA Underground Injection Control (UIC) Class II Program — Federal Framework and Primacy Status"
+    agency: "U.S. EPA Office of Water"
+    authority_type: [underground_injection]
+    applies_to: [swd_well, produced_water_line]
+    code_platform: ecfr
+    landing_url: "https://www.epa.gov/uic/class-ii-oil-and-gas-related-injection-wells"
+    documents:
+      - title: "Class II Oil and Gas Related Injection Wells (EPA program page)"
+        url: "https://www.epa.gov/uic/class-ii-oil-and-gas-related-injection-wells"
+        doc_type: guidance
+        format: html
+      - title: "Underground Injection Control Primacy Status for States, Territories, and Tribes"
+        url: "https://www.epa.gov/uic/underground-injection-control-primacy-status-states-territories-and-tribes"
+        doc_type: guidance
+        format: html
+        notes: "EPA's authoritative table of which states hold primacy (and under which SDWA section, 1422 or 1425) for each injection well class."
+      - title: "Primary Enforcement Authority for the Underground Injection Control Program"
+        url: "https://www.epa.gov/uic/primary-enforcement-authority-underground-injection-control-program"
+        doc_type: guidance
+        format: html
+      - title: "40 CFR Part 144 — UIC Program"
+        url: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-D/part-144"
+        doc_type: regulation
+        format: html
+        citation_root: "40 CFR Part 144"
+      - title: "40 CFR Part 146 — UIC Criteria and Standards"
+        url: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-D/part-146"
+        doc_type: regulation
+        format: html
+        citation_root: "40 CFR Part 146"
+      - title: "40 CFR Part 147 — State, Tribal, and EPA-Administered UIC Programs"
+        url: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-D/part-147"
+        doc_type: regulation
+        format: html
+        citation_root: "40 CFR Part 147"
+      - title: "Underground Injection Control in EPA Region 6 (AR, LA, NM, OK, TX)"
+        url: "https://www.epa.gov/uic/underground-injection-control-epa-region-6-ar-la-nm-ok-and-tx"
+        doc_type: guidance
+        format: html
+      - title: "UIC EPA Region 8"
+        url: "https://www.epa.gov/uic/uic-epa-region-8"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "Class II UIC permit (state-issued, delegated primacy)"
+        trigger: "Any well used to inject fluids associated with oil and gas production (SWD, enhanced recovery, hydrocarbon storage) — i.e., every SWD well in CO/WY/NM/UT/TX"
+        decision_body: "State agency (see state-specific records below) under delegated SDWA Section 1425 (or 1422) primacy"
+        public_hearing: false
+        notes: "FINDING: all five target states (CO, WY, NM, UT, TX) hold Class II primacy — none is EPA-direct-implementation for Class II. EPA Region 6/8 retain oversight, and directly implement Class II only on certain tribal lands (e.g., Navajo Nation Class II program is administered by the Navajo Nation itself under EPA-approved Section 1425 authority, not by the state)."
+    update_watch:
+      cadence: monthly
+      method: search
+      check_urls:
+        - "https://www.epa.gov/uic/underground-injection-control-primacy-status-states-territories-and-tribes"
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: epa-uic-class2-texas-rrc
+    jurisdiction_level: federal
+    state: US
+    name: "Texas Class II UIC Primacy (Railroad Commission of Texas, SDWA Section 1425)"
+    agency: "U.S. EPA Region 6 (oversight); Railroad Commission of Texas (delegated primacy)"
+    authority_type: [underground_injection]
+    applies_to: [swd_well]
+    code_platform: unknown
+    landing_url: "https://www.rrc.texas.gov/oil-and-gas/applications-and-permits/injection-storage-permits/oil-and-gas-waste-disposal/"
+    documents:
+      - title: "RRC Underground Injection Control (UIC) Manual"
+        url: "https://www.rrc.texas.gov/media/v3onmigl/uic_manual_uia010_3116.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "RRC Statewide Rule 9 / Rule 46 (disposal vs. enhanced recovery injection)"
+        url: "https://www.rrc.texas.gov/oil-and-gas/applications-and-permits/injection-storage-permits/oil-and-gas-waste-disposal/injection-disposal-permit-procedures/technical-review"
+        doc_type: regulation
+        format: html
+        citation_root: "16 TAC (Statewide Rules 9, 46, 95, 96, 97)"
+    permits:
+      - name: "Disposal well permit (Statewide Rule 9) / Injection well permit (Statewide Rule 46)"
+        trigger: "SWD well (Rule 9, injection into non-productive formation) or enhanced-recovery / hydrocarbon-productive-zone injection (Rule 46)"
+        decision_body: "Railroad Commission of Texas"
+        public_hearing: false
+        notes: "EPA granted TX primacy under SDWA Section 1425 on April 23, 1982."
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: epa-uic-class2-newmexico-ocd
+    jurisdiction_level: federal
+    state: US
+    name: "New Mexico Class II UIC Primacy (Oil Conservation Division, SDWA Section 1425)"
+    agency: "U.S. EPA Region 6 (oversight); New Mexico Energy, Minerals and Natural Resources Dept. — Oil Conservation Division (delegated primacy)"
+    authority_type: [underground_injection]
+    applies_to: [swd_well]
+    code_platform: unknown
+    landing_url: "https://www.emnrd.nm.gov/ocd/"
+    documents:
+      - title: "Federal Register — State of New Mexico UIC Program; Primacy Revisions"
+        url: "https://www.federalregister.gov/documents/2022/01/03/2021-28237/state-of-new-mexico-underground-injection-control-program-primacy-revisions"
+        doc_type: regulation
+        format: html
+      - title: "NM OCD UIC program documents (correlation to 40 CFR Part 144)"
+        url: "https://www.emnrd.nm.gov/ocd/wp-content/uploads/sites/6/RESERVE2-Part-144_UIC-PROGRAM_EPA-Submittal.pdf"
+        doc_type: guidance
+        format: pdf
+    permits:
+      - name: "NM OCD Class II injection/disposal well permit"
+        trigger: "SWD or enhanced-recovery injection well in New Mexico (state lands and fee lands; NOT applicable within Navajo Nation exterior boundary, which has its own EPA-approved Class II program)"
+        decision_body: "New Mexico Oil Conservation Division"
+        public_hearing: false
+        notes: "NM primacy effective Feb. 5, 1982 (Class II, Section 1425); program administered jointly with NM Water Quality Control Commission / NMED for non-Class-II wells."
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: epa-uic-class2-colorado-ecmc
+    jurisdiction_level: federal
+    state: US
+    name: "Colorado Class II UIC Primacy (Energy and Carbon Management Commission, SDWA Section 1425)"
+    agency: "U.S. EPA Region 8 (oversight); Colorado Energy and Carbon Management Commission (ECMC, formerly COGCC) (delegated primacy)"
+    authority_type: [underground_injection]
+    applies_to: [swd_well]
+    code_platform: unknown
+    landing_url: "https://ecmc.colorado.gov/programs/underground-injection-control/uic-class-ii-wells"
+    documents:
+      - title: "ECMC UIC Class II Wells program page"
+        url: "https://ecmc.colorado.gov/programs/underground-injection-control/uic-class-ii-wells"
+        doc_type: guidance
+        format: html
+      - title: "ECMC Underground Injection Control program overview"
+        url: "https://ecmc.colorado.gov/programs/underground-injection-control"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "ECMC Class II injection/disposal well permit"
+        trigger: "SWD or enhanced-recovery injection well in Colorado"
+        decision_body: "Colorado Energy and Carbon Management Commission"
+        public_hearing: false
+        notes: "CO received Class II primacy under SDWA Section 1425 effective April 2, 1984, administered by COGCC (renamed ECMC). Do not confuse with Colorado's separate, not-yet-final Class VI (CO2 sequestration) primacy application pending as of the current review date."
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: epa-uic-class2-wyoming-wogcc
+    jurisdiction_level: federal
+    state: US
+    name: "Wyoming Class II UIC Primacy (Wyoming Oil and Gas Conservation Commission, SDWA Section 1425)"
+    agency: "U.S. EPA Region 8 (oversight); Wyoming Oil and Gas Conservation Commission (WOGCC) (delegated primacy)"
+    authority_type: [underground_injection]
+    applies_to: [swd_well]
+    code_platform: unknown
+    landing_url: "https://wogcc.wyo.gov/"
+    documents:
+      - title: "EPA Region 8 UIC Program Contacts (state Class II contacts)"
+        url: "https://www.epa.gov/sites/default/files/documents/uic_contacts.pdf"
+        doc_type: guidance
+        format: pdf
+    permits:
+      - name: "WOGCC Class II injection/disposal well permit"
+        trigger: "SWD or enhanced-recovery injection well in Wyoming"
+        decision_body: "Wyoming Oil and Gas Conservation Commission"
+        public_hearing: false
+        notes: "WY received Class II primacy under SDWA Section 1425 effective Dec. 23, 1982. Wyoming DEQ (not WOGCC) separately administers Class I/III/V/VI UIC programs."
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: epa-uic-class2-utah-dogm
+    jurisdiction_level: federal
+    state: US
+    name: "Utah Class II UIC Primacy (Division of Oil, Gas and Mining, SDWA Section 1425)"
+    agency: "U.S. EPA Region 8 (oversight); Utah Division of Oil, Gas and Mining (delegated primacy)"
+    authority_type: [underground_injection]
+    applies_to: [swd_well]
+    code_platform: unknown
+    landing_url: "https://ogm.utah.gov/underground-injection-control/"
+    documents:
+      - title: "Utah DOGM Underground Injection Control program page"
+        url: "https://ogm.utah.gov/underground-injection-control/"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "Utah DOGM Class II injection/disposal well permit"
+        trigger: "SWD or enhanced-recovery injection well in Utah (state and fee lands; Ute/Uintah & Ouray and other tribal trust lands may fall under separate tribal/EPA-direct authority)"
+        decision_body: "Utah Division of Oil, Gas and Mining"
+        public_hearing: false
+        notes: "Utah attained Class II UIC primacy in 1982."
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  # ============================================================
+  # EPA — Air (NSPS / NESHAP / GHGRP / Title V / NSR-PSD)
+  # ============================================================
+
+  - id: epa-nsps-oooo-family
+    jurisdiction_level: federal
+    state: US
+    name: "EPA NSPS Subparts OOOO / OOOOa / OOOOb — Oil and Natural Gas Sector New Source Performance Standards"
+    agency: "U.S. EPA Office of Air and Radiation"
+    authority_type: [air_quality]
+    applies_to: [midstream_pipeline, compressor_station, gas_processing_plant, tank_battery, well_pad]
+    code_platform: ecfr
+    landing_url: "https://www.epa.gov/controlling-air-pollution-oil-and-natural-gas-operations"
+    documents:
+      - title: "Frequently Asked Questions About EPA's Final Rule to Reduce Methane and Other Harmful Pollution from Oil and Natural Gas Operations"
+        url: "https://www.epa.gov/controlling-air-pollution-oil-and-natural-gas-operations/frequently-asked-questions-about-epas"
+        doc_type: guidance
+        format: html
+      - title: "Federal Register — Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review (OOOOb/OOOOc final rule, 2024)"
+        url: "https://www.federalregister.gov/documents/2024/03/08/2024-00366/standards-of-performance-for-new-reconstructed-and-modified-sources-and-emissions-guidelines-for"
+        doc_type: regulation
+        format: html
+      - title: "2026 Final Rule to Reduce Burden on the Oil and Natural Gas Industry"
+        url: "https://www.epa.gov/controlling-air-pollution-oil-and-natural-gas-operations/2026-final-rule-reduce-burden-oil-and"
+        doc_type: regulation
+        format: html
+        notes: "Recent 2026 reconsideration/burden-reduction rulemaking affecting OOOOb compliance — status is actively moving; verify current requirements before relying on this record."
+    permits:
+      - name: "NSPS OOOO/OOOOa/OOOOb applicability determination and control requirements (fugitive-emissions monitoring, pneumatic controllers/pumps, storage vessels, compressors)"
+        trigger: "New, modified, or reconstructed affected facility at a well site, gathering/boosting station, gas processing plant, or transmission compressor station, with construction/modification date determining which subpart (OOOO pre-2015; OOOOa 2015-2020; OOOOb post-Dec 6, 2022) applies"
+        decision_body: "EPA Region / delegated state air agency (permit incorporation)"
+        public_hearing: false
+    update_watch:
+      cadence: monthly
+      method: search
+      check_urls:
+        - "https://www.epa.gov/controlling-air-pollution-oil-and-natural-gas-operations"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: epa-eg-ooooc-existing-sources
+    jurisdiction_level: federal
+    state: US
+    name: "EPA Emissions Guidelines Subpart OOOOc — Methane/VOC Standards for Existing Oil and Gas Sources"
+    agency: "U.S. EPA Office of Air and Radiation"
+    authority_type: [air_quality]
+    applies_to: [midstream_pipeline, compressor_station, gas_processing_plant, tank_battery, well_pad]
+    code_platform: ecfr
+    landing_url: "https://www.epa.gov/controlling-air-pollution-oil-and-natural-gas-operations"
+    documents:
+      - title: "Federal Register — Emissions Guidelines for Existing Sources (Subpart OOOOc)"
+        url: "https://www.federalregister.gov/documents/2024/03/08/2024-00366/standards-of-performance-for-new-reconstructed-and-modified-sources-and-emissions-guidelines-for"
+        doc_type: regulation
+        format: html
+    permits:
+      - name: "State Plan implementation of OOOOc standards for existing sources"
+        trigger: "Existing (pre-Dec 6, 2022 construction) oil and gas facility once the relevant state's EPA-approved OOOOc state plan takes effect"
+        decision_body: "State air agency (via EPA-approved State Plan) or EPA (federal plan, where a state plan is not approved)"
+        public_hearing: true
+        notes: "EG OOOOc does not directly regulate sources; it obligates states to submit plans. Applicability timing depends on each state's plan status — CO/WY/NM/UT/TX state-plan status was not independently verified in this pass and should be checked against each state's air agency site."
+    update_watch:
+      cadence: monthly
+      method: search
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: epa-neshap-hh-hhh
+    jurisdiction_level: federal
+    state: US
+    name: "EPA NESHAP Subparts HH / HHH — Air Toxics Standards for Oil and Natural Gas Production, Transmission and Storage"
+    agency: "U.S. EPA Office of Air and Radiation"
+    authority_type: [air_quality]
+    applies_to: [gas_processing_plant, compressor_station, tank_battery, well_pad]
+    code_platform: ecfr
+    landing_url: "https://www.epa.gov/controlling-air-pollution-oil-and-natural-gas-operations/air-toxic-standards-crude-oil-and-natural"
+    documents:
+      - title: "Air Toxic Standards for Crude Oil and Natural Gas Production Facilities and for Natural Gas Transmission and Storage Facilities"
+        url: "https://www.epa.gov/controlling-air-pollution-oil-and-natural-gas-operations/air-toxic-standards-crude-oil-and-natural"
+        doc_type: guidance
+        format: html
+      - title: "eCFR 40 CFR Part 63 Subpart HH — NESHAP for Oil and Natural Gas Production Facilities"
+        url: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-63/subpart-HH"
+        doc_type: regulation
+        format: html
+        citation_root: "40 CFR Part 63 Subpart HH"
+      - title: "eCFR 40 CFR Part 63 Subpart HHH — NESHAP for Natural Gas Transmission and Storage Facilities"
+        url: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-63/subpart-HHH"
+        doc_type: regulation
+        format: html
+        citation_root: "40 CFR Part 63 Subpart HHH"
+    permits:
+      - name: "Subpart HH compliance (major and area-source production facilities; glycol dehydrators, storage vessels)"
+        trigger: "Oil and natural gas production facility (incl. compressor stations located at a production field) that is a major HAP source, or an area source with a glycol dehydration unit / storage vessel meeting throughput/HAP thresholds"
+        decision_body: "EPA / delegated state air agency"
+        public_hearing: false
+      - name: "Subpart HHH compliance (transmission and storage facilities)"
+        trigger: "Natural gas transmission and storage facility (major source) with glycol dehydration units"
+        decision_body: "EPA / delegated state air agency"
+        public_hearing: false
+        notes: "EPA announced a technology review / reconsideration of the 2012 HH/HHH amendments in April 2026 — rule text may change; verify current version."
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: epa-ghgrp-subpart-w
+    jurisdiction_level: federal
+    state: US
+    name: "EPA GHG Reporting Program — Subpart W, Petroleum and Natural Gas Systems (40 CFR Part 98)"
+    agency: "U.S. EPA Office of Atmospheric Programs"
+    authority_type: [air_quality]
+    applies_to: [midstream_pipeline, compressor_station, gas_processing_plant, tank_battery, swd_well, well_pad]
+    code_platform: ecfr
+    landing_url: "https://www.epa.gov/ghgreporting"
+    documents:
+      - title: "eCFR 40 CFR Part 98 Subpart W — Petroleum and Natural Gas Systems"
+        url: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-98/subpart-W"
+        doc_type: regulation
+        format: html
+        citation_root: "40 CFR Part 98 Subpart W"
+      - title: "Federal Register — GHG Reporting Rule: Revisions and Confidentiality Determinations for Petroleum and Natural Gas Systems (2024, incl. Waste Emissions Charge data elements)"
+        url: "https://www.federalregister.gov/documents/2024/05/14/2024-08988/greenhouse-gas-reporting-rule-revisions-and-confidentiality-determinations-for-petroleum-and-natural"
+        doc_type: regulation
+        format: html
+      - title: "Technical Corrections for GHG Reporting"
+        url: "https://www.epa.gov/ghgreporting/technical-corrections-ghg-reporting"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "Annual GHG report (Subpart W)"
+        trigger: "Onshore petroleum and natural gas gathering/boosting, gas processing, transmission/compression, or SWD facility (or corporate aggregation thereof) emitting >=25,000 metric tons CO2e/year"
+        typical_timeline_days: "Annual report due March 31 for prior calendar year, via EPA's e-GGRT system"
+        decision_body: "U.S. EPA"
+        public_hearing: false
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: epa-caa-title-v-nsr-psd
+    jurisdiction_level: federal
+    state: US
+    name: "Clean Air Act Title V Operating Permits and New Source Review (NSR/PSD/Nonattainment NSR)"
+    agency: "U.S. EPA Office of Air and Radiation; delegated state air agencies"
+    authority_type: [air_quality]
+    applies_to: [compressor_station, gas_processing_plant, tank_battery]
+    code_platform: ecfr
+    landing_url: "https://www.epa.gov/nsr"
+    documents:
+      - title: "New Source Review (NSR) Permitting"
+        url: "https://www.epa.gov/nsr"
+        doc_type: guidance
+        format: html
+      - title: "Title V Operating Permits — Current Regulations and Regulatory Actions"
+        url: "https://www.epa.gov/title-v-operating-permits/current-regulations-and-regulatory-actions"
+        doc_type: guidance
+        format: html
+      - title: "eCFR 40 CFR Part 70 — State Operating Permit Programs (Title V)"
+        url: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-70"
+        doc_type: regulation
+        format: html
+        citation_root: "40 CFR Part 70"
+      - title: "eCFR 40 CFR Part 52 Subpart -- PSD program (52.21)"
+        url: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-52/subpart-A/section-52.21"
+        doc_type: regulation
+        format: html
+        citation_root: "40 CFR 52.21"
+    permits:
+      - name: "Title V major source operating permit"
+        trigger: "Major source of criteria pollutants or HAPs (e.g., large gas processing plant / compressor station complex exceeding major-source thresholds, aggregated with adjacent/contiguous, common-control facilities under the 'single source' test)"
+        typical_timeline_days: "State/EPA review typically 6-18 months; statutory 18-month max for initial permit"
+        decision_body: "Delegated state air agency (CDPHE, WDEQ, NMED, UDAQ, TCEQ) or EPA Region"
+        public_hearing: true
+      - name: "PSD preconstruction permit"
+        trigger: "New major stationary source, or major modification, in an attainment area"
+        decision_body: "Delegated state air agency or EPA Region"
+        public_hearing: true
+      - name: "Minor NSR / synthetic minor / general permit"
+        trigger: "New or modified source below major-source thresholds, or accepting enforceable limits to stay below major-source thresholds (synthetic minor)"
+        decision_body: "State air agency"
+        public_hearing: false
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: epa-caa-synthetic-minor-general-permits
+    jurisdiction_level: federal
+    state: US
+    name: "State Air General Permits / Synthetic Minor Source Program for Oil & Gas Midstream Facilities"
+    agency: "Delegated state air agencies operating under Clean Air Act Section 110 SIP authority"
+    authority_type: [air_quality]
+    applies_to: [compressor_station, gas_processing_plant, tank_battery]
+    code_platform: unknown
+    landing_url: "https://www.epa.gov/nsr/new-source-review-related-links"
+    documents:
+      - title: "New Source Review Related Links (state program directory)"
+        url: "https://www.epa.gov/nsr/new-source-review-related-links"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "General Permit / Standard Permit / Permit-by-Rule for oil & gas facilities"
+        trigger: "Facility type and emission profile matches a state's pre-approved general/standard permit category (varies significantly by state: e.g., Texas TCEQ Standard Permit for Oil and Gas, Colorado APEN/GP registration, New Mexico NSR general construction permits)"
+        decision_body: "State air agency"
+        public_hearing: false
+        notes: "This is a placeholder cross-reference; state-specific general permit source records belong in the CO/WY/NM/UT/TX state.yaml files, not this federal file."
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  # ============================================================
+  # USACE / Clean Water Act
+  # ============================================================
+
+  - id: usace-cwa-404-permitting
+    jurisdiction_level: federal
+    state: US
+    name: "USACE Clean Water Act Section 404 Permitting (Nationwide Permits, Individual Permits) and Section 10 Rivers and Harbors Act"
+    agency: "U.S. Army Corps of Engineers (USACE), Regulatory Program"
+    authority_type: [wetlands_404]
+    applies_to: [midstream_pipeline, produced_water_line, water_crossing, access_road, temporary_workspace]
+    code_platform: unknown
+    landing_url: "https://www.usace.army.mil/Missions/Civil-Works/Regulatory-Program-and-Permits/Nationwide-Permits/"
+    documents:
+      - title: "USACE Nationwide Permit Information"
+        url: "https://www.usace.army.mil/Missions/Civil-Works/Regulatory-Program-and-Permits/Nationwide-Permits/"
+        doc_type: guidance
+        format: html
+      - title: "Federal Register — Reissuance and Modification of Nationwide Permits (2021, incl. NWP 12 split into separate oil/gas pipeline NWP)"
+        url: "https://www.federalregister.gov/documents/2021/01/13/2021-00102/reissuance-and-modification-of-nationwide-permits"
+        doc_type: regulation
+        format: html
+      - title: "Federal Register — Reissuance and Modification of Nationwide Permits (2026 reissuance cycle)"
+        url: "https://www.federalregister.gov/documents/2026/01/08/2026-00121/reissuance-and-modification-of-nationwide-permits"
+        doc_type: regulation
+        format: html
+      - title: "USACE District/Division locations directory"
+        url: "https://www.usace.army.mil/locations.aspx"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "NWP 12 — Oil or Natural Gas Pipeline Activities (utility line NWP)"
+        trigger: "Discharge of dredged/fill material into waters of the U.S. (incl. wetlands) for construction, maintenance, or repair of oil/gas pipelines and associated facilities, within NWP acreage/linear-foot limits"
+        typical_timeline_days: "Self-verifying / PCN review typically 45 days when a Pre-Construction Notification is required"
+        decision_body: "USACE District Engineer (district-specific regional conditions apply)"
+        public_hearing: false
+        notes: "Reissued effective March 15, 2021 (expiring March 14, 2026); a further reissuance cycle was in the Federal Register as of Jan. 2026 — confirm current expiration/reissuance status before relying on NWP 12 terms."
+      - name: "NWP 3 — Maintenance"
+        trigger: "Repair, rehabilitation, or replacement of a previously authorized, currently serviceable structure or fill (incl. pipeline crossings)"
+        decision_body: "USACE District Engineer"
+        public_hearing: false
+      - name: "NWP 14 — Linear Transportation Projects"
+        trigger: "Access road crossings of waters of the U.S. associated with pipeline/facility construction"
+        decision_body: "USACE District Engineer"
+        public_hearing: false
+      - name: "Individual (Standard) Section 404 Permit"
+        trigger: "Project exceeds Nationwide Permit thresholds (acreage, linear feet of stream bed loss, or single-and-complete-project limits), or District Engineer requires individual review (e.g., high-value wetlands, ESA/NHPA issues that cannot be resolved under an NWP)"
+        typical_timeline_days: "Often 6-18+ months, incl. public notice/comment"
+        decision_body: "USACE District Engineer / Division Engineer"
+        public_hearing: true
+      - name: "Section 10 Rivers and Harbors Act permit"
+        trigger: "Any structure or work in or affecting a Section 10 navigable water of the United States"
+        decision_body: "USACE District Engineer"
+        public_hearing: false
+    update_watch:
+      cadence: monthly
+      method: search
+      check_urls:
+        - "https://www.usace.army.mil/Missions/Civil-Works/Regulatory-Program-and-Permits/Nationwide-Permits/"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: epa-cwa-401-water-quality-certification
+    jurisdiction_level: federal
+    state: US
+    name: "Clean Water Act Section 401 Water Quality Certification"
+    agency: "U.S. EPA (framework); state water quality agencies (certifying authority)"
+    authority_type: [water_quality]
+    applies_to: [midstream_pipeline, produced_water_line, water_crossing]
+    code_platform: ecfr
+    landing_url: "https://www.epa.gov/cwa-401"
+    documents:
+      - title: "Clean Water Act Section 401 Certification program page"
+        url: "https://www.epa.gov/cwa-401"
+        doc_type: guidance
+        format: html
+      - title: "eCFR 40 CFR Part 121 — Clean Water Act Section 401 Water Quality Certification"
+        url: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-D/part-121"
+        doc_type: regulation
+        format: html
+        citation_root: "40 CFR Part 121"
+    permits:
+      - name: "Section 401 Water Quality Certification"
+        trigger: "Any activity requiring a federal license or permit (USACE 404 permit, FERC certificate) that may result in a discharge to waters of the United States"
+        typical_timeline_days: "State/tribe has up to 1 year to act (statutory outside limit); many states act within 60-90 days for NWP-related certifications"
+        decision_body: "State water quality agency (CDPHE, WDEQ, NMED, UDWQ, TCEQ) or EPA where a state lacks an approved program"
+        public_hearing: false
+        notes: "Federal cross-cutting requirement that attaches to the USACE 404 and FERC 7(c) processes; state-specific 401 certification records belong in each state's own source file."
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: epa-npdes-construction-general-permit
+    jurisdiction_level: federal
+    state: US
+    name: "EPA NPDES Construction General Permit (CGP) — Stormwater Discharges from Construction Activity"
+    agency: "U.S. EPA Office of Water"
+    authority_type: [stormwater, water_quality]
+    applies_to: [midstream_pipeline, produced_water_line, compressor_station, gas_processing_plant, access_road, temporary_workspace]
+    code_platform: unknown
+    landing_url: "https://www.epa.gov/npdes/2022-construction-general-permit-cgp"
+    documents:
+      - title: "2022 Construction General Permit (CGP)"
+        url: "https://www.epa.gov/npdes/2022-construction-general-permit-cgp"
+        doc_type: permit_record
+        format: html
+      - title: "2022 CGP final permit text"
+        url: "https://www.epa.gov/system/files/documents/2022-01/2022-cgp-final-permit.pdf"
+        doc_type: regulation
+        format: pdf
+      - title: "Construction General Permit (CGP) Frequent Questions"
+        url: "https://www.epa.gov/npdes/construction-general-permit-cgp-frequent-questions"
+        doc_type: guidance
+        format: html
+      - title: "Federal Register — Modification to 2022 CGP (2025)"
+        url: "https://www.federalregister.gov/documents/2025/04/15/2025-06320/modification-to-2022-national-pollutant-discharge-elimination-system-npdes-construction-general"
+        doc_type: regulation
+        format: html
+    permits:
+      - name: "NOI / Construction Stormwater permit coverage + SWPPP"
+        trigger: "Land-disturbing construction activity (pipeline ROW, well pad, compressor station, plant site) disturbing 1 or more acres, or part of a larger common plan of development disturbing 1+ acres, in an area where EPA is the NPDES permitting authority (direct-implementation states/areas only — most of CO/WY/NM/UT/TX have EPA-approved state NPDES programs, so state general permits apply instead; verify per state/facility location)"
+        form_id: "NOI (Notice of Intent), eNOI system"
+        decision_body: "EPA Region (in non-delegated areas) or state NPDES agency"
+        public_hearing: false
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: epa-spcc-frp-40cfr112
+    jurisdiction_level: federal
+    state: US
+    name: "EPA SPCC (Spill Prevention, Control, and Countermeasure) and Facility Response Plan (FRP), 40 CFR Part 112"
+    agency: "U.S. EPA Office of Emergency Management"
+    authority_type: [spill_reporting, water_quality]
+    applies_to: [tank_battery, gas_processing_plant, compressor_station, midstream_pipeline, produced_water_line]
+    code_platform: ecfr
+    landing_url: "https://www.epa.gov/oil-spills-prevention-and-preparedness-regulations"
+    documents:
+      - title: "Oil Spill Prevention and Preparedness Regulations"
+        url: "https://www.epa.gov/oil-spills-prevention-and-preparedness-regulations"
+        doc_type: guidance
+        format: html
+      - title: "Facility Response Plan (FRP) Overview"
+        url: "https://www.epa.gov/oil-spills-prevention-and-preparedness-regulations/facility-response-plan-frp-overview"
+        doc_type: guidance
+        format: html
+      - title: "eCFR 40 CFR Part 112 — Oil Pollution Prevention"
+        url: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-D/part-112"
+        doc_type: regulation
+        format: html
+        citation_root: "40 CFR Part 112"
+      - title: "Facility Response Planning Compliance Assistance Guide"
+        url: "https://www.epa.gov/sites/default/files/2014-04/documents/frpguide.pdf"
+        doc_type: guidance
+        format: pdf
+    permits:
+      - name: "SPCC Plan (self-implemented, PE-certified)"
+        trigger: "Facility with aggregate aboveground oil storage capacity > 1,320 gallons (or > 42,000 gal underground) and reasonable expectation of discharge to navigable waters/adjoining shorelines"
+        decision_body: "Self-certified by a licensed Professional Engineer; not filed with EPA unless requested"
+        public_hearing: false
+      - name: "Facility Response Plan (FRP)"
+        trigger: "Facility meeting SPCC applicability plus substantial-harm criteria (e.g., total oil storage > 1 million gallons, or specific proximity/throughput criteria to navigable waters)"
+        decision_body: "U.S. EPA Region"
+        public_hearing: false
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  # ============================================================
+  # Endangered Species Act / Migratory Birds
+  # ============================================================
+
+  - id: usfws-esa-section7-10-ipac-consultation
+    jurisdiction_level: federal
+    state: US
+    name: "Endangered Species Act Section 7 Consultation and Section 10 Incidental Take Permits (USFWS, IPaC)"
+    agency: "U.S. Fish and Wildlife Service (USFWS)"
+    authority_type: [endangered_species]
+    applies_to: [midstream_pipeline, produced_water_line, swd_well, compressor_station, gas_processing_plant, well_pad, access_road, water_crossing]
+    code_platform: unknown
+    landing_url: "https://www.fws.gov/service/information-planning-and-consultation"
+    documents:
+      - title: "Information for Planning and Consultation (IPaC) — landing page"
+        url: "https://www.fws.gov/service/information-planning-and-consultation"
+        doc_type: guidance
+        format: html
+      - title: "IPaC interactive tool"
+        url: "https://ipac.ecosphere.fws.gov/"
+        doc_type: application_packet
+        format: html
+      - title: "Instructions for Submitting Endangered Species Act Project Review Requests Using IPaC"
+        url: "https://www.fws.gov/sites/default/files/documents/Instructions%20for%20Submitting%20Endangered%20Species%20Act%20Project%20Review%20Requests%20Using%20IPaC_0.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "eCFR 50 CFR Part 402 — Interagency Cooperation (ESA Section 7 regulations)"
+        url: "https://www.ecfr.gov/current/title-50/chapter-IV/subchapter-A/part-402"
+        doc_type: regulation
+        format: html
+        citation_root: "50 CFR Part 402"
+    permits:
+      - name: "Section 7 consultation (informal or formal, incl. Biological Opinion)"
+        trigger: "Federal nexus (e.g., BLM ROW grant, USACE 404 permit, FERC certificate) for a project that may affect a federally listed species or designated/proposed critical habitat"
+        typical_timeline_days: "Informal: variable; Formal consultation: statutory 135 days (90-day biological assessment + 45-day opinion), often longer in practice"
+        decision_body: "USFWS Field Office (in coordination with the federal action agency)"
+        public_hearing: false
+      - name: "Section 10(a)(1)(B) Incidental Take Permit / Habitat Conservation Plan (HCP)"
+        trigger: "Non-federal (or federal-nexus-free) activity likely to result in incidental take of a listed species, absent a Section 7 consultation pathway"
+        typical_timeline_days: "Often 1-3+ years for HCP development and NEPA/permit review"
+        decision_body: "USFWS"
+        public_hearing: true
+    gis:
+      - name: "IPaC project review tool (species/critical habitat/wetlands screening)"
+        url: "https://ipac.ecosphere.fws.gov/"
+        service_type: unknown
+        layer_use: "Interactive project-area screening for listed species, critical habitat, migratory birds, wetlands; not a raw ArcGIS REST endpoint."
+    update_watch:
+      cadence: monthly
+      method: search
+      check_urls:
+        - "https://www.fws.gov/service/information-planning-and-consultation"
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: usfws-mbta-bgepa-bird-protections
+    jurisdiction_level: federal
+    state: US
+    name: "Migratory Bird Treaty Act (MBTA) and Bald and Golden Eagle Protection Act (BGEPA) Permits"
+    agency: "U.S. Fish and Wildlife Service (USFWS), Migratory Bird Permits"
+    authority_type: [wildlife]
+    applies_to: [midstream_pipeline, compressor_station, gas_processing_plant, tank_battery, well_pad]
+    code_platform: ecfr
+    landing_url: "https://www.fws.gov/program/migratory-bird-permits"
+    documents:
+      - title: "Migratory Bird Permits program page"
+        url: "https://www.fws.gov/program/migratory-bird-permits"
+        doc_type: guidance
+        format: html
+      - title: "Governing the take of migratory birds under the Migratory Bird Treaty Act"
+        url: "https://www.fws.gov/regulations/mbta"
+        doc_type: guidance
+        format: html
+      - title: "eCFR 50 CFR Part 21 — Migratory Bird Permits"
+        url: "https://www.ecfr.gov/current/title-50/chapter-I/subchapter-B/part-21"
+        doc_type: regulation
+        format: html
+        citation_root: "50 CFR Part 21"
+      - title: "Federal Register — Migratory Bird Permits; Authorizing the Incidental Take of Migratory Birds"
+        url: "https://www.federalregister.gov/documents/2021/10/04/2021-21474/migratory-bird-permits-authorizing-the-incidental-take-of-migratory-birds"
+        doc_type: regulation
+        format: html
+    permits:
+      - name: "Migratory bird incidental take authorization (general permit / individual permit under 50 CFR Part 21 Subpart D)"
+        trigger: "Activity with reasonably foreseeable incidental take of migratory birds — e.g., compressor station or facility with unenclosed flare/pit hazards, or nesting structures affected by pipeline construction timing"
+        decision_body: "USFWS Migratory Bird Permits (ePermits system)"
+        public_hearing: false
+      - name: "Eagle incidental take permit (50 CFR 22)"
+        trigger: "Activity with potential to disturb or take bald/golden eagles or active nests (siting near eagle nests/roosts)"
+        decision_body: "USFWS"
+        public_hearing: false
+        notes: "In practice, most midstream operators manage MBTA/BGEPA risk through avoidance/timing restrictions and voluntary Avian Protection Plans rather than obtaining permits; the current (post-2021 rulemaking) scope of MBTA incidental-take enforcement has changed across administrations — verify current enforcement posture."
+    update_watch:
+      cadence: monthly
+      method: search
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================================================
+  # NEPA / BLM / BIA / SHPO
+  # ============================================================
+
+  - id: blm-row-form2800-14-flpma-title-v
+    jurisdiction_level: federal
+    state: US
+    name: "BLM Right-of-Way Grant (FLPMA Title V, Form 2800-14, 43 CFR Part 2800)"
+    agency: "Bureau of Land Management (BLM), U.S. Dept. of the Interior"
+    authority_type: [roads_row, land_use_zoning, surface_owner]
+    applies_to: [midstream_pipeline, produced_water_line, compressor_station, access_road, electrical_line]
+    code_platform: ecfr
+    landing_url: "https://www.ecfr.gov/current/title-43/subtitle-B/chapter-II/subchapter-B/part-2800"
+    documents:
+      - title: "eCFR 43 CFR Part 2800 — Rights-of-Way Under the Federal Land Policy and Management Act"
+        url: "https://www.ecfr.gov/current/title-43/subtitle-B/chapter-II/subchapter-B/part-2800"
+        doc_type: regulation
+        format: html
+        citation_root: "43 CFR Part 2800"
+      - title: "BLM Form 2800-14 (Right-of-Way Grant/Temporary Use Permit) — sample as used in a project file"
+        url: "https://eplanning.blm.gov/public_projects/nepa/75521/130234/158380/Attachment_C:_Right_of_Way_Grant_and_Temporary_Use_Permit.pdf"
+        doc_type: form
+        format: pdf
+        notes: "Sample/attachment copy located via search; confirm current fillable form is available from BLM's electronic forms page (https://www.blm.gov/services/electronic-forms) before use."
+      - title: "BLM Manual 2801 — Rights-of-Way, General"
+        url: "https://www.blm.gov/sites/blm.gov/files/uploads/mediacenter_blmpolicymanual2801.pdf"
+        doc_type: policy
+        format: pdf
+    permits:
+      - name: "FLPMA Title V Right-of-Way Grant"
+        trigger: "Pipeline, produced-water line, access road, or compressor station facility crossing or sited on BLM-managed public land"
+        form_id: "BLM Form 2800-14"
+        typical_timeline_days: "Highly variable; commonly 1-3+ years where NEPA (EA/EIS) and ESA/NHPA consultation are required"
+        decision_body: "BLM Field/District Office (grants), State Office (larger/complex grants)"
+        public_hearing: true
+        fee: "Rental fee per BLM rent schedule (Sec. 2806) plus cost-recovery processing fees for BLM staff time"
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: blm-apd-sundry-3160-3-3160-5
+    jurisdiction_level: federal
+    state: US
+    name: "BLM Application for Permit to Drill (APD) and Sundry Notices (Onshore Orders, 43 CFR Part 3160)"
+    agency: "Bureau of Land Management (BLM), U.S. Dept. of the Interior"
+    authority_type: [oil_gas_conservation, surface_owner]
+    applies_to: [swd_well, well_pad, access_road]
+    code_platform: ecfr
+    landing_url: "https://www.ecfr.gov/current/title-43/subtitle-B/chapter-II/subchapter-C/part-3160"
+    documents:
+      - title: "eCFR 43 CFR Part 3160 — Onshore Oil and Gas Operations"
+        url: "https://www.ecfr.gov/current/title-43/subtitle-B/chapter-II/subchapter-C/part-3160"
+        doc_type: regulation
+        format: html
+        citation_root: "43 CFR Part 3160"
+      - title: "BLM Form 3160-5 — Sundry Notices and Reports on Wells"
+        url: "https://www.blm.gov/sites/blm.gov/files/3160-005.pdf"
+        doc_type: form
+        format: pdf
+      - title: "BLM Electronic Forms directory (incl. Form 3160-3 APD)"
+        url: "https://www.blm.gov/services/electronic-forms"
+        doc_type: form
+        format: html
+    permits:
+      - name: "Application for Permit to Drill (APD)"
+        trigger: "Drilling or re-entry of a well (incl. SWD wells sited on federal/Indian minerals) on Federal or Indian lands"
+        form_id: "BLM Form 3160-3"
+        decision_body: "BLM Field Office"
+        public_hearing: false
+      - name: "Sundry Notice (well operations / SWD conversion / facility changes)"
+        trigger: "Post-APD well operations, workovers, conversion of a well to SWD, or other change not requiring a new APD, on Federal/Indian lands"
+        form_id: "BLM Form 3160-5"
+        decision_body: "BLM Field Office"
+        public_hearing: false
+        notes: "Operators must submit Sundry Notices electronically via BLM's well information system (WIS)."
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: blm-nepa-eplanning
+    jurisdiction_level: federal
+    state: US
+    name: "National Environmental Policy Act (NEPA) Review for BLM Actions — ePlanning"
+    agency: "Bureau of Land Management (BLM), U.S. Dept. of the Interior"
+    authority_type: [land_use_zoning]
+    applies_to: [midstream_pipeline, produced_water_line, swd_well, compressor_station, well_pad, access_road]
+    code_platform: unknown
+    landing_url: "https://eplanning.blm.gov/"
+    documents:
+      - title: "BLM National NEPA Register (ePlanning)"
+        url: "https://eplanning.blm.gov/"
+        doc_type: application_packet
+        format: html
+      - title: "Programs: Planning and NEPA — What Informs Our Plans: NEPA"
+        url: "https://www.blm.gov/programs/planning-and-nepa/what-informs-our-plans/nepa"
+        doc_type: guidance
+        format: html
+      - title: "Federal Register — NEPA Implementing Procedures for the Bureau of Land Management (2024)"
+        url: "https://www.federalregister.gov/documents/2024/10/22/2024-24358/national-environmental-policy-act-implementing-procedures-for-the-bureau-of-land-management"
+        doc_type: regulation
+        format: html
+    permits:
+      - name: "NEPA review (Categorical Exclusion / Environmental Assessment / Environmental Impact Statement)"
+        trigger: "Any BLM discretionary federal action — ROW grant, APD, Sundry Notice requiring new surface disturbance — that is not itself categorically excluded"
+        typical_timeline_days: "CX: weeks; EA: several months to 1+ year; EIS: 1-3+ years"
+        decision_body: "BLM (lead agency), often with USACE/FERC/USFWS/SHPO as cooperating or consulting agencies"
+        public_hearing: true
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: bia-tribal-row-25cfr169
+    jurisdiction_level: federal
+    state: US
+    name: "BIA Rights-of-Way Over Indian Land (25 CFR Part 169)"
+    agency: "Bureau of Indian Affairs (BIA), U.S. Dept. of the Interior"
+    authority_type: [roads_row, surface_owner]
+    applies_to: [midstream_pipeline, produced_water_line, access_road, electrical_line]
+    code_platform: ecfr
+    landing_url: "https://www.bia.gov/as-ia/raca/rights-way-25-cfr-169"
+    documents:
+      - title: "Rights-of-Way (25 CFR 169) — BIA program page"
+        url: "https://www.bia.gov/as-ia/raca/rights-way-25-cfr-169"
+        doc_type: guidance
+        format: html
+      - title: "eCFR 25 CFR Part 169 — Rights-of-Way over Indian Land"
+        url: "https://www.ecfr.gov/current/title-25/chapter-I/subchapter-H/part-169"
+        doc_type: regulation
+        format: html
+        citation_root: "25 CFR Part 169"
+      - title: "BIA Right-of-Way Application (form)"
+        url: "https://www.bia.gov/sites/default/files/media_document/1076-0181_row-application_exp10.31.27_508.pdf"
+        doc_type: form
+        format: pdf
+      - title: "Rights-of-Way on Individually Owned Indian and Tribal Lands — program page"
+        url: "https://www.bia.gov/service/rights-of-way-individually-owned-indian-and-tribal-lands"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "Tribal/Indian land right-of-way grant"
+        trigger: "Pipeline, produced-water line, or access road crossing tribal trust or individually-owned (allotted) Indian land — relevant for Navajo Nation, Southern Ute, Ute Mountain Ute, Uintah & Ouray (Ute), Jicarilla Apache, and Wind River (Eastern Shoshone/Northern Arapaho) lands in the CO/WY/NM/UT operating area"
+        decision_body: "BIA Regional/Agency office with jurisdiction, WITH required tribal consent/consultation (landowner consent thresholds vary; tribal government consent generally required for tribal trust land)"
+        public_hearing: false
+        notes: "Actual process, consent thresholds, and any additional tribal-code requirements vary significantly by tribe/BIA agency and were not independently verified per tribe in this pass."
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: achp-nhpa-section106-shpo-thpo
+    jurisdiction_level: federal
+    state: US
+    name: "National Historic Preservation Act Section 106 Review (ACHP, SHPO/THPO consultation)"
+    agency: "Advisory Council on Historic Preservation (ACHP); State/Tribal Historic Preservation Officers"
+    authority_type: [cultural_historic]
+    applies_to: [midstream_pipeline, produced_water_line, swd_well, compressor_station, gas_processing_plant, access_road]
+    code_platform: unknown
+    landing_url: "https://www.achp.gov/protecting-historic-properties"
+    documents:
+      - title: "Protecting Historic Properties (ACHP Section 106 overview)"
+        url: "https://www.achp.gov/protecting-historic-properties"
+        doc_type: guidance
+        format: html
+      - title: "Section 106 Consultation about Archaeology — Q&A"
+        url: "https://www.achp.gov/Section_106_Archaeology_Guidance/Questions%20and%20Answers/Section%20106%20consultation%20about%20archaeology"
+        doc_type: guidance
+        format: html
+      - title: "eCFR 36 CFR Part 800 — Protection of Historic Properties (Section 106 implementing regulations)"
+        url: "https://www.ecfr.gov/current/title-36/chapter-VIII/part-800"
+        doc_type: regulation
+        format: html
+        citation_root: "36 CFR Part 800"
+    permits:
+      - name: "Section 106 consultation (identification, effects determination, resolution of adverse effects / MOA or PA)"
+        trigger: "Federal undertaking (BLM ROW, USACE 404 permit, FERC certificate) with potential to affect historic properties, incl. archaeological sites and properties of tribal religious/cultural significance"
+        typical_timeline_days: "Highly variable; cultural resource survey + SHPO/THPO 30-day review cycles are typical building blocks"
+        decision_body: "Lead federal agency, in consultation with SHPO and/or THPO, consulting tribes, and (when engaged) ACHP"
+        public_hearing: false
+        notes: "ACHP proposed a significant overhaul of Section 106 tribal consultation regulations in 2026 (reported by industry trackers in July 2026) — status of any final rule was not verified in this pass."
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================================================
+  # DOT Hazmat / OSHA / EPA RMP / EPCRA / FAA
+  # ============================================================
+
+  - id: osha-epa-process-safety-psm-rmp
+    jurisdiction_level: federal
+    state: US
+    name: "OSHA Process Safety Management (29 CFR 1910.119) and EPA Risk Management Program (40 CFR 68)"
+    agency: "Occupational Safety and Health Administration (OSHA), U.S. DOL; U.S. EPA Office of Emergency Management"
+    authority_type: [emergency_response]
+    applies_to: [gas_processing_plant, compressor_station, tank_battery]
+    code_platform: ecfr
+    landing_url: "https://www.osha.gov/process-safety-management"
+    documents:
+      - title: "OSHA Process Safety Management — Overview"
+        url: "https://www.osha.gov/process-safety-management"
+        doc_type: guidance
+        format: html
+      - title: "29 CFR 1910.119 — Process safety management of highly hazardous chemicals"
+        url: "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.119"
+        doc_type: regulation
+        format: html
+        citation_root: "29 CFR 1910.119"
+      - title: "EPA Risk Management Program (RMP) Rule"
+        url: "https://www.epa.gov/rmp"
+        doc_type: guidance
+        format: html
+      - title: "eCFR 40 CFR Part 68 — Chemical Accident Prevention Provisions"
+        url: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-C/part-68"
+        doc_type: regulation
+        format: html
+        citation_root: "40 CFR Part 68"
+    permits:
+      - name: "PSM program (written, self-implemented)"
+        trigger: "Process containing a threshold quantity of a listed highly hazardous chemical (e.g., certain flammable gas/NGL inventories at a gas processing plant), or a process involving a flammable liquid/gas in quantity >=10,000 lb at one location"
+        decision_body: "Self-implemented; OSHA enforcement via inspection"
+        public_hearing: false
+      - name: "Risk Management Plan (RMP), resubmitted every 5 years"
+        trigger: "Stationary source with a regulated substance (40 CFR 68 Subpart F list, incl. flammable mixtures such as processed natural gas/NGLs) above threshold quantity, most commonly at gas processing/treating plants"
+        typical_timeline_days: "Resubmission every 5 years; must submit before first use of a regulated substance above threshold"
+        decision_body: "U.S. EPA (RMP*eSubmit system) / delegated state implementing agency"
+        public_hearing: false
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: epcra-tier2-reporting-302-311-312-313-tri
+    jurisdiction_level: federal
+    state: US
+    name: "EPCRA Emergency Planning and Community Right-to-Know (Sections 302/311/312 Tier II, Section 313 TRI)"
+    agency: "U.S. EPA; State Emergency Response Commissions (SERC); Local Emergency Planning Committees (LEPC)"
+    authority_type: [emergency_response]
+    applies_to: [gas_processing_plant, compressor_station, tank_battery, swd_well]
+    code_platform: unknown
+    landing_url: "https://www.epa.gov/epcra"
+    documents:
+      - title: "EPCRA Quick Reference Fact Sheet"
+        url: "https://www.epa.gov/sites/default/files/2020-10/documents/epcra_quick_reference_fact_sheet.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "State Tier II Reporting Requirements and Procedures"
+        url: "https://www.epa.gov/epcra/state-tier-ii-reporting-requirements-and-procedures"
+        doc_type: guidance
+        format: html
+      - title: "Tier II Inventory Form Instructions"
+        url: "https://www.epa.gov/sites/default/files/2017-06/documents/tier_ii_inventory_form_instructions_2017.pdf"
+        doc_type: form
+        format: pdf
+      - title: "eCFR 40 CFR Part 302 (CERCLA/EPCRA 302 reportable quantities); Part 355 (emergency planning/notification); Part 370 (Tier II); Part 372 (TRI)"
+        url: "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-J"
+        doc_type: regulation
+        format: html
+        citation_root: "40 CFR Parts 302, 355, 370, 372"
+    permits:
+      - name: "EPCRA Section 302/303 Emergency Planning Notification"
+        trigger: "Facility with an Extremely Hazardous Substance on-site at or above its Threshold Planning Quantity"
+        decision_body: "SERC / LEPC"
+        public_hearing: false
+      - name: "EPCRA Section 311/312 Tier II Hazardous Chemical Inventory"
+        trigger: "Facility with a hazardous chemical (SDS-tracked) on-site above threshold (generally 10,000 lb, or 500 lb / TPQ for EHS)"
+        typical_timeline_days: "Annual, due March 1"
+        decision_body: "SERC, LEPC, and local fire department (filing recipients, not approval bodies)"
+        public_hearing: false
+      - name: "EPCRA Section 313 Toxics Release Inventory (TRI) Form R"
+        trigger: "Facility in a covered NAICS code (incl. many oil & gas midstream/processing NAICS) manufacturing, processing, or otherwise using a listed toxic chemical above threshold, with 10+ full-time-equivalent employees"
+        typical_timeline_days: "Annual, due July 1"
+        decision_body: "U.S. EPA"
+        public_hearing: false
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: faa-form-7460-1-obstruction-evaluation
+    jurisdiction_level: federal
+    state: US
+    name: "FAA Notice of Proposed Construction or Alteration (Form 7460-1, Obstruction Evaluation)"
+    agency: "Federal Aviation Administration (FAA)"
+    authority_type: []
+    applies_to: [compressor_station, gas_processing_plant]
+    code_platform: unknown
+    landing_url: "https://www.faa.gov/airports/central/engineering/part77"
+    documents:
+      - title: "Form FAA 7460-1 — Notice of Proposed Construction or Alteration"
+        url: "https://www.faa.gov/documentLibrary/media/Form/FAA_Form_7460-1_042023.pdf"
+        doc_type: form
+        format: pdf
+      - title: "Notification of Proposed Construction or Alteration on Airport (Part 77)"
+        url: "https://www.faa.gov/airports/central/engineering/part77"
+        doc_type: guidance
+        format: html
+      - title: "OE/AAA public filing portal"
+        url: "https://oeaaa.faa.gov"
+        doc_type: application_packet
+        format: html
+    permits:
+      - name: "Notice of Proposed Construction or Alteration"
+        trigger: "Structure (e.g., a flare stack, tall vent, or plant structure) exceeding 200 ft AGL, or exceeding FAR Part 77 imaginary-surface height thresholds near an airport, or otherwise meeting 14 CFR Part 77.9 notice criteria"
+        form_id: "FAA Form 7460-1"
+        typical_timeline_days: "FAA aeronautical study typically completed within 60 days of a complete filing"
+        decision_body: "FAA Obstruction Evaluation Group (OEG), via the OE/AAA online system"
+        public_hearing: false
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  # ============================================================
+  # Cross-cutting GIS reference layers (not agency-specific permitting authorities,
+  # included because they are widely used inputs to federal permitting/consultation)
+  # ============================================================
+
+  - id: federal-gis-reference-layers-nfhl-nwi
+    jurisdiction_level: federal
+    state: US
+    name: "Federal GIS Reference Layers — FEMA NFHL (Flood) and USFWS NWI (Wetlands)"
+    agency: "FEMA (NFHL); U.S. Fish and Wildlife Service (NWI)"
+    authority_type: [floodplain, wetlands_404]
+    applies_to: [midstream_pipeline, produced_water_line, water_crossing, compressor_station, gas_processing_plant, swd_well]
+    code_platform: unknown
+    landing_url: "https://www.fema.gov/flood-maps/national-flood-hazard-layer"
+    documents:
+      - title: "FEMA National Flood Hazard Layer (NFHL) overview"
+        url: "https://www.fema.gov/flood-maps/national-flood-hazard-layer"
+        doc_type: map
+        format: html
+      - title: "USFWS Wetlands Mapper"
+        url: "https://www.fws.gov/program/national-wetlands-inventory/wetlands-mapper"
+        doc_type: map
+        format: html
+      - title: "USFWS Wetland Web Mapping Services"
+        url: "https://www.fws.gov/program/national-wetlands-inventory/web-mapping-services"
+        doc_type: guidance
+        format: html
+    permits: []
+    gis:
+      - name: "FEMA NFHL MapServer (REST)"
+        url: "https://hazards.fema.gov/arcgis/rest/services/public/NFHL/MapServer"
+        service_type: arcgis_rest
+        layer_use: "Effective flood zone / base flood elevation / floodway determination, used for floodplain-crossing design and permitting inputs."
+      - name: "USFWS NWI Wetlands MapServer (REST)"
+        url: "https://fwspublicservices.wim.usgs.gov/wetlandsmapservice/rest/services/Wetlands/MapServer/"
+        service_type: arcgis_rest
+        layer_use: "National Wetlands Inventory wetland type/extent layer, used to scope Section 404/401 jurisdictional-waters review."
+    update_watch:
+      cadence: quarterly
+      method: search
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  # ============================================================
+  # Species-status tracker (federal ESA listing actions of outsized regional impact)
+  # ============================================================
+
+  - id: usfws-species-status-lpc-dsl-sage-grouse
+    jurisdiction_level: federal
+    state: US
+    name: "Federal Listing Status Tracker — Lesser Prairie-Chicken, Dunes Sagebrush Lizard, Greater Sage-Grouse"
+    agency: "U.S. Fish and Wildlife Service (USFWS)"
+    authority_type: [endangered_species]
+    applies_to: [midstream_pipeline, produced_water_line, swd_well, compressor_station, well_pad, access_road]
+    code_platform: unknown
+    landing_url: "https://www.fws.gov/lpc"
+    documents:
+      - title: "Conserving the lesser prairie-chicken (USFWS species page)"
+        url: "https://www.fws.gov/lpc"
+        doc_type: guidance
+        format: html
+      - title: "Federal Register — Status Review for the Lesser Prairie-Chicken (Feb. 26, 2026)"
+        url: "https://www.federalregister.gov/documents/2026/02/26/2026-03882/endangered-and-threatened-wildlife-and-plants-status-review-for-the-lesser-prairie-chicken"
+        doc_type: regulation
+        format: html
+        notes: "USFWS withdrew the 2022 northern/southern DPS listings following an Aug. 12, 2025 district court vacatur (W.D. Tex.) and reopened a 12-month status review as of a 2016 petition; species is NOT currently ESA-listed as of this review, but status is actively in flux."
+      - title: "Federal Register — Endangered Species Status for the Dunes Sagebrush Lizard (May 20, 2024)"
+        url: "https://www.federalregister.gov/documents/2024/05/20/2024-11025/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-the-dunes-sagebrush"
+        doc_type: regulation
+        format: html
+        notes: "Listed as endangered, effective June 20, 2024; range limited to shinnery oak dune habitat in Lea/Eddy/Chaves/Roosevelt counties, NM and Andrews/Winkler/Ward/Crane counties, TX. Critical habitat was NOT designated in the final rule (proposed rule was to follow); designation status should be re-verified."
+    permits:
+      - name: "ESA Section 7 / Section 10 review trigger for dunes sagebrush lizard"
+        trigger: "Any midstream surface disturbance (pipeline ROW, well pad, access road) within the shinnery-oak dune range in Lea/Eddy/Chaves/Roosevelt (NM) or Andrews/Winkler/Ward/Crane (TX) counties"
+        decision_body: "USFWS"
+        public_hearing: false
+      - name: "ESA review trigger for lesser prairie-chicken"
+        trigger: "Not currently triggered federally — species delisted as of Feb. 26, 2026 pending a new 12-month status review; some project proponents continue voluntary conservation measures (e.g., range-wide plan enrollment) given litigation/relisting risk"
+        decision_body: "USFWS"
+        public_hearing: false
+    update_watch:
+      cadence: monthly
+      method: search
+      check_urls:
+        - "https://www.fws.gov/lpc"
+    confidence: probable
+    last_reviewed: "2026-09-04"

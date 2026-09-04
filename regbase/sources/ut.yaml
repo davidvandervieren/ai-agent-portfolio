@@ -1,0 +1,643 @@
+# Utah regulatory source registry — oil & gas midstream (pipelines, produced water lines,
+# SWD/injection wells, compressor stations, gas processing plants)
+#
+# COVERAGE NOTE: This file was built under a hard WebSearch budget cap that was exhausted
+# mid-task (shared session-wide budget, not specific to this file). State-level agencies
+# are researched in reasonable depth. County coverage is LIMITED to Uintah, Duchesne,
+# Carbon, and Emery (partial) — the remaining counties in scope (Grand, San Juan, Sevier,
+# Summit, Daggett, and all others) and ALL municipalities were NOT researched and have
+# NO entries here, rather than fabricated ones. See ut.notes.md section (d) for the full
+# gap list. Every URL below was actually seen in a WebSearch result snippet; none were
+# invented or reconstructed. Confidence levels reflect that content was read from search
+# snippets, not fetched pages (WebFetch/curl are blocked in this environment).
+
+sources:
+  # ============================== STATE — DOGM / Board of Oil, Gas and Mining ==============================
+  - id: ut-dogm-r649-oil-gas-rules
+    jurisdiction_level: state
+    state: UT
+    agency: Utah Division of Oil, Gas and Mining (DOGM) / Board of Oil, Gas and Mining
+    name: Utah Oil and Gas Rules (Utah Admin. Code R649)
+    authority_type: [oil_gas_conservation, underground_injection, waste, spill_reporting, reclamation]
+    applies_to: [midstream_pipeline, produced_water_line, swd_well, compressor_station, gas_processing_plant, well_pad, tank_battery]
+    code_platform: state_register
+    landing_url: "https://ogm.utah.gov/"
+    documents:
+      - title: "R649. Natural Resources; Oil, Gas and Mining; Oil and Gas (full compiled rule, official DOGM PDF)"
+        url: "https://oilgas.ogm.utah.gov/pub/Rules/R649_All.pdf"
+        doc_type: regulation
+        format: pdf
+        citation_root: "Utah Admin. Code R649"
+        notes: "Compiled R649-1 through R649-11. R649-3 = drilling/operating practices; R649-5 = UIC/Class II injection; R649-6 = gas processing & waste crude treatment; R649-8 = reporting/forms; R649-9 = waste management & disposal (pits, landfarms, commercial disposal); R649-10 = admin procedures; R649-11 = admin penalties."
+      - title: "R649-3 Drilling and Operating Practices (third-party mirror, eLaws)"
+        url: "http://utrules.elaws.us/uac/r649-3"
+        doc_type: regulation
+        format: html
+        citation_root: "Utah Admin. Code R649-3"
+        notes: "Third-party mirror, not the official rules.utah.gov/adminrules.utah.gov text — verify against official source before citing."
+      - title: "R649-3-1 Bonding (third-party mirror, eLaws)"
+        url: "http://utrules.elaws.us/uac/r649-3-1"
+        doc_type: regulation
+        format: html
+        citation_root: "Utah Admin. Code R649-3-1"
+      - title: "Utah DOGM Forms (Form 1 agent designation, Form 3 APD, Form 5 sundry, Form 6, Form 8 injection, Form 9, Form 10, Form 14, etc.)"
+        url: "https://ogm.utah.gov/og-forms/"
+        doc_type: form
+        format: html
+      - title: "Electronic Reporting / ePermit registration"
+        url: "https://ogm.utah.gov/electronic-reporting/"
+        doc_type: guidance
+        format: html
+        notes: "Companies must register for ePermit before electronically filing APDs, Sundry Notices, or Workover Tax Credit forms."
+      - title: "State of Utah Oil and Gas Program — Report Forms (legacy portal)"
+        url: "https://oilgasweb.dev.utah.gov/Forms/Forms.htm"
+        doc_type: form
+        format: html
+      - title: "Utah UIC Class II Program Description (DNR)"
+        url: "https://ogm.utah.gov/wp-content/uploads/2025/10/UT-Program-Description_Final.docx-1.pdf"
+        doc_type: guidance
+        format: pdf
+        notes: "Describes Utah's UIC Class II primacy program administered by DOGM under R649-5."
+    permits:
+      - name: "Application for Permit to Drill, Deepen, or Plug Back (Form 3 / APD)"
+        trigger: "Any new well, deepening, or plug-back"
+        form_id: "Form 3"
+        decision_body: "DOGM"
+        public_hearing: false
+      - name: "Sundry Notice"
+        trigger: "Change to previously approved operations (e.g., facility modifications)"
+        form_id: "Form 9"
+        decision_body: "DOGM"
+        public_hearing: false
+      - name: "UIC Application for Injection Well (SWD)"
+        trigger: "New Class II SWD/injection well or conversion"
+        form_id: "Form 8 / UIC Form 1"
+        decision_body: "DOGM / Board of Oil, Gas and Mining"
+        public_hearing: true
+      - name: "Designation of Agent"
+        trigger: "Operator registration prerequisite to filing"
+        form_id: "Form 1"
+        decision_body: "DOGM"
+    gis:
+      - name: "OGM Data Explorer / Utah e-permitting map viewer"
+        url: "https://ogm.utah.gov/"
+        service_type: unknown
+        layer_use: "Well and facility locations, referenced but exact ArcGIS REST endpoint not confirmed this session"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================== STATE — DEQ Division of Air Quality ==============================
+  - id: ut-deq-daq-r307-oil-gas
+    jurisdiction_level: state
+    state: UT
+    agency: Utah Department of Environmental Quality — Division of Air Quality (DAQ)
+    name: Utah Air Quality Rules R307 — Oil & Gas Series (incl. Uinta Basin nonattainment)
+    authority_type: [air_quality]
+    applies_to: [midstream_pipeline, compressor_station, gas_processing_plant, well_pad, tank_battery]
+    code_platform: state_register
+    landing_url: "https://deq.utah.gov/daq/air-quality-fact-sheets"
+    documents:
+      - title: "R307-401 Permits: New and Modified Sources (NOI/Approval Order)"
+        url: "https://rules.utah.gov/publicat/code/r307/r307-401.htm"
+        doc_type: regulation
+        format: html
+        citation_root: "Utah Admin. Code R307-401"
+        notes: "30-day public comment period on air quality permits; R307-509 previously granted an exemption for wells with an R307-401 Approval Order that has since been narrowed/eliminated by amendment."
+      - title: "R307-501 series (Current Rules — Utah Office of Administrative Rules)"
+        url: "https://adminrules.utah.gov/public/rule/R307-501/Current%20Rules?searchText=R307-501"
+        doc_type: regulation
+        format: html
+        citation_root: "Utah Admin. Code R307-500 series"
+        notes: "R307-500 series adopted 2014 to reduce emissions from pneumatic controllers, tanks, and oil tank trucks statewide; includes R307-504/505/506/507/509 oil & gas area-source rules referenced for the Uinta Basin ozone nonattainment area."
+      - title: "Air Quality Oil and Gas Registration / Emissions Reporting System"
+        url: "https://deq.utah.gov/air-quality/oil-gas-source-registration-air-quality"
+        doc_type: guidance
+        format: html
+        notes: "Oil and gas sources on lands under state jurisdiction must register once with DAQ per R307-505."
+      - title: "Ozone in the Uinta Basin"
+        url: "https://deq.utah.gov/air-quality/ozone-in-the-uinta-basin"
+        doc_type: guidance
+        format: html
+      - title: "Air Quality Fact Sheets"
+        url: "https://deq.utah.gov/daq/air-quality-fact-sheets"
+        doc_type: guidance
+        format: html
+      - title: "DAQ Permitting document viewer (example: Kinder Morgan Altamont LLC compressor permit)"
+        url: "https://daqpermitting.utah.gov/DocViewer?IntDocID=159121&contentType=application%2Fpdf"
+        doc_type: permit_record
+        format: pdf
+        notes: "Example of an actual midstream (compressor station) DAQ permit action in the Uinta Basin — illustrates the permit record system at daqpermitting.utah.gov."
+    permits:
+      - name: "Notice of Intent / Approval Order"
+        trigger: "New or modified stationary source (compressor station, gas processing plant, tank battery)"
+        decision_body: "DAQ"
+        public_hearing: true
+        typical_timeline_days: "unverified"
+      - name: "Title V Operating Permit"
+        trigger: "Major source thresholds (R307-415)"
+        decision_body: "DAQ"
+        public_hearing: true
+      - name: "Oil & Gas Source Registration"
+        trigger: "Oil and gas source operation on state-jurisdiction lands"
+        decision_body: "DAQ"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================== STATE — DEQ Division of Water Quality ==============================
+  - id: ut-deq-dwq-updes
+    jurisdiction_level: state
+    state: UT
+    agency: Utah Department of Environmental Quality — Division of Water Quality (DWQ)
+    name: Utah Pollutant Discharge Elimination System (UPDES) — R317-8
+    authority_type: [water_quality, stormwater]
+    applies_to: [midstream_pipeline, produced_water_line, compressor_station, gas_processing_plant, well_pad]
+    code_platform: state_register
+    landing_url: "https://deq.utah.gov/water-quality/current-permits-and-forms-updes-permitting-program"
+    documents:
+      - title: "R317-8 Utah Pollutant Discharge Elimination System (UPDES) (third-party mirror, eLaws)"
+        url: "http://utrules.elaws.us/uac/r317-8"
+        doc_type: regulation
+        format: html
+        citation_root: "Utah Admin. Code R317-8"
+        notes: "R317-8-3.9 requires UPDES construction stormwater permit coverage for disturbances of 1 acre+ (or part of a larger common plan)."
+      - title: "General Permit for Storm Water Discharges from Construction Activities (CGP)"
+        url: "https://www.utah.gov/pmn/files/602321.pdf"
+        doc_type: permit_record
+        format: pdf
+        notes: "Two general permits referenced: UTRC00000 (general construction) and UTRH00000 (≤1 acre)."
+      - title: "UPDES Current Permits and Forms"
+        url: "https://deq.utah.gov/water-quality/current-permits-and-forms-updes-permitting-program"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "UPDES Construction Stormwater General Permit (CGP)"
+        trigger: "Land disturbance of 1 acre or more (pipeline ROW, well pad, compressor site, ancillary facilities)"
+        decision_body: "DWQ"
+      - name: "Groundwater Discharge Permit"
+        trigger: "Discharge to groundwater (e.g., disposal pit, landfarm) — cross-reference R317-6"
+        decision_body: "DWQ"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================== STATE — DEQ Division of Waste Management and Radiation Control ==============================
+  - id: ut-deq-dwmrc-ep-waste
+    jurisdiction_level: state
+    state: UT
+    agency: Utah Department of Environmental Quality — Division of Waste Management and Radiation Control (DWMRC)
+    name: Utah E&P Waste Management (R315, incl. R315-321 Class VII E&P Waste Landfills)
+    authority_type: [waste]
+    applies_to: [swd_well, produced_water_line, well_pad, tank_battery, gas_processing_plant]
+    code_platform: state_register
+    landing_url: "https://deq.utah.gov/division-waste-management-radiation-control"
+    documents:
+      - title: "Title R315 — Waste Management and Radiation Control (index)"
+        url: "https://regulations.justia.com/states/utah/environmental-quality/title-r315/"
+        doc_type: regulation
+        format: html
+        citation_root: "Utah Admin. Code R315"
+        notes: "Third-party (Justia) index page; use for navigation only, cite official rules.utah.gov text where possible. R315-321 = Class VII Exploration and Production Waste Landfill Requirements."
+      - title: "E and P Waste Management"
+        url: "https://deq.utah.gov/waste-management-and-radiation-control/e-and-p-waste-management"
+        doc_type: guidance
+        format: html
+        notes: "In 2019 the Utah Legislature shifted primary E&P waste regulatory responsibility toward DWMRC per EPA requirement (DOGM previously had oversight under the historical RCRA Subtitle C exclusion)."
+      - title: "Utah Solid Waste Rules"
+        url: "https://deq.utah.gov/waste-management-and-radiation-control/solid-waste-rules-waste-management-and-radiation-control-laws-and-rules"
+        doc_type: regulation
+        format: html
+      - title: "Waste Management and Radiation Control Forms"
+        url: "https://deq.utah.gov/waste-management-and-radiation-control/forms-division-of-waste-management-and-radiation-control"
+        doc_type: form
+        format: html
+      - title: "DOGM Annual Waste Management Document"
+        url: "https://ogm.utah.gov/wp-content/uploads/2026/02/Annual-Waste-Management-Document.pdf"
+        doc_type: guidance
+        format: pdf
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================== STATE — SITLA ==============================
+  - id: ut-sitla-easements
+    jurisdiction_level: state
+    state: UT
+    agency: Utah School and Institutional Trust Lands Administration (SITLA)
+    name: SITLA Surface Easements (R850-30 / R850-40) — pipelines, power lines, ROW on trust lands
+    authority_type: [surface_owner, roads_row]
+    applies_to: [midstream_pipeline, produced_water_line, access_road, electrical_line]
+    code_platform: state_register
+    landing_url: "https://trustlands.utah.gov/work-with-us/surface/easements/"
+    documents:
+      - title: "Easements — Utah Trust Lands Administration"
+        url: "https://trustlands.utah.gov/work-with-us/surface/easements/"
+        doc_type: guidance
+        format: html
+        notes: "New easements typically issued for up to 30 years; application fee $750 due once accepted; requires cover letter, surveyor-prepared map/legal description; may require cultural/paleontological/biological surveys and RDCC + local government review."
+      - title: "Utah Admin. Code R850-40-300 Easement Acquisition"
+        url: "https://www.law.cornell.edu/regulations/utah/Utah-Admin-Code-R850-40-300"
+        doc_type: regulation
+        format: html
+        citation_root: "Utah Admin. Code R850-40-300"
+      - title: "Utah Admin. Code R850-40-1600 Easement Assignments"
+        url: "https://www.law.cornell.edu/regulations/utah/Utah-Admin-Code-R850-40-1600"
+        doc_type: regulation
+        format: html
+        citation_root: "Utah Admin. Code R850-40-1600"
+      - title: "DAR File No. 42678 (Rule R850-40 rulemaking history)"
+        url: "https://rules.utah.gov/publicat/bulletin/2018/20180401/42678.htm"
+        doc_type: regulation
+        format: html
+    permits:
+      - name: "SITLA Easement/ROW Grant"
+        trigger: "Pipeline, produced water line, power line, or road crossing SITLA trust land"
+        fee: "$750 application fee (2026 search snippet); rental per Easement Price Schedule or appraisal"
+        decision_body: "SITLA"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================== STATE — Forestry, Fire and State Lands (Sovereign Lands) ==============================
+  - id: ut-ffsl-sovereign-lands
+    jurisdiction_level: state
+    state: UT
+    agency: Utah Division of Forestry, Fire and State Lands (FFSL)
+    name: Sovereign Lands Permitting (Great Salt Lake, Utah Lake, Bear Lake, Jordan River, Green & Colorado River beds)
+    authority_type: [surface_owner]
+    applies_to: [midstream_pipeline, produced_water_line, water_crossing]
+    code_platform: state_register
+    landing_url: "https://ffsl.utah.gov/state-lands/sovereign-lands/"
+    documents:
+      - title: "Sovereign Lands | Forestry, Fire & State Lands"
+        url: "https://ffsl.utah.gov/state-lands/sovereign-lands/"
+        doc_type: guidance
+        format: html
+      - title: "Leases & Permits | Forestry, Fire & State Lands"
+        url: "https://ffsl.utah.gov/state-lands/sovereign-lands/permits/"
+        doc_type: guidance
+        format: html
+        notes: "Special use leases, general permits, and easements for activities on/beneath/above sovereign lands, incl. portions of the Green and Colorado River beds relevant to Uinta Basin / San Juan County crossings."
+    permits:
+      - name: "Sovereign Lands Special Use Lease / General Permit / Easement"
+        trigger: "Pipeline or facility crossing sovereign land (riverbed/lakebed)"
+        decision_body: "FFSL"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================== STATE — Division of Water Rights (Stream Alteration) ==============================
+  - id: ut-water-rights-stream-alteration
+    jurisdiction_level: state
+    state: UT
+    agency: Utah Division of Water Rights (State Engineer)
+    name: Stream Alteration Permit (R655-13) and Water Right Change Applications
+    authority_type: [water_quality, wetlands_404]
+    applies_to: [midstream_pipeline, produced_water_line, water_crossing]
+    code_platform: state_register
+    landing_url: "https://waterrights.utah.gov/strmalt"
+    documents:
+      - title: "Stream Alteration Program"
+        url: "https://waterrights.utah.gov/strmalt"
+        doc_type: guidance
+        format: html
+        notes: "Utah Code 73-3-29 requires written State Engineer authorization before altering the bed/banks of a natural stream; applies to stream + 2x bankfull width (up to 30 ft). Filed via the Joint Permit Application (Stream Alteration Application)."
+      - title: "Stream Alteration Permit Viewer"
+        url: "https://waterrights.utah.gov/stream-alt/"
+        doc_type: gis
+        format: html
+      - title: "R655-13 Stream Alteration (rule text PDF)"
+        url: "https://waterrights.utah.gov/rules/R655-13.pdf"
+        doc_type: regulation
+        format: pdf
+        citation_root: "Utah Admin. Code R655-13"
+      - title: "Application for Permanent Change of Water"
+        url: "https://www.waterrights.utah.gov/wrinfo/forms/PermanentChangeApplication.pdf"
+        doc_type: form
+        format: pdf
+    permits:
+      - name: "Stream Alteration Permit"
+        trigger: "Pipeline or produced water line water crossing (bed/bank alteration)"
+        decision_body: "State Engineer / Division of Water Rights"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================== STATE — DWR Sage-Grouse ==============================
+  - id: ut-dwr-sage-grouse-plan
+    jurisdiction_level: state
+    state: UT
+    agency: Utah Division of Wildlife Resources (DWR)
+    name: Conservation Plan for Greater Sage-Grouse in Utah (Sage-Grouse Management Areas)
+    authority_type: [wildlife, endangered_species]
+    applies_to: [midstream_pipeline, well_pad, compressor_station, access_road]
+    code_platform: none
+    landing_url: "https://wildlife.utah.gov/sage-grouse"
+    documents:
+      - title: "Overview and conservation plan — Greater sage-grouse"
+        url: "https://wildlife.utah.gov/sage-grouse"
+        doc_type: policy
+        format: html
+        notes: "State plan authorized 2013; establishes Sage-Grouse Management Areas (SGMAs) with development stipulations. Respects valid existing rights (oil & gas leases, ROWs). Relevant to Uintah Basin siting for pipelines/pads/compressor stations near SGMAs."
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================== STATE — Blue Stakes ==============================
+  - id: ut-blue-stakes-811
+    jurisdiction_level: state
+    state: UT
+    agency: Blue Stakes of Utah 811 (statewide one-call notification center)
+    name: Underground Utility Damage Prevention / One-Call Notification (Title 54, Ch. 8a)
+    authority_type: [roads_row, electrical_utility]
+    applies_to: [midstream_pipeline, produced_water_line, electrical_line, access_road]
+    code_platform: state_register
+    landing_url: "https://www.bluestakes.org/how-it-works/"
+    documents:
+      - title: "How It Works — Blue Stakes of Utah 811"
+        url: "https://www.bluestakes.org/how-it-works/"
+        doc_type: guidance
+        format: html
+        notes: "Utah Code Title 54, Chapter 8a, Damage to Underground Utility Facilities Act ('Blue Stake Law'); amended by SB 145 (2024), effective May 1, 2024. Requires min. 3 business days' notice before excavation."
+      - title: "Excavators' Guide (incl. damage to underground utility)"
+        url: "https://www.bluestakes.org/pdfs/ExcavatorsGuide.pdf"
+        doc_type: guidance
+        format: pdf
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================== STATE — SHPO ==============================
+  - id: ut-shpo-cultural-resource
+    jurisdiction_level: state
+    state: UT
+    agency: Utah State Historic Preservation Office (SHPO) / Division of State History
+    name: Cultural Resource Compliance (Section 106 NHPA and Utah Code 9-8-404)
+    authority_type: [cultural_historic]
+    applies_to: [midstream_pipeline, produced_water_line, well_pad, compressor_station, gas_processing_plant, access_road]
+    code_platform: state_register
+    landing_url: "https://ushpo.utah.gov/shpo/shpo-compliance/"
+    documents:
+      - title: "SHPO Compliance"
+        url: "https://ushpo.utah.gov/shpo/shpo-compliance/"
+        doc_type: guidance
+        format: html
+      - title: "Cultural Resource Compliance Guidance (2024)"
+        url: "https://ushpo.utah.gov/wp-content/uploads/2024/08/UTSHPO-Cultural-Resource-Compliance-Guidance_2024.pdf"
+        doc_type: guidance
+        format: pdf
+        notes: "Applies to federal undertakings (Sec. 106, 36 CFR 800) and Utah cultural resource law (Utah Code 9-8-404); relevant when federal permitting (BLM ROW, USACE 404) or state land triggers review. Utah SHPO reports ~98% of reviews completed within 7 days."
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================== STATE — UDOT ==============================
+  - id: ut-udot-row-permits
+    jurisdiction_level: state
+    state: UT
+    agency: Utah Department of Transportation (UDOT)
+    name: UDOT Encroachment / Utility / Oversize Load Permits
+    authority_type: [roads_row]
+    applies_to: [midstream_pipeline, produced_water_line, electrical_line, access_road]
+    code_platform: state_register
+    landing_url: "https://www.udot.utah.gov/connect/business/permits/"
+    documents:
+      - title: "Encroachment Permits | UDOT"
+        url: "https://www.udot.utah.gov/connect/business/permits/encroachment-permits/"
+        doc_type: application_packet
+        format: html
+        citation_root: "Utah Code 72-7-102"
+        notes: "Utah Code 72-7-102 prohibits excavating/placing a pipeline, conduit, or structure within state highway ROW without a permit. Statewide Utility License Agreement (SULA) required before design/placement of utilities in UDOT ROW."
+      - title: "Oversize Non-Divisible Load Provisions"
+        url: "https://www.udot.utah.gov/connect/business/motor-carriers/size-weight-permitting/oversize-overweight-provisions/oversize-non-divisible-load-provisions/"
+        doc_type: guidance
+        format: html
+        notes: "Relevant to hauling large midstream/compressor equipment."
+    permits:
+      - name: "UDOT Encroachment Permit"
+        trigger: "Pipeline/utility crossing or occupying state highway ROW"
+        decision_body: "UDOT Region Right of Way office"
+      - name: "Statewide Utility License Agreement (SULA)"
+        trigger: "Prerequisite before utility design/placement in UDOT ROW"
+        decision_body: "UDOT"
+      - name: "Oversize/Overweight Load Permit"
+        trigger: "Hauling oversize compressor/processing equipment"
+        decision_body: "UDOT Motor Carrier Division"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================== STATE — Pipeline Safety (Dept. of Commerce, Div. of Public Utilities) ==============================
+  - id: ut-dpu-pipeline-safety
+    jurisdiction_level: state
+    state: UT
+    agency: Utah Department of Commerce — Division of Public Utilities (DPU), Pipeline Safety Group
+    name: Utah Intrastate Pipeline Safety Program (PHMSA-certified agent)
+    authority_type: [pipeline_safety]
+    applies_to: [midstream_pipeline, gas_processing_plant, compressor_station]
+    code_platform: state_register
+    landing_url: "https://dpu.utah.gov/pipeline-safety/"
+    documents:
+      - title: "Pipeline Safety — dpu.utah.gov"
+        url: "https://dpu.utah.gov/pipeline-safety/"
+        doc_type: guidance
+        format: html
+        notes: "Utah's intrastate pipeline safety inspection/enforcement program sits within DPU (Dept. of Commerce), not the Public Service Commission, though PSC dockets reference pipeline safety filings. Certified by PHMSA/Office of Pipeline Safety under 49 U.S.C. 60105-60106; inspects/enforces intrastate gas pipeline operators; can act as PHMSA agent (inspection, not enforcement, on interstate)."
+      - title: "Utah State Page — PHMSA Stakeholder Communications"
+        url: "https://primis.phmsa.dot.gov/stakeholder-comms/states/utah/"
+        doc_type: guidance
+        format: html
+      - title: "Utah State Pipeline Safety Regulatory Fact Sheet (PHMSA)"
+        url: "https://primis.phmsa.dot.gov/comm/FactSheets/States/UT_State_PL_Safety_Regulatory_Fact_Sheet.htm"
+        doc_type: guidance
+        format: html
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================== STATE — LUDMA statute (framework, not an agency) ==============================
+  - id: ut-ludma-county-land-use-act
+    jurisdiction_level: state
+    state: UT
+    agency: Utah State Legislature / Office of Property Rights Ombudsman
+    name: "Utah Land Use, Development, and Management Act (LUDMA) — Title 17 Ch. 27a (county) / Title 10 Ch. 9a (municipal)"
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, compressor_station, gas_processing_plant, midstream_pipeline, tank_battery]
+    code_platform: state_register
+    landing_url: "https://propertyrights.utah.gov/find-the-law/legal-topics/utah-land-use-development-and-management-act-ludma/"
+    documents:
+      - title: "Utah's Land Use, Development, and Management Act (LUDMA) — explainer"
+        url: "https://propertyrights.utah.gov/find-the-law/legal-topics/utah-land-use-development-and-management-act-ludma/"
+        doc_type: guidance
+        format: html
+        notes: "Statewide framework statute governing county (17-27a) and municipal (10-9a) zoning/land-use authority in Utah; requires general plan, bounds processing timelines (applicant may request 45-day final decision after reasonable time has passed). Search did not surface an explicit statutory oil & gas preemption clause this session — treat any claim of state preemption of local O&G zoning as UNVERIFIED pending direct statute review (see notes.md)."
+      - title: "Utah Code Title 17, Chapter 27a — County Land Use, Development, and Management Act, Part 1 Section 101"
+        url: "https://le.utah.gov/xcode/Title17/Chapter27A/C17-27a-S101_1800010118000101.pdf"
+        doc_type: statute
+        format: pdf
+        citation_root: "Utah Code 17-27a-101"
+      - title: "Utah Code Title 10, Chapter 9a — Municipal Land Use, Development, and Management Act"
+        url: "https://le.utah.gov/xcode/Title10/Chapter9A/C10-9a_1800010118000101.pdf"
+        doc_type: statute
+        format: pdf
+        citation_root: "Utah Code 10-9a"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================== TRIBAL — Ute Indian Tribe ==============================
+  - id: ut-ute-tribe-energy-minerals
+    jurisdiction_level: tribal
+    state: UT
+    agency: Ute Indian Tribe of the Uintah and Ouray Reservation — Energy & Minerals Department
+    name: Ute Tribe Energy & Minerals Dept. — ROW/Access Permit/Business License for O&G on Reservation lands
+    authority_type: [oil_gas_conservation, surface_owner, roads_row, tax_fee]
+    applies_to: [midstream_pipeline, produced_water_line, swd_well, compressor_station, gas_processing_plant, well_pad, tank_battery, access_road]
+    code_platform: self_hosted
+    landing_url: "https://utetribe.com/energy-minerals/"
+    documents:
+      - title: "Energy & Minerals — Ute Indian Tribe"
+        url: "https://utetribe.com/energy-minerals/"
+        doc_type: guidance
+        format: html
+        notes: "Tribe leases ~400,000 acres for O&G, ~7,000 wells, ~45,000 bopd. Dept. handles Access Permit and Business License processes for operators on the Uintah & Ouray Reservation (essential for Uinta Basin midstream in Uintah/Duchesne counties overlapping trust/allotted land). BIA Uintah & Ouray Agency ROW review under 25 CFR 169 was named in task scope but not independently verified this session — no BIA-specific URL was found in search results."
+      - title: "BIA — Oil and Gas Plays, Uintah and Ouray Reservation"
+        url: "https://www.bia.gov/sites/default/files/dup/assets/as-ia/ieed/ieed/pdf/DEMD_OG_UintahOuray_OilGasPlays_508.pdf"
+        doc_type: guidance
+        format: pdf
+    contacts:
+      - role: "Energy & Minerals Dept. — Access Permit / Business License inquiries"
+        office: "Ute Indian Tribe Energy & Minerals Department"
+        phone: "435-725-4950"
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  # ============================== COUNTY — Uintah ==============================
+  - id: ut-uintah-county-land-use
+    jurisdiction_level: county
+    state: UT
+    county: Uintah
+    agency: Uintah County Community Development — Planning and Zoning
+    name: Uintah County Code of Ordinances — Title 17 Zoning (incl. oil & gas uses)
+    authority_type: [land_use_zoning, roads_row]
+    applies_to: [well_pad, compressor_station, gas_processing_plant, midstream_pipeline, tank_battery, access_road]
+    code_platform: municode
+    landing_url: "https://library.municode.com/ut/uintah_county"
+    documents:
+      - title: "Uintah County Code of Ordinances (Municode Library)"
+        url: "https://library.municode.com/ut/uintah_county"
+        doc_type: ordinance
+        format: html
+      - title: "Chapter 17.33 — Uses (incl. use-and-activity permit table)"
+        url: "https://library.municode.com/ut/uintah_county/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.33US_17.33.040USTAAP"
+        doc_type: ordinance
+        format: html
+        citation_root: "Uintah County Code Ch. 17.33"
+      - title: "Chapter 17.15 — Establishment of Zoning Districts"
+        url: "https://library.municode.com/ut/uintah_county/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.15ESZODI_17.15.020ZODIPU"
+        doc_type: ordinance
+        format: html
+        citation_root: "Uintah County Code Ch. 17.15"
+      - title: "Title 14 — Building Code"
+        url: "https://library.municode.com/ut/uintah_county/codes/code_of_ordinances?nodeId=TIT14BUCO"
+        doc_type: ordinance
+        format: html
+        citation_root: "Uintah County Code Title 14"
+      - title: "Planning and Zoning (dept. page)"
+        url: "https://www.uintah.gov/departments/a_-_e_departments/community_development/planning_and_zoning.php"
+        doc_type: guidance
+        format: html
+      - title: "Land Use Applications"
+        url: "https://www.uintah.gov/departments/a_-_e_departments/community_development/land_use_applications.php"
+        doc_type: application_packet
+        format: html
+        notes: "Includes Conditional Use Permit application, referenced also by Naples City (which co-references Uintah County land use ordinance)."
+    permits:
+      - name: "Conditional Use Permit"
+        trigger: "Oil & gas / midstream facility siting per Ch. 17.33 use table"
+        decision_body: "Planning Commission / Zoning Administrator"
+        public_hearing: true
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================== COUNTY — Duchesne ==============================
+  - id: ut-duchesne-county-land-use
+    jurisdiction_level: county
+    state: UT
+    county: Duchesne
+    agency: Duchesne County Community Development Department
+    name: Duchesne County Land Use Ordinance — Title 8, Oil and Gas Drilling and Production Sites
+    authority_type: [land_use_zoning, roads_row]
+    applies_to: [well_pad, compressor_station, midstream_pipeline, produced_water_line, tank_battery, access_road]
+    code_platform: american_legal
+    landing_url: "https://codelibrary.amlegal.com/codes/duchesnecountyut/latest/overview"
+    documents:
+      - title: "8-13-5-4: Oil and Gas Drilling and Production Sites"
+        url: "https://codelibrary.amlegal.com/codes/duchesnecountyut/latest/duchesneco_ut/0-0-0-3430"
+        doc_type: ordinance
+        format: html
+        citation_root: "Duchesne County Code 8-13-5-4"
+        notes: "Administrative Conditional Use Permit required for O&G drilling/production sites, compressor stations, and water handling facilities, with a grandfather exception for sites spudded/under construction before the ordinance's effective date. Requires compliance review against County Transportation Master Plan + payment of transportation service fee before spudding/construction. CUP fee for O&G drilling/production sites = $700 (as of ordinance text reviewed)."
+      - title: "Ordinance #19-373 (Title 8 zoning amendment)"
+        url: "https://www.duchesne.utah.gov/wp-content/uploads/2019/09/Ordinance-19-373.pdf"
+        doc_type: ordinance
+        format: pdf
+      - title: "2020 Zoning Ordinance Amendments (Ordinance #20-___)"
+        url: "https://www.duchesne.utah.gov/wp-content/uploads/2020/06/2020-Zoning-Ord-Amendments.pdf"
+        doc_type: ordinance
+        format: pdf
+      - title: "Reasonable Cost Analysis of Land Use Application Fees — Planning Division"
+        url: "https://duchesne.utah.gov/wp-content/uploads/2025/02/Reasonable-Cost-Analysis-of-Land-Use-Application-Fees-for-the-Planning-Division-of-Duchesne-County.pdf"
+        doc_type: fee_schedule
+        format: pdf
+      - title: "Community Development (dept. page)"
+        url: "https://duchesne.utah.gov/category/community-development"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "Administrative Conditional Use Permit — Oil and Gas Drilling and Production Site"
+        trigger: "New well, compressor station, or water-handling facility"
+        fee: "$700 (per amlegal-hosted code text reviewed)"
+        decision_body: "Zoning Administrator (appealable to Planning Commission, then County Commissioners)"
+        public_hearing: false
+      - name: "Transportation Service Fee / Master Plan Compliance Review"
+        trigger: "Prior to spudding or construction of O&G drilling/production site"
+        decision_body: "Duchesne County"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # ============================== COUNTY — Carbon ==============================
+  - id: ut-carbon-county-land-use
+    jurisdiction_level: county
+    state: UT
+    county: Carbon
+    agency: Carbon County Community Development
+    name: Carbon County Land Use Applications / Development Code
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, compressor_station, midstream_pipeline, tank_battery]
+    code_platform: unknown
+    landing_url: "https://www.carbon.utah.gov/service/land-use-applications/"
+    documents:
+      - title: "Land Use Applications — Carbon County"
+        url: "https://www.carbon.utah.gov/service/land-use-applications/"
+        doc_type: application_packet
+        format: html
+        notes: "Search snippets reference a Carbon County Development Code and an Official Zone Map (zones incl. 'M & G' and 'C-1'); code hosting platform (Municode vs. self-hosted vs. other) was not confirmed this session — full ordinance text URL not located."
+      - title: "Land Use Applications — Carbon County (alternate .com mirror)"
+        url: "https://www.carbonutah.com/service/land-use-applications/"
+        doc_type: application_packet
+        format: html
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  # ============================== COUNTY — Emery ==============================
+  - id: ut-emery-county-building-zoning
+    jurisdiction_level: county
+    state: UT
+    county: Emery
+    agency: Emery County Building & Zoning
+    name: Emery County Zoning Ordinance and Zoning Maps
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, compressor_station, midstream_pipeline, tank_battery]
+    code_platform: unknown
+    landing_url: "https://emerycounty.com/home/department-directory/bz/"
+    documents:
+      - title: "Building & Zoning — Emery County"
+        url: "https://emerycounty.com/home/department-directory/bz/"
+        doc_type: guidance
+        format: html
+      - title: "County & City Zoning Maps"
+        url: "https://emery.utah.gov/home/department-directory/bz/zoning-maps/"
+        doc_type: map
+        format: html
+        notes: "Search snippet confirms oil & gas wells are referenced in Emery County zoning ordinances, but the specific ordinance chapter/section and hosting platform for the current code were not located this session — only the Building & Zoning department landing pages were verified."
+    confidence: unverified
+    last_reviewed: "2026-09-04"

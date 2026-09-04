@@ -1,0 +1,927 @@
+# RegBase — People Layer seed set
+#
+# STATUS: This seed file was generated in a run where WebSearch had ZERO
+# session budget remaining before any query could be issued. Per the
+# standing "never guess" rule (see regbase/people/README.md), NOTHING in
+# this file was verified against a live source: no full_name, no term
+# date, no URL, no vote, and no position/decision-pattern content. Every
+# record below is confidence: unverified and full_name is intentionally
+# omitted.
+#
+# What this file DOES provide: the correct structural scaffold of
+# jurisdictions, bodies, and titles called out as highest-leverage in the
+# task brief, each pre-shaped to regbase/schemas/person.schema.json and
+# ready for regbase/people/refresh_task.md to populate via
+# collection_playbook.md once WebSearch is available. jurisdiction_id
+# values are provisional slugs following the source.schema.json naming
+# convention and may need to be reconciled once regbase/sources/ is
+# populated for these agencies/counties.
+#
+# role_type below reflects the PUBLICLY KNOWN STRUCTURE of the office
+# itself (e.g. "county commissioners are elected," "agency directors are
+# typically appointed/career civil-service") as background institutional
+# knowledge, not a verified fact about a specific incumbent -- it should
+# still be confirmed against the relevant state statute/agency charter on
+# first live refresh, since some structures (e.g. council-manager vs.
+# commission county government) vary and have changed in some counties.
+#
+# Each record uses schema-required fields only, plus `department` and
+# `staff_or_decision_maker`/`portfolio` where the office's general function
+# is a matter of public record about the OFFICE (not the person). No
+# official_contact, term dates, positions, votes, decision_patterns, or
+# campaign_finance are populated -- fabricating a plausible-looking URL or
+# date is exactly the failure mode this system exists to prevent.
+
+# =========================================================================
+# COLORADO
+# =========================================================================
+
+- id: co-ecmc-commissioner
+  jurisdiction_id: co-ecmc
+  state: CO
+  level: state
+  body: Colorado Energy and Carbon Management Commission (ECMC)
+  role_type: appointed
+  title: Commissioner (roster/seat count to verify)
+  appointed_by: Governor of Colorado
+  staff_or_decision_maker: decides
+  portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, gas_processing_plant, compressor_station, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: co-ecmc-director
+  jurisdiction_id: co-ecmc
+  state: CO
+  level: state
+  body: Colorado Energy and Carbon Management Commission (ECMC)
+  role_type: career_staff
+  title: Director
+  department: ECMC
+  staff_or_decision_maker: administers
+  portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, gas_processing_plant, compressor_station, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: co-weld-county-commissioner
+  jurisdiction_id: co-weld-county-landuse
+  state: CO
+  level: county
+  body: Weld County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (board seat/district to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, tank_battery, compressor_station, midstream_pipeline, access_road]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: co-weld-county-planning-director
+  jurisdiction_id: co-weld-county-landuse
+  state: CO
+  level: county
+  body: Weld County Department of Planning Services
+  role_type: career_staff
+  title: Director, Planning Services
+  department: Weld County Department of Planning Services
+  staff_or_decision_maker: recommends
+  portfolio: [land_use_zoning, well_pad, tank_battery, compressor_station, midstream_pipeline, access_road]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: co-garfield-county-commissioner
+  jurisdiction_id: co-garfield-county-landuse
+  state: CO
+  level: county
+  body: Garfield County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (board seat/district to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, tank_battery, compressor_station, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: co-garfield-county-community-development-director
+  jurisdiction_id: co-garfield-county-landuse
+  state: CO
+  level: county
+  body: Garfield County Community Development Department
+  role_type: career_staff
+  title: Director, Community Development
+  department: Garfield County Community Development
+  staff_or_decision_maker: recommends
+  portfolio: [land_use_zoning, well_pad, tank_battery, compressor_station, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: co-adams-county-commissioner
+  jurisdiction_id: co-adams-county-landuse
+  state: CO
+  level: county
+  body: Adams County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (board seat/district to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, tank_battery, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: co-broomfield-council-member
+  jurisdiction_id: co-broomfield-landuse
+  state: CO
+  level: municipal
+  body: City and County of Broomfield Council
+  role_type: elected
+  title: Council Member / Mayor (consolidated city-county; seat to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: co-boulder-county-commissioner
+  jurisdiction_id: co-boulder-county-landuse
+  state: CO
+  level: county
+  body: Boulder County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (board seat/district to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: co-laplata-county-commissioner
+  jurisdiction_id: co-laplata-county-landuse
+  state: CO
+  level: county
+  body: La Plata County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (board seat/district to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, tank_battery, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: co-cdphe-apcd-director
+  jurisdiction_id: co-cdphe-apcd
+  state: CO
+  level: state
+  body: Colorado Dept. of Public Health and Environment — Air Pollution Control Division (APCD)
+  role_type: career_staff
+  title: Director, Air Pollution Control Division
+  department: CDPHE APCD
+  staff_or_decision_maker: administers
+  portfolio: [air_quality, compressor_station, gas_processing_plant]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+# =========================================================================
+# WYOMING
+# =========================================================================
+
+- id: wy-wogcc-commissioner
+  jurisdiction_id: wy-wogcc
+  state: WY
+  level: state
+  body: Wyoming Oil and Gas Conservation Commission (WOGCC)
+  role_type: appointed
+  title: Commissioner (roster/seat count to verify)
+  appointed_by: Governor of Wyoming
+  staff_or_decision_maker: decides
+  portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: wy-wogcc-supervisor
+  jurisdiction_id: wy-wogcc
+  state: WY
+  level: state
+  body: Wyoming Oil and Gas Conservation Commission (WOGCC)
+  role_type: career_staff
+  title: Supervisor / Director
+  department: WOGCC
+  staff_or_decision_maker: administers
+  portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: wy-deq-aqd-administrator
+  jurisdiction_id: wy-deq-aqd
+  state: WY
+  level: state
+  body: Wyoming Dept. of Environmental Quality — Air Quality Division
+  role_type: career_staff
+  title: Administrator, Air Quality Division
+  department: WDEQ AQD
+  staff_or_decision_maker: administers
+  portfolio: [air_quality, compressor_station, gas_processing_plant]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: wy-campbell-county-commissioner
+  jurisdiction_id: wy-campbell-county-landuse
+  state: WY
+  level: county
+  body: Campbell County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (board seat to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, tank_battery, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: wy-campbell-county-planning-director
+  jurisdiction_id: wy-campbell-county-landuse
+  state: WY
+  level: county
+  body: Campbell County Planning & Zoning
+  role_type: career_staff
+  title: Planning Director
+  department: Campbell County Planning & Zoning
+  staff_or_decision_maker: recommends
+  portfolio: [land_use_zoning, well_pad, tank_battery, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: wy-converse-county-commissioner
+  jurisdiction_id: wy-converse-county-landuse
+  state: WY
+  level: county
+  body: Converse County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (board seat to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, tank_battery, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: wy-converse-county-planning-director
+  jurisdiction_id: wy-converse-county-landuse
+  state: WY
+  level: county
+  body: Converse County Planning & Zoning
+  role_type: career_staff
+  title: Planning Director
+  department: Converse County Planning & Zoning
+  staff_or_decision_maker: recommends
+  portfolio: [land_use_zoning, well_pad, tank_battery, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: wy-laramie-county-commissioner
+  jurisdiction_id: wy-laramie-county-landuse
+  state: WY
+  level: county
+  body: Laramie County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (board seat to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: wy-laramie-county-planning-director
+  jurisdiction_id: wy-laramie-county-landuse
+  state: WY
+  level: county
+  body: Laramie County Planning & Development
+  role_type: career_staff
+  title: Planning Director
+  department: Laramie County Planning & Development
+  staff_or_decision_maker: recommends
+  portfolio: [land_use_zoning, well_pad, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: wy-sublette-county-commissioner
+  jurisdiction_id: wy-sublette-county-landuse
+  state: WY
+  level: county
+  body: Sublette County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (board seat to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, tank_battery, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: wy-sublette-county-planning-director
+  jurisdiction_id: wy-sublette-county-landuse
+  state: WY
+  level: county
+  body: Sublette County Planning & Zoning
+  role_type: career_staff
+  title: Planning Director
+  department: Sublette County Planning & Zoning
+  staff_or_decision_maker: recommends
+  portfolio: [land_use_zoning, well_pad, tank_battery, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: wy-industrial-siting-council-member
+  jurisdiction_id: wy-industrial-siting-council
+  state: WY
+  level: state
+  body: Wyoming Industrial Siting Council
+  role_type: appointed
+  title: Council Member (roster/seat count to verify)
+  appointed_by: Governor of Wyoming
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, gas_processing_plant, compressor_station]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+# =========================================================================
+# NEW MEXICO
+# =========================================================================
+
+- id: nm-ocd-director
+  jurisdiction_id: nm-ocd
+  state: NM
+  level: state
+  body: New Mexico Oil Conservation Division (EMNRD)
+  role_type: career_staff
+  title: Director
+  department: NM Energy, Minerals and Natural Resources Dept. — OCD
+  staff_or_decision_maker: administers
+  portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: nm-occ-member
+  jurisdiction_id: nm-occ
+  state: NM
+  level: state
+  body: New Mexico Oil Conservation Commission
+  role_type: appointed
+  title: Commission Member (roster/seat count to verify)
+  appointed_by: Governor of New Mexico
+  staff_or_decision_maker: decides
+  portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: nm-ned-aqb-chief
+  jurisdiction_id: nm-ned-aqb
+  state: NM
+  level: state
+  body: New Mexico Environment Dept. — Air Quality Bureau
+  role_type: career_staff
+  title: Bureau Chief, Air Quality Bureau
+  department: NMED Air Quality Bureau
+  staff_or_decision_maker: administers
+  portfolio: [air_quality, compressor_station, gas_processing_plant]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: nm-lea-county-commissioner
+  jurisdiction_id: nm-lea-county-landuse
+  state: NM
+  level: county
+  body: Lea County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (board seat/district to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, tank_battery, swd_well, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: nm-lea-county-planning-director
+  jurisdiction_id: nm-lea-county-landuse
+  state: NM
+  level: county
+  body: Lea County Planning Dept.
+  role_type: career_staff
+  title: Planning Director
+  department: Lea County Planning
+  staff_or_decision_maker: recommends
+  portfolio: [land_use_zoning, well_pad, tank_battery, swd_well, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: nm-eddy-county-commissioner
+  jurisdiction_id: nm-eddy-county-landuse
+  state: NM
+  level: county
+  body: Eddy County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (board seat/district to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, tank_battery, swd_well, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: nm-eddy-county-planning-director
+  jurisdiction_id: nm-eddy-county-landuse
+  state: NM
+  level: county
+  body: Eddy County Planning Dept.
+  role_type: career_staff
+  title: Planning Director
+  department: Eddy County Planning
+  staff_or_decision_maker: recommends
+  portfolio: [land_use_zoning, well_pad, tank_battery, swd_well, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: nm-sanjuan-county-commissioner
+  jurisdiction_id: nm-sanjuan-county-landuse
+  state: NM
+  level: county
+  body: San Juan County (NM) Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (board seat/district to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: nm-sanjuan-county-planning-director
+  jurisdiction_id: nm-sanjuan-county-landuse
+  state: NM
+  level: county
+  body: San Juan County (NM) Planning Dept.
+  role_type: career_staff
+  title: Planning Director
+  department: San Juan County (NM) Planning
+  staff_or_decision_maker: recommends
+  portfolio: [land_use_zoning, well_pad, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: nm-rioarriba-county-commissioner
+  jurisdiction_id: nm-rioarriba-county-landuse
+  state: NM
+  level: county
+  body: Rio Arriba County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (board seat/district to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: nm-rioarriba-county-planning-director
+  jurisdiction_id: nm-rioarriba-county-landuse
+  state: NM
+  level: county
+  body: Rio Arriba County Planning Dept.
+  role_type: career_staff
+  title: Planning Director
+  department: Rio Arriba County Planning
+  staff_or_decision_maker: recommends
+  portfolio: [land_use_zoning, well_pad, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: nm-sandoval-county-commissioner
+  jurisdiction_id: nm-sandoval-county-landuse
+  state: NM
+  level: county
+  body: Sandoval County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (board seat/district to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: nm-sandoval-county-planning-director
+  jurisdiction_id: nm-sandoval-county-landuse
+  state: NM
+  level: county
+  body: Sandoval County Planning Dept.
+  role_type: career_staff
+  title: Planning Director
+  department: Sandoval County Planning
+  staff_or_decision_maker: recommends
+  portfolio: [land_use_zoning, well_pad, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+# =========================================================================
+# UTAH
+# =========================================================================
+
+- id: ut-dogm-director
+  jurisdiction_id: ut-dogm
+  state: UT
+  level: state
+  body: Utah Division of Oil, Gas and Mining (DOGM)
+  role_type: career_staff
+  title: Director
+  department: Utah DOGM
+  staff_or_decision_maker: administers
+  portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: ut-board-oil-gas-mining-member
+  jurisdiction_id: ut-boardoilgasmining
+  state: UT
+  level: state
+  body: Utah Board of Oil, Gas and Mining
+  role_type: appointed
+  title: Board Member (roster/seat count to verify)
+  appointed_by: Governor of Utah
+  staff_or_decision_maker: decides
+  portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: ut-daq-director
+  jurisdiction_id: ut-daq
+  state: UT
+  level: state
+  body: Utah Division of Air Quality (DAQ)
+  role_type: career_staff
+  title: Director
+  department: Utah DAQ
+  staff_or_decision_maker: administers
+  portfolio: [air_quality, compressor_station, gas_processing_plant]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: ut-uintah-county-commissioner
+  jurisdiction_id: ut-uintah-county-landuse
+  state: UT
+  level: county
+  body: Uintah County Commission
+  role_type: elected
+  title: County Commissioner (board seat to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, tank_battery, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: ut-uintah-county-planning-director
+  jurisdiction_id: ut-uintah-county-landuse
+  state: UT
+  level: county
+  body: Uintah County Planning Dept.
+  role_type: career_staff
+  title: Planning Director
+  department: Uintah County Planning
+  staff_or_decision_maker: recommends
+  portfolio: [land_use_zoning, well_pad, tank_battery, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: ut-duchesne-county-commissioner
+  jurisdiction_id: ut-duchesne-county-landuse
+  state: UT
+  level: county
+  body: Duchesne County Commission
+  role_type: elected
+  title: County Commissioner (board seat to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, tank_battery, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: ut-duchesne-county-planning-director
+  jurisdiction_id: ut-duchesne-county-landuse
+  state: UT
+  level: county
+  body: Duchesne County Planning Dept.
+  role_type: career_staff
+  title: Planning Director
+  department: Duchesne County Planning
+  staff_or_decision_maker: recommends
+  portfolio: [land_use_zoning, well_pad, tank_battery, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: ut-carbon-county-commissioner
+  jurisdiction_id: ut-carbon-county-landuse
+  state: UT
+  level: county
+  body: Carbon County Commission
+  role_type: elected
+  title: County Commissioner (board seat to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: ut-carbon-county-planning-director
+  jurisdiction_id: ut-carbon-county-landuse
+  state: UT
+  level: county
+  body: Carbon County Planning Dept.
+  role_type: career_staff
+  title: Planning Director
+  department: Carbon County Planning
+  staff_or_decision_maker: recommends
+  portfolio: [land_use_zoning, well_pad, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: ut-grand-county-commissioner
+  jurisdiction_id: ut-grand-county-landuse
+  state: UT
+  level: county
+  body: Grand County governing body (form of government — commission vs. council — to verify)
+  role_type: elected
+  title: County Commissioner / Council Member (title and board seat to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: ut-grand-county-planning-director
+  jurisdiction_id: ut-grand-county-landuse
+  state: UT
+  level: county
+  body: Grand County Planning Dept.
+  role_type: career_staff
+  title: Planning Director
+  department: Grand County Planning
+  staff_or_decision_maker: recommends
+  portfolio: [land_use_zoning, well_pad, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: ut-sanjuan-county-commissioner
+  jurisdiction_id: ut-sanjuan-county-landuse
+  state: UT
+  level: county
+  body: San Juan County (UT) Commission
+  role_type: elected
+  title: County Commissioner (board seat to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: ut-sanjuan-county-planning-director
+  jurisdiction_id: ut-sanjuan-county-landuse
+  state: UT
+  level: county
+  body: San Juan County (UT) Planning Dept.
+  role_type: career_staff
+  title: Planning Director
+  department: San Juan County (UT) Planning
+  staff_or_decision_maker: recommends
+  portfolio: [land_use_zoning, well_pad, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+# =========================================================================
+# TEXAS
+# =========================================================================
+
+- id: tx-rrc-commissioner
+  jurisdiction_id: tx-rrc
+  state: TX
+  level: state
+  body: Railroad Commission of Texas (RRC)
+  role_type: elected
+  title: Commissioner (one of three statewide elected seats — current holders/staggered terms to verify)
+  staff_or_decision_maker: decides
+  portfolio: [oil_gas_conservation, pipeline_safety, well_pad, tank_battery, swd_well, gas_processing_plant, compressor_station, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-rrc-pipeline-safety-director
+  jurisdiction_id: tx-rrc
+  state: TX
+  level: state
+  body: Railroad Commission of Texas — Oversight and Safety / Pipeline Safety
+  role_type: career_staff
+  title: Director, Pipeline Safety (division/title to verify)
+  department: RRC Oversight and Safety Division
+  staff_or_decision_maker: administers
+  portfolio: [pipeline_safety, midstream_pipeline, compressor_station]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-tceq-commissioner
+  jurisdiction_id: tx-tceq
+  state: TX
+  level: state
+  body: Texas Commission on Environmental Quality (TCEQ)
+  role_type: appointed
+  title: Commissioner (one of three seats — roster to verify)
+  appointed_by: Governor of Texas
+  staff_or_decision_maker: decides
+  portfolio: [air_quality, water_quality, waste, gas_processing_plant, compressor_station]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-tceq-executive-director
+  jurisdiction_id: tx-tceq
+  state: TX
+  level: state
+  body: Texas Commission on Environmental Quality (TCEQ)
+  role_type: career_staff
+  title: Executive Director
+  department: TCEQ
+  staff_or_decision_maker: administers
+  portfolio: [air_quality, water_quality, waste, gas_processing_plant, compressor_station]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-midland-county-judge
+  jurisdiction_id: tx-midland-county-landuse
+  state: TX
+  level: county
+  body: Midland County Commissioners Court
+  role_type: elected
+  title: County Judge
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, floodplain, well_pad, tank_battery, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-midland-county-commissioner
+  jurisdiction_id: tx-midland-county-landuse
+  state: TX
+  level: county
+  body: Midland County Commissioners Court
+  role_type: elected
+  title: County Commissioner (precinct to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, floodplain, well_pad, tank_battery, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-midland-county-floodplain-administrator
+  jurisdiction_id: tx-midland-county-landuse
+  state: TX
+  level: county
+  body: Midland County
+  role_type: career_staff
+  title: Floodplain Administrator
+  staff_or_decision_maker: administers
+  portfolio: [floodplain, water_crossing, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-ector-county-judge
+  jurisdiction_id: tx-ector-county-landuse
+  state: TX
+  level: county
+  body: Ector County Commissioners Court
+  role_type: elected
+  title: County Judge
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, floodplain, well_pad, tank_battery, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-ector-county-floodplain-administrator
+  jurisdiction_id: tx-ector-county-landuse
+  state: TX
+  level: county
+  body: Ector County
+  role_type: career_staff
+  title: Floodplain Administrator
+  staff_or_decision_maker: administers
+  portfolio: [floodplain, water_crossing, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-reeves-county-judge
+  jurisdiction_id: tx-reeves-county-landuse
+  state: TX
+  level: county
+  body: Reeves County Commissioners Court
+  role_type: elected
+  title: County Judge
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, floodplain, well_pad, tank_battery, swd_well, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-reeves-county-floodplain-administrator
+  jurisdiction_id: tx-reeves-county-landuse
+  state: TX
+  level: county
+  body: Reeves County
+  role_type: career_staff
+  title: Floodplain Administrator
+  staff_or_decision_maker: administers
+  portfolio: [floodplain, water_crossing, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-karnes-county-judge
+  jurisdiction_id: tx-karnes-county-landuse
+  state: TX
+  level: county
+  body: Karnes County Commissioners Court
+  role_type: elected
+  title: County Judge
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, floodplain, well_pad, tank_battery, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-karnes-county-floodplain-administrator
+  jurisdiction_id: tx-karnes-county-landuse
+  state: TX
+  level: county
+  body: Karnes County
+  role_type: career_staff
+  title: Floodplain Administrator
+  staff_or_decision_maker: administers
+  portfolio: [floodplain, water_crossing, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-tarrant-county-judge
+  jurisdiction_id: tx-tarrant-county-landuse
+  state: TX
+  level: county
+  body: Tarrant County Commissioners Court
+  role_type: elected
+  title: County Judge
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, floodplain, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-tarrant-county-floodplain-administrator
+  jurisdiction_id: tx-tarrant-county-landuse
+  state: TX
+  level: county
+  body: Tarrant County
+  role_type: career_staff
+  title: Floodplain Administrator
+  staff_or_decision_maker: administers
+  portfolio: [floodplain, water_crossing, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-denton-county-judge
+  jurisdiction_id: tx-denton-county-landuse
+  state: TX
+  level: county
+  body: Denton County Commissioners Court
+  role_type: elected
+  title: County Judge
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, floodplain, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-denton-county-floodplain-administrator
+  jurisdiction_id: tx-denton-county-landuse
+  state: TX
+  level: county
+  body: Denton County
+  role_type: career_staff
+  title: Floodplain Administrator
+  staff_or_decision_maker: administers
+  portfolio: [floodplain, water_crossing, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-harris-county-judge
+  jurisdiction_id: tx-harris-county-landuse
+  state: TX
+  level: county
+  body: Harris County Commissioners Court
+  role_type: elected
+  title: County Judge
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, floodplain, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-harris-county-floodplain-administrator
+  jurisdiction_id: tx-harris-county-landuse
+  state: TX
+  level: county
+  body: Harris County (likely Harris County Flood Control District / Engineering — office to verify)
+  role_type: career_staff
+  title: Floodplain Administrator
+  staff_or_decision_maker: administers
+  portfolio: [floodplain, water_crossing, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-fortworth-gas-well-inspector
+  jurisdiction_id: tx-fortworth-gaswell
+  state: TX
+  level: municipal
+  body: City of Fort Worth Gas Well Inspection / Planning & Development
+  role_type: career_staff
+  title: Gas Well Inspector / Planning Director (specific title to verify)
+  department: Fort Worth Planning & Development
+  staff_or_decision_maker: administers
+  portfolio: [land_use_zoning, noise, fire_code, well_pad, compressor_station, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+
+- id: tx-denton-city-gas-well-inspector
+  jurisdiction_id: tx-denton-city-gaswell
+  state: TX
+  level: municipal
+  body: City of Denton Gas Well Inspection / Development Services
+  role_type: career_staff
+  title: Gas Well Inspector / Planning Director (specific title to verify)
+  department: Denton Development Services
+  staff_or_decision_maker: administers
+  portfolio: [land_use_zoning, noise, fire_code, well_pad, compressor_station, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"

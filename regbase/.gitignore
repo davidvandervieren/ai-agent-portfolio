@@ -1,0 +1,6 @@
+corpus/raw/
+corpus/*.sqlite
+corpus/*.db
+*.pyc
+__pycache__/
+.venv/

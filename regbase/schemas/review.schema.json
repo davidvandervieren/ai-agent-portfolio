@@ -1,0 +1,167 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Pre-Project Regulatory Review (Form 1.9)",
+  "description": "Canonical machine representation of WES Form 1.9 Pre-Project Regulatory Review. Field names and section order mirror the Word form exactly so the DOCX/HTML renderers stay faithful.",
+  "type": "object",
+  "required": ["review_date", "reviewer", "clearance", "background", "regulatory"],
+  "properties": {
+    "form_version": {"type": "string", "default": "1.9"},
+    "review_date": {"type": "string", "description": "MM/DD/YY as shown on the form"},
+    "reviewer": {"type": "string"},
+    "clearance": {
+      "type": "string",
+      "enum": ["NOT CLEARED TO CONSTRUCT", "CLEARED TO CONSTRUCT", "CLEARED WITH CONDITIONS", "PENDING REVIEW"],
+      "description": "Banner shown under the title. Defaults to NOT CLEARED TO CONSTRUCT."
+    },
+
+    "background": {
+      "type": "object",
+      "description": "To be Completed by Commercial/PM",
+      "properties": {
+        "project_number": {"type": "string"},
+        "project_name": {"type": "string"},
+        "lat_long": {"type": "string"},
+        "new_line": {"type": "string", "description": "Y/N plus free text"},
+        "linear_ft_of_line": {"type": "string"},
+        "oil_and_or_gas": {"type": "string"},
+        "new_equipment": {
+          "type": "object",
+          "properties": {
+            "compressors": {"type": "string"},
+            "meter_skids": {"type": "string"},
+            "cathodic": {"type": "string"},
+            "other": {"type": "string"}
+          }
+        }
+      }
+    },
+
+    "confidentiality": {
+      "type": "object",
+      "properties": {
+        "inside_wes": {"type": "string", "description": "Can this be discussed with parties inside WES (Y/N)"},
+        "outside_wes": {"type": "string", "description": "Can this be discussed with parties outside WES (Y/N)"},
+        "agreements": {"type": "string", "description": "e.g. CA in place with counterparty"}
+      }
+    },
+
+    "project_map": {
+      "type": "object",
+      "properties": {
+        "image_refs": {"type": "array", "items": {"type": "string"}},
+        "kml_source_file": {"type": "string"},
+        "bbox": {"type": "array", "items": {"type": "number"}, "minItems": 4, "maxItems": 4},
+        "centroid": {"type": "array", "items": {"type": "number"}, "minItems": 2, "maxItems": 2},
+        "total_length_ft": {"type": "number"},
+        "disturbance_acres_est": {"type": "number"}
+      }
+    },
+
+    "regulatory": {
+      "type": "object",
+      "required": ["municipalities_involved", "jurisdictions"],
+      "properties": {
+        "municipalities_involved": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "Rendered verbatim under 'Municipality(s) Involved:'"
+        },
+        "jurisdictions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "permits"],
+            "properties": {
+              "name": {"type": "string", "description": "e.g. 'Arapahoe County', 'City of Aurora'"},
+              "source_id": {"type": "string", "description": "FK into regbase/sources/*.yaml"},
+              "level": {"enum": ["federal", "state", "county", "municipal", "special_district", "tribal"]},
+              "basis": {"type": "string", "description": "Why this jurisdiction applies — e.g. 'route crosses 2.3 mi of unincorporated county', 'station inside city limits'"},
+              "permits": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": ["name"],
+                  "properties": {
+                    "name": {"type": "string", "description": "e.g. 'GESC Permit', 'Special Use Permit', '1041 Permit'"},
+                    "aka": {"type": "string", "description": "plain-English gloss, e.g. '(ie-grading permit)'"},
+                    "trigger": {"type": "string", "description": "e.g. 'required if disturbance is over 1 acre'"},
+                    "cost": {"type": "string"},
+                    "cost_basis": {"type": "string"},
+                    "estimated_time": {"type": "string"},
+                    "required_docs": {"type": "array", "items": {"type": "string"}},
+                    "citation": {"type": "string", "description": "Code/rule cite backing this permit"},
+                    "citation_url": {"type": "string"},
+                    "decision_body": {"type": "string"},
+                    "public_hearing": {"type": "boolean"},
+                    "notes": {"type": "string"},
+                    "confidence": {"enum": ["verified", "probable", "unverified"]}
+                  }
+                }
+              },
+              "timing_narrative": {
+                "type": "array",
+                "description": "Optional phased schedule, as in the Aurora example",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "phase": {"type": "string"},
+                    "duration": {"type": "string"},
+                    "steps": {"type": "array", "items": {"type": "string"}}
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "non_muni_agencies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "agency": {"type": "string", "description": "e.g. 'Fire District', 'USACE Omaha District', 'CDPHE APCD'"},
+          "requirement": {"type": "string"},
+          "cost": {"type": "string"},
+          "estimated_time": {"type": "string"},
+          "required_docs": {"type": "array", "items": {"type": "string"}},
+          "citation": {"type": "string"},
+          "citation_url": {"type": "string"},
+          "confidence": {"enum": ["verified", "probable", "unverified"]}
+        }
+      }
+    },
+
+    "stakeholder": {
+      "type": "object",
+      "properties": {
+        "stakeholders_within_1000ft": {"type": "string", "description": "Y/N"},
+        "stakeholder_count": {"type": "integer"},
+        "mailer_required": {"type": "string", "description": "Y/N"},
+        "notice_radius_ft": {"type": "integer"},
+        "neighborhood_meeting_required": {"type": "string"},
+        "notes": {"type": "string"}
+      }
+    },
+
+    "other": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Free-form closing bullets — unknowns, abandonment/pre-construction/post-construction requirements, annual inspection fees, schedule risk."
+    },
+
+    "provenance": {
+      "type": "object",
+      "description": "Not printed on the form. Audit trail for how the draft was generated.",
+      "properties": {
+        "generated_at": {"type": "string"},
+        "generator": {"type": "string"},
+        "registry_commit": {"type": "string"},
+        "sources_consulted": {"type": "array", "items": {"type": "string"}},
+        "unresolved_questions": {"type": "array", "items": {"type": "string"}},
+        "human_verification_required": {"type": "array", "items": {"type": "string"}}
+      }
+    }
+  }
+}

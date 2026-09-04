@@ -1,0 +1,783 @@
+sources:
+  # =========================================================================
+  # STATE LEVEL — NM Oil Conservation Division (OCD), EMNRD
+  # =========================================================================
+  - id: nm-ocd-rules-19-15-nmac
+    jurisdiction_level: state
+    state: NM
+    name: "NM Oil Conservation Division Rules — 19.15 NMAC (Parts 1-41)"
+    agency: "Energy, Minerals and Natural Resources Department (EMNRD) — Oil Conservation Division"
+    authority_type: [oil_gas_conservation, underground_injection, waste, water_quality, spill_reporting]
+    applies_to: [swd_well, well_pad, tank_battery, midstream_pipeline, produced_water_line, gas_processing_plant, compressor_station]
+    code_platform: state_register
+    landing_url: "https://www.emnrd.nm.gov/ocd/occ-info/og-rules-and-forms/"
+    documents:
+      - title: "19.15.7 NMAC — Application Procedures, Notices and Hearings"
+        url: "https://www.srca.nm.gov/parts/title19/19.015.0007.html"
+        doc_type: regulation
+        format: html
+        citation_root: "19.15.7 NMAC"
+      - title: "19.15.7 NMAC (PDF)"
+        url: "https://www.srca.nm.gov/parts/title19/19.015.0007.pdf"
+        doc_type: regulation
+        format: pdf
+        citation_root: "19.15.7 NMAC"
+      - title: "OCD Rules and Forms landing page"
+        url: "https://www.emnrd.nm.gov/ocd/occ-info/og-rules-and-forms/"
+        doc_type: guidance
+        format: html
+        notes: "Index of 19.15 NMAC parts by subject; use to reach 19.15.5 (pits/CLS/below-grade tanks), 19.15.9 (well ID/site), 19.15.17 (waste disposal), 19.15.25 (production/measurement), 19.15.26 (SWD/injection), 19.15.27 (surface waste mgmt facilities), 19.15.28 (produced water), 19.15.34."
+      - title: "OCD Forms — Oil Conservation"
+        url: "https://www.emnrd.nm.gov/ocd/ocd-forms/"
+        doc_type: form
+        format: html
+      - title: "OCD Notices, Requests, Permits and Reports — All OCD Forms"
+        url: "https://wwwapps.emnrd.nm.gov/OCD/OCDPermitting/OperatorData/AllOCDForms.aspx"
+        doc_type: form
+        format: html
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: nm-ocd-epermitting-portal
+    jurisdiction_level: state
+    state: NM
+    name: "OCD e-Permitting Online System"
+    agency: "EMNRD — Oil Conservation Division"
+    authority_type: [oil_gas_conservation, spill_reporting]
+    applies_to: [well_pad, swd_well, tank_battery, midstream_pipeline]
+    code_platform: self_hosted
+    landing_url: "https://www.emnrd.nm.gov/ocd/ocd-e-permitting/"
+    documents:
+      - title: "OCD Permitting portal (login)"
+        url: "https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/login.aspx"
+        doc_type: application_packet
+        format: html
+        notes: "Electronic submission of C-101 (APD), C-102 (acreage plat/dedication), certain C-103 sundries, C-145 (operator change), C-115 (monthly report). Also register as Operator Administrator / service contractor."
+      - title: "OCD Permitting — public hearing applications"
+        url: "https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/Application/Public/ExternalApplication.aspx?AppType=Hearing"
+        doc_type: application_packet
+        format: html
+      - title: "Applications, Permits, Notifications — OCD"
+        url: "https://www.emnrd.nm.gov/ocd/applications-permits-notifications/"
+        doc_type: guidance
+        format: html
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: nm-ocd-c108-injection-disposal
+    jurisdiction_level: state
+    state: NM
+    name: "OCD Form C-108 — Application for Authorization to Inject (SWD/Class II)"
+    agency: "EMNRD — Oil Conservation Division"
+    authority_type: [underground_injection, oil_gas_conservation, water_quality]
+    applies_to: [swd_well]
+    code_platform: self_hosted
+    landing_url: "https://www.emnrd.nm.gov/ocd/ocd-forms/"
+    documents:
+      - title: "19.15.26 NMAC — Disposal, Storage & UIC referenced via OCD rules index"
+        url: "https://www.emnrd.nm.gov/ocd/occ-info/og-rules-and-forms/"
+        doc_type: regulation
+        format: html
+        citation_root: "19.15.26 NMAC"
+        notes: "C-108 filed under 19.15.26.8(B) NMAC. Class II UIC primacy program manual below."
+      - title: "OCD Underground Injection Control Program Manual"
+        url: "https://www.conservation.ca.gov/calgem/Documents/1.%20New%20Mexico%20-%20UICManual.pdf"
+        doc_type: guidance
+        format: pdf
+        notes: "Mirror copy found via search; verify against emnrd.nm.gov original before citing authoritatively."
+    permits:
+      - name: "Authorization to Inject (SWD / disposal well)"
+        trigger: "New or converted saltwater disposal / injection well"
+        form_id: "C-108"
+        decision_body: "OCD District/Santa Fe office; hearing if protested"
+        public_hearing: true
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: nm-ocd-c137-surface-waste-mgmt-facility
+    jurisdiction_level: state
+    state: NM
+    name: "OCD Form C-137/C-137EZ — Surface Waste Management Facility Application (19.15.27 NMAC)"
+    agency: "EMNRD — Oil Conservation Division"
+    authority_type: [waste, oil_gas_conservation, water_quality]
+    applies_to: [swd_well, tank_battery]
+    code_platform: self_hosted
+    landing_url: "https://www.emnrd.nm.gov/ocd/ocd-forms/"
+    documents:
+      - title: "OCD Rules index (19.15.27 NMAC — Surface Waste Management Facilities)"
+        url: "https://www.emnrd.nm.gov/ocd/occ-info/og-rules-and-forms/"
+        doc_type: regulation
+        format: html
+        citation_root: "19.15.27 NMAC"
+        notes: "Governs landfarms and SWD-adjacent surface waste facilities; C-137 amended form released 2022-11-29 per search result, not independently confirmed."
+    permits:
+      - name: "Surface Waste Management Facility administrative approval"
+        trigger: "Landfarm, centralized waste facility, or SWD-associated surface waste handling"
+        form_id: "C-137 / C-137EZ"
+        decision_body: "OCD"
+        public_hearing: false
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  - id: nm-ocd-c144-pit-permit
+    jurisdiction_level: state
+    state: NM
+    name: "OCD Form C-144 — Pit, Closed-Loop System, Below-Grade Tank Permit/Closure"
+    agency: "EMNRD — Oil Conservation Division"
+    authority_type: [waste, water_quality, oil_gas_conservation]
+    applies_to: [well_pad, tank_battery]
+    code_platform: self_hosted
+    landing_url: "https://www.emnrd.nm.gov/ocd/ocd-forms/"
+    documents:
+      - title: "Form C-144 — Pit, Below-Grade Tank, or Closed-Loop System Permit/Closure Application"
+        url: "https://www.emnrd.nm.gov/ocd/wp-content/uploads/sites/6/C-144-Corrected.pdf"
+        doc_type: form
+        format: pdf
+        citation_root: "19.15.17 NMAC / 19.15.5 NMAC"
+        notes: "References fencing requirements under 19.15.17.11(D) NMAC."
+    permits:
+      - name: "Pit/below-grade tank/closed-loop system permit"
+        trigger: "Construction of permanent pit, temporary pit, closed-loop system, or below-grade tank"
+        form_id: "C-144"
+        decision_body: "OCD"
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  # =========================================================================
+  # STATE LEVEL — NM Environment Department (NMED)
+  # =========================================================================
+  - id: nmed-aqb-gcp-oil-gas
+    jurisdiction_level: state
+    state: NM
+    name: "NMED Air Quality Bureau — General Construction Permit, Oil & Gas (GCP-O&G), 20.2.72 NMAC"
+    agency: "New Mexico Environment Department — Air Quality Bureau"
+    authority_type: [air_quality]
+    applies_to: [compressor_station, gas_processing_plant, tank_battery, well_pad]
+    code_platform: state_register
+    landing_url: "https://www.env.nm.gov/air-quality/air-quality-oil-and-gas-gcp-application-forms/"
+    documents:
+      - title: "GCP-Oil and Gas final permit"
+        url: "https://www.env.nm.gov/wp-content/uploads/sites/2/2018/06/GCP-Oil-Gas-Final-002.pdf"
+        doc_type: permit_record
+        format: pdf
+        citation_root: "20.2.72.220 NMAC"
+      - title: "GCP Application form (7733M2)"
+        url: "https://www.env.nm.gov/opf/wp-content/uploads/sites/2/2020/08/AQBP-Application-7733M2.pdf"
+        doc_type: application_packet
+        format: pdf
+      - title: "GCP-O&G registration application"
+        url: "https://www.env.nm.gov/air-quality/wp-content/uploads/sites/2/2020/08/AQBP-Application-8883.pdf"
+        doc_type: application_packet
+        format: pdf
+      - title: "AQB Permitting section home"
+        url: "https://www.env.nm.gov/air-quality/permitting-section-home-page/"
+        doc_type: guidance
+        format: html
+      - title: "AQB Permit Fees"
+        url: "https://www.env.nm.gov/air-quality/permit-fees-2/"
+        doc_type: fee_schedule
+        format: html
+        notes: "GCP-O&G application/modification fee reported as $17,550 per third-party (ALL4) summary — not independently confirmed on env.nm.gov fee table."
+    permits:
+      - name: "GCP-Oil and Gas registration"
+        trigger: "Minor-source O&G production, transmission, or processing facility (compressors, engines, tanks, dehydrators) below Table 106 emission thresholds"
+        decision_body: "NMED AQB (ePermitting portal, required since Jan 2023)"
+        public_hearing: false
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: nmed-20-2-50-ozone-precursor-rule
+    jurisdiction_level: state
+    state: NM
+    name: "20.2.50 NMAC — Oil and Gas Sector: Ozone Precursor Pollutants"
+    agency: "New Mexico Environment Department — Air Quality Bureau"
+    authority_type: [air_quality]
+    applies_to: [compressor_station, gas_processing_plant, tank_battery, well_pad, midstream_pipeline]
+    code_platform: state_register
+    landing_url: "https://www.env.nm.gov/air-quality/ozone-draft-rule/"
+    documents:
+      - title: "20.2.50 NMAC — State Records Center & Archives"
+        url: "https://www.srca.nm.gov/parts/title20/20.002.0050.html"
+        doc_type: regulation
+        format: html
+        citation_root: "20.2.50 NMAC"
+      - title: "Oil and Gas Sector – Ozone Precursor Pollutants — Final Rule (adopted text, effective 2022-08-05)"
+        url: "https://www.env.nm.gov/air-quality/wp-content/uploads/sites/2/2022/07/Oil-and-Gas-Sector-Ozone-Precursor-Polutants-Final-rule-20.2.50-NMAC-06Jul22.pdf"
+        doc_type: regulation
+        format: pdf
+        citation_root: "20.2.50 NMAC"
+    permits:
+      - name: "Ozone precursor pollutant control requirements (leak detection/repair, pneumatic controllers/pumps, tank/compressor controls)"
+        trigger: "New and existing O&G sources (well sites, tank batteries, compressor stations, gas processing) in covered ozone nonattainment/attainment-risk counties"
+        decision_body: "NMED AQB"
+        public_hearing: false
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: nmed-gwqb-discharge-permit-20-6-2
+    jurisdiction_level: state
+    state: NM
+    name: "NMED Ground Water Quality Bureau — Discharge Permits (20.6.2 NMAC)"
+    agency: "New Mexico Environment Department — Ground Water Quality Bureau"
+    authority_type: [water_quality, waste]
+    applies_to: [compressor_station, gas_processing_plant, tank_battery, swd_well]
+    code_platform: state_register
+    landing_url: "https://www.env.nm.gov/gwqb/permits/"
+    documents:
+      - title: "Guidance Document for Ground Water Discharge Permit Applications"
+        url: "https://www.emnrd.nm.gov/ocd/wp-content/uploads/sites/6/GW-Discharge-Permit-Application-Guidance-Document-September-2022-1.pdf"
+        doc_type: guidance
+        format: pdf
+        citation_root: "20.6.2.3104-3114 NMAC"
+      - title: "GWQB DP public notice requirements (archive)"
+        url: "https://www-archive.env.nm.gov/gwqb/dp-pn-requirements/"
+        doc_type: guidance
+        format: html
+      - title: "Example discharge permit — Thoreau Compressor Station (Transwestern), DP-1688 draft"
+        url: "https://www.env.nm.gov/gwqb/wp-content/uploads/sites/11/2020/12/14-DP-1688-DraftDP-20201112.pdf"
+        doc_type: permit_record
+        format: pdf
+        notes: "Example only, illustrates that compressor stations are permitted under 20.6.2.3104-3114 NMAC (WQCC regs); DP renewal cycle is 5 years."
+    permits:
+      - name: "Ground Water Discharge Permit (DP-xxx)"
+        trigger: "Discharge that may move into ground water — compressor station wastewater, gas plant process water, produced water handling"
+        decision_body: "NMED GWQB"
+        typical_timeline_days: "Renewal every 5 years"
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: nmed-produced-water-act-20-6-8
+    jurisdiction_level: state
+    state: NM
+    name: "Produced Water Act (2019, HB 546) and proposed 20.6.8 NMAC (Water Reuse outside O&G)"
+    agency: "New Mexico Environment Department"
+    authority_type: [water_quality, waste]
+    applies_to: [produced_water_line, swd_well]
+    code_platform: state_register
+    landing_url: "https://www.env.nm.gov/new-mexico-produced-water/"
+    documents:
+      - title: "NMED Produced Water Factsheet"
+        url: "https://www.env.nm.gov/wp-content/uploads/sites/16/2019/10/Produced-Water-Factsheet_ENGLISH_-FINAL-191010.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "Public Participation — 20.6.8 NMAC rulemaking"
+        url: "https://www.env.nm.gov/new-mexico-produced-water/public-participation-2/"
+        doc_type: guidance
+        format: html
+      - title: "FAQ: Proposed Produced Water Rule 20.6.8 NMAC (Western Environmental Law Center summary — third-party, not NMED)"
+        url: "https://westernlaw.org/nmproducedwaterrulefaqs/"
+        doc_type: guidance
+        format: html
+        notes: "Third-party summary of a still-developing rulemaking; treat rule text/status as unverified until confirmed on env.nm.gov or srca.nm.gov."
+    notes: "Produced Water Act splits jurisdiction: OCD/19.15.28 NMAC governs produced water reuse/disposal within oil & gas operations; WQCC/NMED 20.6.8 NMAC (still in rulemaking as of last search) governs reuse/discharge outside the industry."
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # =========================================================================
+  # STATE LEVEL — Other state agencies
+  # =========================================================================
+  - id: nm-state-land-office-row
+    jurisdiction_level: state
+    state: NM
+    name: "NM State Land Office — Rights-of-Way / Easements on State Trust Land"
+    agency: "New Mexico State Land Office — Rights of Way Division / Commercial Resources"
+    authority_type: [roads_row, surface_owner, tax_fee]
+    applies_to: [midstream_pipeline, produced_water_line, access_road, electrical_line]
+    code_platform: state_register
+    landing_url: "https://www.nmstatelands.org/divisions/commercial-resources/rights-of-way/"
+    documents:
+      - title: "Rights-of-Way Easement Application Packet"
+        url: "https://www.nmstatelands.org/wp-content/uploads/2022/11/Right-of-Way-Application-Packet-12-22.pdf"
+        doc_type: application_packet
+        format: pdf
+      - title: "Road Right-of-Way Price Schedule"
+        url: "https://www.nmstatelands.org/wp-content/uploads/2019/06/New-ROW-Price-Schedule-5_2_2017.pdf"
+        doc_type: fee_schedule
+        format: pdf
+      - title: "About Right-of-Way"
+        url: "https://www.nmstatelands.org/divisions/commercial-resources/rights-of-way/about-right-of-way/"
+        doc_type: guidance
+        format: html
+      - title: "FAQs Right of Way"
+        url: "https://www.nmstatelands.org/divisions/commercial-resources/faqs-right-of-way/"
+        doc_type: guidance
+        format: html
+      - title: "19.2.11 NMAC (SLO rule referenced in ROW context)"
+        url: "https://www.srca.nm.gov/parts/title19/19.002.0011.html"
+        doc_type: regulation
+        format: html
+        citation_root: "19.2.11 NMAC"
+    permits:
+      - name: "Business Lease / Right-of-Way Easement (pipeline, road, telecom, electrical)"
+        trigger: "Crossing or occupying NM State Trust Land"
+        fee: "Application fee reported ~$100-$175 plus per-rod schedule by ROW type (pipeline/road, telecom, electrical) — see fee schedule doc"
+        decision_body: "State Land Office Commissioner"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: nm-prc-pipeline-safety-18-60-nmac
+    jurisdiction_level: state
+    state: NM
+    name: "NM Public Regulation Commission — Pipeline Safety Bureau (18.60 NMAC, PHMSA intrastate agent)"
+    agency: "New Mexico Public Regulation Commission"
+    authority_type: [pipeline_safety, spill_reporting]
+    applies_to: [midstream_pipeline, produced_water_line, gas_processing_plant, compressor_station]
+    code_platform: state_register
+    landing_url: "https://www.prc.nm.gov/pipeline-safety-bureau/pipeline-safety/"
+    documents:
+      - title: "18.60.2 NMAC — Pipeline Safety General Provisions"
+        url: "https://www.srca.nm.gov/parts/title18/18.060.0002.html"
+        doc_type: regulation
+        format: html
+        citation_root: "18.60.2 NMAC"
+      - title: "18.60.3 NMAC"
+        url: "https://www.srca.nm.gov/parts/title18/18.060.0003.html"
+        doc_type: regulation
+        format: html
+        citation_root: "18.60.3 NMAC"
+      - title: "18.60.5 NMAC"
+        url: "https://www.srca.nm.gov/parts/title18/18.060.0005.html"
+        doc_type: regulation
+        format: html
+        citation_root: "18.60.5 NMAC"
+      - title: "PHMSA NM State Pipeline Safety Regulatory Fact Sheet"
+        url: "https://primis.phmsa.dot.gov/comm/FactSheets/States/NM_State_PL_Safety_Regulatory_Fact_Sheet.htm?nocache=3597"
+        doc_type: guidance
+        format: html
+    notes: "PRC Pipeline Safety Bureau conducts safety compliance inspections/enforcement for intrastate gas, hazardous liquid, and CO2 pipelines under state-adopted 49 CFR 191/192/195 via 18.60 NMAC. Hazardous liquid/CO2 operators file annual report by March 15."
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: nm-ose-water-rights
+    jurisdiction_level: state
+    state: NM
+    name: "NM Office of the State Engineer — Water Rights Permits"
+    agency: "Office of the State Engineer / Interstate Stream Commission"
+    authority_type: [water_quality, surface_owner]
+    applies_to: [water_crossing, produced_water_line]
+    code_platform: state_register
+    landing_url: "https://www.ose.nm.gov/"
+    documents:
+      - title: "Water Rights Allocation Program"
+        url: "https://www.ose.nm.gov/WR/"
+        doc_type: guidance
+        format: html
+      - title: "Water Rights Forms"
+        url: "https://www.ose.nm.gov/WR/forms.php"
+        doc_type: form
+        format: html
+      - title: "Water Rights Lookup (WATERS database)"
+        url: "https://www.ose.nm.gov/WRAB/index.php"
+        doc_type: gis
+        format: html
+    notes: "Permit required for any new appropriation/use of surface or ground water; pipeline diversion works/crossings require completion of Attachment 2 on the application."
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: nm-dot-utility-permit
+    jurisdiction_level: state
+    state: NM
+    name: "NMDOT Utility Accommodation / Use & Occupancy Permit (highway ROW crossings)"
+    agency: "New Mexico Department of Transportation"
+    authority_type: [roads_row]
+    applies_to: [midstream_pipeline, produced_water_line, electrical_line, access_road]
+    code_platform: state_register
+    landing_url: "https://www.dot.nm.gov/business-support/permits/"
+    documents:
+      - title: "17.4.2 NMAC — Utility Accommodation Policy"
+        url: "https://www.srca.nm.gov/parts/title17/17.004.0002.html"
+        doc_type: regulation
+        format: html
+        citation_root: "17.4.2 NMAC"
+      - title: "Application for Use and Occupancy Permit Within Public Right of Way (A-063b)"
+        url: "https://api.realfile.rtsclients.com/PublicFiles/f260a66b364d453e91ff9b3fedd494dc/87193cee-e7db-4472-beee-53f27098ce92/A-063b_Application_for_Use_and_Occupancy_Permit_Within_Public_Right_of_Way.pdf"
+        doc_type: application_packet
+        format: pdf
+        notes: "URL hosted on third-party realfile.rtsclients.com bid-document mirror, not dot.nm.gov directly — verify current NMDOT ePermitting link before relying on this."
+    permits:
+      - name: "Utility Use & Occupancy / crossing permit"
+        trigger: "Pipeline or utility line crossing or occupying NMDOT highway right-of-way"
+        decision_body: "NMDOT District Engineer"
+        form_id: "A-063b"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: nm-hpd-shpo-section106
+    jurisdiction_level: state
+    state: NM
+    name: "NM Historic Preservation Division (SHPO) — Section 106 / Cultural Resources Review"
+    agency: "Department of Cultural Affairs — Historic Preservation Division"
+    authority_type: [cultural_historic]
+    applies_to: [midstream_pipeline, well_pad, access_road, compressor_station]
+    code_platform: state_register
+    landing_url: "https://www.nmhistoricpreservation.org/programs/review-compliance/section-106.html"
+    documents:
+      - title: "Section 106 project review"
+        url: "https://www.nmhistoricpreservation.org/documents/section-106.html"
+        doc_type: guidance
+        format: html
+      - title: "HPD Rules and Regulations"
+        url: "https://nmhistoricpreservation.org/documents/rules-and-regulations.html"
+        doc_type: regulation
+        format: html
+        citation_root: "4.10 NMAC"
+      - title: "4.10.8 NMAC"
+        url: "https://www.srca.nm.gov/parts/title04/04.010.0008.html"
+        doc_type: regulation
+        format: html
+        citation_root: "4.10.8 NMAC"
+    contacts:
+      - role: "SHPO office"
+        office: "Historic Preservation Division"
+        phone: "(505) 827-6320"
+        email: "nm.shpo@dca.nm.gov"
+        url: "https://www.nmhistoricpreservation.org/"
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: nm-game-fish-habitat
+    jurisdiction_level: state
+    state: NM
+    name: "NM Department of Game and Fish — Habitat/Species Coordination"
+    agency: "New Mexico Department of Game and Fish"
+    authority_type: [wildlife, endangered_species]
+    applies_to: [midstream_pipeline, water_crossing, access_road]
+    code_platform: state_register
+    landing_url: "https://wildlife.dgf.nm.gov/"
+    documents:
+      - title: "19.31.10 NMAC"
+        url: "https://www.srca.nm.gov/parts/title19/19.031.0010.html"
+        doc_type: regulation
+        format: html
+        citation_root: "19.31.10 NMAC"
+    notes: "Could not confirm a specific pipeline/stream-crossing habitat permit form for NMDGF in this pass; coordination is typically informal/consultative alongside OSE and USFWS/ESA review. Flag for follow-up research."
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  # =========================================================================
+  # TRIBAL
+  # =========================================================================
+  - id: nm-navajo-nation-dnr-epa
+    jurisdiction_level: tribal
+    state: NM
+    name: "Navajo Nation — Division of Natural Resources / Navajo EPA (ROW, environmental review)"
+    agency: "Navajo Nation Division of Natural Resources; Navajo Nation EPA"
+    authority_type: [oil_gas_conservation, roads_row, water_quality, cultural_historic, wildlife]
+    applies_to: [midstream_pipeline, gas_processing_plant, compressor_station, access_road]
+    code_platform: self_hosted
+    landing_url: "https://dnr.navajo-nsn.gov/"
+    documents:
+      - title: "Navajo Nation EPA Permits Required"
+        url: "https://frf.navajo-nsn.gov/Portals/0/Info%20Webpage/NN%20Construction%20Permit%20Requirements/NAVAJO%20EPA%20REGULATIONS.pdf?ver=tc-3foeMfs_bPAS4MinrJg%3D%3D"
+        doc_type: guidance
+        format: pdf
+      - title: "EPA — Navajo Nation NPDES permits (EPA Region 9 issues, not tribe)"
+        url: "https://www.epa.gov/npdes-permits/navajo-nation"
+        doc_type: guidance
+        format: html
+    notes: "ROW on Navajo trust land ultimately requires BIA/Dept. of Interior approval in addition to Nation-level review (Resources & Development Committee of Navajo Nation Council, per 2026 Tallgrass/GreenView pipeline precedent). NNDFW biological clearance referenced in scope but not independently located this pass."
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: nm-jicarilla-apache-oga
+    jurisdiction_level: tribal
+    state: NM
+    name: "Jicarilla Apache Nation — Oil & Gas Administration (Tribal Code Title 18)"
+    agency: "Jicarilla Oil & Gas Administration (Jicarilla OGA)"
+    authority_type: [oil_gas_conservation, roads_row]
+    applies_to: [midstream_pipeline, gas_processing_plant, compressor_station, well_pad]
+    code_platform: self_hosted
+    landing_url: "https://www.jicarillaoga.com/"
+    documents:
+      - title: "Jicarilla OGA Permits"
+        url: "http://www.jicarillaoga.com/permits"
+        doc_type: guidance
+        format: html
+      - title: "Jicarilla Apache Nation OSGM Permit Application"
+        url: "https://jicarillaoga.com/uploads/1654871383-OSGM%20Permit%20Application.pdf"
+        doc_type: application_packet
+        format: pdf
+      - title: "Jicarilla Apache Nation Tribal Code (National Indian Law Library mirror)"
+        url: "https://www.narf.org/nill/codes/jicarilla_apache/index.html"
+        doc_type: code
+        format: html
+        citation_root: "Jicarilla Apache Nation Code Title 18 (Oil and Gas)"
+    contacts:
+      - role: "Jicarilla OGA office"
+        phone: "(575) 759-3485"
+        url: "https://www.jicarillaoga.com/"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  # =========================================================================
+  # COUNTIES — focus-depth (Lea, Eddy, Chaves, Roosevelt, San Juan, Rio Arriba, Sandoval, Santa Fe, Mora)
+  # =========================================================================
+  - id: nm-lea-county-planning
+    jurisdiction_level: county
+    state: NM
+    county: "Lea"
+    name: "Lea County Planning, Zoning & GIS"
+    agency: "Lea County Planning Department"
+    authority_type: [land_use_zoning, roads_row]
+    applies_to: [midstream_pipeline, well_pad, access_road, tank_battery]
+    code_platform: self_hosted
+    landing_url: "https://www.leacounty.gov/178/Lea-County-Planning"
+    documents:
+      - title: "Lea County Ordinances"
+        url: "https://www.leacounty.gov/253/Lea-County-Ordinances"
+        doc_type: ordinance
+        format: html
+      - title: "Lea County Permit Application Guide 2025"
+        url: "https://leacounty.gov/DocumentCenter/View/4789/2025-LEA-COUNTY-PERMIT-APPLICATION?bidId="
+        doc_type: application_packet
+        format: pdf
+      - title: "Lea County GIS"
+        url: "https://www.leacounty.gov/179/Geographic-Information-System---GIS"
+        doc_type: gis
+        format: html
+    gis:
+      - name: "Lea County Portico 2.0 Parcel Viewer"
+        url: "https://lea-county-portico-lea-county.hub.arcgis.com/datasets/portico-2-0-parcel-viewer"
+        service_type: unknown
+        layer_use: "Parcels; ArcGIS Hub dataset page — confirm underlying REST endpoint before machine use"
+    permits:
+      - name: "Subdivision / special use permit"
+        decision_body: "Lea County Planning & Zoning Board (meets 2nd Tuesday monthly)"
+    notes: "Lea County has zoning-adjacent planning/subdivision authority via its Planning Dept, but no dedicated oil & gas chapter was located this pass; county relies heavily on state OCD/NMED for O&G-specific rules. Note two active domains seen: leacounty.gov and leacounty.net — verify which is canonical."
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: nm-eddy-county-oil-gas-ordinance
+    jurisdiction_level: county
+    state: NM
+    county: "Eddy"
+    name: "Eddy County Oil & Gas Well Drilling Ordinance"
+    agency: "Eddy County"
+    authority_type: [land_use_zoning, oil_gas_conservation, roads_row]
+    applies_to: [well_pad, midstream_pipeline, access_road]
+    code_platform: self_hosted
+    landing_url: "https://www.co.eddy.nm.us/336/Ordinances"
+    documents:
+      - title: "An Ordinance Relating to Oil & Gas Well Drilling (O-75-05)"
+        url: "https://www.co.eddy.nm.us/DocumentCenter/View/95/Oil-and-Gas-Drilling-O-75-05-PDF"
+        doc_type: ordinance
+        format: pdf
+        citation_root: "Eddy County Ordinance O-75-05"
+      - title: "Same document, eddycountynm.gov mirror"
+        url: "https://www.eddycountynm.gov/DocumentCenter/View/95/Oil-and-Gas-Drilling-O-75-05-PDF"
+        doc_type: ordinance
+        format: pdf
+        notes: "Two domains (co.eddy.nm.us and eddycountynm.gov) both resolve to same DocumentCenter path; confirm which is the current canonical county domain."
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: nm-chaves-county-planning-zoning
+    jurisdiction_level: county
+    state: NM
+    county: "Chaves"
+    name: "Chaves County Planning & Zoning Commission"
+    agency: "Chaves County"
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, compressor_station, access_road]
+    code_platform: unknown
+    landing_url: "https://www.chavescounty.gov/your-county/departments/planning-zoning-commission"
+    documents:
+      - title: "Chaves County Planning & Zoning — Maps"
+        url: "https://www.chavescounty.gov/your-county/departments/planning-zoning-commission/maps"
+        doc_type: map
+        format: html
+    notes: "Specific Chaves County oil & gas ordinance text not located this pass (only the department landing/maps pages); the City of Roswell (county seat) has its own zoning ordinance — see nm-roswell-zoning-ordinance."
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  - id: nm-roosevelt-county-ordinances
+    jurisdiction_level: county
+    state: NM
+    county: "Roosevelt"
+    name: "Roosevelt County Ordinances and Resolutions"
+    agency: "Roosevelt County"
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, access_road]
+    code_platform: self_hosted
+    landing_url: "https://www.rooseveltcounty.com/administration/ordinances-and-resolutions/"
+    documents: []
+    notes: "Landing page located; specific oil & gas or zoning ordinance text not confirmed this pass."
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  - id: nm-san-juan-county-land-use-ordinance
+    jurisdiction_level: county
+    state: NM
+    county: "San Juan"
+    name: "San Juan County Land Use, Development and Management Ordinance"
+    agency: "San Juan County"
+    authority_type: [land_use_zoning, oil_gas_conservation, roads_row]
+    applies_to: [midstream_pipeline, well_pad, compressor_station, gas_processing_plant, access_road]
+    code_platform: self_hosted
+    landing_url: "https://www.sjcounty.net/government/ordinances"
+    documents:
+      - title: "San Juan County Land Use, Development and Management Ordinance (as presented, meeting attachment)"
+        url: "https://mccmeetingspublic.blob.core.usgovcloudapi.net/sanjuancut-meet-44e95c759aa742f4a50beddd517be0fc/ITEM-Attachment-001-baccc8d86de24fedafb6ca0fe11aba9b.pdf"
+        doc_type: ordinance
+        format: pdf
+        notes: "Hosted on county's meeting-management platform (mccmeetingspublic), not the primary county domain — treat as a meeting-packet copy, confirm against sjcounty.net codified version."
+    notes: "Ordinance defines oil and gas exploration; specific chapter/section numbers for O&G siting not confirmed this pass. San Juan is a focus-depth county (San Juan Basin gas activity) — recommend deeper follow-up."
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  - id: nm-rio-arriba-county-oil-gas-ordinance
+    jurisdiction_level: county
+    state: NM
+    county: "Rio Arriba"
+    name: "Rio Arriba County Oil and Gas Ordinance (2009-01)"
+    agency: "Rio Arriba County — Planning and Zoning"
+    authority_type: [land_use_zoning, oil_gas_conservation]
+    applies_to: [well_pad, midstream_pipeline, access_road]
+    code_platform: self_hosted
+    landing_url: "https://www.rio-arriba.org/"
+    documents:
+      - title: "Rio Arriba County Oil and Gas Ordinance (2009-01)"
+        url: "https://www.rio-arriba.org/files/assets/county/v/1/planning-and-zoning/documents/plans-and-ordinances/2009-01_rio_arriba_county_oil_and_gas_ordinance.pdf"
+        doc_type: ordinance
+        format: pdf
+        citation_root: "Rio Arriba County Ordinance 2009-01"
+      - title: "Permit Requirements List"
+        url: "https://www.rio-arriba.org/pdf/departments_and_divisions/planning_and_zoning/permit_requirements_list.pdf"
+        doc_type: checklist
+        format: pdf
+      - title: "East Rio Arriba SWCD Land & Resource Use Plan 2017-2022"
+        url: "https://www.rio-arriba.org/files/assets/county/v/1/planning-and-zoning/documents/plans-and-ordinances/east_rio_swcd_land_use_plan.pdf"
+        doc_type: policy
+        format: pdf
+        notes: "Land use plan explicitly excludes oil/gas/mineral rights from its 'natural resources' scope — supplementary context only, not a permitting document."
+    notes: "Ordinance recognizes San Juan Basin as a major energy-producing region; defines irrigated agricultural lands and lessee terms relevant to surface use agreements."
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: nm-sandoval-county-oil-gas-water-ordinance
+    jurisdiction_level: county
+    state: NM
+    county: "Sandoval"
+    name: "Sandoval County Oil, Gas & Water Ordinance (proposed/draft — adoption status unresolved)"
+    agency: "Sandoval County — Planning & Zoning"
+    authority_type: [land_use_zoning, oil_gas_conservation, water_quality]
+    applies_to: [well_pad, midstream_pipeline, swd_well, access_road]
+    code_platform: municode
+    landing_url: "https://www.sandovalcountynm.gov/ogordinance/"
+    documents:
+      - title: "Board of County Commissioners of Sandoval County — Oil and Gas Draft Ordinance (2017-09-12 P&Z draft)"
+        url: "https://www.sandovalcountynm.gov/wp-content/uploads/2017/11/PZ20170912_OGDraft.pdf"
+        doc_type: ordinance
+        format: pdf
+        citation_root: "Sandoval County draft O&G ordinance (2017 P&Z draft)"
+        notes: "Draft, not confirmed final/adopted text. Earlier public reporting describes a 750-ft setback proposal from homes/schools/hospitals/churches/cemeteries/fresh water supplies that drew NMOGA litigation threat; a later amendment reportedly failed at a subsequent commission meeting. Adoption status as of 2026 NOT independently confirmed — flagged unverified."
+      - title: "Sandoval County Planning & Zoning Dept"
+        url: "https://www.sandovalcountynm.gov/departments/planning-zoning/"
+        doc_type: guidance
+        format: html
+      - title: "Sandoval County Code of Ordinances (Municode)"
+        url: "https://library.municode.com/nm/sandoval_county"
+        doc_type: code
+        format: html
+    notes: "One of the two counties flagged by the user as carrying a notably strict O&G ordinance posture; historically contentious (2017-2021 draft cycles), industry pushback documented. Current in-force status of a dedicated O&G chapter is UNVERIFIED — must be confirmed directly against the Municode code_of_ordinances tree before relying on setback figures."
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  - id: nm-santa-fe-county-oil-gas-ordinance
+    jurisdiction_level: county
+    state: NM
+    county: "Santa Fe"
+    name: "Santa Fe County Oil and Gas Ordinance (Ordinance No. 2009-11)"
+    agency: "Santa Fe County — County Attorney / Growth Management"
+    authority_type: [land_use_zoning, oil_gas_conservation, water_quality]
+    applies_to: [well_pad, midstream_pipeline, access_road, water_crossing]
+    code_platform: municode
+    landing_url: "https://www.santafecountynm.gov/county-attorney/oilandgas"
+    documents:
+      - title: "Santa Fe County Ordinance No. 2009-11 (Oil & Gas)"
+        url: "https://www.santafecountynm.gov/documents/ordinances/Ordinance200911K.pdf"
+        doc_type: ordinance
+        format: pdf
+        citation_root: "Santa Fe County Ordinance 2009-11"
+      - title: "County Places Moratorium on Drilling (Jan-Feb 2008, ~90-day emergency moratorium pending ordinance drafting)"
+        url: "https://www.santafecountynm.gov/news/detail/county-places-moratorium-on-drilling"
+        doc_type: meeting_minutes
+        format: html
+      - title: "New Date for Oil & Gas Drilling Ordinance Hearing Set"
+        url: "https://www.santafecountynm.gov/news/detail/new-date-for-oil-amp-gas-drilling-ordinance-hearing-set"
+        doc_type: agenda
+        format: html
+      - title: "Santa Fe County Code of Ordinances (Municode)"
+        url: "https://library.municode.com/nm/santa_fe/codes/code_of_ordinances"
+        doc_type: code
+        format: html
+    notes: "Prompted by proposed drilling in the Galisteo Basin. County declared an emergency ~3-month drilling-application moratorium (expired 2008-02-27) to allow drafting, then formally adopted Ordinance 2009-11 in Dec 2008/2009 governing O&G exploration — described by Earthworks as part of 'a new generation of regulation' focused on chemical disclosure/toxicity and watershed protection. One of the two counties flagged by the user as carrying a notably strict O&G posture."
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: nm-mora-county-oil-gas-ban-history
+    jurisdiction_level: county
+    state: NM
+    county: "Mora"
+    name: "Mora County Community Water Rights and Local Self-Governance Ordinance (2013) — drilling ban, struck down and repealed"
+    agency: "Mora County Commission"
+    authority_type: [land_use_zoning, oil_gas_conservation, water_quality]
+    applies_to: [well_pad, midstream_pipeline]
+    code_platform: unknown
+    landing_url: "https://www.hcn.org/issues/47-3/the-latest-new-mexico-fracking-ban-overturned/"
+    documents:
+      - title: "Federal judge overturns Mora County's drilling ordinance"
+        url: "https://www.santafenewmexican.com/news/local_news/federal-judge-overturns-mora-county-s-drilling-ordinance/article_dddd444a-6ae8-56ea-b8a7-999c562a77b8.html"
+        doc_type: guidance
+        format: html
+      - title: "NM federal judge strikes down Mora County oil and gas ban"
+        url: "https://agrilife.org/texasaglaw/2015/02/11/nm-federal-judge-strikes-down-mora-county-oil-and-gas-ban/"
+        doc_type: guidance
+        format: html
+    notes: "2013: Mora County Commission adopted an outright ban on oil & gas extraction (part of a 'community rights' self-governance ordinance) — the first county-wide ban of its kind in the US. SWEPI LP (Shell subsidiary) and landowners sued. 2015-01-19: US District Court (Judge Browning, 199-page opinion) struck it down on First Amendment (corporate speech) and state-law preemption grounds, holding the county lacked authority to enforce it on state land. 2015-03-29: Mora County Commission unanimously repealed the ordinance. NO current operative Mora County O&G ban exists; this entry is historical/precedential context only, not an active source of regulatory requirements."
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  # =========================================================================
+  # MUNICIPALITIES
+  # =========================================================================
+  - id: nm-carlsbad-oil-gas-pipelines-code
+    jurisdiction_level: municipal
+    state: NM
+    county: "Eddy"
+    municipality: "Carlsbad"
+    name: "City of Carlsbad Code of Ordinances — Ch. 34 Oil and Gas Wells and Pipelines"
+    agency: "City of Carlsbad"
+    authority_type: [oil_gas_conservation, land_use_zoning, roads_row, fire_code]
+    applies_to: [well_pad, midstream_pipeline, access_road]
+    code_platform: municode
+    landing_url: "https://library.municode.com/nm/carlsbad/codes/code_of_ordinances"
+    documents:
+      - title: "Chapter 34 — Oil and Gas Wells and Pipelines, Art. III Requirements, Sec. 34-65 Testing/Inspection Fee"
+        url: "https://library.municode.com/nm/carlsbad/codes/code_of_ordinances?nodeId=COOR_CH34OIGAWEPI_ARTIIIREST_S34-65TEINFE"
+        doc_type: code
+        format: html
+        citation_root: "Carlsbad Code of Ordinances Ch. 34"
+    confidence: verified
+    last_reviewed: "2026-09-04"
+
+  - id: nm-roswell-zoning-ordinance
+    jurisdiction_level: municipal
+    state: NM
+    county: "Chaves"
+    municipality: "Roswell"
+    name: "City of Roswell Zoning Ordinance (Ordinance 20-08, amended 2020-08-13)"
+    agency: "City of Roswell"
+    authority_type: [land_use_zoning]
+    applies_to: [well_pad, midstream_pipeline, compressor_station, access_road]
+    code_platform: self_hosted
+    landing_url: "https://www.roswell-nm.gov/DocumentCenter/View/768/Zoning-Ordinance-PDF"
+    documents:
+      - title: "Roswell Zoning Ordinance (Ord. 20-08, amended 2020-08-13)"
+        url: "https://www.roswell-nm.gov/DocumentCenter/View/768/Zoning-Ordinance-PDF"
+        doc_type: ordinance
+        format: pdf
+        citation_root: "Roswell Ordinance 20-08"
+    notes: "No dedicated oil & gas/pipeline chapter confirmed within this zoning ordinance text this pass — general zoning districts/uses only, needs closer read for O&G/industrial-use classification."
+    confidence: probable
+    last_reviewed: "2026-09-04"
