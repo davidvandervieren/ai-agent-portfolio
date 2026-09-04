@@ -19,8 +19,13 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]          # .../regbase
 SOURCES_DIR = ROOT / "sources"
 CORPUS_DIR = Path(os.environ.get("REGBASE_CORPUS", ROOT / "corpus"))
-RAW_DIR = CORPUS_DIR / "raw"                         # gitignored binaries
 TEXT_DIR = CORPUS_DIR / "text"                       # committed extracted text
+
+# Raw bytes can live outside the project tree. That matters when the project
+# sits in a synced folder (OneDrive, Dropbox): the extracted text is small and
+# worth syncing, but tens of GB of source PDFs are not. Set REGBASE_RAW to a
+# local, unsynced directory to split them.
+RAW_DIR = Path(os.environ.get("REGBASE_RAW", CORPUS_DIR / "raw"))
 MANIFEST = CORPUS_DIR / "manifest.jsonl"
 INDEX_DB = CORPUS_DIR / "regbase.sqlite"
 PEOPLE_DIR = ROOT / "people"

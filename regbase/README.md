@@ -58,6 +58,11 @@ python3 -c "import sys; sys.path.insert(0,'regbase/tools'); import common; \
 
 ## Getting started
 
+**On Windows**, run `regbase/tools/setup-windows.ps1` and see
+[docs/windows-setup.md](docs/windows-setup.md) — it handles the OneDrive sync
+problem (raw PDFs go outside the synced folder) and the `py` vs `python3`
+difference.
+
 ```bash
 pip install -r regbase/tools/requirements.txt
 
