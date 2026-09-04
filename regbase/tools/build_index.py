@@ -290,9 +290,15 @@ def segment_by_headings(text: str) -> list[tuple[str, int, int]]:
             while stack and stack[-1][0] >= level:
                 stack.pop()
             stack.append((level, title))
-            base = explicit if explicit and not stack[:-1] else ""
-            path = _join_path([base] + [t for _, t in stack]) if base else _join_path(t for _, t in stack)
-            cur_path = path
+            # an explicit heading-path marker stays a prefix for everything under it
+            parts = ([explicit] if explicit else []) + [t for _, t in stack]
+            deduped: list[str] = []
+            for part in parts:
+                for seg in part.split(" > "):
+                    seg = seg.strip()
+                    if seg and (not deduped or deduped[-1] != seg):
+                        deduped.append(seg)
+            cur_path = _join_path(deduped)
             cur_start = line_start               # keep heading line inside section
             continue
 

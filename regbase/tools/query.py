@@ -280,13 +280,23 @@ def permit_dict(r: sqlite3.Row) -> dict:
     }
 
 
+NUMERIC_TIMELINE_RE = re.compile(r"^\s*\d+(\s*[-–]\s*\d+)?\s*$")
+
+
+def fmt_timeline(value: str) -> str:
+    """Registry timelines are free text ('30-60', 'CX: weeks; EIS: 1-3 years')."""
+    v = (value or "").strip()
+    return f"~{v} days" if NUMERIC_TIMELINE_RE.match(v) else v
+
+
 def print_permits(items: list[dict], indent: str = "") -> None:
     by_j = OrderedDict()
     for it in items:
         by_j.setdefault((it["level"], it["jurisdiction"], it["agency"]), []).append(it)
     for (level, juris, agency), group in by_j.items():
         conf = group[0]["confidence"]
-        print(f"{indent}{juris}  [{level}] — {agency}  (confidence: {conf})")
+        head = juris if (not agency or agency in juris) else f"{juris} — {agency}"
+        print(f"{indent}{head}  [{level}]  (confidence: {conf})")
         for it in group:
             bits = []
             if it["form_id"]:
@@ -295,11 +305,11 @@ def print_permits(items: list[dict], indent: str = "") -> None:
                 bits.append(f"decided by {it['decision_body']}")
             if it["public_hearing"]:
                 bits.append("public hearing")
-            if it["typical_timeline_days"]:
-                bits.append(f"~{it['typical_timeline_days']} days")
             if it["fee"]:
-                bits.append(f"fee {it['fee']}")
+                bits.append(f"fee: {it['fee']}")
             print(f"{indent}  • {it['permit']}" + (f"   [{'; '.join(bits)}]" if bits else ""))
+            if it["typical_timeline_days"]:
+                print(f"{indent}      timeline: {fmt_timeline(it['typical_timeline_days'])}")
             if it["trigger"]:
                 print(f"{indent}      trigger: {it['trigger']}")
             if it["form_url"]:
@@ -619,6 +629,10 @@ def cmd_stack(args, con) -> None:
 # ------------------------------------------------------------------ gaps
 
 COUNTY_MENTION_RE = re.compile(r"\b([A-Z][a-z]+(?:[ -][A-Z][a-z]+)?)\s+County\b")
+# "Midland, Ector, Reeves, Loving, Ward and Winkler counties" style enumerations
+COUNTY_LIST_RE = re.compile(
+    r"((?:[A-Z][a-zA-Z]+(?:\s[A-Z][a-zA-Z]+)?(?:,\s*|,?\s+and\s+)){2,}"
+    r"[A-Z][a-zA-Z]+(?:\s[A-Z][a-zA-Z]+)?)\s+counties\b")
 COUNTY_STOPWORDS = {"The", "This", "That", "Each", "Every", "Some", "Most", "Other", "Same",
                     "Texas", "Colorado", "Wyoming", "Utah", "New", "In", "For", "All", "Any",
                     "No", "Per", "Which", "State", "Home", "Rule", "One", "Two", "Both"}
@@ -640,9 +654,12 @@ def counties_named_in_notes(state: str) -> dict[str, list[str]]:
         if st != state:
             continue
         text = p.read_text(errors="replace")
-        for m in COUNTY_MENTION_RE.finditer(text):
-            name = m.group(1).strip()
-            if name.split()[0] in COUNTY_STOPWORDS:
+        names: list[str] = [m.group(1).strip() for m in COUNTY_MENTION_RE.finditer(text)]
+        for m in COUNTY_LIST_RE.finditer(text):
+            names.extend(re.split(r",\s*|\s+and\s+", m.group(1)))
+        for name in names:
+            name = name.strip().strip(".,;:")
+            if not name or name.split()[0] in COUNTY_STOPWORDS:
                 continue
             found.setdefault(name, [])
             if p.name not in found[name]:

@@ -279,9 +279,10 @@ def scrub_text_volatiles(text: str) -> str:
     times, then counters and rotating identifiers.  Bare calendar dates with no
     volatility marker survive deliberately — see module docstring.
     """
+    text = _RE_RENDER_TIMER.sub(" ", text)   # before the marker rule: "page
+    #                                          generated" is a prefix of both
     text = _RE_MARKER_DATETIME.sub(" ", text)
     text = _RE_ISO_DATETIME.sub(" ", text)
-    text = _RE_RENDER_TIMER.sub(" ", text)
     text = _RE_COUNTER.sub(" ", text)
     text = _RE_CLOCK_ONLY.sub(" ", text)
     text = _RE_UUID.sub("<HEX>", text)
