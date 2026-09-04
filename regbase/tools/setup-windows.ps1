@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
     Set up RegBase on Windows.
 
@@ -38,7 +38,7 @@ foreach ($candidate in @("py", "python", "python3")) {
         $v = & $candidate --version 2>&1
         if ($LASTEXITCODE -eq 0 -and $v -match "Python 3\.(\d+)") {
             if ([int]$Matches[1] -ge 9) { $py = $candidate; break }
-            Write-Host "  found $v — RegBase needs Python 3.9 or newer" -ForegroundColor Yellow
+            Write-Host "  found $v - RegBase needs Python 3.9 or newer" -ForegroundColor Yellow
         }
     } catch { }
 }
