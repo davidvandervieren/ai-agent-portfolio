@@ -414,6 +414,7 @@ def _resolve(path_value: str) -> Optional[Path]:
         common.ROOT.parent / p,
         common.CORPUS_DIR / p,
         common.TEXT_DIR / p,
+        common.RAW_DIR / p,      # REGBASE_RAW may point outside the project
     ]
     for c in candidates:
         if c.exists() and c.is_file():

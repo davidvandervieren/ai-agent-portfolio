@@ -111,6 +111,22 @@ def local_paths(source: common.Source, url: str, title: str, ext: str) -> tuple[
     return raw, txt
 
 
+def manifest_path(path: Path, base: Path) -> str:
+    """Path as recorded in the manifest.
+
+    Relative to `base` when it lives there, absolute otherwise. REGBASE_RAW
+    can point the raw corpus outside the project entirely - which is the
+    recommended setup when the project sits in a synced folder - so raw files
+    are frequently NOT under CORPUS_DIR. build_index._resolve() accepts both
+    forms. POSIX separators keep a manifest written on Windows readable on
+    Linux.
+    """
+    try:
+        return path.relative_to(base).as_posix()
+    except ValueError:
+        return str(path)
+
+
 def store(source: common.Source, doc_title: str, doc_type: str, citation_root: str,
           url: str, resp, *, write_text: bool = True) -> dict:
     """Persist one fetched response and return its manifest record."""
@@ -164,8 +180,8 @@ def store(source: common.Source, doc_title: str, doc_type: str, citation_root: s
         "sha256": digest,
         "etag": resp.headers.get("ETag", ""),
         "last_modified": resp.headers.get("Last-Modified", ""),
-        "raw_path": str(raw_path.relative_to(common.CORPUS_DIR)),
-        "text_path": str(txt_path.relative_to(common.CORPUS_DIR)) if text else "",
+        "raw_path": manifest_path(raw_path, common.RAW_DIR),
+        "text_path": manifest_path(txt_path, common.TEXT_DIR) if text else "",
         "text_chars": len(text),
         "fetched_at": common.now_iso(),
     }
