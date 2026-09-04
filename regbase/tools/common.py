@@ -155,7 +155,10 @@ def load_sources(paths: Optional[Iterable[Path]] = None) -> list[Source]:
             kwargs.setdefault("state", "US")
             kwargs.setdefault("name", sid)
             s = Source(**kwargs)
-            s._file = str(p.relative_to(ROOT))
+            # POSIX separators: this string is published in web/registry.json,
+            # so a build on Windows must not produce a different file than a
+            # build on Linux.
+            s._file = p.relative_to(ROOT).as_posix()
             out.append(s)
     return out
 
@@ -241,16 +244,20 @@ class Fetcher:
             time.sleep(self.delay - gap)
         self._last[host] = time.monotonic()
 
-    def get(self, url: str, etag: str = "", last_modified: str = "", stream: bool = False):
+    def get(self, url: str, etag: str = "", last_modified: str = "", stream: bool = False,
+            extra_headers: Optional[dict] = None):
         """Returns a requests.Response, or None on permanent failure.
 
         Raises nothing; caller inspects .status_code. 304 means unchanged.
+
+        `extra_headers` is for per-request headers a specific API demands —
+        Municode's JSON API, for one, 401s without `X-CSRF: 1`.
         """
         import requests
         from urllib.parse import urlsplit
 
         host = urlsplit(url).netloc
-        headers = {}
+        headers = dict(extra_headers or {})
         if etag:
             headers["If-None-Match"] = etag
         if last_modified:

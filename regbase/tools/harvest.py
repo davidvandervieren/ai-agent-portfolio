@@ -27,7 +27,7 @@ import re
 import sys
 from collections import deque
 from pathlib import Path
-from urllib.parse import urljoin, urlsplit, urlunsplit
+from urllib.parse import quote, urlencode, urljoin, urlsplit, urlunsplit
 
 import common
 import extract
@@ -44,9 +44,10 @@ PLATFORMS: dict[str, dict] = {
     "municode": {
         "include": [r"/codes/", r"/regulations/", r"nodeId=", r"CodesContent"],
         "exclude": [r"/print", r"\.pdf$", r"login", r"/help"],
-        "notes": "library.municode.com renders via XHR; the JSON behind it is "
-                 "api.municode.com/codesContent?jobId=&nodeId=&productId=. If "
-                 "the HTML crawl comes back thin, switch to that API.",
+        "api": "municode",
+        "notes": "library.municode.com is an Angular SPA — an HTML crawl returns "
+                 "one empty shell page. Crawled through the JSON API instead "
+                 "(see municode_crawl).",
     },
     "american_legal": {
         "include": [r"codelibrary\.amlegal\.com/codes/", r"/latest/"],
@@ -239,6 +240,177 @@ def harvest_documents(sources: list[common.Source], fetcher: common.Fetcher,
     return stats
 
 
+# ---------------------------------------------------------------- municode
+#
+# library.municode.com is an Angular SPA: every code page is the same 6 KB
+# shell, and the text arrives over XHR. Crawling the HTML yields exactly one
+# useless page, so municode sources are walked through the JSON API the SPA
+# itself calls.
+#
+#   Clients/stateAbbr?stateAbbr=CO      -> ClientID for the jurisdiction
+#   ClientContent/{clientId}            -> codes[] with productId
+#   Jobs/latest/{productId}             -> the current supplement's job id
+#   codesToc?jobId=&productId=          -> top-level table of contents
+#   codesToc/children?jobId=&nodeId=..  -> one level down
+#   CodesContent/docIds?...&docIds=N    -> node N and its whole subtree, with text
+#
+# Three things are load-bearing and non-obvious:
+#   * every call needs the header `X-CSRF: 1`, or the API answers 401;
+#   * codesToc rejects a blank jobId, so the latest job is resolved up front;
+#   * plain `codesContent?nodeId=N` lists the subtree but fills in Content for
+#     N alone — the SPA lazy-loads the rest, which is why a naive read of it
+#     yields chapters with 167 sections and 51 characters of text. The print
+#     endpoint CodesContent/docIds returns the entire subtree already
+#     populated, so one request per chapter pulls a whole chapter of code.
+
+MUNICODE_API = "https://library.municode.com/api/"
+MUNICODE_HEADERS = {"Accept": "application/json, text/plain, */*",
+                    "X-CSRF": "1",
+                    "Referer": "https://library.municode.com/"}
+
+
+def _mc_slug(value: str) -> str:
+    """Municode's own URL slug shape: lowercase, underscore-joined."""
+    return "_".join(re.findall(r"[a-z0-9]+", (value or "").lower()))
+
+
+def _mc_api(fetcher: common.Fetcher, path: str):
+    """One GET against the Municode API. Returns parsed JSON or None."""
+    import json
+
+    resp = fetcher.get(MUNICODE_API + path, extra_headers=MUNICODE_HEADERS)
+    if resp.status_code != 200:
+        print(f"    ! api {resp.status_code} {path}", file=sys.stderr)
+        return None
+    try:
+        return json.loads(resp.content.decode("utf-8"))
+    except Exception as exc:
+        print(f"    ! api decode failed for {path}: {exc}", file=sys.stderr)
+        return None
+
+
+def municode_ids(fetcher: common.Fetcher, landing_url: str) -> tuple:
+    """Resolve a library.municode.com landing URL to (productId, jobId, label).
+
+    The landing URL carries everything needed as slugs:
+        https://library.municode.com/co/weld_county/codes/charter_and_county_code
+                                     ^state    ^client          ^product
+    """
+    parts = [p for p in urlsplit(landing_url).path.split("/") if p]
+    if not parts:
+        return None, None, ""
+    state_abbr = parts[0].upper()
+    client_slug = parts[1] if len(parts) > 1 else ""
+    product_slug = parts[3] if len(parts) > 3 else ""
+
+    clients = _mc_api(fetcher, f"Clients/stateAbbr?stateAbbr={state_abbr}") or []
+    match = next((c for c in clients if _mc_slug(c.get("ClientName", "")) == client_slug), None)
+    if match is None:                       # state listing missed it; try the search endpoint
+        keyword = client_slug.replace("_", " ")
+        alt = _mc_api(fetcher, f"Clients/keyword?keyword={quote(keyword)}") or []
+        match = next((c for c in alt if _mc_slug(c.get("ClientName", "")) == client_slug), None)
+    if match is None:
+        print(f"    ! no municode client matched '{client_slug}' in {state_abbr}", file=sys.stderr)
+        return None, None, ""
+
+    client_id = match["ClientID"]
+    content = _mc_api(fetcher, f"ClientContent/{client_id}") or {}
+    codes = content.get("codes") or []
+    if not codes:
+        print(f"    ! municode client {client_id} publishes no codes", file=sys.stderr)
+        return None, None, ""
+    code = next((c for c in codes if _mc_slug(c.get("productName", "")) == product_slug), codes[0])
+    product_id = code.get("productId")
+
+    # codesToc rejects a blank jobId (codesContent tolerates one), so resolve
+    # the latest supplement up front and pass it everywhere.
+    job = _mc_api(fetcher, f"Jobs/latest/{product_id}") or {}
+    job_id = job.get("Id")
+    label = f"{match.get('ClientName', '')} — {code.get('productName', '')} ({job.get('Name', '')})"
+    return product_id, job_id, label
+
+
+def _mc_node_url(landing_url: str, node_id: str) -> str:
+    """The public, human-openable URL for a node — what goes in the manifest."""
+    return f"{landing_url.split('?')[0]}?nodeId={quote(node_id)}"
+
+
+def _mc_html(docs: list) -> bytes:
+    """Stitch a subtree of code sections back into one HTML document.
+
+    Section titles become real <h2> headings so extract.html_to_text can build
+    the heading path that citations are rebuilt from.
+    """
+    parts = []
+    for d in docs:
+        title = (d.get("Title") or "").strip()
+        if title:
+            parts.append(f"<h2>{title}</h2>")
+        parts.append(d.get("Content") or "")
+    return f"<html><body>{''.join(parts)}</body></html>".encode("utf-8")
+
+
+def _mc_subtree(fetcher: common.Fetcher, product_id, job_id, node_id: str) -> list:
+    """Every doc under `node_id`, content included, in one request."""
+    query = urlencode([("productId", product_id), ("jobId", job_id),
+                       ("showChanges", "false"), ("docIds", node_id)])
+    result = _mc_api(fetcher, f"CodesContent/docIds?{query}")
+    if isinstance(result, dict):
+        return result.get("Docs") or []
+    return result or []
+
+
+def municode_crawl(src: common.Source, fetcher: common.Fetcher,
+                   *, max_pages: int, max_depth: int) -> int:
+    """Walk one municode code through the JSON API. Returns pages stored."""
+    product_id, job_id, label = municode_ids(fetcher, src.landing_url)
+    if not product_id or not job_id:
+        return 0
+    print(f"    api: productId={product_id} jobId={job_id}  {label}")
+
+    toc = _mc_api(fetcher, f"codesToc?jobId={job_id}&productId={product_id}")
+    if not isinstance(toc, dict):
+        return 0
+
+    seen: set[str] = set()
+    queue: deque = deque(
+        (child["Id"], child.get("Heading", ""), 0)
+        for child in toc.get("Children", []) if child.get("Id")
+    )
+    print(f"    toc: {len(queue)} top-level nodes")
+
+    pages = 0
+    while queue and pages < max_pages:
+        node_id, heading, depth = queue.popleft()
+        if node_id in seen:
+            continue
+        seen.add(node_id)
+
+        docs = _mc_subtree(fetcher, product_id, job_id, node_id)
+        if docs:
+            url = _mc_node_url(src.landing_url, node_id)
+            resp = common._FakeResponse(200, "OK", url, content=_mc_html(docs),
+                                        headers={"Content-Type": "text/html; charset=utf-8"})
+            rec = store(src, heading or node_id, "code", src.name, url, resp)
+            common.manifest_append(rec)
+            pages += 1
+            print(f"    + {len(docs):>4} docs  {rec['text_chars']:>9,} chars  {heading[:52]}")
+            continue        # the response already carried every descendant
+
+        # Nothing came back for this node — descend a level rather than
+        # silently dropping the branch.
+        if depth >= max_depth:
+            continue
+        children = _mc_api(
+            fetcher,
+            f"codesToc/children?jobId={job_id}&nodeId={quote(node_id)}&productId={product_id}")
+        for child in children or []:
+            if child.get("Id") and child["Id"] not in seen:
+                queue.append((child["Id"], child.get("Heading", ""), depth + 1))
+
+    return pages
+
+
 def harvest_crawl(sources: list[common.Source], fetcher: common.Fetcher,
                   manifest: dict, *, max_pages: int, max_depth: int,
                   dry_run: bool) -> dict[str, int]:
@@ -256,6 +428,16 @@ def harvest_crawl(sources: list[common.Source], fetcher: common.Fetcher,
             print(f"    note: {rules['notes']}")
         if dry_run:
             print(f"    would crawl up to {max_pages} pages, depth {max_depth}")
+            continue
+
+        if rules.get("api") == "municode":
+            pages = municode_crawl(src, fetcher,
+                                   max_pages=max_pages, max_depth=max_depth)
+            print(f"    crawled {pages} pages")
+            stats["pages"] += pages
+            stats["sources"] += 1
+            if not pages:
+                stats["failed"] += 1
             continue
 
         seen: set[str] = set()

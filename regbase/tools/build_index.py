@@ -591,6 +591,35 @@ def upsert_people(con: sqlite3.Connection, records: list[dict]) -> int:
     return len(records)
 
 
+def _documents_to_index(sources: list[common.Source],
+                        manifest: dict[str, dict]) -> Iterator[tuple[common.Source, list]]:
+    """Yield (source, documents) — registry entries first, then harvested pages.
+
+    `--crawl` pulls whole codes: 31 chapters of the Weld County code come down
+    as 31 files, but the registry names only the three sections a human curated.
+    Indexing the registry alone would therefore drop almost everything a crawl
+    fetched, so every manifest record that produced extracted text is indexed
+    too. Registry documents come first for each source, and the caller's
+    (source_id, url) dedup keeps the curated title and citation_root when a
+    crawled page covers the same URL.
+    """
+    harvested: dict[str, list] = {}
+    for key, rec in manifest.items():
+        url = str(rec.get("url") or "")
+        source_id = str(rec.get("source_id") or key.split("::", 1)[0])
+        if not url or not rec.get("text_path"):
+            continue
+        harvested.setdefault(source_id, []).append(common.Document(
+            title=str(rec.get("title") or url),
+            url=url,
+            doc_type=str(rec.get("doc_type") or "code"),
+            format="html",
+            citation_root=str(rec.get("citation_root") or ""),
+        ))
+    for s in sources:
+        yield s, list(s.docs()) + harvested.get(s.id, [])
+
+
 def index_documents(con: sqlite3.Connection, sources: list[common.Source],
                     manifest: dict[str, dict], verbose: bool = False) -> dict:
     """Upsert documents, then (re)chunk any whose extracted text changed."""
@@ -598,8 +627,8 @@ def index_documents(con: sqlite3.Connection, sources: list[common.Source],
              "chunks": 0, "missing_text": 0}
     seen_keys: set[tuple[str, str]] = set()
 
-    for s in sources:
-        for d in s.docs():
+    for s, source_docs in _documents_to_index(sources, manifest):
+        for d in source_docs:
             url = d.url or ""
             key = (s.id, url)
             if key in seen_keys:
