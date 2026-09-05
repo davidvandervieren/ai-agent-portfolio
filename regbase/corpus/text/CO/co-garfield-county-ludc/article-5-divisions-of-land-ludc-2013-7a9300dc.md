@@ -9,7 +9,7 @@ doc_type: ordinance
 citation_root: Garfield County LUDC Art. 5
 url: "https://www.garfieldcountyco.gov/community-development/wp-content/uploads/sites/12/Article-5-Updated.pdf"
 sha256: d4601f694299e50243d4f2469e0a14d344e6c90b275f177675d05b9054214ea9
-fetched_at: "2026-09-05T03:59:44+00:00"
+fetched_at: "2026-09-05T05:09:54+00:00"
 ---
 
 <!-- page: 1 -->

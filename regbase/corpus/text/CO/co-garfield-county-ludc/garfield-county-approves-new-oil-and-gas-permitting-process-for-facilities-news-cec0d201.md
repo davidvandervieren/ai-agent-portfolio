@@ -8,7 +8,7 @@ title: Garfield County approves new oil and gas permitting process for facilitie
 doc_type: guidance
 url: "https://www.postindependent.com/news/garfield-county-approves-new-oil-and-gas-permitting-process-for-facilities/"
 sha256: 2dcea9331ccacf40edf8eaec099356613673745ba67ed72893c5ff482bc3f8bb
-fetched_at: "2026-09-05T04:10:33+00:00"
+fetched_at: "2026-09-05T05:09:54+00:00"
 ---
 
 <!-- heading-path: Garfield County approves new oil and gas permitting process for facilities -->

@@ -1,0 +1,33 @@
+---
+source_id: ut-ludma-county-land-use-act
+jurisdiction: UT — Utah State Legislature / Office of Property Rights Ombudsman
+state: UT
+agency: Utah State Legislature / Office of Property Rights Ombudsman
+title: Utah's Land Use, Development, and Management Act (LUDMA) — explainer
+doc_type: guidance
+url: "https://propertyrights.utah.gov/find-the-law/legal-topics/utah-land-use-development-and-management-act-ludma/"
+sha256: 1eadc81a15d18a8957971542cf2e63f706120015ceff69b8ccdd8ab1f8be7652
+fetched_at: "2026-09-05T05:13:28+00:00"
+---
+
+<!-- heading-path: Utah's Land Use, Development, and Management Act (LUDMA) -->
+# Utah's Land Use, Development, and Management Act (LUDMA)
+LUDMA authorizes and governs land use and zoning regulation by cities and counties, and establishes mandatory requirements that local governments must follow. LUDMA establishes the legal framework for each locality to make zoning decisions, enact ordinances, and implement plans.
+Although local governments have fairly broad discretion to make land use decisions, LUDMA is ultimately the controlling authority. Local governments must comply with its requirements, and with the zoning ordinances adopted under LUDMA authority.
+A local government must adopt a “general plan,” which is a general guideline for future development. In addition, local governments must establish planning commissions and appeal authorities. LUDMA also has mandatory notice requirements when planning and zoning decisions are made.
+LUDMA also requires that a development application be processed within a reasonable time, and provides that an applicant may request that a final decision be made within 45 days, if a reasonable amount of time has passed. LUDMA establishes legal standards for review of warranty work, and fees charged for development applications.
+A General Plan establishes general guidelines for future development and growth. LUDMA requires each city and county to adopt a general plan. A plan not only helps guide future development, but also provides for orderly expansion of utilities and public services. General Plans are usually considered advisory, but compliance may be made mandatory by a local government.
+Each city and county must establish an “Appeal Authority” to handle zoning-related appeals and to grant variances. An appeal authority may be a board of adjustment, but may also be a hearing officer. Variances and appeal duties may be divided between different appeal authorities. For example, a hearing officer could consider all appeals, while a board of adjustment handles variance requests.
+See Land Use Appeals & Appeal Authorities for more information.
+LUDMA requires that a local government act on development applications within a reasonable time. The amount of time that is reasonable depends upon such things as the type of application, the size of the proposed development, the number of other applications, and the resources of the local government.
+A local government must first determine if an application is complete and ready for further consideration. LUDMA provides that a decision on completeness be made within a reasonable time after the application is filed. If the application is found to be incomplete, the local government must explain what information is necessary to make the application complete.
+After a reasonable amount of time has passed without a determination that the application is complete, an applicant may submit a written request that a decision on completeness be made within 30 days. If the local government does not act within 30 days, the application is considered complete and ready for further consideration.
+A final decision on the application must also be made within a reasonable time. If action is not taken in within a reasonable time, an applicant may submit a written request that a decision be made within 45 days. This does not entitle the applicant to approval, but only a final decision on the application. LUDMA does not state the consequences if a local government fails to make a decision within 45 days, although presumably an applicant could obtain a court order requiring that the local government act.
+Public improvements, such as roads or sidewalks, constructed along with a new development, may be subject to warranties required by the local government. LUDMA allows local government to require bonds or other guarantees to ensure that public improvements are built properly and meet minimum quality standards. Before the work is accepted by the local government, it may be inspected, and any objections or problems described comprehensively and with specificity. See Utah Code Ann. §§ 10-20-905(3) (for municipalities) and 17-79-805(3) (for counties) .
+A warranty on completed public improvements may only be required for one year, and a warranty bond for improvements in a subdivision may not exceed 10% of the cost of the improvements. If there are significant problems during the warranty period with the design or construction of the improvement, or the materials used, the local government may require that the improvement be repaired or even replaced. As a rule, normal “wear and tear” of the improvement should not be grounds for repair or replacement.
+See also Utah Code Ann. §§ 10-20-807 (for municipalities) and 17-79-707 (for counties) .
+Local governments may charge reasonable review or application fees to process development applications. The fees must be justifiable as the reasonable cost to process the application. LUDMA requires that the fees to approve plans for a building be either the reasonable cost to process the application, or 65% of the amount charged for a building permit, whichever is less. An applicant may request that fees be itemized to show how they were calculated.
+See, Tooele Associates, LP v. Tooele City - A municipal fee is entitled to a presumption of constitutionality and validity. A person may overcome that presumption by showing that the fee does not have a reasonable relationship to the cost of the regulation activity.
+Local governments must follow LUDMA’s mandatory requirements. An applicant may resort to a lawsuit to force compliance or implement the remedies provided in LUDMA. If an action is taken and required notice to the public or affected landowners is not properly made, the action may be voided by a court.
+See, Hatch v. Boulder Town - Compliance with a state's enabling statute is mandatory, and failure to comply with it will render a zoning ordinance void.
+NOTE: This summary is very simplified, and is provided for informational purposes. Any questions on this topic should be directed to The Office of the Property Rights Ombudsman.

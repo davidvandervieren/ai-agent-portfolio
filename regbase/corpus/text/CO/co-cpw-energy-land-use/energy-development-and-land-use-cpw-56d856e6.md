@@ -7,7 +7,7 @@ title: Energy Development and Land Use | CPW
 doc_type: guidance
 url: "https://cpw.state.co.us/energy-development-and-land-use"
 sha256: c81224779d891da276e63a7ddbe38efd8c47d96c51a2ee032a9625d892a81883
-fetched_at: "2026-09-05T03:58:24+00:00"
+fetched_at: "2026-09-05T05:09:30+00:00"
 ---
 
 <!-- heading-path: Energy Development and Land Use -->

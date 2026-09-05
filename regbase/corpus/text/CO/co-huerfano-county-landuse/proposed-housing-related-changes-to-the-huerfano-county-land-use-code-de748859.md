@@ -8,7 +8,7 @@ title: Proposed Housing Related Changes to the Huerfano County Land Use Code
 doc_type: ordinance
 url: "https://huerfano.us/wp-content/uploads/Proposed-Housing-Related-Changes-to-the-Huerfano-County-Land-Use-Code-Combined.pdf"
 sha256: 33bf2b6270ca22e218d065f41ffbb71fbeacf5c03de0a3570505939580562da1
-fetched_at: "2026-09-05T04:00:24+00:00"
+fetched_at: "2026-09-05T05:09:59+00:00"
 ---
 
 <!-- page: 1 -->

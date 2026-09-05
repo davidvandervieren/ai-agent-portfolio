@@ -9,7 +9,7 @@ doc_type: ordinance
 citation_root: Weld County Code Ch. 21, Art. V
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH21ARACSTIN_ARTVGUREOIGAEXPRUNARWECODEMIREARSTIN_DIV4WEMIREOIGAARDEST"
 sha256: 9a91c5b565b37886c7b7355c508d0990c6443d9a74c6ecd160ebbe1d2e2676f4
-fetched_at: "2026-09-05T04:09:36+00:00"
+fetched_at: "2026-09-05T05:10:44+00:00"
 ---
 
 <!-- heading-path: Division 4. - Weld Mineral Resource (Oil and Gas) Area Development Standards -->

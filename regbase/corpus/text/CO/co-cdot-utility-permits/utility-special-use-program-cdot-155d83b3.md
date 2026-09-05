@@ -7,7 +7,7 @@ title: Utility & Special Use Program — CDOT
 doc_type: guidance
 url: "https://www.codot.gov/business/permits/utilitiesspecialuse"
 sha256: 1892087120b6c1727f9f9550fbbcb9828c78378e7cf084aa423faf65a5960506
-fetched_at: "2026-09-05T04:09:07+00:00"
+fetched_at: "2026-09-05T05:09:22+00:00"
 ---
 
 <!-- heading-path: About Our Program -->

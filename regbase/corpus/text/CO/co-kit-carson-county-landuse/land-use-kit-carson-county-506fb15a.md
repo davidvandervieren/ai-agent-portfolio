@@ -8,7 +8,7 @@ title: Land Use | Kit Carson County
 doc_type: guidance
 url: "https://kitcarsoncounty.colorado.gov/departments/land-use"
 sha256: 24ae380686ccf2df0d5224fb30c3559cf236701f400f77dbecf69a282bc18cad
-fetched_at: "2026-09-05T04:08:00+00:00"
+fetched_at: "2026-09-05T05:10:00+00:00"
 ---
 
 Planning Committee Meetings

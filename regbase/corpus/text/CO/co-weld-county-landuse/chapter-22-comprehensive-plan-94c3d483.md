@@ -8,7 +8,7 @@ title: Chapter 22 - Comprehensive Plan
 doc_type: code
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH22COPL"
 sha256: a4ebf892a608b510dc008a74e7b262a27233872d700c09edf77d45964ad05eff
-fetched_at: "2026-09-05T04:09:40+00:00"
+fetched_at: "2026-09-05T05:10:44+00:00"
 ---
 
 <!-- heading-path: CHAPTER 22 - Comprehensive Plan -->

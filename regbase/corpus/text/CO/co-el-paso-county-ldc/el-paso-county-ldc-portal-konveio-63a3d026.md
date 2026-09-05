@@ -8,7 +8,7 @@ title: El Paso County LDC Portal (Konveio)
 doc_type: code
 url: "https://elpasocountyldc.konveio.com/"
 sha256: 8a1bd3e252bd51dae8dcfb2077d46cdc731ba419886be552f8b1d0c11854faa7
-fetched_at: "2026-09-05T04:11:20+00:00"
+fetched_at: "2026-09-05T05:09:40+00:00"
 ---
 
 <!-- heading-path: Warning message -->

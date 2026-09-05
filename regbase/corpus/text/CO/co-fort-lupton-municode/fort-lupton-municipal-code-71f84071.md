@@ -9,7 +9,7 @@ title: Fort Lupton Municipal Code
 doc_type: code
 url: "https://library.municode.com/co/fort_lupton/codes/municipal_code?nodeId=FOLUMUCO"
 sha256: 6dd21b261c2651d10f24eed7813311f8f42912a166ef5f1238b315ddc0a8d3cf
-fetched_at: "2026-09-05T04:01:47+00:00"
+fetched_at: "2026-09-05T05:09:47+00:00"
 ---
 
 <!-- heading-path: FORT LUPTON MUNICIPAL CODE -->

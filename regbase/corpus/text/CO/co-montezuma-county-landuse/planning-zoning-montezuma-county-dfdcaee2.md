@@ -8,10 +8,297 @@ title: Planning & Zoning | Montezuma County
 doc_type: guidance
 url: "https://montezumacounty.gov/planning-zoning/"
 sha256: 7a667fa96a4d3133237480e2bb0cc27a0b068c30e052f0cb7aff2f67761d72ac
-fetched_at: "2026-09-05T04:00:50+00:00"
+fetched_at: "2026-09-05T05:10:23+00:00"
 ---
 
 Planning & Zoning <
+Skip to content
+Search
+For assistance with the Montezuma County Website and its contents, please reach out to a department manager
+click here
+.
+×
+Home
+Sheriff’s Office
+Public Notices
+Public Notices
+Request for Proposal (RFP) Notices
+Planning Public Notices
+Declarations and Proclamations
+Resolutions & Ordinances
+Calendars & Minutes
+Calendars & Minutes
+Board of Commissioners Minutes
+County Calendar
+CSU Extension Calendar
+Landfill Calendar
+Fairgrounds Calendar
+Senior Center Calendar
+Road & Bridge Calendar
+Departments & Contacts
+Departments & Contacts
+Administration
+Administration
+County Administrator
+Finance Department
+Finance Department
+Annual Audit
+Annual Budget
+Monthly Accounts Payable
+Human Resources
+Assessor’s Office
+Assessor’s Office
+Search Property Records
+Montezuma County GIS Viewer
+Sample Tax Calculations for Residential, Commercial & Vacant Properties
+Protest & Appeal Procedures
+Agricultural Land Classification
+Glossary of Assessors Office Terms
+Clerk & Recorder
+Clerk & Recorder
+Elections Office
+Search County Records
+CSU Extension
+CSU Extension
+CSU Agriculture
+CSU Natural Resources
+CSU Family and Consumer Sciences
+CSU 4-H Youth Development
+CSU About Us
+CSU Programming Areas
+CSU Other Resources
+CSU Extension Calendar
+District Attorney
+Fairgrounds
+Fairgrounds
+Montezuma County Fair Facebook
+Montezuma County Fair
+Racetrack
+GIS & Mapping
+GIS & Mapping
+Addressing
+Available GIS Maps
+Download GIS Data
+GIS Terms of Use
+Information Technology
+Landfill
+Landfill
+Recycling
+Landfill Tipping Fees
+Special Wastes
+Natural Resources and Public Lands
+Planning & Zoning
+Planning & Zoning
+Building in Montezuma County
+Board Appointments & Terms
+Public Health
+Public Health
+Secure Transportation and Licensing Information
+Family Services
+Prevention Services
+Emergency Preparedness
+Environmental Health
+Protect yourself from smoke
+Public Transportation
+Road & Bridge
+Senior Services
+Sheriff’s Office
+Sheriff’s Office
+Civil Division
+Detective Division
+Detention Division
+Evidence and Found Property
+Patrol Division
+Posse
+Records
+Sex Offenders
+Search and Rescue
+Policy Manual
+Social Services
+Social Services
+Adult Protection Services
+Cash Assistance Programs
+Child Protective Services
+Child Support Services
+Food Assistance
+Foster a Child
+LEAP
+Medical Assistance
+INVESTIGATION UNIT
+Social Services Links
+Treasurer / Public Trustee
+Review and Pay Taxes
+Noxious Weed Program
+Noxious Weed Program
+Re-Seeding Grass Recommendations for Pastures
+Veteran Services
+Services
+Services
+Attorney
+Auditor
+Coroner
+District Attorney
+District Attorney
+Adult Diversion Eligibility Requirements
+Juvenile Restorative Justice and Diversion Eligibility
+Victim Compensation Program
+Office of Emergency Management
+Social Services
+Surveyor
+Veteran Services
+Public Transportation
+Treasurer / Public Trustee
+Online Services
+Montezuma County Fair
+Links
+Links
+Montezuma County Fair
+Behavioral Health
+BOCC
+Social Services Jobs
+County Jobs
+Home
+Sheriff’s Office
+Public Notices
+Public Notices
+Request for Proposal (RFP) Notices
+Planning Public Notices
+Declarations and Proclamations
+Resolutions & Ordinances
+Calendars & Minutes
+Calendars & Minutes
+Board of Commissioners Minutes
+County Calendar
+CSU Extension Calendar
+Landfill Calendar
+Fairgrounds Calendar
+Senior Center Calendar
+Road & Bridge Calendar
+Departments & Contacts
+Departments & Contacts
+Administration
+Administration
+County Administrator
+Finance Department
+Finance Department
+Annual Audit
+Annual Budget
+Monthly Accounts Payable
+Human Resources
+Assessor’s Office
+Assessor’s Office
+Search Property Records
+Montezuma County GIS Viewer
+Sample Tax Calculations for Residential, Commercial & Vacant Properties
+Protest & Appeal Procedures
+Agricultural Land Classification
+Glossary of Assessors Office Terms
+Clerk & Recorder
+Clerk & Recorder
+Elections Office
+Search County Records
+CSU Extension
+CSU Extension
+CSU Agriculture
+CSU Natural Resources
+CSU Family and Consumer Sciences
+CSU 4-H Youth Development
+CSU About Us
+CSU Programming Areas
+CSU Other Resources
+CSU Extension Calendar
+District Attorney
+Fairgrounds
+Fairgrounds
+Montezuma County Fair Facebook
+Montezuma County Fair
+Racetrack
+GIS & Mapping
+GIS & Mapping
+Addressing
+Available GIS Maps
+Download GIS Data
+GIS Terms of Use
+Information Technology
+Landfill
+Landfill
+Recycling
+Landfill Tipping Fees
+Special Wastes
+Natural Resources and Public Lands
+Planning & Zoning
+Planning & Zoning
+Building in Montezuma County
+Board Appointments & Terms
+Public Health
+Public Health
+Secure Transportation and Licensing Information
+Family Services
+Prevention Services
+Emergency Preparedness
+Environmental Health
+Protect yourself from smoke
+Public Transportation
+Road & Bridge
+Senior Services
+Sheriff’s Office
+Sheriff’s Office
+Civil Division
+Detective Division
+Detention Division
+Evidence and Found Property
+Patrol Division
+Posse
+Records
+Sex Offenders
+Search and Rescue
+Policy Manual
+Social Services
+Social Services
+Adult Protection Services
+Cash Assistance Programs
+Child Protective Services
+Child Support Services
+Food Assistance
+Foster a Child
+LEAP
+Medical Assistance
+INVESTIGATION UNIT
+Social Services Links
+Treasurer / Public Trustee
+Review and Pay Taxes
+Noxious Weed Program
+Noxious Weed Program
+Re-Seeding Grass Recommendations for Pastures
+Veteran Services
+Services
+Services
+Attorney
+Auditor
+Coroner
+District Attorney
+District Attorney
+Adult Diversion Eligibility Requirements
+Juvenile Restorative Justice and Diversion Eligibility
+Victim Compensation Program
+Office of Emergency Management
+Social Services
+Surveyor
+Veteran Services
+Public Transportation
+Treasurer / Public Trustee
+Online Services
+Montezuma County Fair
+Links
+Links
+Montezuma County Fair
+Behavioral Health
+BOCC
+Social Services Jobs
+County Jobs
+Planning & Zoning
+Montezuma County
+»
 Planning & Zoning
 Email Planning
 COVID-19 Response
@@ -160,6 +447,311 @@ Email
 Administrative Assistant
 Sherrie "Jane" Duncan
 Email
+Home
+Sheriff’s Office
+Public Notices
+Public Notices
+Request for Proposal (RFP) Notices
+Planning Public Notices
+Declarations and Proclamations
+Resolutions & Ordinances
+Calendars & Minutes
+Calendars & Minutes
+Board of Commissioners Minutes
+County Calendar
+CSU Extension Calendar
+Landfill Calendar
+Fairgrounds Calendar
+Senior Center Calendar
+Road & Bridge Calendar
+Departments & Contacts
+Departments & Contacts
+Administration
+Administration
+County Administrator
+Finance Department
+Finance Department
+Annual Audit
+Annual Budget
+Monthly Accounts Payable
+Human Resources
+Assessor’s Office
+Assessor’s Office
+Search Property Records
+Montezuma County GIS Viewer
+Sample Tax Calculations for Residential, Commercial & Vacant Properties
+Protest & Appeal Procedures
+Agricultural Land Classification
+Glossary of Assessors Office Terms
+Clerk & Recorder
+Clerk & Recorder
+Elections Office
+Search County Records
+CSU Extension
+CSU Extension
+CSU Agriculture
+CSU Natural Resources
+CSU Family and Consumer Sciences
+CSU 4-H Youth Development
+CSU About Us
+CSU Programming Areas
+CSU Other Resources
+CSU Extension Calendar
+District Attorney
+Fairgrounds
+Fairgrounds
+Montezuma County Fair Facebook
+Montezuma County Fair
+Racetrack
+GIS & Mapping
+GIS & Mapping
+Addressing
+Available GIS Maps
+Download GIS Data
+GIS Terms of Use
+Information Technology
+Landfill
+Landfill
+Recycling
+Landfill Tipping Fees
+Special Wastes
+Natural Resources and Public Lands
+Planning & Zoning
+Planning & Zoning
+Building in Montezuma County
+Board Appointments & Terms
+Public Health
+Public Health
+Secure Transportation and Licensing Information
+Family Services
+Prevention Services
+Emergency Preparedness
+Environmental Health
+Protect yourself from smoke
+Public Transportation
+Road & Bridge
+Senior Services
+Sheriff’s Office
+Sheriff’s Office
+Civil Division
+Detective Division
+Detention Division
+Evidence and Found Property
+Patrol Division
+Posse
+Records
+Sex Offenders
+Search and Rescue
+Policy Manual
+Social Services
+Social Services
+Adult Protection Services
+Cash Assistance Programs
+Child Protective Services
+Child Support Services
+Food Assistance
+Foster a Child
+LEAP
+Medical Assistance
+INVESTIGATION UNIT
+Social Services Links
+Treasurer / Public Trustee
+Review and Pay Taxes
+Noxious Weed Program
+Noxious Weed Program
+Re-Seeding Grass Recommendations for Pastures
+Veteran Services
+Services
+Services
+Attorney
+Auditor
+Coroner
+District Attorney
+District Attorney
+Adult Diversion Eligibility Requirements
+Juvenile Restorative Justice and Diversion Eligibility
+Victim Compensation Program
+Office of Emergency Management
+Social Services
+Surveyor
+Veteran Services
+Public Transportation
+Treasurer / Public Trustee
+Online Services
+Montezuma County Fair
+Links
+Links
+Montezuma County Fair
+Behavioral Health
+BOCC
+Social Services Jobs
+County Jobs
+Home
+Sheriff’s Office
+Public Notices
+Public Notices
+Request for Proposal (RFP) Notices
+Planning Public Notices
+Declarations and Proclamations
+Resolutions & Ordinances
+Calendars & Minutes
+Calendars & Minutes
+Board of Commissioners Minutes
+County Calendar
+CSU Extension Calendar
+Landfill Calendar
+Fairgrounds Calendar
+Senior Center Calendar
+Road & Bridge Calendar
+Departments & Contacts
+Departments & Contacts
+Administration
+Administration
+County Administrator
+Finance Department
+Finance Department
+Annual Audit
+Annual Budget
+Monthly Accounts Payable
+Human Resources
+Assessor’s Office
+Assessor’s Office
+Search Property Records
+Montezuma County GIS Viewer
+Sample Tax Calculations for Residential, Commercial & Vacant Properties
+Protest & Appeal Procedures
+Agricultural Land Classification
+Glossary of Assessors Office Terms
+Clerk & Recorder
+Clerk & Recorder
+Elections Office
+Search County Records
+CSU Extension
+CSU Extension
+CSU Agriculture
+CSU Natural Resources
+CSU Family and Consumer Sciences
+CSU 4-H Youth Development
+CSU About Us
+CSU Programming Areas
+CSU Other Resources
+CSU Extension Calendar
+District Attorney
+Fairgrounds
+Fairgrounds
+Montezuma County Fair Facebook
+Montezuma County Fair
+Racetrack
+GIS & Mapping
+GIS & Mapping
+Addressing
+Available GIS Maps
+Download GIS Data
+GIS Terms of Use
+Information Technology
+Landfill
+Landfill
+Recycling
+Landfill Tipping Fees
+Special Wastes
+Natural Resources and Public Lands
+Planning & Zoning
+Planning & Zoning
+Building in Montezuma County
+Board Appointments & Terms
+Public Health
+Public Health
+Secure Transportation and Licensing Information
+Family Services
+Prevention Services
+Emergency Preparedness
+Environmental Health
+Protect yourself from smoke
+Public Transportation
+Road & Bridge
+Senior Services
+Sheriff’s Office
+Sheriff’s Office
+Civil Division
+Detective Division
+Detention Division
+Evidence and Found Property
+Patrol Division
+Posse
+Records
+Sex Offenders
+Search and Rescue
+Policy Manual
+Social Services
+Social Services
+Adult Protection Services
+Cash Assistance Programs
+Child Protective Services
+Child Support Services
+Food Assistance
+Foster a Child
+LEAP
+Medical Assistance
+INVESTIGATION UNIT
+Social Services Links
+Treasurer / Public Trustee
+Review and Pay Taxes
+Noxious Weed Program
+Noxious Weed Program
+Re-Seeding Grass Recommendations for Pastures
+Veteran Services
+Services
+Services
+Attorney
+Auditor
+Coroner
+District Attorney
+District Attorney
+Adult Diversion Eligibility Requirements
+Juvenile Restorative Justice and Diversion Eligibility
+Victim Compensation Program
+Office of Emergency Management
+Social Services
+Surveyor
+Veteran Services
+Public Transportation
+Treasurer / Public Trustee
+Online Services
+Montezuma County Fair
+Links
+Links
+Montezuma County Fair
+Behavioral Health
+BOCC
+Social Services Jobs
+County Jobs
+For assistance with the Montezuma County Website and its contents, please reach out to a department manager
+click here to view list of department contacts
+.
+Online Services
+Website Satisfaction Survey
+Accessibility Statement
+Facebook
+Youtube
+Copyright © 2026. Montezuma County, CO. All Rights Reserved.
 Contact Montezuma County Planning Department
+Name
+Phone
+Email
+Subject
+Message
+Send
 Contact Montezuma County Planning & Zoning Director
+Name
+Phone
+Email
+Subject
+Message
+Send
 Contact Planning & Zoning Administrative Assistant
+Name
+Phone
+Email
+Subject
+Message
+Send

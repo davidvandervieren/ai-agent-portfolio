@@ -9,7 +9,7 @@ title: Town Codes | New Castle
 doc_type: guidance
 url: "https://www.newcastlecolorado.org/towncouncil/page/town-codes"
 sha256: a3ab1344ebe298f8a37d1428dc59ef0d6f7779cb120835168cad1585c3e0f0a3
-fetched_at: "2026-09-05T04:11:58+00:00"
+fetched_at: "2026-09-05T05:10:33+00:00"
 ---
 
 <!-- heading-path: Town Codes -->

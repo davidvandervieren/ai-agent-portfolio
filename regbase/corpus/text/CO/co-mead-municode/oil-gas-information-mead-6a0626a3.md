@@ -9,7 +9,7 @@ title: Oil & Gas Information | Mead
 doc_type: guidance
 url: "https://www.meadco.gov/engineering/page/oil-gas-information"
 sha256: 86c6110084f0d19843a6515b5d9bc4ba24e8d5590ec3d646f5392f749a530744
-fetched_at: "2026-09-05T04:03:24+00:00"
+fetched_at: "2026-09-05T05:10:23+00:00"
 ---
 
 <!-- heading-path: Oil & Gas Information -->

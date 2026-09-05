@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Fruita Municipal Code Title 17
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT17LAUSCO_CH17.57DERUIN"
 sha256: a55589981dabf6b37d0798a375863149d2e02d7d29e4ac9fd1df8b109ebe336a
-fetched_at: "2026-09-05T04:03:02+00:00"
+fetched_at: "2026-09-05T05:09:47+00:00"
 ---
 
 <!-- heading-path: CHAPTER 17.57 - DEFINITIONS AND RULES OF INTERPRETATIONS -->

@@ -8,7 +8,7 @@ title: Oil and Gas Regulations 101
 doc_type: guidance
 url: "https://adamscountyco.gov/wp-content/uploads/2026/02/Oil_and_Gas_Regs_101.pdf"
 sha256: 005924f27d18a3899a1144713b1985d92532158d8d406008f2b327c684a87665
-fetched_at: "2026-09-05T03:58:44+00:00"
+fetched_at: "2026-09-05T05:08:42+00:00"
 ---
 
 <!-- page: 1 -->

@@ -7,7 +7,7 @@ title: "Professional Excavators: Locate Underground Utilities Before You Dig"
 doc_type: guidance
 url: "https://www.colorado811.org/professional-excavators"
 sha256: 8772ced551a6839336bb2e39de1e87921dc7145e2fa5661a4d5df56ae5e40a28
-fetched_at: "2026-09-05T03:58:22+00:00"
+fetched_at: "2026-09-05T05:08:41+00:00"
 ---
 
 <!-- heading-path: Professional Excavators -->

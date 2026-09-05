@@ -9,7 +9,7 @@ title: Rifle Charter and Municipal Code
 doc_type: code
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=RIMUCO"
 sha256: 4e1cfbb3a06ca66ab5bd87baa5a00ed4e5dd518a2d52205755ffdbf2a4f9c33d
-fetched_at: "2026-09-05T04:02:37+00:00"
+fetched_at: "2026-09-05T05:10:42+00:00"
 ---
 
 <!-- heading-path: RIFLE MUNICIPAL CODE -->

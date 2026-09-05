@@ -9,7 +9,7 @@ doc_type: ordinance
 citation_root: Broomfield Municipal Code Ch. 17-54
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-54OIGALAUSRE"
 sha256: b7fd3ce0cc67c69fe518311ed4afdf369ace0eca2c2bdb4087a7bb76bbe6e3c0
-fetched_at: "2026-09-05T04:10:22+00:00"
+fetched_at: "2026-09-05T05:09:22+00:00"
 ---
 
 <!-- heading-path: Chapter 17-54 - Oil and Gas Land Use Regulations -->

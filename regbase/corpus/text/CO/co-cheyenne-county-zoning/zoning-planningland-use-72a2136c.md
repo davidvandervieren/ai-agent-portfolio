@@ -8,7 +8,7 @@ title: Zoning & Planning/Land Use
 doc_type: guidance
 url: "https://www.co.cheyenne.co.us/departments/zoning_planning.html"
 sha256: c3973a77fa352a484500812e91d265cbc1e55a487e3fb0d93c8056d577880cdd
-fetched_at: "2026-09-05T04:07:56+00:00"
+fetched_at: "2026-09-05T05:09:29+00:00"
 ---
 
 P.O. Box 567

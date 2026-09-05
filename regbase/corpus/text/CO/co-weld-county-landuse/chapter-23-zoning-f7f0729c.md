@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Weld County Code Ch. 23
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO"
 sha256: 376d12eead7139d34e08a149979a2eac3ffa55832a373b8980a2542411fdb0eb
-fetched_at: "2026-09-05T04:09:40+00:00"
+fetched_at: "2026-09-05T05:10:45+00:00"
 ---
 
 <!-- heading-path: CHAPTER 23 - Zoning -->

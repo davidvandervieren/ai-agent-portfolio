@@ -7,7 +7,7 @@ title: General Construction Permit COR400000 (engagement page)
 doc_type: guidance
 url: "https://cdphe.colorado.gov/General-Construction-Permit-COR400000"
 sha256: bb5ab25ec2fe54e5194b50fd602185809c1dcf39538e5278000d646edfdc94bf
-fetched_at: "2026-09-05T03:58:01+00:00"
+fetched_at: "2026-09-05T05:09:22+00:00"
 ---
 
 The Water Quality Control Division regularly updates regulations, guidance, and policies. We want to hear from you about these proposals. Whether you are a public member interested in what the state is doing or a regulated entity impacted by these measures, we want your feedback. The information on this webpage reflects current efforts you should be aware of and possible engagement opportunities.

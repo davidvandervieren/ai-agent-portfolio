@@ -8,7 +8,7 @@ title: Lincoln County Subdivision Regulations (Dec 8, 2022)
 doc_type: code
 url: "https://lincolncounty.colorado.gov/sites/g/files/lrnvjt1881/files/documents/lincoln_county_subdivision_2022.pdf"
 sha256: fb26e8f55c83c173c538da565e619c5d5b99466d639f5231514fc263a80a18c1
-fetched_at: "2026-09-05T04:11:18+00:00"
+fetched_at: "2026-09-05T05:10:22+00:00"
 ---
 
 <!-- page: 1 -->

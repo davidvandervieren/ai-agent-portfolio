@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Weld County Oil and Gas Regulations (Mineral Resource Area of State Interest)
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH14HEAN"
 sha256: 0ba8ae076c043ea23b341bbf51b490381cb8252be569b8bc73c62c86e7d87ee6
-fetched_at: "2026-09-04T18:37:35+00:00"
+fetched_at: "2026-09-05T05:10:43+00:00"
 ---
 
 <!-- heading-path: CHAPTER 14 - Health and Animals -->

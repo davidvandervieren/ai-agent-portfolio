@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Weld County Oil and Gas Regulations (Mineral Resource Area of State Interest)
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH21ARACSTIN"
 sha256: 48ae52922d7c28cc24c0ac7e4de92e90624934344c547e33305f2df8df6aa22f
-fetched_at: "2026-09-04T18:37:41+00:00"
+fetched_at: "2026-09-05T05:10:44+00:00"
 ---
 
 <!-- heading-path: CHAPTER 21 - Areas and Activities of State Interest -->

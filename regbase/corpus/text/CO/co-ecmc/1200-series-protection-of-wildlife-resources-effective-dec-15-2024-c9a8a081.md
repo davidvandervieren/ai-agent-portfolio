@@ -8,7 +8,7 @@ doc_type: regulation
 citation_root: 2 CCR 404-1, 1200 Series
 url: "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/1200%20Series%20-%20Protection%20of%20Wildlife%20Resources_Effective%20December%2015,%202024.pdf"
 sha256: 947e78be113fca35234e0300e3d91e00a0106fee8f7e07628fde38dd4b25949d
-fetched_at: "2026-09-05T03:57:34+00:00"
+fetched_at: "2026-09-05T05:09:36+00:00"
 ---
 
 <!-- page: 1 -->

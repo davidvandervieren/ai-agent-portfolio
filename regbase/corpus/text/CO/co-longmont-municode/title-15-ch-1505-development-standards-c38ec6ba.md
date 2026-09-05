@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Longmont Code of Ordinances Title 15
 url: "https://library.municode.com/co/longmont/codes/code_of_ordinances?nodeId=PTIICOOR_TIT15LADECO_CH15.05DEST"
 sha256: 8a502263ba8d5e35a24a6623f99ab7b2a8f3c31342c1cb9fe5ecbbc8d91c2fc0
-fetched_at: "2026-09-05T04:01:53+00:00"
+fetched_at: "2026-09-05T05:10:23+00:00"
 ---
 
 <!-- heading-path: CHAPTER 15.05. - DEVELOPMENT STANDARDS -->

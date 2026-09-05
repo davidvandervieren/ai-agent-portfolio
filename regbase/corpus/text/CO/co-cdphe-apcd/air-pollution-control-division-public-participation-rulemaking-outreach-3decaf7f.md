@@ -7,7 +7,7 @@ title: Air Pollution Control Division public participation / rulemaking outreach
 doc_type: guidance
 url: "https://cdphe.colorado.gov/APCD/Outreach"
 sha256: b1585e425a0bb0c896ac73c5a3655b7516b44cb505ed71046866a5ceea2b52dd
-fetched_at: "2026-09-05T03:57:54+00:00"
+fetched_at: "2026-09-05T05:09:22+00:00"
 ---
 
 Español

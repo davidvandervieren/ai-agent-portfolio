@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Weld County Oil and Gas Regulations (Mineral Resource Area of State Interest)
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH9INTE"
 sha256: a058d13391206f7122593239a3ff2b72618e8e3ee9ec16ddbbe357b245b05959
-fetched_at: "2026-09-04T18:37:31+00:00"
+fetched_at: "2026-09-05T05:10:48+00:00"
 ---
 
 <!-- heading-path: CHAPTER 9 - Information Technology -->

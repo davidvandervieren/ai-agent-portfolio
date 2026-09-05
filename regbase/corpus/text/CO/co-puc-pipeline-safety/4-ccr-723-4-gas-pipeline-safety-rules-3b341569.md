@@ -8,7 +8,7 @@ doc_type: regulation
 citation_root: 4 CCR 723-4
 url: "https://www.sos.state.co.us/CCR/GenerateRulePdf.do?ruleVersionId=7017&fileName=4+CCR+723-4"
 sha256: 63b3d3fc38a5f6ff97a1953e2c0d5de790b8d836d6a5cec2fdd08f87f0d562f8
-fetched_at: "2026-09-05T04:09:17+00:00"
+fetched_at: "2026-09-05T05:10:41+00:00"
 ---
 
 <!-- page: 1 -->

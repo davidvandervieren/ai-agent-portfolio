@@ -9,7 +9,7 @@ title: Chapter 12 - Municipal Utilities
 doc_type: code
 url: "https://www.trinidad.co.gov/government/chapter_12_-_municipal_utilities.php"
 sha256: 478fb93bc698348cf1cd7732e27063d7f4088bb91bec0147c39322b6fc9e69f4
-fetched_at: "2026-09-05T04:02:57+00:00"
+fetched_at: "2026-09-05T05:10:42+00:00"
 ---
 
 <!-- heading-path: Chapter 12 - Municipal Utilities -->

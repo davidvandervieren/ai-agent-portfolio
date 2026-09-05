@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Erie Code Title 10
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT10UNDECO"
 sha256: fadfb9fa07f52360584767fc5917affa013a2c126e15403e729c93c529649d2c
-fetched_at: "2026-09-05T04:01:15+00:00"
+fetched_at: "2026-09-05T05:09:42+00:00"
 ---
 
 <!-- heading-path: Title 10 - UNIFIED DEVELOPMENT CODE -->

@@ -8,7 +8,7 @@ title: Pueblo County Code
 doc_type: code
 url: "https://county.pueblo.org/county-attorney-department/pueblo-county-code"
 sha256: 9f230e381f442a8e94f8bf3948e6cd0d810de0f85b8de085646de68a4ca499f7
-fetched_at: "2026-09-05T04:00:18+00:00"
+fetched_at: "2026-09-05T05:10:41+00:00"
 ---
 
 Pueblo County offices will have a half day on Friday, September 4th and be closed Monday, September 7th for Labor Day.

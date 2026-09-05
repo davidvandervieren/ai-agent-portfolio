@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Archuleta County Land Use Regulations
 url: "https://www.archuletacounty.gov/wp-content/uploads/2024/11/archuleta-county-land-use-regulations-book.pdf"
 sha256: 5ab1ac06067f6176d2cf8dc75bcd7c84b3cbcbb06069a9f635825dee1f400e14
-fetched_at: "2026-09-05T04:00:50+00:00"
+fetched_at: "2026-09-05T05:09:07+00:00"
 ---
 
 <!-- page: 1 -->

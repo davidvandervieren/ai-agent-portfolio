@@ -8,7 +8,7 @@ title: Land Use - Yuma County
 doc_type: guidance
 url: "https://yumacounty.net/departments/land-use/"
 sha256: a2bbc35960e3fb4c037a96df9d508fbb9da22e10fd300fa8b81537671b128d71
-fetched_at: "2026-09-05T04:07:38+00:00"
+fetched_at: "2026-09-05T05:10:51+00:00"
 ---
 
 <!-- heading-path: Land Use and Planning -->

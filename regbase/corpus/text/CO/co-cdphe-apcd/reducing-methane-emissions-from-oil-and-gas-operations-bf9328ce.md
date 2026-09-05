@@ -7,7 +7,7 @@ title: Reducing methane emissions from oil and gas operations
 doc_type: guidance
 url: "https://cdphe.colorado.gov/apcd/reducing-methane-emissions-from-oil-and-gas-operations"
 sha256: 94e081626d67eef0f38f5f430cc30583b3313aa63fdcf3dadd2586d9a0564505
-fetched_at: "2026-09-05T03:57:50+00:00"
+fetched_at: "2026-09-05T05:09:22+00:00"
 ---
 
 Jump to: Overview | Third rulemaking hearing | Second rulemaking hearing | First rulemaking hearing | Contact us

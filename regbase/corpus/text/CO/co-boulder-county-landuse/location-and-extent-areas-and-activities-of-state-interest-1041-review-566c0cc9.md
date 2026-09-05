@@ -9,7 +9,7 @@ doc_type: guidance
 citation_root: Boulder County LUC Article 8
 url: "https://bouldercounty.gov/property-and-land/land-use/planning/review/1041-review/"
 sha256: 94b94d07cd555e1b40fed26b6ad37dad6ea7774e3a73ca8cf40faf66b0b1b0da
-fetched_at: "2026-09-05T03:59:22+00:00"
+fetched_at: "2026-09-05T05:09:21+00:00"
 ---
 
 Scam emails have been impersonating Boulder County Community Planning and Permitting staff. Learn how to spot a scam email .

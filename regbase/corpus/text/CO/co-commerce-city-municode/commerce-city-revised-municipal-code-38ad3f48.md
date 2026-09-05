@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Commerce City Revised Municipal Code
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COREMUCO"
 sha256: 5c63f4345d1728f249612c16f3e2942c9fb03225d418e92b6479afcf707dcd53
-fetched_at: "2026-09-05T04:02:31+00:00"
+fetched_at: "2026-09-05T05:09:29+00:00"
 ---
 
 <!-- heading-path: COMMERCE CITY REVISED MUNICIPAL CODE -->

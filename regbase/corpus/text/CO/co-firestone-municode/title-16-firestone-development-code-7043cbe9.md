@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Firestone Municipal Code Title 16
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT16FIDECO"
 sha256: 9a54087b813845160ee1a12e3fc8e781df9b6cf4867245c074ce4699156d90f5
-fetched_at: "2026-09-05T04:01:29+00:00"
+fetched_at: "2026-09-05T05:09:43+00:00"
 ---
 
 <!-- heading-path: Title 16 - FIRESTONE DEVELOPMENT CODE -->

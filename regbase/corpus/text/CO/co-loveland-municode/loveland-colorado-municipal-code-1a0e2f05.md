@@ -9,7 +9,7 @@ title: Loveland Colorado Municipal Code
 doc_type: code
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=LOCOMUCO"
 sha256: a5670798b4d57da3a8e38fc2f00144b5b12037948ece1f0aef8d79a86d1f8dd0
-fetched_at: "2026-09-05T04:02:00+00:00"
+fetched_at: "2026-09-05T05:10:23+00:00"
 ---
 
 <!-- heading-path: LOVELAND COLORADO MUNICIPAL CODE -->

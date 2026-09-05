@@ -8,7 +8,7 @@ title: Conditional Use - Oil & Gas Application
 doc_type: application_packet
 url: "https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Conditional%20Use%20-%20O%26G%20App%20082525.pdf"
 sha256: 1c6e5fb345cff3e56320f74d16cd1cafb4379185f06bc6861c45f4cd06d4b244
-fetched_at: "2026-09-05T04:07:50+00:00"
+fetched_at: "2026-09-05T05:10:23+00:00"
 ---
 
 <!-- page: 1 -->

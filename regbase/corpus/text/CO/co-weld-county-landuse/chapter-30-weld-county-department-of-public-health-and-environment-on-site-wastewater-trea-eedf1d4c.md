@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Weld County Oil and Gas Regulations (Mineral Resource Area of State Interest)
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH30WECODEPUHEENTEWATRSYRE"
 sha256: 14b46c3e2657d8d834503ab861e17708832c190373e452682d5447a5ed4da38b
-fetched_at: "2026-09-04T18:37:48+00:00"
+fetched_at: "2026-09-05T05:10:46+00:00"
 ---
 
 <!-- heading-path: CHAPTER 30 - Weld County Department of Public Health and Environment On-Site Wastewater Treatment System Regulations -->

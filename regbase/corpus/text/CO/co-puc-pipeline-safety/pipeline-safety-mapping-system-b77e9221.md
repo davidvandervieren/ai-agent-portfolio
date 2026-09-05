@@ -7,7 +7,7 @@ title: Pipeline Safety Mapping System
 doc_type: map
 url: "https://puc.colorado.gov/puc-home/pipeline-safety-program/pipeline-safety-mapping-system"
 sha256: 3ce1346061ebc7fe7284ab583bbb96984e288005c525ded29abcdfb75098c856
-fetched_at: "2026-09-05T03:58:17+00:00"
+fetched_at: "2026-09-05T05:10:34+00:00"
 ---
 
 The Pipeline Safety Program Mapping System is a map composed of operator submitted gas pipeline data. The dataset is composed of Transmission, Gathering, and Distribution intrastate pipelines. Municipalities pipelines are not included in this dataset. Use the magnifying glass in the top right of the application to search for addresses and points of interest.

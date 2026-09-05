@@ -8,7 +8,7 @@ title: Regulations | Elbert County
 doc_type: guidance
 url: "https://www.elbertcounty-co.gov/334/Regulations"
 sha256: 7e7e18bb24cef289f828f8cddaeaceeea72bad8a24c27484ea6f6cc77a24396d
-fetched_at: "2026-09-05T04:07:52+00:00"
+fetched_at: "2026-09-05T05:09:40+00:00"
 ---
 
 <!-- heading-path: Regulations -->

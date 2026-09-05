@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Milliken Municipal Code Ch. 16
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH16LAUSCO_ARTVSURE_DIV1GE"
 sha256: ec7b4b56eecb63409eaf4e8e599a7aa88a42ffa7185d990f7b852ac24add6ab6
-fetched_at: "2026-09-05T04:02:09+00:00"
+fetched_at: "2026-09-05T05:10:23+00:00"
 ---
 
 <!-- heading-path: Division 1 - General -->

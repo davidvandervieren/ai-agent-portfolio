@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Weld County Oil and Gas Regulations (Mineral Resource Area of State Interest)
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH29BURE"
 sha256: 9b107439429285b4f3089f6f6ae87846d80e8176b3e64a455be6b7ab73e9db71
-fetched_at: "2026-09-04T18:37:47+00:00"
+fetched_at: "2026-09-05T05:10:45+00:00"
 ---
 
 <!-- heading-path: CHAPTER 29 - Building Regulations -->

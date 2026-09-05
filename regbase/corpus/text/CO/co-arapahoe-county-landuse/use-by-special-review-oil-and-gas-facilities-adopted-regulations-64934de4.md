@@ -9,7 +9,7 @@ doc_type: ordinance
 citation_root: Arapahoe County LDC Oil & Gas Amendment (2024)
 url: "https://files.arapahoeco.gov/Public%20Works_Development/oil%20and%20gas/OilandGasFinale2024.pdf"
 sha256: 8415426b139f07ae163b1c8de901bc79398843e086b4aa901ab269e939463ffd
-fetched_at: "2026-09-05T03:59:18+00:00"
+fetched_at: "2026-09-05T05:08:45+00:00"
 ---
 
 <!-- page: 1 -->

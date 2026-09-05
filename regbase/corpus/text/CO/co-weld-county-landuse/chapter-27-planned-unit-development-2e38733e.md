@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Weld County Oil and Gas Regulations (Mineral Resource Area of State Interest)
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH27PLUNDE"
 sha256: 9709c09bacfe4c11d226d8f0599c0a3ded6b70b05265edac22599327e7bb6bb6
-fetched_at: "2026-09-04T18:37:46+00:00"
+fetched_at: "2026-09-05T05:10:45+00:00"
 ---
 
 <!-- heading-path: CHAPTER 27 - Planned Unit Development -->

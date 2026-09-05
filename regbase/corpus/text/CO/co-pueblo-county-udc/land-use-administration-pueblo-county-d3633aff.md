@@ -8,7 +8,7 @@ title: Land Use Administration | Pueblo County
 doc_type: guidance
 url: "https://county.pueblo.org/planning-and-development/land-use-administration"
 sha256: ce69d34943b1465fed1abb971e3f6c342bcbaa050c20b848836fb3a59fbfda99
-fetched_at: "2026-09-05T04:00:17+00:00"
+fetched_at: "2026-09-05T05:10:42+00:00"
 ---
 
 Pueblo County offices will have a half day on Friday, September 4th and be closed Monday, September 7th for Labor Day.

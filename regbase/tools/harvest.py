@@ -129,15 +129,21 @@ def manifest_path(path: Path, base: Path) -> str:
 
 
 def store(source: common.Source, doc_title: str, doc_type: str, citation_root: str,
-          url: str, resp, *, write_text: bool = True) -> dict:
-    """Persist one fetched response and return its manifest record."""
+          url: str, resp, *, write_text: bool = True, write_raw: bool = True) -> dict:
+    """Persist one fetched response and return its manifest record.
+
+    `write_raw=False` is for --reextract, which replays bytes already on disk:
+    rewriting a file with its own contents is pointless work and fails outright
+    when anything else holds the file open.
+    """
     data = resp.content or b""
     ext = extract.guess_ext(resp.headers.get("Content-Type", ""), url)
     raw_path, txt_path = local_paths(source, url, doc_title, ext)
     digest = common.sha256_bytes(data)
 
-    raw_path.parent.mkdir(parents=True, exist_ok=True)
-    raw_path.write_bytes(data)
+    if write_raw:
+        raw_path.parent.mkdir(parents=True, exist_ok=True)
+        raw_path.write_bytes(data)
 
     text = ""
     if write_text:
@@ -455,6 +461,53 @@ def municode_crawl(src: common.Source, fetcher: common.Fetcher,
     return pages
 
 
+def reextract(sources: list[common.Source], manifest: dict) -> dict[str, int]:
+    """Re-run extraction over already-downloaded raw files. Touches no network.
+
+    extract.py improves as new site layouts turn up, and every improvement
+    would otherwise mean re-downloading the whole corpus to see it -- slow, and
+    rude to the government servers hosting it. The raw bytes are already on
+    disk with their content type recorded in the manifest, so replay them
+    through store(). `fetched_at` and `http_status` are carried over from the
+    original record: nothing was fetched here, and the manifest should not
+    claim otherwise.
+    """
+    by_id = {s.id: s for s in sources}
+    stats = {"rewritten": 0, "same": 0, "no_text": 0, "missing_raw": 0, "skipped": 0}
+    for key, rec in sorted(manifest.items()):
+        src = by_id.get(str(rec.get("source_id") or ""))
+        raw = str(rec.get("raw_path") or "")
+        url = str(rec.get("url") or "")
+        if src is None or not raw or not url:
+            stats["skipped"] += 1
+            continue
+        path = Path(raw)
+        if not path.is_absolute():
+            path = common.RAW_DIR / raw
+        if not path.exists():
+            stats["missing_raw"] += 1
+            continue
+
+        resp = common._FakeResponse(200, "OK", url, content=path.read_bytes(),
+                                    headers={"Content-Type": str(rec.get("content_type") or "")})
+        new = store(src, str(rec.get("title") or url), str(rec.get("doc_type") or "code"),
+                    str(rec.get("citation_root") or ""), url, resp, write_raw=False)
+        new["fetched_at"] = rec.get("fetched_at", new["fetched_at"])
+        new["http_status"] = rec.get("http_status", new["http_status"])
+        common.manifest_append(new)
+
+        before, after = int(rec.get("text_chars") or 0), new["text_chars"]
+        if not after:
+            stats["no_text"] += 1
+        elif after == before:
+            stats["same"] += 1
+        else:
+            stats["rewritten"] += 1
+            print(f"  {before:>8,} -> {after:>8,} chars  {src.state}  "
+                  f"{str(rec.get('title') or '')[:52]}")
+    return stats
+
+
 def harvest_crawl(sources: list[common.Source], fetcher: common.Fetcher,
                   manifest: dict, *, max_pages: int, max_depth: int,
                   dry_run: bool) -> dict[str, int]:
@@ -580,13 +633,16 @@ def main() -> int:
     ap.add_argument("--force", action="store_true", help="ignore ETag/Last-Modified")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--compact", action="store_true", help="compact the manifest and exit")
+    ap.add_argument("--reextract", action="store_true",
+                    help="re-run extraction over already-downloaded raw files "
+                         "(no network); use after extract.py changes")
     args = ap.parse_args()
 
     if args.compact:
         print(f"manifest compacted to {common.manifest_compact()} records")
         return 0
 
-    if not args.dry_run and not common.egress_ok():
+    if not args.dry_run and not args.reextract and not common.egress_ok():
         print(
             "\nOutbound HTTPS is blocked in this environment, so nothing can be "
             "downloaded.\n\n"
@@ -605,6 +661,16 @@ def main() -> int:
     if not sources:
         print("no sources matched those filters", file=sys.stderr)
         return 1
+
+    if args.reextract:
+        manifest = common.manifest_read()
+        print(f"{len(sources)} sources selected; "
+              f"{len(manifest)} manifest records on disk\n")
+        stats = reextract(sources, manifest)
+        print("\n" + "  ".join(f"{k}={v}" for k, v in stats.items()))
+        print(f"manifest compacted to {common.manifest_compact()} records")
+        print("next: python3 regbase/tools/build_index.py --rebuild")
+        return 0
 
     fetcher = common.Fetcher(delay=args.delay)
     manifest = common.manifest_read()

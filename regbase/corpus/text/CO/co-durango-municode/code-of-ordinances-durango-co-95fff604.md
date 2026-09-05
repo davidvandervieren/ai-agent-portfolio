@@ -9,7 +9,7 @@ title: Code of Ordinances | Durango, CO
 doc_type: code
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=COORDUCO"
 sha256: 8b5a9e61abf5dfffad762268ab8e76f50eecbee007a25b00cd52a1a1bc1f5ba1
-fetched_at: "2026-09-05T04:12:04+00:00"
+fetched_at: "2026-09-05T05:09:34+00:00"
 ---
 
 <!-- heading-path: CODE OF ORDINANCES CITY OF DURANGO, COLORADO -->

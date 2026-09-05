@@ -9,7 +9,7 @@ title: Severance Municipal Code
 doc_type: code
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=SEMUCO"
 sha256: 022ec50b3e2b24503afc717d71276bad70f115b1682319c67b190aed7d87d88e
-fetched_at: "2026-09-05T04:12:22+00:00"
+fetched_at: "2026-09-05T05:10:42+00:00"
 ---
 
 <!-- heading-path: SEVERANCE MUNICIPAL CODE -->

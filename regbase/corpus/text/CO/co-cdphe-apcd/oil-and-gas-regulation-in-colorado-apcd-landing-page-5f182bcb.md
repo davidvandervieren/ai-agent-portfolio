@@ -7,7 +7,7 @@ title: Oil and gas regulation in Colorado (APCD landing page)
 doc_type: guidance
 url: "https://cdphe.colorado.gov/apcd/oil-and-gas-regulation"
 sha256: e3044a47a6b93da78e7892f4da035b41f80e5ccc0f0e9f31fc1da278f3eed31f
-fetched_at: "2026-09-05T03:57:47+00:00"
+fetched_at: "2026-09-05T05:09:22+00:00"
 ---
 
 Spanish

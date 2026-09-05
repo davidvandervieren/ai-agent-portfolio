@@ -7,7 +7,7 @@ title: Oil and gas greenhouse gas intensity program (Regulation Number 22)
 doc_type: guidance
 url: "https://cdphe.colorado.gov/oil-and-gas-greenhouse-gas-intensity-program"
 sha256: 67abb311bf4869d51609f3cdfcec4c315f2c8f1c7289cbc134a67284528f58fe
-fetched_at: "2026-09-05T03:57:51+00:00"
+fetched_at: "2026-09-05T05:09:22+00:00"
 ---
 
 Jump to: Overview | Annual state default intensity verification factors and reports | Greenhouse gas intensity plans and annual verification reporting | News releases | Contact us

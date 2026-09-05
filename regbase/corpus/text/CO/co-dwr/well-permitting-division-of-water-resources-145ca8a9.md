@@ -7,7 +7,7 @@ title: Well Permitting | Division of Water Resources
 doc_type: guidance
 url: "https://dwr.colorado.gov/services/well-permitting"
 sha256: 0dce6f3df8a95b41313b81b49f20dc76b1910c07cc3ab6a85261624bcf09414f
-fetched_at: "2026-09-05T03:58:03+00:00"
+fetched_at: "2026-09-05T05:09:34+00:00"
 ---
 
 Well Permitting

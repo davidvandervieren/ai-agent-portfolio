@@ -10,7 +10,7 @@ doc_type: ordinance
 citation_root: Louisville Code of Ordinances Title 17, Ch. 17.68
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.16GERE_S17.16.340LINEGAAUSEST"
 sha256: c5f58387c65eae753598c4610493e2e3f985ffa3b936be7b67c385adcafea00c
-fetched_at: "2026-09-05T04:02:19+00:00"
+fetched_at: "2026-09-05T05:10:23+00:00"
 ---
 
 <!-- heading-path: Sec. 17.16.340. - Limitation on new gasoline and automobile service stations. -->

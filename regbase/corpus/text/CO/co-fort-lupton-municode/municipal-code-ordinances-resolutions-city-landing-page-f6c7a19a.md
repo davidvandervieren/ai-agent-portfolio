@@ -9,7 +9,7 @@ title: Municipal Code, Ordinances, & Resolutions (city landing page)
 doc_type: guidance
 url: "https://www.fortluptonco.gov/164/Municipal-Code-Ordinances-Resolutions"
 sha256: 7317b49d8837d0e60e99675137dd381b963749fe0140b47a26a8ddc8e9d98e50
-fetched_at: "2026-09-05T04:01:48+00:00"
+fetched_at: "2026-09-05T05:09:47+00:00"
 ---
 
 <!-- heading-path: Municipal Code, Ordinances, & Resolutions -->

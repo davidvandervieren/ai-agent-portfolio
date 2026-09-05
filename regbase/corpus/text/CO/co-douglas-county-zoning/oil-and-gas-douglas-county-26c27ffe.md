@@ -8,7 +8,7 @@ title: Oil and Gas | Douglas County
 doc_type: guidance
 url: "https://www.douglasco.gov/planning/development-review-regulations/other-regulations-processes/oil-and-gas/"
 sha256: 1691328f0ef05cce243b647104c27912b0dbce900315c4cfb4b72868075828fd
-fetched_at: "2026-09-05T04:00:53+00:00"
+fetched_at: "2026-09-05T05:09:34+00:00"
 ---
 
 Oil and Gas - Douglas County
@@ -20,6 +20,97 @@ Alert
 In observation of the federal Labor Day holiday, all County offices will be closed on Monday, Sept. 7, 2026. Offices will reopen for regular hours on Tuesday, Sept. 8. Many County services are available 24/7 on our
 Online Services webpage
 .
+Your County
+Service Finder
+Elected Officials
+Jobs
+Offices, Departments & Divisions
+Volunteer Opportunities
+Living
+Mental Health
+Mental Health Collaborative
+Mental Health Resources
+Driving
+Driver License
+Vehicle Registration
+My Property
+Open Data / Dougco Hub
+Permits (Building)
+Taxes
+Value
+Assistance
+Financial
+Food
+Medical
+Online Resource Search
+Roadways
+Gravel Roads
+Transportation Projects
+Snow and Ice Removal
+Traffic
+Getting Outdoors
+Parks, Trails, Historic Resources and Open Space Fund
+Decode DC Outdoors
+Open Space Properties & Trails
+Parks
+Rueter-Hess Recreation
+Healthy Living
+Community Health and Clinical Services
+Disease Surveillance
+Emergency Preparedness and Response
+Environmental Health
+Vital Records
+Request/File Documents
+Colorado Open Records Act (CORA)
+Marriage / Civil Union Licenses
+Passports
+Business
+My Property
+Commercial Forms
+Commercial Property
+Property Tax
+Resources
+Economic Development
+Economic Development Reports
+Open Data / Dougco Hub
+Population & Development Report
+News
+Media Contacts / PIOs
+Volunteer Opportunities
+Contact Us
+Ask a Question, Report Issues or Concerns
+Key Contacts
+Media Contacts / PIOs
+Stay Connected
+Menu
+☰
+Planning
+Development Review & Regulations
+Other Regulations & Processes
+Public Information & Assistance
+Site Development
+Subdivision
+Zoning
+Economic Development
+Agritourism
+Population & Development Report
+Quarterly Reports
+Spark DC
+Douglas County’s Red Tape Reduction Task Force
+Historic Preservation
+America 250 and Colorado 150 Celebrations in Douglas County
+Historic Preservation Board
+Landmarking
+Thriving Through Time Historic Exhibit
+Virtual Museum/History Repository
+Liquor Licensing
+Master Plans
+Water Resources
+Denver Basin Aquifer Info
+State Engineer’s Office Info
+Who Is Your Water Provider?
+Looking for something specific?
+Service Finder
 ×
 01.
 Help Me With...
@@ -63,6 +154,88 @@ Community Health and Clinical Services
 Women, Infants and Children
 03.
 ×
+× Close
+Living
+Mental Health
+Mental Health Collaborative
+Mental Health Resources
+Driving
+Driver License
+Vehicle Registration
+My Property
+Open Data / Dougco Hub
+Permits (Building)
+Taxes
+Value
+Assistance
+Financial
+Food
+Medical
+Online Resource Search
+Roadways
+Gravel Roads
+Transportation Projects
+Snow and Ice Removal
+Traffic
+Getting Outdoors
+Parks, Trails, Historic Resources and Open Space Fund
+Decode DC Outdoors
+Open Space Properties & Trails
+Parks
+Rueter-Hess Recreation
+Healthy Living
+Community Health and Clinical Services
+Disease Surveillance
+Emergency Preparedness and Response
+Environmental Health
+Vital Records
+Request/File Documents
+Colorado Open Records Act (CORA)
+Marriage / Civil Union Licenses
+Passports
+Business
+My Property
+Commercial Forms
+Commercial Property
+Property Tax
+Resources
+Economic Development
+Economic Development Reports
+Open Data / Dougco Hub
+Population & Development Report
+News
+Media Contacts / PIOs
+Volunteer Opportunities
+Contact Us
+Ask a Question, Report Issues or Concerns
+Key Contacts
+Media Contacts / PIOs
+Stay Connected
+Planning
+Development Review & Regulations
+Other Regulations & Processes
+Public Information & Assistance
+Site Development
+Subdivision
+Zoning
+Economic Development
+Agritourism
+Population & Development Report
+Quarterly Reports
+Spark DC
+Douglas County’s Red Tape Reduction Task Force
+Historic Preservation
+America 250 and Colorado 150 Celebrations in Douglas County
+Historic Preservation Board
+Landmarking
+Thriving Through Time Historic Exhibit
+Virtual Museum/History Repository
+Liquor Licensing
+Master Plans
+Water Resources
+Denver Basin Aquifer Info
+State Engineer’s Office Info
+Who Is Your Water Provider?
 Oil and Gas
 Drilling and Development Information
 Please note that the information provided below is only a portion of the information available on oil and gas drilling and production and is not all-inclusive. Douglas County does not endorse, promote or necessarily agree with the information provided on any of the linked sites and disclaims any responsibility for the information contained on the sites. The only exceptions are the
@@ -107,3 +280,22 @@ to inform property owners about potential oil and gas development in the County.
 An independent
 2011 Douglas County Oil & Gas Production Transportation Study Report
 was commissioned to thoroughly understand the potential impacts to the County’s roadway system should the County experience oil and gas development and production. This study is not intended to predict oil and gas development, rather it is intended to provide County officials with information about the potential impacts to the transportation system and associated investment needs using an informed set of development scenarios based on the best available data in other locations in the state. Douglas County intends to revisit the study when, or if, oil and gas drilling and development occurs and real-world, Douglas County-based data can be substituted for previously used data from other locations.
+Planning Phone:
+303-660-7460
+Planning Location:
+Planning Services Division
+100 Third St., 2nd Floor
+Castle Rock, CO 80104
+Email Planning:
+[email protected]
+Our Office Locations
+General Info
+303-660-7400
+Looking for
+Accessibility Statement
+Connect with Douglas County
+Copyright © 2026 Douglas County Government |
+Accessibility Statement
+|
+Privacy Policy
+by Webolutions Digital Marketing Agency

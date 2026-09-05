@@ -9,7 +9,7 @@ title: Dacono and Frederick Plan (Weld County joint planning area context)
 doc_type: policy
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTIIDAFRPL_S19-2-40DE"
 sha256: 3ee2dd105d5fff4a7d53ac9109abf1f103cc894949ba734eee0edfc4589285d3
-fetched_at: "2026-09-05T04:01:34+00:00"
+fetched_at: "2026-09-05T05:09:47+00:00"
 ---
 
 <!-- heading-path: Sec. 19-2-40. - Definitions. -->

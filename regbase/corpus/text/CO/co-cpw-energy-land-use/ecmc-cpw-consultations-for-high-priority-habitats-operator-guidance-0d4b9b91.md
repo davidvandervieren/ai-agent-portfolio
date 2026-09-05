@@ -7,7 +7,7 @@ title: ECMC-CPW Consultations for High Priority Habitats Operator Guidance
 doc_type: guidance
 url: "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/CPW_Consultations_for_High_Priority_Habitats_Guidance_v1.1_20250828_FINAL.pdf"
 sha256: 34ee5fa60bf88044ad5374c0ec329ed074da9b002731dcdb18ab8baa19d3ffe5
-fetched_at: "2026-09-05T03:58:26+00:00"
+fetched_at: "2026-09-05T05:09:31+00:00"
 ---
 
 <!-- page: 1 -->

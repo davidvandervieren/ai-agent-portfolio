@@ -7,7 +7,7 @@ title: Water Quality - Permits
 doc_type: guidance
 url: "https://cdphe.colorado.gov/water-quality-permits"
 sha256: 675d4d87b7c4dcd6d105114df9aeb05476e5667909fe9fb6543e30ec905bd047
-fetched_at: "2026-09-05T03:57:56+00:00"
+fetched_at: "2026-09-05T05:09:23+00:00"
 ---
 
 <!-- heading-path: Welcome to the Permits Section -->

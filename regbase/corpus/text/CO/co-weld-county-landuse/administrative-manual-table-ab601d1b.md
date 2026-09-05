@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Weld County Oil and Gas Regulations (Mineral Resource Area of State Interest)
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=ADMATA"
 sha256: 5f2ea659fa4e854becb567fabbfd30f6512006a45b50350ef7bbf1067c1e5805
-fetched_at: "2026-09-04T18:37:50+00:00"
+fetched_at: "2026-09-05T05:10:43+00:00"
 ---
 
 <!-- heading-path: ADMINISTRATIVE MANUAL TABLE -->

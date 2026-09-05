@@ -7,7 +7,7 @@ title: PHMSA Colorado state pipeline safety regulatory fact sheet
 doc_type: guidance
 url: "https://primis.phmsa.dot.gov/comm/FactSheets/States/CO_State_PL_Safety_Regulatory_Fact_Sheet.htm"
 sha256: 4432eff1cc36b4798132674c14bef59402494be5f5f9b07286a7c8fe3f1dff52
-fetched_at: "2026-09-05T03:58:21+00:00"
+fetched_at: "2026-09-05T05:10:34+00:00"
 ---
 
 <!-- heading-path: Pipeline Safety Stakeholder Communications -->

@@ -7,7 +7,7 @@ title: "Water quality: Construction permits"
 doc_type: guidance
 url: "https://cdphe.colorado.gov/clean-water-program/clean-water-permits/permits-by-category/water-quality-construction-permits"
 sha256: 00481fdcdb36357b00dd7a18c80837b138efca97dc1491afa531f77f358bf424
-fetched_at: "2026-09-05T03:57:57+00:00"
+fetched_at: "2026-09-05T05:09:23+00:00"
 ---
 
 <!-- heading-path: Construction compliance assistance and guidance -->

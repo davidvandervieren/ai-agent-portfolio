@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Weld County Oil and Gas Regulations (Mineral Resource Area of State Interest)
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH20IMFE"
 sha256: c9bae145fa58bca2568ff75698b95c4fa75c5eb54d5e6f1a1ea3179cb4e711bb
-fetched_at: "2026-09-04T18:37:39+00:00"
+fetched_at: "2026-09-05T05:10:43+00:00"
 ---
 
 <!-- heading-path: CHAPTER 20 - Impact Fees -->

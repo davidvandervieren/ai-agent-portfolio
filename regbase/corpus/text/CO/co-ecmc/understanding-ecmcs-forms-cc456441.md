@@ -7,7 +7,7 @@ title: Understanding ECMC's Forms
 doc_type: guidance
 url: "https://ecmc.colorado.gov/understanding-ecmcs-forms"
 sha256: 6da92d5a05cd4bf04958cbb8e524b31f32b6230234f1ea9dbec8be436a4a89b4
-fetched_at: "2026-09-05T04:05:36+00:00"
+fetched_at: "2026-09-05T05:09:40+00:00"
 ---
 
 ECMC collects and verifies information from operators and members of the public to provide effective regulatory oversight and ensure that operators take all required steps to protect public health, safety, welfare, the environment and wildlife resources. To do this, an official communication mechanism is needed to establish a verifiable record for inspections.

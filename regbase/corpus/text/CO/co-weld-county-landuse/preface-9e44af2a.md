@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Weld County Oil and Gas Regulations (Mineral Resource Area of State Interest)
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=COCOHORUCHCOWECO_PR"
 sha256: 52f6264c5e98ee46d55084ef1a40e46da7a4ceda1ed3d427ab3c3de36fedf268
-fetched_at: "2026-09-04T18:37:22+00:00"
+fetched_at: "2026-09-05T05:10:48+00:00"
 ---
 
 <!-- heading-path: PREFACE -->

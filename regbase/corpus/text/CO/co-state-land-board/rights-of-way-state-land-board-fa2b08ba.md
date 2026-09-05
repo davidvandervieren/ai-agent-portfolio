@@ -7,7 +7,7 @@ title: Rights-of-way | State Land Board
 doc_type: guidance
 url: "https://slb.colorado.gov/lease/rights-of-way"
 sha256: 337169b32c1ae57373c83ace0ed2cdb5d32f4be4408e83343f33c248bfb43d66
-fetched_at: "2026-09-05T03:58:04+00:00"
+fetched_at: "2026-09-05T05:10:42+00:00"
 ---
 
 The State Land Board accommodates rights-of-way on state trust land in a manner that minimizes encumbrances while preserving long-term real estate value, protecting natural values, allowing multiple uses and achieving appropriate returns. For questions or assistance, please contact David Rodenberg - Right-of-way and Tower Site Leasing Manager at 720-854-3328 ( david.rodenberg@state.co.us ).

@@ -8,7 +8,7 @@ title: Comments on Delta County Draft Land Use Regulation (Oil & Gas working gro
 doc_type: guidance
 url: "https://westernslopeconservation.org/wp-content/uploads/2020/08/Delta-County-Land-Use-Comments-1.pdf"
 sha256: 7a6d9cb06c3b86609f7842d9896e6a3948fdaf0f8c216f3428b54b073ffee8a2
-fetched_at: "2026-09-05T04:00:51+00:00"
+fetched_at: "2026-09-05T05:09:32+00:00"
 ---
 
 <!-- page: 1 -->

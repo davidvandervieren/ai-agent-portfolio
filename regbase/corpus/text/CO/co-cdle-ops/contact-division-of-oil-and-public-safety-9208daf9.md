@@ -7,7 +7,7 @@ title: Contact | Division of Oil and Public Safety
 doc_type: guidance
 url: "https://ops.colorado.gov/contact"
 sha256: 42b5af23c0d5fd15d0c0009a9761e9d2c47ae0b09b2f9b2b20e30e078bca45e3
-fetched_at: "2026-09-05T04:09:31+00:00"
+fetched_at: "2026-09-05T05:09:22+00:00"
 ---
 
 <!-- heading-path: Error message -->

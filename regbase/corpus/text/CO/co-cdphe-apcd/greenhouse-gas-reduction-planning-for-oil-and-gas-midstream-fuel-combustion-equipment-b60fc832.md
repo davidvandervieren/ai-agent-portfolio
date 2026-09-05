@@ -7,7 +7,7 @@ title: Greenhouse gas reduction planning for oil and gas midstream fuel combusti
 doc_type: guidance
 url: "https://cdphe.colorado.gov/midstreamGHGplanning"
 sha256: f5143920bde28ac7b39349337dcc7bcb91dea0c42f871c7f97e27fc0a0565ce6
-fetched_at: "2026-09-05T03:57:53+00:00"
+fetched_at: "2026-09-05T05:09:22+00:00"
 ---
 
 Jump to: First annual Midstream Segment Information Report | Midstream fuel combustion equipment annual reports | Greenhouse gas emissions from midstream | How community input informed the Air Quality Control Commission’s midstream rule | Midstream Steering Committee | Midstream Segment Emission Reduction Report | Past public participation opportunities | Interactive map: Midstream locations, disproportionately impacted communities, and 2024 emissions | Company emission reduction plans | Press releases | Contact us

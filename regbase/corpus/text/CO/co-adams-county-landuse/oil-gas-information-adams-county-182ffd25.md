@@ -8,7 +8,7 @@ title: Oil & Gas Information | Adams County
 doc_type: guidance
 url: "https://adamscountyco.gov/our-county/community-economic-development/environmental-programs/oil-gas/"
 sha256: 8b14c2ca3f16cd8d1b704770041e532a7432660beccc9ae5253e00b598ee3ffd
-fetched_at: "2026-09-05T03:58:42+00:00"
+fetched_at: "2026-09-05T05:08:41+00:00"
 ---
 
 <!-- heading-path: Current Oil & Gas Information -->

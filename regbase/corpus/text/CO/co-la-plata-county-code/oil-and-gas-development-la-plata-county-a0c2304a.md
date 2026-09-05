@@ -8,7 +8,7 @@ title: Oil and Gas Development | La Plata County
 doc_type: guidance
 url: "https://www.lpcgov.org/services/community_development_services/planning/oil_and_gas_development.php"
 sha256: 4a361e710acf4d7aa023dc2f538962d315e6d8a0504b5c9b7903a5c68290e705
-fetched_at: "2026-09-05T04:07:27+00:00"
+fetched_at: "2026-09-05T05:10:05+00:00"
 ---
 
 Begin Feasibility Evaluation now

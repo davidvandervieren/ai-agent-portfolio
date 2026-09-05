@@ -8,7 +8,7 @@ title: Well Permits | Gunnison County
 doc_type: guidance
 url: "https://www.gunnisoncounty.org/426/Well-Permits"
 sha256: 79137fadc12a508bd776152b738fb72e8c17e73682b77c2982ca38ebb8c0e1e7
-fetched_at: "2026-09-05T04:00:53+00:00"
+fetched_at: "2026-09-05T05:09:54+00:00"
 ---
 
 <!-- heading-path: Well Permits -->

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Weld County Oil and Gas Regulations (Mineral Resource Area of State Interest)
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG"
 sha256: 82608e9b3a66a6ceaa0d477c0affabce4417bcfc473198f859c1ca95104d834c
-fetched_at: "2026-09-04T18:37:38+00:00"
+fetched_at: "2026-09-05T05:10:43+00:00"
 ---
 
 <!-- heading-path: CHAPTER 19 - Coordinated Planning Agreements -->

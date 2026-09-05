@@ -236,12 +236,40 @@ class Fetcher:
         self.timeout = timeout
         self.retries = retries
         self._last: dict[str, float] = {}
-        self.s = requests.Session()
-        self.s.headers.update({
+        self._headers = {
             "User-Agent": USER_AGENT,
             "Accept": "text/html,application/xhtml+xml,application/pdf,*/*",
             "Accept-Language": "en-US,en;q=0.9",
-        })
+        }
+        self.s = requests.Session()
+        self.s.headers.update(self._headers)
+        self._os_trust_hosts: set[str] = set()
+        self._os_session = None
+
+    def _os_trust(self):
+        """A session verifying against the OS trust store instead of certifi.
+
+        Several state sites -- www.ose.nm.gov among them -- serve an incomplete
+        certificate chain. Windows and most Linux distributions repair it from
+        their own store, but certifi cannot, so requests raises
+        CERTIFICATE_VERIFY_FAILED while a browser loads the page fine. This is
+        still full verification: the fallback swaps the trust anchor set, it
+        never disables checking.
+        """
+        import ssl
+        import requests
+
+        if self._os_session is None:
+            class _OSTrustAdapter(requests.adapters.HTTPAdapter):
+                def init_poolmanager(self, *args, **kwargs):
+                    kwargs["ssl_context"] = ssl.create_default_context()
+                    return super().init_poolmanager(*args, **kwargs)
+
+            session = requests.Session()
+            session.headers.update(self._headers)
+            session.mount("https://", _OSTrustAdapter())
+            self._os_session = session
+        return self._os_session
 
     def _wait(self, host: str) -> None:
         last = self._last.get(host, 0.0)
@@ -272,9 +300,21 @@ class Fetcher:
         backoff = 2.0
         for attempt in range(self.retries + 1):
             self._wait(host)
+            session = self._os_trust() if host in self._os_trust_hosts else self.s
             try:
-                r = self.s.get(url, headers=headers, timeout=self.timeout,
-                               stream=stream, allow_redirects=True)
+                r = session.get(url, headers=headers, timeout=self.timeout,
+                                stream=stream, allow_redirects=True)
+            except requests.exceptions.SSLError as exc:
+                if host not in self._os_trust_hosts:
+                    # certifi has no path to this chain; try the OS trust store
+                    # before writing the host off as unreachable.
+                    self._os_trust_hosts.add(host)
+                    continue
+                if attempt == self.retries:
+                    return _FakeResponse(0, str(exc), url)
+                time.sleep(backoff)
+                backoff *= 2
+                continue
             except requests.RequestException as exc:
                 if attempt == self.retries:
                     return _FakeResponse(0, str(exc), url)

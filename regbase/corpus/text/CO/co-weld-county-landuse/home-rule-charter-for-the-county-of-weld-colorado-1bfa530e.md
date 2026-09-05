@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Weld County Oil and Gas Regulations (Mineral Resource Area of State Interest)
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO"
 sha256: 70ae1882d21459e1783f1c6a695ba0f57e0e928bde62eece31f359d629c4f1e9
-fetched_at: "2026-09-04T18:37:22+00:00"
+fetched_at: "2026-09-05T05:10:50+00:00"
 ---
 
 <!-- heading-path: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO -->

@@ -9,7 +9,7 @@ title: Oil & Gas | Erie
 doc_type: guidance
 url: "https://erieco.gov/129/Oil-Gas"
 sha256: 70539682243b3ce53c5ed784b5fa2c7f196d5e0959a7b1401a817de73c8b025c
-fetched_at: "2026-09-05T04:01:15+00:00"
+fetched_at: "2026-09-05T05:09:40+00:00"
 ---
 
 <!-- heading-path: Oil & Gas -->
