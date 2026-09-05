@@ -27,7 +27,7 @@ import re
 import sys
 from collections import deque
 from pathlib import Path
-from urllib.parse import quote, urlencode, urljoin, urlsplit, urlunsplit
+from urllib.parse import parse_qs, quote, urlencode, urljoin, urlsplit, urlunsplit
 
 import common
 import extract
@@ -192,6 +192,7 @@ def harvest_documents(sources: list[common.Source], fetcher: common.Fetcher,
                       manifest: dict, *, force: bool, dry_run: bool,
                       limit: int) -> dict[str, int]:
     stats = {"fetched": 0, "unchanged": 0, "failed": 0, "skipped": 0, "text": 0}
+    mc_cache: dict = {}                       # municode product/job ids, per code
     for src in sources:
         docs = list(src.docs())
         if not docs:
@@ -205,16 +206,29 @@ def harvest_documents(sources: list[common.Source], fetcher: common.Fetcher,
                 continue
             key = f"{src.id}::{doc.url}"
             prev = manifest.get(key, {})
-            if prev and not force and prev.get("http_status") == 200:
-                pass  # still re-check with a conditional GET below
 
             if dry_run:
                 print(f"  would GET {doc.url}")
                 stats["skipped"] += 1
                 continue
 
-            resp = fetcher.get(doc.url, etag=prev.get("etag", ""),
-                               last_modified=prev.get("last_modified", ""))
+            if "library.municode.com" in doc.url:
+                resp = municode_document(fetcher, doc.url, mc_cache)
+                if resp is None:
+                    why = ("names no nodeId, use --crawl"
+                           if "nodeId=" not in doc.url
+                           else "not resolvable on municode — check the URL")
+                    print(f"  ~ {doc.title[:52]} — {why}")
+                    stats["skipped"] += 1
+                    continue
+            else:
+                # --force suppresses the conditional GET, so a 200 comes back
+                # with a body and the text is extracted again. That is the way
+                # to re-extract a whole state after extract.py improves.
+                resp = fetcher.get(
+                    doc.url,
+                    etag="" if force else prev.get("etag", ""),
+                    last_modified="" if force else prev.get("last_modified", ""))
             if resp.status_code == 304:
                 print(f"  = 304 {doc.title[:60]}")
                 stats["unchanged"] += 1
@@ -358,6 +372,36 @@ def _mc_subtree(fetcher: common.Fetcher, product_id, job_id, node_id: str) -> li
     if isinstance(result, dict):
         return result.get("Docs") or []
     return result or []
+
+
+def municode_document(fetcher: common.Fetcher, url: str, cache: dict):
+    """Fetch one curated municode document URL through the JSON API.
+
+    Registry entries point at real SPA URLs like
+        .../codes/charter_and_county_code?nodeId=CH23ZO
+    which over plain HTTP return the same empty shell the crawler hits. They
+    also share a manifest key with the crawler's output, so fetching one
+    normally would overwrite a harvested chapter with 6 KB of Angular.
+
+    Returns a response carrying the section's real HTML, or None when the URL
+    names no node (a bare landing page — that is a job for --crawl).
+    `cache` memoizes the product/job lookup per code, so a source with six
+    curated sections still resolves its ids once.
+    """
+    node_id = parse_qs(urlsplit(url).query).get("nodeId", [""])[0]
+    if not node_id:
+        return None
+    base = url.split("?")[0]
+    if base not in cache:
+        cache[base] = municode_ids(fetcher, base)
+    product_id, job_id, _ = cache[base]
+    if not product_id or not job_id:
+        return None
+    docs = _mc_subtree(fetcher, product_id, job_id, node_id)
+    if not docs:
+        return None
+    return common._FakeResponse(200, "OK", url, content=_mc_html(docs),
+                                headers={"Content-Type": "text/html; charset=utf-8"})
 
 
 def municode_crawl(src: common.Source, fetcher: common.Fetcher,

@@ -31,6 +31,12 @@ _CHROME_PATTERNS = re.compile(
 
 _HEADING_TAGS = ("h1", "h2", "h3", "h4", "h5", "h6")
 
+# Structural elements are never chrome, whatever their class says. Acquia CMS
+# -- which colorado.gov runs -- puts class="acquia-cms-toolbar ..." on <body>,
+# and `toolbar` matches _CHROME_PATTERNS. Decomposing <body> deletes the entire
+# page: ECMC's UIC page came out as 78 characters of a 5,074-character page.
+_NEVER_STRIP = ("html", "body")
+
 
 def _collapse(text: str) -> str:
     text = text.replace("\xa0", " ").replace("​", "")
@@ -50,14 +56,15 @@ def html_to_text(html: str, base_url: str = "") -> str:
         soup = BeautifulSoup(html, "html.parser")
 
     for sel in _CHROME_SELECTORS:
-        for el in soup.find_all(sel):
+        for el in list(soup.find_all(sel)):
             el.decompose()
-    for el in soup.find_all(attrs={"class": _CHROME_PATTERNS}):
-        el.decompose()
-    for el in soup.find_all(attrs={"id": _CHROME_PATTERNS}):
-        el.decompose()
-    for el in soup.find_all(attrs={"role": re.compile(r"^(navigation|banner|search)$", re.I)}):
-        el.decompose()
+    for attr, pattern in (("class", _CHROME_PATTERNS),
+                          ("id", _CHROME_PATTERNS),
+                          ("role", re.compile(r"^(navigation|banner|search)$", re.I))):
+        for el in list(soup.find_all(attrs={attr: pattern})):
+            if el.name in _NEVER_STRIP:
+                continue
+            el.decompose()
 
     main = (soup.find("main")
             or soup.find(attrs={"role": "main"})

@@ -4,12 +4,11 @@ jurisdiction: Weld County, CO
 state: CO
 county: Weld
 agency: Weld County Planning Services / Board of County Commissioners
-title: CHAPTER 22 - Comprehensive Plan
+title: Chapter 22 - Comprehensive Plan
 doc_type: code
-citation_root: Weld County Oil and Gas Regulations (Mineral Resource Area of State Interest)
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH22COPL"
 sha256: a4ebf892a608b510dc008a74e7b262a27233872d700c09edf77d45964ad05eff
-fetched_at: "2026-09-04T18:37:41+00:00"
+fetched_at: "2026-09-05T04:09:40+00:00"
 ---
 
 <!-- heading-path: CHAPTER 22 - Comprehensive Plan -->

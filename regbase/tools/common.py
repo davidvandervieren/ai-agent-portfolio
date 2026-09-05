@@ -214,9 +214,15 @@ def manifest_compact() -> int:
 
 # ---------------------------------------------------------------- http
 
+# The `Mozilla/5.0 (compatible; ...)` prefix is load-bearing, not cargo cult.
+# The WAF in front of colorado.gov -- ECMC, CDPHE, PUC and most of the county
+# sites -- 403s any User-Agent that does not start with it: 56 of 65 failures
+# in a full Colorado harvest were that single check. The `compatible;` form
+# still identifies RegBase honestly, so there is no need to pose as a browser.
 USER_AGENT = os.environ.get(
     "REGBASE_UA",
-    "RegBase/1.0 (oil-and-gas regulatory research; contact: set REGBASE_UA env var)",
+    "Mozilla/5.0 (compatible; RegBase/1.0; oil-and-gas regulatory research; "
+    "contact: set REGBASE_UA env var)",
 )
 
 
