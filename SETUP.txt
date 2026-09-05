@@ -1,0 +1,47 @@
+RegBase - setup
+===============
+
+Extract this so you end up with:  C:\RegBase\regbase\...
+(If you used "Extract All" on RegBase.zip, that is what you already have.)
+
+Everything is current - no patches to apply.
+
+1. Open PowerShell and run:
+
+     cd C:\RegBase
+     py -m pip install "pyyaml>=6.0.2"
+     py -m pip install jsonschema requests beautifulsoup4 lxml pypdf pdfminer.six shapely pyproj
+
+2. Point the raw corpus somewhere outside any synced folder:
+
+     [Environment]::SetEnvironmentVariable("REGBASE_RAW", "C:\RegBaseCorpus\raw", "User")
+
+   Then CLOSE the terminal and open a new one (env vars only apply to new shells).
+
+3. Build and check:
+
+     cd C:\RegBase
+     py regbase\tools\build_registry_json.py --indent 1
+     py regbase\tools\build_index.py --rebuild
+     py regbase\tools\query.py stack --state CO --county Weld --asset compressor_station
+
+   Expect: 209 sources / 534 documents / 134 permits / 70 people,
+   then 53 permits across 32 authorities.
+   "chunks: 0" is correct - nothing has been harvested yet.
+
+4. First crawl (one jurisdiction, watch the page count):
+
+     py regbase\tools\harvest.py --source-id co-weld-county-landuse --crawl --max-pages 50
+     py regbase\tools\build_index.py --rebuild
+     py regbase\tools\query.py search "setback" --county Weld -n 5
+
+5. Then the rest of Colorado:
+
+     py regbase\tools\harvest.py --state CO --delay 1.5
+
+Tip: to land in the project on every new PowerShell window:
+
+     Add-Content $PROFILE "`nSet-Location C:\RegBase"
+
+Docs: regbase\README.md, regbase\docs\windows-setup.md (troubleshooting),
+      regbase\docs\coverage-and-next-steps.md (what is missing, Texas above all)
