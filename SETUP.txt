@@ -43,5 +43,13 @@ Tip: to land in the project on every new PowerShell window:
 
      Add-Content $PROFILE "`nSet-Location C:\RegBase"
 
+Tracker: RegBase-tracker.html on the Desktop shows coverage, failures and
+thin extractions. Regenerate it with
+
+     py regbase\tools\tracker.py --open
+
+or double-click "RegBase Tracker (live).cmd" to keep it refreshing every 20
+seconds - run that while a harvest is going and the page follows along.
+
 Docs: regbase\README.md, regbase\docs\windows-setup.md (troubleshooting),
       regbase\docs\coverage-and-next-steps.md (what is missing, Texas above all)
