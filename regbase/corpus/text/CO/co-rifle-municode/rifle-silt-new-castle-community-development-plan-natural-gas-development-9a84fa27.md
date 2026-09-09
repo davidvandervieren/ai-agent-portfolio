@@ -8,8 +8,8 @@ agency: City of Rifle
 title: Rifle, Silt, New Castle Community Development Plan (natural gas development)
 doc_type: policy
 url: "https://www.garfieldcountyco.gov/oil-gas/rifle-silt-new-castle-community-development-plan/"
-sha256: 9113be4fa922fe46a320fb9f3d549e0899c7c48dfe7b4d6f9b3aae28901606af
-fetched_at: "2026-09-05T05:10:42+00:00"
+sha256: fa43b614d8d4a96fe04f50358ce0a354ff2aeca0c9c1d2745650756b1b0d0419
+fetched_at: "2026-09-08T17:39:06+00:00"
 ---
 
 <!-- heading-path: Rifle, Silt, New Castle Community Development Plan -->

@@ -8,7 +8,7 @@ title: Larimer County's 1041 Regulations - comparison memo
 doc_type: guidance
 url: "https://www.larimer.org/sites/default/files/uploads/2021/1041_regulations_comparison_050521.pdf"
 sha256: fb32f155f403f3b72b21693d3823328bde61c2efff741edb1431024225ae06e8
-fetched_at: "2026-09-05T05:10:06+00:00"
+fetched_at: "2026-09-08T17:35:26+00:00"
 ---
 
 <!-- page: 1 -->

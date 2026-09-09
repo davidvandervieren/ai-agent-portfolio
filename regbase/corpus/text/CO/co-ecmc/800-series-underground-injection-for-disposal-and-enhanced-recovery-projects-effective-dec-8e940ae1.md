@@ -8,7 +8,7 @@ doc_type: regulation
 citation_root: 2 CCR 404-1, 800 Series
 url: "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/800%20Series%20-%20Underground%20Injection%20for%20Disposal%20and%20Enhanced%20Recovery%20Projects_Effective%20December%2015,%202024.pdf"
 sha256: 335268d696bd9cd5e1d771be86f511070c462078bab88d5a2b4fbcfff367cded
-fetched_at: "2026-09-05T05:09:40+00:00"
+fetched_at: "2026-09-08T17:28:15+00:00"
 ---
 
 <!-- page: 1 -->

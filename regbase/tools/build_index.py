@@ -243,6 +243,7 @@ DROP_ORDER = [
 TARGET_CHARS = 1200
 OVERLAP_CHARS = 150
 MIN_CHARS = 120           # below this a trailing fragment is folded backwards
+MIN_INDEXABLE_CHARS = 200 # a document body below this is a shell, not content
 
 HEADING_PATH_RE = re.compile(r"<!--\s*heading[-_]path\s*:\s*(.*?)\s*-->", re.I)
 MD_HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*#*\s*$")
@@ -591,35 +592,6 @@ def upsert_people(con: sqlite3.Connection, records: list[dict]) -> int:
     return len(records)
 
 
-def _documents_to_index(sources: list[common.Source],
-                        manifest: dict[str, dict]) -> Iterator[tuple[common.Source, list]]:
-    """Yield (source, documents) — registry entries first, then harvested pages.
-
-    `--crawl` pulls whole codes: 31 chapters of the Weld County code come down
-    as 31 files, but the registry names only the three sections a human curated.
-    Indexing the registry alone would therefore drop almost everything a crawl
-    fetched, so every manifest record that produced extracted text is indexed
-    too. Registry documents come first for each source, and the caller's
-    (source_id, url) dedup keeps the curated title and citation_root when a
-    crawled page covers the same URL.
-    """
-    harvested: dict[str, list] = {}
-    for key, rec in manifest.items():
-        url = str(rec.get("url") or "")
-        source_id = str(rec.get("source_id") or key.split("::", 1)[0])
-        if not url or not rec.get("text_path"):
-            continue
-        harvested.setdefault(source_id, []).append(common.Document(
-            title=str(rec.get("title") or url),
-            url=url,
-            doc_type=str(rec.get("doc_type") or "code"),
-            format="html",
-            citation_root=str(rec.get("citation_root") or ""),
-        ))
-    for s in sources:
-        yield s, list(s.docs()) + harvested.get(s.id, [])
-
-
 def index_documents(con: sqlite3.Connection, sources: list[common.Source],
                     manifest: dict[str, dict], verbose: bool = False) -> dict:
     """Upsert documents, then (re)chunk any whose extracted text changed."""
@@ -627,8 +599,8 @@ def index_documents(con: sqlite3.Connection, sources: list[common.Source],
              "chunks": 0, "missing_text": 0}
     seen_keys: set[tuple[str, str]] = set()
 
-    for s, source_docs in _documents_to_index(sources, manifest):
-        for d in source_docs:
+    for s in sources:
+        for d in s.docs():
             url = d.url or ""
             key = (s.id, url)
             if key in seen_keys:
@@ -691,6 +663,22 @@ def index_documents(con: sqlite3.Connection, sources: list[common.Source],
             except OSError as exc:                       # unreadable file
                 if verbose:
                     print(f"  ! cannot read {text_p}: {exc}", file=sys.stderr)
+                continue
+
+            # Refuse to index a JavaScript shell as if it were an ordinance.
+            # A harvest before the thin-extraction guard existed wrote ~40 such
+            # files - 16 characters each, titled things like "Chapter 18 - Oil
+            # and Gas Operations". Chunked, they become citable results with no
+            # regulation behind them, which is worse than a missing document
+            # because it looks answered. Front matter alone runs ~400 chars, so
+            # the floor is measured on the body.
+            body_only = text.split("---", 2)[-1].strip()
+            if len(body_only) < MIN_INDEXABLE_CHARS:
+                stats["too_thin"] = stats.get("too_thin", 0) + 1
+                con.execute("DELETE FROM chunks WHERE document_id=?", (doc_id,))
+                if verbose:
+                    print(f"  ! skipping {text_p.name}: only {len(body_only)} chars "
+                          f"of body - not indexable content", file=sys.stderr)
                 continue
 
             pieces = chunk_document(text)
@@ -796,7 +784,9 @@ def main(argv: Optional[list[str]] = None) -> int:
     print(f"  permits           : {n_permits}")
     print(f"  people            : {n_people}")
     print(f"  text files found  : {stats['with_text']}  "
-          f"(re-chunked {stats['chunked']}, unchanged {stats['skipped_unchanged']})")
+          f"(re-chunked {stats['chunked']}, unchanged {stats['skipped_unchanged']}"
+          + (f", SKIPPED AS TOO THIN {stats['too_thin']}" if stats.get("too_thin") else "")
+          + ")")
     print(f"  chunks            : {q('SELECT COUNT(*) FROM chunks')}"
           f"  (fts rows: {q('SELECT COUNT(*) FROM chunks_fts')})")
     if stats["with_text"] == 0:

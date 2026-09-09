@@ -1,0 +1,20 @@
+Extract this zip over C:\RegBase  (choose "Replace the files in the destination")
+
+You should end up overwriting files under C:\RegBase\regbase\...
+
+Then:
+
+  cd C:\RegBase
+  py regbase\tools\build_registry_json.py --indent 1
+  py regbase\tools\build_index.py --rebuild
+
+Expect 383 sources with TX=138 (was 209 / TX=3).
+
+Then commit and push:
+
+  cd C:\RegBase
+  git add -A
+  git commit -m "Texas registry, officials profiles, harvest and indexing fixes"
+  git push
+
+Nothing else is needed - this replaces the patch.

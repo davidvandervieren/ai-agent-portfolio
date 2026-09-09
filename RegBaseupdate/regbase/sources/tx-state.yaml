@@ -1,0 +1,1425 @@
+# regbase/sources/tx-state.yaml
+#
+# Texas STATE-LEVEL (statewide agency) regulatory records for oil & gas
+# midstream projects: TCEQ (air/water/waste/UIC), RRC gaps not already
+# covered in tx-west.yaml/tx-east.yaml, THC Antiquities Code, GLO,
+# TxDOT, TPWD, Groundwater Conservation Districts, Texas811 / common
+# carrier statutes.
+#
+# Does NOT duplicate tx-west.yaml or tx-east.yaml (owned by other
+# agents) — this file is additive, state-level only.
+#
+# See tx-state.notes.md for HB 40 municipal-preemption summary,
+# RRC-vs-TCEQ jurisdictional split, Edwards Aquifer / SWR 36 triggers,
+# and the explicit list of items NOT verified this run.
+
+sources:
+  - id: tx-tceq-air-pbr-oil-gas
+    jurisdiction_level: state
+    state: TX
+    name: "TCEQ Air Permits by Rule for Oil and Gas Handling and Production Facilities (30 TAC 106.352, 106.359, 106.511, 106.512)"
+    agency: "Texas Commission on Environmental Quality (TCEQ)"
+    authority_type:
+      - air_quality
+    applies_to:
+      - well_pad
+      - tank_battery
+      - compressor_station
+      - gas_processing_plant
+      - metering
+      - midstream_pipeline
+    code_platform: state_register
+    landing_url: "https://www.tceq.texas.gov/permitting/air/permitbyrule/subchapter-o/oil_and_gas.html"
+    documents:
+      - title: "Air PBR 106.352: Oil and Gas Handling and Production Facilities"
+        url: "https://www.tceq.texas.gov/permitting/air/permitbyrule/subchapter-o/oil_and_gas.html"
+        doc_type: regulation
+        format: html
+        citation_root: "30 TAC §106.352"
+        notes: "Permits by rule all stationary facilities/groups of facilities at a site handling gases/liquids from production, conditioning, processing, and pipeline transfer of crude oil, natural gas, condensate, produced water, subject to 30 TAC §106.4 general conditions. TCEQ tiered approach: de minimis exclusion -> historical authorization -> PBR -> standard permit -> case-by-case NSR permit."
+      - title: "Air PBR 106.359: Planned Maintenance, Startup, and Shutdown (MSS) at Oil and Gas Handling and Production Facilities"
+        url: "https://www.tceq.texas.gov/permitting/air/permitbyrule/subchapter-o/mss-oil-gas.html"
+        doc_type: regulation
+        format: html
+        citation_root: "30 TAC §106.359"
+      - title: "Air PBR 106.512: Stationary Engines and Turbines"
+        url: "https://www.tceq.texas.gov/permitting/air/permitbyrule/subchapter-w/stationary_eng_turb.html"
+        doc_type: regulation
+        format: html
+        citation_root: "30 TAC §106.512"
+        notes: "Used to authorize generators/compressor engines remaining at a site >12 months, e.g. diesel/gas-fired generators or compressor engines without grid power. Engines <240 hp need not be registered but must meet fuel/air-quality paragraphs; larger units register via Form PI-7."
+      - title: "Air PBR 106.511: Portable and Emergency Engines and Turbines"
+        url: "https://www.tceq.texas.gov/permitting/air/permitbyrule/subchapter-w/portable_power.html"
+        doc_type: regulation
+        format: html
+        citation_root: "30 TAC §106.511"
+      - title: "MSS Oil & Gas FAQ (PDF)"
+        url: "https://www.tceq.texas.gov/downloads/permitting/air/nsr/oil-gas/mss-og-faq.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "Sour Gas Handling Compliance"
+        url: "https://www.tceq.texas.gov/assistance/industry/oil-and-gas/sour-gas-handling-compliance"
+        doc_type: guidance
+        format: html
+        notes: "Standard permit and PBR both have additional H2S-fugitive-emission conditions for sour-gas facilities within 1/4 mile of an off-plant receptor."
+      - title: "TCEQ Form 10228 - PI-7 Registration for Permits by Rule (instructions + form, PDF)"
+        url: "https://www.tceq.texas.gov/downloads/permitting/air/forms/pbr/10228.pdf/view"
+        doc_type: form
+        format: pdf
+      - title: "TCEQ Form 20182 - PI-7-CERT Registration and Certification for Permits by Rule (Word)"
+        url: "https://www.tceq.texas.gov/downloads/permitting/air/forms/pbr/20182.docx/view"
+        doc_type: form
+        format: doc
+      - title: "Numerical Index to Air Permits by Rule"
+        url: "https://www.tceq.texas.gov/permitting/air/permitbyrule/pbr-numerical-index"
+        doc_type: regulation
+        format: html
+    permits:
+      - name: "PBR 106.352 registration (Oil and Gas Handling and Production Facilities)"
+        trigger: "New or modified stationary oil/gas handling, conditioning, processing, or pipeline-transfer facility not eligible for de minimis exclusion or historical exemption"
+        form_id: "PI-7 (Form 10228) or PI-7-CERT (Form 20182), submitted via STEERS"
+        form_url: "https://www.tceq.texas.gov/downloads/permitting/air/forms/pbr/10228.pdf/view"
+        typical_timeline_days: "Registration filed within 10 days after construction begins (self-certifying PBR, not a pre-construction approval); TCEQ review/confirmation timing not verified"
+        decision_body: "TCEQ Air Permits Division (registration/self-certification, not a discretionary permit)"
+        public_hearing: false
+      - name: "PBR 106.359 registration (Maintenance, Startup, Shutdown emissions)"
+        trigger: "Planned MSS emission events at an oil & gas handling/production facility"
+        form_id: "PI-7 (per facility type), submitted via STEERS"
+        decision_body: "TCEQ Air Permits Division"
+        public_hearing: false
+      - name: "PBR 106.512 registration (stationary engines/turbines >=240 hp)"
+        trigger: "Stationary reciprocating engine or gas turbine (e.g. compressor-station drivers, field generators) remaining on site >12 months"
+        form_id: "PI-7, Table 29 (reciprocating engines) or Table 31 (gas turbines)"
+        typical_timeline_days: "Filed within 10 days after construction begins"
+        decision_body: "TCEQ Air Permits Division"
+        public_hearing: false
+    update_watch:
+      check_urls:
+        - "https://www.tceq.texas.gov/permitting/air/permitbyrule/subchapter-o/oil_and_gas.html"
+        - "https://www.tceq.texas.gov/permitting/air/permitbyrule/pbr-numerical-index"
+      cadence: quarterly
+      method: agenda_scan
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-tceq-air-standard-permit-116620
+    jurisdiction_level: state
+    state: TX
+    name: "TCEQ Air Quality Standard Permit for Oil and Gas Handling and Production Facilities (30 TAC 116.620)"
+    agency: "Texas Commission on Environmental Quality (TCEQ)"
+    authority_type:
+      - air_quality
+    applies_to:
+      - well_pad
+      - tank_battery
+      - compressor_station
+      - gas_processing_plant
+      - midstream_pipeline
+    code_platform: state_register
+    landing_url: "https://www.tceq.texas.gov/permitting/air/newsourcereview/chemical/oil_and_gas_sp.html"
+    documents:
+      - title: "Air Quality Standard Permit for Oil and Gas Handling and Production Facilities"
+        url: "https://www.tceq.texas.gov/permitting/air/newsourcereview/chemical/oil_and_gas_sp.html"
+        doc_type: regulation
+        format: html
+        citation_root: "30 TAC §116.620"
+        notes: "Pre-established technical conditions/limits for eligible oil & gas facilities that exceed PBR thresholds but don't need case-by-case NSR. Applies to sites handling gases/liquids from production, conditioning, processing and pipeline transfer of crude oil, natural gas, condensate, produced water. Additional conditions for fugitive emissions, sour field gas combustion; facilities handling sour gas within 1/4 mile of an off-plant receptor barred from H2S fugitive emissions absent inspect/repair program."
+      - title: "Air Quality Standard Permit for Oil and Gas Handling and Production Facilities (announcement PDF)"
+        url: "https://www.tceq.texas.gov/assets/public/permitting/air/Announcements/oilgas-sp.pdf"
+        doc_type: regulation
+        format: pdf
+    permits:
+      - name: "30 TAC 116.620 Standard Permit registration"
+        trigger: "Oil & gas handling/production facility whose emissions exceed PBR eligibility but that meets standard-permit technical conditions"
+        form_id: "PI-1S / registration via STEERS"
+        typical_timeline_days: "Not verified"
+        decision_body: "TCEQ Air Permits Division"
+        public_hearing: false
+      - name: "Notify/register requirement (all standard permits filed online since Feb 1, 2018)"
+        trigger: "Any TCEQ standard-permit action statewide"
+        form_id: "STEERS e-permitting"
+        decision_body: "TCEQ"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-tceq-air-title-v-gop514
+    jurisdiction_level: state
+    state: TX
+    name: "TCEQ Federal Operating Permit / Title V and Oil and Gas General Operating Permit (GOP) No. 514"
+    agency: "Texas Commission on Environmental Quality (TCEQ)"
+    authority_type:
+      - air_quality
+    applies_to:
+      - gas_processing_plant
+      - compressor_station
+      - tank_battery
+    code_platform: state_register
+    landing_url: "https://www.tceq.texas.gov/permitting/air/titlev/generalpermits/gop_no_514.html"
+    documents:
+      - title: "Air GOP No. 514: Oil and Gas General Operating Permit"
+        url: "https://www.tceq.texas.gov/permitting/air/titlev/generalpermits/gop_no_514.html"
+        doc_type: regulation
+        format: html
+        citation_root: "30 TAC Ch. 122 (Federal Operating Permits Program / Title V); GOP No. 514"
+        notes: "Applies to all Texas counties EXCEPT Aransas, Bexar, Brazoria, Calhoun, Chambers, Collin, Dallas, Denton, El Paso, Ellis, Fort Bend, Galveston, Gregg, Hardin, Harris, Jefferson, Johnson, Kaufman, Liberty, Matagorda, Montgomery, Nueces, Orange, Parker, Rockwall, San Patricio, Tarrant, Travis, Victoria, Waller, Wise (mostly the DFW/HGB nonattainment metro counties, which use individual Title V site permits instead). Renewed/revised Oct 15, 2025 (proposed Feb 28, 2025; comment period closed Mar 31, 2025)."
+      - title: "Federal Operating Permit Oil and Gas General Operating Permit No. 514 (cover letter PDF)"
+        url: "https://www.tceq.texas.gov/downloads/permitting/air/title-v/general-permits/514cover.pdf/@@download/file/514cover.pdf"
+        doc_type: permit_record
+        format: pdf
+      - title: "Oil and Gas General Operating Permit (GOP#514) terms"
+        url: "https://www.tceq.texas.gov/assets/public/permitting/air/Title_V/General/514terms.pdf"
+        doc_type: permit_record
+        format: pdf
+      - title: "Initial General Operating Permit (GOP) Application Guidance"
+        url: "https://www.tceq.texas.gov/assets/public/permitting/air/Guidance/Title_V/gop_initial.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "General Operating Permits (GOP) landing page"
+        url: "https://www.tceq.texas.gov/permitting/air/titlev/generalpermits/air-gop"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "Title V Federal Operating Permit (site-specific, major source)"
+        trigger: "Major source of criteria pollutants/HAPs (gas processing plants, large compressor stations) not covered by, or opting out of, GOP 514"
+        form_id: "Title V application, 30 TAC Ch. 122"
+        decision_body: "TCEQ Air Permits Division; EPA Region 6 review/objection period"
+        public_hearing: true
+      - name: "GOP 514 Authorization to Operate (ATO)"
+        trigger: "Major-source oil & gas site (production, gathering, gas processing, compression) located outside the 30 excluded metro-nonattainment counties, eligible for the general permit rather than individual Title V"
+        typical_timeline_days: "Not verified; renewal cycle ~5 years (current GOP renewed 10/15/2025)"
+        decision_body: "TCEQ Air Permits Division"
+        public_hearing: true
+        fee: "Title V emissions/operating fee (annual, per TCEQ fee schedule) — not independently verified this run"
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-tceq-air-ch115-voc-nonattainment
+    jurisdiction_level: state
+    state: TX
+    name: "TCEQ 30 TAC Chapter 115 — VOC Emission Controls (Ozone Nonattainment Areas: DFW, Houston-Galveston-Brazoria, Beaumont-Port Arthur)"
+    agency: "Texas Commission on Environmental Quality (TCEQ)"
+    authority_type:
+      - air_quality
+    applies_to:
+      - well_pad
+      - tank_battery
+      - compressor_station
+      - gas_processing_plant
+      - midstream_pipeline
+    code_platform: state_register
+    landing_url: "https://www.tceq.texas.gov/assistance/industry/oil-and-gas/oilgas_air.html"
+    documents:
+      - title: "Oil and Gas Facilities: Air Compliance Information"
+        url: "https://www.tceq.texas.gov/assistance/industry/oil-and-gas/oilgas_air.html"
+        doc_type: guidance
+        format: html
+      - title: "Controlling Fugitive VOC Emissions (30 TAC 115 fugitives)"
+        url: "https://www.tceq.texas.gov/airquality/stationary-rules/voc/fugitives"
+        doc_type: regulation
+        format: html
+        citation_root: "30 TAC Ch. 115"
+      - title: "Compliance deadline Jan 1 2025 for new/amended VOC & NOx rules in ozone nonattainment areas"
+        url: "https://www.tceq.texas.gov/assistance/resources/the-advocate-1/compliance-deadline-is-jan-1-2025-for-new-and-amended-rules-in-ozone-nonattainment-areas"
+        doc_type: guidance
+        format: html
+        notes: "Revisions to 30 TAC Ch. 115 (VOC) and Ch. 117 (NOx); compliance required by Jan 1, 2025. Houston-Galveston-Brazoria area rule requires 95% control of vapors from all oil & gas storage tanks at a site once condensate throughput reaches 1,500 bbl/year; a DFW-area proposal has mirrored this."
+    permits:
+      - name: "30 TAC Ch. 115 VOC storage/vent-gas control compliance (Storage of VOCs 115.110-119, Vent Gas Control 115.121-129)"
+        trigger: "Facility located in DFW (Collin, Dallas, Denton, Ellis, Johnson, Kaufman, Parker, Rockwall, Tarrant, Wise) or Houston-Galveston-Brazoria (Brazoria, Chambers, Fort Bend, Galveston, Harris, Liberty, Montgomery, Waller) or Beaumont-Port Arthur ozone nonattainment counties; condensate/crude tank throughput thresholds (HGB: 1,500 bbl/yr condensate triggers 95% vapor control)"
+        decision_body: "TCEQ Air Permits Division / regional office"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-tceq-water-tpdes-cgp-msgp
+    jurisdiction_level: state
+    state: TX
+    name: "TCEQ TPDES Construction General Permit (TXR150000) and Multi-Sector General Permit for Industrial Facilities (TXR050000)"
+    agency: "Texas Commission on Environmental Quality (TCEQ)"
+    authority_type:
+      - stormwater
+      - water_quality
+    applies_to:
+      - midstream_pipeline
+      - compressor_station
+      - gas_processing_plant
+      - well_pad
+      - tank_battery
+      - access_road
+    code_platform: state_register
+    landing_url: "https://www.tceq.texas.gov/permitting/stormwater"
+    documents:
+      - title: "Stormwater Permits landing page"
+        url: "https://www.tceq.texas.gov/permitting/stormwater"
+        doc_type: regulation
+        format: html
+      - title: "2023 TPDES Construction General Permit (TXR150000), full text"
+        url: "https://www.tceq.texas.gov/downloads/permitting/stormwater/general/construction/2023-cgp-txr150000.pdf"
+        doc_type: regulation
+        format: pdf
+        citation_root: "TPDES General Permit TXR150000"
+        notes: "Effective March 5, 2023; expires March 5, 2028 (renewal stakeholder process underway as of mid-2026). Authorizes stormwater discharges from construction/construction-support activity (>=1 acre disturbance or part of a larger common plan); does not cover process water, concrete washwater, or dewatering effluent without separate authorization."
+      - title: "Stormwater General Permit for Construction Activities landing page"
+        url: "https://www.tceq.texas.gov/permitting/stormwater/construction"
+        doc_type: guidance
+        format: html
+      - title: "2021 Multi-Sector General Permit for Industrial Facilities (TXR050000), full text"
+        url: "https://www.tceq.texas.gov/downloads/permitting/stormwater/general/multi-sector/txr050000-2021.pdf"
+        doc_type: regulation
+        format: pdf
+        citation_root: "TPDES General Permit TXR050000"
+        notes: "Effective Aug 14, 2021; expires Aug 14, 2026 (EPA approved draft 2026 renewal Aug 18, 2025). Jurisdictional note: TCEQ regulates stormwater at company HQ/permanent offices/base-of-operations facilities; RRC regulates oil & gas field/production-site activities (see tx-state.notes.md for the RRC-vs-TCEQ split)."
+      - title: "Stormwater Multi-Sector General Permit for Industrial Facilities landing page"
+        url: "https://www.tceq.texas.gov/permitting/stormwater/industrial"
+        doc_type: guidance
+        format: html
+      - title: "2021 MSGP Fact Sheet"
+        url: "https://www.tceq.texas.gov/downloads/permitting/stormwater/general/multi-sector/2021-msgp-fact-sheet.pdf/@@download/file/2021-msgp-fact-sheet.pdf"
+        doc_type: fee_schedule
+        format: pdf
+    permits:
+      - name: "Construction General Permit (CGP) Notice of Intent (NOI)"
+        trigger: "Land disturbance >=1 acre (or part of larger common plan of development/sale) for pipeline ROW, compressor station, gas plant, or well pad construction"
+        form_id: "NOI under TXR150000"
+        typical_timeline_days: "Not verified; general-permit authorization typically effective on/shortly after NOI filing per TCEQ construction general permit procedures"
+        decision_body: "TCEQ Water Quality Division (general permit; self-authorizing after NOI)"
+        public_hearing: false
+      - name: "Multi-Sector General Permit (MSGP) Notice of Intent"
+        trigger: "Ongoing industrial stormwater discharge from a permanent facility (base of operations, gas processing plant, compressor station HQ/yard) — RRC, not TCEQ, covers field production-site stormwater"
+        form_id: "NOI under TXR050000"
+        decision_body: "TCEQ Water Quality Division"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-tceq-water-401-certification
+    jurisdiction_level: state
+    state: TX
+    name: "TCEQ Clean Water Act Section 401 Water Quality Certification (dredge/fill, Section 404 permits)"
+    agency: "Texas Commission on Environmental Quality (TCEQ)"
+    authority_type:
+      - water_quality
+      - wetlands_404
+    applies_to:
+      - midstream_pipeline
+      - water_crossing
+      - access_road
+    code_platform: state_register
+    landing_url: "https://www.tceq.texas.gov/permitting/401certification"
+    documents:
+      - title: "401 Certification Reviews landing page"
+        url: "https://www.tceq.texas.gov/permitting/401certification"
+        doc_type: regulation
+        format: html
+      - title: "401 Dredge and Fill Reviews"
+        url: "https://www.tceq.texas.gov/downloads/permitting/wastewater-assessments/401-dredge-fill-reviews"
+        doc_type: guidance
+        format: html
+      - title: "State Water Quality Certification of Section 404 Permits (overview PDF)"
+        url: "https://www.tceq.texas.gov/downloads/permitting/wastewater-assessments/401-dredge-fill-reviews/401cov.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "TCEQ 401 State Certification Requirements (Pre-filing Meeting Request / Certification Request form)"
+        url: "https://www.tceq.texas.gov/downloads/permitting/wastewater-assessments/401-dredge-fill-reviews/401-cert-request-form-final-for-web.docx/@@download/file/tceq-401-state-certification-requirements-final-for-web%20(3).pdf"
+        doc_type: form
+        format: pdf
+    permits:
+      - name: "CWA Section 401 Water Quality Certification"
+        trigger: "Pipeline water crossing or other activity requiring a USACE Section 404 (dredge/fill) permit, or any federally licensed/permitted activity that may result in a discharge to waters of the U.S./Texas"
+        form_id: "Pre-filing Meeting Request + Certification Request (per 2020 EPA Section 401 Certification Rule)"
+        typical_timeline_days: "Statutory outside limit 365 days (CWA); TCEQ practice varies by project complexity"
+        decision_body: "TCEQ Water Quality Division; coordinated with USACE district"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-tceq-edwards-aquifer-ch213
+    jurisdiction_level: state
+    state: TX
+    name: "TCEQ Edwards Aquifer Protection Program (30 TAC Chapter 213 — WPAP / Contributing Zone Plan)"
+    agency: "Texas Commission on Environmental Quality (TCEQ)"
+    authority_type:
+      - water_quality
+      - underground_injection
+    applies_to:
+      - midstream_pipeline
+      - well_pad
+      - tank_battery
+      - access_road
+      - compressor_station
+      - gas_processing_plant
+    code_platform: state_register
+    landing_url: "https://www.tceq.texas.gov/permitting/eapp"
+    documents:
+      - title: "Edwards Aquifer Protection Program landing page"
+        url: "https://www.tceq.texas.gov/permitting/eapp"
+        doc_type: regulation
+        format: html
+        citation_root: "30 TAC Ch. 213, Subchapters A & B"
+        notes: "HARD TRIGGER: any regulated activity (construction, land clearing, AST/UST installation, pipeline crossing) over the Edwards Aquifer Recharge Zone, Transition Zone, or Contributing Zone requires an approved Water Pollution Abatement Plan (WPAP, recharge/transition zone) or Contributing Zone Plan (CZP) BEFORE any soil disturbance. Regulated-activity list and exclusions at 30 TAC 213.3(28) and 213.22(6). Admin review up to 30 days; technical review of an administratively complete application up to 90 days per 30 TAC 213.4(e). Geographically centered on the Balcones Fault Zone / Central Texas (Kinney-Uvalde-Medina-Bexar-Comal-Hays-Travis-Williamson corridor) — verify against the TCEQ zone GIS map for any specific route, since it can matter for pipelines transiting or originating near the Permian/Eagle Ford edge into Central Texas."
+      - title: "Edwards Aquifer Protection Plans (application types index)"
+        url: "https://www.tceq.texas.gov/permitting/eapp/apps.html"
+        doc_type: application_packet
+        format: html
+        notes: "Plan types: Water Pollution Abatement Plan (WPAP), Contributing Zone Plan (CZP), UST/AST Facility Plan, Sewage Collection System Plan, Encountered Feature Mitigation Plan, Exception requests."
+      - title: "Edwards Aquifer Recharge Zone - Chapter 213 Rules GIS metadata (TSMS)"
+        url: "https://www.tceq.texas.gov/gis/metadata/edw_tsms_met.html"
+        doc_type: gis
+        format: unknown
+      - title: "Form 10259 - Modification of a Previously Approved Contributing Zone Plan"
+        url: "https://www.tceq.texas.gov/downloads/permitting/edwards-aquifer/forms/f-10259-modification-of-a-previously-approved-cont-zone-plan.pdf"
+        doc_type: form
+        format: pdf
+      - title: "Form 10262 - Contributing Zone Exception Request"
+        url: "https://www.tceq.texas.gov/downloads/permitting/edwards-aquifer/forms/f-10262-contributing-zone-exception-request.pdf"
+        doc_type: form
+        format: pdf
+    permits:
+      - name: "Water Pollution Abatement Plan (WPAP)"
+        trigger: "Regulated activity (construction, pipeline installation, tank installation, land clearing) over the Edwards Aquifer Recharge Zone or Transition Zone"
+        typical_timeline_days: "~30 days administrative review + ~90 days technical review of an administratively complete application (30 TAC 213.4(e))"
+        decision_body: "TCEQ (regional office administers; approval prior to any soil disturbance)"
+        public_hearing: false
+      - name: "Contributing Zone Plan (CZP)"
+        trigger: "Regulated activity over the Edwards Aquifer Contributing Zone (upstream of recharge zone)"
+        form_id: "Modification: Form 10259; Exception: Form 10262"
+        typical_timeline_days: "~30 days admin + ~90 days technical review"
+        decision_body: "TCEQ"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-tceq-waste-uic-330-331-335
+    jurisdiction_level: state
+    state: TX
+    name: "TCEQ Waste and Underground Injection Control (30 TAC Ch. 330 MSW, Ch. 331 UIC Class I/III/IV/V/VI, Ch. 335 Industrial/Hazardous Waste) — and the RRC/TCEQ jurisdictional boundary"
+    agency: "Texas Commission on Environmental Quality (TCEQ)"
+    authority_type:
+      - waste
+      - underground_injection
+      - water_quality
+    applies_to:
+      - swd_well
+      - tank_battery
+      - well_pad
+      - gas_processing_plant
+      - compressor_station
+    code_platform: state_register
+    landing_url: "https://www.tceq.texas.gov/permitting/radmat/uic_permits"
+    documents:
+      - title: "Underground Injection Control (UIC) Permits landing page"
+        url: "https://www.tceq.texas.gov/permitting/radmat/uic_permits"
+        doc_type: regulation
+        format: html
+        citation_root: "30 TAC Ch. 331"
+      - title: "Class I, III, IV, and V Injection Wells: Rules"
+        url: "https://www.tceq.texas.gov/permitting/radmat/uic_permits/UIC_rules.html"
+        doc_type: regulation
+        format: html
+      - title: "Class V Injection Wells Regulated by the TCEQ (guidance)"
+        url: "https://www.tceq.texas.gov/permitting/radmat/uic_permits/UIC_Guidance_Class_5.html"
+        doc_type: guidance
+        format: html
+      - title: "Guidance for Supplemental Information on Class VI Projects by TCEQ (CO2 geologic storage)"
+        url: "https://www.tceq.texas.gov/downloads/permitting/radioactive-materials/uic/guidance-for-supplemental-information-on-class-vi-projects-by-tceq.docx/view"
+        doc_type: guidance
+        format: doc
+      - title: "Pending Permit Application Information: Underground Injection Control"
+        url: "https://www.tceq.texas.gov/permitting/radmat/uic_permits/uic-pending-permit-apps"
+        doc_type: permit_record
+        format: html
+      - title: "Exemptions from Industrial and Hazardous Waste Permitting (30 TAC 335)"
+        url: "https://www.tceq.texas.gov/permitting/waste_permits/ihw_permits/ihw_exemptions.html"
+        doc_type: regulation
+        format: html
+        citation_root: "30 TAC Ch. 335, Subchapters C & H"
+        notes: "Exempt generators/handlers of industrial/hazardous solid waste must still comply with proper waste management under Subchapters C and H. Oil & gas E&P wastes regulated by RRC (see below) are generally excluded from Ch. 335 while under RRC jurisdiction; midstream facilities (gas plants, compressor stations) generating non-E&P industrial waste (used oil, solvents, etc.) fall under Ch. 335/RG-22."
+      - title: "Rules for Hazardous Waste and Nonhazardous Industrial Waste Permits (index)"
+        url: "https://www.tceq.texas.gov/permitting/waste_permits/ihw_permits/IHW_Rules.html"
+        doc_type: regulation
+        format: html
+      - title: "TCEQ RG-325 Used Oil Recycling handbook"
+        url: "https://www.tceq.texas.gov/downloads/permitting/waste-registration/pub/rg-325.pdf/@@download/file/rg-325.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "16 TAC 3.30 — Memorandum of Understanding between RRC and TCEQ (effective 7/1/2025)"
+        url: "https://www.law.cornell.edu/regulations/texas/16-Tex-Admin-Code-SS-3.30"
+        doc_type: regulation
+        format: html
+        citation_root: "16 TAC §3.30; 30 TAC §7.117 (mirror rule)"
+        notes: "THE KEY JURISDICTIONAL-SPLIT RULE. Wastes from oil, gas, and geothermal E&P activities subject to RRC regulation remain under RRC jurisdiction even when processed/treated/disposed of at a TCEQ-authorized Ch. 330 solid waste facility. Under Texas Water Code Ch. 27, TCEQ has UIC jurisdiction over injection wells UNLESS the activity is subject to RRC jurisdiction — RRC holds Class II UIC primacy (SWD/enhanced recovery wells associated with oil & gas, see tx-west/tx-rrc records) while TCEQ retains Class I (hazardous/industrial/municipal waste disposal below USDW), Class III (solution mining), Class V (shallow non-hazardous injection, e.g. some remediation/ASR wells), and Class VI (CO2 geologic sequestration) wells. A produced-water disposal well is RRC Class II; a hazardous-waste deep-well or CO2 sequestration well at the same midstream site is TCEQ Class I/VI — do not assume RRC covers all injection at an oil & gas facility."
+    permits:
+      - name: "TCEQ Class I UIC permit (hazardous/industrial/municipal waste injection wells)"
+        trigger: "Deep-well injection of hazardous, industrial, or municipal waste below the lowermost USDW — NOT applicable to standard produced-water SWD (that is RRC Class II)"
+        typical_timeline_days: "Notice/plain-language summary required for new/renewal/major-amendment applications declared administratively complete on/after 5/1/2022 (30 TAC Ch. 39 Subch. H)"
+        decision_body: "TCEQ Commissioners (contested cases can go to SOAH)"
+        public_hearing: true
+      - name: "TCEQ Class V UIC authorization"
+        trigger: "Injection of nonhazardous fluids into/above a USDW-bearing formation (e.g. certain remediation, aquifer storage/recovery, or shallow disposal wells at a midstream site)"
+        decision_body: "TCEQ UIC Permits Section"
+        public_hearing: false
+      - name: "TCEQ Class VI UIC permit (CO2 geologic storage)"
+        trigger: "Anthropogenic CO2 injection well for geologic storage, incl. at/near gas processing plants doing carbon capture"
+        decision_body: "TCEQ (must not impact/interfere with any existing Class I well)"
+        public_hearing: true
+      - name: "30 TAC Ch. 335 industrial/hazardous waste registration or permit"
+        trigger: "Generation, storage, processing, or disposal of industrial/hazardous solid waste at a midstream facility that is not RRC-jurisdictional E&P waste (e.g. used oil, spent solvents, non-exempt NORM)"
+        decision_body: "TCEQ Waste Permits Division"
+        public_hearing: false
+      - name: "30 TAC 330.15 / 330.955 prior written approval (boring/penetration of MSW landfill)"
+        trigger: "Pipeline or facility construction requiring test borings through, or penetration of the final cover of, a permitted MSW landfill"
+        decision_body: "TCEQ Waste Permits Division"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-rrc-swr36-h2s
+    jurisdiction_level: state
+    state: TX
+    name: "RRC Statewide Rule 36 — Hydrogen Sulfide Safety (16 TAC §3.36), Forms H-9, H-10"
+    agency: "Railroad Commission of Texas (RRC)"
+    authority_type:
+      - oil_gas_conservation
+      - emergency_response
+    applies_to:
+      - well_pad
+      - tank_battery
+      - compressor_station
+      - gas_processing_plant
+      - midstream_pipeline
+    code_platform: state_register
+    landing_url: "https://rrc.texas.gov/oil-and-gas/research-and-statistics/field-data/hydrogen-sulfide-h2s"
+    documents:
+      - title: "Hydrogen Sulfide (H2S) program page"
+        url: "https://rrc.texas.gov/oil-and-gas/research-and-statistics/field-data/hydrogen-sulfide-h2s"
+        doc_type: guidance
+        format: html
+        citation_root: "16 TAC §3.36 (Statewide Rule 36)"
+        notes: "SWR 36 applies to drilling, workovers, production, storage, injection, and transportation of hydrocarbon fluids containing H2S. CRITICAL for the Permian Delaware Basin (Reeves, Loving, Ward, Winkler, Culberson, Pecos, Reagan, Crockett counties are widely known for elevated/sour H2S) — pipeline routing, compressor-station siting, and gas-plant siting must account for radius-of-exposure (ROE) and contingency-plan obligations."
+      - title: "Statewide Rule 36 full text (PDF)"
+        url: "https://www.rrc.texas.gov/media/0x5e25yv/r36.pdf"
+        doc_type: regulation
+        format: pdf
+        citation_root: "16 TAC §3.36"
+      - title: "Outline of Rule 36"
+        url: "https://www.rrc.state.tx.us/media/p1gdvg5p/outlinerule36.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "Statewide Rule 36 - Hydrogen Sulfide Safety (alternate PDF)"
+        url: "https://www.rrc.texas.gov/media/cuqluire/swr36.pdf"
+        doc_type: regulation
+        format: pdf
+      - title: "RRC Launches H-9 Certificate of Compliance Statewide Rule 36 Query (announcement)"
+        url: "https://www.rrc.texas.gov/announcements/092419-rrc-launches-h-9-certificate-of-compliance-statewide-rule-36-query/"
+        doc_type: guidance
+        format: html
+      - title: "Form H-9, Certificate of Compliance, Statewide Rule 36 (Hydrogen Sulfide), Online Filing Now Available"
+        url: "https://www.rrc.texas.gov/announcements/071919-form-h-9-certificate-of-compliance-statewide-rule-36-hydrogen-sulfide-online-filing-now-available"
+        doc_type: form
+        format: html
+      - title: "Notice to Operators — Form H-9 Online"
+        url: "https://www.rrc.texas.gov/media/mhja2hwj/notice-to-operators-form-h-9-online.pdf"
+        doc_type: guidance
+        format: pdf
+    permits:
+      - name: "Form H-9 Certificate of Compliance, Statewide Rule 36 (H2S)"
+        trigger: "Drilling, workover, production, storage, injection, or transportation of fluids containing H2S at concentrations triggering SWR 36 (radius-of-exposure calculation); required before commencing operations at a facility handling sour hydrocarbons"
+        form_id: "Form H-9"
+        typical_timeline_days: "Must be filed at least 30 days prior to commencement of drilling or workover operations"
+        decision_body: "RRC District Office / Field Operations"
+        public_hearing: false
+      - name: "H2S Contingency Plan"
+        trigger: "Facility/well where the ROE calculation shows public exposure risk"
+        form_id: "Referenced/attached to Form H-9"
+        decision_body: "RRC"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-rrc-swr32-flaring
+    jurisdiction_level: state
+    state: TX
+    name: "RRC Statewide Rule 32 — Venting and Flaring of Gas (16 TAC §3.32)"
+    agency: "Railroad Commission of Texas (RRC)"
+    authority_type:
+      - oil_gas_conservation
+      - air_quality
+    applies_to:
+      - well_pad
+      - tank_battery
+      - gas_processing_plant
+      - compressor_station
+    code_platform: state_register
+    landing_url: "https://rrc.state.tx.us/about-us/faqs/oil-gas-faq/flaring-regulation/"
+    documents:
+      - title: "Flaring Regulation FAQs"
+        url: "https://rrc.state.tx.us/about-us/faqs/oil-gas-faq/flaring-regulation/"
+        doc_type: guidance
+        format: html
+        citation_root: "16 TAC §3.32 (Statewide Rule 32)"
+        notes: "All gas from any oil well, gas well, gas gathering system, gas plant, or other gas-handling equipment must be utilized for authorized purposes. Operator may flare while drilling and up to 10 days post-completion for well-potential testing without a permit; releases <24 hrs may be vented unless flaring is required for safety. Beyond 10 days post-completion (or most other flaring), an operator must apply for a permit; RRC grants incremental permits up to 45 days at a time, to a max of 180 days, beyond which an exception requires a hearing and RRC final order."
+      - title: "Statewide Rule 32 — Venting and Flaring (full text PDF)"
+        url: "https://www.rrc.texas.gov/media/i14nezuo/statewide-rule-32-venting-and-flaring.pdf"
+        doc_type: regulation
+        format: pdf
+      - title: "Statewide Rule 32 Exception to Flaring/Venting of Produced Gas (guidance)"
+        url: "https://rrc.texas.gov/media/mfbl4out/statewide-rule-32-exception-to-flaring-venting-of-produced-gas-seyed-k-mahjour.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "About the Flare/Vent Exceptions (Statewide Rule 32) Query"
+        url: "https://rrc.texas.gov/resource-center/research/research-queries/about-swr32-query"
+        doc_type: guidance
+        format: html
+      - title: "R-32 Attachment 2 (fillable form)"
+        url: "https://www.rrc.texas.gov/media/1bflwpca/r-32-attachment-2-fillable.pdf"
+        doc_type: form
+        format: pdf
+    permits:
+      - name: "Statewide Rule 32 flare/vent permit (initial, incremental up to 45 days)"
+        trigger: "Flaring/venting gas beyond the automatic 10-day post-completion testing window, or any release >24 hrs not otherwise exempt"
+        form_id: "R-32 exception application / attachment forms"
+        form_url: "https://www.rrc.texas.gov/media/1bflwpca/r-32-attachment-2-fillable.pdf"
+        typical_timeline_days: "Incremental approvals up to 45 days each, max 180 days without a hearing"
+        decision_body: "RRC District Office (incremental); RRC Commissioners after hearing (beyond 180 days)"
+        public_hearing: false
+      - name: "Statewide Rule 32 exception (beyond 180-day cap)"
+        trigger: "Continued flaring/venting need beyond the cumulative 180-day administrative limit"
+        decision_body: "RRC Commissioners, after hearing and final order"
+        public_hearing: true
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-rrc-swr9-disposal-wells
+    jurisdiction_level: state
+    state: TX
+    name: "RRC Statewide Rule 9 — Oil & Gas Waste Disposal Wells (16 TAC §3.9), Form W-14 (Class II SWD)"
+    agency: "Railroad Commission of Texas (RRC)"
+    authority_type:
+      - oil_gas_conservation
+      - underground_injection
+      - waste
+      - water_quality
+    applies_to:
+      - swd_well
+      - produced_water_line
+      - tank_battery
+    code_platform: state_register
+    landing_url: "https://www.rrc.texas.gov/oil-and-gas/applications-and-permits/injection-storage-permits/oil-and-gas-waste-disposal/"
+    documents:
+      - title: "Oil and Gas Waste Disposal (RRC program page)"
+        url: "https://www.rrc.texas.gov/oil-and-gas/applications-and-permits/injection-storage-permits/oil-and-gas-waste-disposal/"
+        doc_type: guidance
+        format: html
+        citation_root: "16 TAC §3.9 (Statewide Rule 9)"
+        notes: "RRC HOLDS CLASS II UIC JURISDICTION for oil & gas waste disposal wells (SWD) — this is the boundary most often confused with TCEQ's Class I/III/V/VI jurisdiction under 30 TAC Ch. 331 (see tx-tceq-waste-uic-330-331-335 record). Rule 9 governs disposal of salt water or other oil & gas waste by injection into a porous formation not productive of oil, gas, or geothermal resources."
+      - title: "Injection and Disposal Permit Procedures — Technical Review"
+        url: "https://www.rrc.texas.gov/oil-and-gas/applications-and-permits/injection-storage-permits/oil-and-gas-waste-disposal/injection-disposal-permit-procedures/technical-review"
+        doc_type: guidance
+        format: html
+      - title: "Injection and Disposal Permit Applications FAQs"
+        url: "https://www.rrc.texas.gov/about-us/faqs/oil-gas-faq/injection-and-disposal-permit-applications-faqs/"
+        doc_type: guidance
+        format: html
+      - title: "Guidelines for Permit Amendments — Rule 9"
+        url: "https://www.rrc.texas.gov/oil-and-gas/applications-and-permits/injection-storage-permits/oil-and-gas-waste-disposal/injection-disposal-permit-procedures/permit-transfer-amendment-and-expiration/guidelines-for-permit-amendments-rule-9/"
+        doc_type: guidance
+        format: html
+      - title: "Injection and Disposal Wells FAQs"
+        url: "https://www.rrc.texas.gov/about-us/faqs/oil-gas-faq/injection-and-disposal-wells-faqs/"
+        doc_type: guidance
+        format: html
+      - title: "Injection-Storage Manual, Chapter III (narrative)"
+        url: "https://www.rrc.texas.gov/oil-and-gas/publications-and-notices/manuals/injection-storage-manual/injection-storage-narrative/chapter-iii/"
+        doc_type: guidance
+        format: html
+      - title: "Form W-14 Instructions"
+        url: "https://rrc.texas.gov/media/zwphqxyd/formw14ins.pdf"
+        doc_type: form
+        format: pdf
+      - title: "Injection Well Annual Report requirement"
+        url: "https://www.rrc.texas.gov/oil-and-gas/applications-and-permits/injection-storage-permits/injection-reporting/annual-report"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "Form W-14 — Application to Dispose of Oil & Gas Waste by Injection into a Porous Formation Not Productive of Oil or Gas"
+        trigger: "New produced-water/oil-gas-waste SWD well (Class II)"
+        form_id: "Form W-14"
+        form_url: "https://rrc.texas.gov/media/zwphqxyd/formw14ins.pdf"
+        typical_timeline_days: "Requires Groundwater Advisory Unit (GAU) letter confirming the well will not endanger usable-quality water and the disposal formation/stratum does not contain usable-quality water; overall review timeline not verified"
+        decision_body: "RRC District Office (technical review); RRC Commissioners on protested applications"
+        public_hearing: false
+      - name: "Rule 9 permit amendment"
+        trigger: "Change in injection interval, volume, or operator for an existing SWD well"
+        decision_body: "RRC District Office"
+        public_hearing: false
+      - name: "Form H-10 Monitoring Report"
+        trigger: "Ongoing operational/monitoring reporting for injection/disposal wells"
+        form_id: "Form H-10"
+        decision_body: "RRC"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-rrc-swr46-fluid-injection-productive
+    jurisdiction_level: state
+    state: TX
+    name: "RRC Statewide Rule 46 — Fluid Injection into Productive Reservoirs (16 TAC §3.46), Forms H-1/H-1A (EOR / Huff-n-Puff)"
+    agency: "Railroad Commission of Texas (RRC)"
+    authority_type:
+      - oil_gas_conservation
+      - underground_injection
+    applies_to:
+      - swd_well
+      - produced_water_line
+    code_platform: state_register
+    landing_url: "https://www.rrc.texas.gov/oil-and-gas/applications-and-permits/injection-storage-permits/enhanced-recovery"
+    documents:
+      - title: "Enhanced Recovery (RRC program page)"
+        url: "https://www.rrc.texas.gov/oil-and-gas/applications-and-permits/injection-storage-permits/enhanced-recovery"
+        doc_type: guidance
+        format: html
+        citation_root: "16 TAC §3.46 (Statewide Rule 46)"
+        notes: "Distinguishes from Rule 9 (SWD into NON-productive formations): Rule 46 covers injection into reservoirs productive of oil, gas, or geothermal resources, for enhanced recovery (Type 3 — waterflood/EOR) or disposal into a productive zone (Type 2). Both Rule 9 and Rule 46 require injected fluids be confined to the authorized interval."
+      - title: "Permits - Huff and Puff"
+        url: "https://www.rrc.texas.gov/oil-and-gas/applications-and-permits/injection-storage-permits/enhanced-recovery/permits-huff-puff"
+        doc_type: guidance
+        format: html
+      - title: "Index for §3.46: Fluid Injection into Productive Reservoirs (dockets/orders index)"
+        url: "https://www.rrc.texas.gov/hearings/dockets/oil-gas-proposals-for-decision-and-orders/index-for-3-46-fluid-injection/"
+        doc_type: permit_record
+        format: html
+      - title: "Injection-Storage Manual, Chapter II (narrative)"
+        url: "https://www.rrc.texas.gov/oil-and-gas/publications-and-notices/manuals/injection-storage-manual/injection-storage-narrative/chapter-ii/"
+        doc_type: guidance
+        format: html
+      - title: "Aquifer Exemptions (AE) and AE Map"
+        url: "https://www.rrc.texas.gov/oil-and-gas/applications-and-permits/injection-storage-permits/oil-and-gas-waste-disposal/injection-disposal-permit-procedures/aquifer-exemptions/"
+        doc_type: gis
+        format: html
+    permits:
+      - name: "Form H-1 — Application to Inject Fluid into a Reservoir Productive of Oil & Gas"
+        trigger: "New enhanced-recovery (waterflood/EOR, incl. huff-n-puff) or disposal-into-productive-zone injection well"
+        form_id: "Form H-1 (with Form H-1A Injection Well Data attachment)"
+        decision_body: "RRC District Office (technical review); notice and opportunity for hearing; RRC Commissioners on protested applications"
+        public_hearing: true
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-rrc-organization-p4-p5
+    jurisdiction_level: state
+    state: TX
+    name: "RRC Organization Report (Form P-5) and Certificate of Compliance / Transportation Authority (Form P-4)"
+    agency: "Railroad Commission of Texas (RRC)"
+    authority_type:
+      - oil_gas_conservation
+    applies_to:
+      - well_pad
+      - swd_well
+      - midstream_pipeline
+      - produced_water_line
+      - tank_battery
+    code_platform: state_register
+    landing_url: "https://www.rrc.texas.gov/oil-and-gas/oil-and-gas-forms/"
+    documents:
+      - title: "RRC Oil & Gas Forms index"
+        url: "https://www.rrc.texas.gov/oil-and-gas/oil-and-gas-forms/"
+        doc_type: form
+        format: html
+      - title: "Form P-5 Organization Report"
+        url: "https://www.rrc.state.tx.us/media/02nddiqq/form-p5.pdf"
+        doc_type: form
+        format: pdf
+        citation_root: "Statewide Rule 1"
+        notes: "Mandatory annual filing for any entity operating oil/gas wells, pipelines, or other RRC-regulated facilities; a live P-5 (plus required financial assurance/bond) is a prerequisite to holding a P-4, W-1, W-14, T-4, or other RRC operator authorization."
+      - title: "Form P-5A"
+        url: "https://www.rrc.texas.gov/media/igvnld5x/form-p5a.pdf"
+        doc_type: form
+        format: pdf
+      - title: "Form P-5 (fillable)"
+        url: "https://www.rrc.texas.gov/media/emia4m3g/p-5-fillable.pdf"
+        doc_type: form
+        format: pdf
+      - title: "Form P-4 - Certificate of Compliance and Transportation Authority"
+        url: "https://www.rrc.texas.gov/media/h1ik1qkm/p-4f.pdf"
+        doc_type: form
+        format: pdf
+        notes: "Filed by the operator of an oil lease, gas well, or other well to establish operator of record, certify regulatory-compliance responsibility (incl. plugging under Statewide Rule 14), and identify gatherers/purchasers and their RRC system codes. THIS is the form whose 'transportation authority'/gatherer designation underpins common-carrier status determinations relevant to Natural Resources Code Ch. 111 eminent-domain analysis for gathering pipelines (see tx-rrc-common-carrier-t4-status record)."
+      - title: "Instructions P-4: Certificate of Compliance and Transportation Authority"
+        url: "https://www.rrc.texas.gov/media/kx0hcdrw/p-4-ins.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "Section E — Producer's Transportation Authority and Certificate"
+        url: "https://www.rrc.texas.gov/media/i0bolokm/section_e.pdf"
+        doc_type: guidance
+        format: pdf
+    permits:
+      - name: "Form P-5 Organization Report"
+        trigger: "Any entity conducting operations within RRC Oil & Gas Division jurisdiction (operators, gatherers, first purchasers, etc.)"
+        form_id: "Form P-5"
+        typical_timeline_days: "Annual filing/renewal"
+        decision_body: "RRC"
+        public_hearing: false
+      - name: "Form P-4 Certificate of Compliance and Transportation Authority"
+        trigger: "Establishing/changing the operator of record for a lease or well, or designating the gatherer/first purchaser and system code for production"
+        form_id: "Form P-4"
+        form_url: "https://www.rrc.texas.gov/media/h1ik1qkm/p-4f.pdf"
+        decision_body: "RRC"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-rrc-pipeline-safety-ch8-inspection-forms
+    jurisdiction_level: state
+    state: TX
+    name: "RRC Pipeline Safety (16 TAC Ch. 8) — Construction, Leak, and Inspection Reporting (Forms PS-48, PS-95) via RRC PIPES"
+    agency: "Railroad Commission of Texas (RRC), Pipeline Safety Section"
+    authority_type:
+      - pipeline_safety
+    applies_to:
+      - midstream_pipeline
+      - produced_water_line
+      - gas_processing_plant
+      - compressor_station
+    code_platform: state_register
+    landing_url: "https://www.rrc.texas.gov/pipeline-safety/rules/"
+    documents:
+      - title: "Pipeline Safety Rules landing page"
+        url: "https://www.rrc.texas.gov/pipeline-safety/rules/"
+        doc_type: regulation
+        format: html
+        citation_root: "16 TAC Ch. 8"
+      - title: "New Pipeline Construction Reports"
+        url: "https://www.rrc.texas.gov/pipeline-safety/reports/new-pipeline-construction-reports/"
+        doc_type: guidance
+        format: html
+        notes: "Form PS-48 covers transmission lines, gathering lines inside a non-rural/Class 2-4 location, and certain distribution systems; notification due 30 or 60 days before construction starts depending on project type. As of Sept 1, 2023 RRC no longer accepts hard-copy PS-48 filings by mail — must be filed via RRC PIPES (Pipeline, Inspection, Permitting and Evaluation System)."
+      - title: "Form PS-48 and New Pipeline Construction Reporting Updates (webinar/notice PDF)"
+        url: "https://www.rrc.texas.gov/media/f2cf5ral/06-2023_nto_form-ps-48-new-construction-reports_mlb_5-31-2023.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "Pipeline Safety Forms landing page"
+        url: "https://www.rrc.texas.gov/pipeline-safety/pipeline-safety-forms/"
+        doc_type: form
+        format: html
+        notes: "PS-95 Semi-Annual Leak Report filed here (online, authenticated users). PS-79/PS-80/PS-81 (referenced in task scope) were not individually confirmed this run — see notes.md; check this index page directly."
+      - title: "RRC Adopts New and Revised Gas Utility Forms (announcement)"
+        url: "https://www.rrc.texas.gov/announcements/rrc-adopts-new-and-revised-gas-utility-forms"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "Form PS-48 New Construction Report"
+        trigger: "New construction of a transmission line, a gathering line inside a non-rural or Class 2/3/4 location, or certain distribution systems"
+        form_id: "Form PS-48"
+        typical_timeline_days: "Notification due 30 or 60 days before construction starts (project-dependent)"
+        decision_body: "RRC Pipeline Safety Section (via RRC PIPES)"
+        public_hearing: false
+      - name: "Form PS-95 Semi-Annual Leak Report"
+        trigger: "Ongoing operational reporting obligation for regulated pipeline operators"
+        form_id: "Form PS-95"
+        decision_body: "RRC Pipeline Safety Section"
+        public_hearing: false
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  - id: tx-thc-antiquities-code
+    jurisdiction_level: state
+    state: TX
+    name: "Texas Historical Commission — Antiquities Code of Texas Permit (Archeology / Historic Buildings)"
+    agency: "Texas Historical Commission (THC)"
+    authority_type:
+      - cultural_historic
+    applies_to:
+      - midstream_pipeline
+      - produced_water_line
+      - compressor_station
+      - gas_processing_plant
+      - well_pad
+      - access_road
+      - water_crossing
+    code_platform: state_register
+    landing_url: "https://thc.texas.gov/review/state-project-review/antiquities-permits"
+    documents:
+      - title: "Antiquities Permits (THC program page)"
+        url: "https://thc.texas.gov/review/state-project-review/antiquities-permits"
+        doc_type: regulation
+        format: html
+        citation_root: "Antiquities Code of Texas (Nat. Res. Code Ch. 191)"
+        notes: "REQUIRED ON STATE OR POLITICAL-SUBDIVISION LAND — routinely missed by midstream project teams who assume Antiquities Code applies only to federal land (that's Section 106/NHPA instead). Applies to ground-disturbing activity on land owned/managed by the state or any political subdivision (cities, counties, river authorities, MUDs, school districts) and to work affecting state-owned historic buildings. A pipeline crossing state-owned riverbed/submerged land, a GLO easement tract, a county road ROW, or a river-authority tract triggers it. THC responds within 30 days of notification/request for determination, and if a permit is required will provide the application form and specify required attachments (typically a cultural resources survey report by a permitted archeologist)."
+      - title: "Antiquities Permit Application Form — Archeology"
+        url: "https://www.thc.texas.gov/public/upload/forms/Antiquities-Permit_App-2016_0.pdf"
+        doc_type: form
+        format: pdf
+      - title: "How to Complete the Antiquities Permit Application"
+        url: "https://www.thc.texas.gov/public/upload/forms/SAL-PermitApplication-Ver1708-Instructions.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "What to Send In for Project Review"
+        url: "https://thc.texas.gov/review/consultation-process/what-send-project-review"
+        doc_type: guidance
+        format: html
+      - title: "Antiquities Code of Texas (program overview)"
+        url: "https://thc.texas.gov/review/state-project-review/antiquities-code-texas"
+        doc_type: guidance
+        format: html
+      - title: "State Antiquities Landmarks"
+        url: "https://thc.texas.gov/preserve/designate-historic-properties/state-antiquities-landmarks"
+        doc_type: guidance
+        format: html
+      - title: "THC eTRAC System Users Guide (June 2018)"
+        url: "https://xapps.thc.state.tx.us/106Review/UserGuide-external.pdf"
+        doc_type: guidance
+        format: pdf
+        notes: "eTRAC is THC's online project-review submission portal."
+    permits:
+      - name: "Antiquities Permit (Archeology)"
+        trigger: "Ground-disturbing construction (pipeline trench, access road, pad, station) on land owned or managed by the State of Texas or any political subdivision (county, city, river authority, MUD, school district), or on a GLO-managed tract/submerged land"
+        form_id: "Antiquities Permit Application — Archeology"
+        form_url: "https://www.thc.texas.gov/public/upload/forms/Antiquities-Permit_App-2016_0.pdf"
+        typical_timeline_days: "THC responds within 30 days of initial notification/review request; full permit review timeline (incl. survey) not verified"
+        decision_body: "Texas Historical Commission / Texas Antiquities Committee"
+        public_hearing: false
+      - name: "Antiquities Permit (Historic Buildings & Structures)"
+        trigger: "Work affecting a state-owned historic building or structure"
+        decision_body: "Texas Historical Commission"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-glo-easements-cmp
+    jurisdiction_level: state
+    state: TX
+    name: "Texas General Land Office — State/Submerged Land Easements and Coastal Management Program (CMP) Federal Consistency Review"
+    agency: "Texas General Land Office (GLO)"
+    authority_type:
+      - surface_owner
+      - water_quality
+      - wetlands_404
+    applies_to:
+      - midstream_pipeline
+      - produced_water_line
+      - water_crossing
+      - access_road
+    code_platform: state_register
+    landing_url: "https://www.glo.texas.gov/energy-business/easements/index.html"
+    documents:
+      - title: "Surface Leasing and Easements (GLO program page)"
+        url: "https://www.glo.texas.gov/energy-business/easements/index.html"
+        doc_type: regulation
+        format: html
+        notes: "GLO issues miscellaneous easements on coastal submerged lands and state-owned uplands for oil & gas pipelines, subsurface easements, water lines, power lines, and other ROW structures crossing state land."
+      - title: "Coastal Management Program (CMP) overview"
+        url: "https://www.glo.texas.gov/coastal/protecting-coast/coastal-management-program"
+        doc_type: regulation
+        format: html
+        notes: "Texas CMP became a federally approved Coastal Zone Management Program member in 1997; covers the 19-county Texas coastal zone (relevant to tx-east scope, but administered as a state-level GLO program)."
+      - title: "Federal Consistency (CMP)"
+        url: "https://www.glo.texas.gov/coastal/protecting-coast/federal-consistency"
+        doc_type: guidance
+        format: html
+        notes: "Federally permitted projects (e.g. USACE 404 permits) in the coastal zone must be certified 'consistent' with the CMP; federal agency activities must be consistent 'to the maximum extent practicable.' Public comment period is 30 days from GLO's posted notice date."
+      - title: "Texas CMP Federal Consistency Interim Guidance (PDF)"
+        url: "https://www.glo.texas.gov/sites/default/files/resources/glo/coast/coastal-management/federal-consistency/files/federal-consistency-interim-guidance.pdf"
+        doc_type: guidance
+        format: pdf
+      - title: "GLO Land Management Forms index"
+        url: "https://www.glo.texas.gov/land/land-management/forms/index.html"
+        doc_type: form
+        format: html
+      - title: "Example: Notice and Opportunity to Comment on Requests for Consistency — Targa Downstream LLC"
+        url: "https://www.glo.texas.gov/open-government/public-notices/notice-and-opportunity-comment-requests-consistency-targa-downstream-llc"
+        doc_type: permit_record
+        format: html
+        notes: "Real example of a midstream operator's CMP consistency public-notice filing, confirming the process applies to pipeline/midstream projects."
+    permits:
+      - name: "GLO Easement (pipeline/subsurface/surface ROW across state or submerged land)"
+        trigger: "Pipeline, produced-water line, or access-road crossing of state-owned uplands or coastal submerged/bay-bottom land"
+        form_url: "https://www.glo.texas.gov/land/land-management/forms/index.html"
+        decision_body: "Texas General Land Office / School Land Board"
+        public_hearing: false
+      - name: "CMP Federal Consistency Certification/Review"
+        trigger: "Project within the statutory Texas coastal zone requiring a federal license/permit (e.g., USACE 404) likely to affect coastal resources"
+        typical_timeline_days: "30-day public comment period from GLO's notice posting"
+        decision_body: "Texas General Land Office (Coastal Resources)"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-txdot-uir-driveway
+    jurisdiction_level: state
+    state: TX
+    name: "TxDOT Utility Installation Review (UIR) and Driveway/Access Permits (State Highway ROW)"
+    agency: "Texas Department of Transportation (TxDOT)"
+    authority_type:
+      - roads_row
+    applies_to:
+      - midstream_pipeline
+      - produced_water_line
+      - access_road
+      - electrical_line
+    code_platform: state_register
+    landing_url: "https://www.txdot.gov/business/right-of-way/rulis.html"
+    documents:
+      - title: "Right of Way Utility and Leasing Information System (RULIS)"
+        url: "https://www.txdot.gov/business/right-of-way/rulis.html"
+        doc_type: regulation
+        format: html
+        notes: "RULIS appears to be TxDOT's newer/consolidating system for utility and leasing process automation; relationship to the legacy UIR system not fully confirmed this run."
+      - title: "Utility Installation Permit (ROW Utilities Manual)"
+        url: "https://www.txdot.gov/manuals/row/utl/chapter-8--procedures-for-utility-adjustments/section-9--non-reimbursable-utility-adjustment-pro/utility-installation-permit.html"
+        doc_type: regulation
+        format: html
+      - title: "Requirement of Utility Installation Request Forms"
+        url: "https://www.txdot.gov/manuals/mnt/use/utility_policy/notice_forms-i1000801/requirement_of_utility_installation_request_forms-.html"
+        doc_type: guidance
+        format: html
+      - title: "ROW Utilities Manual: Required Process Steps Before Submitting a UIR Permit"
+        url: "https://onlinemanuals.txdot.gov/TxDOTOnlineManuals/txdotmanuals/utl/required_process_steps_before_submitting_uir_permit.htm"
+        doc_type: guidance
+        format: html
+      - title: "ROW Utilities Manual: UIR Permit Design Documentation Standards"
+        url: "https://onlinemanuals.txdot.gov/TxDOTOnlineManuals/TxDOTManuals/utl/uir_permit_design_documentation_standards.htm"
+        doc_type: guidance
+        format: html
+      - title: "Utility Installation Request (Form 1082)"
+        url: "https://www.txdot.gov/content/dam/formsanddocuments/txdot-gov/xdp/1082/1082.xdp/jcr:content?submitUrl=&profile="
+        doc_type: form
+        format: unknown
+    permits:
+      - name: "Utility Installation Review (UIR) permit"
+        trigger: "Pipeline, produced-water line, or electrical line crossing or running longitudinally within a TxDOT state highway right-of-way"
+        form_id: "Form 1082 (Utility Installation Request)"
+        form_url: "https://www.txdot.gov/content/dam/formsanddocuments/txdot-gov/xdp/1082/1082.xdp/jcr:content?submitUrl=&profile="
+        decision_body: "TxDOT District Utility Office"
+        public_hearing: false
+      - name: "Driveway / access permit"
+        trigger: "New or modified private driveway, access road, or other private way directly connecting to a state highway system road (e.g. compressor station or gas plant entrance)"
+        decision_body: "TxDOT District Office"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-tpwd-sand-gravel-marl
+    jurisdiction_level: state
+    state: TX
+    name: "Texas Parks and Wildlife Department — Marl, Sand, Gravel, Shell, Mudshell Permit (Parks & Wildlife Code Ch. 86) and Consultation"
+    agency: "Texas Parks and Wildlife Department (TPWD)"
+    authority_type:
+      - wildlife
+      - water_quality
+    applies_to:
+      - water_crossing
+      - midstream_pipeline
+      - access_road
+    code_platform: state_register
+    landing_url: "https://tpwd.texas.gov/landwater/land/private/resource/which_forms"
+    documents:
+      - title: "Marl, Sand, Gravel, Shell or Mudshell Permits (TPWD)"
+        url: "https://tpwd.texas.gov/landwater/land/private/resource/which_forms"
+        doc_type: form
+        format: html
+        citation_root: "Parks & Wildlife Code Ch. 86"
+        notes: "No person may disturb or take marl, sand, gravel, shell, or mudshell from Texas public waterways without a Parks and Wildlife Commission permit — relevant to pipeline stream/river crossings (open-cut) that disturb streambed material. Commission may grant if the activity will not damage navigation, oysters/fish/wildlife, change navigation currents, materially change river hydrology, increase downstream pollution, or accelerate erosion. NOTE: search results indicate exemptions exist for pipelines/utilities and for public-utility noncommercial disturbance during maintenance or new-utility-line construction — confirm applicability/exemption scope for a specific crossing before assuming a permit is or is not required."
+      - title: "Parks and Wildlife Code Chapter 86 — Marl, Sand, Gravel, Shell, and Mudshell (statute text)"
+        url: "https://statutes.capitol.texas.gov/Docs/PW/htm/PW.86.htm"
+        doc_type: statute
+        format: html
+        citation_root: "Tex. Parks & Wildlife Code Ch. 86"
+      - title: "Public Notices for Marl, Sand, Gravel, Shell or Mudshell Applications"
+        url: "https://tpwd.texas.gov/landwater/water/environconcerns/permitting_consultation/public_notices.phtml"
+        doc_type: permit_record
+        format: html
+      - title: "Sand and Gravel Permit Application (joint TPWD/GLO form, JPAFTPWD)"
+        url: "https://www.glo.texas.gov/sites/default/files/2024-09/JPAFTPWD-sandgravel.pdf"
+        doc_type: form
+        format: pdf
+        notes: "Joint permit application form hosted by GLO but naming TPWD — confirms this is processed as a joint/coordinated application in practice."
+    permits:
+      - name: "Marl/Sand/Gravel/Shell/Mudshell Disturbance Permit"
+        trigger: "Pipeline or access-road stream/river crossing (or other activity) disturbing/taking marl, sand, gravel, shell, or mudshell from a Texas public waterway; utility/pipeline exemptions may apply — verify per crossing"
+        form_id: "PWD-994 Permit Application (per search result); joint form JPAFTPWD-sandgravel also seen"
+        form_url: "https://www.glo.texas.gov/sites/default/files/2024-09/JPAFTPWD-sandgravel.pdf"
+        decision_body: "Texas Parks and Wildlife Commission / TPWD Inland Fisheries Division"
+        public_hearing: false
+      - name: "TPWD consultation (non-regulatory review for state-listed/candidate species and significant habitat)"
+        trigger: "Project route crosses or is near habitat for a state-listed threatened/endangered species or ecologically significant stream segment"
+        decision_body: "TPWD Wildlife Diversity / Habitat Assessment program"
+        public_hearing: false
+    confidence: unverified
+    last_reviewed: "2026-09-04"
+
+  - id: tx-rrc-common-carrier-t4-status
+    jurisdiction_level: state
+    state: TX
+    name: "Common Carrier Pipeline Status (Form T-4 declaration; Natural Resources Code Ch. 111) — Eminent Domain Authority"
+    agency: "Railroad Commission of Texas (RRC); enforced/tested through Texas courts"
+    authority_type:
+      - oil_gas_conservation
+      - pipeline_safety
+    applies_to:
+      - midstream_pipeline
+      - produced_water_line
+    code_platform: state_register
+    landing_url: "https://statutes.capitol.texas.gov/Docs/NR/htm/NR.111.htm"
+    documents:
+      - title: "Natural Resources Code Chapter 111 — Common Carriers, Public Utilities, and Common Purchasers (statute text)"
+        url: "https://statutes.capitol.texas.gov/Docs/NR/htm/NR.111.htm"
+        doc_type: statute
+        format: html
+        citation_root: "Tex. Nat. Res. Code Ch. 111 (esp. §§111.002, 111.003, 111.0013, 111.019, 111.0194)"
+        notes: "Pipeline eminent-domain authority in Texas turns on 'common carrier' status: a company owning/operating pipelines transporting crude oil, coal, carbon dioxide, or hydrogen for hire, or transporting crude purchased from others, is a common carrier under §§111.002/111.003/111.0013 and may condemn land/ROW/easements for pipeline construction under §111.019. §111.0194 sets the standard statutory pipeline easement width at 50 feet. A pipeline operator DECLARES common-carrier status on its Form T-4 permit application (see tx-rrc-pipeline-t4-pops in tx-west.yaml) — but per Texas Rice Land Partners v. Denbury Green Pipeline-Texas (Tex. 2012 line of cases), that T-4 declaration is NOT irrefutable/conclusive proof of common-carrier status; it can be challenged and the operator must show a reasonable probability the pipeline will at some point transport gas/oil for third parties (not solely its own production) to sustain eminent-domain authority."
+      - title: "Natural Resources Code §111.019 — Right of Eminent Domain"
+        url: "https://texas.public.law/statutes/tex._nat._resources_code_section_111.019"
+        doc_type: statute
+        format: html
+      - title: "Natural Resources Code §111.0194 — Pipeline Easements"
+        url: "https://texas.public.law/statutes/tex._nat._resources_code_section_111.0194"
+        doc_type: statute
+        format: html
+      - title: "Texas Rice Land Partners Ltd v. Denbury Green Pipeline-Texas LLC (case law)"
+        url: "https://caselaw.findlaw.com/court/tx-court-of-appeals/1438464.html"
+        doc_type: guidance
+        format: html
+        notes: "Leading case establishing that T-4 self-declaration of common-carrier status is challengeable in court, not conclusive."
+      - title: "Eminent Domain in Texas (Part 3) — Oil and Gas Pipelines (Texas A&M AgriLife legal explainer)"
+        url: "https://agrilife.org/texasaglaw/2014/03/31/eminent-domain-in-texas-part-3-oil-and-gas-pipelines/"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "Common-carrier declaration (part of Form T-4 pipeline permit)"
+        trigger: "Any pipeline operator seeking eminent-domain/condemnation authority to acquire ROW for a crude oil, produced-water, CO2, or hydrogen pipeline"
+        form_id: "Form T-4 (self-declaration checkbox); see tx-west.yaml tx-rrc-pipeline-t4-pops for the base T-4 permit record"
+        decision_body: "RRC accepts the T-4 filing administratively; common-carrier status itself is ultimately a judicial question if challenged by a landowner"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-811-damage-prevention
+    jurisdiction_level: state
+    state: TX
+    name: "Texas 811 / One-Call — Underground Facility Damage Prevention and Safety Act (Utilities Code Ch. 251) and Pipeline Damage Prevention (16 TAC Ch. 18)"
+    agency: "Texas 811 (One Call Board of Texas, statutorily authorized notification center); Railroad Commission of Texas (pipeline damage-prevention enforcement)"
+    authority_type:
+      - pipeline_safety
+      - emergency_response
+    applies_to:
+      - midstream_pipeline
+      - produced_water_line
+      - electrical_line
+      - access_road
+    code_platform: state_register
+    landing_url: "https://texas811.org/law/"
+    documents:
+      - title: "Texas One-Call Law (Texas811.org)"
+        url: "https://texas811.org/law/"
+        doc_type: guidance
+        format: html
+        citation_root: "Tex. Utilities Code Ch. 251 (Underground Facility Damage Prevention and Safety Act) — NOTE: task brief referenced 'Utilities Code Ch. 121'; search results confirm the one-call/damage-prevention statute is Ch. 251, not Ch. 121 — treat any Ch. 121 citation as needing correction to Ch. 251."
+      - title: "Utilities Code Chapter 251 — Underground Facility Damage Prevention and Safety (statute text)"
+        url: "https://texas.public.law/statutes/tex._utils._code_title_5_chapter_251"
+        doc_type: statute
+        format: html
+      - title: "Utilities Code Chapter 251 (Texas Legislature TCSS mirror)"
+        url: "https://tcss.legis.texas.gov/resources/UT/htm/UT.251.htm"
+        doc_type: statute
+        format: html
+      - title: "How It Works — One Call Board of Texas"
+        url: "https://onecalltexas.com/how-it-works/"
+        doc_type: guidance
+        format: html
+      - title: "RRC Pipeline Damage Prevention Program"
+        url: "https://www.rrc.texas.gov/pipeline-safety/pipeline-damage-prevention-program/"
+        doc_type: guidance
+        format: html
+        citation_root: "16 TAC Ch. 18 (Pipeline Damage Prevention)"
+        notes: "16 TAC Ch. 18 requires pipeline operators and anyone conducting excavation/earth-moving near an underground pipeline to comply with damage-prevention/notification duties, enforced by RRC in addition to the general Ch. 251 one-call regime."
+      - title: "811 and Texas Damage Reporting Form (TDRF) script/handout"
+        url: "https://www.rrc.texas.gov/media/npjpkafo/811-and-texas-damage-reporting-form-handout.pdf"
+        doc_type: form
+        format: pdf
+    permits:
+      - name: "811 excavation notification (locate request)"
+        trigger: "Any excavation, boring, trenching, or ground disturbance near underground facilities (mandatory before all pipeline construction, tie-ins, or access-road/foundation work)"
+        typical_timeline_days: "Notify at least 2 business days before excavation; operators must mark facilities within 2 business days of notice"
+        decision_body: "Texas811 (notification center) / affected underground-facility operators (marking)"
+        public_hearing: false
+      - name: "Texas Damage Reporting Form (TDRF) filing"
+        trigger: "Damage to an underground pipeline or facility during excavation"
+        form_id: "TDRF"
+        decision_body: "RRC Pipeline Safety Section"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-gcd-middle-pecos
+    jurisdiction_level: special_district
+    state: TX
+    county: "Pecos"
+    name: "Middle Pecos Groundwater Conservation District"
+    agency: "Middle Pecos Groundwater Conservation District"
+    authority_type:
+      - water_quality
+      - tax_fee
+    applies_to:
+      - swd_well
+      - produced_water_line
+      - water_crossing
+    code_platform: self_hosted
+    landing_url: "https://www.mpgcd.org"
+    documents:
+      - title: "Middle Pecos Groundwater Conservation District Rules (TWDB-hosted copy, 2014)"
+        url: "https://www.twdb.texas.gov/groundwater/docs/GCD/mpgcd/mpgcd_rules2014.pdf"
+        doc_type: regulation
+        format: pdf
+        notes: "District boundaries are coextensive with Pecos County. Office: 405 North Spring Dr., Fort Stockton, TX 79735; (432) 336-0698. Relevant to Permian/Delaware Basin midstream water sourcing and produced-water handling."
+      - title: "Middle Pecos GCD Groundwater Management Plan (2020)"
+        url: "https://www.twdb.texas.gov/groundwater/docs/GCD/mpgcd/mpgcd_mgmt_plan2020.pdf"
+        doc_type: policy
+        format: pdf
+    permits:
+      - name: "Water well registration/permit (incl. large-capacity industrial/SWD-supply wells)"
+        trigger: "Drilling or operating a water well within Pecos County for industrial/midstream water sourcing or SWD makeup water"
+        decision_body: "Middle Pecos GCD Board"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-gcd-santa-rita
+    jurisdiction_level: special_district
+    state: TX
+    county: "Reagan"
+    name: "Santa Rita Underground Water Conservation District"
+    agency: "Santa Rita Underground Water Conservation District"
+    authority_type:
+      - water_quality
+      - tax_fee
+    applies_to:
+      - swd_well
+      - produced_water_line
+    code_platform: self_hosted
+    landing_url: "https://www.santaritauwcd.org"
+    documents:
+      - title: "District Information — Santa Rita UWCD"
+        url: "https://www.santaritauwcd.org/district-information"
+        doc_type: guidance
+        format: html
+        notes: "Boundaries coextensive with Reagan County (minus a portion annexed to Glasscock GCD in 1988); in Groundwater Management Area (GMA) 7 alongside Irion County WCD. Office: 108 Hwy 67 West, Big Lake, TX 76932; (325) 884-2893. Formed May 24, 1989."
+      - title: "Santa Rita UWCD Management Plan (2020)"
+        url: "https://www.twdb.texas.gov/groundwater/docs/GCD/sruwcd/sruwcd_mgmt_plan2020.pdf"
+        doc_type: policy
+        format: pdf
+    permits:
+      - name: "Water well permit/registration"
+        trigger: "Drilling or operating a water well in Reagan County (incl. industrial/oilfield-water-supply wells)"
+        decision_body: "Santa Rita UWCD Board"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-gcd-permian-basin
+    jurisdiction_level: special_district
+    state: TX
+    county: "Martin, Howard"
+    name: "Permian Basin Underground Water Conservation District"
+    agency: "Permian Basin Underground Water Conservation District (formerly Martin County UWCD)"
+    authority_type:
+      - water_quality
+      - tax_fee
+    applies_to:
+      - swd_well
+      - produced_water_line
+    code_platform: self_hosted
+    landing_url: "https://www.pbuwcd.com/"
+    documents:
+      - title: "Permian Basin UWCD homepage"
+        url: "https://www.pbuwcd.com/"
+        doc_type: guidance
+        format: html
+        notes: "Serves Martin County and most of Howard County. Formerly Martin County Underground Water Conservation District."
+      - title: "Permian Basin UWCD — Links page"
+        url: "https://www.pbuwcd.com/links"
+        doc_type: guidance
+        format: html
+      - title: "Permian Basin UWCD — Water Conservation Information"
+        url: "https://www.pbuwcd.com/water-conservation-information"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "Water well permit/registration"
+        trigger: "Drilling or operating a water well in Martin or Howard County (incl. industrial/oilfield-water-supply wells)"
+        decision_body: "Permian Basin UWCD Board"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-gcd-panhandle
+    jurisdiction_level: special_district
+    state: TX
+    county: "Carson, Donley, Gray, Roberts, Wheeler, Armstrong, Hutchinson, Potter"
+    name: "Panhandle Groundwater Conservation District"
+    agency: "Panhandle Groundwater Conservation District"
+    authority_type:
+      - water_quality
+      - tax_fee
+    applies_to:
+      - swd_well
+      - produced_water_line
+    code_platform: self_hosted
+    landing_url: "https://www.pgcd.us/"
+    documents:
+      - title: "Panhandle Groundwater Conservation District homepage"
+        url: "https://www.pgcd.us/"
+        doc_type: guidance
+        format: html
+        notes: "Covers Carson, Donley, Gray, Roberts, Wheeler Counties plus parts of Armstrong, Hutchinson, Potter Counties. Office: 201 W 3rd St, White Deer, TX 79097; (806) 883-2501; info@pgcd.us."
+      - title: "Contact — Panhandle Groundwater"
+        url: "https://www.pgcd.us/contact"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "Water well permit/registration"
+        trigger: "Drilling or operating a water well within district boundaries (incl. industrial/oilfield-water-supply wells)"
+        decision_body: "Panhandle GCD Board"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-gcd-high-plains-no1
+    jurisdiction_level: special_district
+    state: TX
+    county: "Lubbock and 15 other South Plains/Panhandle counties"
+    name: "High Plains Underground Water Conservation District No. 1"
+    agency: "High Plains Underground Water Conservation District No. 1"
+    authority_type:
+      - water_quality
+      - tax_fee
+    applies_to:
+      - swd_well
+      - produced_water_line
+    code_platform: self_hosted
+    landing_url: "https://www.hpwd.org/"
+    documents:
+      - title: "High Plains Underground Water Conservation District #1 homepage"
+        url: "https://www.hpwd.org/"
+        doc_type: guidance
+        format: html
+        notes: "Created 1951; 16-county service area including Bailey, Cochran, Hale, Lamb, Lubbock, Lynn, Parmer, Swisher, and portions of Armstrong, Castro, Crosby, Deaf Smith, Floyd, Hockley, Potter, Randall Counties. Offices at 2930 Avenue Q, Lubbock, TX and 301 N 15th St, Canyon, TX; (806) 762-0181."
+      - title: "HPWD — Groundwater Management Areas"
+        url: "https://www.hpwd.org/groundwater-management-areas"
+        doc_type: guidance
+        format: html
+      - title: "HPWD — Contact Us"
+        url: "https://www.hpwd.org/contact-us"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "Water well permit/registration"
+        trigger: "Drilling or operating a water well within the 16-county district (incl. industrial/oilfield-water-supply wells)"
+        decision_body: "High Plains UWCD No. 1 Board"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-gcd-north-plains
+    jurisdiction_level: special_district
+    state: TX
+    county: "Dallam, Hartley, Sherman, Moore, Hansford, Ochiltree, Lipscomb"
+    name: "North Plains Groundwater Conservation District"
+    agency: "North Plains Groundwater Conservation District"
+    authority_type:
+      - water_quality
+      - tax_fee
+    applies_to:
+      - swd_well
+      - produced_water_line
+    code_platform: self_hosted
+    landing_url: "https://northplainsgcd.org/"
+    documents:
+      - title: "North Plains Groundwater Conservation District homepage"
+        url: "https://northplainsgcd.org/"
+        doc_type: guidance
+        format: html
+        notes: "Covers far-northern Texas Panhandle. Office: 603 E 1st St, Dumas, TX 79029; (806) 935-6401; info@northplainsgcd.org. Issues water well permits, collects groundwater data, performs water-quality analyses."
+      - title: "North Plains GCD — Who We Are"
+        url: "https://northplainsgcd.org/about-us/who-we-are/"
+        doc_type: guidance
+        format: html
+      - title: "North Plains GCD — Contact Us"
+        url: "https://northplainsgcd.org/contact-us/"
+        doc_type: guidance
+        format: html
+    permits:
+      - name: "Water well permit"
+        trigger: "Drilling or operating a water well within district boundaries (incl. industrial/oilfield-water-supply wells)"
+        decision_body: "North Plains GCD Board"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-gcd-hemphill-county
+    jurisdiction_level: special_district
+    state: TX
+    county: "Hemphill"
+    name: "Hemphill County Underground Water Conservation District"
+    agency: "Hemphill County Underground Water Conservation District"
+    authority_type:
+      - water_quality
+      - tax_fee
+    applies_to:
+      - swd_well
+      - produced_water_line
+    code_platform: self_hosted
+    landing_url: "https://www.hemphilluwcd.org/"
+    documents:
+      - title: "Hemphill County UWCD homepage"
+        url: "https://www.hemphilluwcd.org/"
+        doc_type: guidance
+        format: html
+        notes: "Serving Hemphill County since 1997. Issues water well permits, collects groundwater data, performs water-quality analyses."
+      - title: "Hemphill County UWCD — About"
+        url: "https://www.hemphilluwcd.org/about/"
+        doc_type: guidance
+        format: html
+      - title: "Hemphill County UWCD — Map & Aquifer Data"
+        url: "https://www.hemphilluwcd.org/map/"
+        doc_type: gis
+        format: html
+    permits:
+      - name: "Water well permit"
+        trigger: "Drilling or operating a water well in Hemphill County (incl. industrial/oilfield-water-supply wells)"
+        decision_body: "Hemphill County UWCD Board"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"
+
+  - id: tx-gcd-llano-estacado
+    jurisdiction_level: special_district
+    state: TX
+    county: "Gaines"
+    name: "Llano Estacado Underground Water Conservation District"
+    agency: "Llano Estacado Underground Water Conservation District"
+    authority_type:
+      - water_quality
+      - tax_fee
+    applies_to:
+      - swd_well
+      - produced_water_line
+    code_platform: self_hosted
+    landing_url: "http://www.llanoestacadouwcd.org/"
+    documents:
+      - title: "Llano Estacado UWCD (district site, jointplanning page seen)"
+        url: "http://www.llanoestacadouwcd.org/jointplanning.html"
+        doc_type: guidance
+        format: html
+        notes: "Created 1991 by the 72nd Legislature. Jurisdiction is coextensive with Gaines County (~1,525 sq mi); bordered by Sandy Land UWCD (Yoakum County) and South Plains UWCD (Terry/Hockley Counties) — the task brief's 'Yoakum/Terry/Gaines area' reference spans these three adjoining, DISTINCT districts. Only Llano Estacado (Gaines County) was verified this run; Sandy Land UWCD and South Plains UWCD were not independently searched — see notes.md."
+      - title: "Llano Estacado UWCD Management Plan (2020, amended)"
+        url: "https://www.twdb.texas.gov/groundwater/docs/GCD/leuwcd/leuwcd_mgmt_plan2020_amended.pdf"
+        doc_type: policy
+        format: pdf
+    permits:
+      - name: "Water well permit"
+        trigger: "Drilling or operating a water well in Gaines County (incl. industrial/oilfield-water-supply wells)"
+        decision_body: "Llano Estacado UWCD Board"
+        public_hearing: false
+    confidence: probable
+    last_reviewed: "2026-09-04"

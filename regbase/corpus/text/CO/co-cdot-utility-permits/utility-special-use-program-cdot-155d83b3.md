@@ -6,8 +6,8 @@ agency: Colorado Department of Transportation
 title: Utility & Special Use Program — CDOT
 doc_type: guidance
 url: "https://www.codot.gov/business/permits/utilitiesspecialuse"
-sha256: 1892087120b6c1727f9f9550fbbcb9828c78378e7cf084aa423faf65a5960506
-fetched_at: "2026-09-05T05:09:22+00:00"
+sha256: db197269eb3e56faa309f3e713d5a9570a540654dc223a13f4b6e7fb0c26d71a
+fetched_at: "2026-09-08T17:34:00+00:00"
 ---
 
 <!-- heading-path: About Our Program -->

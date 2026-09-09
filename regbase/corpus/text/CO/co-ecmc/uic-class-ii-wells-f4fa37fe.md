@@ -6,8 +6,8 @@ agency: Colorado Energy and Carbon Management Commission
 title: UIC Class II Wells
 doc_type: guidance
 url: "https://ecmc.colorado.gov/programs/underground-injection-control/uic-class-ii-wells"
-sha256: bc63f6dfc5c565d886bf545cbca085a4399eeeb64e151196f61938a0b7ba7f64
-fetched_at: "2026-09-05T05:09:34+00:00"
+sha256: 60add21ea886ac114596f09f0bf5ee7d54b749cb858bae8e789dab08da2bc4b3
+fetched_at: "2026-09-08T17:28:27+00:00"
 ---
 
 ECMC regulates Class II underground injection wells.

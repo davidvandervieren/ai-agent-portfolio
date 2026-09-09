@@ -6,8 +6,8 @@ agency: Colorado Division of Water Resources (State Engineer's Office), Dept. of
 title: Well Permitting | Division of Water Resources
 doc_type: guidance
 url: "https://dwr.colorado.gov/services/well-permitting"
-sha256: 0dce6f3df8a95b41313b81b49f20dc76b1910c07cc3ab6a85261624bcf09414f
-fetched_at: "2026-09-05T05:09:34+00:00"
+sha256: 4c7b7a8ed4e1b95b32aae68d1eb8ee76a151675dfa6debf698fe2a6507b599e8
+fetched_at: "2026-09-08T17:28:44+00:00"
 ---
 
 Well Permitting

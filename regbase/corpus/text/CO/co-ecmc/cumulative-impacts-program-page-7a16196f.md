@@ -6,8 +6,8 @@ agency: Colorado Energy and Carbon Management Commission
 title: Cumulative Impacts program page
 doc_type: guidance
 url: "https://ecmc.colorado.gov/programs/cumulative-impacts"
-sha256: 3fa5f85ba5d7fb59756391086e939076b2f384db3a7d2196a426af24628112c1
-fetched_at: "2026-09-05T05:09:34+00:00"
+sha256: f749eb8614bd9dd772eb31558956c16ec6e87a5188f7a43b9a20aec78b7b7052
+fetched_at: "2026-09-08T17:28:24+00:00"
 ---
 
 Cumulative impacts refer to the combined effects on public health and the environment from the incremental impacts of a proposed oil and gas operation, alongside those from past, present, and foreseeable future developments.

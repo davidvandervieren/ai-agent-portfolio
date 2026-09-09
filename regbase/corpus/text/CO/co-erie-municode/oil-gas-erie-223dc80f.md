@@ -8,8 +8,8 @@ agency: Town of Erie
 title: Oil & Gas | Erie
 doc_type: guidance
 url: "https://erieco.gov/129/Oil-Gas"
-sha256: 70539682243b3ce53c5ed784b5fa2c7f196d5e0959a7b1401a817de73c8b025c
-fetched_at: "2026-09-05T05:09:40+00:00"
+sha256: 7a767d5d7301e56a7f2c10d338d633e8adf7620bdd0b630ff6f5f502816b27f9
+fetched_at: "2026-09-08T17:38:11+00:00"
 ---
 
 <!-- heading-path: Oil & Gas -->

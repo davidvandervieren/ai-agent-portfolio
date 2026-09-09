@@ -8,8 +8,8 @@ title: Location and Extent / Areas and Activities of State Interest (1041) Revie
 doc_type: guidance
 citation_root: Boulder County LUC Article 8
 url: "https://bouldercounty.gov/property-and-land/land-use/planning/review/1041-review/"
-sha256: 94b94d07cd555e1b40fed26b6ad37dad6ea7774e3a73ca8cf40faf66b0b1b0da
-fetched_at: "2026-09-05T05:09:21+00:00"
+sha256: 3dec63f61a2d49993ef544020ec9eefe9eb0975723d31781ec5388648c55c783
+fetched_at: "2026-09-08T17:35:18+00:00"
 ---
 
 Scam emails have been impersonating Boulder County Community Planning and Permitting staff. Learn how to spot a scam email .

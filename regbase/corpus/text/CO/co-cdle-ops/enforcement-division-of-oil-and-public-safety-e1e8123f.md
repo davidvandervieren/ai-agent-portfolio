@@ -6,8 +6,8 @@ agency: Colorado Department of Labor and Employment, Division of Oil and Public 
 title: Enforcement | Division of Oil and Public Safety
 doc_type: guidance
 url: "https://ops.colorado.gov/Petroleum/Enforcement"
-sha256: 523cba989f7fa8be37da0193a77eda7d5bf21811416a75f9b59d4bb44f8ae507
-fetched_at: "2026-09-05T05:09:22+00:00"
+sha256: c618a8cf8b35cedd443e598de99d958c87781612279831f00a8fc6f5815b91bb
+fetched_at: "2026-09-08T17:29:09+00:00"
 ---
 
 The Enforcement Officer works with each of the programs within the Division of Oil and Public Safety to ensure that regulated facilities operate within the regulations and statutes and remain in compliance. They actively work with regulated parties to resolve compliance issues, answer questions, offer guidance and assist them with getting the facilities back into compliance.

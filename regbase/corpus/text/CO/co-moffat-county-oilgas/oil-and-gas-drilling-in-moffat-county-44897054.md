@@ -7,8 +7,8 @@ agency: Moffat County Natural Resources Department
 title: Oil and Gas Drilling in Moffat County
 doc_type: guidance
 url: "https://moffatcounty.colorado.gov/government/departments/natural-resources-department/oil-and-gas-drilling-in-moffat-county"
-sha256: 1e8df0b07ca6c07904246e35fd9c4618be18463268d21863cc95a2c2c8d696e6
-fetched_at: "2026-09-05T05:10:23+00:00"
+sha256: a6fe26647f517574ddbaa4b64528ea5d79292758dc69d0bc02e9905557423571
+fetched_at: "2026-09-08T17:36:42+00:00"
 ---
 
 Moffat County Intent to Drill Regulations

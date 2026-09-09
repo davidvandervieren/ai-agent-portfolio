@@ -7,7 +7,7 @@ title: CDPS General Permit COR400000 - Weld County hosted copy of permit text
 doc_type: regulation
 url: "https://www.weld.gov/files/sharedassets/public/v/1/departments/public-works/documents/cor400000-stormwater-management-plan-guidance_cor400000-joseph-campbell-cdphe-1.pdf"
 sha256: 0b05e935eff419f6aec9f236ed3451bad9cf75b6f99e1a3e6f255966051ac48c
-fetched_at: "2026-09-05T05:09:24+00:00"
+fetched_at: "2026-09-08T17:28:43+00:00"
 ---
 
 <!-- page: 1 -->

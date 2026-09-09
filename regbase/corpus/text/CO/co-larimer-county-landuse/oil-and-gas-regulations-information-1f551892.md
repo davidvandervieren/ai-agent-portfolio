@@ -7,123 +7,22 @@ agency: Larimer County Community Development
 title: Oil and Gas Regulations & Information
 doc_type: guidance
 url: "https://www.larimer.gov/planning/oil-and-gas-regulations"
-sha256: 424fe7edc33b9cf9df19aa005823b3a322199abb2b04694b204910e520eba8c7
-fetched_at: "2026-09-05T04:07:16+00:00"
+sha256: 51dbfa5860cfebaaa0f090cd847f20a84f7a17363037d2dd12096fabf6f8b1fe
+fetched_at: "2026-09-08T17:35:24+00:00"
 ---
 
-Oil and Gas Regulations & Information | Larimer County
-Skip to main content
-Fire Restrictions in Effect:
-View Fire Restrictions
-All Larimer County Administrative Offices, Courts, District Attorney, Ranch Offices, and Landfill will be closed on September 7, 2026 to celebrate the Labor Day holiday.
-Critical county services are not disrupted by closures.
-Traducir al Español
-Expand All
-Collapse All
-County Actions - Existing and New Oil and Gas Facilities
-County Actions - Air Quality
-On February 8, 2024, Julie Murphy, Director of The Energy and Carbon Management Commission (ECMC) issued a Rule 901.a Order against prospect Energy for it illegal flaring of the Hearthfire #1 well located at the Fort Collins tank battery site in the northwest reaches of the Hearthfire Neighborhood. The Order as issued requires that "Prospect immediately cease all venting and flaring at the Hearthfire #1 Well, except under the circumstances detailed in 903.d.(1)(A), (B), (D), or (E). Moreover, Prospect will immediately cease all production activities at the Hearthfire #1 Well."
-With regard to the flaring of gas from the Hearthfire Well, Larimer County and the City of Fort Collins have requested party status to comment at the ECMC hearings for both the alleged violation and Prospect Energy's variance request to allow flaring at the Hearthfire well.
-Vew the CMC issued Rule 901.a Order
-On February 21, 2024, the Air Pollution Control Division issued letter regarding a negotiated enforcement settlement with Prospect Energy. The settlement addresses numerous air quality violations, over the past two years, by Prospect Energy at both the Fort Collins tank battery and the Krause tank battery.
-Highlights of the agreement include:
-Payment of 337,050.00 in penalties by Prospect Energy
-Krause Facility Requirements:
-Prospect must comply with the provisions of the Krause Facility's most recent Odor management Plan,
-Prospect must comply with the most recently approved Storage Tanks Emission Management (STEM) Plan for the Krause Facility,
-Installation of Hydrogen Sulfide (H2S) monitors,
-sampling every three months for H2S
-Development of and action plan if monitors detect H2S
-Installation of high performance theif hatches on tanks
-Infrared camera inspections every two weeks
-Fort Collins Facility Requirements:
-Prospect must comply with the most recently approved Storage Tanks Emission Management (STEM) Plan for the Fort Collins Facility.
-Energy and Carbon Management Commission notice and application materials regarding Larimer County and City of Fort Collins request for the plugging and reclamation of 19 oil and gas wells owned by Prospect Energy
-Notice of hearing
-Application
-Supporting documentatio
-n
-Contact Us
-Matthew Lafferty, AICP
-Oil & Gas Local Government Designee
-Ph: (970) 498-7721 |
-Email Matt
-Sorry, the page did not load properly.
-Click here to reload search results
-Categories
-Type in search terms and click the
-(search) button -OR-
-Press the
-Enter Key
-on your keyboard to begin your search.
-Categories
-appear once the search form is submitted.
-You can use the
-show more
-button below when you have more than 10 results.
-SHOW MORE
-I Want To
-Apply
-Check
-Status
-Find
-Schedule
-Apply for:
-Check Status of:
-Find Services / Programs:
-Make an Appointment for:
-Boards & Commissions
-Register to Vote / Update Registration
-Building Permits
-Cash Assistance Programs
-Concealed Handgun Permit
-Food Assistance (SNAP)
-Jobs with Larimer County
-Larimer County 101
-Liquor License
-Health First Colorado (Medicaid)
-Special Events
-A Burn Permit
-Booking Report
-Building Permits
-Engineering Projects
-Landfill
-Requests for Bids and Proposals
-Road Closures
-Special Event Permit
-Trail Conditions
-A Department
-Change of Address Form
-Extension Educational Programs
-Foreclosures
-Jail Inmates
-Jobs with Larimer County
-Larimer County Facilities
-Maps & GIS Data
-Parks, Trails & Open Spaces
-Property Information
-Public Records/Recorded Documents
-Restaurant Inspections
-Upcoming Special Events
-Vehicle Licensing Services
-Building Inspection
-Clerk & Recording: Marriage License & Civil Union, Passports
-Hazardous Waste Appointment Request
-Public Benefits
-Veterans Service Office
-Visit Someone at the Jail
-English
-Spanish
-Arabic
-Chinese
-Dutch
-French
-German
-Hindi
-Italian
-Japanese
-Korean
-Portuguese
-Russian
-Swedish
-Ukrainian
+The Larimer County oil and gas regulations can be found in the regulations tab below or at Article 11.0 of the Larimer County Land Use Code. Article 11.0 contains the current regulatory framework overseeing the development of oil and gas facilities in the County, and specifically directs the regulations to:
+Protect the public health, safety, welfare, and environment and wildlife resources,
+Ensure a comprehensive and transparent public land use process for the development of new oil and gas facilities, and establish criteria for the review and approval or denial of oil and gas applications,
+Avoid impacts to public health, safety, welfare, and the environment and wildlife resources through the application of reasonable siting requirements and land use regulations,
+Minimize to the maximum extent possible the nuisance effects of oil and gas facilities through the application of best available techniques and technologies,
+Maximize protection of natural and cultural resources and public facilities, and
+Confirm the financial, indemnification and insurance capacities of the oil and gas developer/operator to ensure timely an effective construction, production, removal and reclamation of oil and gas facilities and infrastructure.
+
+<!-- heading-path: Noteworthy Oil and Gas Actions -->
+### Noteworthy Oil and Gas Actions
+Colorado law requires the Energy and Carbon Management Commission (ECMC) to administer and enforce state regulations pertaining to oil and gas operations. As such, the Colorado legislature set up the “Orphaned Wells Mitigation Enterprise” to fund and oversee the plugging, reclaiming, and remediating of orphaned wells in Colorado. Currently there are approximately 1000 oil and gas wells awaiting plugging in the State Orphan Well Program.
+Fifty of the orphaned wells are in the oil field previously owned and operated by Prospect Energy, which is situated in unincorporated Larimer County and the northern reaches of the City of Fort Collins. This oil field was first discovered in 1924 and is one of the oldest in the region, with aging infrastructure that poses significant health and safety risks to the community. As such, for the past six years, Larimer County and the City of Fort Collins have been united in their efforts to advocate for the safe operation and eventual closure of numerous Prospect Energy Wells.
+Building on several years of collaborative effort, the Colorado Energy and Carbon Management Commission (ECMC) recently agreed to provide $5.2 million in grant funding to Larimer County to accelerate the safe plugging of all oil and gas wells previously owned by Prospect Energy. Having established this unprecedented agreement to expedite the plugging of orphaned wells and avoid potential adverse community impacts, Larimer County will now manage the decommissioning of wells and facilities orphaned by Prospect Energy.
+This project, now in its initial stages, is seeking proposals from oil and gas operators to perform the plugging and decommissioning work. Upon selection of an operator, a plan will be formulated prioritizing the order in which the wells will be plugged. Soon thereafter, permissions from the ECMC to commence work at specific sites will begin, all of which will then be followed by plugging operations.
+The project is scheduled to be completed by July 2028.

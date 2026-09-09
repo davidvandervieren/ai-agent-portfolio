@@ -6,8 +6,8 @@ agency: History Colorado, Office of Archaeology and Historic Preservation
 title: Historical Projects Federal Review & Compliance
 doc_type: guidance
 url: "https://www.historycolorado.org/review-compliance"
-sha256: 69383ddbaf45dbb3be56eedd325ae2e7348fb0202bdf8757ca4d154d191d5ad1
-fetched_at: "2026-09-05T05:10:42+00:00"
+sha256: c5ac39e7edb5caff70e5b8746f73b8e92881df1fbaf971a700a213b03fbbec0e
+fetched_at: "2026-09-08T17:34:25+00:00"
 ---
 
 Historical Projects Federal Review & Compliance | History Colorado

@@ -9,7 +9,7 @@ doc_type: regulation
 citation_root: Cheyenne County 1041 AASI Regulations (2019)
 url: "https://www.co.cheyenne.co.us/assets/pdfs/zoning_1041_adopted_regs_2019.pdf"
 sha256: 25fcc0f08727467bceaade1b8eb93979434bbf51ab7df30c0f3b0aa894a70603
-fetched_at: "2026-09-05T05:09:26+00:00"
+fetched_at: "2026-09-08T17:36:50+00:00"
 ---
 
 <!-- page: 1 -->

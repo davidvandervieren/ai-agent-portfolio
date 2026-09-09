@@ -6,8 +6,8 @@ agency: Colorado Department of Public Health and Environment, Air Pollution Cont
 title: Air Pollution Control Division public participation / rulemaking outreach
 doc_type: guidance
 url: "https://cdphe.colorado.gov/APCD/Outreach"
-sha256: b1585e425a0bb0c896ac73c5a3655b7516b44cb505ed71046866a5ceea2b52dd
-fetched_at: "2026-09-05T05:09:22+00:00"
+sha256: 1f58349c717cefed5ca81f7d3ca1c9e99b7425cffbcda24b62218576d8a903a3
+fetched_at: "2026-09-08T17:28:36+00:00"
 ---
 
 Español
@@ -22,40 +22,33 @@ Questions? Contact cdphe_apcd_outreach@state.co.us . Please include the meeting 
 ## Public meetings
 The air division’s public meetings provide an opportunity to learn more about air quality and climate change topics. These meetings generally allow anyone to ask questions and provide feedback directly to the division. Register for upcoming public meetings below to join and learn more.
 
-<!-- heading-path: Upcoming public participation opportunities > Public meetings > Complaint and rapid response 101 -->
-#### Complaint and rapid response 101
-Join an upcoming 101 session to learn about how the division responds to complaints. The complaint process allows community members to report potential issues related to stationary sources of air pollution, such as industrial facilities. These presentations are an hour long and will explain:
-How to submit a complaint to the air division.
-How the air division handles complaint response.
-Common complaints the division can respond to.
-Progress to streamline the complaint response.
-How to prioritize complaints in disproportionately impacted communities.
-How the division increases public awareness and transparency.
-Register to join an upcoming meeting:
-Thursday, Sept. 3, 6-7 p.m.
-Friday, Sept. 4, 11 a.m.-12 p.m.
-
-<!-- heading-path: Upcoming public participation opportunities > Public meetings > Complaint and rapid response 101 > Regulation 3 reporting and fee updates -->
+<!-- heading-path: Upcoming public participation opportunities > Public meetings > Regulation 3 reporting and fee updates -->
 #### Regulation 3 reporting and fee updates
 Register for an upcoming meeting to learn about emissions reporting requirements, potential fee increases, and standardizing carbon capture and storage protocols. There will be time to ask questions and provide feedback on the proposal. The meetings are online and two hours long. Spanish language translation services will be provided.
 Register to join an upcoming meeting:
 Tuesday, Sept. 22, 11 a.m.
 Learn more on the division’s emissions and permitting fees web page .
 
-<!-- heading-path: Upcoming public participation opportunities > Public meetings > Complaint and rapid response 101 > Clean Air Act 101 -->
+<!-- heading-path: Upcoming public participation opportunities > Public meetings > Regulation 3 reporting and fee updates > Clean Air Act 101 -->
 #### Clean Air Act 101
 Learn about the federal Clean Air Act and how it has reduced outdoor air pollution over time. The presentation will share how the division and local agencies implement the law and what it means for all Coloradans. These meetings are an hour long.
 Register to join an upcoming meeting:
 Monday, Sept. 28, 11 a.m.-12 p.m.
 Wednesday, Sept. 30, 6-7 p.m.
 
-<!-- heading-path: Upcoming public participation opportunities > Public meetings > Complaint and rapid response 101 > Regulation 3 reporting and fee updates -->
+<!-- heading-path: Upcoming public participation opportunities > Public meetings > Regulation 3 reporting and fee updates > Regulation 3 reporting and fee updates -->
 #### Regulation 3 reporting and fee updates
 Register for an upcoming meeting to learn about emissions reporting requirements, potential fee increases, and standardizing carbon capture and storage protocols. There will be time to ask questions and provide feedback on the proposal. The meetings are online and two hours long. Spanish language translation services will be provided.
 Register to join an upcoming meeting:
-Thursday, Oct. 1, 6 p.m.
-Saturday, Oct. 3, 10 a.m.
+Thursday, Oct. 1, 6-8 p.m.
+Saturday, Oct. 3, 10 a.m.-12 p.m.
 Learn more on the division’s emissions and permitting fees web page .
+
+<!-- heading-path: Upcoming public participation opportunities > Public meetings > Regulation 3 reporting and fee updates > Clean Energy Plan hardship letters -->
+#### Clean Energy Plan hardship letters
+Under state law , utility companies must submit Clean Energy Plans showing how they plan to reduce greenhouse gas emissions by 80% by 2030. Companies were required to submit a letter to the division if they expected difficulty meeting the requirements no later than March 31, 2026. The division will present a summary of Clean Energy Plan requirements and the hardship letters.
+Register to join an upcoming meeting:
+Tuesday, Oct. 6, 4-6 p.m.
 View past public participation and outreach opportunities . These serve as a historic archive. These processes are completed.
 
 <!-- heading-path: Upcoming public participation opportunities > Open public comment periods -->
@@ -76,8 +69,13 @@ A copy of the letter submitted by each utility is provided below.
 CORE CEP Hardship Letter
 Colorado Springs Utilities (CSU) Hardship Letter
 Municipal Energy Agency of Nebraska (MEAN) Hardship Letter
-The division will hold a virtual public meeting on October 6, 2026 from 4:00-6:00 pm MST. During the meeting, the division will present a summary of each utility’s challenges. The division will then accept public comments on the letters, including suggestions for potential ways each utility may address its particular challenges.
 The division will also accept written comments on the letters through October 20, 2026. Please submit comments using the link below. Along with your comment, please check the box to note whether your comment applies to CORE, CSU, MEAN or is a more general comment that can apply to all three utilities.
+Submit your feedback .
+
+<!-- heading-path: Upcoming public participation opportunities > Open public comment periods > Refinery Rulemaking: Share your feedback -->
+### Refinery Rulemaking: Share your feedback
+The division is seeking input while developing a proposal to reduce air quality impacts from refinery operations. The proposal will also be informed by findings from the Colorado Refinery Report the division published in May 2026 , which compares data, requirements, and procedures for petroleum refineries nationwide and the Suncor refinery in Commerce City.
+Please share your thoughts with us in the comment box below. The public comment process will be open through November 17, 2026.
 Submit your feedback .
 
 <!-- heading-path: Upcoming public participation opportunities > Meeting accommodation notice -->

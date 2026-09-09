@@ -8,8 +8,8 @@ agency: City of Aurora, Oil & Gas Division
 title: Oil and Gas Drilling - City of Aurora
 doc_type: guidance
 url: "https://www.auroragov.org/residents/oil_and_gas_drilling"
-sha256: c0d5cc0687ee640f952737dbfaacae41bbd31eb6c78b15fca5afba1ce09736bc
-fetched_at: "2026-09-05T05:09:16+00:00"
+sha256: ef0766db34d97a4b310ce4c4810dc3489eadeacd946d0faa524d6bf89b0ac27e
+fetched_at: "2026-09-08T17:38:28+00:00"
 ---
 
 <!-- heading-path: Oil and Gas Drilling -->

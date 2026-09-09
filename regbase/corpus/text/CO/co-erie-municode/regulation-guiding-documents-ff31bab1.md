@@ -8,8 +8,8 @@ agency: Town of Erie
 title: Regulation & Guiding Documents
 doc_type: guidance
 url: "https://erieco.gov/1794/Regulation-Guiding-Documents"
-sha256: 5392ae76bdb339e155a7334e46bea32e4ffadd38d4e0d5b0e47715855c78ad7d
-fetched_at: "2026-09-05T05:09:40+00:00"
+sha256: 174f1de4ca480102ceb24fd8b9f4e11db9c89f3b50fa3d2ea33e052f2e54752e
+fetched_at: "2026-09-08T17:38:12+00:00"
 ---
 
 <!-- heading-path: Regulation & Guiding Documents -->

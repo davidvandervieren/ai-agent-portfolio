@@ -8,7 +8,7 @@ title: Broomfield flowline prehearing statement to ECMC (pipeline/flowline integ
 doc_type: policy
 url: "https://ecmc.state.co.us/documents/reg/Rules/FlowlineRulemaking/Prehearing%20Statements/Broomfield.pdf"
 sha256: 249e4171cedb7e2c40bcc4a29dccc581430da93f772c590cae549becf8b6f873
-fetched_at: "2026-09-05T05:09:22+00:00"
+fetched_at: "2026-09-08T17:35:21+00:00"
 ---
 
 <!-- page: 1 -->

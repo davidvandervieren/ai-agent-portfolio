@@ -8,7 +8,7 @@ doc_type: regulation
 citation_root: 2 CCR 404-1, 300 Series
 url: "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/300%20Series%20-%20Permitting%20Process_Effective%20April%2030,%202025.pdf"
 sha256: dd96fc14dcd724c440d034fa508d2e31de3cbab4f1ba7ae6efb721579a5d41a3
-fetched_at: "2026-09-05T05:09:40+00:00"
+fetched_at: "2026-09-08T17:28:19+00:00"
 ---
 
 <!-- page: 1 -->

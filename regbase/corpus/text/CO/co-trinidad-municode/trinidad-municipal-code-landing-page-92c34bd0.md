@@ -9,7 +9,7 @@ title: Trinidad Municipal Code (landing page)
 doc_type: code
 url: "https://www.trinidad.co.gov/government/municipal_code.php"
 sha256: 3eecb28643db2811a76286dc37e1f602842eb6c7894aa37635f16a6c8e5ba8fa
-fetched_at: "2026-09-05T05:10:42+00:00"
+fetched_at: "2026-09-08T17:39:15+00:00"
 ---
 
 <!-- heading-path: Municipal Code -->

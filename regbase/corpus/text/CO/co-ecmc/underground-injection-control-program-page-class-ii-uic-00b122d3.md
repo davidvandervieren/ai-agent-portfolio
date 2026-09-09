@@ -6,8 +6,8 @@ agency: Colorado Energy and Carbon Management Commission
 title: Underground Injection Control program page (Class II UIC)
 doc_type: guidance
 url: "https://ecmc.colorado.gov/programs/underground-injection-control"
-sha256: a145f7812006e89cd7d19cd2d11e6f91878853fc37cda34db6c5dd0efec6433b
-fetched_at: "2026-09-05T05:09:34+00:00"
+sha256: 2c974f7eb7668c4990c0fc1bec07420b89ad9305b5b5484ec44588316dd3f08d
+fetched_at: "2026-09-08T17:28:25+00:00"
 ---
 
 Wells regulated through EPA’s Underground Injection Control (UIC) program are classified based on the type of fluid injected and the depth of the injection zone relative to the deepest Underground Source of Drinking Water (USDW). There are six “classes” of injection wells, with each class subject to specific regulatory requirements:

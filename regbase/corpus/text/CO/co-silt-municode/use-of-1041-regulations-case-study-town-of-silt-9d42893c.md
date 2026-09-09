@@ -8,8 +8,8 @@ agency: Town of Silt
 title: "Use of 1041 Regulations Case Study: Town of Silt"
 doc_type: guidance
 url: "https://dlg.colorado.gov/use-of-1041-regulations-town-of-silt"
-sha256: 6c5bb83af5b351d1924d9d728c0d62be54fe15817062ca6d6d83b0a9daeee922
-fetched_at: "2026-09-05T05:10:42+00:00"
+sha256: 64144b221759ed686ace40be67bd583de6a119239587e9f3368fd50016c1dec4
+fetched_at: "2026-09-08T17:39:10+00:00"
 ---
 
 <!-- heading-path: Error message -->

@@ -8,7 +8,7 @@ title: Oil and Gas | Las Animas County
 doc_type: guidance
 url: "https://lasanimascounty.colorado.gov/oil-and-gas"
 sha256: ebad9dc03049bd9c4a48ce686fe970ddfffb1ee473773bc9ae60a47703c979d3
-fetched_at: "2026-09-05T05:10:08+00:00"
+fetched_at: "2026-09-08T17:35:48+00:00"
 ---
 
 Download Oil and Gas Regulations

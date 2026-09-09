@@ -7,8 +7,8 @@ agency: Mesa County Community Development / Planning
 title: About the Planning Department
 doc_type: guidance
 url: "https://www.mesacounty.us/departments-and-services/community-development/planning/about-planning-department"
-sha256: 8fc5a63d3f107862b62ca916fc26ec14fa750f7e9f7945342931de029a93bab1
-fetched_at: "2026-09-05T05:10:23+00:00"
+sha256: 9bae97ace1d4a7f23b88f1c6a4ebbabd3fd959da472f369e71e6fd42544a7437
+fetched_at: "2026-09-08T17:35:43+00:00"
 ---
 
 The Planning Department provides the citizens of Mesa County an array of planning and development services. We work with the community to plan for the future growth of the county. We guide applicants and their representatives through the development process to help create positive results for the community. Land Use Planners, Transportation Planners, Engineers and other professionals provide these services to the community.

@@ -9,7 +9,7 @@ doc_type: regulation
 citation_root: Douglas County Zoning Resolution Sec. 21
 url: "https://www.douglas.co.us/documents/section-21.pdf/"
 sha256: e4872226e554eb42a9b88586ebbdafe2dbe9cb7e6201dbda5e2ef688ae6f5731
-fetched_at: "2026-09-05T05:09:33+00:00"
+fetched_at: "2026-09-08T17:38:01+00:00"
 ---
 
 <!-- page: 1 -->

@@ -7,8 +7,8 @@ agency: Douglas County Planning Services
 title: Oil and Gas | Douglas County
 doc_type: guidance
 url: "https://www.douglasco.gov/planning/development-review-regulations/other-regulations-processes/oil-and-gas/"
-sha256: 1691328f0ef05cce243b647104c27912b0dbce900315c4cfb4b72868075828fd
-fetched_at: "2026-09-05T05:09:34+00:00"
+sha256: 51a37bd190c4583f7a2d782c166661787d530bff879b7ef779459b9b1a20d132
+fetched_at: "2026-09-08T17:37:57+00:00"
 ---
 
 Oil and Gas - Douglas County
@@ -16,10 +16,6 @@ Alert
 By order of Sheriff Darren Weekly,
 Stage 1 Fire Restrictions
 are in place for unincorporated areas of Douglas County as of Aug. 20, 2026.
-Alert
-In observation of the federal Labor Day holiday, all County offices will be closed on Monday, Sept. 7, 2026. Offices will reopen for regular hours on Tuesday, Sept. 8. Many County services are available 24/7 on our
-Online Services webpage
-.
 Your County
 Service Finder
 Elected Officials

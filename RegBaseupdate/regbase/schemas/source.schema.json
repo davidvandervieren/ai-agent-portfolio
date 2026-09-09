@@ -1,0 +1,297 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "RegBase source record",
+  "type": "object",
+  "required": [
+    "id",
+    "jurisdiction_level",
+    "state",
+    "name",
+    "authority_type",
+    "documents"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "stable slug, e.g. co-weld-county-landuse"
+    },
+    "jurisdiction_level": {
+      "enum": [
+        "federal",
+        "state",
+        "county",
+        "municipal",
+        "special_district",
+        "tribal"
+      ]
+    },
+    "state": {
+      "enum": [
+        "CO",
+        "WY",
+        "NM",
+        "UT",
+        "TX",
+        "US"
+      ]
+    },
+    "county": {
+      "type": "string"
+    },
+    "municipality": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "agency": {
+      "type": "string"
+    },
+    "authority_type": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "oil_gas_conservation",
+          "land_use_zoning",
+          "building_code",
+          "floodplain",
+          "stormwater",
+          "air_quality",
+          "water_quality",
+          "waste",
+          "underground_injection",
+          "pipeline_safety",
+          "roads_row",
+          "wildlife",
+          "cultural_historic",
+          "wetlands_404",
+          "endangered_species",
+          "surface_owner",
+          "fire_code",
+          "noise",
+          "reclamation",
+          "spill_reporting",
+          "tax_fee",
+          "emergency_response",
+          "electrical_utility"
+        ]
+      }
+    },
+    "applies_to": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "midstream_pipeline",
+          "produced_water_line",
+          "swd_well",
+          "compressor_station",
+          "gas_processing_plant",
+          "well_pad",
+          "tank_battery",
+          "metering",
+          "access_road",
+          "electrical_line",
+          "water_crossing",
+          "temporary_workspace"
+        ]
+      }
+    },
+    "code_platform": {
+      "enum": [
+        "municode",
+        "american_legal",
+        "code_publishing",
+        "ecode360",
+        "franklin_legal",
+        "sterling",
+        "quality_code",
+        "self_hosted",
+        "state_register",
+        "ecfr",
+        "unknown",
+        "none"
+      ]
+    },
+    "landing_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "documents": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "title",
+          "url"
+        ],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          },
+          "doc_type": {
+            "enum": [
+              "code",
+              "regulation",
+              "statute",
+              "ordinance",
+              "form",
+              "guidance",
+              "application_packet",
+              "fee_schedule",
+              "checklist",
+              "map",
+              "gis",
+              "policy",
+              "meeting_minutes",
+              "agenda",
+              "permit_record"
+            ]
+          },
+          "format": {
+            "enum": [
+              "html",
+              "pdf",
+              "doc",
+              "xlsx",
+              "zip",
+              "api",
+              "arcgis",
+              "unknown"
+            ]
+          },
+          "citation_root": {
+            "type": "string",
+            "description": "e.g. 'Weld County Code Ch. 23' \u2014 used to build citations"
+          },
+          "notes": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "permits": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "trigger": {
+            "type": "string"
+          },
+          "form_id": {
+            "type": "string"
+          },
+          "form_url": {
+            "type": "string"
+          },
+          "typical_timeline_days": {
+            "type": "string"
+          },
+          "decision_body": {
+            "type": "string"
+          },
+          "public_hearing": {
+            "type": "boolean",
+            "description": "True if a public hearing is required, false if it is not. OMIT the field when this has not been established - there is deliberately no 'unknown' value, because a guessed false reads as a researched finding."
+          },
+          "fee": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "gis": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          },
+          "service_type": {
+            "enum": [
+              "arcgis_rest",
+              "wms",
+              "wfs",
+              "geojson",
+              "shapefile_zip",
+              "kmz",
+              "tile",
+              "unknown"
+            ]
+          },
+          "layer_use": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "contacts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "role": {
+            "type": "string"
+          },
+          "office": {
+            "type": "string"
+          },
+          "phone": {
+            "type": "string"
+          },
+          "email": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "update_watch": {
+      "type": "object",
+      "properties": {
+        "check_urls": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "cadence": {
+          "enum": [
+            "weekly",
+            "monthly",
+            "quarterly"
+          ]
+        },
+        "method": {
+          "enum": [
+            "hash",
+            "rss",
+            "agenda_scan",
+            "search"
+          ]
+        }
+      }
+    },
+    "confidence": {
+      "enum": [
+        "verified",
+        "probable",
+        "unverified"
+      ]
+    },
+    "last_reviewed": {
+      "type": "string"
+    }
+  }
+}

@@ -8,8 +8,8 @@ title: Land Use Code
 doc_type: code
 citation_root: Boulder County Land Use Code
 url: "https://bouldercounty.gov/property-and-land/land-use/planning/land-use-code/"
-sha256: 6acbd6f13d49e8aa2e93d4ef4f1733d36b98fd60bb3ec9e494a8a15c37ca8a00
-fetched_at: "2026-09-05T05:09:21+00:00"
+sha256: 6663b9dc6ac75dfa552468b6d71dbd55b7f0d4016dcbee6720d3f7e85f5e400c
+fetched_at: "2026-09-08T17:35:16+00:00"
 ---
 
 Scam emails have been impersonating Boulder County Community Planning and Permitting staff. Learn how to spot a scam email .

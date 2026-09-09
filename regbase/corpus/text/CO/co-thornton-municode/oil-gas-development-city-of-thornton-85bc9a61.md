@@ -8,8 +8,8 @@ agency: City of Thornton
 title: Oil & Gas Development | City of Thornton
 doc_type: guidance
 url: "https://www.thorntonco.gov/business-development/active-development/oil-gas-development"
-sha256: 3de7ee201481eae795932cf2d095610ee0bdccd17bbdd3e78beeda4a2b36fba9
-fetched_at: "2026-09-05T05:10:42+00:00"
+sha256: 90d9b0b8db26df5a44e94c4c262fb967347c05d0d34d08aad78e5717deaf732d
+fetched_at: "2026-09-08T17:39:00+00:00"
 ---
 
 <!-- heading-path: Oil & Gas Development -->

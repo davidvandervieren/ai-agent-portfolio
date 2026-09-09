@@ -7,8 +7,8 @@ title: Rules | ECMC (current rules index)
 doc_type: regulation
 citation_root: 2 CCR 404-1
 url: "https://ecmc.colorado.gov/regulation/rules"
-sha256: b8ba11ab5cd5dd32afa49d34f73543c42ef9c616e15cd8d63efe56430897393a
-fetched_at: "2026-09-05T05:09:34+00:00"
+sha256: 1f6f3a4f51b2d00022d78fc88626c008a0d6f7aa6c05a099182bc64f09ef70c7
+fetched_at: "2026-09-08T17:28:11+00:00"
 ---
 
 Rulemaking is the process by which government agencies create, amend, or repeal rules. Rules are the resulting regulations or guidelines that have the force of law.

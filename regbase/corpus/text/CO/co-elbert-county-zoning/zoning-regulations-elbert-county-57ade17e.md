@@ -7,15 +7,13 @@ agency: Elbert County Community & Development Services
 title: Zoning Regulations | Elbert County
 doc_type: code
 url: "https://www.elbertcounty-co.gov/464/Zoning-Regulations"
-sha256: 88d33f6e6e18fa0e81c7539a94cef258e1dc840133629a6a0a439cacb4b4a569
-fetched_at: "2026-09-05T05:09:40+00:00"
+sha256: 170daee0ae10c79b7a9dd0ffb401f0d63221dd7de69dbe5a0e0f8da7c7fdba18
+fetched_at: "2026-09-08T17:36:36+00:00"
 ---
 
 Zoning Regulations | Elbert County, CO
 Skip to Main Content
 Alert Center
-Elbert County Offices Closed Monday, Sept. 7, 2026
-Read On...
 Comprehensive Plan Update from Planning Commission Chair Kevin Kirkwood
 Read On...
 Create a Website Account

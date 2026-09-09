@@ -6,8 +6,8 @@ agency: Colorado Department of Labor and Employment, Division of Oil and Public 
 title: Contact | Division of Oil and Public Safety
 doc_type: guidance
 url: "https://ops.colorado.gov/contact"
-sha256: 42b5af23c0d5fd15d0c0009a9761e9d2c47ae0b09b2f9b2b20e30e078bca45e3
-fetched_at: "2026-09-05T05:09:22+00:00"
+sha256: 7865c82b8ba29a1872cabbdc40ebdb1ebb26a6d4ca06593285cc2ed7cb27c87f
+fetched_at: "2026-09-08T17:34:29+00:00"
 ---
 
 <!-- heading-path: Error message -->

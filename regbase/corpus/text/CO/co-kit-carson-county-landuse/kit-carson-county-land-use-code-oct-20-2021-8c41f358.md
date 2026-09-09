@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Kit Carson County Land Use Code (2021)
 url: "https://kitcarsoncounty.colorado.gov/sites/g/files/lrnvjt1876/files/documents/21-057_Kit%20Carson%20County%20Land%20Use%20Code%20-%20October%2020,%202021%20Final.pdf"
 sha256: 05ef577461b1045e1dc0248b230faec1012c212303c4904ecf458542ce10695e
-fetched_at: "2026-09-05T05:10:04+00:00"
+fetched_at: "2026-09-08T17:36:55+00:00"
 ---
 
 <!-- page: 1 -->

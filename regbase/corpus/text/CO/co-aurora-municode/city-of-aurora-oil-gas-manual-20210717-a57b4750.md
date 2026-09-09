@@ -9,7 +9,7 @@ title: City of Aurora Oil & Gas Manual (2021.07.17)
 doc_type: guidance
 url: "https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_1881137/File/Residents/Oil%20and%20Gas%20Drilling/Aurora%20Oil%20&%20Gas%20Manual%202021.07.17.pdf"
 sha256: 9f407e89e4504e0e7b430f0a1c7cb195538a67ad819e06758bfd8418c61a3673
-fetched_at: "2026-09-05T05:09:16+00:00"
+fetched_at: "2026-09-08T17:38:27+00:00"
 ---
 
 <!-- page: 1 -->

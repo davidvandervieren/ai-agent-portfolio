@@ -7,8 +7,8 @@ agency: Rio Blanco County Planning / Building Department
 title: Oil & Gas Permits | Rio Blanco County
 doc_type: guidance
 url: "https://www.rbc.us/172/Oil-Gas-Permits"
-sha256: 3e366f0fbb1a186fbbece3548fd8196a199ce4d8f16cba1d045e5e940eee26dd
-fetched_at: "2026-09-05T05:10:42+00:00"
+sha256: 8f700be42a9a3b7bad403176a8b4279495e57847cbcd3732ba57f19583c4b119
+fetched_at: "2026-09-08T17:35:38+00:00"
 ---
 
 Rio Blanco County, CO

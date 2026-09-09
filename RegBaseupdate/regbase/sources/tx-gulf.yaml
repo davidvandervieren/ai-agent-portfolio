@@ -1,0 +1,1492 @@
+sources:
+- id: tx-fort-worth-gas-well
+  jurisdiction_level: municipal
+  state: TX
+  county: Tarrant
+  municipality: Fort Worth
+  name: City of Fort Worth Gas Well Drilling and Production Ordinance
+  agency: City of Fort Worth Development Services Department (Gas Wells)
+  authority_type:
+  - land_use_zoning
+  - fire_code
+  - noise
+  - reclamation
+  - roads_row
+  - emergency_response
+  applies_to:
+  - well_pad
+  - access_road
+  - midstream_pipeline
+  code_platform: american_legal
+  landing_url: https://www.fortworthtexas.gov/departments/development-services/gaswells
+  documents:
+  - title: 'Fort Worth Code of Ordinances, Chapter 15: Gas'
+    url: https://codelibrary.amlegal.com/codes/ftworth/latest/ftworth_tx/0-0-0-17850
+    doc_type: ordinance
+    format: html
+    citation_root: Fort Worth Code of Ordinances Ch. 15
+    notes: Umbrella chapter for gas well drilling and production regulation, recodified post-HB 40 (2015)
+      to surface-level "commercially reasonable" scope (setbacks, noise, emergency response, ROW/pipeline
+      routing) rather than operational regulation.
+  - title: § 15-34 Gas Well Permit Required
+    url: https://codelibrary.amlegal.com/codes/ftworth/latest/ftworth_tx/0-0-0-18021
+    doc_type: ordinance
+    format: html
+    citation_root: Fort Worth Code of Ordinances § 15-34
+  - title: § 15-36 Gas Well Permitting Procedure
+    url: https://codelibrary.amlegal.com/codes/ftworth/latest/ftworth_tx/0-0-0-18116
+    doc_type: ordinance
+    format: html
+    citation_root: Fort Worth Code of Ordinances § 15-36
+  - title: § 15-42 Technical Regulations (noise, emergency response plans)
+    url: https://codelibrary.amlegal.com/codes/ftworth/latest/ftworth_tx/0-0-0-18268
+    doc_type: ordinance
+    format: html
+    citation_root: Fort Worth Code of Ordinances § 15-42
+  - title: § 15-45 Plugged and Abandoned Wells
+    url: https://codelibrary.amlegal.com/codes/ftworth/latest/ftworth_tx/0-0-0-18565
+    doc_type: ordinance
+    format: html
+    citation_root: Fort Worth Code of Ordinances § 15-45
+  - title: 'Article III: Gas Well Drilling and Production Fees'
+    url: https://codelibrary.amlegal.com/codes/ftworth/latest/ftworth_tx/0-0-0-18736
+    doc_type: fee_schedule
+    format: html
+    citation_root: Fort Worth Code of Ordinances Ch. 15, Art. III
+  - title: Gas well setback information sheet (PDF)
+    url: https://www.fortworthtexas.gov/files/assets/public/v/3/development-services/documents/resources-applications-forms-videos/g/gaswell-setback-information.pdf
+    doc_type: guidance
+    format: pdf
+  permits:
+  - name: Gas Well Permit
+    trigger: Drill, redrill, deepen, or reopen a gas well within city limits; also covers related surface
+      facilities
+    decision_body: Development Services Director / Gas Well Review process (City Council for
+      variances/waivers)
+    public_hearing: true
+    fee: See Ch. 15 Art. III Gas Well Drilling and Production Fees schedule (unverified exact amount)
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-denton-gas-well
+  jurisdiction_level: municipal
+  state: TX
+  county: Denton
+  municipality: Denton
+  name: City of Denton Gas Well Ordinance
+  agency: City of Denton Development Services
+  authority_type:
+  - land_use_zoning
+  - noise
+  - fire_code
+  - roads_row
+  - stormwater
+  applies_to:
+  - well_pad
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.cityofdenton.com/183/Gas-Well-Inspections
+  documents:
+  - title: Denton Gas Well FAQ
+    url: https://www.cityofdenton.com/m/faq?cat=19#question-99
+    doc_type: guidance
+    format: html
+    notes: States gas well ordinance is Denton Municipal Code § 19-2131 and requirements also appear in
+      Denton Development Code Subchapter 6; not independently verified against the code library this
+      session.
+  - title: 'Developers agree to new gas well setbacks (Denton Record-Chronicle)'
+    url: https://dentonrc.com/news/developers-agree-to-new-gas-well-setbacks-but-no-more-updates-to-denton-ordinance-for/article_7ca05e1d-46cc-5b8d-bcd6-ac60a5f532ad.html
+    doc_type: guidance
+    format: html
+  - title: 'Denton activists regrouping after fracking ban nullified by HB 40 (Green Source Texas)'
+    url: https://www.greensourcetexas.org/articles/denton-activists-regrouping-after-city-s-historic-fracking-ban-nullified-hb-40
+    doc_type: guidance
+    format: html
+    notes: Background on 2014 Denton fracking ban -> HB 40 (2015) nullification -> narrowed surface-only
+      ordinance.
+  permits:
+  - name: Gas Well Permit
+    trigger: New gas well or amendment within city limits
+    decision_body: Development Services / City Council (for setback variances)
+    public_hearing: true
+    fee: unverified
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+
+- id: tx-arlington-gas-drilling
+  jurisdiction_level: municipal
+  state: TX
+  county: Tarrant
+  municipality: Arlington
+  name: City of Arlington Gas Drilling and Production Chapter (GDPO)
+  agency: City of Arlington
+  authority_type:
+  - land_use_zoning
+  - roads_row
+  - noise
+  applies_to:
+  - well_pad
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.arlingtontx.gov/files/assets/city/v/2/city-secretary/documents/city-code-of-ordinances/gas-drilling-and-production-chapter.pdf
+  documents:
+  - title: Gas Drilling and Production Chapter (full ordinance PDF)
+    url: https://www.arlingtontx.gov/files/assets/city/v/2/city-secretary/documents/city-code-of-ordinances/gas-drilling-and-production-chapter.pdf
+    doc_type: ordinance
+    format: pdf
+    citation_root: Arlington Gas Drilling and Production Chapter
+    notes: Adopted 2003, amended 2011 to require Council-approved "drilling zones" rather than individual
+      well-site permits; 600 ft minimum setback from parks/protected uses (supermajority Council approval
+      required inside 600 ft).
+  - title: Municipal Drilling Zones - Arlington v. City of Arlington case summary
+    url: https://producersedge.law/municipal-drilling-zones-insights-from-arlington-v-city-of-arlington/
+    doc_type: guidance
+    format: html
+  permits:
+  - name: Gas Drilling Zone Permit / Specific Use Permit
+    trigger: New gas well or drilling zone establishment/expansion
+    decision_body: City Council (new/expanded drilling zones); staff-level for wells within an
+      already-approved drilling zone
+    public_hearing: true
+    fee: unverified
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-southlake-oil-gas
+  jurisdiction_level: municipal
+  state: TX
+  county: Tarrant
+  municipality: Southlake
+  name: City of Southlake Oil & Gas Drilling and Production Regulations
+  agency: City of Southlake
+  authority_type:
+  - land_use_zoning
+  - roads_row
+  - noise
+  applies_to:
+  - well_pad
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.cityofsouthlake.com/905/Oil-Gas-Drilling-and-Production
+  documents:
+  - title: Oil & Gas Drilling and Production landing page
+    url: https://www.cityofsouthlake.com/905/Oil-Gas-Drilling-and-Production
+    doc_type: guidance
+    format: html
+    notes: States gas permit process requires Article IV, Chapter 9.5 of the City Code plus a Specific
+      Use Permit (SUP); 1,000 ft setback per secondary source (Ordinance 880-B, amended 2011-10-18).
+  - title: Ordinance No. 880-A (Southlake oil & gas ordinance, hosted by Cedar Hill TX as a benchmark copy)
+    url: https://cedarhilltx.com/DocumentCenter/View/1512/Southlake?bidId=
+    doc_type: ordinance
+    format: pdf
+    notes: Third-party-hosted copy of a Southlake ordinance version used by another city as a benchmark;
+      verify against Southlake's own current code before relying on specifics.
+  - title: City of Southlake Ordinances index
+    url: https://www.cityofsouthlake.com/307/Ordinances
+    doc_type: ordinance
+    format: html
+  permits:
+  - name: Gas Permit (with prerequisite Specific Use Permit)
+    trigger: New gas well drilling
+    decision_body: City Council (SUP) then staff (gas permit)
+    public_hearing: true
+    fee: unverified
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+
+- id: tx-colleyville-oil-gas
+  jurisdiction_level: municipal
+  state: TX
+  county: Tarrant
+  municipality: Colleyville
+  name: City of Colleyville Oil and Gas Well Ordinance
+  agency: City of Colleyville
+  authority_type:
+  - land_use_zoning
+  - roads_row
+  applies_to:
+  - well_pad
+  code_platform: unknown
+  landing_url: https://www.texas-drilling.com/tarrant-county/colleyville
+  documents:
+  - title: Oil Wells and Drilling Locations near Colleyville, TX (third-party summary; cites 1,000 ft setback)
+    url: https://www.texas-drilling.com/tarrant-county/colleyville
+    doc_type: guidance
+    format: html
+    notes: Third-party site, not the city's own code; official Colleyville ordinance chapter/number not
+      located this session -- needs direct verification against the city's municipal code platform.
+  permits: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+
+- id: tx-grapevine-oil-gas-well
+  jurisdiction_level: municipal
+  state: TX
+  county: Tarrant
+  municipality: Grapevine
+  name: City of Grapevine Oil and Gas Well Drilling and Regulation Ordinance
+  agency: City of Grapevine
+  authority_type:
+  - land_use_zoning
+  - roads_row
+  - noise
+  applies_to:
+  - well_pad
+  - access_road
+  code_platform: municode
+  landing_url: https://library.municode.com/tx/grapevine/codes/code_of_ordinances?nodeId=PTIICOOR_CH12HESA_ARTVIIOIGAWEDRRE_S12-143PECO
+  documents:
+  - title: 'Code of Ordinances, Ch. 12 Health and Sanitation, Art. VII Oil and Gas Well Drilling and Regulation, § 12-143 Permits/Compliance'
+    url: https://library.municode.com/tx/grapevine/codes/code_of_ordinances?nodeId=PTIICOOR_CH12HESA_ARTVIIOIGAWEDRRE_S12-143PECO
+    doc_type: ordinance
+    format: html
+    citation_root: Grapevine Code of Ordinances Ch. 12, Art. VII
+  - title: Special Use Application - Oil & Gas Drilling (application form PDF)
+    url: https://www.grapevinetexas.gov/DocumentCenter/View/185/Special-Use-Application-Oil---Gas-Drilling
+    doc_type: application_packet
+    format: pdf
+  - title: 'Grapevine considers changes to oil and gas drilling ordinance (Community Impact, 2012)'
+    url: https://communityimpact.com/dallas-fort-worth/news/2012/03/21/grapevine-considers-changes-to-oil-and-gas-drilling-ordinance/
+    doc_type: guidance
+    format: html
+  permits:
+  - name: Special Use Permit - Oil & Gas Drilling
+    trigger: New oil/gas well drilling within city limits
+    form_url: https://www.grapevinetexas.gov/DocumentCenter/View/185/Special-Use-Application-Oil---Gas-Drilling
+    decision_body: City Council / Planning & Zoning Commission (SUP process)
+    public_hearing: true
+    fee: unverified
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-keller-gas-well
+  jurisdiction_level: municipal
+  state: TX
+  county: Tarrant
+  municipality: Keller
+  name: City of Keller Gas Well Ordinance (Unified Development Code, Article Twelve)
+  agency: City of Keller Planning and Development Services
+  authority_type:
+  - land_use_zoning
+  - noise
+  - roads_row
+  applies_to:
+  - well_pad
+  - access_road
+  code_platform: municode
+  landing_url: https://library.municode.com/tx/keller
+  documents:
+  - title: Keller Unified Development Code, Article Twelve - Gas Well regulations (Granicus-hosted PDF)
+    url: https://cityofkeller.granicus.com/DocumentViewer.php?file=cityofkeller_6283b2dfd9e5b4a29a228d738df8c3f9.pdf
+    doc_type: ordinance
+    format: pdf
+    citation_root: Keller Unified Development Code, Art. XII
+    notes: Covers noise mitigation, utility descriptions, property line documentation, building footprints
+      for gas well sites; exact current UDC article/section numbering not independently cross-checked
+      against Municode this session.
+  - title: Code of Ordinances | Keller, TX - Municode Library (landing page)
+    url: https://library.municode.com/tx/keller
+    doc_type: code
+    format: html
+  permits:
+  - name: Gas Well Permit
+    trigger: New gas well drilling within city limits
+    decision_body: unverified
+    public_hearing: true
+    fee: unverified
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+
+- id: tx-mansfield-gas-well
+  jurisdiction_level: municipal
+  state: TX
+  county: Tarrant
+  municipality: Mansfield
+  name: City of Mansfield Gas Well Drilling and Production Ordinance
+  agency: City of Mansfield Gas Well Inspector / Planning
+  authority_type:
+  - land_use_zoning
+  - noise
+  - roads_row
+  - fire_code
+  applies_to:
+  - well_pad
+  - access_road
+  - compressor_station
+  code_platform: american_legal
+  landing_url: https://www.mansfieldtexas.gov/353/Gas-Well-Drilling
+  documents:
+  - title: 'Chapter 114: Gas Well Drilling and Production'
+    url: https://codelibrary.amlegal.com/codes/mansfieldtx/latest/mansfield_tx/0-0-0-44815
+    doc_type: ordinance
+    format: html
+    citation_root: Mansfield Code of Ordinances Ch. 114
+    notes: Sections cover purpose/intent, definitions, compressors, seismic surveys, road repair
+      agreements, operator's agent, gas well permit requirements, application/review, insurance,
+      security, periodic reports, amended permits.
+  - title: § 114.10 Amended Gas Well Permits
+    url: https://codelibrary.amlegal.com/codes/mansfieldtx/latest/mansfield_tx/0-0-0-45022
+    doc_type: ordinance
+    format: html
+    citation_root: Mansfield Code of Ordinances § 114.10
+  - title: § 114.055 Platting Requirements for Certain Residential Developments Adjacent to Gas Wells
+    url: https://codelibrary.amlegal.com/codes/mansfieldtx/latest/mansfield_tx/0-0-0-44935
+    doc_type: ordinance
+    format: html
+    citation_root: Mansfield Code of Ordinances § 114.055
+  - title: '§ 155.102 Gas Well Drilling and Production (Zoning chapter cross-reference)'
+    url: https://codelibrary.amlegal.com/codes/mansfieldtx/latest/mansfield_tx/0-0-0-50231
+    doc_type: ordinance
+    format: html
+    citation_root: Mansfield Code of Ordinances § 155.102
+  - title: Permit Applications & Forms
+    url: https://www.mansfieldtexas.gov/171/Permit-Applications-Forms
+    doc_type: application_packet
+    format: html
+  permits:
+  - name: Gas Well Permit
+    trigger: New gas well drilling/production; compressors; seismic surveys
+    decision_body: Gas Well Inspector / staff review
+    public_hearing: false
+    fee: unverified
+  - name: Specific Use Permit (SUP) - Gas Well
+    trigger: Zoning approval required alongside gas well permit per Ch. 155 Zoning
+    decision_body: Planning & Zoning Commission / City Council
+    public_hearing: true
+    typical_timeline_days: '90-120'
+    fee: unverified
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-flower-mound-oil-gas
+  jurisdiction_level: municipal
+  state: TX
+  county: Denton
+  municipality: Flower Mound
+  name: Town of Flower Mound Oil and Natural Gas Well Drilling Ordinance
+  agency: Town of Flower Mound
+  authority_type:
+  - land_use_zoning
+  - noise
+  - emergency_response
+  - water_quality
+  applies_to:
+  - well_pad
+  - access_road
+  code_platform: municode
+  landing_url: https://www.flowermound.gov/308/Oil-and-Natural-Gas-Operations
+  documents:
+  - title: Oil and Natural Gas Operations landing page
+    url: https://www.flowermound.gov/308/Oil-and-Natural-Gas-Operations
+    doc_type: guidance
+    format: html
+  - title: 'Code of Ordinances, Appendix B - Franchises, Art. III GAS'
+    url: https://library.municode.com/tx/flower_mound/codes/code_of_ordinances?nodeId=SPBLADERE_APXBFR_ARTIIIGA
+    doc_type: ordinance
+    format: html
+    citation_root: Flower Mound Code of Ordinances, App. B, Art. III
+  - title: 'Code of Ordinances, Ch. 34 Environment, Art. VIII Oil and Gas Pipelines/Storage'
+    url: https://library.municode.com/tx/flower_mound/codes/code_of_ordinances?nodeId=SPAGEOR_CH34EN_ARTVIIIOIGAPIST
+    doc_type: ordinance
+    format: html
+    citation_root: Flower Mound Code of Ordinances Ch. 34, Art. VIII
+    notes: Original ordinance adopted May 2003; amended 2005, 2007, and a substantially rewritten version
+      in 2011. 2011 version requires pre/post-drilling water well sampling within 1,500 ft of a gas well;
+      penalty up to $2,000/day/violation. Widely used as a template by other North Texas cities.
+  - title: FAQs - Oil and Gas Drilling
+    url: https://www.flower-mound.com/386/FAQ
+    doc_type: guidance
+    format: html
+  permits:
+  - name: Oil and Natural Gas Well Drilling Permit
+    trigger: New gas well drilling, redrilling, or reworking within town limits
+    decision_body: Town staff / Council for variances
+    public_hearing: true
+    fee: unverified
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-tarrant-county-engineering
+  jurisdiction_level: county
+  state: TX
+  county: Tarrant
+  name: Tarrant County Transportation Services / Engineering - Subdivision, ROW, Floodplain, and Utility
+    Permits
+  agency: Tarrant County Transportation Services Department / Engineering Services
+  authority_type:
+  - roads_row
+  - floodplain
+  - land_use_zoning
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  - water_crossing
+  code_platform: self_hosted
+  landing_url: https://www.tarrantcountytx.gov/en/engineering-services/engineering.html
+  documents:
+  - title: Tarrant County Subdivision and Land Use Regulations
+    url: https://www.tarrantcountytx.gov/content/dam/main/transportation/SubdivisionandLandUseRegulations.pdf
+    doc_type: regulation
+    format: pdf
+    notes: References gas well site requirements and floodplain restrictions to be shown on plats.
+  - title: Guidelines for Development in Unincorporated Tarrant County (April 2025)
+    url: https://www.tarrantcountytx.gov/content/dam/main/transportation/platting/GuidelinesforDevelopmentinUnincorporatedTarrantCountyApril2025.pdf
+    doc_type: guidance
+    format: pdf
+  - title: Floodplain Permits
+    url: https://www.tarrantcountytx.gov/en/engineering-services/engineering/floodplain-permits.html
+    doc_type: guidance
+    format: html
+  - title: Utility Permits (ROW)
+    url: https://www.tarrantcountytx.gov/en/engineering-services/engineering/utility-permits.html
+    doc_type: guidance
+    format: html
+  - title: Permitting (index)
+    url: https://www.tarrantcountytx.gov/en/engineering-services/engineering/permits.html
+    doc_type: guidance
+    format: html
+  - title: Tarrant County Standard Plat Notes
+    url: https://www.tarrantcountytx.gov/content/dam/main/transportation/Standard_Plat_Notes.pdf
+    doc_type: checklist
+    format: pdf
+  permits:
+  - name: Utility/ROW Permit
+    trigger: Any utility (incl. pipeline) placed within Tarrant County public road right-of-way
+    decision_body: Transportation Services Department
+    public_hearing: false
+  - name: Floodplain Development Permit
+    trigger: Work within a FEMA-designated floodplain in unincorporated Tarrant County
+    decision_body: Engineering Services
+    public_hearing: false
+    fee: 'Free (per search result; unverified)'
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-denton-county-subdivision
+  jurisdiction_level: county
+  state: TX
+  county: Denton
+  name: Denton County Subdivision Rules and Regulations
+  agency: Denton County
+  authority_type:
+  - roads_row
+  - floodplain
+  - land_use_zoning
+  applies_to:
+  - access_road
+  - midstream_pipeline
+  code_platform: self_hosted
+  landing_url: https://www.dentoncounty.gov/DocumentCenter/View/1474/Denton-County-Subdivision-Rules-and-Regulations-PDF
+  documents:
+  - title: Denton County Subdivision Rules and Regulations (July 2009)
+    url: https://www.dentoncounty.gov/DocumentCenter/View/1474/Denton-County-Subdivision-Rules-and-Regulations-PDF
+    doc_type: regulation
+    format: pdf
+    notes: Date on the document (2009) suggests it may have been amended since; not independently checked
+      for a more current version this session.
+  - title: 2022 Transportation Bond (Proposition A) Facts
+    url: https://www.dentoncounty.gov/1669/2022-Transportation-Bond-Proposition-A
+    doc_type: guidance
+    format: html
+  permits:
+  - name: Pipeline/Utility County Road Crossing Permit
+    trigger: Pipeline or utility crossing a Denton County-maintained road
+    decision_body: Commissioners Court / Public Works (structure not independently confirmed)
+    public_hearing: false
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+
+- id: tx-wise-county-ossf-permits
+  jurisdiction_level: county
+  state: TX
+  county: Wise
+  name: Wise County Permits (OSSF, Subdivision, Road)
+  agency: Wise County
+  authority_type:
+  - waste
+  - roads_row
+  - land_use_zoning
+  applies_to:
+  - access_road
+  - well_pad
+  code_platform: self_hosted
+  landing_url: https://www.co.wise.tx.us/321/Important-Documents
+  documents:
+  - title: Important Documents (OSSF application, Site Evaluation Report, and other county permit forms)
+    url: https://www.co.wise.tx.us/321/Important-Documents
+    doc_type: form
+    format: html
+  permits:
+  - name: OSSF Permit (On-Site Sewage Facility)
+    trigger: New or altered septic/on-site sewage system, e.g. at well pad support facilities
+    decision_body: Wise County Environmental Health / OSSF Designated Representative
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+
+- id: tx-johnson-county-subdivision
+  jurisdiction_level: county
+  state: TX
+  county: Johnson
+  name: Johnson County Subdivision Rules and Regulations
+  agency: Johnson County Public Works Department
+  authority_type:
+  - roads_row
+  - land_use_zoning
+  applies_to:
+  - access_road
+  - midstream_pipeline
+  code_platform: self_hosted
+  landing_url: https://www.johnsoncountytx.org/home/showdocument?id=2739
+  documents:
+  - title: Subdivision Rules and Regulations of Johnson County, Texas
+    url: https://www.johnsoncountytx.org/home/showdocument?id=2739
+    doc_type: regulation
+    format: pdf
+  permits:
+  - name: Development Permit
+    trigger: Subdivision/development activity in unincorporated Johnson County
+    decision_body: Johnson County Public Works Department
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+
+- id: tx-parker-county-subdivision
+  jurisdiction_level: county
+  state: TX
+  county: Parker
+  name: Parker County Subdivision Regulations and Construction Standards
+  agency: Parker County
+  authority_type:
+  - roads_row
+  - land_use_zoning
+  applies_to:
+  - access_road
+  - midstream_pipeline
+  code_platform: self_hosted
+  landing_url: https://www.parkercountytx.gov/DocumentCenter/View/11380/SUBDIVISION-RULES-AND-REGULATIONS-OCTOBER-2024-PDF
+  documents:
+  - title: Parker County Subdivision Regulations and Construction Standards (October 2024)
+    url: https://www.parkercountytx.gov/DocumentCenter/View/11380/SUBDIVISION-RULES-AND-REGULATIONS-OCTOBER-2024-PDF
+    doc_type: regulation
+    format: pdf
+    notes: Requires pipeline information and culvert sizing tables to be shown on the face of the plat
+      (culvert sizing provision adopted by Commissioners Court 2023-12-26).
+  permits:
+  - name: Plat Approval (with pipeline/culvert notations)
+    trigger: Subdivision plat in unincorporated Parker County crossed by or adjacent to a pipeline
+    decision_body: Commissioners Court
+    public_hearing: true
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-hood-county-development
+  jurisdiction_level: county
+  state: TX
+  county: Hood
+  name: Hood County Development, Subdivision, and Floodplain Regulations
+  agency: Hood County Development Department
+  authority_type:
+  - floodplain
+  - roads_row
+  - land_use_zoning
+  applies_to:
+  - access_road
+  - water_crossing
+  code_platform: self_hosted
+  landing_url: https://hoodcounty.texas.gov/departments/development/index.php
+  documents:
+  - title: Development Regulations
+    url: https://hoodcounty.texas.gov/departments/development/regulations.php
+    doc_type: regulation
+    format: html
+  - title: Floodplain
+    url: https://hoodcounty.texas.gov/departments/development/floodplain.php
+    doc_type: guidance
+    format: html
+  - title: Development FAQs
+    url: https://hoodcounty.texas.gov/departments/development/faqs.php
+    doc_type: guidance
+    format: html
+  - title: Forms
+    url: https://hoodcounty.texas.gov/departments/development/forms.php
+    doc_type: form
+    format: html
+  permits:
+  - name: Floodplain Development Permit
+    trigger: Construction or excavation within a Special Flood Hazard Area
+    decision_body: Hood County Floodplain Administrator
+  contacts:
+  - role: Floodplain Administrator
+    office: Hood County Development
+    phone: 817-408-2515
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-ellis-county-subdivision
+  jurisdiction_level: county
+  state: TX
+  county: Ellis
+  name: Ellis County Quality Growth Initiatives - Subdivision and Development Standards
+  agency: Ellis County
+  authority_type:
+  - roads_row
+  - land_use_zoning
+  - floodplain
+  applies_to:
+  - access_road
+  - midstream_pipeline
+  code_platform: self_hosted
+  landing_url: https://www.ellispermits.com/regs
+  documents:
+  - title: Ellis County Quality Growth Initiatives Volume I - Subdivision and Development Standards
+    url: https://www.co.ellis.tx.us/DocumentCenter/View/9529/Ellis-County-Quality-Growth-Initiatives-Volume-I---Subdivision-and-Development-Standards
+    doc_type: regulation
+    format: pdf
+  - title: Ellis County Subdivision Regulations (NCTCOG-hosted copy)
+    url: https://www.nctcog.org/getmedia/d7375f3f-18e7-47cb-a01f-33c6eabf716a/EllisCountySubdivisionRegulations.pdf.aspx
+    doc_type: regulation
+    format: pdf
+  - title: Regulations | ellispermits.com
+    url: https://www.ellispermits.com/regs
+    doc_type: guidance
+    format: html
+  permits:
+  - name: Floodplain Development Permit
+    trigger: Development within a special flood hazard area in unincorporated Ellis County (county
+      floodplain order dates to 1977)
+    decision_body: Ellis County Floodplain Administrator
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-laredo-ordinances
+  jurisdiction_level: municipal
+  state: TX
+  county: Webb
+  municipality: Laredo
+  name: City of Laredo Code of Ordinances - Fuel Gas Code and Streets/ROW Permits
+  agency: City of Laredo Building Development Services
+  authority_type:
+  - fire_code
+  - roads_row
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: municode
+  landing_url: https://www.cityoflaredo.com/departments/building-development-services/city-ordinances
+  documents:
+  - title: 'Code of Ordinances, Ch. 28 Streets, Sidewalks and Public Places, Art. II Sidewalks/ROW'
+    url: https://library.municode.com/tx/laredo/codes/code_of_ordinances?nodeId=PTIICOOR_CH28STSIPUPL_ARTIISIOR
+    doc_type: ordinance
+    format: html
+    citation_root: Laredo Code of Ordinances Ch. 28, Art. II
+  - title: 'Chapter 7 Building and Building Regulations (adopts 2021 International Fuel Gas Code amendments)'
+    url: https://library.municode.com/tx/laredo/codes/code_of_ordinances?nodeId=PTIICOOR_CH7BUBURE
+    doc_type: ordinance
+    format: html
+    citation_root: Laredo Code of Ordinances Ch. 7 / Ch. 25
+  - title: City of Laredo Ordinances (department landing page)
+    url: https://www.cityoflaredo.com/departments/building-development-services/city-ordinances
+    doc_type: guidance
+    format: html
+  permits:
+  - name: ROW/Street Excavation or Encroachment Permit
+    trigger: Pipeline or utility work within city street ROW
+    decision_body: Building Development Services / Public Works
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-eagle-ford-county-road-damage-context
+  jurisdiction_level: county
+  state: TX
+  county: La Salle
+  name: Eagle Ford Shale county road funding/road-damage regulatory context (La Salle, Dimmit, Karnes,
+    DeWitt, Live Oak, Goliad)
+  agency: Multiple Eagle Ford county Commissioners Courts; TxDOT Energy Sector road funding program
+  authority_type:
+  - roads_row
+  applies_to:
+  - access_road
+  - midstream_pipeline
+  code_platform: unknown
+  landing_url: https://www.tpr.org/texas/2015-01-15/in-the-heart-of-the-eagle-ford-shale-the-roads-to-perdition
+  documents:
+  - title: In The Heart Of The Eagle Ford Shale, The Roads To Perdition (TPR)
+    url: https://www.tpr.org/texas/2015-01-15/in-the-heart-of-the-eagle-ford-shale-the-roads-to-perdition
+    doc_type: guidance
+    format: html
+    notes: Background on Eagle Ford heavy-truck county road damage and TxDOT Energy Sector Road funding
+      grants (Karnes, Live Oak, DeWitt, Dimmit, La Salle, Goliad received grants; needs estimated far
+      higher than funding).
+  - title: La Salle County sues state over how cash was doled out for damaged roads (Houston Chronicle)
+    url: https://www.houstonchronicle.com/news/houston-texas/houston/article/La-Salle-County-sues-state-over-how-cash-was-5452643.php
+    doc_type: guidance
+    format: html
+  - title: Judge rejects La Salle County suit against TxDOT on shale oil road fund (Statesman)
+    url: https://www.statesman.com/story/news/2014/07/18/judge-rejects-lasalle-county-suit-against-txdot-on-shale-oil-road-fund/10084631007/
+    doc_type: guidance
+    format: html
+  - title: 'Texas County Wants Eagle Ford Road Damage Suit Revived (Law360, re: Dimmit County v. operators)'
+    url: https://www.law360.com/articles/1112568/texas-county-wants-eagle-ford-road-damage-suit-revived
+    doc_type: guidance
+    format: html
+  permits: []
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-port-houston-authority-pipeline
+  jurisdiction_level: special_district
+  state: TX
+  county: Harris
+  name: Port of Houston Authority - Pipeline License / Crossing Permits
+  agency: Port of Houston Authority, Channel Infrastructure / Real Property Department
+  authority_type:
+  - roads_row
+  - water_quality
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - water_crossing
+  code_platform: self_hosted
+  landing_url: https://porthouston.com/infrastructure/development/channel-infrastructure/
+  documents:
+  - title: Channel Infrastructure - Port Houston (landing page)
+    url: https://porthouston.com/infrastructure/development/channel-infrastructure/
+    doc_type: guidance
+    format: html
+  - title: Port Commission Meeting Minutes (June 25, 2024) - includes pipeline license approvals/fee
+      examples
+    url: https://porthouston.com/wp-content/uploads/2024/07/June-25-2024-Port-Commission-Meeting-Minutes_Final-1.pdf
+    doc_type: meeting_minutes
+    format: pdf
+    notes: Pipeline licenses are typically 30-year terms; example fee cited was $16,684 for an initial
+      10-year term for a two-pipe cement pipe rack crossing (Sesco Cement Corp example) -- fee scales
+      with pipeline size/count, not a flat schedule.
+  - title: Port Commission Meeting Agenda (Sept 26, 2023)
+    url: https://porthouston.com/wp-content/uploads/2023/09/PC-Public-Book-Sept-2023.pdf
+    doc_type: agenda
+    format: pdf
+  permits:
+  - name: Pipeline License (crossing Port Authority property/channel)
+    trigger: Pipeline or utility crossing Port of Houston Authority-owned channel, turning basin, or ROW
+      (Houston Ship Channel)
+    decision_body: Port Commission
+    public_hearing: true
+    typical_timeline_days: unverified
+    fee: Varies by pipeline size/count and term; example $16,684 for a 10-year initial term (2-pipe rack)
+      per 2024 Port Commission minutes
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-harris-county-flood-control-district
+  jurisdiction_level: special_district
+  state: TX
+  county: Harris
+  name: Harris County Flood Control District - ROW / Channel Crossing Permits
+  agency: Harris County Flood Control District (administered via Harris County Engineering / Office of
+    the County Engineer)
+  authority_type:
+  - floodplain
+  - roads_row
+  - water_quality
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - water_crossing
+  code_platform: self_hosted
+  landing_url: https://oce.harriscountytx.gov/Services/Permits/Permits-A-to-Z/Flood-Control-District-Right-of-Way-Notification-Standard-Bonds-ONLY
+  documents:
+  - title: Flood Control District Right-of-Way Notification - Standard Bonds (ONLY)
+    url: https://oce.harriscountytx.gov/Services/Permits/Permits-A-to-Z/Flood-Control-District-Right-of-Way-Notification-Standard-Bonds-ONLY
+    doc_type: guidance
+    format: html
+  - title: Regulations of Harris County, Texas for Floodplain Management
+    url: https://www.eng.hctx.net/portals/23/fpmregs-effect190709.pdf
+    doc_type: regulation
+    format: pdf
+  - title: Rules of Harris County and the Harris County Flood Control District (culvert/ROW regulations)
+    url: https://www.eng.hctx.net/portals/23/publications/cv_row_regs.pdf
+    doc_type: regulation
+    format: pdf
+    notes: Pipeline crossings of Harris County roads or HCFCD ROW require a bond (corporate surety, or
+      personal bond with two sureties) per crossing, or per mile/part-mile run parallel within the ROW.
+  permits:
+  - name: Flood Control District ROW Crossing/Notification Permit
+    trigger: Pipeline, produced water line, or utility crossing HCFCD-maintained channel or ROW, or
+      running parallel within it
+    decision_body: Harris County Engineering Department (review coordinated with HCFCD and potentially
+      USACE)
+    fee: Bond required per crossing or per mile/part-mile of parallel run (amount unverified)
+  contacts:
+  - role: Office of the County Engineer
+    office: Harris County Engineering Department
+    phone: '713-274-3920'
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-harris-county-engineering-row
+  jurisdiction_level: county
+  state: TX
+  county: Harris
+  name: Harris County Engineering Department - Right-of-Way and Utility Permits
+  agency: Harris County Office of the County Engineer / Engineering Department
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  - water_crossing
+  code_platform: self_hosted
+  landing_url: https://oce.harriscountytx.gov/Services/Permits/Inspection-Forms/Right-Of-Way
+  documents:
+  - title: Right-Of-Way (inspection forms / permit info)
+    url: https://oce.harriscountytx.gov/Services/Permits/Inspection-Forms/Right-Of-Way
+    doc_type: guidance
+    format: html
+  - title: Public Works Right-of-Way Notifications
+    url: https://oce.harriscountytx.gov/Services/Permits/Permits-A-to-Z/Public-Works-Right-of-Way-Notifications
+    doc_type: guidance
+    format: html
+  - title: Regulations of Harris County, Texas for the Approval and Acceptance of Infrastructure
+    url: https://www.eng.hctx.net/portals/23/infraregs-effect190709.pdf
+    doc_type: regulation
+    format: pdf
+  permits:
+  - name: County Approval Certificate (utilities in county ROW)
+    trigger: Any utility work (water, wastewater, storm sewer, paving, drainage, pipeline) within Harris
+      County public ROW or public easements
+    decision_body: Harris County Engineering Department (E-Permits online system)
+  contacts:
+  - role: Office of the County Engineer
+    office: Harris County Engineering Department
+    phone: '713-274-3920'
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-port-corpus-christi-authority
+  jurisdiction_level: special_district
+  state: TX
+  county: Nueces
+  name: Port of Corpus Christi Authority - Pipeline License Agreement / Easements
+  agency: Port of Corpus Christi Authority
+  authority_type:
+  - roads_row
+  - water_quality
+  applies_to:
+  - midstream_pipeline
+  - water_crossing
+  code_platform: self_hosted
+  landing_url: https://portofcc.com/
+  documents:
+  - title: Port of Corpus Christi Commission Approves Agreement for Offshore Deepwater Port Project
+    url: https://portofcc.com/port-of-corpus-christi-commission-approves-agreement-for-offshore-deepwater-port-project/
+    doc_type: guidance
+    format: html
+    notes: Example of Port Commission-approved pipeline easement/lease (Bluewater Texas Terminal, 2020)
+      across Port Authority property/pipeline corridors.
+  - title: Pipeline License Agreement Application (hosted by City of Corpus Christi; used for pipelines
+      in city/port-adjacent ROW)
+    url: https://www.corpuschristitx.gov/media/ql2iaodf/pipeline-license-agreement-application-v232022-1.pdf
+    doc_type: application_packet
+    format: pdf
+    notes: This application form is published by the City of Corpus Christi rather than the Port
+      Authority directly; verify which entity (city vs. port) is the correct counterparty for a given
+      pipeline route before relying on it.
+  - title: HI-Desal State-Owned Lands Application (example easement application referencing Port
+      Authority coastal operations office)
+    url: https://portofcc.com/wp-content/uploads/HI-Desal-State-Owned-Lands-Application_March14_2023_Executed_Compressed.pdf
+    doc_type: application_packet
+    format: pdf
+  permits:
+  - name: Pipeline Easement / License Agreement
+    trigger: Pipeline crossing or occupying Port of Corpus Christi Authority property or ship channel ROW
+    decision_body: Port Commission
+    public_hearing: true
+    fee: unverified
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+
+- id: tx-glo-coastal-easements-cmp
+  jurisdiction_level: state
+  state: TX
+  name: Texas GLO Coastal Easements and Coastal Management Program (CMP) Consistency Review
+  agency: Texas General Land Office (GLO)
+  authority_type:
+  - surface_owner
+  - water_quality
+  - wetlands_404
+  - cultural_historic
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - water_crossing
+  code_platform: self_hosted
+  landing_url: https://www.glo.texas.gov/coastal/protecting-coast/coastal-management-program
+  documents:
+  - title: Coastal Management Program (CMP) landing page
+    url: https://www.glo.texas.gov/coastal/protecting-coast/coastal-management-program
+    doc_type: guidance
+    format: html
+    citation_root: 31 TAC Chapter 26 (CMP consistency policies, e.g. § 501.24)
+  - title: Federal Consistency (CZMA)
+    url: https://www.glo.texas.gov/coastal/protecting-coast/federal-consistency
+    doc_type: guidance
+    format: html
+    notes: Requires federal agency actions affecting the Texas coastal zone (incl. USACE 404/10 permits)
+      to be consistent with CMP goals/policies under 31 TAC Ch. 26.
+  - title: Easements and Permits (GLO Energy)
+    url: https://www.glo.texas.gov/energy/easements-and-permits
+    doc_type: guidance
+    format: html
+  - title: Surface Leasing and Easements
+    url: https://www.glo.texas.gov/energy-business/easements/index.html
+    doc_type: guidance
+    format: html
+    notes: 'Miscellaneous Easements issued for pipeline/utility ROW on state-owned coastal submerged lands
+      and uplands: oil & gas pipelines, water lines, power lines, fiber, roads, etc.'
+  - title: 'Notice and Opportunity to Comment on Requests for Consistency - Targa Downstream LLC (example
+      CMP consistency notice)'
+    url: https://www.glo.texas.gov/open-government/public-notices/notice-and-opportunity-comment-requests-consistency-targa-downstream-llc
+    doc_type: guidance
+    format: html
+  - title: USACE Galveston District CMP consistency certification form
+    url: https://www.swg.usace.army.mil/Portals/26/docs/regulatory/permit%20packet/CMP_Form20230719.pdf?ver=GamajIELCh4Mtx3FiDB16g%3D%3D
+    doc_type: form
+    format: pdf
+  permits:
+  - name: GLO Miscellaneous (Coastal) Easement
+    trigger: Pipeline or facility crossing/occupying state-owned coastal submerged land or uplands (bay
+      bottoms, tidal wetlands)
+    decision_body: Texas GLO / School Land Board
+    fee: unverified
+  - name: CMP Consistency Certification
+    trigger: Any state or federally permitted activity (e.g., USACE Section 10/404) located within the
+      statutorily defined Texas coastal zone
+    decision_body: GLO / Coastal Coordination Advisory Committee (concurrent with USACE Galveston
+      District review)
+    public_hearing: true
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-jefferson-county-engineering-pipeline
+  jurisdiction_level: county
+  state: TX
+  county: Jefferson
+  name: Jefferson County Engineering Department - Pipeline and Overweight Permits
+  agency: Jefferson County Engineering Department
+  authority_type:
+  - roads_row
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: self_hosted
+  landing_url: https://jeffersoncountytx.gov/eng/engineering.html
+  documents:
+  - title: Pipeline Permit Policy - General Requirements (Who Must Apply)
+    url: https://jeffersoncountytx.gov/blobs/Engineering/documents/Pipeline_Policy_Permit.pdf
+    doc_type: regulation
+    format: pdf
+  - title: Pipeline Permit Policy (Rev. 2020, agenda-packet copy)
+    url: https://jeffersoncountytx.gov/agenda/agendas_pl/20240723_821/Attachments/04-P-24%20Revision07092024%20.pdf
+    doc_type: regulation
+    format: pdf
+  permits:
+  - name: Pipeline Permit
+    trigger: Pipeline crossing or running within Jefferson County road ROW
+    decision_body: Jefferson County Engineering Department / Commissioners Court
+  contacts:
+  - role: County Engineering Department
+    office: Jefferson County Engineering
+    phone: 409-835-8584
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-jefferson-county-drainage-district-6
+  jurisdiction_level: special_district
+  state: TX
+  county: Jefferson
+  name: Jefferson County Drainage District No. 6 - Pipeline/Utility Crossing Permit
+  agency: Jefferson County Drainage District No. 6 (Beaumont)
+  authority_type:
+  - floodplain
+  - roads_row
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - water_crossing
+  code_platform: self_hosted
+  landing_url: https://dd6.org/
+  documents:
+  - title: General Applications (incl. Pipeline-Utility Permit Application)
+    url: https://dd6.org/board_of_directors/general-applications/
+    doc_type: application_packet
+    format: html
+  - title: Forms
+    url: https://dd6.org/forms/
+    doc_type: form
+    format: html
+  - title: Jefferson County Drainage District No. Six Mitigation Plan (TWDB-hosted)
+    url: https://www.twdb.texas.gov/publications/reports/contracted_reports/doc/2004483501_Jefferson_DD6_Mitigation_Plan.pdf
+    doc_type: guidance
+    format: pdf
+  permits:
+  - name: Pipeline-Utility Permit
+    trigger: Pipeline or utility crossing a DD6-maintained drainage channel or ROW
+    decision_body: DD6 Board of Directors
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-jefferson-county-drainage-district-7
+  jurisdiction_level: special_district
+  state: TX
+  county: Jefferson
+  name: Jefferson County Drainage District No. 7 - Pipeline/Utility Crossing Permit
+  agency: Jefferson County Drainage District No. 7 (Port Arthur/Nederland/Groves area)
+  authority_type:
+  - floodplain
+  - roads_row
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - water_crossing
+  code_platform: unknown
+  landing_url: https://jeffersoncountytx.gov/eng/engineering.html
+  documents:
+  - title: Jefferson County Engineering (referenced as coordinating point; DD7's own site not located this
+      session)
+    url: https://jeffersoncountytx.gov/eng/engineering.html
+    doc_type: guidance
+    format: html
+    notes: DD7's own permitting page/contact was not directly located in this session's searches; existence
+      and general crossing-permit requirement inferred from the DD6 pattern and county structure --
+      confidence unverified pending direct confirmation.
+  permits: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+
+- id: tx-port-beaumont-navigation-district
+  jurisdiction_level: special_district
+  state: TX
+  county: Jefferson
+  name: Port of Beaumont Navigation District - Pipeline Crossing/Easement
+  agency: Port of Beaumont Navigation District
+  authority_type:
+  - roads_row
+  - water_quality
+  applies_to:
+  - midstream_pipeline
+  - water_crossing
+  code_platform: unknown
+  landing_url: https://www.pobtx.com/
+  documents:
+  - title: Port of Beaumont Navigation District profile (TxDOT Maritime port profile)
+    url: https://www.txdot.gov/content/dam/docs/division/mrd/port-profiles/port-of-beaumont.pdf
+    doc_type: guidance
+    format: pdf
+  - title: Port of Beaumont (Wikipedia background)
+    url: https://en.wikipedia.org/wiki/Port_of_Beaumont
+    doc_type: guidance
+    format: html
+  - title: 'SWG-1997-01754 - Port of Beaumont Navigation District, Neches River, Jefferson County (USACE
+      Galveston District public notice example)'
+    url: https://www.swg.usace.army.mil/Media/Public-Notices/Article/2718023/swg-1997-01754-port-of-beaumont-navigation-district-neches-river-jefferson-coun/
+    doc_type: guidance
+    format: html
+  - title: Bids & Qualifications Requests (Port of Beaumont)
+    url: https://www.pobtx.com/copy-of-bids-qualifications-requests-1
+    doc_type: guidance
+    format: html
+  permits:
+  - name: Pipeline Crossing Easement/Permit
+    trigger: Pipeline crossing Port of Beaumont Navigation District property or Neches River channel ROW
+    decision_body: Port of Beaumont Navigation District Board (with USACE Galveston District review for
+      navigable waters)
+    fee: unverified
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+
+- id: tx-calhoun-port-authority
+  jurisdiction_level: special_district
+  state: TX
+  county: Calhoun
+  name: Calhoun Port Authority - Pipeline/Channel Crossing Permitting
+  agency: Calhoun Port Authority (Point Comfort, TX)
+  authority_type:
+  - roads_row
+  - water_quality
+  applies_to:
+  - midstream_pipeline
+  - water_crossing
+  code_platform: self_hosted
+  landing_url: https://www.calhounport.com/
+  documents:
+  - title: Calhoun Port Authority (official site)
+    url: https://www.calhounport.com/
+    doc_type: guidance
+    format: html
+  - title: Chapter 5003. Calhoun Port Authority (enabling statute)
+    url: https://statutes.capitol.texas.gov/Docs/SD/htm/SD.5003.htm
+    doc_type: statute
+    format: html
+    citation_root: Tex. Spec. Dist. Code Ch. 5003
+  - title: 'SWG-2016-01066 - Calhoun Port Authority - Lavaca Bay and Matagorda Bay (USACE Galveston
+      District public notice example; references pipelines within federal channel/adjacent basins)'
+    url: https://www.swg.usace.army.mil/Media/Public-Notices/Article/1722002/swg-2016-01066-calhoun-port-authority-lavaca-bay-and-matagorda-bay-calhoun-coun/
+    doc_type: guidance
+    format: html
+  permits:
+  - name: Channel/Pipeline Crossing Permit
+    trigger: Pipeline crossing Calhoun Port Authority property, Lavaca Bay, or Matagorda Bay channel ROW
+    decision_body: Calhoun Port Authority Board
+    fee: unverified
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+
+- id: tx-port-freeport-brazos-harbor-navigation-district
+  jurisdiction_level: special_district
+  state: TX
+  county: Brazoria
+  name: Port Freeport (Brazos River Harbor Navigation District of Brazoria County) - Pipeline Crossing
+    Permits
+  agency: Brazos River Harbor Navigation District of Brazoria County (d/b/a Port Freeport)
+  authority_type:
+  - roads_row
+  - water_quality
+  applies_to:
+  - midstream_pipeline
+  - water_crossing
+  code_platform: self_hosted
+  landing_url: https://en.wikipedia.org/wiki/Port_Freeport
+  documents:
+  - title: Port Freeport background (confirms formal name is Brazos River Harbor Navigation District of
+      Brazoria County)
+    url: https://en.wikipedia.org/wiki/Port_Freeport
+    doc_type: guidance
+    format: html
+    notes: The task brief's "Brazos River Harbor Navigation District" is this entity, operating publicly
+      as Port Freeport; official portfreeport.com permitting pages were not directly retrieved this
+      session -- landing_url here is the confirmatory source actually seen, not the port's own site.
+  permits: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+
+- id: tx-brazoria-drainage-district-4
+  jurisdiction_level: special_district
+  state: TX
+  county: Brazoria
+  name: Brazoria Drainage District No. 4 - Utility/Pipeline Crossing Permit
+  agency: Brazoria Drainage District No. 4 (BDD4)
+  authority_type:
+  - floodplain
+  - roads_row
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - water_crossing
+  code_platform: self_hosted
+  landing_url: https://bdd4.org/permits/
+  documents:
+  - title: Permits - Brazoria Drainage District No. 4 (Utility/Pipeline Crossing Permit Application)
+    url: https://bdd4.org/permits/
+    doc_type: application_packet
+    format: html
+    notes: Site states minimum requirements exist for utility/pipeline crossings of District facilities;
+      exact form ID/fee not captured this session.
+  - title: Brazoria Drainage District No. 4 GIS map (ArcGIS)
+    url: https://www.arcgis.com/apps/View/index.html?appid=7f584426d95842f59a4e0dda415d184b
+    doc_type: gis
+    format: html
+  gis:
+  - name: BDD4 District Map
+    url: https://www.arcgis.com/apps/View/index.html?appid=7f584426d95842f59a4e0dda415d184b
+    service_type: unknown
+    layer_use: District boundary and drainage infrastructure map
+  permits:
+  - name: Utility/Pipeline Crossing Permit
+    trigger: Pipeline or utility crossing a BDD4-maintained channel/facility
+    decision_body: BDD4 Board of Directors
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-galveston-county-engineering
+  jurisdiction_level: county
+  state: TX
+  county: Galveston
+  name: Galveston County Engineering, Floodplain Permitting & Right-of-Way
+  agency: Galveston County Engineering Department
+  authority_type:
+  - roads_row
+  - floodplain
+  - land_use_zoning
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  - water_crossing
+  code_platform: self_hosted
+  landing_url: https://www.galvestoncountytx.gov/county-offices/engineering-floodplain-right-of-way
+  documents:
+  - title: County Road Crossing Permit
+    url: https://www.galvestoncountytx.gov/county-offices/engineering-floodplain-permitting-right-of-way/right-of-way/county-road-crossing-permit
+    doc_type: guidance
+    format: html
+    notes: A permit is required for installation of pipelines and utilities along or across Galveston
+      County road right-of-way in unincorporated areas.
+  - title: Platting & Right-of-Way
+    url: https://www.galvestoncountytx.gov/county-offices/engineering-floodplain-right-of-way/right-of-way
+    doc_type: guidance
+    format: html
+  - title: Floodplain Permit Application
+    url: https://www.galvestoncountytx.gov/county-offices/engineering-floodplain-right-of-way/floodplain/floodplain-application
+    doc_type: form
+    format: html
+  - title: Floodplain Management Regulations of Galveston County, Texas
+    url: https://www.galvestoncountytx.gov/home/showpublisheddocument/4402/637371353924130000
+    doc_type: regulation
+    format: pdf
+  - title: New Subdivisions/Replats
+    url: https://www.galvestoncountytx.gov/county-offices/engineering-floodplain-right-of-way/platting-right-of-way/new-subdivisions-replats
+    doc_type: guidance
+    format: html
+  permits:
+  - name: County Road Crossing Permit
+    trigger: Pipeline or utility installed along or across a Galveston County road ROW in unincorporated
+      area
+    decision_body: Galveston County Engineering (coordinates with Road & Bridge Department)
+  - name: Floodplain Development Permit
+    trigger: Development/construction within a Galveston County FEMA floodplain
+    decision_body: Galveston County Floodplain Administrator
+  contacts:
+  - role: Engineering, Floodplain Permitting & Right-of-Way
+    office: Galveston County
+    url: https://www.galvestoncountytx.gov/county-offices/engineering-floodplain-right-of-way
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-fort-bend-county-row
+  jurisdiction_level: county
+  state: TX
+  county: Fort Bend
+  name: Fort Bend County Right-of-Way and Driveway Permits
+  agency: Fort Bend County Engineering
+  authority_type:
+  - roads_row
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: self_hosted
+  landing_url: https://www.fortbendcountytx.gov/government/departments/engineering/permits/right-of-way-and-driveway-permits
+  documents:
+  - title: Right of Way and Driveway Permits
+    url: https://www.fortbendcountytx.gov/government/departments/engineering/permits/right-of-way-and-driveway-permits
+    doc_type: guidance
+    format: html
+    notes: Covers cable, conduit, and pole lines (and by extension pipelines) in/under/across/along
+      county roads, streets, highways, and drainage ditches.
+  - title: Permits (Fort Bend County index)
+    url: https://www.fortbendcountytx.gov/doing-business/permits
+    doc_type: guidance
+    format: html
+  permits:
+  - name: Right-of-Way Permit
+    trigger: Pipeline, cable, conduit, or pole line in/under/across/along a Fort Bend County road or
+      drainage ditch
+    decision_body: Fort Bend County Engineering
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-san-patricio-county-row
+  jurisdiction_level: county
+  state: TX
+  county: San Patricio
+  name: San Patricio County Right-of-Way Permitting
+  agency: San Patricio County Right of Way Coordinator
+  authority_type:
+  - roads_row
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: self_hosted
+  landing_url: https://www.sanpatriciocountytx.gov/page/Right.of.Way.Coordinator
+  documents:
+  - title: Right of Way Coordinator
+    url: https://www.sanpatriciocountytx.gov/page/Right.of.Way.Coordinator
+    doc_type: guidance
+    format: html
+  - title: San Patricio County Permitting (EDC overview)
+    url: https://sanpatricioedc.com/relocation-and-expansion/san-patricio-county-permitting
+    doc_type: guidance
+    format: html
+  permits:
+  - name: Right-of-Way Permit
+    trigger: Pipeline/utility work in San Patricio County road ROW
+    decision_body: San Patricio County Right of Way Coordinator
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+
+- id: tx-orange-county-development-floodplain
+  jurisdiction_level: county
+  state: TX
+  county: Orange
+  name: Orange County Development and Floodplain Administration
+  agency: Orange County Environmental Health & Code Compliance
+  authority_type:
+  - floodplain
+  - land_use_zoning
+  applies_to:
+  - well_pad
+  - access_road
+  code_platform: self_hosted
+  landing_url: https://www.co.orange.tx.us/departments/EnvironmentalHealthCodeCompliance/developmentandfloodplain
+  documents:
+  - title: Development and Floodplain (Orange County)
+    url: https://www.co.orange.tx.us/departments/EnvironmentalHealthCodeCompliance/developmentandfloodplain
+    doc_type: guidance
+    format: html
+    notes: Development Permit required for any building constructed/moved onto a property, or improvements
+      exceeding 50% of building value.
+  - title: Floodplain Administration (City of Orange, separate from county)
+    url: https://orangetexas.gov/358/Floodplain-Administration
+    doc_type: guidance
+    format: html
+  permits:
+  - name: Development Permit
+    trigger: New building/structure or improvement exceeding 50% of value, incl. floodplain area
+      structures
+    decision_body: Orange County Environmental Health & Code Compliance
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-longview-pipeline-license
+  jurisdiction_level: municipal
+  state: TX
+  county: Gregg
+  municipality: Longview
+  name: City of Longview Pipeline License and Oil and Gas Permits
+  agency: City of Longview, Office of the City Engineer
+  authority_type:
+  - roads_row
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: self_hosted
+  landing_url: https://www.longviewtexas.gov/2834/Pipeline-Licenses
+  documents:
+  - title: Pipeline Licenses
+    url: https://www.longviewtexas.gov/2834/Pipeline-Licenses
+    doc_type: guidance
+    format: html
+    notes: Pipeline license issued by the City Engineer for private pipelines carrying fluids through
+      public ROW (streets, alleys, some creeks); annual fee currently $1/linear foot of utility in ROW;
+      used by smaller utility owners not entering a franchise agreement.
+  - title: Oil and Gas Permits
+    url: https://www.longviewtexas.gov/2833/Oil-and-Gas-Permits
+    doc_type: guidance
+    format: html
+  permits:
+  - name: Pipeline License
+    trigger: Private pipeline carrying fluids through Longview public right-of-way
+    decision_body: City Engineer
+    fee: $1 per linear foot of utility in ROW, annually
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-panola-county-general
+  jurisdiction_level: county
+  state: TX
+  county: Panola
+  name: Panola County (Haynesville Shale) - General Regulatory Landing Page
+  agency: Panola County
+  authority_type:
+  - roads_row
+  applies_to:
+  - access_road
+  - midstream_pipeline
+  code_platform: self_hosted
+  landing_url: https://www.co.panola.tx.us/
+  documents:
+  - title: Panola County, TX - Official Website
+    url: https://www.co.panola.tx.us/
+    doc_type: guidance
+    format: html
+    notes: General county landing page; specific road-use agreement, subdivision, or pipeline
+      crossing-permit pages for Panola County were not located in this session's searches. Panola is a
+      core Haynesville Shale county (Carthage area) and, per standard Texas county authority, would
+      administer subdivision platting, county road ROW/utility permits, floodplain (NFIP), and OSSF --
+      none of these county-specific pages were verified this session.
+  permits: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+
+- id: tx-nueces-county-public-works
+  jurisdiction_level: county
+  state: TX
+  county: Nueces
+  name: Nueces County Public Works - Subdivision, Floodplain, and ROW Permitting
+  agency: Nueces County Public Works Department
+  authority_type:
+  - roads_row
+  - floodplain
+  - land_use_zoning
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  - water_crossing
+  code_platform: self_hosted
+  landing_url: https://www.nuecesco.com/county-services/public-works/description-of-office
+  documents:
+  - title: Description of Office
+    url: https://www.nuecesco.com/county-services/public-works/description-of-office
+    doc_type: guidance
+    format: html
+    notes: Public Works regulates subdivision construction, floodplain development, and utility permitting
+      in county ROW; reviews plats and recommends approval to Commissioners Court.
+  - title: Subdivision and Platting Requirements
+    url: https://www.nuecesco.com/county-services/public-works/subdivision-and-platting-requirements
+    doc_type: regulation
+    format: html
+  - title: Floodplain Development
+    url: https://www.nuecesco.com/county-services/public-works/floodplain-development
+    doc_type: guidance
+    format: html
+    notes: Nueces County Flood Damage Prevention Ordinance implements NFIP requirements in unincorporated
+      county.
+  - title: Nueces County Model Subdivision Rules (TWDB-hosted)
+    url: https://www.twdb.texas.gov/financial/programs/EDAP/msr/doc/Nueces_County_MSRs.pdf
+    doc_type: regulation
+    format: pdf
+  - title: Engineering
+    url: https://www.nuecesco.com/county-services/public-works/engineering
+    doc_type: guidance
+    format: html
+  permits:
+  - name: Floodplain Development Permit
+    trigger: Construction or land alteration in a Nueces County flood hazard area (unincorporated)
+    decision_body: Nueces County Floodplain Administrator
+  - name: Utility/ROW Permit
+    trigger: Utility (incl. pipeline) placement in Nueces County road right-of-way
+    decision_body: Nueces County Public Works
+  confidence: probable
+  last_reviewed: '2026-09-04'
+
+- id: tx-chambers-county-subdivision
+  jurisdiction_level: county
+  state: TX
+  county: Chambers
+  name: Chambers County Subdivision Manual
+  agency: Chambers County
+  authority_type:
+  - roads_row
+  - land_use_zoning
+  applies_to:
+  - access_road
+  - midstream_pipeline
+  code_platform: self_hosted
+  landing_url: https://www.chamberscountytx.gov/DocumentCenter/View/1170/Subdivision-Regulations-PDF
+  documents:
+  - title: Chambers County Subdivision Manual (June 2022)
+    url: https://www.chamberscountytx.gov/DocumentCenter/View/1170/Subdivision-Regulations-PDF
+    doc_type: regulation
+    format: pdf
+    notes: Governs plat filing/recording per Texas Local Government Code; specific pipeline/road-crossing
+      permit sections not independently confirmed this session.
+  permits: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'

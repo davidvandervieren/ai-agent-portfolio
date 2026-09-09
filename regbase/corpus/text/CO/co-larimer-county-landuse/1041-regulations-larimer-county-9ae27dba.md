@@ -8,16 +8,14 @@ title: 1041 Regulations | Larimer County
 doc_type: guidance
 citation_root: Larimer County Land Use Code Art. 10
 url: "https://www.larimer.gov/planning/1041-regulations"
-sha256: 318aab10723f6c0eb61f9792876f8bce70b077a83b6ba12ca33ed941d21be896
-fetched_at: "2026-09-05T05:10:05+00:00"
+sha256: e29ca20825a5388fae0cea92e9d268d3ad0daaeb6e8b074595cbf872473c304f
+fetched_at: "2026-09-08T17:35:25+00:00"
 ---
 
 1041 Regulations | Larimer County
 Skip to main content
 Fire Restrictions in Effect:
 View Fire Restrictions
-All Larimer County Administrative Offices, Courts, District Attorney, Ranch Offices, and Landfill will be closed on September 7, 2026 to celebrate the Labor Day holiday.
-Critical county services are not disrupted by closures.
 Search
 I Want To
 Toggle navigation

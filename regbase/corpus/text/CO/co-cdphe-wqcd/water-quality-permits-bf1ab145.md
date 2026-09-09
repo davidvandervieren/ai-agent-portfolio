@@ -6,8 +6,8 @@ agency: Colorado Department of Public Health and Environment, Water Quality Cont
 title: Water Quality - Permits
 doc_type: guidance
 url: "https://cdphe.colorado.gov/water-quality-permits"
-sha256: 675d4d87b7c4dcd6d105114df9aeb05476e5667909fe9fb6543e30ec905bd047
-fetched_at: "2026-09-05T05:09:23+00:00"
+sha256: e825d09f9ddaee1685d3c3656eceeb13342d66addbbb46ecc60ce938474917ad
+fetched_at: "2026-09-08T17:28:36+00:00"
 ---
 
 <!-- heading-path: Welcome to the Permits Section -->

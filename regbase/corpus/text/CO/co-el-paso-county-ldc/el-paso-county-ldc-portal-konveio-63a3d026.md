@@ -7,8 +7,8 @@ agency: El Paso County Planning & Community Development
 title: El Paso County LDC Portal (Konveio)
 doc_type: code
 url: "https://elpasocountyldc.konveio.com/"
-sha256: 8a1bd3e252bd51dae8dcfb2077d46cdc731ba419886be552f8b1d0c11854faa7
-fetched_at: "2026-09-05T05:09:40+00:00"
+sha256: 6055d09378232ddd01642f2f8050c569d6fa9e2889d99ecf61c5ac1463709c47
+fetched_at: "2026-09-08T17:38:04+00:00"
 ---
 
 <!-- heading-path: Warning message -->

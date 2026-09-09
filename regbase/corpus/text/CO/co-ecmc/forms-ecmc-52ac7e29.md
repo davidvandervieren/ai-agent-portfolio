@@ -6,8 +6,8 @@ agency: Colorado Energy and Carbon Management Commission
 title: Forms | ECMC
 doc_type: form
 url: "https://ecmc.colorado.gov/forms-and-operator-guidance/forms"
-sha256: 98c2be6b256660d474eadbcfec3003ab2b887c378a2f96d5041ec1e0ec77239d
-fetched_at: "2026-09-05T05:09:34+00:00"
+sha256: a1fac990cc4e5d88f507cfc1a34cba1dd80fe36d26ab6d461a67040dd9231bba
+fetched_at: "2026-09-08T17:28:19+00:00"
 ---
 
 Energy operators must obtain permits or approval from ECMC prior to development or changes to develop. Forms are the mechanism by which operator submit permit applications. Forms are robust and reflect ECMC's protective regulations and mission. ECMC also uses forms to collect other information from other parties.

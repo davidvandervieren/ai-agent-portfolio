@@ -6,8 +6,8 @@ agency: Colorado Division of Water Resources (State Engineer's Office), Dept. of
 title: Well Permits tool
 doc_type: guidance
 url: "https://dwr.state.co.us/tools/WellPermits"
-sha256: a1184972a866b6390d9579673921bc9b4275aa6359260839e0446971b13ae07c
-fetched_at: "2026-09-05T05:09:34+00:00"
+sha256: 108ceeb0425bddcdd437be2e9a19c119977b3dc7b253e4c892136b8c0db04d97
+fetched_at: "2026-09-08T17:33:58+00:00"
 ---
 
 Well Permits

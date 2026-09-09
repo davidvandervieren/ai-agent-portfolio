@@ -7,7 +7,7 @@ title: ECMC Wildlife Protection Plan Operator Guidance
 doc_type: guidance
 url: "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/304.c.(17)._Wildlife_Protection_Plan_Guidance_v1.1_20250516_FINAL.pdf"
 sha256: 57b2d7bc7a4d145cde18fd2ddd7ca07e89b9ef5f4962fcc1361c506202e91244
-fetched_at: "2026-09-05T05:09:30+00:00"
+fetched_at: "2026-09-08T17:29:04+00:00"
 ---
 
 <!-- page: 1 -->

@@ -7,8 +7,8 @@ agency: Archuleta County Development Services, Planning Department
 title: Land Use Regulations - Archuleta County
 doc_type: code
 url: "https://www.archuletacounty.gov/county-government/development-services/planning-department/land-use-regulations/"
-sha256: aa575e7f90f562a6f0dcb3afbe109ee44f8525d3f0ea2601a92f1207b68c556a
-fetched_at: "2026-09-05T05:08:45+00:00"
+sha256: 16dafa1bfaa7ecd4d55f6fd3bba725242a3ed46f8baab52f101fabd75f9a4abc
+fetched_at: "2026-09-08T17:37:11+00:00"
 ---
 
 Land Use Regulations – Archuleta County
@@ -326,7 +326,7 @@ The State of Colorado is committed to providing equitable access to our services
 questions via this form
 .
 ©
-Friday, September 4
+Tuesday, September 8
 ,
 2026
 Archuleta County

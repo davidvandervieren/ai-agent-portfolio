@@ -8,7 +8,7 @@ title: Planning and Zoning | Washington County
 doc_type: guidance
 url: "https://washingtoncounty.colorado.gov/departments/administration/planning-and-zoning"
 sha256: e2449658296797fd6b36bc77ee80a61e93903d152edc92e1b9582ed5ea9ca8b2
-fetched_at: "2026-09-05T05:10:42+00:00"
+fetched_at: "2026-09-08T17:36:13+00:00"
 ---
 
 <!-- heading-path: Zoning Official - (Denise Chaves) -->

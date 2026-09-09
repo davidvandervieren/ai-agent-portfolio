@@ -6,8 +6,8 @@ agency: Colorado Department of Public Health and Environment, Air Pollution Cont
 title: Greenhouse gas reduction planning for oil and gas midstream fuel combustion equipment
 doc_type: guidance
 url: "https://cdphe.colorado.gov/midstreamGHGplanning"
-sha256: f5143920bde28ac7b39349337dcc7bcb91dea0c42f871c7f97e27fc0a0565ce6
-fetched_at: "2026-09-05T05:09:22+00:00"
+sha256: b1d2a3ca8114661afddaf4c784b41a8700aeccc98d9e36e519e7717a75db8542
+fetched_at: "2026-09-08T17:28:34+00:00"
 ---
 
 Jump to: First annual Midstream Segment Information Report | Midstream fuel combustion equipment annual reports | Greenhouse gas emissions from midstream | How community input informed the Air Quality Control Commission’s midstream rule | Midstream Steering Committee | Midstream Segment Emission Reduction Report | Past public participation opportunities | Interactive map: Midstream locations, disproportionately impacted communities, and 2024 emissions | Company emission reduction plans | Press releases | Contact us

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Fort Collins Land Use Code Art. 4
 url: "https://www.fortcollins.gov/files/sharedassets/city/v/2/planning-development-amp-transportation/community-development/planning/land-use-code/article-4-use-standards.pdf"
 sha256: c46f095d1be1e8ba65d1d5fe325daafcec0f4482bb89846f97a039c80449e757
-fetched_at: "2026-09-05T05:09:47+00:00"
+fetched_at: "2026-09-08T17:39:20+00:00"
 ---
 
 <!-- page: 1 -->

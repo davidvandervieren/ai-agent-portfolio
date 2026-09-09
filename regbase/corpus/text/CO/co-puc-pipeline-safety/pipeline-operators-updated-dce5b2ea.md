@@ -6,8 +6,8 @@ agency: Colorado Public Utilities Commission (PUC), Gas Pipeline Safety Section
 title: Pipeline Operators - Updated
 doc_type: guidance
 url: "https://puc.colorado.gov/pipeline-operators-updated"
-sha256: c043b84ac2ce3a95478acdf9ea6888cd9d0be11bf9c7d166480781f03b933451
-fetched_at: "2026-09-05T05:10:34+00:00"
+sha256: 6369bc9fa9e576af1ee9ebbe66891db634bc61971953bc3c6b9f5b64fda1ecae
+fetched_at: "2026-09-08T17:28:57+00:00"
 ---
 
 Incident Reporting for Pipeline Operators

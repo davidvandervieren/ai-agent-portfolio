@@ -8,8 +8,8 @@ title: Current Land Development Code 2020, Amended 04-23-24
 doc_type: code
 citation_root: Mesa County LDC 2020
 url: "https://www.mesacounty.us/departments-and-services/community-development/planning/current-land-development-code"
-sha256: 53f1ea153af2c3ace5c506f36cd489228692510446230fb151de2b3c886e1649
-fetched_at: "2026-09-05T05:10:23+00:00"
+sha256: 0b0b88045ccdb0320aea8e5b8d0f3ca96120b0735b28234185ded0277351f6b9
+fetched_at: "2026-09-08T17:35:42+00:00"
 ---
 
 <!-- heading-path: Mesa County Land Development Code -->

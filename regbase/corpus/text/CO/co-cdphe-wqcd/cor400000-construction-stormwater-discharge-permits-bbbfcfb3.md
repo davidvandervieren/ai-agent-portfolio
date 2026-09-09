@@ -6,8 +6,8 @@ agency: Colorado Department of Public Health and Environment, Water Quality Cont
 title: COR400000 Construction Stormwater Discharge Permits
 doc_type: guidance
 url: "https://cdphe.colorado.gov/cor400000-stormwater-discharge"
-sha256: 0c702109449bd72b88954880423bb838dc4730bcb60260443f1f7eedb8ce102e
-fetched_at: "2026-09-05T05:09:23+00:00"
+sha256: bfdb6f96b719f8a58acc0d9e2fde22e266a6775d5142d3351c1ec79c00b4fcec
+fetched_at: "2026-09-08T17:28:39+00:00"
 ---
 
 Application — Use the Colorado Environmental Online Services (CEOS) to apply for new permits, modify or terminate existing permits, and change permit contacts. A complete application signed by both the owner and operator will result in a certification within 10 days. Permit termination can only be done once final stabilization is complete. A map is required.

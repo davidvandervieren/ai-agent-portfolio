@@ -6,8 +6,8 @@ agency: Colorado Department of Transportation
 title: Permits — CDOT
 doc_type: guidance
 url: "https://www.codot.gov/business/permits"
-sha256: 29b967fd5c363aa9344b2f3f42733d8dbed243d2e3bfc1d2ded58763d30592bb
-fetched_at: "2026-09-05T05:09:22+00:00"
+sha256: 1fb6aa15bfb6e7aa5aa1cc991dbce7f9bf006a6621bbaf1a362beb49dc2408bb
+fetched_at: "2026-09-08T17:33:58+00:00"
 ---
 
 This content provides information about procedures, standards and permits for building access (driveways) from private property to state highways.

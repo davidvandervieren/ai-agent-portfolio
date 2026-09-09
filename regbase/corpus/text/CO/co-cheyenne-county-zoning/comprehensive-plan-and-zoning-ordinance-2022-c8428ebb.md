@@ -9,7 +9,7 @@ doc_type: ordinance
 citation_root: Cheyenne County Comprehensive Plan and Zoning Ordinance
 url: "https://www.co.cheyenne.co.us/assets/pdfs/zoning_comprehensive_plan_zoning_ordinance_2022.pdf"
 sha256: e1fe852c0857fd428545c292a4fb012a64662ba7cb55a63509e7483edd9524f8
-fetched_at: "2026-09-05T05:09:29+00:00"
+fetched_at: "2026-09-08T17:36:48+00:00"
 ---
 
 <!-- page: 1 -->

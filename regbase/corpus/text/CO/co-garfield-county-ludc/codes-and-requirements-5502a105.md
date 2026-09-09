@@ -7,8 +7,8 @@ agency: Garfield County Community Development
 title: Codes and requirements
 doc_type: guidance
 url: "https://www.garfieldcountyco.gov/community-development/codes-and-requirements/"
-sha256: 95733d8286efd845152e2d2a136973a759f2b5e3bebaa2b561613b762ea976c3
-fetched_at: "2026-09-05T05:09:52+00:00"
+sha256: 5bfbb72c6f569b02580bbd331ffd937b0d58116f2fdabef82d55446abc96b5b3
+fetched_at: "2026-09-08T17:35:38+00:00"
 ---
 
 <!-- heading-path: Avoid wire scam of Community Development invoices -->

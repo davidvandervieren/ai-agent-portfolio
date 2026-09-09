@@ -6,8 +6,8 @@ agency: Colorado Department of Public Health and Environment, Water Quality Cont
 title: Water Quality - Permit Forms
 doc_type: form
 url: "https://cdphe.colorado.gov/wq-per-forms"
-sha256: e845578e883b21c132a0e4974ba71be965f6f19dc62afd5739dd7b5887111aa6
-fetched_at: "2026-09-05T05:09:23+00:00"
+sha256: 76a3a12adf2cef4669696a195e0e7403e17f7c087903c1014419fc1781232b08
+fetched_at: "2026-09-08T17:28:42+00:00"
 ---
 
 <!-- heading-path: Permit forms -->

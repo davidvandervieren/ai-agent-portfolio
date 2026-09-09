@@ -6,8 +6,8 @@ agency: Colorado Department of Public Health and Environment, Air Pollution Cont
 title: Oil and gas regulation in Colorado (alt URL)
 doc_type: guidance
 url: "https://cdphe.colorado.gov/oil-and-gas-regulation-in-colorado"
-sha256: e3044a47a6b93da78e7892f4da035b41f80e5ccc0f0e9f31fc1da278f3eed31f
-fetched_at: "2026-09-05T05:09:22+00:00"
+sha256: d0143045420016ea02aa15fed2836582ef2b53670605bcc82541807ae394ea9d
+fetched_at: "2026-09-08T17:33:43+00:00"
 ---
 
 Spanish

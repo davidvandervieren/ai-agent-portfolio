@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Las Animas County Land Use Regulations
 url: "https://lasanimascounty.colorado.gov/sites/g/files/lrnvjt3346/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf"
 sha256: df865710db73240149045077daa82cb7ab0ebc1051a093411c93574609284d58
-fetched_at: "2026-09-05T05:10:19+00:00"
+fetched_at: "2026-09-08T17:36:08+00:00"
 ---
 
 <!-- page: 1 -->

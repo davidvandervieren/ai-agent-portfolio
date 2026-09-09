@@ -7,8 +7,8 @@ agency: Garfield County Community Development
 title: Land use regulations landing page
 doc_type: code
 url: "https://www.garfieldcountyco.gov/community-development/land-use-regulations/"
-sha256: bd048430ef5ddd10fa202283b89398627ba7be71b26329e085845f5a8b5e4674
-fetched_at: "2026-09-05T05:09:52+00:00"
+sha256: ffa304ef280aff4384e3ffe4525d74b533dce4884ca084981755f48f0fa60096
+fetched_at: "2026-09-08T17:35:28+00:00"
 ---
 
 <!-- heading-path: Avoid wire scam of Community Development invoices -->

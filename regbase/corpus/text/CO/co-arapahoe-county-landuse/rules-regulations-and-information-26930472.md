@@ -8,7 +8,7 @@ title: Rules, Regulations and Information
 doc_type: guidance
 url: "https://www.arapahoeco.gov/your_county/county_departments/public_works_and_development/oil_and_gas/questions_and_information.php"
 sha256: facd0296f4e76e3a23a0198eeaf5a4ea27c531761683bb13f6fcdcb4f861a94c
-fetched_at: "2026-09-05T05:08:45+00:00"
+fetched_at: "2026-09-08T17:35:15+00:00"
 ---
 
 <!-- heading-path: Rules, Regulations and Information -->

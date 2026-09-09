@@ -1,0 +1,2329 @@
+sources:
+- id: tx-midland-county
+  jurisdiction_level: county
+  state: TX
+  county: Midland
+  name: Midland County Government
+  agency: Midland County Public Works / Road & Bridge / Floodplain Management
+  authority_type:
+  - floodplain
+  - roads_row
+  - stormwater
+  authority_type_notes: Texas counties have no general zoning authority; Midland County's control over
+    oil & gas midstream projects runs through subdivision platting (outside the Midland/Odessa ETJs),
+    road & bridge utility/ROW permits, and floodplain development permits.
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - access_road
+  - water_crossing
+  - compressor_station
+  - tank_battery
+  code_platform: self_hosted
+  landing_url: https://www.co.midland.tx.us/196/Road-Bridge
+  documents:
+  - title: Public Works | Midland County, TX
+    url: https://www.co.midland.tx.us/895/Public-Works
+    doc_type: guidance
+    format: html
+  - title: Floodplain Management | Midland County, TX
+    url: https://www.co.midland.tx.us/808/Floodplain-Management
+    doc_type: guidance
+    format: html
+    notes: References Subdivision Regulations for floodplain development permit requirements; Midland
+      County Monahans and South Draw Interim Flood Planning Framework adopted 12/13/2021
+  - title: Road & Bridge | Midland County, TX
+    url: https://www.co.midland.tx.us/196/Road-Bridge
+    doc_type: guidance
+    format: html
+  - title: Midland County Storm Water Management Plan (2025)
+    url: https://co.midland.tx.us/DocumentCenter/View/8786/Midland-County---Storm-Water-Management-Plan-2025?bidId=
+    doc_type: policy
+    format: pdf
+  permits:
+  - name: Subdivision plat approval
+    trigger: Any subdivision requiring county approval by state law (applies outside Midland/Odessa ETJs);
+      relevant when a midstream project requires platting or replatting of surface tracts
+    decision_body: Midland County Commissioners Court
+    public_hearing: true
+  - name: Floodplain development permit
+    trigger: Development (including pipeline/road/facility construction) within a mapped Special Flood
+      Hazard Area
+    decision_body: County Floodplain Administrator
+  - name: County road/utility line crossing permit (Road & Bridge)
+    trigger: Utility or pipeline installation within county road ROW, or oversize/overweight use of county
+      roads for construction traffic
+    decision_body: Road & Bridge Department
+  contacts:
+  - role: Road & Bridge Department
+    office: Midland County Road & Bridge
+    phone: 432-688-4155
+  - role: Subdivision Regulations / Planning inquiries
+    office: Midland County
+    phone: 432-688-4310
+  update_watch:
+    check_urls:
+    - https://www.co.midland.tx.us/196/Road-Bridge
+    - https://www.co.midland.tx.us/808/Floodplain-Management
+    cadence: quarterly
+    method: search
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-ector-county
+  jurisdiction_level: county
+  state: TX
+  county: Ector
+  name: Ector County Government
+  agency: Ector County Public Works / Engineering Services
+  authority_type:
+  - floodplain
+  - roads_row
+  - stormwater
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - access_road
+  - water_crossing
+  - compressor_station
+  code_platform: self_hosted
+  landing_url: https://www.co.ector.tx.us/
+  documents:
+  - title: Subdivision and MHRC Regulations for Ector County, Texas
+    url: https://www.co.ector.tx.us/upload/page/11134/PD/Subdivision%20and%20MHRC%20Regulations.pdf
+    doc_type: regulation
+    format: pdf
+    notes: Requires plats to describe roads, streets, bridges, driveways, culverts, drainage; plats must
+      state compliance with county floodplain management regulations
+  permits:
+  - name: Subdivision plat approval
+    trigger: Platting outside city ETJs; road/drainage/culvert construction drawings must be approved
+      by county before construction
+    decision_body: Ector County Commissioners Court
+    public_hearing: true
+  - name: Floodplain development compliance statement (plat-based)
+    trigger: Any subdivision plat; also standalone floodplain development for construction in SFHA
+    decision_body: County Engineering Services / Floodplain Administrator
+  contacts:
+  - role: Engineering Services (subdivision/floodplain reviews)
+    office: Ector County
+    phone: 432-381-0098
+    email: Cathleen.Hamilton@ectorcountytx.gov
+  - role: Public Works Department
+    office: Ector County Public Works (Odessa, TX)
+    url: https://www.facebook.com/ectpwd810/
+  update_watch:
+    check_urls:
+    - https://www.co.ector.tx.us/
+    cadence: quarterly
+    method: search
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-reeves-county
+  jurisdiction_level: county
+  state: TX
+  county: Reeves
+  name: Reeves County Government
+  agency: Reeves County Road & Bridge Department / Permits & Regulations
+  authority_type:
+  - floodplain
+  - roads_row
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - access_road
+  - water_crossing
+  - compressor_station
+  - swd_well
+  code_platform: self_hosted
+  landing_url: https://www.reevescounty.org/departments/road-bridge/road-bridge
+  documents:
+  - title: Road & Bridge | Reeves County, TX
+    url: https://www.reevescounty.org/departments/road-bridge/road-bridge
+    doc_type: guidance
+    format: html
+  - title: Permits and Regulations | Reeves County, TX
+    url: https://www.reevescounty.org/departments/road-bridge/permits-regulations-and-policies
+    doc_type: guidance
+    format: html
+  - title: Road Construction Map | Reeves County, TX
+    url: https://www.reevescounty.org/departments/road-bridge/road-construction-map
+    doc_type: map
+    format: html
+  permits:
+  - name: Road & Bridge / floodplain / subdivision development permit
+    trigger: Road cuts, utility/pipeline crossings of county roads, construction within floodplain, or
+      subdivision of land in a heavy Delaware Basin drilling/midstream county
+    form_url: https://www.reevescounty.org/departments/road-bridge/permits-regulations-and-policies
+    decision_body: County Administrator / Permitting Department
+  contacts:
+  - role: Permit Inspector
+    office: Reeves County
+    phone: 432-448-1193
+    email: kcorrea@reevescounty.org
+  - role: Road & Bridge Department main office
+    office: Reeves County
+    phone: 432-287-0500
+  update_watch:
+    check_urls:
+    - https://www.reevescounty.org/departments/road-bridge/permits-regulations-and-policies
+    cadence: quarterly
+    method: search
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-loving-county
+  jurisdiction_level: county
+  state: TX
+  county: Loving
+  name: Loving County Government
+  agency: Loving County Commissioners Court / Road & Bridge
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - access_road
+  - swd_well
+  code_platform: self_hosted
+  landing_url: https://www.co.loving.tx.us/
+  documents:
+  - title: Commissioners' Court - Loving County, Texas
+    url: https://www.co.loving.tx.us/page/loving.Commissioners
+    doc_type: guidance
+    format: html
+  permits:
+  - name: County road/ROW utility permit (informal, Commissioners Court approval)
+    trigger: Least-populated county in the US (pop. ~64); very high Delaware Basin drilling/midstream
+      density relative to population; road crossing and ROW matters handled directly by Commissioners
+      Court / Road & Bridge, no dedicated planning department found
+    decision_body: Loving County Commissioners Court
+  contacts:
+  - role: County Road & Bridge
+    office: Loving County
+    phone: 432-309-9500 (Option
+  - role: County Judge
+    office: Loving County
+    phone: 432-309-9500 ext. 5
+  update_watch:
+    check_urls:
+    - https://www.co.loving.tx.us/
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-ward-county
+  jurisdiction_level: county
+  state: TX
+  county: Ward
+  name: Ward County Government
+  agency: Ward County Road & Bridge / Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - access_road
+  - swd_well
+  code_platform: unknown
+  landing_url: https://www.co.ward.tx.us/
+  documents:
+  - title: Ward County, Texas (county government, Monahans)
+    url: https://www.co.ward.tx.us/
+    doc_type: guidance
+    format: html
+    notes: Landing page located generically by county-domain naming pattern seen across other Permian
+      counties (co.midland.tx.us, co.ector.tx.us, co.winkler.tx.us, co.pecos.tx.us); NOT confirmed via
+      a search result that returned this exact URL. Treat as unverified until directly loaded.
+  permits:
+  - name: County road/ROW utility permit (presumed, per standard TX county practice)
+    trigger: Utility/pipeline crossing of county roads; road use agreements for heavy hauling to Delaware
+      Basin locations
+    decision_body: Ward County Commissioners Court / Road & Bridge
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://www.co.ward.tx.us/
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-winkler-county
+  jurisdiction_level: county
+  state: TX
+  county: Winkler
+  name: Winkler County Government
+  agency: Winkler County Commissioners Court / Road & Bridge
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - access_road
+  - swd_well
+  code_platform: self_hosted
+  landing_url: https://www.co.winkler.tx.us/
+  documents:
+  - title: Winkler County, TX | Official Website
+    url: https://www.co.winkler.tx.us/
+    doc_type: guidance
+    format: html
+    notes: County offices at 100 E. Winkler, Kermit, TX 79745. No dedicated floodplain administrator or
+      road permit page surfaced in search; page content not directly verified.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Winkler County Commissioners Court
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://www.co.winkler.tx.us/
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-culberson-county
+  jurisdiction_level: county
+  state: TX
+  county: Culberson
+  name: Culberson County Government
+  agency: Culberson County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - access_road
+  code_platform: self_hosted
+  landing_url: https://co.culberson.tx.us/
+  documents:
+  - title: Culberson County, Texas (official site)
+    url: https://co.culberson.tx.us/default.aspx?Culberson_County%2FCounty.Clerk=
+    doc_type: guidance
+    format: html
+    notes: Van Horn is county seat; Trans-Pecos region, southern edge of Delaware Basin midstream buildout.
+      No dedicated floodplain or road-permit sub-page surfaced.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Culberson County Commissioners Court
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://co.culberson.tx.us/
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-pecos-county
+  jurisdiction_level: county
+  state: TX
+  county: Pecos
+  name: Pecos County Government
+  agency: Pecos County Floodplain Administration / Commissioners Court
+  authority_type:
+  - floodplain
+  - roads_row
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - access_road
+  - water_crossing
+  - compressor_station
+  - swd_well
+  code_platform: self_hosted
+  landing_url: https://www.co.pecos.tx.us/
+  documents:
+  - title: Rules, Regulations, and Guidelines - Pecos County
+    url: https://www.co.pecos.tx.us/guidelines-criteria-rules/
+    doc_type: regulation
+    format: html
+  - title: 'Public Notice: Early Notice and Public Review of a Proposed Activity in a Federal Flood Risk
+      Management Standard Designated Floodplain - Pecos County'
+    url: https://www.co.pecos.tx.us/2026068-notice-floodplain/
+    doc_type: guidance
+    format: html
+  - title: 'Public Notice: Final Notice and Public Explanation of a Proposed Activity in a Federal Flood
+      Risk Management Standard Designated Floodplain - Pecos County'
+    url: https://www.co.pecos.tx.us/20260709-notice-floodplain/
+    doc_type: guidance
+    format: html
+  permits:
+  - name: Floodplain development permit / FFRMS public notice process
+    trigger: Federally-funded or federally-connected activity, or any development, in a designated floodplain
+      north of Fort Stockton and elsewhere in the county
+    decision_body: Pecos County Floodplain Administrator
+    public_hearing: true
+  - name: County road/ROW utility permit
+    trigger: Utility/pipeline crossing of county roads; county directs in-city-limits activity to City
+      of Fort Stockton or City of Iraan
+    decision_body: Pecos County Commissioners Court
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://www.co.pecos.tx.us/guidelines-criteria-rules/
+    cadence: quarterly
+    method: search
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-howard-county
+  jurisdiction_level: county
+  state: TX
+  county: Howard
+  name: Howard County Government
+  agency: Howard County Road & Bridge Engineer
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - access_road
+  - swd_well
+  code_platform: unknown
+  landing_url: https://newtools.cira.state.tx.us/upload/page/0480/2024/subdivision__manufactured.pdf
+  documents:
+  - title: Howard County subdivision & manufactured housing regulations (2024)
+    url: https://newtools.cira.state.tx.us/upload/page/0480/2024/subdivision__manufactured.pdf
+    doc_type: regulation
+    format: pdf
+    notes: Applications and fees submitted to the County Road and Bridge Engineer, 3604 Old Colorado City
+      Road, Big Spring, TX 79720; pre-submission meeting with County designee required at least 14 days
+      before final plat, to discuss infrastructure including roads
+  permits:
+  - name: Subdivision plat approval
+    trigger: Platting outside Big Spring ETJ
+    decision_body: Howard County Commissioners Court
+    public_hearing: true
+  - name: County road/ROW utility permit
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: County Road and Bridge Engineer
+  contacts:
+  - role: County Road and Bridge Engineer
+    office: Howard County
+    url: https://www.countyoffice.org/howard-county-road-administration-big-spring-tx-354/
+  update_watch:
+    check_urls:
+    - https://newtools.cira.state.tx.us/upload/page/0480/2024/subdivision__manufactured.pdf
+    cadence: quarterly
+    method: search
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-martin-county
+  jurisdiction_level: county
+  state: TX
+  county: Martin
+  name: Martin County Government
+  agency: Martin County Road & Bridge
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - access_road
+  - swd_well
+  code_platform: self_hosted
+  landing_url: http://www.co.martin.tx.us/163/Road-Bridge
+  documents:
+  - title: Road & Bridge | Martin County
+    url: http://www.co.martin.tx.us/163/Road-Bridge
+    doc_type: guidance
+    format: html
+    notes: Department maintains 463 miles of county roads and roadside drainage; no dedicated floodplain
+      sub-page surfaced in search
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads; heavy Permian Basin (Stanton area) drilling and
+      midstream traffic
+    decision_body: Martin County Commissioners Court / Road & Bridge
+  contacts: []
+  update_watch:
+    check_urls:
+    - http://www.co.martin.tx.us/163/Road-Bridge
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-glasscock-county
+  jurisdiction_level: county
+  state: TX
+  county: Glasscock
+  name: Glasscock County Government
+  agency: Glasscock County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.co.glasscock.tx.us/
+  documents:
+  - title: Glasscock County, Texas (county seat Garden City)
+    url: https://www.co.glasscock.tx.us/
+    doc_type: guidance
+    format: html
+    notes: URL inferred from consistent co.<name>.tx.us naming pattern seen for adjacent counties; not
+      itself returned by search results, so treat as unverified. No dedicated floodplain or road-permit
+      page located.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Glasscock County Commissioners Court
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://www.co.glasscock.tx.us/
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-upton-county
+  jurisdiction_level: county
+  state: TX
+  county: Upton
+  name: Upton County Government
+  agency: Upton County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.co.upton.tx.us/
+  documents:
+  - title: Upton County, Texas (county seat Rankin)
+    url: https://www.co.upton.tx.us/
+    doc_type: guidance
+    format: html
+    notes: URL inferred from naming pattern, not directly confirmed by a search hit; unverified.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Upton County Commissioners Court
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://www.co.upton.tx.us/
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-reagan-county
+  jurisdiction_level: county
+  state: TX
+  county: Reagan
+  name: Reagan County Government
+  agency: Reagan County Road & Bridge
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.co.reagan.tx.us/
+  documents:
+  - title: Reagan County, Texas (county seat Big Lake)
+    url: https://www.co.reagan.tx.us/
+    doc_type: guidance
+    format: html
+    notes: Domain identified in search summary but not directly returned as a link; treat as probable
+      but unconfirmed page contents.
+  - title: Big Lake, Texas (city site)
+    url: https://www.biglaketx.com
+    doc_type: guidance
+    format: html
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Reagan County Commissioners Court / Road & Bridge
+  contacts:
+  - role: Road & Bridge
+    office: Reagan County (Big Lake, TX)
+    url: https://www.countyoffice.org/reagan-county-road-bridge-big-lake-tx-1d1/
+  update_watch:
+    check_urls:
+    - https://www.co.reagan.tx.us/
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-crane-county
+  jurisdiction_level: county
+  state: TX
+  county: Crane
+  name: Crane County Government
+  agency: Crane County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - access_road
+  code_platform: self_hosted
+  landing_url: https://www.co.crane.tx.us/
+  documents:
+  - title: Crane County, Texas
+    url: https://www.co.crane.tx.us/
+    doc_type: guidance
+    format: html
+    notes: County website hosts commissioners court meeting details; no dedicated floodplain or road permit
+      sub-page located in search results.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Crane County Commissioners Court
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://www.co.crane.tx.us/
+    cadence: quarterly
+    method: search
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-andrews-county
+  jurisdiction_level: county
+  state: TX
+  county: Andrews
+  name: Andrews County Government
+  agency: Andrews County Departments (Road & Bridge)
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - access_road
+  - swd_well
+  code_platform: self_hosted
+  landing_url: https://www.co.andrews.tx.us/149/Departments
+  documents:
+  - title: Departments | Andrews County, TX
+    url: https://www.co.andrews.tx.us/149/Departments
+    doc_type: guidance
+    format: html
+  - title: Quick Links - Andrews County, TX - CivicEngage
+    url: https://www.co.andrews.tx.us/QuickLinks.aspx
+    doc_type: guidance
+    format: html
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads; Andrews County is heavy Central Basin Platform
+      drilling/midstream county
+    decision_body: Andrews County Commissioners Court
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://www.co.andrews.tx.us/149/Departments
+    cadence: quarterly
+    method: search
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-gaines-county
+  jurisdiction_level: county
+  state: TX
+  county: Gaines
+  name: Gaines County Government
+  agency: Gaines County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - access_road
+  - swd_well
+  code_platform: self_hosted
+  landing_url: https://www.co.gaines.tx.us/
+  documents:
+  - title: Gaines County Subdivision and Manufactured Home Rental Community Regulations (Feb 12, 2025)
+    url: https://www.co.gaines.tx.us/upload/page/5477/docs/Gaines%20County%20Subdivision%20Regulations%20Feb.%2012%202025%20for%20web.pdf
+    doc_type: regulation
+    format: pdf
+    notes: Establishes standards/specifications for road and drainage construction, private sewage facilities
+      (OSSF), and development within the floodplain
+  permits:
+  - name: Subdivision plat approval
+    trigger: Platting outside Seminole/Denver City ETJs
+    decision_body: Gaines County Commissioners Court
+    public_hearing: true
+  - name: Floodplain development permit
+    trigger: Construction within mapped floodplain per subdivision regulations
+    decision_body: County Floodplain Administrator
+  - name: OSSF (on-site sewage facility) permit
+    trigger: Any facility with domestic wastewater disposal (man-camps, offices) outside city sewer
+    decision_body: County / designated OSSF permitting official
+  contacts:
+  - role: Public Works Director
+    office: City of Seminole (referenced by county for road/drainage coordination)
+  update_watch:
+    check_urls:
+    - https://www.co.gaines.tx.us/
+    cadence: quarterly
+    method: search
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-midland-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Midland
+  municipality: Midland
+  name: City of Midland Oil and Gas Regulation
+  agency: City of Midland Oil & Gas Services / Municipal Development Department
+  authority_type:
+  - land_use_zoning
+  - fire_code
+  - noise
+  - roads_row
+  authority_type_notes: Post-HB 40 (2015), the City's oil & gas ordinance is limited to commercially reasonable
+    above-ground surface regulation (fire/emergency response, traffic, setbacks, noise, notice) for wells
+    and surface facilities within city limits; cannot regulate subsurface operations.
+  applies_to:
+  - well_pad
+  - tank_battery
+  - midstream_pipeline
+  - compressor_station
+  code_platform: municode
+  landing_url: https://library.municode.com/tx/midland
+  documents:
+  - title: Oil and Gas FAQ | Midland, TX - Official Website
+    url: https://www.midlandtexas.gov/1486/Oil-and-Gas-FAQ
+    doc_type: guidance
+    format: html
+  - title: Oil and Gas Services | Midland, TX - Official Website
+    url: https://www.midlandtexas.gov/1483/Oil-and-Gas-Services
+    doc_type: guidance
+    format: html
+  - title: City of Midland Oil Code (Sec. 6-1-23, oil and gas well permits issued on or after Jan 1, 2010)
+    url: https://midlandtexas.gov/DocumentCenter/View/194/Oil-Code?bidId=
+    doc_type: ordinance
+    format: pdf
+    citation_root: Midland City Code Ch. 6-1
+  - title: 'Article VIII: Oil and Gas Pipeline Standards (Municode)'
+    url: https://library.municode.com/HTML/13329/level3/SPAGEOR_CH34EN_ARTVIIIOIGAPIST.html
+    doc_type: ordinance
+    format: html
+    citation_root: Midland City Code Ch. 34, Art. VIII
+    notes: Pipeline construction/design standards within city limits and ETJ
+  - title: Oil & Gas | MHCD, TX (Midland development services)
+    url: https://develop.midlandtexas.gov/9/Oil-Gas
+    doc_type: guidance
+    format: html
+  permits:
+  - name: Oil and gas well permit (in-city wells)
+    trigger: Any new well or re-entry within city limits (Ordinance 8769 governs wells within city limits
+      only)
+    form_id: Oil Code Sec. 6-1-23
+    decision_body: City Council / Municipal Development Department
+  - name: Pipeline construction permit (Article VIII standards)
+    trigger: Oil & gas pipeline construction within city limits or ETJ
+    decision_body: Municipal Development Department
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://www.midlandtexas.gov/1483/Oil-and-Gas-Services
+    - https://library.municode.com/tx/midland
+    cadence: quarterly
+    method: search
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-odessa-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Ector
+  municipality: Odessa
+  name: City of Odessa Oil and Gas Drilling Ordinance
+  agency: City of Odessa Development Services
+  authority_type:
+  - land_use_zoning
+  - fire_code
+  - noise
+  - roads_row
+  authority_type_notes: Post-HB 40, limited to commercially reasonable surface regulation. Ordinance text
+    still contains legacy provisions requiring "reasonable and prudent operator" practices "in the Permian
+    Basin area" for drilling/operations and permitting for trunklines/pipelines and injection systems;
+    enforceability of pre-2015 provisions beyond surface impact is constrained by HB 40.
+  applies_to:
+  - well_pad
+  - tank_battery
+  - midstream_pipeline
+  - compressor_station
+  code_platform: ecode360
+  landing_url: https://www.odessa-tx.gov/484/Codes-Ordinances
+  documents:
+  - title: ODESSA Oil & Gas Ordinance (PDF)
+    url: https://www.odessa-tx.gov/DocumentCenter/View/14939/Oil-and-Gas-Ordinance
+    doc_type: ordinance
+    format: pdf
+  - title: City of Odessa, TX Code (eCode360 landing)
+    url: https://ecode360.com/OD6428
+    doc_type: code
+    format: html
+    citation_root: Odessa City Code Art. 4-14 (Oil and Gas Drilling)
+  - title: Codes & Ordinances | Odessa, TX
+    url: https://www.odessa-tx.gov/484/Codes-Ordinances
+    doc_type: guidance
+    format: html
+  permits:
+  - name: Permit to drill a well or install a trunkline pipeline / waterflood / gas injection / recovery
+      system
+    trigger: Drilling a well, or installing a trunkline pipeline, waterflooding, gas injection, or primary/secondary
+      recovery system for oil, gas, condensate production within city limits
+    trigger_notes: City Manager determines application completeness within 60 days of filing
+    decision_body: City Manager / Development Services
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://www.odessa-tx.gov/DocumentCenter/View/14939/Oil-and-Gas-Ordinance
+    - https://ecode360.com/OD6428
+    cadence: quarterly
+    method: search
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-bigspring-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Howard
+  municipality: Big Spring
+  name: City of Big Spring Charter and City Code
+  agency: City of Big Spring
+  authority_type:
+  - land_use_zoning
+  - fire_code
+  - roads_row
+  applies_to:
+  - well_pad
+  - midstream_pipeline
+  code_platform: municode
+  landing_url: https://library.municode.com/tx/big_spring/codes/charter_and_city_code
+  documents:
+  - title: Charter and City Code | Big Spring, TX | Municode Library
+    url: https://library.municode.com/tx/big_spring/codes/charter_and_city_code
+    doc_type: code
+    format: html
+    notes: Codified through Ordinance No. 020-2024 (adopted 5/14/2024). No dedicated oil & gas drilling
+      article located in search results; Article III Utility Connections (Ch. 50) governs utility line
+      tie-ins.
+  permits: []
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://library.municode.com/tx/big_spring/codes/charter_and_city_code
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-andrews-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Andrews
+  municipality: Andrews
+  name: City of Andrews Oil and Gas Wells Ordinance
+  agency: City of Andrews Community Services Division
+  authority_type:
+  - land_use_zoning
+  - fire_code
+  - roads_row
+  authority_type_notes: Ordinance 1575 (adopted 12/10/2015, same year as HB 40) requires an oil and gas
+    permit for any operations within city corporate limits; ETJ areas are expressly excluded until platted
+    or annexed; wells in light/heavy industrial zoning that predate the ordinance are grandfathered. Post-HB
+    40 scope should be limited to surface impacts (fire/emergency response, traffic, insurance, setbacks).
+  applies_to:
+  - well_pad
+  - tank_battery
+  - midstream_pipeline
+  code_platform: ecode360
+  landing_url: https://www.cityofandrews.org/government/ordinances.php
+  documents:
+  - title: 'Article V: Oil and Gas Wells - City of Andrews, TX (eCode360)'
+    url: https://ecode360.com/40434624
+    doc_type: ordinance
+    format: html
+    citation_root: Andrews City Code, Art. V (Oil and Gas Wells), Ord. 1575
+  - title: Welcome to City of Andrews, TX (ordinances landing page)
+    url: https://www.cityofandrews.org/government/ordinances.php
+    doc_type: guidance
+    format: html
+  permits:
+  - name: Oil and gas permit
+    trigger: Any oil & gas operation within city corporate limits (ETJ excluded until platted/annexed);
+      existing pre-ordinance operations had 12 months to obtain a permit
+    form_id: Application filed with Community Services Division
+    decision_body: City of Andrews Community Services Division
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://ecode360.com/40434624
+    cadence: quarterly
+    method: search
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-monahans-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Ward
+  municipality: Monahans
+  name: City of Monahans Code of Ordinances
+  agency: City of Monahans
+  authority_type:
+  - land_use_zoning
+  - roads_row
+  applies_to:
+  - well_pad
+  - midstream_pipeline
+  code_platform: ecode360
+  landing_url: https://www.cityofmonahans.org/219/Code-Enforcement
+  documents:
+  - title: 'Article 9.03: Zoning - City of Monahans, TX (eCode360)'
+    url: https://ecode360.com/41687848
+    doc_type: code
+    format: html
+  - title: 'Chapter 1: General Provisions - City of Monahans, TX (eCode360)'
+    url: https://ecode360.com/41686505
+    doc_type: code
+    format: html
+  permits: []
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://ecode360.com/41687848
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-kermit-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Winkler
+  municipality: Kermit
+  name: City of Kermit Government
+  agency: City of Kermit
+  authority_type:
+  - land_use_zoning
+  applies_to:
+  - well_pad
+  code_platform: unknown
+  landing_url: https://www.kermittexas.us
+  documents:
+  - title: City of Kermit, Texas website
+    url: https://www.kermittexas.us
+    doc_type: guidance
+    format: html
+    notes: No code-hosting platform (Municode/eCode360/etc.) or oil & gas ordinance was located via search;
+      not confirmed to have a codified oil & gas ordinance.
+  permits: []
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://www.kermittexas.us
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-pecoscity-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Reeves
+  municipality: Pecos
+  name: Pecos City Code of Ordinances
+  agency: Pecos City (Town of Pecos City)
+  authority_type:
+  - land_use_zoning
+  - roads_row
+  applies_to:
+  - well_pad
+  - midstream_pipeline
+  - compressor_station
+  code_platform: municode
+  landing_url: https://library.municode.com/tx/pecos_city/codes/code_of_ordinances
+  documents:
+  - title: Code of Ordinances | Pecos City, TX - Municode Library
+    url: https://library.municode.com/tx/pecos_city/codes/code_of_ordinances
+    doc_type: code
+    format: html
+  - title: Appendix A - Zoning | Code of Ordinances | Pecos City, TX
+    url: https://library.municode.com/tx/pecos_city/codes/code_of_ordinances?nodeId=PTIICOOR_APXAZO
+    doc_type: code
+    format: html
+  permits: []
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://library.municode.com/tx/pecos_city/codes/code_of_ordinances
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-fortstockton-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Pecos
+  municipality: Fort Stockton
+  name: City of Fort Stockton Code of Ordinances
+  agency: City of Fort Stockton
+  authority_type:
+  - land_use_zoning
+  - roads_row
+  applies_to:
+  - well_pad
+  - midstream_pipeline
+  code_platform: municode
+  landing_url: https://library.municode.com/tx/fort_stockton
+  documents:
+  - title: Code of Ordinances | Fort Stockton, TX - Municode Library
+    url: https://library.municode.com/tx/fort_stockton
+    doc_type: code
+    format: html
+    notes: No oil & gas specific article confirmed via search; Pecos County directs in-city-limits oil
+      & gas questions to this City.
+  permits: []
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://library.municode.com/tx/fort_stockton
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-seminole-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Gaines
+  municipality: Seminole
+  name: City of Seminole Code of Ordinances
+  agency: City of Seminole
+  authority_type:
+  - land_use_zoning
+  - roads_row
+  applies_to:
+  - well_pad
+  - midstream_pipeline
+  code_platform: ecode360
+  landing_url: https://ecode360.com/41261095
+  documents:
+  - title: Code of Ordinances - City of Seminole, TX (eCode360)
+    url: https://ecode360.com/41261095
+    doc_type: code
+    format: html
+    notes: No dedicated oil & gas drilling article confirmed via search (only petroleum/fuel-dealer and
+      propane provisions surfaced); unconfirmed.
+  permits: []
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://ecode360.com/41261095
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-denvercity-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Yoakum
+  municipality: Denver City
+  name: City of Denver City Oil and Gas Drilling Ordinance
+  agency: City of Denver City
+  authority_type:
+  - land_use_zoning
+  - roads_row
+  authority_type_notes: Article 4.04 makes it unlawful to begin drilling, workovers, or recompletions
+    on producing/injection wells within the city without a permit; operators must comply with current
+    Railroad Commission rules for operations in populated areas. Codified through Ord. 2016-1107 (11/21/2016),
+    predating HB 40 in its current codified form but subject to HB 40 preemption for anything beyond surface
+    impacts.
+  applies_to:
+  - well_pad
+  - swd_well
+  code_platform: franklin_legal
+  landing_url: https://denvercitytexas.org/city_ordinances.php
+  documents:
+  - title: Oil and Gas Drilling - City of Denver City, TX (eCode360 mirror)
+    url: https://ecode360.com/41083305
+    doc_type: ordinance
+    format: html
+    citation_root: Denver City Code, Art. 4.04 (Oil and Gas Drilling)
+  - title: City of Denver City, TX Code of Ordinances
+    url: https://denvercitytexas.org/city_ordinances.php
+    doc_type: code
+    format: html
+    notes: Search result described this code as maintained by Franklin Legal; eCode360 mirror also exists,
+      so platform is not fully certain.
+  permits:
+  - name: Permit for drilling, workover, or recompletion
+    trigger: Any drilling, workover, or recompletion on a producing or injection well within city limits
+    decision_body: City of Denver City
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://denvercitytexas.org/city_ordinances.php
+    cadence: quarterly
+    method: search
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-alpine-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Brewster
+  municipality: Alpine
+  name: City of Alpine Code of Ordinances
+  agency: City of Alpine
+  authority_type:
+  - land_use_zoning
+  - roads_row
+  applies_to:
+  - well_pad
+  - midstream_pipeline
+  code_platform: municode
+  landing_url: https://library.municode.com/tx/alpine/codes/code_of_ordinances
+  documents:
+  - title: Code of Ordinances | Alpine, TX - Municode Library
+    url: https://library.municode.com/tx/alpine/codes/code_of_ordinances
+    doc_type: code
+    format: html
+    notes: Alpine is the only incorporated city and county seat of Brewster County; no dedicated oil &
+      gas article confirmed via search (Chapter 98 Utilities located, no O&G chapter surfaced).
+  permits: []
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://library.municode.com/tx/alpine/codes/code_of_ordinances
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-dawson-county
+  jurisdiction_level: county
+  state: TX
+  county: Dawson
+  name: Dawson County Government
+  agency: Dawson County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  documents:
+  - title: RESEARCH GAP - no official site found for Dawson County Government
+    url: ''
+    doc_type: policy
+    format: unknown
+    notes: No official jurisdiction website could be located. This record is a named coverage gap, not
+      a researched jurisdiction - its requirements are unknown. Confirm by phone with the county/city
+      before relying on it.
+  permits:
+  - name: County road/ROW utility permit (presumed, standard TX county practice)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Dawson County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+  update_watch:
+    method: search
+    cadence: quarterly
+- id: tx-borden-county
+  jurisdiction_level: county
+  state: TX
+  county: Borden
+  name: Borden County Government
+  agency: Borden County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  documents:
+  - title: RESEARCH GAP - no official site found for Borden County Government
+    url: ''
+    doc_type: policy
+    format: unknown
+    notes: No official jurisdiction website could be located. This record is a named coverage gap, not
+      a researched jurisdiction - its requirements are unknown. Confirm by phone with the county/city
+      before relying on it.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Borden County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+  update_watch:
+    method: search
+    cadence: quarterly
+- id: tx-sterling-county
+  jurisdiction_level: county
+  state: TX
+  county: Sterling
+  name: Sterling County Government
+  agency: Sterling County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  documents:
+  - title: Sterling County, Texas (Texas State Directory entry)
+    url: https://www.txdirectory.com/online/county/detail.php?id=207
+    doc_type: guidance
+    format: html
+    notes: No official county government website confirmed via search; county seat is Sterling City. This
+      txdirectory link may resolve to the wrong ID; verify before use.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Sterling County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-irion-county
+  jurisdiction_level: county
+  state: TX
+  county: Irion
+  name: Irion County Government
+  agency: Irion County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  documents:
+  - title: Irion County, Texas (general reference; no official site confirmed via search)
+    url: https://www.county.org/irion-county
+    doc_type: guidance
+    format: html
+    notes: County seat is Mertzon; borders Reagan/Tom Green/Crockett counties in the eastern Permian/Val
+      Verde Basin transition.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Irion County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-crockett-county
+  jurisdiction_level: county
+  state: TX
+  county: Crockett
+  name: Crockett County Government
+  agency: Crockett County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.co.crockett.tx.us
+  documents:
+  - title: Crockett County, Texas (official site per search summary)
+    url: https://www.co.crockett.tx.us
+    doc_type: guidance
+    format: html
+    notes: County seat is Ozona; domain identified in search result text but not directly returned as
+      a clickable link, so treat as probable-but-unconfirmed.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Crockett County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-valverde-county
+  jurisdiction_level: county
+  state: TX
+  county: Val Verde
+  name: Val Verde County Government
+  agency: Val Verde County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.valverdecounty.texas.gov
+  documents:
+  - title: Val Verde County, Texas (official site per search summary)
+    url: https://www.valverdecounty.texas.gov
+    doc_type: guidance
+    format: html
+    notes: County seat is Del Rio, on the eastern/southern fringe of Permian midstream activity near the
+      Eagle Ford/Val Verde Basin transition.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Val Verde County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-terrell-county
+  jurisdiction_level: county
+  state: TX
+  county: Terrell
+  name: Terrell County Government
+  agency: Terrell County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  documents:
+  - title: Terrell County, Texas (general reference; no official site confirmed via search)
+    url: https://www.txdirectory.com/online/county/detail.php?id=224
+    doc_type: guidance
+    format: html
+    notes: County seat is Sanderson; sparsely populated, minimal midstream buildout confirmed. Verify
+      this txdirectory ID before use.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Terrell County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-jeffdavis-county
+  jurisdiction_level: county
+  state: TX
+  county: Jeff Davis
+  name: Jeff Davis County Government
+  agency: Jeff Davis County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.co.jeff-davis.tx.us
+  documents:
+  - title: Jeff Davis County, Texas official website
+    url: https://www.co.jeff-davis.tx.us
+    doc_type: guidance
+    format: html
+    notes: County seat is Fort Davis; Davis Mountains region, light midstream footprint at the western
+      edge of the Delaware Basin buildout.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Jeff Davis County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-hudspeth-county
+  jurisdiction_level: county
+  state: TX
+  county: Hudspeth
+  name: Hudspeth County Government
+  agency: Hudspeth County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: self_hosted
+  landing_url: https://www.co.hudspeth.tx.us
+  documents:
+  - title: County Commissioners - Hudspeth County, Texas
+    url: https://www.co.hudspeth.tx.us/page/hudspeth.Commissioner
+    doc_type: guidance
+    format: html
+  - title: Contact Us - Hudspeth County, Texas
+    url: https://www.co.hudspeth.tx.us/page/hudspeth.contact
+    doc_type: guidance
+    format: html
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads; westernmost Delaware Basin county, adjacent to
+      Culberson
+    decision_body: Hudspeth County Commissioners Court
+  contacts: []
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-yoakum-county
+  jurisdiction_level: county
+  state: TX
+  county: Yoakum
+  name: Yoakum County Government
+  agency: Yoakum County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  - swd_well
+  code_platform: self_hosted
+  landing_url: https://www.yoakumcounty.gov/
+  documents:
+  - title: Homepage | Yoakum County TX
+    url: https://www.yoakumcounty.gov/
+    doc_type: guidance
+    format: html
+    notes: County seat is Plains; borders Gaines County, heavy Permian midstream buildout around Denver
+      City. Alternate domain co.yoakum.tx.us also seen in search results.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Yoakum County Commissioners Court
+  contacts: []
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-terry-county
+  jurisdiction_level: county
+  state: TX
+  county: Terry
+  name: Terry County Government
+  agency: Terry County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: self_hosted
+  landing_url: https://www.co.terry.tx.us/
+  documents:
+  - title: Home Page - Terry County
+    url: https://www.co.terry.tx.us/
+    doc_type: guidance
+    format: html
+    notes: County seat is Brownfield; part of Region 7 Upper Brazos Flood Planning Region (TWDB).
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Terry County Commissioners Court
+  contacts: []
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-lynn-county
+  jurisdiction_level: county
+  state: TX
+  county: Lynn
+  name: Lynn County Government
+  agency: Lynn County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  documents:
+  - title: Lynn County (County.org profile)
+    url: https://www.county.org/lynn-county
+    doc_type: guidance
+    format: html
+    notes: County seat is Tahoka; no official county government website confirmed via search. Part of
+      Region 7 Upper Brazos Flood Planning Region (TWDB).
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Lynn County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-scurry-county
+  jurisdiction_level: county
+  state: TX
+  county: Scurry
+  name: Scurry County Government
+  agency: Scurry County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  documents:
+  - title: Scurry County flood planning (TWDB Region 7 reference; no official county site confirmed)
+    url: https://www.twdb.texas.gov/flood/planning/regions/7/index.asp
+    doc_type: guidance
+    format: html
+    notes: County seat is Snyder; northeastern edge of Permian Basin (Kinder Morgan/SACROC CO2-EOR area).
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Scurry County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-mitchell-county
+  jurisdiction_level: county
+  state: TX
+  county: Mitchell
+  name: Mitchell County Government
+  agency: Mitchell County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  documents:
+  - title: Mitchell County, Texas (TX Almanac profile; no official county site confirmed via search)
+    url: https://www.texasalmanac.com/places/mitchell-county
+    doc_type: guidance
+    format: html
+    notes: County seat is Colorado City.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Mitchell County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-nolan-county
+  jurisdiction_level: county
+  state: TX
+  county: Nolan
+  name: Nolan County Government
+  agency: Nolan County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.co.nolan.tx.us
+  documents:
+  - title: Nolan County, Texas official website
+    url: https://www.co.nolan.tx.us
+    doc_type: guidance
+    format: html
+    notes: County seat is Sweetwater; eastern edge of Permian Basin activity.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Nolan County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-coke-county
+  jurisdiction_level: county
+  state: TX
+  county: Coke
+  name: Coke County Government
+  agency: Coke County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  documents:
+  - title: Coke County, Texas (no official county website confirmed via search)
+    url: https://www.county.org/coke-county
+    doc_type: guidance
+    format: html
+    notes: County seat is Robert Lee.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Coke County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-tomgreen-county
+  jurisdiction_level: county
+  state: TX
+  county: Tom Green
+  name: Tom Green County Government
+  agency: Tom Green County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.tomgreencountytx.gov/
+  documents:
+  - title: Tom Green County (official website)
+    url: https://www.tomgreencountytx.gov/
+    doc_type: guidance
+    format: html
+    notes: County seat is San Angelo; regional hub at the eastern edge of the Permian/Midland Basin. Alternate
+      domain co.tom-green.tx.us also seen.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Tom Green County Commissioners Court
+  contacts: []
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-schleicher-county
+  jurisdiction_level: county
+  state: TX
+  county: Schleicher
+  name: Schleicher County Government
+  agency: Schleicher County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: self_hosted
+  landing_url: https://www.schleichercounty.gov/
+  documents:
+  - title: Home | Schleicher County, TX
+    url: https://www.schleichercounty.gov/
+    doc_type: guidance
+    format: html
+  - title: County Commissioners | Schleicher County, TX
+    url: https://www.schleichercounty.gov/page/Schleicher.Commissioner.Court
+    doc_type: guidance
+    format: html
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Schleicher County Commissioners Court
+  contacts: []
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-sutton-county
+  jurisdiction_level: county
+  state: TX
+  county: Sutton
+  name: Sutton County Government
+  agency: Sutton County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: self_hosted
+  landing_url: https://www.co.sutton.tx.us
+  documents:
+  - title: County Clerk - Sutton County Texas
+    url: https://www.co.sutton.tx.us/page/sutton.County.Clerk
+    doc_type: guidance
+    format: html
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Sutton County Commissioners Court
+  contacts: []
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-presidio-county
+  jurisdiction_level: county
+  state: TX
+  county: Presidio
+  name: Presidio County Government
+  agency: Presidio County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.co.presidio.tx.us
+  documents:
+  - title: Presidio County, Texas official website
+    url: https://www.co.presidio.tx.us
+    doc_type: guidance
+    format: html
+    notes: County seat is Marfa; far southwest Trans-Pecos, minimal current midstream footprint.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Presidio County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-brewster-county
+  jurisdiction_level: county
+  state: TX
+  county: Brewster
+  name: Brewster County Government
+  agency: Brewster County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: self_hosted
+  landing_url: https://www.brewstercounty.gov/
+  documents:
+  - title: Brewster County, Texas (official website)
+    url: https://www.brewstercounty.gov/
+    doc_type: guidance
+    format: html
+  - title: County Clerk Home | Brewster County, Texas
+    url: https://www.brewstercounty.gov/page/co.clerk.home
+    doc_type: guidance
+    format: html
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads; Alpine is the sole incorporated city and county
+      seat
+    decision_body: Brewster County Commissioners Court
+  contacts: []
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-hemphill-county
+  jurisdiction_level: county
+  state: TX
+  county: Hemphill
+  name: Hemphill County Government
+  agency: Hemphill County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  - gas_processing_plant
+  code_platform: unknown
+  landing_url: https://www.co.hemphill.tx.us
+  documents:
+  - title: Hemphill County, Texas official website
+    url: https://www.co.hemphill.tx.us
+    doc_type: guidance
+    format: html
+    notes: County seat is Canadian; Anadarko Basin gas-processing-heavy county (Hemphill/Roberts/Wheeler
+      are core Anadarko Basin midstream counties).
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Hemphill County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-roberts-county
+  jurisdiction_level: county
+  state: TX
+  county: Roberts
+  name: Roberts County Government
+  agency: Roberts County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  - gas_processing_plant
+  code_platform: unknown
+  landing_url: https://www.co.roberts.tx.us
+  documents:
+  - title: Roberts County, Texas official website
+    url: https://www.co.roberts.tx.us
+    doc_type: guidance
+    format: html
+    notes: County seat is Miami; sparsely populated Anadarko Basin county.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Roberts County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-wheeler-county
+  jurisdiction_level: county
+  state: TX
+  county: Wheeler
+  name: Wheeler County Government
+  agency: Wheeler County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  - gas_processing_plant
+  code_platform: self_hosted
+  landing_url: https://www.wheelercounty.texas.gov/
+  documents:
+  - title: Wheeler County, Texas (official website)
+    url: https://www.wheelercounty.texas.gov/
+    doc_type: guidance
+    format: html
+    notes: County seat is Wheeler; Anadarko Basin, deep gas/condensate midstream (Granite Wash play).
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Wheeler County Commissioners Court
+  contacts: []
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-ochiltree-county
+  jurisdiction_level: county
+  state: TX
+  county: Ochiltree
+  name: Ochiltree County Government
+  agency: Ochiltree County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: self_hosted
+  landing_url: https://www.ochiltree.us/
+  documents:
+  - title: Ochiltree County Website
+    url: https://www.ochiltree.us/
+    doc_type: guidance
+    format: html
+    notes: County seat is Perryton.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Ochiltree County Commissioners Court
+  contacts: []
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-lipscomb-county
+  jurisdiction_level: county
+  state: TX
+  county: Lipscomb
+  name: Lipscomb County Government
+  agency: Lipscomb County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.co.lipscomb.tx.us
+  documents:
+  - title: Lipscomb County, Texas official website
+    url: https://www.co.lipscomb.tx.us
+    doc_type: guidance
+    format: html
+    notes: County seat is Lipscomb; Anadarko Basin far northeast Panhandle county.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Lipscomb County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-hutchinson-county
+  jurisdiction_level: county
+  state: TX
+  county: Hutchinson
+  name: Hutchinson County Government
+  agency: Hutchinson County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  - gas_processing_plant
+  - compressor_station
+  code_platform: self_hosted
+  landing_url: https://www.co.hutchinson.tx.us/
+  documents:
+  - title: Hutchinson County, Texas (official website)
+    url: https://www.co.hutchinson.tx.us/
+    doc_type: guidance
+    format: html
+    notes: County seat is Stinnett; contains Borger, major gas processing/refining hub (Phillips 66 Borger
+      Refinery, historic Panhandle Field gas processing).
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Hutchinson County Commissioners Court
+  contacts: []
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-moore-county
+  jurisdiction_level: county
+  state: TX
+  county: Moore
+  name: Moore County Government
+  agency: Moore County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  - gas_processing_plant
+  code_platform: unknown
+  landing_url: http://www.co.moore.tx.us
+  documents:
+  - title: Moore County, Texas official website
+    url: http://www.co.moore.tx.us
+    doc_type: guidance
+    format: html
+    notes: County seat is Dumas; large helium/natural gas processing history (Cliffside gas field, federal
+      Bureau of Land Management helium reserve nearby).
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Moore County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-potter-county
+  jurisdiction_level: county
+  state: TX
+  county: Potter
+  name: Potter County Government
+  agency: Potter County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  documents:
+  - title: RESEARCH GAP - no official site found for Potter County Government
+    url: ''
+    doc_type: policy
+    format: unknown
+    notes: No official jurisdiction website could be located. This record is a named coverage gap, not
+      a researched jurisdiction - its requirements are unknown. Confirm by phone with the county/city
+      before relying on it.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads outside Amarillo city limits
+    decision_body: Potter County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+  update_watch:
+    method: search
+    cadence: quarterly
+- id: tx-hansford-county
+  jurisdiction_level: county
+  state: TX
+  county: Hansford
+  name: Hansford County Government
+  agency: Hansford County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  documents:
+  - title: Hansford County, Texas (no official county website confirmed via search)
+    url: https://www.txdirectory.com/online/county/detail.php?id=102
+    doc_type: guidance
+    format: html
+    notes: County seat is Spearman; Anadarko Basin, Hugoton gas field extension.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Hansford County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-sherman-county
+  jurisdiction_level: county
+  state: TX
+  county: Sherman
+  name: Sherman County Government
+  agency: Sherman County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  documents:
+  - title: Sherman County, Texas (TX Almanac profile; no official county site confirmed via search)
+    url: https://www.texasalmanac.com/places/sherman-county
+    doc_type: guidance
+    format: html
+    notes: County seat is Stratford; Hugoton gas field, far north Panhandle.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Sherman County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-hartley-county
+  jurisdiction_level: county
+  state: TX
+  county: Hartley
+  name: Hartley County Government
+  agency: Hartley County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  documents:
+  - title: RESEARCH GAP - no official site found for Hartley County Government
+    url: ''
+    doc_type: policy
+    format: unknown
+    notes: No official jurisdiction website could be located. This record is a named coverage gap, not
+      a researched jurisdiction - its requirements are unknown. Confirm by phone with the county/city
+      before relying on it.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Hartley County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+  update_watch:
+    method: search
+    cadence: quarterly
+- id: tx-carson-county
+  jurisdiction_level: county
+  state: TX
+  county: Carson
+  name: Carson County Government
+  agency: Carson County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  documents:
+  - title: RESEARCH GAP - no official site found for Carson County Government
+    url: ''
+    doc_type: policy
+    format: unknown
+    notes: No official jurisdiction website could be located. This record is a named coverage gap, not
+      a researched jurisdiction - its requirements are unknown. Confirm by phone with the county/city
+      before relying on it.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Carson County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+  update_watch:
+    method: search
+    cadence: quarterly
+- id: tx-gray-county
+  jurisdiction_level: county
+  state: TX
+  county: Gray
+  name: Gray County Government
+  agency: Gray County Commissioners Court
+  authority_type:
+  - roads_row
+  - floodplain
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  - gas_processing_plant
+  code_platform: unknown
+  landing_url: https://www.co.gray.tx.us
+  documents:
+  - title: Gray County, Texas official website
+    url: https://www.co.gray.tx.us
+    doc_type: guidance
+    format: html
+    notes: County seat is Pampa, home to a large historic Cabot/Cheniere-area gas processing complex.
+  permits:
+  - name: County road/ROW utility permit (presumed)
+    trigger: Utility/pipeline crossing of county roads
+    decision_body: Gray County Commissioners Court
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-amarillo-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Potter
+  municipality: Amarillo
+  name: City of Amarillo Code of Ordinances
+  agency: City of Amarillo Planning Department
+  authority_type:
+  - land_use_zoning
+  - fire_code
+  - roads_row
+  applies_to:
+  - well_pad
+  - midstream_pipeline
+  - compressor_station
+  code_platform: municode
+  landing_url: https://www.amarillo.gov/planning/codes-ordinances/
+  documents:
+  - title: Code of Ordinances | Amarillo, TX - Municode Library
+    url: https://library.municode.com/tx/amarillo/codes/code_of_ordinances
+    doc_type: code
+    format: html
+  - title: 'Chapter 4-3, Article V: Fugitive Gas Control (Gas Fugacity)'
+    url: https://library.municode.com/tx/amarillo/codes/code_of_ordinances?nodeId=CO_TITIVBUCODEZO_CH4-3GEBUCOST_ARTVFUGACO_S4-3-50ADFUGACOAM
+    doc_type: ordinance
+    format: html
+    citation_root: Amarillo City Code, Title IV, Ch. 4-3, Art. V (Fugitive Gas Control)
+  - title: 'Title XVIII Utilities, Article III: Fire Regulations for Gas Utilities, Stations, Installations
+      (Ch. 18-1-21)'
+    url: https://library.municode.com/tx/amarillo/codes/code_of_ordinances?nodeId=CO_TITXVIIIUT_ARTIIIFIREGAUTSTININRA_S18-1-21MIFIRE
+    doc_type: ordinance
+    format: html
+    citation_root: Amarillo City Code, Title XVIII, Art. III
+    notes: Fire/safety regulation of gas utility stations and installations - directly relevant to midstream
+      compressor/metering facilities within city limits
+  - title: Codes & Ordinances - City of Amarillo
+    url: https://www.amarillo.gov/planning/codes-ordinances/
+    doc_type: guidance
+    format: html
+  permits: []
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://library.municode.com/tx/amarillo/codes/code_of_ordinances
+    cadence: quarterly
+    method: search
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-borger-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Hutchinson
+  municipality: Borger
+  name: City of Borger Code of Ordinances
+  agency: City of Borger
+  authority_type:
+  - land_use_zoning
+  - fire_code
+  - roads_row
+  applies_to:
+  - gas_processing_plant
+  - compressor_station
+  - midstream_pipeline
+  code_platform: self_hosted
+  landing_url: https://online.encodeplus.com/regs/borger-tx/doc-viewer.aspx?secid=498
+  documents:
+  - title: Code of Ordinances of the City of Borger, Texas (EncodePlus)
+    url: https://online.encodeplus.com/regs/borger-tx/doc-viewer.aspx?secid=498
+    doc_type: code
+    format: html
+    notes: Hosted on EncodePlus (not in the schema's enumerated code_platform list; recorded as self_hosted).
+      Chapters cover general provisions, animal control, building, business regulations, fire prevention;
+      no dedicated oil & gas chapter confirmed. Borger hosts a major refinery/gas processing complex.
+  permits: []
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://online.encodeplus.com/regs/borger-tx/doc-viewer.aspx?secid=498
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-pampa-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Gray
+  municipality: Pampa
+  name: City of Pampa Government
+  agency: City of Pampa
+  authority_type:
+  - land_use_zoning
+  - roads_row
+  applies_to:
+  - well_pad
+  - midstream_pipeline
+  - gas_processing_plant
+  code_platform: unknown
+  documents:
+  - title: RESEARCH GAP - no official site found for City of Pampa Government
+    url: ''
+    doc_type: policy
+    format: unknown
+    notes: No official jurisdiction website could be located. This record is a named coverage gap, not
+      a researched jurisdiction - its requirements are unknown. Confirm by phone with the county/city
+      before relying on it.
+  permits: []
+  contacts: []
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+  update_watch:
+    method: search
+    cadence: quarterly
+- id: tx-perryton-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Ochiltree
+  municipality: Perryton
+  name: City of Perryton Code of Ordinances
+  agency: City of Perryton
+  authority_type:
+  - land_use_zoning
+  - roads_row
+  applies_to:
+  - well_pad
+  - midstream_pipeline
+  code_platform: self_hosted
+  landing_url: https://www.cityofperryton.com/code-of-ordinances
+  documents:
+  - title: Code of Ordinances - City of Perryton
+    url: https://www.cityofperryton.com/code-of-ordinances
+    doc_type: code
+    format: html
+  permits: []
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://www.cityofperryton.com/code-of-ordinances
+    cadence: quarterly
+    method: search
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: tx-canadian-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Hemphill
+  municipality: Canadian
+  name: City of Canadian Code of Ordinances
+  agency: City of Canadian
+  authority_type:
+  - land_use_zoning
+  - roads_row
+  applies_to:
+  - well_pad
+  - midstream_pipeline
+  - gas_processing_plant
+  code_platform: ecode360
+  landing_url: https://ecode360.com/CA6269
+  documents:
+  - title: Code of Ordinances - City of Canadian, TX - eCode360
+    url: https://ecode360.com/40335697
+    doc_type: code
+    format: html
+    notes: Codified through Ordinance No. 784 (adopted 12/15/2025); no dedicated oil & gas drilling chapter
+      confirmed in search results (zoning and general provisions only).
+  permits: []
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://ecode360.com/40335697
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-dumas-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Moore
+  municipality: Dumas
+  name: City of Dumas Code of Ordinances
+  agency: City of Dumas
+  authority_type:
+  - land_use_zoning
+  - roads_row
+  applies_to:
+  - well_pad
+  - midstream_pipeline
+  - gas_processing_plant
+  code_platform: ecode360
+  landing_url: https://www.dumastx.gov/our_city/departments/index.php
+  documents:
+  - title: 'Article 1.01: Code of Ordinances - City of Dumas, TX (eCode360)'
+    url: https://ecode360.com/40340735
+    doc_type: code
+    format: html
+  - title: City of Dumas, TX departments page
+    url: https://www.dumastx.gov/our_city/departments/index.php
+    doc_type: guidance
+    format: html
+  permits: []
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://ecode360.com/40340735
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-stinnett-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Hutchinson
+  municipality: Stinnett
+  name: City of Stinnett Code of Ordinances
+  agency: City of Stinnett
+  authority_type:
+  - land_use_zoning
+  - roads_row
+  applies_to:
+  - well_pad
+  - midstream_pipeline
+  code_platform: ecode360
+  landing_url: https://ecode360.com/40757428
+  documents:
+  - title: City of Stinnett, TX Code of Ordinances (eCode360)
+    url: https://ecode360.com/40757428
+    doc_type: code
+    format: html
+    notes: Stinnett is the Hutchinson County seat; no dedicated oil & gas chapter confirmed in search
+      results.
+  permits: []
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://ecode360.com/40757428
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: tx-spearman-city
+  jurisdiction_level: municipal
+  state: TX
+  county: Hansford
+  municipality: Spearman
+  name: City of Spearman Code of Ordinances
+  agency: City of Spearman
+  authority_type:
+  - land_use_zoning
+  - roads_row
+  applies_to:
+  - well_pad
+  - midstream_pipeline
+  code_platform: ecode360
+  landing_url: https://ecode360.com/SP6488
+  documents:
+  - title: City of Spearman, TX Code (eCode360)
+    url: https://ecode360.com/SP6488
+    doc_type: code
+    format: html
+    notes: Codified through Ordinance No. 964 (adopted 9/19/2023); no dedicated oil & gas chapter confirmed.
+  permits: []
+  contacts: []
+  update_watch:
+    check_urls:
+    - https://ecode360.com/SP6488
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'

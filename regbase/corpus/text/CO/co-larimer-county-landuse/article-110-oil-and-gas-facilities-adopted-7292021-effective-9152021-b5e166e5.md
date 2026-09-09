@@ -9,7 +9,7 @@ doc_type: ordinance
 citation_root: Larimer County Land Use Code Art. 11.0
 url: "https://www.larimer.org/sites/default/files/uploads/2021/article_11.0_oil_and_gas_facilities_-_6-4-21_-_redline.pdf"
 sha256: c70aefce87034cd8e427db288320e72a4433a417b80dd03199d35ce7cfdf8d37
-fetched_at: "2026-09-05T05:10:07+00:00"
+fetched_at: "2026-09-08T17:35:23+00:00"
 ---
 
 <!-- page: 1 -->

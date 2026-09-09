@@ -8,7 +8,7 @@ title: Review of La Plata County Oil and Gas Regulations (Chapter 90) - comment 
 doc_type: guidance
 url: "https://cms9files.revize.com/laplatacounty/FINAL%20comments%20on%20La%20Plata%20County%20oil%20and%20gas%20regulations%2010-7.pdf"
 sha256: fca9af42f98863fa899b2b9e812632cc0f7b471e9fff3465422d8a1d6b57d8e1
-fetched_at: "2026-09-05T05:10:05+00:00"
+fetched_at: "2026-09-08T17:35:47+00:00"
 ---
 
 <!-- page: 1 -->

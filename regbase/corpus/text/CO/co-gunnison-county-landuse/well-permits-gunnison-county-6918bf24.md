@@ -7,8 +7,8 @@ agency: Gunnison County Community Development
 title: Well Permits | Gunnison County
 doc_type: guidance
 url: "https://www.gunnisoncounty.org/426/Well-Permits"
-sha256: 79137fadc12a508bd776152b738fb72e8c17e73682b77c2982ca38ebb8c0e1e7
-fetched_at: "2026-09-05T05:09:54+00:00"
+sha256: 4727f702de9ec3d70ecca7bdba5007b5fafb634c9e72137282d5b01d9ac8ee97
+fetched_at: "2026-09-08T17:37:55+00:00"
 ---
 
 <!-- heading-path: Well Permits -->

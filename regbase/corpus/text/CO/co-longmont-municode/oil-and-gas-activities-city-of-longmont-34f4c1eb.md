@@ -8,8 +8,8 @@ agency: City of Longmont
 title: Oil and Gas Activities | City of Longmont
 doc_type: guidance
 url: "https://www.longmontcolorado.gov/departments/departments-n-z/public-information/oil-and-gas-information/oil-and-gas-regulations-in-longmont"
-sha256: 90084bd5684edd71e8f161033c5b6cc6afec107a91e36269b02ccb2b10b9e3d2
-fetched_at: "2026-09-05T05:10:23+00:00"
+sha256: 4e9ca93c9bc77e2d7c9d45dc533b4014c808927670c5f888c4050bf8e50ec13e
+fetched_at: "2026-09-08T17:38:42+00:00"
 ---
 
 <!-- heading-path: Longmont’s Oil and Gas Regulations -->

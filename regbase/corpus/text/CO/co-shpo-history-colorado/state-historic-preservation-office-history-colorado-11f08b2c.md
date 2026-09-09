@@ -6,8 +6,8 @@ agency: History Colorado, Office of Archaeology and Historic Preservation
 title: State Historic Preservation Office | History Colorado
 doc_type: guidance
 url: "https://www.historycolorado.org/preservation-archaeology-0"
-sha256: 2c8d776b2ec9204dd57dcad7dff83f1bad581077771bf7327b2500cd6a19e700
-fetched_at: "2026-09-05T05:10:42+00:00"
+sha256: 6cd0e6d3effc0cde36130816fe0d803ce270eeb123cf5b7b45cf1d9d07fbeb60
+fetched_at: "2026-09-08T17:34:24+00:00"
 ---
 
 <!-- heading-path: Preservation Incentives Programs -->

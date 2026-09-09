@@ -8,7 +8,7 @@ title: Oil and Gas Regulations | Arapahoe County
 doc_type: guidance
 url: "https://www.arapahoeco.gov/your_county/county_departments/public_works_and_development/oil_and_gas/index.php"
 sha256: 0c44276daddbfb7958f42f9432ecaf2e7520aaff4d7a4ea6167dc8d02bf67fe9
-fetched_at: "2026-09-05T05:08:45+00:00"
+fetched_at: "2026-09-08T17:35:08+00:00"
 ---
 
 <!-- heading-path: Oil and Gas -->

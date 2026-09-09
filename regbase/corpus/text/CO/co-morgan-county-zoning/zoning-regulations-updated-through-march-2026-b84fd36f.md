@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Morgan County Zoning Regulations
 url: "https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Zoning%20Regulations%20-%20032026.pdf"
 sha256: cc7c93140a82a1ecac45c0059acca5d27d6aa4f98733e1853172421d7af710d6
-fetched_at: "2026-09-05T05:10:33+00:00"
+fetched_at: "2026-09-08T17:36:32+00:00"
 ---
 
 <!-- page: 1 -->

@@ -1,0 +1,1771 @@
+sources:
+- id: co-cdphe-reg3-text
+  jurisdiction_level: state
+  state: CO
+  name: CDPHE Regulation Number 3 (Stationary Source Permitting and APEN Requirements) — regulation text
+  agency: Colorado Air Quality Control Commission / CDPHE Air Pollution Control Division
+  authority_type:
+  - air_quality
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - gas_processing_plant
+  - well_pad
+  - tank_battery
+  code_platform: state_register
+  landing_url: https://cdphe.colorado.gov/aqcc-regulations
+  documents:
+  - title: 5 CCR 1001-5 - Regulation Number 3 (Stationary Source Permitting and Air Pollutant Emission
+      Notice Requirements) - Secretary of State CCR rule detail
+    url: https://www.sos.state.co.us/CCR/DisplayRule.do?action=ruleinfo&ruleId=2337&deptID=16&agencyID=7&deptName=100020Public20Health20and20Environment&agencyName=1001A0Air20Quality20Control20Commission&seriesNum=5+CCR+1001-5
+    doc_type: regulation
+    format: html
+    citation_root: 5 CCR 1001-5, Regulation No. 3
+    notes: Official CCR rule-detail page (Secretary of State eDocket) listing current and historical rule
+      versions/PDFs for Reg 3 Parts A (general provisions), B (construction permits/APENs), C (operating
+      permits), D (major source NSR/PSD), F (regional haze). Follow the version link on this page for
+      the current-effective PDF.
+  - title: 5 CCR 1001-5 - Regulation Number 3 - Cornell LII mirror (full text, navigable by part)
+    url: https://www.law.cornell.edu/regulations/colorado/department-1000/division-1001/5-CCR-1001-5
+    doc_type: regulation
+    format: html
+    citation_root: 5 CCR 1001-5, Regulation No. 3
+    notes: Unofficial but reliably current mirror of the CCR text, useful for pinpoint-citing individual
+      sections (e.g. Part B construction permit / APEN requirements).
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://cdphe.colorado.gov/aqcc-regulations
+    cadence: quarterly
+    method: agenda_scan
+  confidence: verified
+  last_reviewed: '2026-09-04'
+- id: co-cdphe-reg7-text
+  jurisdiction_level: state
+  state: CO
+  name: CDPHE Regulation Number 7 (Control of Ozone via Ozone Precursors and Control of Hydrocarbons via
+    Oil and Gas Emissions) — regulation text
+  agency: Colorado Air Quality Control Commission / CDPHE Air Pollution Control Division
+  authority_type:
+  - air_quality
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - gas_processing_plant
+  - well_pad
+  - tank_battery
+  - metering
+  code_platform: state_register
+  landing_url: https://cdphe.colorado.gov/apcd/oil-and-gas-regulation
+  documents:
+  - title: 5 CCR 1001-9 - Regulation Number 7 (Control of Emissions from Oil and Gas Operations) - Secretary
+      of State CCR rule detail
+    url: https://www.sos.state.co.us/CCR/DisplayRule.do?action=ruleinfo&ruleId=2341&deptID=16&agencyID=7&deptName=100020Public20Health20and20Environment&agencyName=1001A0Air20Quality20Control20Commission&seriesNum=5+CCR+1001-9
+    doc_type: regulation
+    format: html
+    citation_root: 5 CCR 1001-9, Regulation No. 7
+    notes: Official CCR rule-detail page. Reg 7 Part B is the operative oil & gas LDAR/tank/pneumatic/engine/compressor-station
+      provisions; Part B-V is the emissions inventory, Part B-VII covers midstream segment fuel combustion
+      equipment, Part B-VIII is the GHG intensity program for the upstream segment.
+  - title: 5 CCR 1001-9 - Regulation Number 7 - Cornell LII mirror (full text, navigable by part)
+    url: https://www.law.cornell.edu/regulations/colorado/department-1000/division-1001/5-CCR-1001-9
+    doc_type: regulation
+    format: html
+    citation_root: 5 CCR 1001-9, Regulation No. 7
+  - title: 5 CCR 1001-9-B-VII - Reduction of Emissions from Oil and Natural Gas Midstream Segment Fuel
+      Combustion Equipment
+    url: https://www.law.cornell.edu/regulations/colorado/Article-5-CCR-1001-9-B-VII
+    doc_type: regulation
+    format: html
+    citation_root: 5 CCR 1001-9, Reg. 7 Part B-VII
+    notes: Directly applicable to compressor engines/heaters on a midstream project.
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://cdphe.colorado.gov/apcd/oil-and-gas-regulation
+    cadence: quarterly
+    method: agenda_scan
+  confidence: verified
+  last_reviewed: '2026-09-04'
+- id: co-cdphe-reg61-text
+  jurisdiction_level: state
+  state: CO
+  name: CDPHE Regulation Number 61 (Colorado Discharge Permit System Regulations) — regulation text
+  agency: Colorado Water Quality Control Commission / CDPHE Water Quality Control Division
+  authority_type:
+  - water_quality
+  applies_to:
+  - produced_water_line
+  - swd_well
+  - compressor_station
+  - gas_processing_plant
+  - well_pad
+  - water_crossing
+  code_platform: state_register
+  landing_url: https://cdphe.colorado.gov/wqcd-regulations
+  documents:
+  - title: 5 CCR 1002-61 - Regulation No. 61 (Colorado Discharge Permit System Regulations) - Secretary
+      of State CCR rule detail
+    url: https://www.sos.state.co.us/CCR/DisplayRule.do?action=ruleinfo&ruleId=2377&d=
+    doc_type: regulation
+    format: html
+    citation_root: 5 CCR 1002-61, Regulation No. 61
+    notes: Official CCR rule-detail page for the CDPS regulation (CDPS/NPDES-equivalent state discharge
+      permit program, incl. construction/industrial stormwater and CDPS individual permits).
+  - title: 5 CCR 1002-61 - direct rule PDF generator link (Secretary of State)
+    url: https://www.sos.state.co.us/CCR/GenerateRulePdf.do?ruleVersionId=2061&fileName=5+CCR+1002-61
+    doc_type: regulation
+    format: pdf
+    citation_root: 5 CCR 1002-61
+    notes: ruleVersionId is version-specific and may point to a superseded version by the time this is
+      read — confirm the current ruleVersionId on the DisplayRule.do page above before relying on this
+      exact link.
+  - title: 5 CCR 1002-61 - Regulation No. 61 - Cornell LII mirror (full text, navigable by section)
+    url: https://www.law.cornell.edu/regulations/colorado/department-1000/division-1002/5-CCR-1002-61
+    doc_type: regulation
+    format: html
+    citation_root: 5 CCR 1002-61
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://cdphe.colorado.gov/wqcd-regulations
+    cadence: quarterly
+    method: agenda_scan
+  confidence: verified
+  last_reviewed: '2026-09-04'
+- id: co-cdphe-gp-general-permits
+  jurisdiction_level: state
+  state: CO
+  name: CDPHE Air Pollution General Permits GP01/GP02 (oil & gas condensate tank batteries and glycol
+    dehydrators)
+  agency: CDPHE Air Pollution Control Division
+  authority_type:
+  - air_quality
+  applies_to:
+  - tank_battery
+  - gas_processing_plant
+  - compressor_station
+  code_platform: self_hosted
+  landing_url: https://cdphe.colorado.gov/apcd/general-air-permits
+  documents:
+  - title: General air permits (GP01-GP11 index)
+    url: https://cdphe.colorado.gov/apcd/general-air-permits
+    doc_type: regulation
+    format: html
+    notes: GP01 = condensate storage tank batteries (confirmed fee $2,490.14 as of a July 2025 update,
+      per search snippet). GP02 is understood to be the glycol natural gas dehydrator general permit,
+      following APCD's numbering pattern, but this specific mapping was NOT independently confirmed this
+      pass -- verify on this index page before citing GP02's exact scope. Effective 2022-09-07, registration
+      for GP01/02/05/06/07/08/09/10/11 was realigned with the construction-permitting process; no direct
+      GP01/GP02 permit-text PDF URL was located by search (CDPHE's own notice says PDFs are being retired
+      in favor of an online submission tool), so only this landing/index page is cited.
+    citation_root: 5 CCR 1001-5, Regulation No. 3 (general permits issued thereunder)
+  permits:
+  - name: GP01 - General Permit for Condensate/Crude Oil Storage Tank Batteries
+    trigger: New or modified condensate/crude storage tank battery meeting GP01 emission/equipment criteria
+      (in lieu of a case-by-case construction permit)
+    form_id: unknown (see landing page; direct form PDF not located)
+    form_url: https://cdphe.colorado.gov/apcd/general-air-permits
+    typical_timeline_days: unknown
+    decision_body: CDPHE Air Pollution Control Division
+    public_hearing: false
+    fee: $2,490.14 (per a July 2025-dated search snippet -- reconfirm current fee schedule before quoting)
+  - name: GP02 - General Permit (glycol dehydrator, per APCD numbering pattern -- unconfirmed)
+    trigger: unconfirmed -- likely a glycol natural gas dehydrator meeting GP02 criteria
+    form_id: unknown
+    form_url: https://cdphe.colorado.gov/apcd/general-air-permits
+    typical_timeline_days: unknown
+    decision_body: CDPHE Air Pollution Control Division
+    public_hearing: false
+    fee: unknown
+  gis: []
+  update_watch:
+    check_urls:
+    - https://cdphe.colorado.gov/apcd/general-air-permits
+    cadence: quarterly
+    method: agenda_scan
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: co-cdot-forms-confirmed
+  jurisdiction_level: state
+  state: CO
+  name: CDOT Utility/Special Use and Highway Access Permit forms (confirmed form numbers)
+  agency: Colorado Department of Transportation
+  authority_type:
+  - roads_row
+  applies_to:
+  - midstream_pipeline
+  - produced_water_line
+  - access_road
+  - electrical_line
+  - water_crossing
+  code_platform: self_hosted
+  landing_url: https://www.codot.gov/business/permits/utilitiesspecialuse
+  documents:
+  - title: CDOT Form 1233 - Utility/Special Use Permit Application (PDF)
+    url: https://www.codot.gov/library/forms/cdot1233.pdf/view
+    doc_type: form
+    format: pdf
+    citation_root: 2 CCR 601-18 (State Highway Utility Accommodation Code)
+    notes: CONFIRMED this pass -- CDOT's own forms library. This is the correct utility/special-use permit
+      application form (pipeline/utility crossings and longitudinal occupancy of CDOT right-of-way). The
+      task brief's 'Form 101' and 'Form 333' could not be corroborated anywhere and do NOT appear to be
+      current/correct CDOT numbers -- treat those as wrong, superseded by this finding.
+  - title: CDOT Form 0137 - State Highway Access Permit Application
+    url: https://www.codot.gov/business/permits/accesspermits/forms/cdot0137
+    doc_type: form
+    format: pdf
+    citation_root: 2 CCR 601-1 (State Highway Access Code)
+    notes: CONFIRMED this pass -- this is CDOT's actual access-permit form (driveways/curb cuts/new road
+      connections to a state highway), distinct from Form 1233 (utility occupancy/crossing). Also not
+      'Form 101' or 'Form 333'.
+  - title: 2 CCR 601-18 - Rules and Regulations governing CDOT Utility/Special Use permits (State Highway
+      Utility Accommodation Code)
+    url: https://www.codot.gov/business/permits/utilitiesspecialuse/assets/2CCR_601_18.pdf
+    doc_type: regulation
+    format: pdf
+    citation_root: 2 CCR 601-18
+  permits:
+  - name: Utility/Special Use Permit (pipeline or utility crossing/occupancy of CDOT ROW)
+    trigger: Any pipeline, produced-water line, or electrical line crossing or running longitudinally
+      within CDOT state highway right-of-way
+    form_id: CDOT Form 1233
+    form_url: https://www.codot.gov/library/forms/cdot1233.pdf/view
+    typical_timeline_days: ~14 (about two weeks per CDOT FAQ, region-dependent)
+    decision_body: CDOT Regional Utilities Permit Coordinator
+    public_hearing: false
+    fee: None (no fee for a CDOT utility permit, per CDOT FAQ)
+  - name: State Highway Access Permit (new/modified access point to a state highway)
+    trigger: Constructing, relocating, closing, or modifying an access point onto a state highway, or
+      changing the use of an existing access point (e.g., a compressor station or plant entrance road)
+    form_id: CDOT Form 0137
+    form_url: https://www.codot.gov/business/permits/accesspermits/forms/cdot0137
+    typical_timeline_days: unknown
+    decision_body: CDOT (or local government acting as issuing authority under the State Highway Access
+      Code)
+    public_hearing: false
+    fee: unknown
+  gis: []
+  update_watch:
+    check_urls:
+    - https://www.codot.gov/business/permits/utilitiesspecialuse
+    - https://www.codot.gov/business/permits/accesspermits
+    cadence: quarterly
+    method: search
+  confidence: verified
+  last_reviewed: '2026-09-04'
+- id: co-arapahoe-county-1041-regs
+  jurisdiction_level: county
+  state: CO
+  county: Arapahoe
+  name: Arapahoe County Regulations Governing Areas and Activities of State Interest (1041 Regulations)
+    -- CONFIRMED ADOPTED
+  agency: Arapahoe County Public Works and Development, Planning and Land Development Division
+  authority_type:
+  - land_use_zoning
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - gas_processing_plant
+  - well_pad
+  - tank_battery
+  code_platform: self_hosted
+  landing_url: https://www.arapahoeco.gov/your_county/county_departments/public_works_and_development/divisions/planning_and_land_development/land_development_code_and_regulations/index.php
+  documents:
+  - title: Land Development Code and 1041 Regulations (division landing page)
+    url: https://www.arapahoeco.gov/your_county/county_departments/public_works_and_development/divisions/planning_and_land_development/land_development_code_and_regulations/index.php
+    doc_type: regulation
+    format: html
+    notes: County's own division page, titled explicitly 'Land Development Code and 1041 Regulations'
+      -- this alone settles adoption. Page states the 1041 program is based on 24-65.1-101 et seq. C.R.S.
+      and describes the 1041 Permit's purpose (safe/efficient/planned/coordinated growth, adequate community
+      services).
+  - title: REGULATIONS GOVERNING AREAS AND ACTIVITIES OF STATE INTEREST (Arapahoe County, direct PDF)
+    url: https://files.arapahoeco.gov/Public%20Works_Development/planning_land%20development/Regs%20on%20Areas%20Activities%20of%20State%20Interest.pdf
+    doc_type: regulation
+    format: pdf
+    citation_root: Arapahoe County Regulations Governing Areas and Activities of State Interest (24-65.1-101
+      et seq., C.R.S.)
+    notes: Direct county-hosted PDF of the adopted 1041 regulation text. One search snippet showed a document
+      dated December 12, 2006 -- treat that as an early/prior adoption or amendment date, not necessarily
+      the current version's date; confirm the effective date on the PDF's own cover page before citing.
+  permits:
+  - name: 1041 Permit (Areas and Activities of State Interest)
+    trigger: A proposed activity or facility falling within a state-interest area/activity category designated
+      by Arapahoe County under 24-65.1-101 et seq. C.R.S. (e.g., certain major utility/pipeline facilities,
+      depending on the county's specific designations in the PDF above) -- in addition to, not in lieu
+      of, standard Land Development Code approvals.
+    form_id: unknown
+    form_url: https://www.arapahoeco.gov/your_county/county_departments/public_works_and_development/divisions/planning_and_land_development/land_development_code_and_regulations/index.php
+    typical_timeline_days: unknown
+    decision_body: Arapahoe County Board of County Commissioners (typical for 1041 permits statewide;
+      not independently confirmed for Arapahoe specifically)
+    public_hearing: true
+    fee: unknown
+  gis: []
+  update_watch:
+    check_urls:
+    - https://www.arapahoeco.gov/your_county/county_departments/public_works_and_development/divisions/planning_and_land_development/land_development_code_and_regulations/index.php
+    cadence: quarterly
+    method: search
+  confidence: verified
+  last_reviewed: '2026-09-04'
+- id: ut-vernal-city-code
+  jurisdiction_level: municipal
+  state: UT
+  county: Uintah
+  municipality: Vernal
+  name: Vernal City Municipal Code
+  agency: Vernal City
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - tank_battery
+  - access_road
+  code_platform: municode
+  landing_url: https://library.municode.com/ut/vernal_city
+  documents:
+  - title: Vernal City, UT Code of Ordinances (Municode Library)
+    url: https://library.municode.com/ut/vernal_city
+    doc_type: code
+    format: html
+    notes: Confirmed hosted on Municode this pass (via a BYU Law Library research-guide citation). Specific
+      oil & gas/pipeline chapter/title not independently opened/confirmed -- treat as landing-level confirmation
+      only; drill into the zoning title for any O&G use classification before relying on it.
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://library.municode.com/ut/vernal_city
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: ut-roosevelt-city-code
+  jurisdiction_level: municipal
+  state: UT
+  county: Duchesne
+  municipality: Roosevelt
+  name: Roosevelt City Municipal Code
+  agency: Roosevelt City
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - tank_battery
+  - access_road
+  code_platform: code_publishing
+  landing_url: https://www.codepublishing.com/UT/Roosevelt/
+  documents:
+  - title: Roosevelt City Municipal Code (CodePublishing.com)
+    url: https://www.codepublishing.com/UT/Roosevelt/
+    doc_type: code
+    format: html
+    citation_root: Roosevelt City Municipal Code Title 17 (Zoning)
+    notes: Confirmed current through Ordinance 2019-431 (2019-11-19) per search snippet. Title 17 = Zoning
+      (general provisions, appeal authority, supplementary regs, nonconforming uses, conditional uses,
+      zoning districts). No O&G-specific chapter/use classification independently confirmed within Title
+      17 this pass. City is reportedly mid-way through a full code-update project (see rooseveltcity.com/371)
+      -- expect the code to change; re-verify before citing a specific section.
+  - title: Roosevelt City Planning & Zoning Commission
+    url: https://www.rooseveltcity.gov/186/Planning-Zoning-Commission
+    doc_type: guidance
+    format: html
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://www.codepublishing.com/UT/Roosevelt/
+    - https://www.rooseveltcity.com/371/City-Code-Update-Project
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: ut-naples-city-code
+  jurisdiction_level: municipal
+  state: UT
+  county: Uintah
+  municipality: Naples
+  name: Naples City Land Use Ordinance / Municipal Code
+  agency: Naples City
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - tank_battery
+  - access_road
+  code_platform: self_hosted
+  landing_url: https://naplescityut.gov/land-use-ordinance/
+  documents:
+  - title: Land Use Ordinance -- Naples City, Uintah County, Utah (self-hosted)
+    url: https://naplescityut.gov/land-use-ordinance/
+    doc_type: ordinance
+    format: html
+    citation_root: Naples City Municipal Code Title 17 (Land Use Ordinance)
+    notes: Codified as Title 17. Chapters include general provisions/definitions/admin, residential (R-1/R-2/R-3),
+      Agricultural (A-1/RA-1/RA-2), Commercial, Industrial, Sign, and Airport zones -- no chapter title
+      suggests a dedicated O&G use classification, but Industrial zone chapter should be checked directly
+      for O&G/pipeline as a permitted or conditional use. A per-chapter PDF was also found (e.g. Ch. 02-31
+      Subdivisions at cdn.townweb.com/naplescityut.gov/...).
+  - title: City of Naples, UT Code (ecode360 mirror)
+    url: https://ecode360.com/NA4750
+    doc_type: code
+    format: html
+    notes: A second hosting was found on ecode360 under code NA4750 -- unresolved conflict with the self-hosted
+      Title 17 page above; a prior agent's notes also flagged that Naples' land-use ordinance may partly
+      co-adopt Uintah County's land use ordinance rather than being fully independent. Verify which is
+      the authoritative, current version before citing a specific section.
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://naplescityut.gov/land-use-ordinance/
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: ut-helper-city-code
+  jurisdiction_level: municipal
+  state: UT
+  county: Carbon
+  municipality: Helper
+  name: Helper City Municipal Code
+  agency: Helper City
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - tank_battery
+  code_platform: code_publishing
+  landing_url: https://www.codepublishing.com/UT/Helper/
+  documents:
+  - title: Helper City Municipal Code (CodePublishing.com) -- Ch. 1.01 Adoption of Code
+    url: https://www.codepublishing.com/UT/Helper/html/Helper01/Helper0101.html
+    doc_type: code
+    format: html
+    notes: 'Confirmed this pass: Helper City IS hosted on CodePublishing.com (contrary to a generic BYU
+      library-guide note suggesting no online code exists for Helper) -- the direct chapter URL above
+      was returned by search. Landing_url is inferred to follow CodePublishing''s standard /UT/<City>/
+      pattern from the confirmed chapter URL; the exact index page was not separately opened this pass.
+      O&G-specific zoning content not independently confirmed.'
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://www.codepublishing.com/UT/Helper/html/Helper01/Helper0101.html
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: ut-moab-city-code
+  jurisdiction_level: municipal
+  state: UT
+  county: Grand
+  municipality: Moab
+  name: Moab Municipal Code
+  agency: Moab City
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  - water_crossing
+  code_platform: self_hosted
+  landing_url: https://moab.municipal.codes/
+  documents:
+  - title: Moab Municipal Code (General Code platform)
+    url: https://moab.municipal.codes/
+    doc_type: code
+    format: html
+    citation_root: Moab Municipal Code Title 17 (Zoning); Titles 12, 15, 16 also govern development
+    notes: Hosted by General Code (moab.municipal.codes -- no exact schema enum for 'General Code'; closest
+      available value used is self_hosted since it is not municode/ecode360/american_legal/sterling/quality_code/franklin_legal).
+      Confirmed current through Ordinance 26-12 (passed 2026-06-09) per search snippet. No O&G-specific
+      chapter located this pass -- Moab's land-use politics are tourism/growth-management focused, not
+      O&G-specific, but any pipeline/compressor use would still route through Title 17 zoning and Titles
+      12/15/16 development standards.
+  - title: Planning & Zoning | Moab, UT
+    url: https://www.moabcity.gov/162/Planning-Zoning
+    doc_type: guidance
+    format: html
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://moab.municipal.codes/
+    - https://moabcity.gov/713/2026-Ordinances
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: ut-price-city-code
+  jurisdiction_level: municipal
+  state: UT
+  county: Carbon
+  municipality: Price
+  name: Price City Land Use Management and Development Code
+  agency: Price City
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.pricecityutah.org/
+  documents:
+  - title: Price City -- general city site (Land Use Management and Development Code referenced but not
+      located on a specific hosting platform this pass)
+    url: https://www.pricecityutah.org/
+    doc_type: code
+    format: html
+    notes: Search confirmed Price City has a 'Land Use Management and Development Code' by name, but did
+      NOT surface a Municode, CodePublishing, ecode360, or American Legal URL for it -- do not assume
+      any specific platform. A Utah.gov public-notice PDF referenced a city planning contact (Nick Tatton)
+      for zoning questions. Landing URL here is the city's general website, not a confirmed code-hosting
+      page -- treat as a placeholder pending direct verification.
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://www.pricecityutah.org/
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: ut-myton-city-code
+  jurisdiction_level: municipal
+  state: UT
+  county: Duchesne
+  municipality: Myton
+  name: Myton City Code of Ordinances
+  agency: Myton City
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: american_legal
+  landing_url: https://codelibrary.amlegal.com/codes/mytonut/latest/myton_ut/0-0-0-1
+  documents:
+  - title: Myton City, Utah Code of Ordinances (American Legal Publishing)
+    url: https://codelibrary.amlegal.com/codes/mytonut/latest/myton_ut/0-0-0-1
+    doc_type: code
+    format: html
+    notes: Confirmed hosted on American Legal's codelibrary.amlegal.com platform. Section 153.005 (Applicability
+      and Permit Requirements) was directly surfaced, suggesting Ch. 153 is a land-use/development-permit
+      chapter -- not confirmed as O&G-specific. City building inspector has express authority to enter
+      land for general-plan/land-use-ordinance enforcement purposes per that section.
+  - title: Home | Myton City (official site)
+    url: https://www.mytoncityut.gov/
+    doc_type: guidance
+    format: html
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://codelibrary.amlegal.com/codes/mytonut/latest/myton_ut/0-0-0-1
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: ut-emery-county-zoning-maps
+  jurisdiction_level: county
+  state: UT
+  county: Emery
+  name: Emery County Zoning Ordinance and Zone Maps (incl. Castle Dale)
+  agency: Emery County Planning and Zoning
+  authority_type:
+  - land_use_zoning
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - tank_battery
+  - well_pad
+  code_platform: unknown
+  landing_url: https://emery.utah.gov/
+  documents:
+  - title: Emery County zone map (county-wide)
+    url: https://emery.utah.gov/wp-content/uploads/2023/02/cntyzone.pdf
+    doc_type: map
+    format: pdf
+    notes: 'Direct county-hosted zoning-map PDF, confirmed this pass. Zones include Rural Residential,
+      Residential, Mobile Home Park, Highway Commercial, Central Commercial, Shopping Center, Light Industrial,
+      and PUD -- Light Industrial is the most likely zone for a midstream facility, but text of the ordinance
+      defining permitted uses within it was not independently opened. Contact: Jim Jennings, Emery County
+      zoning, (435) 381-5660 / jimj@emery.utah.gov.'
+  - title: Castle Dale City zone map
+    url: https://emery.utah.gov/wp-content/uploads/2023/08/CDzone.pdf
+    doc_type: map
+    format: pdf
+    notes: 'Castle Dale''s own zone map, hosted on the Emery County site rather than a Castle Dale city
+      domain -- suggests county involvement in administering city zoning or simple co-hosting; not confirmed
+      which. Castle Dale contact: (435) 381-2115 / castledalecity@gmail.com.'
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://emery.utah.gov/
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: ut-huntington-city-code
+  jurisdiction_level: municipal
+  state: UT
+  county: Emery
+  municipality: Huntington
+  name: Huntington City Zoning and Subdivision Regulations (Title 9)
+  agency: Huntington City
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.huntingtonut.com/services.html
+  documents:
+  - title: Ordinance 2-2026 -- repeals and replaces Title 9 of the Huntington City Code with new Zoning
+      and Subdivision Regulations
+    url: https://www.utah.gov/pmn/files/1407631.pdf
+    doc_type: ordinance
+    format: pdf
+    citation_root: Huntington City Code Title 9 (Zoning and Subdivision Regulations)
+    notes: Passed 2026-03-18 per search snippet -- VERY recent, supersedes the prior Ordinance 1-2022
+      partial amendment to Title 9 Ch. 7. This PDF URL was returned directly by search (a Utah.gov Public
+      Notice Website mirror), not a Huntington city domain -- Huntington does not appear to have complete
+      online code hosting through a major platform yet. Verify PMN file id 1407631 still resolves to this
+      ordinance before citing.
+  - title: Huntington City Zoning Map
+    url: https://emery.utah.gov/wp-content/uploads/2023/03/huntzone.pdf
+    doc_type: map
+    format: pdf
+    notes: Predates the 2026-03-18 Title 9 replacement -- may be out of date; re-verify against the new
+      Zoning and Subdivision Regulations.
+  - title: County & City Zoning Maps hub -- Emery County Building & Zoning
+    url: https://emery.utah.gov/home/department-directory/bz/zoning-maps/
+    doc_type: map
+    format: html
+    notes: Umbrella index page linking zone maps for Emery County and its incorporated cities/towns (Castle
+      Dale, Huntington, and presumably others) -- useful starting point for any Emery County municipality
+      not otherwise covered.
+  permits:
+  - name: Zoning clearance (Huntington City, building permits issued by Emery County)
+    trigger: Any development activity in Huntington City -- building permits are issued through Emery
+      County even though zoning is a Huntington City function, per Zoning Administrator Gary Arrington
+    form_id: unknown
+    form_url: https://www.huntingtonut.com/services.html
+    typical_timeline_days: unknown
+    decision_body: Huntington City (zoning); Emery County (building permit issuance)
+    fee: unknown
+  gis: []
+  update_watch:
+    check_urls:
+    - https://emery.utah.gov/home/department-directory/bz/zoning-maps/
+    cadence: quarterly
+    method: search
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: ut-grand-county-luc
+  jurisdiction_level: county
+  state: UT
+  county: Grand
+  name: Grand County Land Use Code (LUC)
+  agency: Grand County Community & Economic Development / Planning
+  authority_type:
+  - land_use_zoning
+  - underground_injection
+  - water_quality
+  applies_to:
+  - midstream_pipeline
+  - swd_well
+  - compressor_station
+  - well_pad
+  - water_crossing
+  code_platform: code_publishing
+  landing_url: https://www.codepublishing.com/UT/GrandCounty/
+  documents:
+  - title: Grand County Land Use Code (CodePublishing.com)
+    url: https://www.codepublishing.com/UT/GrandCounty/
+    doc_type: code
+    format: html
+    notes: Confirmed current through Ordinance 687, passed 2023-11-07 (per search snippet).
+  - title: Grand County LUC Article 2 -- Zoning Districts
+    url: https://www.codepublishing.com/UT/GrandCounty/html/GrandCountyLUC/GrandCountyLUC02.html
+    doc_type: code
+    format: html
+    citation_root: Grand County LUC Article 2
+  - title: Grand County LUC Article 3 -- Use Regulations
+    url: https://www.codepublishing.com/UT/GrandCounty/html/GrandCountyLUC/GrandCountyLUC03.html
+    doc_type: code
+    format: html
+    citation_root: Grand County LUC Article 3
+    notes: 'Confirmed content: commercial injection wells are prohibited within the Valley Aquifer impact
+      zone or any sole-source aquifer zone, and must be sited so USDWs and surface waters are not endangered
+      -- directly relevant to a SWD well siting in Grand County. Applications are referred to Utah DOGM
+      and DWR for review/comment.'
+  - title: Planning and Zoning Map | Grand County, UT
+    url: https://www.grandcountyutah.net/1101/Planning-and-Zoning-Map
+    doc_type: map
+    format: html
+  permits:
+  - name: Commercial (SWD) Injection Well land-use review
+    trigger: Any commercial underground injection well sited in Grand County -- subject to LUC Article
+      3 aquifer-protection siting restrictions in addition to state DOGM UIC permitting
+    form_id: unknown
+    form_url: https://www.codepublishing.com/UT/GrandCounty/html/GrandCountyLUC/GrandCountyLUC03.html
+    typical_timeline_days: unknown
+    decision_body: Grand County Planning Commission / Community & Economic Development
+    public_hearing: true
+    fee: unknown
+  gis: []
+  update_watch:
+    check_urls:
+    - https://www.codepublishing.com/UT/GrandCounty/
+    cadence: quarterly
+    method: hash
+  confidence: verified
+  last_reviewed: '2026-09-04'
+- id: ut-san-juan-county-ludmo
+  jurisdiction_level: county
+  state: UT
+  county: San Juan
+  name: San Juan County Land Use, Development and Management Ordinance (LUDMO), incl. Energy Zone
+  agency: San Juan County Planning Department
+  authority_type:
+  - land_use_zoning
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - gas_processing_plant
+  - well_pad
+  - tank_battery
+  - swd_well
+  code_platform: unknown
+  landing_url: https://sanjuancountyut.gov/planning/page/zoning-ordinance
+  documents:
+  - title: Zoning Ordinance | San Juan County UT (planning department landing page)
+    url: https://sanjuancountyut.gov/planning/page/zoning-ordinance
+    doc_type: ordinance
+    format: html
+    notes: Search confirms San Juan County has REPLACED its prior zoning ordinances with a new Land Use,
+      Development, and Management Ordinance (LUDMO), which supersedes all prior land-use/development ordinances.
+      The county has an express 'San Juan County Energy Zone' covering oil, natural gas, potash, uranium,
+      vanadium, copper, and other resources -- this is the most directly on-point zoning category found
+      anywhere in this Utah research pass for an O&G midstream facility. Exact LUDMO adoption date and
+      the Energy Zone's specific permitted-use/setback text were NOT independently opened this pass.
+  - title: San Juan County Utah Zoning Ordinance (2011, prior version -- superseded by LUDMO, kept for
+      reference)
+    url: http://sanjuancountyut.gov/sites/default/files/fileattachments/planning/page/3381/zoningordinance092011.pdf
+    doc_type: ordinance
+    format: pdf
+    notes: Dated September 2011 -- almost certainly superseded by the LUDMO referenced above. Do not cite
+      as current; useful only for historical reference.
+  - title: San Juan County Code Chapter 153 -- Zoning (American Legal mirror, vintage/currency vs. LUDMO
+      unconfirmed)
+    url: https://codelibrary.amlegal.com/codes/sanjuancountyut/latest/sanjuan_ut/0-0-0-4223
+    doc_type: code
+    format: html
+    notes: 'American Legal also hosts a ''Chapter 153: Zoning'' for San Juan County -- unclear whether
+      this is the current LUDMO or a legacy code section; reconcile with the planning department''s own
+      LUDMO page before citing.'
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://sanjuancountyut.gov/planning/page/zoning-ordinance
+    cadence: quarterly
+    method: search
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: ut-summit-county-code
+  jurisdiction_level: county
+  state: UT
+  county: Summit
+  name: Summit County Code -- Snyderville Basin Development Code (Title 10) and Eastern Summit County
+    Development Code (Title 11)
+  agency: Summit County Planning & Zoning
+  authority_type:
+  - land_use_zoning
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - access_road
+  code_platform: municode
+  landing_url: https://library.municode.com/ut/summit_county/codes/code
+  documents:
+  - title: Summit County Code (Municode)
+    url: https://library.municode.com/ut/summit_county/codes/code
+    doc_type: code
+    format: html
+    notes: Codified through Ordinance No. 1010, enacted 2026-04-22 per search snippet. Summit County splits
+      development regulation into two separate titles rather than one countywide zoning title -- Title
+      10 Snyderville Basin Development Code (western, Park City-area, resort/urban) and Title 11 Eastern
+      Summit County Development Code (rural, more likely relevant to any O&G/midstream siting question).
+      Neither title's O&G-specific content (if any) was independently confirmed this pass.
+  - title: Development Codes for Summit County, Utah (department landing page)
+    url: https://www.summitcountyutah.gov/828/Development-Codes
+    doc_type: guidance
+    format: html
+  - title: Summit County Code (department's own code landing page)
+    url: https://www.summitcountyutah.gov/2583/Summit-County-Code
+    doc_type: code
+    format: html
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://library.municode.com/ut/summit_county/codes/code
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: ut-sevier-county-zoning
+  jurisdiction_level: county
+  state: UT
+  county: Sevier
+  name: Sevier County Zoning Ordinance (Title 14 -- Land Use Ordinance)
+  agency: Sevier County Building, Planning & Zoning
+  authority_type:
+  - land_use_zoning
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - well_pad
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.sevier.utah.gov/departments/county_departments/building___planning___zoning/planning_and_zoning.php
+  documents:
+  - title: Planning and Zoning | Sevier County, UT (department landing page, sevier.utah.gov domain)
+    url: https://www.sevier.utah.gov/departments/county_departments/building___planning___zoning/planning_and_zoning.php
+    doc_type: guidance
+    format: html
+    notes: Two different county domains were returned for this same department -- sevier.utah.gov and
+      sevierutah.net (https://sevierutah.net/departments/county_departments/building___planning___zoning/planning_and_zoning.php)
+      -- unresolved which is the current/canonical domain; both point to the same department name and
+      near-identical URL path.
+  - title: Sevier County Title 14 -- Zoning (mirrored via a UDOT corridor-study document)
+    url: https://maps.udot.utah.gov/wadocuments/Data/Region4/SR_258_and_SR_118_Corridor_Study/Copy%20of%20Sevier%20-%20Title%2014%20-%20Zoning%20-%20Updated%20version%205.25.2021.pdf
+    doc_type: code
+    format: pdf
+    citation_root: Sevier County Code Title 14 (Land Use Ordinance), Ch. 14.04 General Provisions
+    notes: 'Confirmed content: county is divided into zones per Utah Code 17-27a-505. This is a third-party
+      (UDOT) mirror dated 2021-05-25 -- may not reflect the current version; treat as probable/dated and
+      re-verify against the county''s own current code before citing a section number.'
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://www.sevier.utah.gov/departments/county_departments/building___planning___zoning/planning_and_zoning.php
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: ut-daggett-county-zoning
+  jurisdiction_level: county
+  state: UT
+  county: Daggett
+  name: Daggett County Zoning & Subdivision Ordinance (Title 8 -- Land Use Regulations)
+  agency: Daggett County Planning and Zoning Commission
+  authority_type:
+  - land_use_zoning
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.daggettcounty.gov/36/Planning-and-Zoning
+  documents:
+  - title: Planning and Zoning | Daggett County, UT
+    url: https://www.daggettcounty.gov/36/Planning-and-Zoning
+    doc_type: guidance
+    format: html
+    notes: County has an 'Amended Daggett County Zoning & Subdivision Ordinance,' Title 8, Land Use Regulations.
+      Planning & Zoning Commission is advisory to the County Commission and meets monthly (3rd Tuesday,
+      6pm). Recent (2025) agenda items include reviewing permitted/conditional uses in commercial and
+      industrial zones -- an industrial zone would be the likely fit for any O&G midstream facility, but
+      the current use table was not independently opened. 'The complete Daggett County zoning code is
+      available online through the County's code library' per a search-result summary, but no specific
+      code-library platform URL (Municode/CodePublishing/etc.) was actually returned -- code_platform
+      left unknown rather than guessed.
+  - title: Dutch John Planning District Zoning Ordinance (Daggett County)
+    url: https://daggettcounty.gov/DocumentCenter/View/77/Dutch-John-Zoning-Ordinance?bidId=
+    doc_type: ordinance
+    format: pdf
+    citation_root: Daggett County -- Dutch John Planning District Zoning Regulation
+    notes: A sub-area zoning ordinance specific to the Dutch John community/planning district within Daggett
+      County -- confirms the county zones at least one area separately from its general Title 8 ordinance.
+      Relevant only if a project routes through the Dutch John area (near Flaming Gorge).
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://www.daggettcounty.gov/36/Planning-and-Zoning
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: nm-hobbs-city-code
+  jurisdiction_level: municipal
+  state: NM
+  county: Lea
+  municipality: Hobbs
+  name: Hobbs, New Mexico Municipal Code
+  agency: City of Hobbs Planning Division
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - tank_battery
+  - gas_processing_plant
+  - access_road
+  code_platform: municode
+  landing_url: https://library.municode.com/nm/hobbs
+  documents:
+  - title: Hobbs, NM Code of Ordinances (Municode Library)
+    url: https://library.municode.com/nm/hobbs
+    doc_type: code
+    format: html
+  - title: Title 18 -- Planning and Development | Hobbs, NM
+    url: https://library.municode.com/nm/hobbs/codes/code_of_ordinances?nodeId=COOR_TIT18PLDE
+    doc_type: code
+    format: html
+    citation_root: Hobbs Municipal Code Title 18 (Planning and Development)
+    notes: Title 18 is the zoning/land-use title where any O&G/pipeline provisions would sit -- not independently
+      opened to confirm a specific chapter this pass. Hobbs sits in the heart of the Permian Basin (Lea
+      County) so a dedicated O&G use classification is plausible but unconfirmed.
+  - title: Hobbs Municipal Code -- official PDF (Supplement No. 13, Nov 2023)
+    url: https://www.hobbsnm.org/files/municipal_code.pdf
+    doc_type: code
+    format: pdf
+    notes: City's own PDF mirror, current as of Supplement 13 (2023-11); Municode library version may
+      be more current -- cross-check supplement numbers before citing.
+  - title: City of Hobbs Planning Division
+    url: https://www.hobbsnm.org/planning.html
+    doc_type: guidance
+    format: html
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://library.municode.com/nm/hobbs
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: nm-lovington-city-code
+  jurisdiction_level: municipal
+  state: NM
+  county: Lea
+  municipality: Lovington
+  name: City of Lovington Code of Ordinances -- Title 17 Zoning
+  agency: City of Lovington Planning and Zoning Department
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - tank_battery
+  - access_road
+  code_platform: american_legal
+  landing_url: https://www.lovington.org/departments/planning-and-zoning/
+  documents:
+  - title: Title 17 ZONING | Lovington, NM Code of Ordinances (American Legal)
+    url: https://codelibrary.amlegal.com/codes/lovington/latest/lovington_nm/0-0-0-6243
+    doc_type: code
+    format: html
+    citation_root: Lovington, NM Code of Ordinances Title 17 (Zoning)
+    notes: 'Confirmed structure: Ch. general provisions, administration, general use regulations, and
+      zoning districts established. No specific O&G/pipeline use classification independently confirmed
+      within Title 17 this pass; Lovington is a Lea County Permian Basin city so this is worth a direct
+      follow-up read.'
+  - title: Planning and Zoning -- City of Lovington (department landing page)
+    url: https://www.lovington.org/departments/planning-and-zoning/
+    doc_type: guidance
+    format: html
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://codelibrary.amlegal.com/codes/lovington/latest/lovington_nm/0-0-0-6243
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: nm-artesia-city-planning
+  jurisdiction_level: municipal
+  state: NM
+  county: Eddy
+  municipality: Artesia
+  name: Artesia, NM Municipal Code and Planning & Zoning
+  agency: City of Artesia Planning & Zoning
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - tank_battery
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.artesianm.gov/283/Planning-Zoning
+  documents:
+  - title: Planning & Zoning | Artesia, NM -- Official Website
+    url: https://www.artesianm.gov/283/Planning-Zoning
+    doc_type: guidance
+    format: html
+    notes: Confirms 'each zone in Artesia has prescribed uses allowed by the Artesia Municipal Code' but
+      no specific code-hosting platform (Municode/American Legal/etc.) was returned by search -- code_platform
+      left unknown rather than guessed. A second, likely-outdated city domain (artesianm.com/558/Planning-and-Zoning)
+      was also returned; artesianm.gov appears to be the current domain.
+  - title: Building Code Information | Artesia, NM
+    url: https://www.artesianm.gov/278/Building-Code-Information
+    doc_type: guidance
+    format: html
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://www.artesianm.gov/283/Planning-Zoning
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: nm-farmington-city-code
+  jurisdiction_level: municipal
+  state: NM
+  county: San Juan
+  municipality: Farmington
+  name: Farmington, NM Code of Ordinances -- Chapter 19 Oil and Gas Wells + Unified Development Code
+  agency: City of Farmington
+  authority_type:
+  - land_use_zoning
+  - oil_gas_conservation
+  - building_code
+  applies_to:
+  - well_pad
+  - midstream_pipeline
+  - compressor_station
+  - tank_battery
+  - gas_processing_plant
+  code_platform: municode
+  landing_url: https://library.municode.com/nm/farmington
+  documents:
+  - title: Chapter 19 -- OIL AND GAS WELLS | Farmington, NM Code of Ordinances
+    url: https://library.municode.com/nm/farmington/codes/code_of_ordinances?nodeId=CICO_CH19OIGAWE
+    doc_type: ordinance
+    format: html
+    citation_root: Farmington, NM Code of Ordinances Ch. 19 (Oil and Gas Wells)
+    notes: HIGH VALUE FIND -- Farmington has a dedicated, named 'Oil and Gas Wells' chapter (Ch. 19),
+      confirmed directly via Municode node URL. This is the strongest municipal O&G-specific ordinance
+      found in this NM pass. Full section-by-section content not independently opened this pass -- read
+      directly before citing specific setbacks/permit requirements.
+  - title: Unified Development Code Article 2 -- Use Regulations | Farmington, NM
+    url: https://library.municode.com/nm/farmington/codes/code_of_ordinances?nodeId=UNDECO_ART2USRE_S2.8DEDIST
+    doc_type: code
+    format: html
+    citation_root: Farmington Unified Development Code, Article 2
+  - title: Unified Development Code Article 3 -- Base Districts | Farmington, NM
+    url: https://library.municode.com/nm/farmington/codes/code_of_ordinances?nodeId=UNDECO_ART3BADI
+    doc_type: code
+    format: html
+    citation_root: Farmington Unified Development Code, Article 3
+  - title: Unified Development Code Article 5 -- Development Standards | Farmington, NM
+    url: https://library.municode.com/nm/farmington/codes/code_of_ordinances?nodeId=UNDECO_ART5DEST_S5.8SI
+    doc_type: code
+    format: html
+    citation_root: Farmington Unified Development Code, Article 5
+  - title: City of Farmington Zoning (department page + zoning map)
+    url: http://www.farmingtonnm.gov/1169/City-of-Farmington-Zoning
+    doc_type: map
+    format: html
+  permits:
+  - name: Oil and Gas Well Permit/Regulation (Farmington Ch. 19)
+    trigger: Any oil or gas well (and, plausibly, associated facilities) within Farmington city limits
+      -- San Juan Basin gas city with a dedicated ordinance chapter
+    form_id: unknown
+    form_url: https://library.municode.com/nm/farmington/codes/code_of_ordinances?nodeId=CICO_CH19OIGAWE
+    typical_timeline_days: unknown
+    decision_body: City of Farmington (specific decision body within Ch. 19 not yet confirmed)
+    fee: unknown
+  gis: []
+  update_watch:
+    check_urls:
+    - https://library.municode.com/nm/farmington/codes/code_of_ordinances?nodeId=CICO_CH19OIGAWE
+    cadence: quarterly
+    method: hash
+  confidence: verified
+  last_reviewed: '2026-09-04'
+- id: nm-eunice-city-code
+  jurisdiction_level: municipal
+  state: NM
+  county: Lea
+  municipality: Eunice
+  name: Eunice, NM Code of Ordinances -- Ch. 102 Zoning / Ch. 78 Planning
+  agency: City of Eunice
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - tank_battery
+  - access_road
+  code_platform: municode
+  landing_url: https://library.municode.com/nm/eunice
+  documents:
+  - title: Chapter 102 -- ZONING | Eunice, NM Code of Ordinances
+    url: https://library.municode.com/nm/eunice/codes/code_of_ordinances?nodeId=COOR_CH102ZO
+    doc_type: code
+    format: html
+    citation_root: Eunice, NM Code of Ordinances Ch. 102 (Zoning)
+    notes: Zone district boundaries are shown on an official zone map filed with the city clerk (not itself
+      located as a URL this pass). No O&G-specific use classification independently confirmed, but Eunice
+      is a Lea County Permian Basin city and worth a direct follow-up read of the use tables.
+  - title: Chapter 78 -- PLANNING, Article II Planned Communities S78-27 (Appendix) | Eunice, NM
+    url: https://library.municode.com/nm/eunice/codes/code_of_ordinances?nodeId=COOR_CH78PL_ARTIIPLCO_S78-27AP
+    doc_type: code
+    format: html
+    citation_root: Eunice, NM Code of Ordinances Ch. 78 (Planning)
+  - title: Ordinances | Eunice, NM -- Official Website
+    url: https://www.cityofeunice.org/186/Ordinances
+    doc_type: guidance
+    format: html
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://library.municode.com/nm/eunice
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: nm-jal-city-code
+  jurisdiction_level: municipal
+  state: NM
+  county: Lea
+  municipality: Jal
+  name: City of Jal, New Mexico Code of Ordinances
+  agency: City of Jal Code Enforcement
+  authority_type:
+  - land_use_zoning
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.cityofjal.us/city_services/code_enforcement.php
+  documents:
+  - title: City of Jal -- Code Enforcement
+    url: https://www.cityofjal.us/city_services/code_enforcement.php
+    doc_type: guidance
+    format: html
+    notes: Search only surfaced nuisance/weed/debris/abandoned-structure/minimum-housing code enforcement
+      content -- no zoning title, code-hosting platform, or O&G-specific ordinance was found for Jal this
+      pass. This is a genuinely thin result, not a search-budget shortcut; flagged unverified/thin rather
+      than guessed.
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://www.cityofjal.us/city_services/code_enforcement.php
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: nm-aztec-city-code
+  jurisdiction_level: municipal
+  state: NM
+  county: San Juan
+  municipality: Aztec
+  name: Aztec City Code -- Chapter 15 Oil and Gas Wells / Chapter 26 Zoning
+  agency: City of Aztec Community Development
+  authority_type:
+  - oil_gas_conservation
+  - land_use_zoning
+  applies_to:
+  - well_pad
+  - midstream_pipeline
+  - compressor_station
+  - tank_battery
+  - gas_processing_plant
+  code_platform: self_hosted
+  landing_url: https://www.aztecnm.gov/citycode.html
+  documents:
+  - title: Aztec City Code Chapter 15 -- Oil and Gas Wells (direct PDF, current through 2024-04-10)
+    url: https://www.aztecnm.gov/citycode/chapter15-oilgas.pdf
+    doc_type: ordinance
+    format: pdf
+    citation_root: Aztec City Code Ch. 15 (Oil and Gas Wells)
+    notes: 'HIGH VALUE FIND -- direct PDF of a dedicated, currently-effective (2024-04-10) municipal Oil
+      and Gas Wells chapter. Confirmed text: ''No minor or major oil and gas facility shall be dug or
+      drilled, plugged or abandoned, nor shall any work in preparation for such facilities/activities
+      be allowed within the boundaries of the municipality until the application and permitting process
+      has been completed.'' This directly covers well-site activity and, per its own ''facility'' language,
+      plausibly midstream facilities too -- read the full chapter for exact scope/definitions before applying
+      to a compressor station or pipeline specifically.'
+  - title: Aztec City Code -- Chapter 00 Index (all chapters)
+    url: http://www.aztecnm.gov/citycode/chapter00-index.pdf
+    doc_type: code
+    format: pdf
+    notes: Index confirms Chapter 26 is Zoning -- direct Chapter 26 PDF URL not individually opened this
+      pass but should follow the same aztecnm.gov/citycode/chapterNN-name.pdf pattern as Chapter 15.
+  - title: Aztec City Code Book (landing page)
+    url: https://www.aztecnm.gov/citycode.html
+    doc_type: code
+    format: html
+  permits:
+  - name: Oil and Gas Well/Facility Permit (Aztec Ch. 15)
+    trigger: Digging, drilling, plugging, or abandoning any minor or major oil and gas well or facility,
+      or any preparatory work, within Aztec city limits
+    form_id: unknown
+    form_url: https://www.aztecnm.gov/citycode/chapter15-oilgas.pdf
+    typical_timeline_days: unknown
+    decision_body: City of Aztec (specific body not yet confirmed from the chapter text excerpt)
+    fee: unknown
+  gis: []
+  update_watch:
+    check_urls:
+    - https://www.aztecnm.gov/citycode/chapter15-oilgas.pdf
+    cadence: quarterly
+    method: hash
+  confidence: verified
+  last_reviewed: '2026-09-04'
+- id: nm-bloomfield-city-code
+  jurisdiction_level: municipal
+  state: NM
+  county: San Juan
+  municipality: Bloomfield
+  name: City of Bloomfield, NM Code of Ordinances
+  agency: City of Bloomfield
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - access_road
+  code_platform: municode
+  landing_url: https://library.municode.com/nm/bloomfield
+  documents:
+  - title: Code of Ordinances | Bloomfield, NM (Municode Library)
+    url: https://library.municode.com/nm/bloomfield
+    doc_type: code
+    format: html
+    notes: Confirmed hosted on Municode. San Juan Basin gas city (like neighboring Aztec/Farmington) --
+      worth a direct follow-up check for a dedicated O&G chapter analogous to Aztec's Ch. 15 or Farmington's
+      Ch. 19, but none was independently located/confirmed this pass.
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://library.municode.com/nm/bloomfield
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: nm-roswell-city-code
+  jurisdiction_level: municipal
+  state: NM
+  county: Chaves
+  municipality: Roswell
+  name: Roswell, NM Code of Ordinances -- Appendix A Zoning Ordinance
+  agency: City of Roswell
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - access_road
+  code_platform: municode
+  landing_url: https://library.municode.com/nm/roswell
+  documents:
+  - title: Appendix A -- ZONING | Roswell, NM Code of Ordinances (Municode)
+    url: https://library.municode.com/nm/roswell/codes/code_of_ordinances?nodeId=COOR_APXAZO
+    doc_type: code
+    format: html
+    citation_root: Roswell, NM Code of Ordinances, Appendix A (Zoning)
+    notes: Zoning is codified as Appendix A rather than a numbered chapter/title. No O&G-specific use
+      classification confirmed this pass -- a prior agent's notes also found only a general 2020 zoning
+      ordinance PDF for Roswell with no dedicated O&G/pipeline chapter.
+  - title: Appendix A Article 5 -- Establishment of Zoning Districts | Roswell, NM
+    url: https://library.municode.com/nm/roswell/codes/code_of_ordinances?nodeId=COOR_APXAZO_ART5ESZODI_S1ESZODI
+    doc_type: code
+    format: html
+  - title: Appendix A Article 4 -- Definitions | Roswell, NM
+    url: https://library.municode.com/nm/roswell/codes/code_of_ordinances?nodeId=COOR_APXAZO_ART4DE
+    doc_type: code
+    format: html
+  - title: Complete Zoning Ordinance (as amended by Ord. 20-08, 2020-08-17) -- city-hosted PDF
+    url: https://www.roswell-nm.gov/DocumentCenter/View/11146/COMPLETE-ZONING-ORDINANCE-after-adding-Ordinance-20-08-Home-Occupation-8172020
+    doc_type: ordinance
+    format: pdf
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://library.municode.com/nm/roswell
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: wy-douglas-city-code
+  jurisdiction_level: municipal
+  state: WY
+  county: Converse
+  municipality: Douglas
+  name: City of Douglas, WY Code of Ordinances -- Title 16 Ch. 4 Zoning
+  agency: City of Douglas
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - tank_battery
+  - access_road
+  code_platform: municode
+  landing_url: https://www.cityofdouglas.org/226/Municipal-Code
+  documents:
+  - title: Chapter 4 -- ZONING (Title 16, Unified Land Development Code) | Douglas, WY
+    url: https://library.municode.com/wy/douglas/codes/code_of_ordinances?nodeId=TIT16UNLADECO_CH4ZO
+    doc_type: code
+    format: html
+    citation_root: Douglas, WY Code of Ordinances Title 16 (Unified Land Development Code) Ch. 4 (Zoning)
+    notes: Confirmed Douglas has a Unified Land Development Code (Title 16) with Zoning as Ch. 4. Douglas
+      sits in Converse County, an active Powder River Basin O&G/coal county -- no O&G-specific municipal
+      provision independently confirmed within Ch. 4 this pass.
+  - title: Code of Ordinances | Douglas, WY (Municode Library, top level)
+    url: https://library.municode.com/wy/douglas/codes/code_of_ordinances
+    doc_type: code
+    format: html
+  - title: Title 9 -- Public Peace, Morals and Welfare | Douglas, WY
+    url: https://library.municode.com/wy/douglas/codes/code_of_ordinances?nodeId=TIT9PUPEMOWE
+    doc_type: code
+    format: html
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://library.municode.com/wy/douglas/codes/code_of_ordinances
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: wy-wright-town-code
+  jurisdiction_level: municipal
+  state: WY
+  county: Campbell
+  municipality: Wright
+  name: Town Code of Wright, Wyoming -- Title 11 Zoning Regulations
+  agency: Town of Wright
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - access_road
+  code_platform: american_legal
+  landing_url: https://codelibrary.amlegal.com/codes/wrightwy/latest/wright_wy/0-0-0-1
+  documents:
+  - title: Town Code of Wright, Wyoming (American Legal)
+    url: https://codelibrary.amlegal.com/codes/wrightwy/latest/wright_wy/0-0-0-1
+    doc_type: code
+    format: html
+    citation_root: Town Code of Wright, WY, Title 11 (Zoning Regulations)
+    notes: Confirmed current through Ordinance 2025-03, passed 2025-08-25. Originally adopted 2010-03-08
+      (Ord. 2010-03). Title 11 = Zoning Regulations; other titles cover administration, business regs,
+      public health/safety, law enforcement, traffic, public ways/property, fire, building, subdivision,
+      and flood control. Wright sits in Campbell County (Powder River Basin) -- no O&G-specific zoning
+      provision independently confirmed within Title 11 this pass.
+  - title: Wright, Wyoming -- current town code (official town page)
+    url: https://www.wrightwyoming.com/current_town_code.php
+    doc_type: guidance
+    format: html
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://codelibrary.amlegal.com/codes/wrightwy/latest/wright_wy/0-0-0-1
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: wy-evansville-town-code
+  jurisdiction_level: municipal
+  state: WY
+  county: Natrona
+  municipality: Evansville
+  name: Evansville, WY Code of Ordinances
+  agency: Town of Evansville
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - access_road
+  code_platform: municode
+  landing_url: https://library.municode.com/wy/evansville/codes/code_of_ordinances?nodeId=COORTOEVWY
+  documents:
+  - title: Code of Ordinances | Evansville, WY (Municode)
+    url: https://library.municode.com/wy/evansville/codes/code_of_ordinances?nodeId=COORTOEVWY
+    doc_type: code
+    format: html
+  - title: Chapter 30 -- Office of Mineral and Industrial Production (?) | Evansville, WY
+    url: https://library.municode.com/wy/evansville/codes/code_of_ordinances?nodeId=COOR_CH30OFMIPR
+    doc_type: code
+    format: html
+    notes: Node id 'CH30OFMIPR' strongly suggests a chapter titled something like 'Office of Mineral and
+      Industrial Production' or similar mineral/industrial-production content -- the full chapter title
+      and text were NOT independently opened this pass; this could be directly relevant to O&G/midstream
+      siting in a Natrona County (Casper-area) town and deserves a priority follow-up read.
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://library.municode.com/wy/evansville/codes/code_of_ordinances?nodeId=COORTOEVWY
+    cadence: quarterly
+    method: hash
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: wy-buffalo-city-code
+  jurisdiction_level: municipal
+  state: WY
+  county: Johnson
+  municipality: Buffalo
+  name: City of Buffalo, WY -- Chapter 29 Zoning Ordinance
+  agency: City of Buffalo
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - access_road
+  code_platform: self_hosted
+  landing_url: https://www.cityofbuffalowy.com/pview.aspx?id=45621&catid=0
+  documents:
+  - title: Chapter 29 Zoning Ordinance -- City of Buffalo, WY (direct document)
+    url: https://www.cityofbuffalowy.com/docview.aspx?docid=31729
+    doc_type: ordinance
+    format: pdf
+    citation_root: City of Buffalo, WY Code Ch. 29 (Zoning Ordinance)
+    notes: Confirmed zones include R-1 Single-Family, R-2 Medium-Density Residential, R-3 High-Density
+      Residential, RMS Mobile Home Subdivision -- an industrial/commercial zone list (where O&G/midstream
+      would sit) was not confirmed in the search snippet; open the full document for that. Buffalo is
+      a Johnson County (Powder River Basin) city.
+  - title: Zoning -- City of Buffalo, WY (department page)
+    url: https://www.cityofbuffalowy.com/pview.aspx?id=45621&catid=0
+    doc_type: guidance
+    format: html
+  - title: Ordinances -- City of Buffalo, WY
+    url: https://www.cityofbuffalowy.com/pview.aspx?id=24234&catid=509
+    doc_type: code
+    format: html
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://www.cityofbuffalowy.com/pview.aspx?id=45621&catid=0
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: wy-sheridan-city-code
+  jurisdiction_level: municipal
+  state: WY
+  county: Sheridan
+  municipality: Sheridan
+  name: Sheridan, WY City Code -- Appendix A Zoning
+  agency: City of Sheridan
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - access_road
+  code_platform: municode
+  landing_url: https://library.municode.com/wy/sheridan/codes/city_code
+  documents:
+  - title: APPENDIX A ZONING | City Code | Sheridan, WY (Municode)
+    url: https://library.municode.com/wy/sheridan/codes/city_code?nodeId=APZO
+    doc_type: code
+    format: html
+    citation_root: Sheridan, WY City Code, Appendix A (Zoning)
+    notes: Zoning codified as Appendix A rather than a numbered title/chapter. Sheridan County's own zoning
+      (per a prior agent's WY notes) explicitly names 'Mineral and Oil and Gas Extraction' as a regulated
+      use category -- worth checking whether the CITY's Appendix A mirrors that county-level use category;
+      not independently confirmed at the city level this pass.
+  - title: Ordinance No. 2286 | City Code | Sheridan, WY
+    url: https://library.municode.com/wy/sheridan/ordinances/city_code?nodeId=1315274
+    doc_type: ordinance
+    format: html
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://library.municode.com/wy/sheridan/codes/city_code
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: wy-riverton-city-code
+  jurisdiction_level: municipal
+  state: WY
+  county: Fremont
+  municipality: Riverton
+  name: City of Riverton, WY Zoning Code (Title 17)
+  agency: City of Riverton Community Development, Planning & Zoning
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - access_road
+  code_platform: ecode360
+  landing_url: https://www.rivertonwy.gov/departments/community_dev/planning___zoning/zoning.php
+  documents:
+  - title: City of Riverton, WY Zoning (eCode360 index)
+    url: https://ecode360.com/43809964
+    doc_type: code
+    format: html
+    citation_root: Riverton Municipal Code Title 17 (Zoning), esp. Sec. 17.04.050
+  - title: 'City of Riverton, WY: Zoning Districts Designated'
+    url: https://ecode360.com/43810106
+    doc_type: code
+    format: html
+    notes: 'Confirmed residential district list: R-1 (limited one-family), R-2 (limited multiple-family),
+      R-2A (gardening/agricultural), R-4 (multi-family) -- commercial/industrial districts (relevant to
+      O&G siting) not confirmed in the snippet; open the full district list.'
+  - title: 'Chapter 17.16: General Requirements -- City of Riverton, WY'
+    url: https://ecode360.com/43810126
+    doc_type: code
+    format: html
+  - title: 'City of Riverton, WY: Ordinance List and Disposition Table'
+    url: https://ecode360.com/43810928
+    doc_type: code
+    format: html
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://ecode360.com/43809964
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: wy-lander-city-code
+  jurisdiction_level: municipal
+  state: WY
+  county: Fremont
+  municipality: Lander
+  name: City of Lander, WY Zoning Code (Title 4) -- IN ACTIVE REVISION
+  agency: City of Lander Planning & Zoning
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - access_road
+  code_platform: self_hosted
+  landing_url: https://www.landerwy.gov/planning-zoning/page/city-codes
+  documents:
+  - title: Ordinance 2024-08 -- Repealing City of Lander Municipal Code (Title 4 Zoning replacement)
+    url: https://www.landerwy.gov/media/4781
+    doc_type: ordinance
+    format: pdf
+    citation_root: City of Lander Municipal Code, Title 4 (Zoning)
+    notes: 'IMPORTANT: as of late 2024/2025, Lander was actively repealing and replacing its zoning code
+      (first reading of a Title 4 amendment noted for 2024-05-26; Planning Commission proposed further
+      changes; Ordinance 2024-08 itself is titled a repeal of the municipal code). Any citation to a specific
+      Title 4 section should be re-verified against the CURRENT adopted version, not assumed stable --
+      prior districts referenced in secondary sources include R-5 Multi-Family Residential and C-Commercial.'
+  - title: City Codes | Lander Wyoming (landing page)
+    url: https://www.landerwy.gov/planning-zoning/page/city-codes
+    doc_type: code
+    format: html
+  - title: Planning & Zoning | Lander Wyoming
+    url: https://www.landerwyoming.org/planning-zoning
+    doc_type: guidance
+    format: html
+    notes: Two different Lander domains were returned (landerwy.gov and landerwyoming.org) -- landerwy.gov
+      appears to be the current official city domain hosting ordinances/media.
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://www.landerwy.gov/planning-zoning/page/city-codes
+    cadence: monthly
+    method: agenda_scan
+  confidence: unverified
+  last_reviewed: '2026-09-04'
+- id: wy-rawlins-city-code
+  jurisdiction_level: municipal
+  state: WY
+  county: Carbon
+  municipality: Rawlins
+  name: Rawlins Municipal Code -- Title 19 Zoning (Dec 2025 version)
+  agency: City of Rawlins Planning & Zoning
+  authority_type:
+  - land_use_zoning
+  - building_code
+  applies_to:
+  - midstream_pipeline
+  - compressor_station
+  - access_road
+  code_platform: self_hosted
+  landing_url: https://www.rawlinswy.gov/93/Planning-Zoning
+  documents:
+  - title: Rawlins Municipal Code Title 19 -- Zoning (December 2025 version, direct PDF)
+    url: https://rawlinswy.gov/DocumentCenter/View/12176/Title-19---Zoning-Dec-2025?bidId=
+    doc_type: code
+    format: pdf
+    citation_root: Rawlins Municipal Code Title 19 (Zoning), Chapters starting at 19.04
+    notes: Confirmed dated 'Dec 2025' in the document title -- appears to be the current version, superseding
+      an earlier 'Final Council Amendment 2-19-2020' PDF also found (https://www.rawlinswy.gov/DocumentCenter/View/14882/Title-19--Final-Council-Amendment-2192020).
+      Regulates land use zones and buildings/structures by nature/extent of use. Rawlins (Carbon County)
+      sits along I-80 in an active O&G corridor -- no O&G-specific use classification independently confirmed
+      within Title 19 this pass.
+  - title: Rawlins Planning & Zoning Commission
+    url: https://www.rawlinswy.gov/174/Rawlins-Planning-Zoning-Commission
+    doc_type: guidance
+    format: html
+  - title: Board of Adjustments | Rawlins, WY
+    url: https://www.rawlinswy.gov/165/Board-of-Adjustments
+    doc_type: guidance
+    format: html
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://www.rawlinswy.gov/93/Planning-Zoning
+    cadence: quarterly
+    method: hash
+  confidence: probable
+  last_reviewed: '2026-09-04'
+- id: wy-deq-industrial-siting-threshold-confirmed
+  jurisdiction_level: state
+  state: WY
+  name: Wyoming Industrial Siting Act -- CURRENT threshold confirmed directly from DEQ permitting page
+  agency: Wyoming Department of Environmental Quality, Industrial Siting Division / Industrial Siting
+    Council
+  authority_type:
+  - land_use_zoning
+  - air_quality
+  applies_to:
+  - gas_processing_plant
+  - compressor_station
+  - midstream_pipeline
+  code_platform: self_hosted
+  landing_url: https://deq.wyoming.gov/industrial-siting-2/permitting/
+  documents:
+  - title: Permitting -- Wyoming DEQ Industrial Siting (direct source for current thresholds)
+    url: https://deq.wyoming.gov/industrial-siting-2/permitting/
+    doc_type: guidance
+    format: html
+    citation_root: W.S. 35-12-101 et seq. (Wyoming Industrial Development Information and Siting Act)
+    notes: 'SETTLES the threshold disagreement flagged in wy.notes.md/wy.yaml. This DEQ page states directly
+      (page metadata indicates last updated September 2024, so reconfirm before relying on it as ''this
+      year''s'' number, but it is DEQ''s own current published figure, not a third-party estimate): facilities
+      with estimated construction cost of $283,166,876 or MORE require a full Industrial Siting Permit;
+      facilities estimated between $226,533,500 and $283,166,876 require only a Certificate of Insufficient
+      Jurisdiction (a lesser determination that the Council lacks jurisdiction to require a full permit).
+      This two-tier structure -- not a single cutoff -- explains why prior research found multiple different-sounding
+      numbers: $283,166,876 and $226,533,500 are BOTH current and correct, just for different tiers; $231M
+      and $290,444,666 appear to be figures from adjacent escalation years (this is an annually-escalated
+      statutory base of $96,000,000 per prior research) rather than errors.'
+  - title: Industrial Siting Program Overview 2024 -- presentation to WY Legislature Minerals Committee
+    url: https://wyoleg.gov/InterimCommittee/2024/09-2024050816-03IndustrialSitingProgramOverview2024-DEQ.pdf
+    doc_type: guidance
+    format: pdf
+    notes: DEQ's own 2024 legislative presentation on the Industrial Siting program -- likely contains
+      the escalation-formula detail and possibly a year-by-year threshold table; not opened in full this
+      pass.
+  - title: Industrial Siting -- Wyoming DEQ (program landing page)
+    url: https://deq.wyoming.gov/industrial-siting-2/
+    doc_type: guidance
+    format: html
+  permits:
+  - name: Industrial Siting Permit (full)
+    trigger: Facility with estimated construction cost of $283,166,876 or more (current DEQ-published
+      figure as of the page's last update; re-verify the exact current-year number directly with the Industrial
+      Siting Division at 307-777-7174 before a final go/no-go determination, since the base escalates
+      annually)
+    form_id: unknown
+    form_url: https://deq.wyoming.gov/industrial-siting-2/permitting/
+    typical_timeline_days: unknown
+    decision_body: Wyoming Industrial Siting Council
+    public_hearing: true
+    fee: unknown
+  - name: Certificate of Insufficient Jurisdiction
+    trigger: Facility with estimated construction cost between $226,533,500 and $283,166,876 -- a determination
+      that the Council lacks jurisdiction to require a full Industrial Siting Permit, obtained in lieu
+      of one
+    form_id: unknown
+    form_url: https://deq.wyoming.gov/industrial-siting-2/permitting/
+    typical_timeline_days: unknown
+    decision_body: Wyoming Industrial Siting Council
+    fee: unknown
+  gis: []
+  update_watch:
+    check_urls:
+    - https://deq.wyoming.gov/industrial-siting-2/permitting/
+    cadence: quarterly
+    method: search
+  confidence: verified
+  last_reviewed: '2026-09-04'
+- id: wy-glenrock-town-code
+  jurisdiction_level: municipal
+  state: WY
+  county: Converse
+  municipality: Glenrock
+  name: Town of Glenrock, WY -- code/zoning platform not confirmed
+  agency: Town of Glenrock
+  authority_type:
+  - land_use_zoning
+  applies_to:
+  - midstream_pipeline
+  - access_road
+  code_platform: unknown
+  landing_url: https://www.glenrock.org/
+  documents:
+  - title: Town of Glenrock, WY -- official site (only landing page confirmed)
+    url: https://www.glenrock.org/
+    doc_type: guidance
+    format: html
+    notes: Search did NOT surface a Municode/American Legal/CodePublishing/ecode360 code-hosting URL for
+      Glenrock's town code or zoning ordinance this pass -- genuinely not found, not a placeholder. Glenrock
+      is a Converse County Powder River Basin town; a direct call to the town clerk or a follow-up search
+      focused specifically on 'Glenrock Wyoming zoning ordinance chapter' is the recommended next step.
+  permits: []
+  gis: []
+  update_watch:
+    check_urls:
+    - https://www.glenrock.org/
+    cadence: quarterly
+    method: search
+  confidence: unverified
+  last_reviewed: '2026-09-04'

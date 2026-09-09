@@ -9,7 +9,7 @@ doc_type: ordinance
 citation_root: Garfield County LUDC Art. 7
 url: "https://www.garfield-county.com/community-development/wp-content/uploads/sites/12/2020/01/Article-7.pdf"
 sha256: 7546120c611136899747f7cee98680e140f759574cb5ebc4a0b0207d1b8c7d79
-fetched_at: "2026-09-05T05:09:52+00:00"
+fetched_at: "2026-09-08T17:35:32+00:00"
 ---
 
 <!-- page: 1 -->

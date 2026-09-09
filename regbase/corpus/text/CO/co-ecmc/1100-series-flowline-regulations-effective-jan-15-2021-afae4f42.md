@@ -8,7 +8,7 @@ doc_type: regulation
 citation_root: 2 CCR 404-1, 1100 Series
 url: "https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/1100%20Series%20-%20Flowline%20Regulations_Effective%20January%2015,%202021.pdf"
 sha256: 280ed23a4a9a67502b8244be53cd0ef592609b92319976b4c7120195fc59de01
-fetched_at: "2026-09-05T05:09:35+00:00"
+fetched_at: "2026-09-08T17:28:13+00:00"
 ---
 
 <!-- page: 1 -->

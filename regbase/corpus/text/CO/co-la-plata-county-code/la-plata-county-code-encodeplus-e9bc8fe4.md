@@ -9,7 +9,7 @@ doc_type: code
 citation_root: La Plata County Code Ch. 90 (Oil & Gas), Ch. 69 (1041)
 url: "https://online.encodeplus.com/regs/laplata-co/"
 sha256: 7adf431b6f2402b3c1c3e6ce622d3428c4433d6f2ab66ed127ea5da19a1dbb47
-fetched_at: "2026-09-05T05:10:05+00:00"
+fetched_at: "2026-09-08T17:35:45+00:00"
 ---
 
 Skip to main content

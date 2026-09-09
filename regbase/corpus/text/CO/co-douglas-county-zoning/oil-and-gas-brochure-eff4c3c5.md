@@ -8,7 +8,7 @@ title: Oil and Gas Brochure
 doc_type: guidance
 url: "https://www.douglasco.gov/documents/oil-and-gas-brochure.pdf/"
 sha256: 4cdd4d495f7d8d497e56cbb598c20ba14d525c1a395ea1fc3279a9ef5c106e9b
-fetched_at: "2026-09-05T05:09:34+00:00"
+fetched_at: "2026-09-08T17:38:02+00:00"
 ---
 
 <!-- page: 1 -->
