@@ -293,11 +293,18 @@ def segment_by_headings(text: str) -> list[tuple[str, int, int]]:
             stack.append((level, title))
             # an explicit heading-path marker stays a prefix for everything under it
             parts = ([explicit] if explicit else []) + [t for _, t in stack]
+            # Dedupe globally, not just against the previous segment. The
+            # extractor emits a full heading-path marker AND the heading itself,
+            # so a two-level section arrives as A > B from the marker plus A, B
+            # from the stack. Adjacent-only dedup left "A > B > A > B", which
+            # rendered in every citation.
             deduped: list[str] = []
+            seen: set[str] = set()
             for part in parts:
                 for seg in part.split(" > "):
                     seg = seg.strip()
-                    if seg and (not deduped or deduped[-1] != seg):
+                    if seg and seg not in seen:
+                        seen.add(seg)
                         deduped.append(seg)
             cur_path = _join_path(deduped)
             cur_start = line_start               # keep heading line inside section

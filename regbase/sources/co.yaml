@@ -35,25 +35,25 @@ sources:
     format: html
     citation_root: 2 CCR 404-1
   - title: 1100 Series - Flowline Regulations (effective Jan 15, 2021)
-    url: https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/1100%20Series%20-%20Flowline%20Regulations_Effective%20January%2015,%202021.pdf
+    url: https://ecmc.colorado.gov/sites/ecmc/files/documents/1100%20Series%20-%20Flowline%20Regulations_Effective%20January%2015,%202021.pdf
     doc_type: regulation
     format: pdf
     citation_root: 2 CCR 404-1, 1100 Series
     notes: Flowline/produced water & gathering line integrity rules; check for later amended versions
       on the Rules index
   - title: 1200 Series - Protection of Wildlife Resources (effective Dec 15, 2024)
-    url: https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/1200%20Series%20-%20Protection%20of%20Wildlife%20Resources_Effective%20December%2015,%202024.pdf
+    url: https://ecmc.colorado.gov/sites/ecmc/files/documents/1200%20Series%20-%20Protection%20of%20Wildlife%20Resources_Effective%20December%2015,%202024.pdf
     doc_type: regulation
     format: pdf
     citation_root: 2 CCR 404-1, 1200 Series
   - title: 800 Series - Underground Injection for Disposal and Enhanced Recovery Projects (effective Dec
       15, 2024)
-    url: https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/800%20Series%20-%20Underground%20Injection%20for%20Disposal%20and%20Enhanced%20Recovery%20Projects_Effective%20December%2015,%202024.pdf
+    url: https://ecmc.colorado.gov/sites/ecmc/files/documents/800%20Series%20-%20Underground%20Injection%20for%20Disposal%20and%20Enhanced%20Recovery%20Projects_Effective%20December%2015,%202024.pdf
     doc_type: regulation
     format: pdf
     citation_root: 2 CCR 404-1, 800 Series
   - title: 300 Series - Permitting Process (effective April 30, 2025)
-    url: https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/300%20Series%20-%20Permitting%20Process_Effective%20April%2030,%202025.pdf
+    url: https://ecmc.colorado.gov/sites/ecmc/files/documents/300%20Series%20-%20Permitting%20Process_Effective%20April%2030,%202025.pdf
     doc_type: regulation
     format: pdf
     citation_root: 2 CCR 404-1, 300 Series
@@ -426,7 +426,7 @@ sources:
     doc_type: guidance
     format: html
   - title: ECMC-CPW Consultations for High Priority Habitats Operator Guidance
-    url: https://ecmc.colorado.gov/sites/g/files/lrnvjt1211/files/documents/CPW_Consultations_for_High_Priority_Habitats_Guidance_v1.1_20250828_FINAL.pdf
+    url: https://ecmc.colorado.gov/sites/ecmc/files/documents/CPW_Consultations_for_High_Priority_Habitats_Guidance_v1.1_20250828_FINAL.pdf
     doc_type: guidance
     format: pdf
   - title: ECMC Wildlife Protection Plan Operator Guidance
@@ -944,12 +944,12 @@ sources:
     doc_type: guidance
     format: html
   - title: Las Animas County Land Use Regulations (current, updated 2026-06-16)
-    url: https://lasanimascounty.colorado.gov/sites/g/files/lrnvjt3346/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf
+    url: https://lasanimascounty.colorado.gov/sites/lasanimascounty/files/documents/2026-06-16%20LAC%20land%20use%20on%20web.pdf
     doc_type: code
     format: pdf
     citation_root: Las Animas County Land Use Regulations
   - title: Las Animas County Oil and Gas Regulations
-    url: https://lasanimascounty.colorado.gov/sites/g/files/lrnvjt3346/files/documents/lac_gas__oil_regulations.pdf
+    url: https://lasanimascounty.colorado.gov/sites/lasanimascounty/files/documents/lac_gas__oil_regulations.pdf
     doc_type: regulation
     format: pdf
   confidence: verified
@@ -1053,7 +1053,7 @@ sources:
   landing_url: https://morgancounty.colorado.gov/planning-services
   documents:
   - title: Zoning Regulations (updated through March 2026)
-    url: https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Zoning%20Regulations%20-%20032026.pdf
+    url: https://morgancounty.colorado.gov/sites/morgancounty/files/documents/Zoning%20Regulations%20-%20032026.pdf
     doc_type: code
     format: pdf
     citation_root: Morgan County Zoning Regulations
@@ -1063,7 +1063,7 @@ sources:
     doc_type: guidance
     format: html
   - title: Conditional Use - Oil & Gas Application
-    url: https://morgancounty.colorado.gov/sites/g/files/lrnvjt1911/files/documents/Conditional%20Use%20-%20O%26G%20App%20082525.pdf
+    url: https://morgancounty.colorado.gov/sites/morgancounty/files/documents/Conditional%20Use%20-%20O%26G%20App%20082525.pdf
     doc_type: application_packet
     format: pdf
   permits:
@@ -1116,12 +1116,12 @@ sources:
   landing_url: https://jacksoncounty.colorado.gov/
   documents:
   - title: Full Zoning Resolution
-    url: https://jacksoncounty.colorado.gov/sites/g/files/lrnvjt3036/files/documents/FULL-ZONING-RESOLUTION.pdf
+    url: https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/FULL-ZONING-RESOLUTION.pdf
     doc_type: code
     format: pdf
     citation_root: Jackson County Zoning Resolution
   - title: Zoning Map
-    url: https://jacksoncounty.colorado.gov/sites/g/files/lrnvjt3036/files/documents/ZONING-MAP.pdf
+    url: https://jacksoncounty.colorado.gov/sites/jacksoncounty/files/documents/ZONING-MAP.pdf
     doc_type: map
     format: pdf
   confidence: probable
@@ -1214,7 +1214,7 @@ sources:
     doc_type: guidance
     format: html
   - title: Kit Carson County Land Use Code (Oct 20, 2021)
-    url: https://kitcarsoncounty.colorado.gov/sites/g/files/lrnvjt1876/files/documents/21-057_Kit%20Carson%20County%20Land%20Use%20Code%20-%20October%2020,%202021%20Final.pdf
+    url: https://kitcarsoncounty.colorado.gov/sites/kitcarsoncounty/files/documents/21-057_Kit%20Carson%20County%20Land%20Use%20Code%20-%20October%2020,%202021%20Final.pdf
     doc_type: code
     format: pdf
     citation_root: Kit Carson County Land Use Code (2021)
@@ -1244,7 +1244,7 @@ sources:
     citation_root: Lincoln County Zoning Resolution
     notes: Third-party mirrored copy; verify current version via county site
   - title: Lincoln County Subdivision Regulations (Dec 8, 2022)
-    url: https://lincolncounty.colorado.gov/sites/g/files/lrnvjt1881/files/documents/lincoln_county_subdivision_2022.pdf
+    url: https://lincolncounty.colorado.gov/sites/lincolncounty/files/documents/lincoln_county_subdivision_2022.pdf
     doc_type: code
     format: pdf
   confidence: probable

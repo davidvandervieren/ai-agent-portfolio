@@ -7,3 +7,7 @@ corpus/reports/
 *.pyc
 __pycache__/
 .venv/
+
+# test fixtures must never reach the real corpus
+corpus/text/*/co-*test*/
+corpus/raw/*/co-*test*/

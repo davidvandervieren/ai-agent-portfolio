@@ -18,14 +18,10 @@ from typing import Optional
 
 # Chrome that shows up on virtually every municipal code site and carries no
 # regulatory content. Matched against tag/class/id, case-insensitively.
-# Markup that never carries readable content. Always removed.
-_NEVER_CONTENT = ("script", "style", "noscript", "svg", "iframe")
-
-# Markup that is *usually* chrome but sometimes wraps the whole page. Removed
-# only when it is small relative to the document -- see _CHROME_MAX_SHARE.
-# <form> is the dangerous one: ASP.NET WebForms sites, which most municipal
-# CMSes still are, put a single <form runat="server"> around the entire body.
-_CHROME_CONTAINERS = ("nav", "header", "footer", "aside", "form")
+_CHROME_SELECTORS = [
+    "script", "style", "noscript", "svg", "form", "iframe",
+    "nav", "header", "footer", "aside",
+]
 _CHROME_PATTERNS = re.compile(
     r"(nav|menu|breadcrumb|sidebar|footer|header|banner|cookie|consent|"
     r"skip-link|search-box|social|share|print-button|toolbar|pagination|"
@@ -34,20 +30,6 @@ _CHROME_PATTERNS = re.compile(
 )
 
 _HEADING_TAGS = ("h1", "h2", "h3", "h4", "h5", "h6")
-
-# Structural elements are never chrome, whatever their class says. Acquia CMS
-# -- which colorado.gov runs -- puts class="acquia-cms-toolbar ..." on <body>,
-# and `toolbar` matches _CHROME_PATTERNS. Decomposing <body> deletes the entire
-# page: ECMC's UIC page came out as 78 characters of a 5,074-character page.
-_NEVER_STRIP = ("html", "body")
-
-# Chrome is, by definition, a small part of a page. An element holding at least
-# this share of the document's text is the content -- whatever its tag, class
-# or id claims -- so it is kept. Without this guard, Aurora's oil and gas page
-# extracted 37 characters out of 23,743 because its content sat inside a
-# WebForms <form>, and Huerfano County's 50 out of 22,434 because the wrapper
-# div's class contained "header".
-_CHROME_MAX_SHARE = 0.5
 
 
 def _collapse(text: str) -> str:
@@ -67,39 +49,22 @@ def html_to_text(html: str, base_url: str = "") -> str:
     except Exception:
         soup = BeautifulSoup(html, "html.parser")
 
-    for sel in _NEVER_CONTENT:
-        for el in list(soup.find_all(sel)):
+    for sel in _CHROME_SELECTORS:
+        for el in soup.find_all(sel):
             el.decompose()
+    for el in soup.find_all(attrs={"class": _CHROME_PATTERNS}):
+        el.decompose()
+    for el in soup.find_all(attrs={"id": _CHROME_PATTERNS}):
+        el.decompose()
+    for el in soup.find_all(attrs={"role": re.compile(r"^(navigation|banner|search)$", re.I)}):
+        el.decompose()
 
-    # Pick the content root BEFORE removing chrome, and only clean inside it.
-    # Chrome lives within a page, so it must never be able to delete the page's
-    # own wrapper: EPA puts every article in
-    # <div class="l-page page-has-sidebar has-footer">, which matches
-    # _CHROME_PATTERNS twice while being the content container itself.
     main = (soup.find("main")
             or soup.find(attrs={"role": "main"})
             or soup.find("article")
             or soup.find(id=re.compile(r"^(content|main|body)", re.I))
             or soup.body
             or soup)
-
-    budget = len(main.get_text(" ", strip=True))
-
-    def strip_if_chrome(el) -> None:
-        if el is main or getattr(el, "decomposed", False) or el.name in _NEVER_STRIP:
-            return
-        if budget and len(el.get_text(" ", strip=True)) >= budget * _CHROME_MAX_SHARE:
-            return                                  # this is the page, not chrome
-        el.decompose()
-
-    for sel in _CHROME_CONTAINERS:
-        for el in list(main.find_all(sel)):
-            strip_if_chrome(el)
-    for attr, pattern in (("class", _CHROME_PATTERNS),
-                          ("id", _CHROME_PATTERNS),
-                          ("role", re.compile(r"^(navigation|banner|search)$", re.I))):
-        for el in list(main.find_all(attrs={attr: pattern})):
-            strip_if_chrome(el)
 
     out: list[str] = []
     path: list[str] = []

@@ -1,21 +1,30 @@
 # RegBase — People Layer seed set
 #
-# STATUS: This seed file was generated in a run where WebSearch had ZERO
-# session budget remaining before any query could be issued. Per the
-# standing "never guess" rule (see regbase/people/README.md), NOTHING in
-# this file was verified against a live source: no full_name, no term
-# date, no URL, no vote, and no position/decision-pattern content. Every
-# record below is confidence: unverified and full_name is intentionally
-# omitted.
+# STATUS (updated 2026-09-04 refresh pass): A WebSearch-budgeted pass (see
+# regbase/people/refresh_log.md for the full accounting) verified or
+# probable-sourced 33 of 91 records against live agency pages, official
+# press releases, or dated news reporting -- state oil & gas commissions
+# and executive directors first, per the task's priority order, then
+# county-level seats as search budget allowed. Every added full_name
+# carries review_source_urls pointing at the actual page(s) opened; no
+# name was typed from memory or inferred from a stale/undated source.
+# Records still lacking a confirmable current holder remain
+# confidence: unverified with full_name intentionally omitted, exactly as
+# collection_playbook.md Step 0 requires -- this is correct behavior, not
+# an unfinished task. Some single-seat placeholders (e.g. one generic
+# "commissioner" slot standing in for a multi-member body) were split into
+# one record per confirmed person; unresolved seats on the same body were
+# kept as a companion "-other-seats" placeholder so the total membership
+# count stays visible to the next refresh.
 #
-# What this file DOES provide: the correct structural scaffold of
+# What this file provides: the correct structural scaffold of
 # jurisdictions, bodies, and titles called out as highest-leverage in the
 # task brief, each pre-shaped to regbase/schemas/person.schema.json and
-# ready for regbase/people/refresh_task.md to populate via
-# collection_playbook.md once WebSearch is available. jurisdiction_id
-# values are provisional slugs following the source.schema.json naming
-# convention and may need to be reconciled once regbase/sources/ is
-# populated for these agencies/counties.
+# ready for regbase/people/refresh_task.md to continue via
+# collection_playbook.md on the next pass. jurisdiction_id values are
+# provisional slugs following the source.schema.json naming convention and
+# may need to be reconciled once regbase/sources/ is populated for these
+# agencies/counties.
 #
 # role_type below reflects the PUBLICLY KNOWN STRUCTURE of the office
 # itself (e.g. "county commissioners are elected," "agency directors are
@@ -36,20 +45,74 @@
 # COLORADO
 # =========================================================================
 
-- id: co-ecmc-commissioner
+- id: co-ecmc-commissioner-robbins
+  full_name: Jeffery Robbins
   jurisdiction_id: co-ecmc
   state: CO
   level: state
   body: Colorado Energy and Carbon Management Commission (ECMC)
   role_type: appointed
-  title: Commissioner (roster/seat count to verify)
+  title: Chair, Commissioner
+  appointed_by: Governor of Colorado
+  term_end: "2028-07-01"
+  staff_or_decision_maker: decides
+  portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, gas_processing_plant, compressor_station, midstream_pipeline]
+  confidence: verified
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://ecmc.colorado.gov/press-release/governor-polis-makes-appointments-to-the-colorado-energy-carbon-management-commission
+
+- id: co-ecmc-commissioner-oeth
+  full_name: Trisha Oeth
+  jurisdiction_id: co-ecmc
+  state: CO
+  level: state
+  body: Colorado Energy and Carbon Management Commission (ECMC)
+  role_type: appointed
+  title: Commissioner (public health experience seat)
+  appointed_by: Governor of Colorado
+  term_end: "2028-07-01"
+  staff_or_decision_maker: decides
+  portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, gas_processing_plant, compressor_station, midstream_pipeline]
+  confidence: verified
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://ecmc.colorado.gov/press-release/governor-polis-makes-appointments-to-the-colorado-energy-carbon-management-commission
+
+- id: co-ecmc-commissioner-messner
+  full_name: John Messner
+  jurisdiction_id: co-ecmc
+  state: CO
+  level: state
+  body: Colorado Energy and Carbon Management Commission (ECMC)
+  role_type: appointed
+  title: Commissioner (planning/land use experience seat)
+  appointed_by: Governor of Colorado
+  term_end: "2028-07-01"
+  staff_or_decision_maker: decides
+  portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, gas_processing_plant, compressor_station, midstream_pipeline]
+  confidence: verified
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://ecmc.colorado.gov/press-release/governor-polis-makes-appointments-to-the-colorado-energy-carbon-management-commission
+
+- id: co-ecmc-commissioner-other-seats
+  jurisdiction_id: co-ecmc
+  state: CO
+  level: state
+  body: Colorado Energy and Carbon Management Commission (ECMC)
+  role_type: appointed
+  title: Commissioner (remaining seats — full 7-member roster not confirmed this pass; Robbins/Oeth/Messner confirmed above)
   appointed_by: Governor of Colorado
   staff_or_decision_maker: decides
   portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, gas_processing_plant, compressor_station, midstream_pipeline]
   confidence: unverified
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://ecmc.colorado.gov/about-us/leadership
 
 - id: co-ecmc-director
+  full_name: Jennifer Walker Graf
   jurisdiction_id: co-ecmc
   state: CO
   level: state
@@ -59,45 +122,95 @@
   department: ECMC
   staff_or_decision_maker: administers
   portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, gas_processing_plant, compressor_station, midstream_pipeline]
-  confidence: unverified
+  confidence: probable
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://dnr.colorado.gov/colorado-announces-leadership-changes-at-ecmc-acting-director-appointed
+    - https://www.denvergazette.com/2026/07/30/jennifer-walker-graf-named-ecmc-director/
 
-- id: co-weld-county-commissioner
+- id: co-weld-county-commissioner-freeman
+  full_name: Mike Freeman
   jurisdiction_id: co-weld-county-landuse
   state: CO
   level: county
   body: Weld County Board of County Commissioners
   role_type: elected
-  title: County Commissioner (board seat/district to verify)
+  title: Commissioner, District 1, Chair
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, tank_battery, compressor_station, midstream_pipeline, access_road]
+  confidence: verified
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://weldgov.com/Government/Elected-Officials/County-Commissioners/Mike-Freeman
+    - https://www.weldgov.com/departments/commissioners
+
+- id: co-weld-county-commissioner-other-seats
+  jurisdiction_id: co-weld-county-landuse
+  state: CO
+  level: county
+  body: Weld County Board of County Commissioners
+  role_type: elected
+  title: Commissioner (remaining 4 of 5 seats — 3 district + 2 at-large; not confirmed this pass beyond Freeman above)
   staff_or_decision_maker: decides
   portfolio: [land_use_zoning, well_pad, tank_battery, compressor_station, midstream_pipeline, access_road]
   confidence: unverified
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.weldgov.com/departments/commissioners
 
 - id: co-weld-county-planning-director
+  full_name: David Eisenbraun
   jurisdiction_id: co-weld-county-landuse
   state: CO
   level: county
-  body: Weld County Department of Planning Services
+  body: Weld County Planning and Development Services
   role_type: career_staff
   title: Director, Planning Services
-  department: Weld County Department of Planning Services
+  department: Weld County Planning and Development Services
+  term_start: "2024-11-01"
+  official_contact:
+    office_url: "https://www.weld.gov/Government/Departments/Planning-and-Development-Services/Administration"
   staff_or_decision_maker: recommends
   portfolio: [land_use_zoning, well_pad, tank_battery, compressor_station, midstream_pipeline, access_road]
-  confidence: unverified
+  confidence: verified
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.weld.gov/Newsroom/2024-News/Board-appoints-David-Eisenbraun-as-new-planning-director
+    - https://www.weld.gov/Government/Departments/Planning-and-Development-Services/Administration
 
-- id: co-garfield-county-commissioner
+- id: co-garfield-county-commissioner-will
+  full_name: Perry Will
   jurisdiction_id: co-garfield-county-landuse
   state: CO
   level: county
   body: Garfield County Board of County Commissioners
   role_type: elected
-  title: County Commissioner (board seat/district to verify)
+  title: County Commissioner, District 2
+  term_start: "2025-01-14"
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, tank_battery, compressor_station, midstream_pipeline]
+  confidence: probable
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://en.wikipedia.org/wiki/Perry_Will
+    - https://www.garfield-county.com/board-commissioners/
+
+- id: co-garfield-county-commissioner-other-seats
+  jurisdiction_id: co-garfield-county-landuse
+  state: CO
+  level: county
+  body: Garfield County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (remaining 2 of 3 seats — search turned up individual pages for John Martin, Mike Samson, Tom Jankovsky, but could not confirm these are current vs. cached/stale pages this pass; a human should check garfield-county.com/board-commissioners/ directly)
   staff_or_decision_maker: decides
   portfolio: [land_use_zoning, well_pad, tank_battery, compressor_station, midstream_pipeline]
   confidence: unverified
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.garfield-county.com/board-commissioners/
+    - https://www.garfield-county.com/board-commissioners/john-martin/
+    - https://www.garfield-county.com/board-commissioners/mike-samson/
+    - https://www.garfield-county.com/board-commissioners/tom-jankovsky/
 
 - id: co-garfield-county-community-development-director
   jurisdiction_id: co-garfield-county-landuse
@@ -112,29 +225,111 @@
   confidence: unverified
   last_reviewed: "2026-09-04"
 
-- id: co-adams-county-commissioner
+- id: co-adams-county-commissioner-pawlowski
+  full_name: Janice E. Pawlowski
   jurisdiction_id: co-adams-county-landuse
   state: CO
   level: county
   body: Adams County Board of County Commissioners
   role_type: elected
-  title: County Commissioner (board seat/district to verify)
+  title: County Commissioner (district to verify)
   staff_or_decision_maker: decides
   portfolio: [land_use_zoning, well_pad, tank_battery, midstream_pipeline]
-  confidence: unverified
+  confidence: probable
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://adcogov.org/board-county-commissioners
 
-- id: co-broomfield-council-member
+- id: co-adams-county-commissioner-henry
+  full_name: Eva J. Henry
+  jurisdiction_id: co-adams-county-landuse
+  state: CO
+  level: county
+  body: Adams County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (district to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, tank_battery, midstream_pipeline]
+  confidence: probable
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://adcogov.org/board-county-commissioners
+
+- id: co-adams-county-commissioner-tedesco
+  full_name: Charles "Chaz" Tedesco
+  jurisdiction_id: co-adams-county-landuse
+  state: CO
+  level: county
+  body: Adams County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (district to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, tank_battery, midstream_pipeline]
+  confidence: probable
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://adcogov.org/board-county-commissioners
+
+- id: co-adams-county-commissioner-hansen
+  full_name: Erik Hansen
+  jurisdiction_id: co-adams-county-landuse
+  state: CO
+  level: county
+  body: Adams County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (district to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, tank_battery, midstream_pipeline]
+  confidence: probable
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://adcogov.org/board-county-commissioners
+
+- id: co-adams-county-commissioner-odorisio
+  full_name: Steven J. O'Dorisio
+  jurisdiction_id: co-adams-county-landuse
+  state: CO
+  level: county
+  body: Adams County Board of County Commissioners
+  role_type: elected
+  title: County Commissioner (district to verify)
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, tank_battery, midstream_pipeline]
+  confidence: probable
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://adcogov.org/board-county-commissioners
+
+- id: co-broomfield-mayor
+  full_name: Guyleen Castriotta
   jurisdiction_id: co-broomfield-landuse
   state: CO
   level: municipal
   body: City and County of Broomfield Council
   role_type: elected
-  title: Council Member / Mayor (consolidated city-county; seat to verify)
+  title: Mayor
+  official_contact:
+    office_url: "https://www.broomfield.org/2694/Mayor-Guyleen-Castriotta"
+  staff_or_decision_maker: decides
+  portfolio: [land_use_zoning, well_pad, midstream_pipeline]
+  confidence: verified
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.broomfield.org/2694/Mayor-Guyleen-Castriotta
+
+- id: co-broomfield-council-member-other-seats
+  jurisdiction_id: co-broomfield-landuse
+  state: CO
+  level: municipal
+  body: City and County of Broomfield Council
+  role_type: elected
+  title: Council Member (ward/at-large seats not confirmed this pass beyond Mayor above)
   staff_or_decision_maker: decides
   portfolio: [land_use_zoning, well_pad, midstream_pipeline]
   confidence: unverified
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.broomfield.org/954/Council-Members
 
 - id: co-boulder-county-commissioner
   jurisdiction_id: co-boulder-county-landuse
@@ -177,31 +372,99 @@
 # WYOMING
 # =========================================================================
 
-- id: wy-wogcc-commissioner
+- id: wy-wogcc-commissioner-gordon
+  full_name: Mark Gordon
+  jurisdiction_id: wy-wogcc
+  state: WY
+  level: state
+  body: Wyoming Oil and Gas Conservation Commission (WOGCC)
+  role_type: elected
+  title: Governor of Wyoming, Chairman (ex officio)
+  staff_or_decision_maker: decides
+  portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, midstream_pipeline]
+  confidence: verified
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://wogcc.wyo.gov/about-us/commission
+
+- id: wy-wogcc-commissioner-berry
+  full_name: Stacia Berry
   jurisdiction_id: wy-wogcc
   state: WY
   level: state
   body: Wyoming Oil and Gas Conservation Commission (WOGCC)
   role_type: appointed
-  title: Commissioner (roster/seat count to verify)
+  title: Director, Office of State Lands & Investments — Commissioner (ex officio), Acting Chair
+  staff_or_decision_maker: decides
+  portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, midstream_pipeline]
+  confidence: verified
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://wogcc.wyo.gov/about-us/commission
+
+- id: wy-wogcc-commissioner-lynds
+  full_name: Ranie Lynds
+  jurisdiction_id: wy-wogcc
+  state: WY
+  level: state
+  body: Wyoming Oil and Gas Conservation Commission (WOGCC)
+  role_type: appointed
+  title: Interim State Geologist, Wyoming State Geological Survey — Commissioner (ex officio)
+  staff_or_decision_maker: decides
+  portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, midstream_pipeline]
+  confidence: verified
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://wogcc.wyo.gov/about-us/commission
+
+- id: wy-wogcc-commissioner-geiger
+  full_name: Paul Geiger
+  jurisdiction_id: wy-wogcc
+  state: WY
+  level: state
+  body: Wyoming Oil and Gas Conservation Commission (WOGCC)
+  role_type: appointed
+  title: Commissioner
   appointed_by: Governor of Wyoming
   staff_or_decision_maker: decides
   portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, midstream_pipeline]
-  confidence: unverified
+  confidence: verified
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://wogcc.wyo.gov/about-us/commission
+
+- id: wy-wogcc-commissioner-true
+  full_name: Shane True
+  jurisdiction_id: wy-wogcc
+  state: WY
+  level: state
+  body: Wyoming Oil and Gas Conservation Commission (WOGCC)
+  role_type: appointed
+  title: Commissioner
+  appointed_by: Governor of Wyoming
+  staff_or_decision_maker: decides
+  portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, midstream_pipeline]
+  confidence: verified
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://wogcc.wyo.gov/about-us/commission
 
 - id: wy-wogcc-supervisor
+  full_name: Tom Kropatsch
   jurisdiction_id: wy-wogcc
   state: WY
   level: state
   body: Wyoming Oil and Gas Conservation Commission (WOGCC)
   role_type: career_staff
-  title: Supervisor / Director
+  title: State Oil and Gas Supervisor
   department: WOGCC
   staff_or_decision_maker: administers
   portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, midstream_pipeline]
-  confidence: unverified
+  confidence: verified
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://wogcc.wyo.gov/about-us/commission/tom-kropatsch
+    - https://wogcc.wyo.gov/about-us/commission
 
 - id: wy-deq-aqd-administrator
   jurisdiction_id: wy-deq-aqd
@@ -334,6 +597,7 @@
 # =========================================================================
 
 - id: nm-ocd-director
+  full_name: Albert C.S. Chang
   jurisdiction_id: nm-ocd
   state: NM
   level: state
@@ -343,21 +607,59 @@
   department: NM Energy, Minerals and Natural Resources Dept. — OCD
   staff_or_decision_maker: administers
   portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, midstream_pipeline]
-  confidence: unverified
+  confidence: probable
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://ladailypost.com/albert-chang-appointed-director-of-nm-oil-conservation-division/
+    - https://www.emnrd.nm.gov/ocd/about-us/meet-our-team/
 
-- id: nm-occ-member
+- id: nm-occ-member-chang
+  full_name: Albert C.S. Chang
+  jurisdiction_id: nm-occ
+  state: NM
+  level: state
+  body: New Mexico Oil Conservation Commission
+  role_type: career_staff
+  title: OCD Director, serving ex officio as Commission Chairman (NMSA 70-2-4)
+  staff_or_decision_maker: decides
+  portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, midstream_pipeline]
+  confidence: verified
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.emnrd.nm.gov/ocd/wp-content/uploads/sites/6/OCC-2026-OMA-Notice-Resolution.pdf
+    - https://www.emnrd.nm.gov/ocd/occ-info/
+
+- id: nm-occ-member-public-lands-designee
   jurisdiction_id: nm-occ
   state: NM
   level: state
   body: New Mexico Oil Conservation Commission
   role_type: appointed
-  title: Commission Member (roster/seat count to verify)
-  appointed_by: Governor of New Mexico
+  title: Designee of the Commissioner of Public Lands (statutory seat; current designee name not confirmed)
+  appointed_by: NM Commissioner of Public Lands
   staff_or_decision_maker: decides
   portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, midstream_pipeline]
   confidence: unverified
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.emnrd.nm.gov/ocd/occ-info/
+    - https://codes.findlaw.com/nm/chapter-70-oil-and-gas/nm-st-sect-70-2-4/
+
+- id: nm-occ-member-emnrd-secretary-designee
+  jurisdiction_id: nm-occ
+  state: NM
+  level: state
+  body: New Mexico Oil Conservation Commission
+  role_type: appointed
+  title: Designee of the Secretary of Energy, Minerals and Natural Resources Dept. (statutory seat; current designee name not confirmed)
+  appointed_by: EMNRD Secretary
+  staff_or_decision_maker: decides
+  portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, midstream_pipeline]
+  confidence: unverified
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.emnrd.nm.gov/ocd/occ-info/
+    - https://codes.findlaw.com/nm/chapter-70-oil-and-gas/nm-st-sect-70-2-4/
 
 - id: nm-ned-aqb-chief
   jurisdiction_id: nm-ned-aqb
@@ -502,6 +804,7 @@
 # =========================================================================
 
 - id: ut-dogm-director
+  full_name: Richard "Mick" Thomas
   jurisdiction_id: ut-dogm
   state: UT
   level: state
@@ -509,10 +812,14 @@
   role_type: career_staff
   title: Director
   department: Utah DOGM
+  appointed_by: Utah Dept. of Natural Resources Executive Director
   staff_or_decision_maker: administers
   portfolio: [oil_gas_conservation, well_pad, tank_battery, swd_well, midstream_pipeline]
-  confidence: unverified
+  confidence: verified
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://naturalresources.utah.gov/dnr-newsfeed/mick-thomas-appointed-director-of-the-division-of-oil-gas-and-mining
+    - https://ogm.utah.gov/staff-list/
 
 - id: ut-board-oil-gas-mining-member
   jurisdiction_id: ut-boardoilgasmining
@@ -669,17 +976,70 @@
 # TEXAS
 # =========================================================================
 
-- id: tx-rrc-commissioner
+- id: tx-rrc-commissioner-wright
+  full_name: Jim Wright
   jurisdiction_id: tx-rrc
   state: TX
   level: state
   body: Railroad Commission of Texas (RRC)
   role_type: elected
-  title: Commissioner (one of three statewide elected seats — current holders/staggered terms to verify)
+  title: Chairman
   staff_or_decision_maker: decides
   portfolio: [oil_gas_conservation, pipeline_safety, well_pad, tank_battery, swd_well, gas_processing_plant, compressor_station, midstream_pipeline]
-  confidence: unverified
+  confidence: probable
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.rrc.texas.gov/about-us/commissioners/
+    - https://www.rrc.texas.gov/about-us/commissioners/jim-wright/
+
+- id: tx-rrc-commissioner-craddick
+  full_name: Christi Craddick
+  jurisdiction_id: tx-rrc
+  state: TX
+  level: state
+  body: Railroad Commission of Texas (RRC)
+  role_type: elected
+  title: Commissioner
+  staff_or_decision_maker: decides
+  portfolio: [oil_gas_conservation, pipeline_safety, well_pad, tank_battery, swd_well, gas_processing_plant, compressor_station, midstream_pipeline]
+  confidence: probable
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.rrc.texas.gov/about-us/commissioners/
+    - https://www.rrc.texas.gov/about-us/commissioners/christi-craddick/
+
+- id: tx-rrc-commissioner-christian
+  full_name: Wayne Christian
+  jurisdiction_id: tx-rrc
+  state: TX
+  level: state
+  body: Railroad Commission of Texas (RRC)
+  role_type: elected
+  title: Commissioner
+  staff_or_decision_maker: decides
+  portfolio: [oil_gas_conservation, pipeline_safety, well_pad, tank_battery, swd_well, gas_processing_plant, compressor_station, midstream_pipeline]
+  confidence: probable
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.rrc.texas.gov/about-us/commissioners/
+    - https://rrc.texas.gov/about-us/commissioners/wayne-christian/staff
+
+- id: tx-rrc-executive-director
+  full_name: Wei Wang
+  jurisdiction_id: tx-rrc
+  state: TX
+  level: state
+  body: Railroad Commission of Texas (RRC)
+  role_type: career_staff
+  title: Executive Director
+  department: RRC
+  staff_or_decision_maker: administers
+  portfolio: [oil_gas_conservation, pipeline_safety, well_pad, tank_battery, swd_well, gas_processing_plant, compressor_station, midstream_pipeline]
+  confidence: probable
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.rrc.texas.gov/news/041018a-rrc-commissioners-appoint-executive-director
+    - https://www.legistorm.com/person/bio/477480/Wei_Wang.html
 
 - id: tx-rrc-pipeline-safety-director
   jurisdiction_id: tx-rrc
@@ -694,20 +1054,58 @@
   confidence: unverified
   last_reviewed: "2026-09-04"
 
-- id: tx-tceq-commissioner
+- id: tx-tceq-commissioner-paup
+  full_name: Brooke T. Paup
   jurisdiction_id: tx-tceq
   state: TX
   level: state
   body: Texas Commission on Environmental Quality (TCEQ)
   role_type: appointed
-  title: Commissioner (one of three seats — roster to verify)
+  title: Chairwoman
   appointed_by: Governor of Texas
   staff_or_decision_maker: decides
   portfolio: [air_quality, water_quality, waste, gas_processing_plant, compressor_station]
-  confidence: unverified
+  confidence: verified
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.tceq.texas.gov/downloads/agency/organization/tceq-org-chart.pdf
+    - https://www.tceq.texas.gov/agency/organization/commissioner.html
+
+- id: tx-tceq-commissioner-gonzales
+  full_name: Catarina R. Gonzales
+  jurisdiction_id: tx-tceq
+  state: TX
+  level: state
+  body: Texas Commission on Environmental Quality (TCEQ)
+  role_type: appointed
+  title: Commissioner
+  appointed_by: Governor of Texas
+  staff_or_decision_maker: decides
+  portfolio: [air_quality, water_quality, waste, gas_processing_plant, compressor_station]
+  confidence: verified
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.tceq.texas.gov/downloads/agency/organization/tceq-org-chart.pdf
+
+- id: tx-tceq-commissioner-miller
+  full_name: Tonya R. Miller
+  jurisdiction_id: tx-tceq
+  state: TX
+  level: state
+  body: Texas Commission on Environmental Quality (TCEQ)
+  role_type: appointed
+  title: Commissioner
+  appointed_by: Governor of Texas
+  term_end: "2031-08-31"
+  staff_or_decision_maker: decides
+  portfolio: [air_quality, water_quality, waste, gas_processing_plant, compressor_station]
+  confidence: verified
+  last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.tceq.texas.gov/downloads/agency/organization/tceq-org-chart.pdf
 
 - id: tx-tceq-executive-director
+  full_name: Kelly Keel
   jurisdiction_id: tx-tceq
   state: TX
   level: state
@@ -717,10 +1115,14 @@
   department: TCEQ
   staff_or_decision_maker: administers
   portfolio: [air_quality, water_quality, waste, gas_processing_plant, compressor_station]
-  confidence: unverified
+  confidence: verified
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.tceq.texas.gov/agency/organization/ed.html
+    - https://www.tceq.texas.gov/agency/directory/ed_directory.html
 
 - id: tx-midland-county-judge
+  full_name: Terry Johnson
   jurisdiction_id: tx-midland-county-landuse
   state: TX
   level: county
@@ -729,8 +1131,13 @@
   title: County Judge
   staff_or_decision_maker: decides
   portfolio: [land_use_zoning, floodplain, well_pad, tank_battery, midstream_pipeline]
-  confidence: unverified
+  official_contact:
+    office_phone: "432-688-4310"
+    office_url: "https://www.co.midland.tx.us/161/County-Judge"
+  confidence: probable
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.co.midland.tx.us/161/County-Judge
 
 - id: tx-midland-county-commissioner
   jurisdiction_id: tx-midland-county-landuse
@@ -757,16 +1164,21 @@
   last_reviewed: "2026-09-04"
 
 - id: tx-ector-county-judge
+  full_name: Dustin Fawcett
   jurisdiction_id: tx-ector-county-landuse
   state: TX
   level: county
   body: Ector County Commissioners Court
   role_type: elected
   title: County Judge
+  official_contact:
+    office_url: "https://www.ectorcountytx.gov/166/Commissioners-Court"
   staff_or_decision_maker: decides
   portfolio: [land_use_zoning, floodplain, well_pad, tank_battery, midstream_pipeline]
-  confidence: unverified
+  confidence: probable
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.ectorcountytx.gov/166/Commissioners-Court
 
 - id: tx-ector-county-floodplain-administrator
   jurisdiction_id: tx-ector-county-landuse
@@ -781,16 +1193,21 @@
   last_reviewed: "2026-09-04"
 
 - id: tx-reeves-county-judge
+  full_name: Leo Hung
   jurisdiction_id: tx-reeves-county-landuse
   state: TX
   level: county
   body: Reeves County Commissioners Court
   role_type: elected
   title: County Judge
+  term_start: "2019-01-01"
   staff_or_decision_maker: decides
   portfolio: [land_use_zoning, floodplain, well_pad, tank_battery, swd_well, midstream_pipeline]
-  confidence: unverified
+  confidence: probable
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.legistorm.com/person/bio/502263/Leo_Hung.html
+    - https://ballotpedia.org/Leo_Hung_(Reeves_County_Judge,_Texas,_candidate_2026)
 
 - id: tx-reeves-county-floodplain-administrator
   jurisdiction_id: tx-reeves-county-landuse
@@ -904,24 +1321,35 @@
   jurisdiction_id: tx-fortworth-gaswell
   state: TX
   level: municipal
-  body: City of Fort Worth Gas Well Inspection / Planning & Development
+  body: City of Fort Worth Development Services Department
   role_type: career_staff
-  title: Gas Well Inspector / Planning Director (specific title to verify)
-  department: Fort Worth Planning & Development
+  title: Gas Well Inspector
+  department: Development Services Department
+  official_contact:
+    office_url: "https://www.fortworthtexas.gov/departments/development-services/inspections"
   staff_or_decision_maker: administers
   portfolio: [land_use_zoning, noise, fire_code, well_pad, compressor_station, midstream_pipeline]
   confidence: unverified
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.fortworthtexas.gov/files/assets/public/v/2/hr/documents/job-descriptions/g/gas-well-inspector.pdf
+    - https://www.fortworthtexas.gov/departments/development-services/inspections
 
 - id: tx-denton-city-gas-well-inspector
   jurisdiction_id: tx-denton-city-gaswell
   state: TX
   level: municipal
-  body: City of Denton Gas Well Inspection / Development Services
+  body: City of Denton Gas Well Inspections Division
   role_type: career_staff
-  title: Gas Well Inspector / Planning Director (specific title to verify)
-  department: Denton Development Services
+  title: Gas Well Inspector (field inspection); formal approval-condition authority sits with the "Gas Well Administrator" role defined in the Denton Development Code Subchapter 6 — same division, incumbent name not confirmed
+  department: Gas Well Inspections Division
+  official_contact:
+    office_url: "https://www.cityofdenton.com/183/Gas-Well-Inspections"
+    office_phone: "940-349-8604"
   staff_or_decision_maker: administers
   portfolio: [land_use_zoning, noise, fire_code, well_pad, compressor_station, midstream_pipeline]
   confidence: unverified
   last_reviewed: "2026-09-04"
+  review_source_urls:
+    - https://www.cityofdenton.com/183/Gas-Well-Inspections
+    - https://library.municode.com/tx/denton/codes/development_code?nodeId=CITY_DENTONDECO_SUBCHAPTER_6GAWE_6.3GAWEDRPR_6.3.9WAPEGAWEDE

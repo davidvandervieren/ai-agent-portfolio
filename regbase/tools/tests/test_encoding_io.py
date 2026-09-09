@@ -27,11 +27,6 @@ TOOLS = Path(__file__).resolve().parents[1]
 TEXT_METHODS = {"read_text", "write_text"}
 BINARY_MODES = {"rb", "wb", "ab", "r+b", "w+b", "a+b", "xb"}
 
-# Modules with an `open` that is not encoded text I/O, so demanding an
-# encoding= of them is meaningless: webbrowser.open takes a URL, and os.open
-# returns a raw file descriptor.
-NON_FILE_OPENERS = {"webbrowser", "os"}
-
 
 def call_name(node: ast.Call) -> str:
     f = node.func
@@ -75,10 +70,6 @@ def scan(path: Path) -> list[str]:
             continue
         name = call_name(node)
         if name not in TEXT_METHODS and name != "open":
-            continue
-        if (isinstance(node.func, ast.Attribute)
-                and isinstance(node.func.value, ast.Name)
-                and node.func.value.id in NON_FILE_OPENERS):
             continue
         if is_binary(node):
             continue

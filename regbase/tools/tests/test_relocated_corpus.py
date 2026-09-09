@@ -34,6 +34,14 @@ class _Resp:
 
 def main() -> int:
     tmp = tempfile.mkdtemp(prefix="regbase-raw-")
+    # Redirect the whole corpus, not just raw: otherwise the fixture text
+
+    # lands in the committed corpus and is indexed as a real document.
+
+    # Siblings, not nested: this test needs a raw directory that is NOT
+    # under the corpus, with both kept out of the project tree.
+    os.environ["REGBASE_CORPUS"] = str(Path(tmp) / "corpus")
+
     os.environ["REGBASE_RAW"] = str(Path(tmp) / "raw")
     sys.path.insert(0, str(TOOLS))
 

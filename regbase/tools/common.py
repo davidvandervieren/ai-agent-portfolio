@@ -155,10 +155,7 @@ def load_sources(paths: Optional[Iterable[Path]] = None) -> list[Source]:
             kwargs.setdefault("state", "US")
             kwargs.setdefault("name", sid)
             s = Source(**kwargs)
-            # POSIX separators: this string is published in web/registry.json,
-            # so a build on Windows must not produce a different file than a
-            # build on Linux.
-            s._file = p.relative_to(ROOT).as_posix()
+            s._file = str(p.relative_to(ROOT))
             out.append(s)
     return out
 
@@ -214,15 +211,9 @@ def manifest_compact() -> int:
 
 # ---------------------------------------------------------------- http
 
-# The `Mozilla/5.0 (compatible; ...)` prefix is load-bearing, not cargo cult.
-# The WAF in front of colorado.gov -- ECMC, CDPHE, PUC and most of the county
-# sites -- 403s any User-Agent that does not start with it: 56 of 65 failures
-# in a full Colorado harvest were that single check. The `compatible;` form
-# still identifies RegBase honestly, so there is no need to pose as a browser.
 USER_AGENT = os.environ.get(
     "REGBASE_UA",
-    "Mozilla/5.0 (compatible; RegBase/1.0; oil-and-gas regulatory research; "
-    "contact: set REGBASE_UA env var)",
+    "RegBase/1.0 (oil-and-gas regulatory research; contact: set REGBASE_UA env var)",
 )
 
 
@@ -236,40 +227,12 @@ class Fetcher:
         self.timeout = timeout
         self.retries = retries
         self._last: dict[str, float] = {}
-        self._headers = {
+        self.s = requests.Session()
+        self.s.headers.update({
             "User-Agent": USER_AGENT,
             "Accept": "text/html,application/xhtml+xml,application/pdf,*/*",
             "Accept-Language": "en-US,en;q=0.9",
-        }
-        self.s = requests.Session()
-        self.s.headers.update(self._headers)
-        self._os_trust_hosts: set[str] = set()
-        self._os_session = None
-
-    def _os_trust(self):
-        """A session verifying against the OS trust store instead of certifi.
-
-        Several state sites -- www.ose.nm.gov among them -- serve an incomplete
-        certificate chain. Windows and most Linux distributions repair it from
-        their own store, but certifi cannot, so requests raises
-        CERTIFICATE_VERIFY_FAILED while a browser loads the page fine. This is
-        still full verification: the fallback swaps the trust anchor set, it
-        never disables checking.
-        """
-        import ssl
-        import requests
-
-        if self._os_session is None:
-            class _OSTrustAdapter(requests.adapters.HTTPAdapter):
-                def init_poolmanager(self, *args, **kwargs):
-                    kwargs["ssl_context"] = ssl.create_default_context()
-                    return super().init_poolmanager(*args, **kwargs)
-
-            session = requests.Session()
-            session.headers.update(self._headers)
-            session.mount("https://", _OSTrustAdapter())
-            self._os_session = session
-        return self._os_session
+        })
 
     def _wait(self, host: str) -> None:
         last = self._last.get(host, 0.0)
@@ -278,20 +241,16 @@ class Fetcher:
             time.sleep(self.delay - gap)
         self._last[host] = time.monotonic()
 
-    def get(self, url: str, etag: str = "", last_modified: str = "", stream: bool = False,
-            extra_headers: Optional[dict] = None):
+    def get(self, url: str, etag: str = "", last_modified: str = "", stream: bool = False):
         """Returns a requests.Response, or None on permanent failure.
 
         Raises nothing; caller inspects .status_code. 304 means unchanged.
-
-        `extra_headers` is for per-request headers a specific API demands —
-        Municode's JSON API, for one, 401s without `X-CSRF: 1`.
         """
         import requests
         from urllib.parse import urlsplit
 
         host = urlsplit(url).netloc
-        headers = dict(extra_headers or {})
+        headers = {}
         if etag:
             headers["If-None-Match"] = etag
         if last_modified:
@@ -300,21 +259,9 @@ class Fetcher:
         backoff = 2.0
         for attempt in range(self.retries + 1):
             self._wait(host)
-            session = self._os_trust() if host in self._os_trust_hosts else self.s
             try:
-                r = session.get(url, headers=headers, timeout=self.timeout,
-                                stream=stream, allow_redirects=True)
-            except requests.exceptions.SSLError as exc:
-                if host not in self._os_trust_hosts:
-                    # certifi has no path to this chain; try the OS trust store
-                    # before writing the host off as unreachable.
-                    self._os_trust_hosts.add(host)
-                    continue
-                if attempt == self.retries:
-                    return _FakeResponse(0, str(exc), url)
-                time.sleep(backoff)
-                backoff *= 2
-                continue
+                r = self.s.get(url, headers=headers, timeout=self.timeout,
+                               stream=stream, allow_redirects=True)
             except requests.RequestException as exc:
                 if attempt == self.retries:
                     return _FakeResponse(0, str(exc), url)
