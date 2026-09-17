@@ -8,7 +8,7 @@ title: Oil and Gas Regulatory Information | Broomfield
 doc_type: guidance
 url: "https://www.broomfield.org/2832/Oil-and-Gas-Regulatory-Information"
 sha256: 5044eec5cc5d5a87ef3c97b7a1ff12893d7c181bac405f0a039f3a428b960e1a
-fetched_at: "2026-09-08T17:35:20+00:00"
+fetched_at: "2026-09-10T04:33:17+00:00"
 ---
 
 <!-- heading-path: Oil and Gas Regulatory Information -->

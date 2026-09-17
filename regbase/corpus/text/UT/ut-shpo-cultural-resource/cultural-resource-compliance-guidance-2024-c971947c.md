@@ -7,7 +7,7 @@ title: Cultural Resource Compliance Guidance (2024)
 doc_type: guidance
 url: "https://ushpo.utah.gov/wp-content/uploads/2024/08/UTSHPO-Cultural-Resource-Compliance-Guidance_2024.pdf"
 sha256: 80cad6c595247bcbeaba3c8847bf75cce391d76bebae29baf75658bbd5b5a923
-fetched_at: "2026-09-05T05:13:31+00:00"
+fetched_at: "2026-09-09T21:25:53+00:00"
 ---
 
 <!-- page: 1 -->

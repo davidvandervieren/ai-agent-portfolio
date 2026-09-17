@@ -7,8 +7,8 @@ agency: Natrona County Planning Department
 title: Natrona County Zoning Resolution
 doc_type: ordinance
 url: "https://www.natronacounty-wy.gov/894/Zoning"
-sha256: 14ada6ae392b0c3132ac0ad9f0bfb2f5ecca86adc2740f8128e732b0335d1005
-fetched_at: "2026-09-05T05:14:07+00:00"
+sha256: 2afaeda9cea3f2b9d0177433579b4e884dd19c475b9773c17a02e9afca00660b
+fetched_at: "2026-09-09T21:15:51+00:00"
 ---
 
 <!-- heading-path: Zoning -->

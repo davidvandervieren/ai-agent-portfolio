@@ -8,7 +8,7 @@ title: Carbon County Subdivision Regulations of 2023
 doc_type: regulation
 url: "https://www.carbonwy.com/DocumentCenter/View/502"
 sha256: 21dd9a70f3ae7af7a0d227d0ecdf91584703e67ac59699ddc0d6744c7eee9fc1
-fetched_at: "2026-09-05T05:14:00+00:00"
+fetched_at: "2026-09-09T21:15:56+00:00"
 ---
 
 <!-- page: 1 -->

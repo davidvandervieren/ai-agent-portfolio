@@ -6,8 +6,8 @@ agency: Utah Division of Wildlife Resources (DWR)
 title: Overview and conservation plan — Greater sage-grouse
 doc_type: policy
 url: "https://wildlife.utah.gov/sage-grouse"
-sha256: ca92c221123156aa4643c7ec05e28028edd8cb83caa82b3acb0266f700795201
-fetched_at: "2026-09-05T05:13:28+00:00"
+sha256: c5c63e8000a216ce24466019f2102f48398bd34caca5e67cffb931992d8ab6c8
+fetched_at: "2026-09-09T21:25:43+00:00"
 ---
 
 Details

@@ -8,7 +8,7 @@ doc_type: guidance
 citation_root: 16 TAC Ch. 8
 url: "https://www.rrc.texas.gov/pipeline-safety/permitting-and-mapping/permitting/"
 sha256: b682fc9208f0087fa85e101c20d239c88ad2fc45111c19849c4a29a19639a43d
-fetched_at: "2026-09-05T05:13:08+00:00"
+fetched_at: "2026-09-09T21:10:22+00:00"
 ---
 
 <!-- heading-path: Pipeline Safety Permitting -->

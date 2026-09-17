@@ -7,7 +7,7 @@ title: Stream Alteration Program
 doc_type: guidance
 url: "https://waterrights.utah.gov/strmalt"
 sha256: 04969893820595e00c1dda0573cc6e4f7c0971fe6c0b555046ac3b517c7efe85
-fetched_at: "2026-09-05T05:13:35+00:00"
+fetched_at: "2026-09-09T21:25:39+00:00"
 ---
 
 <!-- heading-path: Stream Alteration Program -->

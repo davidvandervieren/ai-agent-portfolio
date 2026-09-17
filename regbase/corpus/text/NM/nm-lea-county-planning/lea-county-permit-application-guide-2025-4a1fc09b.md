@@ -8,7 +8,7 @@ title: Lea County Permit Application Guide 2025
 doc_type: application_packet
 url: "https://leacounty.gov/DocumentCenter/View/4789/2025-LEA-COUNTY-PERMIT-APPLICATION?bidId="
 sha256: 7847e79d8487e1808ff90de3ca80a80ca92122147de43a1bda7dc8eb37d13e2a
-fetched_at: "2026-09-05T05:23:40+00:00"
+fetched_at: "2026-09-09T21:20:12+00:00"
 ---
 
 <!-- page: 1 -->

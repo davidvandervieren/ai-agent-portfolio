@@ -8,7 +8,7 @@ title: Hot Springs County Land Use Plan (2020)
 doc_type: policy
 url: "https://hscounty.com/component/edocman/2020-land-use-plan/viewdocument/485?Itemid=0"
 sha256: f9b6265e203e4e0c085672a818204838dc5b686a335997f9ee2b074feaf792a0
-fetched_at: "2026-09-05T05:14:07+00:00"
+fetched_at: "2026-09-09T21:16:08+00:00"
 ---
 
 <!-- page: 1 -->

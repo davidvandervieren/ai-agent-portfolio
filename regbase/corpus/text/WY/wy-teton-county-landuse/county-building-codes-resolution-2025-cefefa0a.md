@@ -8,7 +8,7 @@ title: County Building Codes Resolution (2025)
 doc_type: ordinance
 url: "https://tetoncountywy.gov/DocumentCenter/View/37571/2025-Building-Code-Resoloution--7-1-2025"
 sha256: 587f5d429044583d57fd948c601dee5a1d9636175d2787de252e8864f8f99651
-fetched_at: "2026-09-05T05:14:19+00:00"
+fetched_at: "2026-09-09T21:16:19+00:00"
 ---
 
 <!-- page: 1 -->

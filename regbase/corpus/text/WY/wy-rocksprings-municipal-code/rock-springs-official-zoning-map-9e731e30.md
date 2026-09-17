@@ -9,7 +9,7 @@ title: Rock Springs Official Zoning Map
 doc_type: map
 url: "https://cms3.revize.com/revize/rocksprings/Documents/Departments/Planning%20and%20Zoning/Zoning%20Map%20and%20Ordinances/RS_ZONING_MAP%20-%20ANSI%20E%202021%20-%20RS_ZONING_MAP.pdf"
 sha256: af5a4b181d1cad451f6669c6794bd34509e9a8e99082b3174980fbc25443507a
-fetched_at: "2026-09-05T05:14:13+00:00"
+fetched_at: "2026-09-09T21:16:27+00:00"
 ---
 
 <!-- page: 1 -->

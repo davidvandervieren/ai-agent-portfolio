@@ -7,7 +7,7 @@ title: General Permit for Storm Water Discharges from Construction Activities (C
 doc_type: permit_record
 url: "https://www.utah.gov/pmn/files/602321.pdf"
 sha256: 7b3a6caee7920e5a71d0d79db1aaf2683070bcfcd7576deb8bc0152c9fed9bd0
-fetched_at: "2026-09-05T05:13:18+00:00"
+fetched_at: "2026-09-09T21:25:29+00:00"
 ---
 
 <!-- page: 1 -->

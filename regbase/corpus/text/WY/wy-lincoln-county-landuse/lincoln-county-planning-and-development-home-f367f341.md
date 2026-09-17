@@ -8,7 +8,7 @@ title: Lincoln County Planning and Development home
 doc_type: guidance
 url: "https://www.lincolncountywy.gov/government/planning_development/index.php"
 sha256: 2e39929237c4a5eb523e17c4eda785ef94079bf2214b16fb761a896fb788bcf4
-fetched_at: "2026-09-05T05:14:07+00:00"
+fetched_at: "2026-09-09T21:15:59+00:00"
 ---
 
 <!-- heading-path: Planning & Development -->

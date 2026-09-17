@@ -8,7 +8,7 @@ doc_type: guidance
 citation_root: WGFD O&G Development Recommendations
 url: "https://wgfd.wyo.gov/media/2358/download"
 sha256: bbca8fb0d7033d9e5e984f2da0056b603efe26acd3c0c532c066e20a0ecdbc92
-fetched_at: "2026-09-05T05:14:28+00:00"
+fetched_at: "2026-09-09T21:15:26+00:00"
 ---
 
 <!-- page: 1 -->

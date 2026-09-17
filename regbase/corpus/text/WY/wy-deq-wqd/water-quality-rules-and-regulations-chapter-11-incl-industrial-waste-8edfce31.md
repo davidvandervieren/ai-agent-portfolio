@@ -8,7 +8,7 @@ doc_type: regulation
 citation_root: Wyoming Water Quality Rules and Regs, Ch. 11
 url: "http://eqc.state.wy.us/orders/Water%20Closed%20Cases/11-3101%20WQD%20Chapt%203,5,11,12,16,20,21,23%20w-NEW%20Chapt.%2025%20and%2026/Chapter%2011%20New%20Clean.pdf"
 sha256: cf3a75fd470753a5bf52fefa00af058ef44bb6cdb5a6a4a2f7fb3720d624e2a3
-fetched_at: "2026-09-05T05:14:05+00:00"
+fetched_at: "2026-09-09T21:14:55+00:00"
 ---
 
 <!-- page: 1 -->

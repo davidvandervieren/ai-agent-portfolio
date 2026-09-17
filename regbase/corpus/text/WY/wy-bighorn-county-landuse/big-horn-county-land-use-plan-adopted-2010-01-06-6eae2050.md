@@ -7,8 +7,8 @@ agency: Big Horn County Land Planning Department
 title: Big Horn County Land Use Plan (adopted 2010-01-06)
 doc_type: policy
 url: "https://www.bighorncountywy.gov/departments/land-planning/land-use-plan"
-sha256: 3794839bcaa47c773510ae5104faddc4cb447d37ae3b62a543edc81f414c6217
-fetched_at: "2026-09-05T05:13:38+00:00"
+sha256: 9400f281037495dd3e563b6a4457bb063d551ff2aeaa2e7233048773589f90c4
+fetched_at: "2026-09-09T21:16:05+00:00"
 ---
 
 <!-- heading-path: Land Planning -->

@@ -7,7 +7,7 @@ title: Leases & Permits | Forestry, Fire & State Lands
 doc_type: guidance
 url: "https://ffsl.utah.gov/state-lands/sovereign-lands/permits/"
 sha256: 82007c192764f30972f7e583b9ed80fbb766a8f7e56b40b01732a18e491cd39b
-fetched_at: "2026-09-05T05:13:28+00:00"
+fetched_at: "2026-09-09T21:25:38+00:00"
 ---
 
 <!-- heading-path: Leases & Permits -->

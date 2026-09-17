@@ -8,7 +8,7 @@ doc_type: application_packet
 citation_root: WYDOT Form M-54
 url: "https://www.dot.state.wy.us/files/live/sites/wydot/files/shared/Highway_Development/Utilities/M-54_License_Packet%20_Apr%202018.pdf"
 sha256: 8518f9036d2a5f039519a7a47128dfad67416e66b574cc5b6496098ab5458899
-fetched_at: "2026-09-05T05:14:29+00:00"
+fetched_at: "2026-09-09T21:15:18+00:00"
 ---
 
 <!-- page: 1 -->

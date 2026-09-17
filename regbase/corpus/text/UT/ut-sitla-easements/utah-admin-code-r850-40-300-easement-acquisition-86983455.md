@@ -8,7 +8,7 @@ doc_type: regulation
 citation_root: Utah Admin. Code R850-40-300
 url: "https://www.law.cornell.edu/regulations/utah/Utah-Admin-Code-R850-40-300"
 sha256: bbda6d1774f304ed563e7d4f0c7437dd3aaada901a3243c41ab13a7ea016a48e
-fetched_at: "2026-09-05T05:13:31+00:00"
+fetched_at: "2026-09-09T21:25:35+00:00"
 ---
 
 <!-- heading-path: Utah Admin. Code R850-40-300 - Easement Acquisition -->

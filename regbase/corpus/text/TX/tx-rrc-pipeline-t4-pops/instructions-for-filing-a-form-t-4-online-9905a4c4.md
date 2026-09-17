@@ -8,7 +8,7 @@ doc_type: guidance
 citation_root: Form T-4
 url: "https://www.rrc.state.tx.us/pipeline-safety/permitting-and-mapping/permitting/instructions-for-filing-a-form-t-4-online/"
 sha256: ef91d093a7dea6b860b63253eec2c051f05bd1344ceece56bbcbb897fd50120a
-fetched_at: "2026-09-05T05:13:07+00:00"
+fetched_at: "2026-09-09T21:10:22+00:00"
 ---
 
 <!-- heading-path: Instructions for Filing the online permit application -->

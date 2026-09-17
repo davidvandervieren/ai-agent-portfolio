@@ -1,0 +1,274 @@
+---
+source_id: co-greeley-municode
+jurisdiction: Greeley, CO
+state: CO
+county: Weld
+municipality: Greeley
+agency: City of Greeley
+title: Sec. 16-190. - Flashing signals.
+doc_type: code
+citation_root: Title 16 - VEHICLES AND TRAFFIC > CHAPTER 1. - TRAFFIC CODE > ARTICLE VI. - SIGNALS, SIGNS, AND MARKINGS > Sec. 16-190. - Flashing signals.
+url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTIICOOR_TIT16VETR_CH1TRCO_ARTVISISIMA_S16-190FLSI"
+sha256: c829688490bc4d9cc8626553d62d726fac1ee15dab677e9a9d8385cef7180872
+fetched_at: "2026-09-17T05:59:33+00:00"
+---
+
+The city shall place and maintain such traffic control devices, conforming to the
+"Manual of Uniform Traffic Control Devices" and specifications, upon municipal streets
+and highways as it deems necessary to indicate and to carry out the provisions of
+this chapter or to regulate, warn or guide traffic.
+(Code 1994, § 11.01.601; Ord. No. 80, 1997, § 2, 12-16-1997)
+(a)
+No local authority shall erect or maintain any stop sign or traffic control signal
+at any location so as to require the traffic on any state highway to stop before entering
+or crossing any intersecting highway unless approval in writing has first been obtained
+from the department of transportation.
+(b)
+Where practical no local authority shall maintain three traffic control signals located
+on a roadway so as to be within one minute's driving time (to be determined by the
+speed limit) from any one of the signals to the other without synchronizing the lights
+to enhance the flow of traffic and thereby reduce air pollution.
+(Code 1994, § 11.01.602; Ord. No. 80, 1997, § 2, 12-16-1997)
+(a)
+No driver of a vehicle shall disobey the instructions of any official traffic control
+device including any official hand signal device placed or displayed in accordance
+with the provisions of this chapter unless otherwise directed by a police officer
+subject to the exceptions in this chapter granted the driver of an authorized emergency
+vehicle.
+(b)
+No provision of this chapter for which official traffic control devices are required
+shall be enforced against an alleged violator if at the time and place of the alleged
+violation an official device is not in proper position and sufficiently legible to
+be seen by an ordinarily observant person. Whenever a particular section does not
+state that official traffic control devices are required, such section shall be effective
+even though no devices are erected or in place.
+(c)
+Whenever official traffic control devices are placed in position approximately conforming
+to the requirements of this chapter, such devices shall be presumed to have been so
+placed by the official act or direction of lawful authority unless the contrary is
+established by competent evidence.
+(d)
+Any official traffic control device placed pursuant to the provisions of this chapter
+and purporting to conform to the lawful requirements pertaining to such devices shall
+be presumed to comply with the requirements of this chapter unless the contrary is
+established by competent evidence.
+(Code 1994, § 11.01.603; Ord. No. 80, 1997, § 2, 12-16-1997)
+(a)
+Generally. If traffic is controlled by traffic control signals exhibiting different colored
+lights, or colored lighted arrows, successively one at a time or in combination as
+declared in the traffic control manual adopted by the department of transportation,
+only the colors green, yellow and red shall be used, except for special pedestrian-control
+signals carrying a word or symbol legend as provided in section 16-255 , and said lights, arrows and combinations thereof shall indicate and apply to drivers
+of vehicles and pedestrians as follows:
+(1)
+Green indication.
+a.
+Vehicular traffic facing a circular green signal may proceed straight through or turn
+right or left unless a sign at such place prohibits such turn; but vehicular traffic,
+including vehicles turning right or left, shall yield the right-of-way to other vehicles
+and to pedestrians lawfully within the intersection and to pedestrians within an adjacent
+crosswalk at the time such signal is exhibited.
+b.
+Vehicular traffic facing a green arrow signal, shown alone or in combination with
+another indication, may cautiously enter the intersection only to make the movement
+indicated by such arrow or such other movement as is permitted by other indications
+shown at the same time. Such vehicular traffic shall yield the right-of-way to pedestrians
+lawfully within an adjacent crosswalk and to other traffic lawfully using the intersection.
+c.
+Unless otherwise directed by a pedestrian-control signal as provided in section 16-255 , pedestrians facing any green signal, except when the sole green signal is a turn
+arrow, may proceed across the roadway within any marked or unmarked crosswalk.
+(2)
+Steady yellow indication.
+a.
+Vehicular traffic facing a steady circular yellow or yellow arrow signal is thereby
+warned that the related green movement is being terminated or that a red indication
+will be exhibited immediately thereafter.
+b.
+Pedestrians facing a steady circular yellow or yellow arrow signal, unless otherwise
+directed by a pedestrian-control signal as provided in section 16-255 , are thereby advised that there is insufficient time to cross the roadway before
+a red indication is shown, and no pedestrian shall then start to cross the roadway.
+(3)
+Steady red indication.
+a.
+Vehicular traffic facing a steady circular red signal alone shall stop at a clearly
+marked stop line but, if none, before entering the crosswalk on the near side of the
+intersection or, if none, then before entering the intersection and shall remain standing
+until an indication to proceed is shown; except that:
+1.
+Such vehicular traffic, after coming to a stop and yielding the right-of-way to pedestrians
+lawfully within an adjacent crosswalk and to other traffic lawfully using the intersection,
+may make a right turn, unless state or local road authorities within their respective
+jurisdictions have by ordinance or resolution prohibited any such right turn and have
+erected an official sign at each intersection where such right turn is prohibited;
+2.
+Such vehicular traffic, when proceeding on a one-way street and after coming to a
+stop, may make a left turn onto a one-way street upon which traffic is moving to the
+left of the driver. Such turn shall be made only after yielding the right-of-way to
+pedestrians and other traffic proceeding as directed. No turn shall be made pursuant
+to this subsection if local authorities have by ordinance prohibited any such left
+turn and erected a sign giving notice of any such prohibition at each intersection
+where such left turn is prohibited.
+b.
+Pedestrians facing a steady circular red signal alone shall not enter the roadway,
+unless otherwise directed by a pedestrian-control signal as provided in section 16-255 .
+c.
+Vehicular traffic facing a steady red arrow signal may not enter the intersection
+to make the movement indicated by such arrow and, unless entering the intersection
+to make such other movement as is permitted by other indications shown at the same
+time, shall stop at a clearly marked stop line but, if none, before entering the crosswalk
+on the near side of the intersection or, if none, then before entering the intersection
+and shall remain standing until an indication to make the movement indicated by such
+arrow is shown.
+d.
+Pedestrians facing a steady red arrow signal shall not enter the roadway, unless otherwise
+directed by a pedestrian-control signal as provided in section 16-255 .
+(b)
+Nonintersection signal. In the event an official traffic control signal is erected and maintained at a place
+other than an intersection, the provisions of this section shall be applicable except
+as to those provisions which by their nature can have no application. Any stop required
+shall be made at a sign or pavement marking indicating where the stop shall be made,
+but in the absence of any such sign or marking the stop shall be made at the signal.
+(c)
+Lane-use-control signals. Whenever lane-use-control signals are placed over the individual lanes of a street
+or highway, as declared in the traffic control manual adopted by the department of
+transportation, such signals shall indicate and apply to drivers of vehicles as follows:
+(1)
+Downward-pointing green arrow (steady). A driver facing such signal may drive in any lane over which said green arrow signal
+is located.
+(2)
+Yellow "X" (steady). A driver facing such signal is warned that the related green arrow movement is being
+terminated and shall vacate in a safe manner the lane over which said steady yellow
+signal is located to avoid if possible occupying that lane when the steady red "X"
+signal is exhibited.
+(3)
+Yellow "X" (flashing). A driver facing such signal may use the lane over which said flashing yellow signal
+is located for the purpose of making a left turn or a passing maneuver, using proper
+caution, but for no other purpose.
+(4)
+Red "X" (steady). A driver facing such signal shall not drive in any lane over which said red signal
+is exhibited.
+(Code 1994, § 11.01.604; Ord. No. 80, 1997, § 2, 12-16-1997)
+(a)
+Whenever an illuminated flashing red or yellow signal is used in conjunction with
+a traffic sign or a traffic signal or as a traffic beacon, it shall require obedience
+by vehicular traffic as follows:
+(1)
+When a red lens is illuminated with rapid intermittent flashes, drivers of vehicles
+shall stop at a clearly marked stop line but, if none, before entering the crosswalk
+on the near side of the intersection or, if none, then at the point nearest the intersecting
+roadway where the driver has a view of approaching traffic on the intersecting roadway
+before entering the intersection, and the right to proceed shall be subject to the
+rules applicable after making a stop at a stop sign.
+(2)
+When a yellow lens is illuminated with rapid intermittent flashes, drivers of vehicles
+may proceed past such signal and through the intersection or other hazardous location
+only with caution.
+(b)
+This section shall not apply at railroad grade crossings. Conduct of drivers of vehicles
+approaching railroad crossings shall be governed by the provisions of sections 16-225 to 16-227 .
+(Code 1994, § 11.01.605; Ord. No. 80, 1997, § 2, 12-16-1997)
+(a)
+No person shall place, maintain or display upon or in view of any highway any unauthorized
+sign, signal, marking or device which purports to be or is an imitation of or resembles
+an official traffic control device or railroad sign or signal, or which attempts to
+direct the movement of traffic, or which hides from view or interferes with the effectiveness
+of any official traffic control device or any railroad sign or signal, and no person
+shall place or maintain nor shall any public authority permit upon any highway any
+traffic sign or signal bearing thereon any commercial advertising.
+(b)
+Every such prohibited sign, signal or marking is declared to be a public nuisance,
+and the authority having jurisdiction over the highway is empowered to remove the
+same or cause it to be removed without notice.
+(Code 1994, § 11.01.606; Ord. No. 80, 1997, § 2, 12-16-1997)
+(a)
+No person shall, without lawful authority, attempt to or in fact alter, deface, injure,
+knock down, remove or interfere with the effective operation of any official traffic
+control device or any railroad sign or signal or any inscription, shield or insignia
+thereon or any other part thereof.
+(b)
+Using an electronic device, without lawful authority, that causes a traffic light
+to change shall constitute interference with a traffic control device for the purposes
+of this section.
+(Code 1994, § 11.01.607; Ord. No. 80, 1997, § 2, 12-16-1997; Ord. No. 74, 2004, §
+1, 12-21-2004)
+(a)
+Any stop or turn signal when required as provided by section 16-292 shall be given either by means of the hand and arm as provided by this section or
+by signal lamps or signal device of the type approved by the department of revenue,
+except as otherwise provided in subsection (b) of this section.
+(b)
+Any motor vehicle in use on a highway shall be equipped with, and the required signal
+shall be given by, signal lamps when the distance from the center of the top of the
+steering post to the left outside limit of the body, cab or load of such motor vehicle
+exceeds 24 inches or when the distance from the center of the top of the steering
+post to the rear limit of the body or load thereof exceeds 14 feet. The latter measurement
+shall apply to any single vehicle, also to any combination of vehicles.
+(Code 1994, § 11.01.608; Ord. No. 80, 1997, § 2, 12-16-1997)
+All signals required to be given by hand and arm shall be given from the left side
+of the vehicle in the following manner, and such signals shall indicate as follows:
+(1)
+Left-turn, hand and arm extended horizontally;
+(2)
+Right-turn, hand and arm extended upward;
+(3)
+Stop or decrease speed, hand and arm extended downward.
+(Code 1994, § 11.01.609; Ord. No. 80, 1997, § 2, 12-16-1997)
+No owner shall display upon any part of the owner's vehicle any official designation,
+sign or insignia of any public or quasi-public corporation or municipal, state or
+national department or governmental subdivision without authority of such agency or
+any insignia, badge, sign, emblem or distinctive mark of any organization or society
+of which he is not a bona fide member or otherwise authorized to display such sign
+or insignia.
+(Code 1994, § 11.01.610; Ord. No. 80, 1997, § 2, 12-16-1997)
+(a)
+Any paraplegic person or person with a disability when in motor vehicle distress is
+authorized to display by the side of such person's disabled vehicle a white flag of
+approximately 7½ inches in width and 13 inches in length, with the letter "D" thereon
+in red color with an irregular one-half-inch red border. Said flag shall be of reflective
+material so as to be readily discernible under darkened conditions, and said reflective
+material must be submitted to and approved by the department of transportation before
+the same is used.
+(b)
+Any person who is not a paraplegic person or a person with a disability who uses such
+flag as a signal or for any other purpose is guilty of a traffic offense.
+(Code 1994, § 11.01.611; Ord. No. 80, 1997, § 2, 12-16-1997)
+(a)
+Whenever a driver approaches an intersection and faces a traffic control signal which
+is inoperative or which remains on steady red or steady yellow during several time
+cycles, the rules controlling entrance to a through street or highway from a stop
+street or highway, as provided under section 16-222 , shall apply until a police officer assumes control of traffic or until normal operation
+is resumed. In the event that any traffic control signal at a place other than an
+intersection should cease to operate or should malfunction as set forth in this section,
+drivers may proceed through the inoperative or malfunctioning signal only with caution,
+as if the signal were one of flashing yellow.
+(b)
+Whenever a pedestrian faces a pedestrian-control signal as provided in section 16-255 which is inoperative or which remains on "Don't Walk" or "Wait" during several time
+cycles, such pedestrian shall not enter the roadway unless the pedestrian can do so
+safely and without interfering with any vehicular traffic.
+(Code 1994, § 11.01.612; Ord. No. 80, 1997, § 2, 12-16-1997)
+(a)
+If maintenance, repair or construction activities are occurring or will be occurring
+within four hours on a portion of a street or public right-of-way, the department
+of public works may designate such portion of the street or public right-of-way as
+a street maintenance, repair or construction zone. Any person who commits a speeding
+violation in a maintenance, repair or construction zone that is designated pursuant
+to the provisions of this section is subject to the increased penalties and surcharges
+imposed by section 16-560 (d).
+(b)
+The department of public works shall designate a maintenance, repair or construction
+zone by erecting or placing an appropriate sign in a conspicuous place before the
+area where the maintenance, repair or construction activity is taking place or will
+be taking place within four hours. Such sign shall notify the public that increased
+penalties for speeding violations are in effect in such zone. The department of public
+works shall erect or place a second sign after such zone indicating that the increased
+penalties for speeding violations are no longer in effect. A maintenance, repair or
+construction zone begins at the location of the sign indicating that the increased
+penalties are in effect and ends at the location of the sign indicating that the increased
+penalties are no longer in effect.
+(c)
+Signs used for designating the beginning and end of a maintenance, construction or
+repair zone shall conform to department of transportation requirements. The department
+of public works may display such signs on any fixed, variable or movable stand. The
+department of public works may place such a sign on a moving vehicle if required for
+certain department activities, including, but not limited to, street and highway painting
+work.
+(Code 1994, § 11.01.614; Ord. No. 29, 2003, § 1, 4-1-2003)

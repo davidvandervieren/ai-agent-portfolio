@@ -8,7 +8,7 @@ title: Sweetwater County 2015 Zoning Resolution
 doc_type: ordinance
 url: "https://www.sweetwatercountywy.gov/departments/land_use/development_codes.php"
 sha256: 50610d08e690f4dbc2ebf1770ab9107130d82ea717e8afed5fe8d4cd8a45eb6a
-fetched_at: "2026-09-05T05:14:18+00:00"
+fetched_at: "2026-09-09T21:15:51+00:00"
 ---
 
 <!-- heading-path: Search This Site -->

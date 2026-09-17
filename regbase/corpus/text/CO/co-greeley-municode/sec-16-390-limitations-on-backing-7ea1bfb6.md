@@ -1,0 +1,89 @@
+---
+source_id: co-greeley-municode
+jurisdiction: Greeley, CO
+state: CO
+county: Weld
+municipality: Greeley
+agency: City of Greeley
+title: Sec. 16-390. - Limitations on backing.
+doc_type: code
+citation_root: Title 16 - VEHICLES AND TRAFFIC > CHAPTER 1. - TRAFFIC CODE > ARTICLE XII. - TRAFFIC INFRACTIONS RELATED TO PARKING > Sec. 16-390. - Limitations on backing.
+url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTIICOOR_TIT16VETR_CH1TRCO_ARTXIITRINREPA_S16-390LIBA"
+sha256: a220295ae9ffa6a42d1b6d7fda8a00d2669f051d444199193f9dd3f5ebcceb49
+fetched_at: "2026-09-17T06:01:33+00:00"
+---
+
+Unless otherwise designated, violations of this chapter shall be designated traffic
+infractions and shall be punishable as set forth in chapter 9 of title 1 of this Code.
+(Code 1994, § 11.01.1200; Ord. No. 27, 2010, § 1, 7-20-2010; Ord. No. 09, 2011, §
+1, 2-15-2011; Ord. No. 12, 2019 , exh. E, § 11.01.1200, 3-19-2019)
+No person shall start a vehicle which vehicle that is stopped, standing or parked
+unless and until such movement can be made with reasonable safety.
+(Code 1994, § 11.01.1201; Ord. No. 80, 1997, § 2, 12-16-1997; Ord. No. 54, 2000, §
+1(part), 10-17-2000; Ord. No. 09, 2011, § 1, 2-15-2011; Ord. No. 12, 2019 , exh. E, § 11.01.1201, 3-19-2019)
+(a)
+No person driving or in charge of a motor vehicle shall permit it to stand unattended
+without first stopping the engine, locking the ignition, removing the key from the
+ignition and effectively setting the brake thereon, and, when standing upon any grade,
+said person shall turn the front wheels to the curb or side of the highway in such
+a manner as to prevent the vehicle from rolling onto the traveled way.
+(b)
+The use or operation of a remote starter system and adequate security measures is
+sufficient to comply with subsection (a) of this section.
+(c)
+As used in this section:
+(1)
+The term "adequate security measures" includes, but is not limited to:
+a.
+Using a vehicle that requires a key to put the vehicle into gear and move the vehicle;
+b.
+Keeping a keyless start fob out of proximity of the vehicle; or
+c.
+Employing steering wheel security devices.
+(2)
+The term "remote starter system" means a device installed in a motor vehicle that
+allows the engine of the vehicle to be started by remote or radio control.
+(d)
+No person shall allow an unattended motor vehicle to remain idling for more than 20
+minutes from the time the motor was started, by remote starter or other means. As
+used in this subsection (d), the term "unattended" means that the vehicle has not
+moved from its original position and has not been occupied by a person possessing
+a valid driver's license.
+(Code 1994, § 11.01.1206; Ord. No. 80, 1997, § 2, 12-16-1997; Ord. No. 54, 2000, §
+1(part), 10-17-2000; Ord. No. 31, 2017, § 1(exh. A), 8-1-2017; Ord. No. 12, 2019 , exh. E, § 11.01.1206, 3-19-2019)
+No person shall open the door of a motor vehicle on the side available to moving traffic
+unless and until it is reasonably safe to do so and can be done without interfering
+with the movement of other traffic; nor shall any person leave a door open on the
+side of a vehicle available to moving traffic for a period of time longer than necessary
+to load or unload passengers.
+(Code 1994, § 11.01.1207; Ord. No. 80, 1997, § 2, 12-16-1997; Ord. No. 54, 2000, §
+1(part), 10-17-2000; Ord. No. 12, 2019 , exh. E, § 11.01.1207, 3-19-2019)
+(a)
+The driver of a vehicle, whether on public property or private property which is used
+by the general public for parking purposes, shall not back the same unless such movement
+can be made with safety and without interfering with other traffic.
+(b)
+The driver of a vehicle shall not back the same upon any shoulder or roadway of any
+controlled-access highway.
+(Code 1994, § 11.01.1211; Ord. No. 80, 1997, § 2, 12-16-1997; Ord. No. 54, 2000, §
+1(part), 10-17-2000; Ord. No. 12, 2019 , exh. E, § 11.01.1211, 3-19-2019)
+(a)
+The city shall have the authority to impound vehicles as provided in article 18 of
+this title. In addition to circumstances set forth in article 18 of this title, the
+city may impound any vehicle and order the vehicle towed to an impound lot or the
+item, article or object removed when:
+(1)
+Any vehicle is found parked upon any public street or public right-of-way in violation
+of the parking restrictions or prohibitions contained on any official sign or signs;
+(2)
+When any vehicle obstructs or interferes with the free flow of traffic, street maintenance,
+or access of emergency vehicles or equipment;
+(3)
+When any item, article, object or vehicle which causes or tends to obstruct the free
+movement of pedestrians or other traffic upon a sidewalk; or
+(4)
+When a motor vehicle is determined to be abandoned as that term is defined in section 16-699 .
+(b)
+Nothing in this section shall prohibit the towing of a vehicle to an impound lot pursuant
+to another section of this Code.
+(Code 1994, § 11.01.1230; Ord. No. 09, 2011, § 1, 2-15-2011; Ord. No. 12, 2019 , exh. E, § 11.01.1230, 3-19-2019)

@@ -7,8 +7,8 @@ agency: Carbon County Department of Planning and Zoning
 title: Carbon County Zoning Resolution of 2015 (amended 2020)
 doc_type: ordinance
 url: "https://www.carboncountywy.gov/1111/Zoning-Resolution-and-Map"
-sha256: 2f913496eebc71acc0b32bda068225a6ffdf2ac1112bbaaa39c419d03590f428
-fetched_at: "2026-09-05T05:13:55+00:00"
+sha256: 9501aafbedb194ca2d8de62f9b6518e7e6bd2d0da7e3d92de0ae493efd4fa089
+fetched_at: "2026-09-09T21:15:53+00:00"
 ---
 
 <!-- heading-path: Zoning Resolution and Map -->

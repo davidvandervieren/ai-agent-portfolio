@@ -8,7 +8,7 @@ doc_type: application_packet
 citation_root: Utah Code 72-7-102
 url: "https://www.udot.utah.gov/connect/business/permits/encroachment-permits/"
 sha256: 6d63b62579f53687b045a6b13d14785e6dfad19f1703ca4e8030325386a10bc6
-fetched_at: "2026-09-05T05:13:31+00:00"
+fetched_at: "2026-09-09T21:25:54+00:00"
 ---
 
 <!-- heading-path: Encroachment Permits -->

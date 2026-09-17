@@ -1,0 +1,171 @@
+---
+source_id: co-greeley-municode
+jurisdiction: Greeley, CO
+state: CO
+county: Weld
+municipality: Greeley
+agency: City of Greeley
+title: Sec. 6-282. - Consolidation of returns.
+doc_type: code
+citation_root: Title 6 - REVENUE AND FINANCE > CHAPTER 2. - PUBLIC ACCOMMODATIONS TAX > Sec. 6-282. - Consolidation of returns.
+url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTIICOOR_TIT6REFI_CH2PUACTA_S6-282CORE"
+sha256: d97aab59e4801bb90631bebad03403f37a88993d1fba4bc90f0fab97e13ae601
+fetched_at: "2026-09-17T05:07:01+00:00"
+---
+
+It is declared to be the legislative intent of the city that, for the purpose of this
+chapter, every person who purchases lodging in the city is exercising a taxable privilege.
+(Code 1994, § 4.08.005; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+This chapter shall be known as the "Greeley Lodger's Tax."
+(Code 1994, § 4.08.010; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+The following words, terms and phrases, when used in this chapter, shall have the
+meanings ascribed to them in this section, except where the context clearly indicates
+a different meaning:
+Gross taxable sales means the total amount received in money, credits, property or other valuable consideration
+from sales and purchases of lodging, subject to the tax imposed in this chapter.
+Lodging means the transaction of furnishing rooms or accommodations by any person, partnership,
+association, corporation, estate, receiver, trustee, assignee, lessee or any person
+acting in a representative capacity or any other combination of individuals of whatever
+name known to a person who, for a consideration, uses, possesses or has the right
+to use or possess any room in a hotel, apartment, hotel, lodginghouse, motor hotel,
+guest house, guest ranch, mobile home, auto camps, trailer courts and parks, under
+any concession, permit, right of access, license to use or other agreement, or otherwise.
+Person means an individual, partnership, society, club, association, joint stock company,
+corporation, estate, receiver, trustee, assignee, referee or any other person acting
+in a fiduciary or representative capacity, whether appointed by a court or otherwise
+and any other group or combination of individuals acting as a unit, including the
+United States of America, the state and any political subdivision thereof.
+Purchase or sale means the acquisition for a price by any person of the taxable services of lodging
+within the city.
+Purchaser means any person to whom the taxable service of lodging has been rendered.
+Tax means either the tax payable by the purchaser or the aggregate amount of taxes due
+from a vendor during the period for which the vendor is required to report collections
+under this chapter.
+Taxpayer means any person obligated to account to the finance director for taxes collected
+or to be collected under the terms of this chapter.
+Vendor means a person making sales to a purchaser in the city of the taxable service of
+lodging.
+(Code 1994, § 4.08.015; Ord. No. 56, 1994, § 1, 12-20-1994; Ord. No. 61, 1986, § 1(part),
+10-21-1986)
+(a)
+There is levied a tax in the amount of three percent of the purchase price paid or
+charged for lodging within the city.
+(b)
+In all cases, the purchase price paid or charged shall exclude the sale of any goods,
+services or commodities otherwise taxed under section 6-90 , except that the lodging tax provided for in this chapter shall be in addition to
+the sales tax levied pursuant to section 6-90 .
+(Code 1994, § 4.08.020; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+The following sales and purchases are exempt from the tax imposed by this chapter:
+(1)
+All sales and purchases of commodities and services under the definition of the term
+"lodging" in section 6-277 to any occupant who is a resident of any hotel, apartment house, guest ranch, mobile
+home, auto camp, trailer court or park and who enters into or has entered into a written
+agreement for occupancy of a room or rooms or accommodations for a period of at least
+30 consecutive days;
+(2)
+All sales to the United States government, to the state, its departments or institutions
+and the political subdivisions thereof, in their governmental capacities only; and
+all sales to the city and any department thereof;
+(3)
+All sales to religious, charitable, and eleemosynary corporations, in the conduct
+of their regular religious, charitable and eleemosynary functions and activities.
+(Code 1994, § 4.08.025; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+(a)
+Every vendor making sales to a purchaser in the city, which sales are taxable under
+the provisions of this chapter, at the time of making such sales, is required to collect
+the tax imposed by section 6-278 (a) from the purchaser.
+(b)
+The tax to be collected as provided by subsection (a) of this section shall be stated
+and charged separately from the sale price on any record thereof at the time when
+the sale is made or at the time when evidence of the sale is issued or employed by
+the vendor, provided that when added, such tax shall constitute a part of such purchase
+price or charge and shall be a debt from the purchaser to the vendor until paid and
+shall be recoverable at law in the same manner as other debts. The tax shall be paid
+by the purchaser to the vendor, as trustee for and on account of the city, and the
+vendor shall be liable for the collection therefor and on account of the city.
+(c)
+Taxes paid on the amount of gross sales which are represented by accounts which are
+found to be worthless and are actually and properly charged off as bad debts for the
+purpose of the income tax imposed by the laws of the state may be credited upon a
+subsequent payment of the tax herein provided; but if any such accounts are thereafter
+collected by the taxpayer, a tax shall be paid upon the amount so collected.
+(Code 1994, § 4.08.030; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+(a)
+Amount. Every vendor shall add the tax imposed by section 6-278 (a) to the purchase price or charge of all lodging within the city.
+(b)
+Returns. Every vendor shall, before the 20th day of each month thereafter, make a return to
+the director of finance for the preceding calendar month, and remit to the director
+of finance, simultaneously therewith the total amount due the city. The monthly returns
+of the vendor as required hereunder shall be made in such manner and upon such forms
+as the director of finance may prescribe.
+(c)
+Accounting practice. If the accounting methods regularly employed by the vendor in the transaction of
+business, or other conditions, are such that the returns aforesaid made on a calendar-month
+basis will impose unnecessary hardship, the director of finance may, upon request
+of the vendor, accept returns at such intervals as will, in the director's opinion,
+better suit the convenience of the vendor and will not jeopardize the collection of
+the tax.
+(Code 1994, § 4.08.035; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+A vendor doing business in two or more places or locations, whether in or without
+the city and collecting taxes under this chapter, may file one return covering all
+such places or locations, when accompanied by a supplemental report showing the gross
+and net taxable sales and taxes collected thereon for each such place or location.
+(Code 1994, § 4.08.040; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+The procedures set out as in chapter 1 of this title, relating to the collection of
+retail sales and use tax and taxpayer appeals, shall be applicable to the lodger's
+tax unless they conflict with the provisions of this chapter.
+(Code 1994, § 4.08.045; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+The city council, hoping to ensure economic viability for the city by encouraging
+conventions and visitors to come to the city, creates a special revenue fund to be
+known as the Conventions and Visitors Fund, said fund to receive all funds imposed
+by this chapter and to be appropriated in the support of convention and visitor activity.
+(Code 1994, § 4.08.050; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+(a)
+It shall be unlawful for any person to engage in the business of furnishing lodging,
+without having first obtained a license therefor under this chapter.
+(b)
+No license shall be required of any person engaged exclusively in the business of
+furnishing commodities which are exempt from taxation under this chapter.
+(c)
+In instances in which the business of furnishing lodging is conducted or transacted
+at two or more separate locations by one person, separate licenses for each location
+of business shall be required.
+(Code 1994, § 4.08.055; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+Each license issued under this chapter shall be issued only upon application, stating
+the name and address of the person desiring such license, including the street number
+of the business and such other facts as may be reasonably required by the city clerk.
+(Code 1994, § 4.08.060; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+Each license issued under this chapter shall be issued without fee by the city clerk.
+(Code 1994, § 4.08.065; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+No license shall be issued by the city clerk unless and until approved by the director
+of finance or the duly authorized representative thereof.
+(Code 1994, § 4.08.070; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+Each license issued under this chapter shall be numbered and shall show the name,
+mailing address and place of business of the licensee.
+(Code 1994, § 4.08.075; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+Each license issued under this chapter shall be posted in a conspicuous place in the
+place of business for which it is issued.
+(Code 1994, § 4.08.080; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+No license issued under this chapter shall be transferable.
+(Code 1994, § 4.08.085; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+Each license shall be renewed automatically on January 1 of each year, unless revoked,
+if the licensee remains engaged in the business of furnishing lodging or liable to
+account for the tax described herein.
+(Code 1994, § 4.08.090; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+The finance director may, on reasonable notice and after a hearing, revoke the license
+of any person found by the director of finance, or his duly authorized representative,
+to have violated any provisions of this chapter or chapter 1 of this title.
+(Code 1994, § 4.08.095; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+Any finding and order of the director of finance revoking the license of any person
+under this chapter shall constitute a final administrative action.
+(Code 1994, § 4.08.100; Ord. No. 61, 1986, § 1(part), 10-21-1986)
+The following penalties, herewith set forth in full, shall apply to this chapter:
+(1)
+It is unlawful for any person to violate any of the provisions stated or adopted in
+this chapter.
+(2)
+Every person convicted of a violation of any provisions stated or adopted in this
+chapter shall be punished as provided in chapter 9 of title 1 of this Code.
+(3)
+Each day that a violation exists shall constitute a separate offense.
+(Code 1994, § 4.08.110; Ord. No. 61, 1986, § 1(part), 10-21-1986)

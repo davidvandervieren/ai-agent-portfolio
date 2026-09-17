@@ -7,7 +7,7 @@ title: Application for Permanent Change of Water
 doc_type: form
 url: "https://www.waterrights.utah.gov/wrinfo/forms/PermanentChangeApplication.pdf"
 sha256: 97d2df478088d9df11a7f6505a56c5a236989cc3c9849e0115be83de36721180
-fetched_at: "2026-09-05T05:13:35+00:00"
+fetched_at: "2026-09-09T21:25:42+00:00"
 ---
 
 <!-- page: 1 -->

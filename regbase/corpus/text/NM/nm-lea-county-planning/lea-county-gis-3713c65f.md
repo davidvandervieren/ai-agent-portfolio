@@ -7,8 +7,8 @@ agency: Lea County Planning Department
 title: Lea County GIS
 doc_type: gis
 url: "https://www.leacounty.gov/179/Geographic-Information-System---GIS"
-sha256: b17ea0c3627a95530b06855a0770f447c920197c7a6982af83fb232b04fbfb37
-fetched_at: "2026-09-05T05:23:40+00:00"
+sha256: 22e0a40cb48a279630da11a1dbc05af32bad808de27a366db974c3a2f207d02f
+fetched_at: "2026-09-09T21:20:12+00:00"
 ---
 
 <!-- heading-path: Geographic Information System - GIS -->

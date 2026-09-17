@@ -8,7 +8,7 @@ doc_type: regulation
 citation_root: 16 TAC Ch. 1-9
 url: "https://www.rrc.texas.gov/general-counsel/rules/current-rules/"
 sha256: 525dd3b4d4769d1bdbe7886b4addfd4eba14630bfd3bd409516829426c2b2a66
-fetched_at: "2026-09-05T05:13:08+00:00"
+fetched_at: "2026-09-09T21:10:18+00:00"
 ---
 
 <!-- heading-path: Current Rules -->

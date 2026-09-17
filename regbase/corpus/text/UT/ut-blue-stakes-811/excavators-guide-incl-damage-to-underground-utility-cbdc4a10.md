@@ -7,7 +7,7 @@ title: Excavators' Guide (incl. damage to underground utility)
 doc_type: guidance
 url: "https://www.bluestakes.org/pdfs/ExcavatorsGuide.pdf"
 sha256: ad9de6b5f570eeefa6a06f578c6d2b29a9a9a98b350bde65c7cf446cbd162af6
-fetched_at: "2026-09-05T05:13:15+00:00"
+fetched_at: "2026-09-09T21:25:47+00:00"
 ---
 
 <!-- page: 1 -->

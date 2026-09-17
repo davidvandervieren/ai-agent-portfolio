@@ -9,7 +9,7 @@ doc_type: ordinance
 citation_root: Campbell County Ch. 7 Zoning Regulations
 url: "https://www.campbellcountywy.gov/DocumentCenter/View/474/Chapter-Seven-Rules---Zoning-Regulations"
 sha256: 56c1ce9969434e9de9701c8a7dc2b70bb77db10b558432e30af7eb5f849b6eb8
-fetched_at: "2026-09-05T05:13:47+00:00"
+fetched_at: "2026-09-09T21:15:38+00:00"
 ---
 
 <!-- page: 1 -->

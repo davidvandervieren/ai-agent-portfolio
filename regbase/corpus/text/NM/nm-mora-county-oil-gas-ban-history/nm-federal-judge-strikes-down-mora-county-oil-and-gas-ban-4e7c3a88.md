@@ -7,8 +7,8 @@ agency: Mora County Commission
 title: NM federal judge strikes down Mora County oil and gas ban
 doc_type: guidance
 url: "https://agrilife.org/texasaglaw/2015/02/11/nm-federal-judge-strikes-down-mora-county-oil-and-gas-ban/"
-sha256: f123e24d5746353248d21f2680505aca3bb7a333ea314381f21c8f15312b8856
-fetched_at: "2026-09-05T05:19:04+00:00"
+sha256: 0219a0bcf3a88352f4e7dd8c13336fe272ffbd12571ee70af6ffbb362d3d00ad
+fetched_at: "2026-09-09T21:20:28+00:00"
 ---
 
 Recently, federal Judge James Browning, sitting on the United States District Court for the District of New Mexico, invalidated a law passed by Mora County Commissioners that prohibited oil and gas production in the county. The ban, the first of its kind in the nation, raised questions regarding the constitutionality of prohibiting the development of mineral estates. Judge Browning’s opinion in SWEPI, LP v. Mora County, New Mexico marks the first federal decision related to local drilling bans, which are being seen across the country.

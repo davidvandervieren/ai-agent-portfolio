@@ -1,0 +1,127 @@
+---
+source_id: co-greeley-municode
+jurisdiction: Greeley, CO
+state: CO
+county: Weld
+municipality: Greeley
+agency: City of Greeley
+title: Sec. 14-224. - Curfew hours for minors; exceptions; affirmative defenses.
+doc_type: code
+citation_root: Title 14 - CRIMINAL CONDUCT AND OFFENSES > CHAPTER 7. - YOUTH CURFEW AND PARENTAL-GUARDIAN RESPONSIBILITIES > Sec. 14-224. - Curfew hours for minors; exceptions; affirmative defenses.
+url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTIICOOR_TIT14CRCOOF_CH7YOCUPAARRE_S14-224CUHOMIEXAFDE"
+sha256: ea033a0fa3ff12d0dbbb81969d4b3b9e6099274b3284f8893610165e9f414f94
+fetched_at: "2026-09-17T05:20:02+00:00"
+---
+
+The following words, terms and phrases, when used in this chapter, shall have the
+meanings ascribed to them in this section, except where the context clearly indicates
+a different meaning:
+Emergency means an unforeseen combination of circumstances or the resulting state that calls
+for immediate action. The term "emergency" includes, but is not limited to, a fire,
+a natural disaster, an automobile accident, or any situation requiring immediate action
+to prevent serious bodily injury or loss of life.
+Establishment means any privately owned place of business operated for a profit to which the public
+is invited but is not limited to, any place of amusement or entertainment.
+Guardian means:
+(1)
+A person who, under court order, is the guardian of the person of a minor; or
+(2)
+A public or private agency with whom a minor has been placed by a court.
+Minor means any person under 18 years of age.
+Parent means a person who is:
+(1)
+A natural parent, adoptive parent or stepparent of another person; or
+(2)
+At least 18 years of age and authorized by a parent or guardian to have the care and
+custody of a minor.
+Public place means any place to which the public or a substantial group of the public has access
+and includes, but is not limited to, streets, highways and the common areas of hospitals,
+apartment houses, office buildings, transport facilities and shops.
+Remain means to:
+(1)
+Linger or stay; or
+(2)
+Fail to leave premises when requested to do so by a police officer, owner, operator
+or other person in control of the premises.
+(Code 1994, § 10.25.010; Ord. No. 22, 2008, § 1, 7-1-2008)
+(a)
+It is unlawful for any minor who has not reached his 18th birthday to be or remain
+upon any streets, alleys or other public places within the city, or to remain in any
+establishment open to the public generally within the city, between the hours of 11:00
+p.m. and 5:00 a.m. Sunday through Thursday, and 12:00 midnight and 5:00 a.m. on Friday
+and Saturday, except:
+(1)
+When accompanied by a parent, guardian or other person having legal custody of such
+minor.
+(2)
+For lawful employment or for one-half hour before or after such employment when commuting
+directly to or from such employment without any detour or stop.
+(3)
+When accompanied by a person who has reached his 18th birthday and who has in his
+possession the written and signed consent of the parent, guardian or other person
+having legal custody of the minor.
+(4)
+When traveling directly to or from an officially sanctioned school, community or civic
+function or activity without any detour or stop, when the minor had the consent to
+attend such activity from a parent or guardian who had the legal care or custody of
+such juvenile.
+(5)
+When engaged in an activity necessary to assist in an emergency involving a person's
+illness, injury or death.
+(6)
+When traveling directly to or from the minor's home for a religious activity or purpose,
+without any detour or stop, when the minor had the consent to attend such activity
+from a parent or guardian who had the legal care or custody of such juvenile.
+(b)
+It shall be an affirmative defense to charges under this section that the minor:
+(1)
+Was involved in an emergency;
+(2)
+Was on the sidewalk abutting the minor's residence or abutting the residence of a
+next-door neighbor if the neighbor did not complain to the police department about
+the minor's presence;
+(3)
+Has been legally emancipated by the courts; or
+(4)
+Is currently enrolled as a college student.
+(c)
+At any trial for a violation of this section at which the defendant raises an affirmative
+defense set forth in subsection (b) of this section, the defendant shall have the
+burden of proving every element of the affirmative defense.
+(d)
+Violations designated.
+(1)
+The first violation of this chapter shall be deemed a misdemeanor infraction and shall
+be punished pursuant to chapter 9 of title 1 of this Code.
+(2)
+Any second or subsequent violation of this chapter within 365 days of the first violation
+shall be deemed a misdemeanor offense and shall be punished pursuant to chapter 9
+of title 1 of this Code.
+(Code 1994, § 10.25.020; Ord. No. 22, 2008, § 1, 7-1-2008; Ord. No. 50, 2011, § 1,
+12-20-2011)
+(a)
+It is unlawful for any parent, guardian or other person having the legal care or custody
+of any minor falling under the terms of this chapter to knowingly allow or permit
+such minor to violate any of the terms or provisions of section 14-223 or 14-224 .
+(1)
+The term knowingly, as used herein, means knowledge which a parent, guardian or other
+person having legal custody of a person who has not reached his 18th birthday should
+reasonably be expected to have concerning the whereabouts of said minor.
+(2)
+It shall be an affirmative defense to charges under this section that the minor has
+been determined by a court prior to the date of the alleged violation to be beyond
+the control of the parent, guardian or other person having the legal custody of said
+minor.
+(3)
+At any trial for a violation of this section at which the defendant raises an affirmative
+defense set forth in subsection (a)(2) of this section, the defendant shall have the
+burden of proving every element of the affirmative defense.
+(b)
+The first violation of this chapter shall be deemed a misdemeanor infraction and shall
+be punished pursuant to chapter 9 of title 1 of this Code.
+(c)
+Any second or subsequent violation of this chapter within 365 days of the first violation
+shall be deemed a misdemeanor offense and shall be punished pursuant to chapter 9
+of title 1 of this Code.
+(Code 1994, § 10.25.030; Ord. No. 22, 2008, § 1, 7-1-2008; Ord. No. 36, 2009, §§ 1,
+2, 8-18-2009; Ord. No. 50, 2011, § 1, 12-20-2011)

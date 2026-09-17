@@ -7,7 +7,7 @@ title: "DAQ Permitting document viewer (example: Kinder Morgan Altamont LLC comp
 doc_type: permit_record
 url: "https://daqpermitting.utah.gov/DocViewer?IntDocID=159121&contentType=application%2Fpdf"
 sha256: 1c4967e414c43319cc8f35105d10e8de45aeca46832c94f96bbc4b7332423f18
-fetched_at: "2026-09-05T05:42:42+00:00"
+fetched_at: "2026-09-09T21:24:57+00:00"
 ---
 
 <!-- page: 1 -->

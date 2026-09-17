@@ -6,8 +6,8 @@ agency: Utah State Legislature / Office of Property Rights Ombudsman
 title: Utah's Land Use, Development, and Management Act (LUDMA) — explainer
 doc_type: guidance
 url: "https://propertyrights.utah.gov/find-the-law/legal-topics/utah-land-use-development-and-management-act-ludma/"
-sha256: 1eadc81a15d18a8957971542cf2e63f706120015ceff69b8ccdd8ab1f8be7652
-fetched_at: "2026-09-05T05:13:28+00:00"
+sha256: e21dbc49735668e1f60c6c53d5ba9f37bfcfbea12cf99507db71cbef347e7d20
+fetched_at: "2026-09-09T21:25:59+00:00"
 ---
 
 <!-- heading-path: Utah's Land Use, Development, and Management Act (LUDMA) -->

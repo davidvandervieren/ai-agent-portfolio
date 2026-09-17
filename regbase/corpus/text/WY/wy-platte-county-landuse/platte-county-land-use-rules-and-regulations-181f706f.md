@@ -8,7 +8,7 @@ title: Platte County Land Use Rules and Regulations
 doc_type: regulation
 url: "https://www.plattecountywyoming.com/media/Planning%20&%20Zoning/RulesRegs/Regulations.pdf"
 sha256: a6533e8ce6059d8c6f4cb838d62d435c3a1605ccde9571163247a2b5e8aa5d80
-fetched_at: "2026-09-05T05:14:13+00:00"
+fetched_at: "2026-09-09T21:16:15+00:00"
 ---
 
 <!-- page: 1 -->

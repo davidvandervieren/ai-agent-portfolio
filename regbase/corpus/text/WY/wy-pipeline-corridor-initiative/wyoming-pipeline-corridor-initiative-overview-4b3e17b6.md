@@ -6,8 +6,8 @@ agency: Wyoming Energy Authority (WEA) - successor to the Wyoming Pipeline Autho
 title: Wyoming Pipeline Corridor Initiative overview
 doc_type: guidance
 url: "https://www.eoriwyoming.org/co2-initiative/wyoming-pipeline-corridor-initiative"
-sha256: ead75173b9e868c4a25187dc335af92a92e4a34990210740c94438c97ebc7cd3
-fetched_at: "2026-09-05T05:14:08+00:00"
+sha256: 87e66e79ae09e042bca80d6d412a35e7d79fad631398ed03840e12cb24a21e19
+fetched_at: "2026-09-09T21:15:30+00:00"
 ---
 
 <!-- heading-path: Resources -->

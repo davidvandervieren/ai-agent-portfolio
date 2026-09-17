@@ -7,7 +7,7 @@ title: Sovereign Lands | Forestry, Fire & State Lands
 doc_type: guidance
 url: "https://ffsl.utah.gov/state-lands/sovereign-lands/"
 sha256: 57dcec52abf4b48225e55edbb1d780f70acbdb0c851e612a9d74d1d0a72cecf9
-fetched_at: "2026-09-05T05:13:28+00:00"
+fetched_at: "2026-09-09T21:25:37+00:00"
 ---
 
 <!-- heading-path: Sovereign Lands -->

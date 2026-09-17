@@ -7,7 +7,7 @@ title: Utah State Pipeline Safety Regulatory Fact Sheet (PHMSA)
 doc_type: guidance
 url: "https://primis.phmsa.dot.gov/comm/FactSheets/States/UT_State_PL_Safety_Regulatory_Fact_Sheet.htm"
 sha256: 4432eff1cc36b4798132674c14bef59402494be5f5f9b07286a7c8fe3f1dff52
-fetched_at: "2026-09-05T05:13:26+00:00"
+fetched_at: "2026-09-09T21:25:58+00:00"
 ---
 
 <!-- heading-path: Pipeline Safety Stakeholder Communications -->

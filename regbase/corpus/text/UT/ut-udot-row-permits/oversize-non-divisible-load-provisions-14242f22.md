@@ -6,8 +6,8 @@ agency: Utah Department of Transportation (UDOT)
 title: Oversize Non-Divisible Load Provisions
 doc_type: guidance
 url: "https://www.udot.utah.gov/connect/business/motor-carriers/size-weight-permitting/oversize-overweight-provisions/oversize-non-divisible-load-provisions/"
-sha256: d4a0a8a9ef7a1b77c241f10b8e18c4f7f5403c0e48e3e738bd6bea51904f1c5c
-fetched_at: "2026-09-05T05:13:31+00:00"
+sha256: f9fb48d756ee7b66c3935fba091e55e1daca2392bba1220e0fe43b8b31944725
+fetched_at: "2026-09-09T21:25:55+00:00"
 ---
 
 <!-- heading-path: Oversize Non-Divisible Load Provisions -->

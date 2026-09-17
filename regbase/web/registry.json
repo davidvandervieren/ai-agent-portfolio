@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T16:24:53+00:00",
+ "generated_at": "2026-09-09T20:56:09+00:00",
  "counts": {
   "sources": 383,
   "documents": 968,
@@ -177,7 +177,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-cdphe-apcd",
@@ -260,7 +260,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-cdphe-wqcd",
@@ -348,7 +348,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-dwr",
@@ -406,7 +406,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-state-land-board",
@@ -450,7 +450,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-cdot-utility-permits",
@@ -511,7 +511,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-puc-pipeline-safety",
@@ -571,7 +571,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-811",
@@ -623,7 +623,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-cpw-energy-land-use",
@@ -677,7 +677,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-shpo-history-colorado",
@@ -736,7 +736,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-cdle-ops",
@@ -792,7 +792,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-weld-county-landuse",
@@ -851,7 +851,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-adams-county-landuse",
@@ -916,7 +916,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-arapahoe-county-landuse",
@@ -978,7 +978,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-boulder-county-landuse",
@@ -1041,7 +1041,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-broomfield-municode",
@@ -1091,7 +1091,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-larimer-county-landuse",
@@ -1165,7 +1165,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-garfield-county-ludc",
@@ -1230,7 +1230,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-rio-blanco-county-landuse",
@@ -1292,7 +1292,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-mesa-county-ldc",
@@ -1337,7 +1337,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-la-plata-county-code",
@@ -1394,7 +1394,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-las-animas-county-landuse",
@@ -1444,7 +1444,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-yuma-county-landuse",
@@ -1480,7 +1480,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-washington-county-landuse",
@@ -1516,7 +1516,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-logan-county-landuse",
@@ -1569,7 +1569,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-morgan-county-zoning",
@@ -1625,7 +1625,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-elbert-county-zoning",
@@ -1667,7 +1667,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-jackson-county-zoning",
@@ -1710,7 +1710,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-moffat-county-oilgas",
@@ -1759,7 +1759,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-cheyenne-county-zoning",
@@ -1809,7 +1809,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-kit-carson-county-landuse",
@@ -1852,7 +1852,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-lincoln-county-zoning",
@@ -1896,7 +1896,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-pueblo-county-udc",
@@ -1940,7 +1940,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-huerfano-county-landuse",
@@ -1982,7 +1982,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-archuleta-county-landuse",
@@ -2025,7 +2025,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-montezuma-county-landuse",
@@ -2061,7 +2061,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-delta-county-landuse",
@@ -2099,7 +2099,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-gunnison-county-landuse",
@@ -2141,7 +2141,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-douglas-county-zoning",
@@ -2211,7 +2211,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-el-paso-county-ldc",
@@ -2261,7 +2261,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-denver-drmc",
@@ -2303,7 +2303,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-greeley-municode",
@@ -2349,7 +2349,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-erie-municode",
@@ -2400,7 +2400,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-aurora-municode",
@@ -2461,7 +2461,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-firestone-municode",
@@ -2505,7 +2505,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-frederick-municode",
@@ -2543,7 +2543,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-dacono-municode",
@@ -2587,7 +2587,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-fort-lupton-municode",
@@ -2630,7 +2630,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-brighton-municode",
@@ -2668,7 +2668,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-longmont-municode",
@@ -2713,7 +2713,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-windsor-municode",
@@ -2756,7 +2756,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-loveland-municode",
@@ -2794,7 +2794,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-timnath-municode",
@@ -2830,7 +2830,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-johnstown-municode",
@@ -2868,7 +2868,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-milliken-municode",
@@ -2906,7 +2906,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-platteville-municode",
@@ -2944,7 +2944,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-berthoud-municode",
@@ -2994,7 +2994,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-superior-municode",
@@ -3032,7 +3032,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-lafayette-municode",
@@ -3070,7 +3070,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-louisville-municode",
@@ -3108,7 +3108,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-thornton-municode",
@@ -3152,7 +3152,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-northglenn-municode",
@@ -3190,7 +3190,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-commerce-city-municode",
@@ -3228,7 +3228,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-rifle-municode",
@@ -3272,7 +3272,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-parachute-municode",
@@ -3310,7 +3310,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-silt-municode",
@@ -3354,7 +3354,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-new-castle-municode",
@@ -3397,7 +3397,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-durango-municode",
@@ -3440,7 +3440,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-bayfield-municode",
@@ -3477,7 +3477,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-trinidad-municode",
@@ -3520,7 +3520,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-grand-junction-codepublishing",
@@ -3558,7 +3558,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-fruita-municode",
@@ -3595,7 +3595,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-fort-collins-municode",
@@ -3651,7 +3651,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-evans-municode",
@@ -3689,7 +3689,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-kersey-municode",
@@ -3726,7 +3726,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-eaton-municode",
@@ -3764,7 +3764,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-ault-municode",
@@ -3801,7 +3801,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-severance-municode",
@@ -3845,7 +3845,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "co-mead-municode",
@@ -3889,7 +3889,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/co.yaml"
+   "source_file": "sources\\co.yaml"
   },
   {
    "id": "phmsa-pipeline-safety-cfr-190-195-199",
@@ -3996,7 +3996,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "phmsa-integrity-management-hca-mca",
@@ -4050,7 +4050,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "phmsa-national-registry-opid",
@@ -4099,7 +4099,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "phmsa-incident-reporting",
@@ -4169,7 +4169,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "phmsa-gas-gathering-lines-rule",
@@ -4222,7 +4222,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "ferc-nga-section7c-certificate",
@@ -4283,7 +4283,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "ferc-blanket-certificate-part157",
@@ -4344,7 +4344,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "ferc-form2-3q-financial-reporting",
@@ -4405,7 +4405,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "ferc-ngpa-section311-gathering-exemption",
@@ -4459,7 +4459,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "epa-uic-class2-overview-144-146-147",
@@ -4546,7 +4546,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "epa-uic-class2-texas-rrc",
@@ -4593,7 +4593,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "epa-uic-class2-newmexico-ocd",
@@ -4639,7 +4639,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "epa-uic-class2-colorado-ecmc",
@@ -4685,7 +4685,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "epa-uic-class2-wyoming-wogcc",
@@ -4725,7 +4725,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "epa-uic-class2-utah-dogm",
@@ -4765,7 +4765,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "epa-nsps-oooo-family",
@@ -4821,7 +4821,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "epa-eg-ooooc-existing-sources",
@@ -4865,7 +4865,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "epa-neshap-hh-hhh",
@@ -4928,7 +4928,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "epa-ghgrp-subpart-w",
@@ -4986,7 +4986,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "epa-caa-title-v-nsr-psd",
@@ -5060,7 +5060,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "epa-caa-synthetic-minor-general-permits",
@@ -5102,7 +5102,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "usace-cwa-404-permitting",
@@ -5190,7 +5190,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "epa-cwa-401-water-quality-certification",
@@ -5240,7 +5240,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "epa-npdes-construction-general-permit",
@@ -5304,7 +5304,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "epa-spcc-frp-40cfr112",
@@ -5373,7 +5373,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "usfws-esa-section7-10-ipac-consultation",
@@ -5453,7 +5453,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "usfws-mbta-bgepa-bird-protections",
@@ -5522,7 +5522,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "blm-row-form2800-14-flpma-title-v",
@@ -5584,7 +5584,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "blm-apd-sundry-3160-3-3160-5",
@@ -5648,7 +5648,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "blm-nepa-eplanning",
@@ -5705,7 +5705,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "bia-tribal-row-25cfr169",
@@ -5768,7 +5768,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "achp-nhpa-section106-shpo-thpo",
@@ -5827,7 +5827,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "osha-epa-process-safety-psm-rmp",
@@ -5895,7 +5895,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "epcra-tier2-reporting-302-311-312-313-tri",
@@ -5970,7 +5970,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "faa-form-7460-1-obstruction-evaluation",
@@ -6022,7 +6022,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "federal-gis-reference-layers-nfhl-nwi",
@@ -6085,7 +6085,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "usfws-species-status-lpc-dsl-sage-grouse",
@@ -6149,7 +6149,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/federal.yaml"
+   "source_file": "sources\\federal.yaml"
   },
   {
    "id": "co-cdphe-reg3-text",
@@ -6195,7 +6195,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "co-cdphe-reg7-text",
@@ -6249,7 +6249,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "co-cdphe-reg61-text",
@@ -6303,7 +6303,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "co-cdphe-gp-general-permits",
@@ -6360,7 +6360,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "co-cdot-forms-confirmed",
@@ -6434,7 +6434,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "co-arapahoe-county-1041-regs",
@@ -6490,7 +6490,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "ut-vernal-city-code",
@@ -6527,7 +6527,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "ut-roosevelt-city-code",
@@ -6571,7 +6571,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "ut-naples-city-code",
@@ -6616,7 +6616,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "ut-helper-city-code",
@@ -6652,7 +6652,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "ut-moab-city-code",
@@ -6695,7 +6695,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "ut-price-city-code",
@@ -6731,7 +6731,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "ut-myton-city-code",
@@ -6772,7 +6772,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "ut-emery-county-zoning-maps",
@@ -6815,7 +6815,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "ut-huntington-city-code",
@@ -6875,7 +6875,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "ut-grand-county-luc",
@@ -6946,7 +6946,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "ut-san-juan-county-ludmo",
@@ -6998,7 +6998,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "ut-summit-county-code",
@@ -7045,7 +7045,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "ut-sevier-county-zoning",
@@ -7089,7 +7089,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "ut-daggett-county-zoning",
@@ -7131,7 +7131,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "nm-hobbs-city-code",
@@ -7189,7 +7189,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "nm-lovington-city-code",
@@ -7233,7 +7233,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "nm-artesia-city-planning",
@@ -7276,7 +7276,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "nm-farmington-city-code",
@@ -7353,7 +7353,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "nm-eunice-city-code",
@@ -7404,7 +7404,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "nm-jal-city-code",
@@ -7438,7 +7438,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "nm-aztec-city-code",
@@ -7500,7 +7500,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "nm-bloomfield-city-code",
@@ -7536,7 +7536,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "nm-roswell-city-code",
@@ -7591,7 +7591,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "wy-douglas-city-code",
@@ -7641,7 +7641,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "wy-wright-town-code",
@@ -7684,7 +7684,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "wy-evansville-town-code",
@@ -7726,7 +7726,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "wy-buffalo-city-code",
@@ -7775,7 +7775,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "wy-sheridan-city-code",
@@ -7818,7 +7818,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "wy-riverton-city-code",
@@ -7873,7 +7873,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "wy-lander-city-code",
@@ -7923,7 +7923,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "wy-rawlins-city-code",
@@ -7972,7 +7972,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "wy-deq-industrial-siting-threshold-confirmed",
@@ -8042,7 +8042,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "wy-glenrock-town-code",
@@ -8076,7 +8076,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/gapfill.yaml"
+   "source_file": "sources\\gapfill.yaml"
   },
   {
    "id": "nm-ocd-rules-19-15-nmac",
@@ -8145,7 +8145,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-ocd-epermitting-portal",
@@ -8194,7 +8194,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-ocd-c108-injection-disposal",
@@ -8245,7 +8245,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-ocd-c137-surface-waste-mgmt-facility",
@@ -8290,7 +8290,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-ocd-c144-pit-permit",
@@ -8334,7 +8334,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nmed-aqb-gcp-oil-gas",
@@ -8402,7 +8402,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nmed-20-2-50-ozone-precursor-rule",
@@ -8453,7 +8453,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nmed-gwqb-discharge-permit-20-6-2",
@@ -8510,7 +8510,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nmed-produced-water-act-20-6-8",
@@ -8557,7 +8557,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-state-land-office-row",
@@ -8626,7 +8626,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-prc-pipeline-safety-18-60-nmac",
@@ -8683,7 +8683,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-ose-water-rights",
@@ -8729,7 +8729,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-dot-utility-permit",
@@ -8779,7 +8779,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-hpd-shpo-section106",
@@ -8836,7 +8836,7 @@
    ],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-game-fish-habitat",
@@ -8872,7 +8872,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-navajo-nation-dnr-epa",
@@ -8917,7 +8917,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-jicarilla-apache-oga",
@@ -8972,7 +8972,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-lea-county-planning",
@@ -9032,7 +9032,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-eddy-county-oil-gas-ordinance",
@@ -9076,7 +9076,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-chaves-county-planning-zoning",
@@ -9111,7 +9111,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-roosevelt-county-ordinances",
@@ -9138,7 +9138,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-san-juan-county-land-use-ordinance",
@@ -9177,7 +9177,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-rio-arriba-county-oil-gas-ordinance",
@@ -9226,7 +9226,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-sandoval-county-oil-gas-water-ordinance",
@@ -9277,7 +9277,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-santa-fe-county-oil-gas-ordinance",
@@ -9333,7 +9333,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-mora-county-oil-gas-ban-history",
@@ -9374,7 +9374,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-carlsbad-oil-gas-pipelines-code",
@@ -9412,7 +9412,7 @@
    "contacts": [],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "nm-roswell-zoning-ordinance",
@@ -9448,7 +9448,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/nm.yaml"
+   "source_file": "sources\\nm.yaml"
   },
   {
    "id": "tx-fort-worth-gas-well",
@@ -9538,7 +9538,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-denton-gas-well",
@@ -9597,7 +9597,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-arlington-gas-drilling",
@@ -9648,7 +9648,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-southlake-oil-gas",
@@ -9705,7 +9705,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-colleyville-oil-gas",
@@ -9739,7 +9739,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-grapevine-oil-gas-well",
@@ -9796,7 +9796,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-keller-gas-well",
@@ -9847,7 +9847,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-mansfield-gas-well",
@@ -9929,7 +9929,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-flower-mound-oil-gas",
@@ -9994,7 +9994,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-tarrant-county-engineering",
@@ -10075,7 +10075,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-denton-county-subdivision",
@@ -10124,7 +10124,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-wise-county-ossf-permits",
@@ -10165,7 +10165,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-johnson-county-subdivision",
@@ -10205,7 +10205,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-parker-county-subdivision",
@@ -10247,7 +10247,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-hood-county-development",
@@ -10312,7 +10312,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-ellis-county-subdivision",
@@ -10365,7 +10365,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-laredo-ordinances",
@@ -10419,7 +10419,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-eagle-ford-county-road-damage-context",
@@ -10471,7 +10471,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-port-houston-authority-pipeline",
@@ -10528,7 +10528,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-harris-county-flood-control-district",
@@ -10590,7 +10590,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-harris-county-engineering-row",
@@ -10649,7 +10649,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-port-corpus-christi-authority",
@@ -10705,7 +10705,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-glo-coastal-easements-cmp",
@@ -10788,7 +10788,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-jefferson-county-engineering-pipeline",
@@ -10839,7 +10839,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-jefferson-county-drainage-district-6",
@@ -10892,7 +10892,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-jefferson-county-drainage-district-7",
@@ -10928,7 +10928,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-port-beaumont-navigation-district",
@@ -10987,7 +10987,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-calhoun-port-authority",
@@ -11041,7 +11041,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-port-freeport-brazos-harbor-navigation-district",
@@ -11076,7 +11076,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-brazoria-drainage-district-4",
@@ -11131,7 +11131,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-galveston-county-engineering",
@@ -11209,7 +11209,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-fort-bend-county-row",
@@ -11255,7 +11255,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-san-patricio-county-row",
@@ -11300,7 +11300,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-orange-county-development-floodplain",
@@ -11347,7 +11347,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-longview-pipeline-license",
@@ -11394,7 +11394,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-panola-county-general",
@@ -11428,7 +11428,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-nueces-county-public-works",
@@ -11501,7 +11501,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-chambers-county-subdivision",
@@ -11536,7 +11536,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-gulf.yaml"
+   "source_file": "sources\\tx-gulf.yaml"
   },
   {
    "id": "tx-midland-county",
@@ -11622,7 +11622,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-ector-county",
@@ -11685,7 +11685,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-reeves-county",
@@ -11754,7 +11754,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-loving-county",
@@ -11807,7 +11807,7 @@
    ],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-ward-county",
@@ -11850,7 +11850,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-winkler-county",
@@ -11893,7 +11893,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-culberson-county",
@@ -11935,7 +11935,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-pecos-county",
@@ -11997,7 +11997,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-howard-county",
@@ -12052,7 +12052,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-martin-county",
@@ -12095,7 +12095,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-glasscock-county",
@@ -12137,7 +12137,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-upton-county",
@@ -12179,7 +12179,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-reagan-county",
@@ -12233,7 +12233,7 @@
    ],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-crane-county",
@@ -12275,7 +12275,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-andrews-county",
@@ -12323,7 +12323,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-gaines-county",
@@ -12382,7 +12382,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-midland-city",
@@ -12459,7 +12459,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-odessa-city",
@@ -12517,7 +12517,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-bigspring-city",
@@ -12553,7 +12553,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-andrews-city",
@@ -12603,7 +12603,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-monahans-city",
@@ -12643,7 +12643,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-kermit-city",
@@ -12676,7 +12676,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-pecoscity-city",
@@ -12717,7 +12717,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-fortstockton-city",
@@ -12752,7 +12752,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-seminole-city",
@@ -12787,7 +12787,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-denvercity-city",
@@ -12835,7 +12835,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-alpine-city",
@@ -12870,7 +12870,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-dawson-county",
@@ -12911,7 +12911,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-borden-county",
@@ -12952,7 +12952,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-sterling-county",
@@ -12993,7 +12993,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-irion-county",
@@ -13034,7 +13034,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-crockett-county",
@@ -13075,7 +13075,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-valverde-county",
@@ -13116,7 +13116,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-terrell-county",
@@ -13157,7 +13157,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-jeffdavis-county",
@@ -13198,7 +13198,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-hudspeth-county",
@@ -13244,7 +13244,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-yoakum-county",
@@ -13286,7 +13286,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-terry-county",
@@ -13327,7 +13327,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-lynn-county",
@@ -13368,7 +13368,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-scurry-county",
@@ -13409,7 +13409,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-mitchell-county",
@@ -13450,7 +13450,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-nolan-county",
@@ -13491,7 +13491,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-coke-county",
@@ -13532,7 +13532,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-tomgreen-county",
@@ -13573,7 +13573,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-schleicher-county",
@@ -13619,7 +13619,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-sutton-county",
@@ -13659,7 +13659,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-presidio-county",
@@ -13700,7 +13700,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-brewster-county",
@@ -13746,7 +13746,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-hemphill-county",
@@ -13788,7 +13788,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-roberts-county",
@@ -13830,7 +13830,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-wheeler-county",
@@ -13872,7 +13872,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-ochiltree-county",
@@ -13913,7 +13913,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-lipscomb-county",
@@ -13954,7 +13954,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-hutchinson-county",
@@ -13997,7 +13997,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-moore-county",
@@ -14039,7 +14039,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-potter-county",
@@ -14080,7 +14080,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-hansford-county",
@@ -14121,7 +14121,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-sherman-county",
@@ -14162,7 +14162,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-hartley-county",
@@ -14203,7 +14203,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-carson-county",
@@ -14244,7 +14244,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-gray-county",
@@ -14286,7 +14286,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-amarillo-city",
@@ -14343,7 +14343,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-borger-city",
@@ -14380,7 +14380,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-pampa-city",
@@ -14416,7 +14416,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-perryton-city",
@@ -14450,7 +14450,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-canadian-city",
@@ -14486,7 +14486,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-dumas-city",
@@ -14527,7 +14527,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-stinnett-city",
@@ -14562,7 +14562,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-spearman-city",
@@ -14597,7 +14597,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-permian.yaml"
+   "source_file": "sources\\tx-permian.yaml"
   },
   {
    "id": "tx-tceq-air-pbr-oil-gas",
@@ -14714,7 +14714,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-tceq-air-standard-permit-116620",
@@ -14774,7 +14774,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-tceq-air-title-v-gop514",
@@ -14850,7 +14850,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-tceq-air-ch115-voc-nonattainment",
@@ -14907,7 +14907,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-tceq-water-tpdes-cgp-msgp",
@@ -14995,7 +14995,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-tceq-water-401-certification",
@@ -15057,7 +15057,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-tceq-edwards-aquifer-ch213",
@@ -15138,7 +15138,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-tceq-waste-uic-330-331-335",
@@ -15261,7 +15261,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-rrc-swr36-h2s",
@@ -15353,7 +15353,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-rrc-swr32-flaring",
@@ -15431,7 +15431,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-rrc-swr9-disposal-wells",
@@ -15535,7 +15535,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-rrc-swr46-fluid-injection-productive",
@@ -15603,7 +15603,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-rrc-organization-p4-p5",
@@ -15695,7 +15695,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-rrc-pipeline-safety-ch8-inspection-forms",
@@ -15773,7 +15773,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-thc-antiquities-code",
@@ -15866,7 +15866,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-glo-easements-cmp",
@@ -15952,7 +15952,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-txdot-uir-driveway",
@@ -16033,7 +16033,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-tpwd-sand-gravel-marl",
@@ -16105,7 +16105,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-rrc-common-carrier-t4-status",
@@ -16174,7 +16174,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-811-damage-prevention",
@@ -16258,7 +16258,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-gcd-middle-pecos",
@@ -16307,7 +16307,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-gcd-santa-rita",
@@ -16355,7 +16355,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-gcd-permian-basin",
@@ -16409,7 +16409,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-gcd-panhandle",
@@ -16457,7 +16457,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-gcd-high-plains-no1",
@@ -16511,7 +16511,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-gcd-north-plains",
@@ -16565,7 +16565,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-gcd-hemphill-county",
@@ -16619,7 +16619,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-gcd-llano-estacado",
@@ -16667,7 +16667,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-state.yaml"
+   "source_file": "sources\\tx-state.yaml"
   },
   {
    "id": "tx-rrc-statewide-rules-ch3",
@@ -16729,7 +16729,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-west.yaml"
+   "source_file": "sources\\tx-west.yaml"
   },
   {
    "id": "tx-rrc-ch4-waste-rules-2025",
@@ -16781,7 +16781,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-west.yaml"
+   "source_file": "sources\\tx-west.yaml"
   },
   {
    "id": "tx-rrc-pipeline-t4-pops",
@@ -16885,7 +16885,7 @@
    ],
    "confidence": "verified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/tx-west.yaml"
+   "source_file": "sources\\tx-west.yaml"
   },
   {
    "id": "ut-dogm-r649-oil-gas-rules",
@@ -17005,7 +17005,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "ut-deq-daq-r307-oil-gas",
@@ -17096,7 +17096,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "ut-deq-dwq-updes",
@@ -17159,7 +17159,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "ut-deq-dwmrc-ep-waste",
@@ -17222,7 +17222,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "ut-sitla-easements",
@@ -17286,7 +17286,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "ut-ffsl-sovereign-lands",
@@ -17333,7 +17333,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "ut-water-rights-stream-alteration",
@@ -17394,7 +17394,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "ut-dwr-sage-grouse-plan",
@@ -17431,7 +17431,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "ut-blue-stakes-811",
@@ -17474,7 +17474,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "ut-shpo-cultural-resource",
@@ -17518,7 +17518,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "ut-udot-row-permits",
@@ -17578,7 +17578,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "ut-dpu-pipeline-safety",
@@ -17625,7 +17625,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "ut-ludma-county-land-use-act",
@@ -17676,7 +17676,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "ut-ute-tribe-energy-minerals",
@@ -17731,7 +17731,7 @@
    ],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "ut-uintah-county-land-use",
@@ -17810,7 +17810,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "ut-duchesne-county-land-use",
@@ -17887,7 +17887,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "ut-carbon-county-land-use",
@@ -17929,7 +17929,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "ut-emery-county-building-zoning",
@@ -17971,7 +17971,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/ut.yaml"
+   "source_file": "sources\\ut.yaml"
   },
   {
    "id": "wy-wogcc-rules",
@@ -18060,7 +18060,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-wogcc-eforms",
@@ -18109,7 +18109,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-deq-aqd",
@@ -18171,7 +18171,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-deq-wqd",
@@ -18230,7 +18230,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-deq-lqd",
@@ -18266,7 +18266,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-deq-shwd",
@@ -18314,7 +18314,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-seo",
@@ -18380,7 +18380,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-osli",
@@ -18443,7 +18443,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-wydot-utility",
@@ -18494,7 +18494,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-psc",
@@ -18541,7 +18541,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-wgfd-sagegrouse",
@@ -18585,7 +18585,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-shpo",
@@ -18640,7 +18640,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-deq-industrial-siting",
@@ -18697,7 +18697,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-onecall",
@@ -18740,7 +18740,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-pipeline-corridor-initiative",
@@ -18780,7 +18780,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-campbell-county-landuse",
@@ -18834,7 +18834,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-converse-county-landuse",
@@ -18881,7 +18881,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-sublette-county-landuse",
@@ -18927,7 +18927,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-sweetwater-county-landuse",
@@ -18975,7 +18975,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-fremont-county-landuse",
@@ -19017,7 +19017,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-natrona-county-landuse",
@@ -19064,7 +19064,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-carbon-county-landuse",
@@ -19117,7 +19117,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-laramie-county-landuse",
@@ -19167,7 +19167,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-lincoln-county-landuse",
@@ -19209,7 +19209,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-uinta-county-landuse",
@@ -19252,7 +19252,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-johnson-county-landuse",
@@ -19294,7 +19294,7 @@
    ],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-sheridan-county-landuse",
@@ -19335,7 +19335,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-bighorn-county-landuse",
@@ -19378,7 +19378,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-park-county-landuse",
@@ -19426,7 +19426,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-washakie-county-landuse",
@@ -19461,7 +19461,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-hotsprings-county-landuse",
@@ -19501,7 +19501,7 @@
    ],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-weston-county-landuse",
@@ -19536,7 +19536,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-crook-county-landuse",
@@ -19577,7 +19577,7 @@
    ],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-niobrara-county-landuse",
@@ -19612,7 +19612,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-goshen-county-landuse",
@@ -19647,7 +19647,7 @@
    "contacts": [],
    "confidence": "unverified",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-platte-county-landuse",
@@ -19694,7 +19694,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-albany-county-landuse",
@@ -19730,7 +19730,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-teton-county-landuse",
@@ -19785,7 +19785,7 @@
    ],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-casper-municipal-code",
@@ -19827,7 +19827,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-gillette-municipal-code",
@@ -19869,7 +19869,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-douglas-municipal-code",
@@ -19911,7 +19911,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-cheyenne-municipal-code",
@@ -19946,7 +19946,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-pinedale-municipal-code",
@@ -19987,7 +19987,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   },
   {
    "id": "wy-rocksprings-municipal-code",
@@ -20029,7 +20029,7 @@
    "contacts": [],
    "confidence": "probable",
    "last_reviewed": "2026-09-04",
-   "source_file": "sources/wy.yaml"
+   "source_file": "sources\\wy.yaml"
   }
  ]
 }

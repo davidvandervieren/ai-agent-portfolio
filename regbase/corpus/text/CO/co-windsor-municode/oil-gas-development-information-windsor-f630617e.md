@@ -9,7 +9,7 @@ title: Oil & Gas Development Information | Windsor
 doc_type: guidance
 url: "https://www.windsorgov.com/827/Oil-Gas-Development-Info"
 sha256: dfebd8dc1db324cdb23f8a8416db29d939fb40a212db699289bb477c2166a4d1
-fetched_at: "2026-09-08T17:38:43+00:00"
+fetched_at: "2026-09-10T04:33:44+00:00"
 ---
 
 <!-- heading-path: Oil & Gas Development Information -->

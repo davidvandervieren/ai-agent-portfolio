@@ -6,8 +6,8 @@ agency: Utah State Historic Preservation Office (SHPO) / Division of State Histo
 title: SHPO Compliance
 doc_type: guidance
 url: "https://ushpo.utah.gov/shpo/shpo-compliance/"
-sha256: 807e0f86de522abf26e7bc6cc45eab205a63ede605f85df57452d9df57291e35
-fetched_at: "2026-09-05T05:13:28+00:00"
+sha256: c6c9e6589b74c16c7c0f638bfe2b9935ee7671e060033423dff347d314876254
+fetched_at: "2026-09-09T21:25:49+00:00"
 ---
 
 <!-- heading-path: Compliance -->

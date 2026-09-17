@@ -8,7 +8,7 @@ title: Johnson County Planning & Zoning Documents
 doc_type: guidance
 url: "https://www.johnsoncowy.gov/departments/planning-zoning-documents"
 sha256: af218c27455705da3a96d4bf8833aeb0005e645c2e269f465265e5c341d2c07a
-fetched_at: "2026-09-05T05:14:07+00:00"
+fetched_at: "2026-09-09T21:16:03+00:00"
 ---
 
 <!-- heading-path: Planning & Zoning Documents -->

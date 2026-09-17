@@ -10,7 +10,7 @@ doc_type: ordinance
 citation_root: Roswell Ordinance 20-08
 url: "https://www.roswell-nm.gov/DocumentCenter/View/768/Zoning-Ordinance-PDF"
 sha256: 0acb72671b6400ca8df518f2ad99307ccfc6596ff63198f9705f67b09fc71b82
-fetched_at: "2026-09-05T05:24:05+00:00"
+fetched_at: "2026-09-09T21:20:32+00:00"
 ---
 
 <!-- page: 1 -->

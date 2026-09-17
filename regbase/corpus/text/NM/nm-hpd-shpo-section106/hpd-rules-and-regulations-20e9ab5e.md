@@ -8,7 +8,7 @@ doc_type: regulation
 citation_root: 4.10 NMAC
 url: "https://nmhistoricpreservation.org/documents/rules-and-regulations.html"
 sha256: 26d3db724194b48b483e4f8ea4f52b8d35567411f5df9a772a63a7ac02220912
-fetched_at: "2026-09-05T05:23:34+00:00"
+fetched_at: "2026-09-09T21:19:45+00:00"
 ---
 
 Awarding Grants from the Cultural Properties Restoration Fund, Cultural Properties Publications Revolving Fund & Historic Preservation Loan Fund This document is in .PDF format.

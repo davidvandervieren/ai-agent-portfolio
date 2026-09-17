@@ -9,7 +9,7 @@ title: Regulation & Guiding Documents
 doc_type: guidance
 url: "https://erieco.gov/1794/Regulation-Guiding-Documents"
 sha256: 174f1de4ca480102ceb24fd8b9f4e11db9c89f3b50fa3d2ea33e052f2e54752e
-fetched_at: "2026-09-08T17:38:12+00:00"
+fetched_at: "2026-09-10T04:33:33+00:00"
 ---
 
 <!-- heading-path: Regulation & Guiding Documents -->

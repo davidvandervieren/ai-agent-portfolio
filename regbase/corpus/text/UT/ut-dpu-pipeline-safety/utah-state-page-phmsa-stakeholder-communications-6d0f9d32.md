@@ -7,7 +7,7 @@ title: Utah State Page — PHMSA Stakeholder Communications
 doc_type: guidance
 url: "https://primis.phmsa.dot.gov/stakeholder-comms/states/utah/"
 sha256: 2321104d0a4a601c3308ee6024b591700256e4639b91baee99ebbb56468b926c
-fetched_at: "2026-09-05T05:13:26+00:00"
+fetched_at: "2026-09-09T21:25:57+00:00"
 ---
 
 <!-- heading-path: Utah State Page -->

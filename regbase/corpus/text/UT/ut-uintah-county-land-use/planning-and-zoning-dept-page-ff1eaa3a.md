@@ -8,7 +8,7 @@ title: Planning and Zoning (dept. page)
 doc_type: guidance
 url: "https://www.uintah.gov/departments/a_-_e_departments/community_development/planning_and_zoning.php"
 sha256: 016573cc8dd27270f2789c6c0088e15a03d35721e76795fa621f38a58e852210
-fetched_at: "2026-09-05T05:43:01+00:00"
+fetched_at: "2026-09-09T21:26:06+00:00"
 ---
 
 <!-- heading-path: Planning & Zoning Division -->

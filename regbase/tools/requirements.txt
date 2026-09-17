@@ -42,3 +42,11 @@ pdfminer.six>=20231228       # fallback PDF layout extraction          (extract.
 # two refuse to install.
 shapely>=2.0                 # geometry ops, buffers, intersections    (kmlgeo.py)
 pyproj>=3.6                  # CRS transforms (WGS84 <-> state plane)  (kmlgeo.py)
+
+# browser rendering (optional, but required for Municode / eCode360 /
+# Franklin Legal, which deliver their ordinances over XHR and harvest as empty
+# shells without it)
+#     py -m pip install playwright
+# On Windows the renderer uses the Chrome or Edge you already have, so
+# `playwright install` is usually unnecessary.
+playwright>=1.40

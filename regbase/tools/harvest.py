@@ -32,6 +32,7 @@ from urllib.parse import urljoin, urlsplit, urlunsplit
 
 import common
 import extract
+import render as render_mod
 
 # --------------------------------------------------------------- platforms
 #
@@ -167,6 +168,35 @@ def write_resilient(path: Path, data: bytes, *, attempts: int = 3) -> str:
     return "unreachable"
 
 
+def needs_render(source: common.Source, mode: str) -> bool:
+    """Should this source be fetched with a browser?
+
+    "auto" renders only the platforms known to build their pages client-side,
+    which keeps the slow path off the ~90% of sources that are plain HTML.
+    """
+    if mode == "never":
+        return False
+    if mode == "always":
+        return True
+    return source.code_platform in render_mod.JS_RENDERED_PLATFORMS
+
+
+def fetch_document(fetcher: common.Fetcher, url: str, prev: dict, use_render: bool):
+    """One fetch, browser-rendered or plain. Returns a response-like object."""
+    if not use_render:
+        return fetcher.get(url, etag=prev.get("etag", ""),
+                           last_modified=prev.get("last_modified", ""))
+    # A rendered fetch cannot use conditional GET - there is no validator for
+    # a DOM built after load - so it always re-renders. That is the cost of
+    # reaching content a plain fetch cannot see at all.
+    result = render_mod.render(url)
+    if result.error:
+        print(f"    ! render failed ({result.error}); falling back to plain fetch",
+              file=sys.stderr)
+        return fetcher.get(url)
+    return render_mod.RenderedResponse(result)
+
+
 def store(source: common.Source, doc_title: str, doc_type: str, citation_root: str,
           url: str, resp, *, write_text: bool = True) -> dict:
     """Persist one fetched response and return its manifest record."""
@@ -238,16 +268,127 @@ def store(source: common.Source, doc_title: str, doc_type: str, citation_root: s
     }
 
 
+
+# ------------------------------------------------------------- municode api
+
+MUNICODE_HOST = "library.municode.com"     # overridable for tests
+
+
+class _ApiResponse:
+    """A response-like wrapper so store() can persist API-fetched HTML."""
+
+    def __init__(self, url: str, html: str):
+        self.status_code = 200
+        self.content = html.encode("utf-8", errors="replace")
+        self.text = html
+        self.url = url
+        self.headers = {"Content-Type": "text/html; charset=utf-8"}
+        self.reason = ""
+
+    def iter_content(self, chunk_size: int = 8192):
+        return iter(())
+
+
+def _municode_page(source: common.Source) -> str:
+    """The library.municode.com page to open a session on, if any."""
+    for d in source.docs():
+        if MUNICODE_HOST in (d.url or ""):
+            return d.url.split("?")[0]
+    if MUNICODE_HOST in (source.landing_url or ""):
+        return source.landing_url.split("?")[0]
+    return ""
+
+
+def harvest_municode_source(source: common.Source, *, delay: float,
+                            match: str = "", dry_run: bool = False) -> dict:
+    """Pull a jurisdiction's entire code through Municode's own API.
+
+    One browser session per jurisdiction, then chapter-by-chapter fetches
+    through it. Each chapter becomes a document whose URL is the same
+    ?nodeId= form a person would see in the browser, so citations resolve.
+    """
+    import municode
+
+    page = _municode_page(source)
+    stats = {"chapters": 0, "chars": 0, "failed": 0, "skipped": 0}
+    if not page:
+        return stats
+    if dry_run:
+        print(f"    would harvest the whole code via API from {page}")
+        return stats
+
+    try:
+        client = municode.Municode(delay=delay, browser_page=page)
+    except Exception as exc:
+        print(f"    ! could not open Municode session ({exc}); falling back to "
+              f"document fetch", file=sys.stderr)
+        stats["failed"] += 1
+        return stats
+    try:
+        state, city, product = municode.parse_url(page)
+        ref = client.resolve(state, city, product, page_url=page)
+        t = client.transport
+        print(f"    api session: job {ref.job_id} product {ref.product_id} "
+              f"(headers reused: {', '.join(sorted(t.api_headers)) or 'none'})")
+
+        def progress(node, new, reqs, total):
+            if reqs % 50 == 0:
+                print(f"    ... {total} nodes, {reqs} requests", flush=True)
+
+        for unit, heading, html in client.fetch_code(ref, match=match,
+                                                     on_progress=progress):
+            url = f"{page}?nodeId={unit.node_id}"
+            if not html:
+                stats["failed"] += 1
+                continue
+            rec = store(source, unit.title or unit.node_id, "code",
+                        heading or source.name, url, _ApiResponse(url, html))
+            common.manifest_append(rec)
+            if rec.get("thin_extraction"):
+                stats["skipped"] += 1
+                continue
+            stats["chapters"] += 1
+            stats["chars"] += rec["text_chars"]
+            print(f"  + {rec['text_chars']:>8,} chars  {(heading or unit.title)[-70:]}")
+    except Exception as exc:
+        print(f"    ! municode api failed: {exc}", file=sys.stderr)
+        stats["failed"] += 1
+    finally:
+        client.close()
+    return stats
+
+
 def harvest_documents(sources: list[common.Source], fetcher: common.Fetcher,
                       manifest: dict, *, force: bool, dry_run: bool,
-                      limit: int) -> dict[str, int]:
+                      limit: int, render_mode: str = "auto",
+                      municode_api: bool = True, municode_match: str = "",
+                      delay_s: float = 1.0) -> dict[str, int]:
     stats = {"fetched": 0, "unchanged": 0, "failed": 0, "skipped": 0, "text": 0,
              "thin": 0}
     for src in sources:
         docs = list(src.docs())
         if not docs:
             continue
-        print(f"\n[{src.state}] {src.jurisdiction_label} — {src.id} ({len(docs)} docs)")
+        use_render = needs_render(src, render_mode)
+        api_page = _municode_page(src) if (municode_api and
+                                           src.code_platform == "municode") else ""
+        tag = "  [municode api]" if api_page else ("  [rendered]" if use_render else "")
+        print(f"\n[{src.state}] {src.jurisdiction_label} — {src.id} "
+              f"({len(docs)} docs){tag}")
+        if api_page:
+            mstats = harvest_municode_source(src, delay=delay_s, match=municode_match,
+                                             dry_run=dry_run)
+            stats["api_chapters"] = stats.get("api_chapters", 0) + mstats["chapters"]
+            stats["api_failed"] = stats.get("api_failed", 0) + mstats["failed"]
+            if mstats["chapters"]:
+                print(f"    = {mstats['chapters']} chapter(s), "
+                      f"{mstats['chars']:,} chars via API")
+            # The API covered the code page and everything under it; anything
+            # else on this source - a city's own oil & gas page, say - still
+            # goes through the normal fetch.
+            docs = [d for d in docs if not (d.url or "").startswith(api_page)]
+            if not docs:
+                continue
         for doc in docs:
             if limit and stats["fetched"] >= limit:
                 return stats
@@ -264,8 +405,7 @@ def harvest_documents(sources: list[common.Source], fetcher: common.Fetcher,
                 stats["skipped"] += 1
                 continue
 
-            resp = fetcher.get(doc.url, etag=prev.get("etag", ""),
-                               last_modified=prev.get("last_modified", ""))
+            resp = fetch_document(fetcher, doc.url, prev, use_render)
             if resp.status_code == 304:
                 print(f"  = 304 {doc.title[:60]}")
                 stats["unchanged"] += 1
@@ -407,6 +547,17 @@ def main() -> int:
     ap.add_argument("--delay", type=float, default=1.0, help="seconds between hits per host")
     ap.add_argument("--limit", type=int, default=0, help="stop after N documents (0=all)")
     ap.add_argument("--force", action="store_true", help="ignore ETag/Last-Modified")
+    ap.add_argument("--render", choices=["auto", "always", "never"], default="auto",
+                    help="use a real browser for JavaScript-rendered platforms. "
+                         "auto (default) renders only Municode, eCode360, "
+                         "Franklin Legal and Sterling; always renders everything "
+                         "(slow); never disables it")
+    ap.add_argument("--no-municode-api", action="store_true",
+                    help="do not pull whole codes through Municode's API "
+                         "(falls back to per-document fetch / render)")
+    ap.add_argument("--municode-match", default="",
+                    help="regex on chapter headings; only matching chapters are "
+                         "fetched from Municode, e.g. 'oil|gas|pipeline|zoning|land use'")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--compact", action="store_true", help="compact the manifest and exit")
     args = ap.parse_args()
@@ -444,7 +595,11 @@ def main() -> int:
                               max_depth=args.max_depth, dry_run=args.dry_run)
     else:
         stats = harvest_documents(sources, fetcher, manifest, force=args.force,
-                                  dry_run=args.dry_run, limit=args.limit)
+                                  dry_run=args.dry_run, limit=args.limit,
+                                  render_mode=args.render,
+                                  municode_api=not args.no_municode_api,
+                                  municode_match=args.municode_match,
+                                  delay_s=args.delay)
 
     print("\n" + "  ".join(f"{k}={v}" for k, v in stats.items()))
 

@@ -8,7 +8,7 @@ doc_type: regulation
 citation_root: Utah Admin. Code R850-40-1600
 url: "https://www.law.cornell.edu/regulations/utah/Utah-Admin-Code-R850-40-1600"
 sha256: c65609b9fd0f9e0c690c107bef49bab0dff9343708c836bac21962d8c10d33a5
-fetched_at: "2026-09-05T05:13:31+00:00"
+fetched_at: "2026-09-09T21:25:36+00:00"
 ---
 
 <!-- heading-path: Utah Admin. Code R850-40-1600 - Easement Assignments -->

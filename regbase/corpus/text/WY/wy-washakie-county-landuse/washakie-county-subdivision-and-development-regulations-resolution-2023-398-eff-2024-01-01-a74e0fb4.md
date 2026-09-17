@@ -7,8 +7,8 @@ agency: Washakie County Planning Office
 title: Washakie County Subdivision and Development Regulations (Resolution 2023-398, eff. 2024-01-01)
 doc_type: regulation
 url: "https://www.washakiecountywy.gov/210/Planner"
-sha256: 0c19d8c90b1febc4d633615755d2042190546fe92302cb298ee6fed65e54ebf3
-fetched_at: "2026-09-05T05:14:22+00:00"
+sha256: 05e6aa469f3601347aadc4953825be90861aeca71022fef99e7a1241babff987
+fetched_at: "2026-09-09T21:16:07+00:00"
 ---
 
 <!-- heading-path: Planner -->

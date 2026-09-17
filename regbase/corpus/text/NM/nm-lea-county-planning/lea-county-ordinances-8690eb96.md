@@ -7,8 +7,8 @@ agency: Lea County Planning Department
 title: Lea County Ordinances
 doc_type: ordinance
 url: "https://www.leacounty.gov/253/Lea-County-Ordinances"
-sha256: 3ef5301fd159db35d2aaedff771b00b54a87e12c5205757a6ade4301fd351086
-fetched_at: "2026-09-05T05:23:37+00:00"
+sha256: 4201cbbabfeedb3c11408e2c93534c84c11dc4a35d3daa5e989c933251e19dba
+fetched_at: "2026-09-09T21:20:11+00:00"
 ---
 
 <!-- heading-path: Lea County Ordinances -->

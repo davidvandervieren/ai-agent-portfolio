@@ -7,7 +7,7 @@ title: Pipeline Notice to Operators – New POPS (2018)
 doc_type: guidance
 url: "https://rrc.texas.gov/media/pdxd4pnb/pipeline_notice-to-operators_newpops_9-18-2018.pdf"
 sha256: 2d0216007e364911e2e8f3d412d7b33daf290b0a23d77f4bca5ad1f818d9bfde
-fetched_at: "2026-09-05T05:13:05+00:00"
+fetched_at: "2026-09-09T21:10:25+00:00"
 ---
 
 <!-- page: 1 -->

@@ -7,7 +7,7 @@ title: 2025 T-4 Permit Renewal Cover Letter (C-LTR) notice
 doc_type: guidance
 url: "https://www.rrc.texas.gov/media/ytjc1n53/2025-renewal-c-ltr.pdf"
 sha256: c9aa4ab6432bec4b0a827d6bab37069c02cd8f70abdd4e076ccc9af2e1536906
-fetched_at: "2026-09-05T05:13:07+00:00"
+fetched_at: "2026-09-09T21:10:27+00:00"
 ---
 
 <!-- page: 1 -->

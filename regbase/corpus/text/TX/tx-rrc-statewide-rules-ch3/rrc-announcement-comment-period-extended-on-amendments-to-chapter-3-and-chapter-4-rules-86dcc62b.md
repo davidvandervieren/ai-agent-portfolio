@@ -7,7 +7,7 @@ title: "RRC announcement: comment period extended on amendments to Chapter 3 and
 doc_type: guidance
 url: "https://www.rrc.texas.gov/announcements/091024-rrc-extends-comment-period-on-amendments-to-chapter-3-and-chapter-4-rules/"
 sha256: f036c5eb6982578601ac5c3cc4c6c6d84104da389513171f1a15586576cae50b
-fetched_at: "2026-09-05T05:13:08+00:00"
+fetched_at: "2026-09-09T21:10:19+00:00"
 ---
 
 <!-- heading-path: RRC Extends Comment Period on Amendments to Chapter 3 and Chapter 4 Rules Relating to Waste Management -->

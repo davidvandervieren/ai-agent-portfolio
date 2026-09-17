@@ -9,7 +9,7 @@ title: Ordinance 1336 - Oil and Gas Regulations
 doc_type: ordinance
 url: "https://berthoud.org/DocumentCenter/View/5251/Ordinance-1336-Oil-and-Gas-Regulations"
 sha256: f7a2ea7b4d4dcfd6576c073300b166de4e30d6387f6d927687cb54c8bc9f4d64
-fetched_at: "2026-09-08T17:38:53+00:00"
+fetched_at: "2026-09-10T04:33:51+00:00"
 ---
 
 <!-- page: 1 -->

@@ -8,75 +8,15 @@ title: 1041 Regulations | Larimer County
 doc_type: guidance
 citation_root: Larimer County Land Use Code Art. 10
 url: "https://www.larimer.gov/planning/1041-regulations"
-sha256: e29ca20825a5388fae0cea92e9d268d3ad0daaeb6e8b074595cbf872473c304f
-fetched_at: "2026-09-08T17:35:25+00:00"
+sha256: 182074a769b2ce20fe23b8b0df956945798a1e55ec658509772a5f44e26835b4
+fetched_at: "2026-09-10T04:33:24+00:00"
 ---
 
 1041 Regulations | Larimer County
 Skip to main content
 Fire Restrictions in Effect:
 View Fire Restrictions
-Search
-I Want To
-Toggle navigation
-I'm a Local
-Birth & Death Certificates
-Courts & Legal Info
-Hazardous Waste Info
-Licenses & Permits
-Property & Taxes
-Public Assistance & Benefits
-Public Records & Info
-Recycling & Landfill
-Roads & Transportation
-Voting & Elections
-Our County
-Elected Officials & County Leadership
-Departments & Offices
-About Larimer County
-Boards and Commissions
-Codes, Policies, Ordinances & Resolutions
-Emergency Management
-GIS, Maps & Webcams
-Jobs with Larimer County
-Services A-Z
-Strategic Plan
-Transparency
-Guiding Principles
-Things to Do
-4-H Programs
-Blue FCU Arena
-Connect with Larimer County
-Educational Programs
-Events Calendar
-Fair & Rodeo
-Parks, Trails & Open Spaces
-Read County Spotlights (News)
-Volunteer with Larimer County
-Subscribe to Email Alerts
-Doing Business
-Bids & Proposals
-Building Permits
-Economic & Workforce Development
-Enterprise Zones
-Establishing a Business
-Notary Services
-Sales & Use Tax
-Vendor W-9
-Account
-Why Sign Up / Log In?
-Sign Up / Log In
-Sign Up / Log In Help
-Search
-I Want To
 Traducir al Español
-Home
-Planning
-1041 Regulations
-1041 Regulations
-1041 Regulations are delegated powers from the State of Colorado to local jurisdictions to regulate matters of statewide concern, including the development of transportation and utility infrastructure. 1041 Regulations can also be used to protect specific geographic areas with historical, cultural, or natural resources of statewide importance.
-In 1974, HB 74-1041 was introduced at the legislature to address issues surrounding land use planning in Colorado. Later that year it was enacted as the Areas and Activities of State Interest Act (AASIA), which defines a set of activities and areas of state interests and delegates power to local governments to regulate such areas or activities. These are known as “1041 Powers” and the regulations as “1041 Regulations.” (Dakan, “Colorado Local Governments’ Use of 1041 Regulations,” for DOLA, 2017).
-Larimer County 1041 Regulations - Background & Overview
 FAQs
 Expand All
 Collapse All
@@ -144,11 +84,6 @@ can be found
 here.
 Sorry, the page did not load properly.
 Click here to reload search results
-Close Search
-SEARCH LARIMER.GOV
-Search:
-Search
-CLEAR
 Categories
 Type in search terms and click the
 (search) button -OR-
@@ -161,7 +96,6 @@ You can use the
 show more
 button below when you have more than 10 results.
 SHOW MORE
-Powered by Cludo
 I Want To
 Apply
 Check
@@ -212,57 +146,6 @@ Hazardous Waste Appointment Request
 Public Benefits
 Veterans Service Office
 Visit Someone at the Jail
-Larimer County, Colorado
-200 W. Oak Street
-Fort Collins, CO 80521
-View location on Google Maps
-Map of Facilities
-(970) 498-7000
-|
-Contact Us
-About
-|
-Our Guiding Principles
-Other County Sites
-Blue FCU Arena - The Ranch
-Camping Reservations
-Community Development Portal
-Emergency Alerts (LETA911)
-Land Information Locator (GIS)
-Larimer Aegis: Safety & Resilience
-Larimer County Fair & Rodeo
-Larimer County Records Search
-City/Town Sites
-Berthoud
-Estes Park
-Fort Collins
-Johnstown
-Loveland
-Timnath
-Wellington
-Windsor
-Connect with Us
-Larimer County on Facebook
-Larimer County on Twitter
-Larimer County on YouTube
-Larimer County on LinkedIn
-Instagram
-Social Media
-|
-Email Subscriptions
-Career Opportunities
-Weather Forecast & Alerts
-Transparency
-|
-Accessibility
-|
-Security
-Legal Disclaimers
-Translate this site
-Flag Status:
-Full
-Full
-Translate Larimer.gov
 English
 Spanish
 Arabic
@@ -278,13 +161,3 @@ Portuguese
 Russian
 Swedish
 Ukrainian
-Close Window
-Contact Form
-Emailing (to)
-Subject
-Message
-Your Name
-Phone
-Your Email
-Confirm Email
-Leave this field blank

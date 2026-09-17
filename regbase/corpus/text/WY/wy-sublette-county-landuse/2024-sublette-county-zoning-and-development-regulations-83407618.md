@@ -9,7 +9,7 @@ doc_type: ordinance
 citation_root: Sublette County Zoning and Development Regulations (2024)
 url: "https://www.sublettecountywy.gov/DocumentCenter/View/6328/Sublette-County-Zoning-and-Development-Regulations-Audit--For-Public"
 sha256: 77db986e43879ea0e0750ba3aa5c79b7927ccbc3338855e3f258e9330b96516e
-fetched_at: "2026-09-05T05:14:18+00:00"
+fetched_at: "2026-09-09T21:15:50+00:00"
 ---
 
 <!-- page: 1 -->

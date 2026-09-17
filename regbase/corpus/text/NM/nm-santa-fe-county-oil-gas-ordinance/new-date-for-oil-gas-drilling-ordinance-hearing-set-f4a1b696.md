@@ -7,8 +7,8 @@ agency: Santa Fe County — County Attorney / Growth Management
 title: New Date for Oil & Gas Drilling Ordinance Hearing Set
 doc_type: agenda
 url: "https://www.santafecountynm.gov/news/detail/new-date-for-oil-amp-gas-drilling-ordinance-hearing-set"
-sha256: d92b902b7aa619a492f45dfe90d0aacf132162bb0a5b330e034e43b6d88346fe
-fetched_at: "2026-09-05T05:23:54+00:00"
+sha256: a578a035c68818567ae43de835e36990759860a41a6706577fd0456fcce8dc73
+fetched_at: "2026-09-09T21:20:27+00:00"
 ---
 
 01/10/2008

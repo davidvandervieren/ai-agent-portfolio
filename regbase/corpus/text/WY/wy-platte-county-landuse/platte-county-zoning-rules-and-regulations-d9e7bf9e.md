@@ -8,7 +8,7 @@ title: Platte County Zoning Rules and Regulations
 doc_type: ordinance
 url: "https://www.plattecountywyoming.com/media/Planning%20&%20Zoning/RulesRegs/Platte%20County%20zoning%20Regs%20Rev%20A.pdf"
 sha256: f05a732f077c2d9445e646d43a8da1d320ec11b78c6000d0bdfeba375e71ed10
-fetched_at: "2026-09-05T05:14:10+00:00"
+fetched_at: "2026-09-09T21:16:13+00:00"
 ---
 
 <!-- page: 1 -->

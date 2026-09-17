@@ -8,7 +8,7 @@ doc_type: guidance
 citation_root: Form T-4 / Form T-4B
 url: "https://www.rrc.texas.gov/announcements/02272015-new-versions-of-form-t-4-applications-to-permits-to-operate-a-pipeline-in-texas-and-form-t-4b-pipeline-transfer-certification-adopted-and-online"
 sha256: 08169aeec7ebf6b839c4aa8f0247526b686323e1bf510f4c31ae6b09cc0e9159
-fetched_at: "2026-09-05T05:13:07+00:00"
+fetched_at: "2026-09-09T21:10:28+00:00"
 ---
 
 <!-- heading-path: New Versions of Form T-4, Applications to Permits to Operate a Pipeline in Texas, and Form T-4B, Pipeline Transfer Certification, Adopted and Online -->

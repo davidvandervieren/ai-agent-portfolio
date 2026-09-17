@@ -7,7 +7,7 @@ title: Pipeline Online Permitting System (POPS) External User Guide
 doc_type: guidance
 url: "https://www.rrc.state.tx.us/media/myxib4ls/pops-user-guide.pdf"
 sha256: 993f6d32cfa4e7c8f94cb5aed27f084f796bc6589f40bbc8640e42bf23d54d38
-fetched_at: "2026-09-05T05:13:06+00:00"
+fetched_at: "2026-09-09T21:10:25+00:00"
 ---
 
 <!-- page: 1 -->

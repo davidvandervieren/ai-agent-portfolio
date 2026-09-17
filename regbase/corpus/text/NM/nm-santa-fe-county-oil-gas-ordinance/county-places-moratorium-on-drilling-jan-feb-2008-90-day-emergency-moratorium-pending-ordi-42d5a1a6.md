@@ -7,8 +7,8 @@ agency: Santa Fe County — County Attorney / Growth Management
 title: County Places Moratorium on Drilling (Jan-Feb 2008, ~90-day emergency moratorium pending ordinance drafting)
 doc_type: meeting_minutes
 url: "https://www.santafecountynm.gov/news/detail/county-places-moratorium-on-drilling"
-sha256: ec09e7f2268045fd4a641b249e21de41391c43a5d48b8dfd959709e3c6265a3e
-fetched_at: "2026-09-05T05:23:53+00:00"
+sha256: bdce956cd821adde1e781482b2f45adeebad1eed3bda3998107fe846ab6f07f2
+fetched_at: "2026-09-09T21:20:25+00:00"
 ---
 
 11/28/2007

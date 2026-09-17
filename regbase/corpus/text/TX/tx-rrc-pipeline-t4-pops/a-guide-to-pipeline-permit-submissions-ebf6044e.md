@@ -7,7 +7,7 @@ title: A Guide to Pipeline Permit Submissions
 doc_type: guidance
 url: "https://www.rrc.texas.gov/media/awscllog/a-guide-to-pipeline-permit-submissions.pdf"
 sha256: 60dd9b5a03451cc2b95836ab04aab4b8df2e32d57b084210db97aca87091eb55
-fetched_at: "2026-09-05T05:13:07+00:00"
+fetched_at: "2026-09-09T21:10:25+00:00"
 ---
 
 <!-- page: 1 -->

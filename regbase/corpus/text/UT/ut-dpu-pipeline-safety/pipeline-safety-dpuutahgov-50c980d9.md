@@ -6,8 +6,8 @@ agency: Utah Department of Commerce — Division of Public Utilities (DPU), Pipe
 title: Pipeline Safety — dpu.utah.gov
 doc_type: guidance
 url: "https://dpu.utah.gov/pipeline-safety/"
-sha256: 4672c07e44411216a360a6b913e073938458a4392a684decb3472c887035be87
-fetched_at: "2026-09-05T05:13:26+00:00"
+sha256: ae4de21495f1e351a19f7f929794c40f943f262bb07a918953d89d1a49e75ada
+fetched_at: "2026-09-09T21:25:56+00:00"
 ---
 
 <!-- heading-path: Pipeline Safety -->

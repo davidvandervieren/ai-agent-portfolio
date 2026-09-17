@@ -7,7 +7,7 @@ title: Section 106 project review
 doc_type: guidance
 url: "https://www.nmhistoricpreservation.org/documents/section-106.html"
 sha256: 081223d5daba6c34266b590eb17799528270cae6083a25683206b981e703189f
-fetched_at: "2026-09-05T05:23:33+00:00"
+fetched_at: "2026-09-09T21:19:44+00:00"
 ---
 
 <!-- heading-path: Project Review Documents -->

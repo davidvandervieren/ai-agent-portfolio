@@ -7,7 +7,7 @@ title: WPCI Record of Decision map
 doc_type: map
 url: "https://www.eoriwyoming.org/downloads/WPCI_ROD_map.pdf"
 sha256: 340734d782d79779179cee4706aa991a5710f9c238ed86bd395cbb586257c770
-fetched_at: "2026-09-05T05:14:08+00:00"
+fetched_at: "2026-09-09T21:15:31+00:00"
 ---
 
 <!-- page: 1 -->

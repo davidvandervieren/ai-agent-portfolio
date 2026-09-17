@@ -1,0 +1,544 @@
+---
+source_id: co-greeley-municode
+jurisdiction: Greeley, CO
+state: CO
+county: Weld
+municipality: Greeley
+agency: City of Greeley
+title: Sec. 8-207. - Compliance with all city rules and regulations.
+doc_type: code
+citation_root: Title 8 - BUSINESS TAXES, LICENSES AND REGULATIONS > CHAPTER 6. - PAWNBROKERS > Sec. 8-207. - Compliance with all city rules and regulations.
+url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTIICOOR_TIT8BUTALIRE_CH6PA_S8-207COALRURE"
+sha256: abf007c626254717a4fb179a0eafca0458609acf034b193b13e3ad34bfef4818
+fetched_at: "2026-09-17T05:11:30+00:00"
+---
+
+The following words, terms and phrases, when used in this chapter, shall have the
+meanings ascribed to them in this section, except where the context clearly indicates
+a different meaning:
+Contract for purchase means a contract entered into between a pawnbroker and a customer pursuant to which
+money is advanced to the customer by the pawnbroker on the condition that the customer,
+for a fixed price and within a fixed period of time not to be less than 30 days, has
+the option to cancel said contract.
+Customer means a person who delivers personal property into the possession of a pawnbroker
+for the purpose of entering into a contract for purchase or a purchase transaction.
+Fixed period of time means that period of time, to be no less than 30 days, as set forth in a contract
+for purchase, for an option to cancel said contract.
+Fixed price means that amount agreed upon to cancel a contract for purchase during the option
+period. Said fixed price shall not exceed one-fifth of the original purchase price
+for each month plus the original purchase.
+Manager means a person employed by a pawnbroker who is designated as manager or whose duties
+entail the exercise of discretion and independent judgment in the administration of
+the affairs of a pawnbroker's business and the supervision of other employees, as
+well as the making of loans, the execution of any documents required to be prepared
+pursuant to this section and/or the purchasing of goods or property on behalf of the
+business.
+Manager's certificate means the document issued by the city which authorizes an individual to perform his
+duties as manager for the pawnbroker.
+Option means the fixed time and the fixed price agreed upon by the customer and the pawnbroker
+in which a contract for purchase may, but does not have to, be rescinded by the customer.
+Owner means a natural person or legal entity, other than a pawnbroker, who claims to be
+vested with the legal or rightful title to the tangible personal property.
+Pawnbroker means a person, partnership, limited liability company or corporation regularly engaged
+in the business of making contracts for purchase or purchase transactions in the course
+of his business. The term "pawnbroker" does not include secondhand dealers, as defined
+in and regulated by C.R.S. §§ 18-13-114 through 18-13-118, the term "pawnbroker" shall
+also include, without limitation, all owners, managers or employees of a pawnbroker
+business required to be licensed by the city whose regular duties include making contracts
+for purchase, purchase transactions or executing any documents required to be prepared
+pursuant to this chapter.
+Pawnbrokering means the business of a pawnbroker as defined by this section.
+Peace officer means any undersheriff, or deputy sheriff (other than one appointed with authority
+only to receive and serve summons and civil process), police officer, state patrol
+officer, town marshal or investigator for a district attorney or the attorney general,
+who is engaged in full-time employment by the state or a city, county, town or judicial
+district within the state.
+Pledge or pledged property means any tangible personal property deposited with a pawnbroker pursuant to a contract
+for purchase in the course of his business as defined in this section.
+Pledgor means a customer who delivers a pledge into the possession of a pawnbroker.
+Purchase transaction means the purchase by a pawnbroker in the course of his business of tangible personal
+property for resale, other than newly manufactured tangible personal property which
+has not previously been sold at retail, when such purchase does not constitute a contract
+for purchase.
+Tangible personal property or personal property or property means all personal property other than those in action, securities or printed evidences
+of indebtedness, which property is deposited with or otherwise actually delivered
+into the possession of a pawnbroker in the course of his business in connection with
+a contract for purchase of a purchase transaction.
+(Code 1994, § 6.10.010; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+It is unlawful for any person to engage in the business of pawn brokering except as
+provided in and authorized by this chapter and without first having obtained a license
+from the city. Such license shall be kept current at all times, and the failure to
+maintain a current license shall constitute a violation of this chapter.
+(b)
+It is unlawful for any person to act as a manager for a pawnbroker business without
+first having obtained a manager's certificate from the city. Such license shall be
+kept current at all times, and the failure to maintain a current manager's certificate
+while acting as a manager shall constitute a violation of this chapter.
+(Code 1994, § 6.10.020; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+All applicants for a pawnbroker's license shall file an application for such license
+with the chief of police on forms to be provided by the chief of police. Each individual
+applicant, partner of a partnership, manager of a limited liability company, officer,
+director and holder of ten percent or more of the corporate stock of the corporate
+applicant or holder of ten percent or more interest in a limited liability company,
+all managers and any person with a financial interest in the pawnbroker establishment
+shall be named in each application form, and shall have been investigated as required
+by section 8-184 prior to a license being granted. Each individual applicant, partnership, limited
+liability company and corporate applicant for a pawnbroker's license shall, in addition,
+furnish, as an attachment to and part of, such application, evidence that the proposed
+establishment meets the requirements of the zoning ordinance, the building code and
+the revenue and finance code, and proof of the applicant's right to possession of
+the premises wherein the business of pawn brokering will be conducted.
+(b)
+All applicants for a manager's certificate shall file an application for such certificate
+with the chief of police on forms to be provided by the chief of police. Each applicant
+for a manager's certificate shall have been investigated as required by section 8-184 prior to a certificate being granted.
+(Code 1994, § 6.10.030; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+Each applicant, whether an individual, partnership, limited liability company or corporation,
+shall pay an application fee at the time of filing an application. The fee shall be
+set annually in writing by the city manager.
+(Code 1994, § 6.10.040; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+Investigation for a pawnbroker's license. No license shall be issued by the city until
+the application for a license has been investigated by the chief of police and received
+a statement of good standing issued by the police department. An applicant for a pawnbroker's
+license or for the renewal of such license shall undergo a background investigation
+as directed by the chief of police. Each applicant for a license shall furnish sufficient
+documentation, such as a current driver's license, an alien registration card or other
+reasonable identification card, to prove the applicant's name, date of birth and residency,
+and shall provide any other information which is requested on the application.
+(b)
+Investigation for a manager's certificate. No pawnbroker licensee shall employ a person
+as a manager, nor shall any person accept such employment as a manager, unless such
+person has been investigated and been granted a manager's certificate by the chief
+of police and received a statement of good standing issued by the police department.
+(1)
+An applicant for a manager's certificate or for the renewal of such certificate shall
+undergo a background investigation as directed by the chief of police. Each applicant
+for a certificate shall furnish sufficient documentation, such as a current driver's
+license, an alien registration card or other reasonable identification card, to prove
+the applicant's name, date of birth and residency, and shall provide any other information
+which is requested on the application.
+(2)
+An applicant for a manager's certificate shall pay a nonrefundable fingerprint and
+investigation fee in an amount not to exceed actual costs. If, however, the applicant
+can provide proof of a criminal history investigation completed by the state bureau
+of investigation within the year immediately preceding the application, such person
+need only submit a fingerprint card and pay the associated fingerprint fee.
+(3)
+Each manager's certificate shall have clearly imprinted thereon a statement that it
+is valid only for the period of time specified on said certificate. A provisional
+certificate shall be issued by the chief of police upon filing of the application,
+which provisional certificate shall remain in effect during the pendency of an applicant's
+background investigation. Each provisional or regular manager's certificate shall
+be stamped with the name of the pawnbroker and business locations for which it is
+valid. A regular certificate issued shall be for a maximum period of one year; and
+such certificate shall automatically expire upon a change of employment by the certificate
+holder, unless renewed within ten days thereafter, or if the holder is not employed
+in the pawn industry within the city for a period of 90 days or more. A manager's
+certificate which has expired may be renewed by the application process described
+above.
+(c)
+A pawnbroker's license or a manager's certificate may be revoked when the holder has
+been determined by the chief of police to be in violation of any of the provisions
+of this chapter.
+(d)
+Any applicant who has made a false statement upon the application for a pawnbroker
+license and/or application for a manager's certificate, in addition to being subject
+to revocation of said license and/or certificate, commits a misdemeanor infraction
+punishable under chapter 9 of title 1 of this Code.
+(e)
+No pawnbroker license or manager's certificate shall be renewed or issued to the following
+persons under the provisions of this chapter:
+(1)
+Subject to the provisions contained in C.R.S. § 24-5-101, a person who has been convicted
+of any felony or any crime which under the laws of the state would be a felony; any
+crime of which fraud or intent to defraud was an element, whether in the state or
+elsewhere; any crime of embezzlement or larceny against an employer or business; or
+any criminal conviction or civil violation related to any law or ordinance pertaining
+to the pawn industry;
+(2)
+Any person under the age of 18; or
+(3)
+Any person who has made a false, misleading or fraudulent statement on his application
+for a pawnbroker's license or a manager's certificate.
+(f)
+No employee under 18 years of age shall make loans, purchase any goods or property
+on behalf of the business or execute any document required to be prepared pursuant
+to this chapter unless such employee is under the direct supervision of a certified
+manager who is physically present on the licensed premises.
+(Code 1994, § 6.10.050; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+A pawnbroker may employ a manager to operate a pawn brokering business, provided that
+the pawnbroker retains complete control of all aspects of the pawn brokering business,
+including, but not limited to, the pawnbroker's right to possession of the premises,
+his responsibility for all debts and his risk of all loss or opportunity for profit
+from the business.
+(b)
+A pawnbroker must register every manager whom the pawnbroker employs to operate a
+pawn brokering business.
+(c)
+In the event a pawnbroker changes the manager of a pawnbroker establishment, the pawnbroker
+shall immediately report such change and register the new manager on forms provided
+by the chief of police within 30 calendar days of such change. In no event may a pawnbroker
+employ a manager who had not been given a manager's certificate.
+(d)
+Failure of a pawnbroker to report a change or failure of the manager to meet the standards
+and qualification as required in section 8-184 shall be grounds for termination of the pawnbroker's license.
+(Code 1994, § 6.10.060; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+A pawnbroker's license shall be renewed every three years on forms provided by the
+chief of police. Renewals shall be processed pursuant to section 8-21 .
+(b)
+A manager's certificate shall be renewed annually on forms provided by the chief of
+police. Renewals shall be processed pursuant to section 8-21 .
+(Code 1994, § 6.10.070; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+Every applicant for a pawnbroker's license shall furnish a bond, valid for the term
+of the license, with a responsible surety, to be approved by the chief of police,
+in an amount to be set annually by the city manager in writing, for the benefit of
+the people of the city, which bond shall be conditioned upon the safekeeping or return
+of all tangible personal property held by the pawnbroker, as required by law and ordinance,
+and the compliance with all of the provisions of this chapter.
+(b)
+No license shall be issued or renewed absent such approved bond. Termination or cancellation
+of an approved bond shall be grounds for summary suspension of the license and for
+subsequent revocation if a new bond is not furnished within 30 days after demand by
+the chief of police.
+(Code 1994, § 6.10.080; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+The chief of police shall have final authority to approve or deny any application
+for a pawnbroker's license. The chief of police in his discretion may issue the license
+or deny the license application upon the basis of the criteria set forth in this chapter.
+(b)
+The chief of police shall have final authority to approve or deny any application
+for a manager's certificate. The chief of police in his discretion may issue the license
+or deny the license application upon the basis of the criteria set forth in this chapter.
+(Code 1994, § 6.10.090; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+Every pawnbroker shall keep books and records sufficient to identify each pledge,
+contract for purchase or purchase transaction, and each forfeiture of property pursuant
+to the terms of a contract for purchase. Every customer shall provide to the pawnbroker
+the following information for such books and/or records:
+(1)
+The customer's name and date of birth.
+(2)
+The current street address, city, state and zip code of the customer's residence.
+(3)
+The customer's identification from:
+a.
+An identification card issued in accordance with C.R.S. § 42-2-302;
+b.
+A valid state driver's license;
+c.
+A valid driver's license containing a picture issued by another state;
+d.
+A military identification card;
+e.
+A valid passport;
+f.
+An alien registration card; or
+g.
+An official identification document lawfully issued by a state or federal government
+entity.
+(b)
+All transactions shall be kept in a numerical register in the order in which they
+occur, which register shall show the printed name and signature of the pawnbroker
+or agent, the purchase price or other monetary amount of the transaction, the date,
+time and place of the transaction and an accurate and detailed account and description
+of each item of tangible personal property involved, including, but not limited to,
+any and all trademarks, identification numbers, serial numbers, model numbers, owner-applied
+numbers, brand names or other identifying marks on such property. The books and records
+of the licensee shall also reveal the date on which a contract for purchase was terminated
+and whether, and by whom, the pawned personal property of the customer was redeemed,
+renewed or forfeited upon the expiration of the contract for purchase.
+(c)
+If the pawned personal property is redeemed by a person other than the original customer,
+the person redeeming the property shall provide to the pawnbroker, and the pawnbroker
+shall record, the following information:
+(1)
+The person's name and date of birth.
+(2)
+The current street address, city, state and zip code of the person's residence.
+(3)
+The person's driver's license number or other identification number from another form
+of identification which is allowed under subsection (a)(3) of this section.
+(4)
+A notarized permission slip from the original owner authorizing the person to pick
+the items up.
+(Code 1994, § 6.10.100; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+The pawnbroker shall at the time of making the loan contract for purchase or purchase
+transaction obtain a written declaration of ownership from the customer stating:
+(1)
+Whether the property that is the subject of the transaction is solely owned by the
+customer and, if not solely owned by the customer, the customer shall attach a power
+of attorney from all co-owners of the property authorizing the customer to sell or
+otherwise dispose of the property;
+(2)
+How long the customer has owned the property;
+(3)
+Whether the customer or someone else found the property; and
+(4)
+If the property was found, the details of the finding.
+(b)
+The pawnbroker shall require the customer to sign his name, in the presence of the
+pawnbroker, on the declaration of ownership and in the register to be kept under this
+chapter. Each such declaration shall also be signed by the pawnbroker at the time
+of the transaction. The customer shall be given a copy of the contract for purchase
+or a receipt for the purchase transaction.
+(Code 1994, § 6.10.110; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+Every pawnbroker shall video record all transactions, including those which do not
+result in a contract for purchase or purchased transaction. The video recording media
+shall be in a format approved by the police department and of such quality that it
+clearly displays an identifiable image of the customer. All such video recording shall
+be kept by the pawnbroker for a minimum of 90 calendar days and shall be subject to
+police review immediately upon request in accordance with section 8-203 . If the video recording contains photographic evidence of the tangible personal property
+pledged or attempted to be pledged in any actual or proposed contract for purchase,
+it shall be held for 180 calendar days.
+(b)
+Every pawnbroker shall take a digital photograph of all customers entering into contracts
+for purchase with the pawnbroker. The digital photograph shall be attached to the
+books and records of each pledged property, contract for purchase or purchase transaction
+and shall be maintained with said document.
+(c)
+Except for pawnbrokers exclusively dealing in the pawn brokering of motor vehicles,
+every pawnbroker shall own, maintain and operate a computer system with Internet access
+that includes an Internet subscription service as described herein. Every pawnbroker
+shall subscribe to LeadsOnline and maintain said subscription service with LeadsOnline
+during the term of the pawnbroker's license. The pawnbroker shall enter and upload
+all information from its books and records regarding contracts for purchase, pledges
+and purchase transactions to LeadsOnline on a daily basis.
+(d)
+The police department shall enter into a contract for service and maintain its contract
+for service with LeadsOnline in order to enhance its investigative services to protect
+both the pawnbrokers and members of the general public.
+(Code 1994, § 6.10.120; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+All records required to be kept under this chapter must be kept in the English language,
+in a legible manner and shall be preserved and made accessible for inspection for
+a period of three years after the date of redemption or forfeiture and sale of the
+property. Information from records and fingerprints inspected by the police department
+pursuant to this chapter shall be used for regulatory and law enforcement purposes
+only.
+(b)
+Upon the demand of any police department agent, the pawnbroker shall produce and show
+any tangible personal property given to the pawnbroker in connection with any contract
+for purchase or purchase transaction. The pawnbroker's books shall list the date on
+which each contract for purchase was canceled, whether it was redeemed, or forfeited
+and sold.
+(c)
+Every pawnbroker shall provide the police department with records in a format approved
+by the police department of all tangible personal property accepted by the pawnbroker
+pursuant to a contract for purchase or a purchase transaction and copies of each customer's
+declaration of ownership. The records shall contain the same information required
+to be recorded in the pawnbroker's copy of contract for purchase pursuant to this
+section. The required information shall be mailed or otherwise delivered to the police
+department within seven calendar days of each contract for purchase or purchase transaction.
+The reporting format of the required information shall be one of the following:
+(1)
+Forms approved by the police department, together with an electronic copy containing
+the same information in a format approved by the police department; or
+(2)
+Forms approved by the police department and electronic transmission to the police
+department of the same information in a format approved by the police department.
+(Code 1994, § 6.10.130; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+The police department shall maintain an inventory of property removed by the police
+department from each pawnbroker location. The inventory shall be maintained to show
+the property removed from each pawnbroker location and shall include a description
+of the property, the date removed from the pawnbroker business, the reason why the
+property is held, any disposition ordered by the court and the police department incident
+report number assigned in conjunction with the property taken.
+(b)
+The police department shall maintain the property inventories as confidential commercial
+information and as criminal justice records in accordance with the provisions of C.R.S.
+§§ 24-72-201 and 24-72-301 et seq. Once each month, the police department shall mail
+or electronically provide a copy of each location's current inventory held by the
+police department to the owner of the business operating from that location.
+(Code 1994, § 6.10.140; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+At the time of making a contract for purchase or upon the subsequent renewal of any
+contract for purchase, the pawnbroker shall deliver to the customer a pawn ticket
+which contains the following information: the name and address of the licensee; a
+description of the pledge sufficient to adequately identify the pledge; the date of
+the transaction; and the amount, duration and terms of the contract for purchase.
+The pawnbroker may insert on the pawn ticket any other terms, conditions and information
+not inconsistent with the provisions of this chapter. The pawnbroker shall retain
+a duplicate copy of the executed pawn ticket.
+(Code 1994, § 6.10.150; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+No contract for purchase shall be for a fixed period of time of less than 30 calendar
+days.
+(b)
+No pawnbroker shall ask, demand or receive any fixed price that exceeds one-fifth
+of the original purchase price for each month plus the amount of the original purchase
+price.
+(Code 1994, § 6.10.160; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+Pawnbrokers shall accept any intermediate payment offered by a customer upon a loan
+made under a contract for purchase which has not matured, so long as such payment
+is equal to or greater than ten percent of the fixed price, as defined in section 8-195 (b), together with accrued charges. The acceptance of payments in lesser amounts shall
+be discretionary with the pawnbroker. A receipt showing the date of the payment and
+the amount shall be given to the customer for all monies received on account of, or
+in payment of, loans made under a contract for purchase.
+(Code 1994, § 6.10.170; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+A pawnbroker shall hold all property purchased by him through a purchase transaction
+for 30 calendar days following the date of purchase, during which time such property
+shall be held separate and apart from any other tangible personal property and shall
+not be changed in form or altered in any other way.
+(b)
+A pawnbroker shall hold all goods received through a contract for purchase within
+his jurisdiction for a period of ten calendar days following the maturity date of
+the contract for purchase, during which time such goods shall be held separate and
+apart from any other tangible personal property and shall not be changed in form or
+packaged or altered in any way. If the customer has failed or neglected to redeem
+such property on or before the maturity date of the contract by repayment of the balance
+of the principal and payment of all accrued interest charges, the pawnbroker shall,
+immediately upon maturity of the contract, mail with sufficient postage a notice of
+the impending sale of the property delivered under the contract. Such notice shall
+be mailed to the customer at the address shown on the contract pertaining to the transaction.
+Ten calendar days shall be allowed from the date of mailing of the notification for
+the customer to appear and reclaim the property or make satisfactory payments upon
+it. The pawnbroker shall not sell or otherwise dispose of the property prior to the
+expiration of the ten-day period.
+(Code 1994, § 6.10.180; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+Any authorized agent of the police department may order a pawnbroker to hold any tangible
+personal property deposited with or in the custody of any pawnbroker for the purposes
+of further investigation by the police department. A hold order shall be effective
+upon verbal notification to the pawnbroker by an authorized agent of the police department
+and shall be for a period of 30 calendar days. The written hold order shall be provided
+to the pawnbroker within 24 hours of the verbal notification, unless the end of the
+24-hour period falls on a Saturday, Sunday or holiday, in which event the written
+notification of the hold order shall be provided to the pawnbroker on the following
+Monday or the next business day following a holiday. No sale or other disposition
+may be made of any tangible personal property deposited with or in the custody of
+the pawnbroker while the hold order remains in effect.
+(b)
+Any sale or other disposition of the property after the pawnbroker has been notified
+by the police department of a hold order shall be unlawful and a violation of chapter
+9 of title 1 of this Code.
+(Code 1994, § 6.10.190; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+When property which was removed from the pawnbroker, his employee, agent or any other
+person acting on his behalf, either by consent or seized by warrant and held by the
+police department, as evidence is no longer needed as evidence for further legal proceedings,
+or is immediately authorized by the district attorney to be returned to the owner
+and there is no court order which concerns its disposition, the police department
+shall notify the pawnbroker, any other person claiming to be the lawful owner of the
+property and any other person who has notified the police department in writing of
+his claim of an interest in the property, of the right to an administrative hearing
+to determine who is entitled to possession of such property. Such notice shall be
+sent by the police department to such persons by certified mail, return receipt requested.
+A request for an administrative hearing shall be filed in writing with the police
+department within 14 days after the date the notice was mailed by the police department.
+The written request for a hearing must include the person's current address and a
+daytime telephone number or, in the case of a pawnbroker, his business address and
+telephone number. Absent any request for a hearing, possession of such seized property
+shall be restored to the owner.
+(Code 1994, § 6.10.200; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+A hearing to determine the right to possession shall be conducted by the administrative
+hearing officer within ten calendar days of the police department's receipt of a written
+request for a hearing unless otherwise set by the administrative hearing officer but,
+in no event, the date for such hearing shall not exceed 20 calendar days, unless the
+person requesting the hearing waives the right to a hearing within that period.
+(b)
+The hearing shall be conducted in accordance with the applicable provisions of this
+Code, chapter 12 of title 2 of this Code, section 8-26 and the administrative hearing rules.
+(c)
+The decision of the administrative hearing officer shall be final and any appeal shall
+be to the district court in accordance with applicable state law. The property shall
+be returned to the person determined to have the right to possession within 30 calendar
+days after the date of the administrative hearing officer's decision or at such time
+as any appeals have been exhausted.
+(Code 1994, § 6.10.210; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+It is unlawful for any pawnbroker, his employee, agent or any other person acting
+on his behalf to make a contract for purchase, acquire a pawn ticket by transfer or
+make a purchase transaction with the following:
+(1)
+Any person under 18 years of age;
+(2)
+Any person under the influence of alcohol or any illegal narcotic drug, substance,
+stimulant or depressant;
+(3)
+Any person the pawnbroker knows and/or whose actions would give the pawnbroker probable
+cause to believe the tangible property, which is the subject of a contract for purchase
+or purchase transaction with that customer, was obtained illegally;
+(4)
+Any person in possession of tangible personal property, which is the subject of a
+contract for purchase transaction, with an identification number thereon which is
+obscured. For the purposes of this subsection, the term obscure means to destroy,
+remove, alter, conceal or deface so as to render the identification number illegible
+by ordinary means of inspection.
+(b)
+With respect to a contract for purchase, no pawnbroker may permit any customer to
+be obligated on the same day in any way under more than one contract for purchase
+agreement with the pawnbroker which would result in the pawnbroker's obtaining a greater
+amount of money than would be permitted if the pawnbroker and customer had entered
+into only one contract for purchase covering the same tangible personal property.
+(c)
+No pawnbroker shall violate the terms of any contract for purchase.
+(Code 1994, § 6.10.220; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+Any pawnbroker licensed and operating under the provisions of this chapter shall provide
+a safe place for the keeping of pledged property received by him, and shall have sufficient
+insurance on the pledged property held by him for the benefit of the pledgor to pay
+50 percent of the fair-market value thereof in case of fire, theft or other casualty
+loss, which policy shall be deposited with the chief of police or his designee prior
+to approval of the license. Neither the pawnbroker nor surety shall be relieved from
+their responsibility by reason of such fire, theft or other casualty loss, or from
+any other cause, save full performance.
+(Code 1994, § 6.10.230; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+At all times during the term of the license, the pawnbroker shall allow any authorized
+agent of the police department, or any person authorized at section 8-18 , to inspect licenses and businesses, to enter the premises where the licensed business
+is located, including all off-site storage facilities, during normal business hours,
+except in an emergency, for the purpose of inspecting such premises and inspecting
+the items, wares, merchandise and records therein to verify compliance with this chapter
+or other applicable laws.
+(Code 1994, § 6.10.240; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+Pawnbroker establishments shall be closed on Sundays and Christmas, Thanksgiving,
+Labor Day, New Year's Day, Memorial Day and Fourth of July holidays.
+(Code 1994, § 6.10.250; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+A pawnbroker shall conduct his pawnshop business from only one business location,
+which shall be the location listed on the pawnbroker's license. This provision shall
+not prohibit a pawnbroker from using warehouses or other storage locations away from
+the licensed place of business, but such other location shall be used only if the
+pawnbroker first submits notice to the police department in writing of such off-site
+locations. Such off-site locations shall be open to any peace officer for inspection
+as provided for in section 8-203 .
+(Code 1994, § 6.10.260; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+(a)
+The business premises of a pawnbroker business shall not be located within one mile
+of the business premises of another pawnbroker business. This restriction shall apply
+to all pawnbroker business licenses issued under this chapter after the effective
+date of the ordinance codified herein. This one-mile restriction shall not apply to
+the renewal of an existing pawnbroker business license nor shall it apply to the issuance
+of a pawnbroker license for an applicant who has received a city occupancy or sales
+tax license prior to the effective date of the ordinance codified herein for a structure
+in which a pawnbroker business shall be located.
+(b)
+For the purpose of this subsection, the distance between pawnbroker businesses shall
+be measured in a straight line, without regard to intervening structures, objects
+or city limits, from the property line of one pawnbroker business to the property
+line of the other pawnbroker business.
+(Code 1994, § 6.10.270; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+The premises and business shall be operated at all times in compliance with city municipal
+codes, including, but not limited to, building, sanitation, fire and zone codes, as
+well as in conformity with business license regulations such as sales tax collected.
+(Code 1994, § 6.10.280; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+In addition to the revocation, suspension or denial of a license or manager's permit
+issued, any person, including, but not limited to, any customer or pawnbroker, who
+violates any of the provisions of this chapter commits a misdemeanor infraction and
+is subject to the punishment prescribed by chapter 9 of title 1 of this Code.
+(Code 1994, § 6.10.300; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)
+Every pawnbroker shall conspicuously post a notice, provided by the police department,
+in a place clearly visible to all customers which sets forth the penalties of this
+chapter and of C.R.S. § 29-11.9-104, concerning false information to a pawnbroker
+and C.R.S. § 18-4-410, concerning theft by receiving. Such notification shall include
+information to the effect that stolen property may be confiscated by any peace officer
+and returned to the rightful owner without compensation to the buyer and may also
+include any information regarding any reimbursement policy of the pawnbroker regarding
+confiscation.
+(Code 1994, § 6.10.310; Ord. No. 36, 2016 , § 2(exh. A), 12-20-2016)

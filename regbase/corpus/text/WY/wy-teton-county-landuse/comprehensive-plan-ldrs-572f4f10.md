@@ -7,8 +7,8 @@ agency: Teton County Planning Division (joint Jackson/Teton County Comprehensive
 title: Comprehensive Plan & LDRs
 doc_type: policy
 url: "https://www.tetoncountywy.gov/1188/Comprehensive-Plan-LDRs"
-sha256: b9d1d37f937a3de7720f935dcc15bc5a5f07e692dee206a36ca5dd84b6d29266
-fetched_at: "2026-09-05T05:14:19+00:00"
+sha256: a687543f5b50e87a1c534fb395bdab632b1fc8909855336becafc9e2f13613fe
+fetched_at: "2026-09-09T21:16:18+00:00"
 ---
 
 <!-- heading-path: Comprehensive Plan & LDRs -->

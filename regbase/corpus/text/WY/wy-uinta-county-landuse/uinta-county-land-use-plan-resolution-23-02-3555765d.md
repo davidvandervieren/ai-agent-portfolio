@@ -9,7 +9,7 @@ doc_type: ordinance
 citation_root: Uinta County Land Use Resolution 23-02
 url: "https://www.uintacountywy.gov/DocumentCenter/View/608/Uinta-County-Land-Use-Resolution-2023"
 sha256: dc6dfb625b5cc9da64a58c23e66f0c8ed6b18f2e175fce50e84eb6b7d2c2c780
-fetched_at: "2026-09-05T05:14:22+00:00"
+fetched_at: "2026-09-09T21:16:03+00:00"
 ---
 
 <!-- page: 2 -->

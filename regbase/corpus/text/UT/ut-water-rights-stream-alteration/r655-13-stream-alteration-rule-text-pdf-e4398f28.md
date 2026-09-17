@@ -8,7 +8,7 @@ doc_type: regulation
 citation_root: Utah Admin. Code R655-13
 url: "https://waterrights.utah.gov/rules/R655-13.pdf"
 sha256: 3f78ac8bb8d151fc18968ae567a168379dc553f2198e0ae66acb1767e7733898
-fetched_at: "2026-09-05T05:13:35+00:00"
+fetched_at: "2026-09-09T21:25:42+00:00"
 ---
 
 <!-- page: 1 -->
