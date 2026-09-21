@@ -28,9 +28,15 @@ TEXT_METHODS = {"read_text", "write_text"}
 BINARY_MODES = {"rb", "wb", "ab", "r+b", "w+b", "a+b", "xb"}
 
 
+# Modules whose .open() opens something other than a file.
+NOT_FILE_OPENERS = {"webbrowser", "urllib", "request", "opener"}
+
+
 def call_name(node: ast.Call) -> str:
     f = node.func
     if isinstance(f, ast.Attribute):
+        if isinstance(f.value, ast.Name) and f.value.id in NOT_FILE_OPENERS:
+            return ""
         return f.attr
     if isinstance(f, ast.Name):
         return f.id

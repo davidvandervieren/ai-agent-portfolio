@@ -1,0 +1,6 @@
+
+
+# update packages unpacked at the repo root, and their stray nested copies
+regbase/tools/*.zip
+regbase/tools/regbasemunicode/
+regbase/tools/regbaserender/
