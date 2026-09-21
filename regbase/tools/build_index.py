@@ -607,15 +607,39 @@ def index_documents(con: sqlite3.Connection, sources: list[common.Source],
     seen_keys: set[tuple[str, str]] = set()
     seen_bodies: set[tuple[str, str]] = set()
 
+    # Whole-code harvests (Municode's API, a crawl) store chapters the
+    # registry never listed one by one. They live only in the manifest, so
+    # the registry's documents are joined by every harvested record of the
+    # same source that carries text. Without this a 182-chapter code
+    # contributes exactly the two chapters someone typed into the registry.
+    harvested: dict[str, list[common.Document]] = {}
+    by_lower: dict[tuple[str, str], dict] = {}     # registry URLs differ from stored ones in case
+    for rec in manifest.values():
+        sid = rec.get("source_id", "")
+        url = rec.get("url", "")
+        if not sid or not url:
+            continue
+        by_lower.setdefault((sid, url.lower()), rec)
+        if not _first(rec, _TEXT_KEYS) or rec.get("thin_extraction"):
+            continue
+        harvested.setdefault(sid, []).append(common.Document(
+            title=rec.get("title") or url, url=url,
+            doc_type=rec.get("doc_type") or "code", format=rec.get("format") or "html",
+            citation_root=rec.get("citation_root") or "", notes="harvested"))
+
     for s in sources:
-        for d in s.docs():
+        registry_docs = list(s.docs())
+        listed = {(d.url or "").lower() for d in registry_docs}
+        extra = [d for d in harvested.get(s.id, []) if d.url.lower() not in listed]
+        stats["harvested"] = stats.get("harvested", 0) + len(extra)
+        for d in registry_docs + extra:
             url = d.url or ""
             key = (s.id, url)
             if key in seen_keys:
                 continue
             seen_keys.add(key)
 
-            mrec = manifest.get(f"{s.id}::{url}", {}) or {}
+            mrec = manifest.get(f"{s.id}::{url}") or by_lower.get((s.id, url.lower()), {}) or {}
             raw_p = _resolve(str(_first(mrec, _RAW_KEYS)))
             text_p = _resolve(str(_first(mrec, _TEXT_KEYS))) or guess_text_path(s, d.title, url)
             sha = str(_first(mrec, _SHA_KEYS))
@@ -690,8 +714,11 @@ def index_documents(con: sqlite3.Connection, sources: list[common.Source],
                 continue
 
             # Two documents of one source with identical text are the same
-            # chapter reached by two nodes; index it once.
-            body_sha = sha256_file(text_p)
+            # chapter reached by two nodes; index it once. The hash covers the
+            # body only: the front matter carries each record's own title and
+            # URL, so hashing the whole file let one chapter stored under
+            # thirty section titles count as thirty bodies.
+            body_sha = hashlib.sha256(body_only.encode("utf-8")).hexdigest()
             dup_key = (s.id, body_sha)
             if dup_key in seen_bodies:
                 stats["dup_body"] = stats.get("dup_body", 0) + 1
@@ -798,7 +825,9 @@ def main(argv: Optional[list[str]] = None) -> int:
     print(f"  by level          : {levels}")
     print(f"  confidence        : {confs}")
     print(f"  documents         : {q('SELECT COUNT(*) FROM documents')}"
-          f"  (manifest records: {len(manifest)})")
+          f"  (registry {stats['documents'] - stats.get('harvested', 0)}, "
+          f"harvested chapters {stats.get('harvested', 0)}; "
+          f"manifest records: {len(manifest)})")
     print(f"  permits           : {n_permits}")
     print(f"  people            : {n_people}")
     print(f"  text files found  : {stats['with_text']}  "

@@ -202,6 +202,17 @@ def main() -> int:
     check("Municode-hosted documents not fetched twice, whatever their case",
           stats["fetched"] == 1)
 
+    # The harvested chapters must reach the index, not just the disk.
+    import build_index
+    con = build_index.connect(Path(tmp) / "index.sqlite", rebuild=True)
+    build_index.upsert_sources(con, [src])
+    istats = build_index.index_documents(con, [src], common.manifest_read())
+    hits = con.execute("SELECT COUNT(*) FROM chunks WHERE text LIKE '%22-402%'").fetchone()[0]
+    con.close()
+    check("harvested chapters are indexed beside the registry's documents",
+          istats.get("harvested") == 2 and istats["chunked"] == 4 and istats["missing_text"] == 0)
+    check("a chapter the registry never listed is searchable", hits >= 1)
+
     print("\n" + ("whole-code Municode harvest works end to end"
                   if not failed else f"{failed} check(s) failed"))
     return 1 if failed else 0
