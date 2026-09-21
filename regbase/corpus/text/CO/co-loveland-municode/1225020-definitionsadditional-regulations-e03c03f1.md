@@ -1,0 +1,70 @@
+---
+source_id: co-loveland-municode
+jurisdiction: Loveland, CO
+state: CO
+county: Larimer
+municipality: Loveland
+agency: City of Loveland
+title: 12.25.020 - Definitions—Additional regulations.
+doc_type: code
+citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 12 - STREETS, SIDEWALKS AND PUBLIC PLACES > Chapter 12.25 - STREET MAINTENANCE FEE > 12.25.020 - Definitions—Additional regulations.
+url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT12STSIPUPL_CH12.25STMAFE_12.25.020DEDDRE"
+sha256: aca4913aecf217e4a4919aa375623406d68ef7b2dff7777027d85f41ab7a0331
+fetched_at: "2026-09-18T10:25:51+00:00"
+---
+
+A.
+The purpose of this chapter is to establish a street maintenance fee on users of city
+utility services within the boundaries of the city. The amount of the fee as established
+herein is intended to defray the costs of properly maintaining city streets.
+B.
+It is the intent of council that the amounts collected by the imposition of the street
+maintenance fee shall be set aside and utilized for the sole purpose of defraying
+the costs of maintaining the streets located within the boundaries of the city.
+(Ord. No. 6242 , § 1, 11-6-2018)
+A.
+As used in this chapter:
+Customer means a person to whom the city furnishes stormwater service.
+Maintenance means activities performed for the upkeep and repair of the city's streets, including
+but not limited to patching, crack sealing, seal coating, overlaying, resurfacing,
+and reconstruction.
+B.
+The city manager is authorized to issue regulations not inconsistent with this chapter
+to further define such terms as may be necessary or desirable for the administration
+of this chapter, and to establish additional procedures as may be necessary or desirable
+for the administration of this chapter.
+(Ord. No. 6242 , § 1, 11-6-2018)
+A.
+All moneys received from the street maintenance fee imposed pursuant to this chapter
+shall be paid into the general fund, and shall be used exclusively to pay the cost
+of maintenance of the city's street system and not for any general city purposes.
+B.
+To the extent that the funds derived from the street maintenance fee imposed pursuant
+to Section 12.25.040 are not sufficient to properly maintain the city's street system, the city may augment
+such funds with other city funds as may be determined by council.
+(Ord. No. 6242 , § 1, 11-6-2018)
+A.
+There is hereby imposed on each customer within the city a street maintenance fee.
+B.
+The amount of the fee shall be as set by council by resolution and shall be based
+upon the customer's use of the lot, tract, or parcel of land receiving city services,
+the city's estimate of the relationship between such use and the generation of vehicular
+traffic on the city's street system, and the city's estimate of the cost of maintenance
+of the city's street system as a result of such traffic.
+C.
+The amount of the fee may be changed from time to time based upon revised estimates
+of the costs of maintenance of the city's street system, revised categories of uses
+and traffic generation factors, and other factors reasonably related to the needs
+created or contributed to by customers who are subject to the fee.
+D.
+The resolution establishing the amount of the fee may set forth charges pertaining
+to any delinquency in payment of the fee, including but not limited to late payment
+penalties and returned check charges, and collection charges.
+(Ord. No. 6242 , § 1, 11-6-2018)
+The street maintenance fee established by this chapter shall be billed and collected
+with the monthly stormwater bill for each customer utilizing such service.
+(Ord. No. 6242 , § 1, 11-6-2018)
+Any fee due under this chapter which is not paid when due may be recovered in an action
+at law by the city. The city may pursue any remedies or penalties provided by law
+necessary to carry out the provisions of this chapter.
+(Ord. No. 6242 , § 1, 11-6-2018)

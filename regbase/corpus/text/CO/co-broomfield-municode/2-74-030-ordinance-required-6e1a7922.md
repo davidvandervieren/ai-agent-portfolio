@@ -1,0 +1,43 @@
+---
+source_id: co-broomfield-municode
+jurisdiction: Broomfield County, CO
+state: CO
+county: Broomfield
+agency: City and County of Broomfield Planning & Development Services
+title: 2-74-030 - Ordinance required.
+doc_type: code
+citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-74 - Sale and Disposition of Buildings and Real Property > 2-74-030 - Ordinance required.
+url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-74SADIBUREPR_2-74-030ORRE"
+sha256: 0d883b3efde168ae50d9953b3a2e15821e2dbe726c6eb7c4287ea52a0a34fa3f
+fetched_at: "2026-09-17T15:22:20+00:00"
+---
+
+The purpose of this chapter is to establish a process consistent with section 18.3 of the Home Rule Charter relating to the sale and disposition of municipally owned
+buildings and real property in use for public purposes.
+(Ord. 1592 §1, 2001)
+The sale or disposition of municipally-owned buildings or real property in use for
+public purposes shall be referred to the registered electors of the city at any regular
+or special election.
+(Ord. 1592 §1, 2001)
+The sale or disposition of municipally-owned buildings or real property not in use
+for public purposes shall be authorized by ordinance. At the public hearing and second
+reading of such ordinance, the record shall reflect that such municipally-owned buildings
+or real property are not in use for public purposes.
+(Ord. 1592 §1, 2001)
+Any real property acquired by the city as open space is hereby determined to be in
+use for a public purpose. Any sale or disposition thereof must be approved by the
+registered electors of the city at any regular or special election, and if so approved,
+compensation must be made to the open space fund in an amount equal to the value of
+the open space property sold or otherwise disposed of.
+(Ord. 1592 §1, 2001)
+(A)
+The mayor or the mayor pro tem is authorized to sign and the city clerk to attest
+and seal, in form approved by the city attorney, any deed or conveyance as the city
+council may authorize by ordinance in accordance with section 2-74-030 above.
+(B)
+The mayor or the mayor pro tem is authorized to sign and the city clerk to attest
+and seal, in form approved by the city attorney, any deed or conveyance authorized
+by the approval of a majority of the registered electors voting at a regular or special
+election on a referred measure for the sale or disposition of municipally-owned buildings
+or real property in use for public purposes.
+(Ord. 1592 §1, 2001)

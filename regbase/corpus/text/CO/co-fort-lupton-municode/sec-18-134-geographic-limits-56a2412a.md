@@ -1,0 +1,212 @@
+---
+source_id: co-fort-lupton-municode
+jurisdiction: Fort Lupton, CO
+state: CO
+county: Weld
+municipality: Fort Lupton
+agency: City of Fort Lupton
+title: Sec. 18-134. - Geographic limits.
+doc_type: code
+citation_root: CHAPTER 18 - Building Regulations > ARTICLE VII - Fire Code > Sec. 18-134. - Geographic limits.
+url: "https://library.municode.com/co/fort_lupton/codes/municipal_code?nodeId=CH18BURE_ARTVIIFICO_S18-134GELI"
+sha256: 3e3846ec3966b593ee13a839cb00d01585478c07b6d7127a20a07445d7556d8e
+fetched_at: "2026-09-18T07:34:05+00:00"
+---
+
+A certain document, one (1) copy of which is on file in the office of the City Clerk,
+being marked and designated as the International Fire Code, 2018 edition, including
+all Appendix Chapters (see International Fire Code Section 101.2.1, 2018 edition),
+as published by the International Code Council, is hereby adopted as the Fire Code
+of the City, regulating and governing the safeguarding of life and property from fire
+and explosion hazards arising from the storage, handling and use of hazardous substances,
+materials and devices, and from conditions hazardous to life or property in the occupancy
+of building and premises as herein provided; providing for issuance of permits and
+collection of fees therefor; and each and all of the regulations, provisions, penalties,
+conditions and terms of said Fire Code on file in the office at the City are hereby
+referred to, adopted and made a part hereof, as if fully set out herein, with the
+additions, insertions, deletions and changes, if any, prescribed in Section 18-137 below.
+(Ord. 630 §§1, 2, 1992; Ord. 96-683 §5; Ord. 98-726, Part 1; Ord. 2005-850 Part 1;
+Ord. 2014-980 §17; Ord. No. 2021-1130 , 10-5-2021; Ord. No. 2021-1133 , § 8, 11-2-2021)
+The subject matter of the International Fire Code is to provide regulation for the
+safeguarding of life and property from the hazards of fire and explosion. The purpose
+of this Article is to govern the maintenance of buildings and premises; to safeguard
+life, health, property and public welfare by regulating the storage, use and handling
+of dangerous and hazardous substances, materials and from conditions hazardous to
+life or property in the use or occupancy of buildings or premises.
+(Ord. 630 §3, 1992; Ord. 2005-850 Part 1)
+The subject matter of the International Fire Code Standards is the Uniform Body of
+Fire Code Standards considered necessary to properly administer the International
+Fire Code. It contains standards of the American Society for Testing and Materials
+and of the National Fire Protection Association referenced by the International Fire
+Code. These standards govern the Fire Code requirements for various flash point tests,
+for selection of fire extinguishers, aircraft fueling, use of industrial furnaces,
+industrial and institutional oxygen systems, various fire protection systems, transportation
+and storage of flammable or combustible liquids, and use of liquefied petroleum gases.
+(Ord. 630 §4, 1992; Ord. 2005-850 Part 1)
+The geographic limits referred to in certain sections of the 2018 International Fire
+Code are hereby established as follows:
+" Section 5704.2.9.6.1. Locations where above-ground tanks are prohibited. Storage of class I and II liquids in above-ground tanks outside of buildings is prohibited
+within the City limits of the City of Fort Lupton, except for previously existing
+storage facilities which shall be subject to the exemption provided herein. New storage
+facilities shall be allowed only upon completion of a plan review and approval of
+the Fort Lupton Fire Protection District."
+" Section 5706.2.4.4. Locations where above-ground tanks are prohibited. Storage of class I and II liquids in above-ground tanks outside of buildings is prohibited
+within the City limits of the City of Fort Lupton, except for previously existing
+storage facilities which shall be subject to the exemption provided herein. New storage
+facilities shall be allowed only upon completion of a plan review and approval of
+the Fort Lupton Fire Protection District."
+" Section 5806.2. Limitations. Storage of flammable cryogenic fluids in stationary containers outside of buildings
+is prohibited within the boundaries of the Fort Lupton Fire Protection District, including
+all areas within the City of Fort Lupton except that such storage may be allowed only
+upon completion of a plan review and approval of the Fort Lupton Fire Protection District."
+" Section 6104.2. Maximum capacity within established limits. The storage of liquefied petroleum gas within the City of Fort Lupton is prohibited
+except for previously existing storage facilities and except for residential barbeque
+tank or outdoor barbeque grills and except for propane tanks of 1000 gallons or less
+which are located within the City, but outside the city limits of the City of Fort
+Lupton , all of which shall be exempt. New storage facilities involving tanks which
+exceed 1000 gallons shall require approval of the Fort Lupton Fire Protection District
+after plan review."
+The following section A101.2 of Appendix A shall be repealed and replaced, and to
+be known as Section Al 01.2:
+" A101.2 Board of appeals established. In order to hear and decide appeals of orders, decisions or determinations made by
+the fire code official relative to the application and interpretation of this code,
+there shall be and is hereby created a board of appeals. The board of appeals shall
+be the Board of Directors of the Fort Lupton Fire Protection District. The fire code
+official shall be an ex officio member of said board but shall have no vote on any
+matter before the board. The board shall render all decisions and findings in writing
+to the appellant with a duplicate copy to the fire code official."
+(Ord. 2014-980 §18; Ord. No. 2021-1133 , § 9, 11-2-2021)
+" Section 101.1 Title. These regulations shall be known as the Fire Code of the City of Fort Lupton, hereinafter
+referred to as "this code"
+" Section 110.4 Violation Penalties. Persons who shall violate a provision of this code or who shall fail to comply with
+any of the requirements thereof or who shall erect, install, alter, repair or do work
+in violation of the approved construction documents or directive of the fire code
+official, or of a permit or certificate used under provisions of this code, shall
+be guilty of a misdemeanor, punishable by a fine of not more than five hundred dollars
+($500.00) or imprisonment. Each day that a violation continues after due notice has
+been served shall be deemed a separate offense."
+" Section 112.4 Failure to Comply. Any person who shall continue any work after having been served with a Stop Work
+Order, except such work as that person is directed to perform to remove a violation
+or unsafe condition, shall be liable for a fine of not less than five hundred dollars
+($500.00) or more than one-thousand dollars ($1,000.00)."
+" Chapter 9 . Fire Protection Systems shall be modified to include the following provisions: DEVELOPMENTS
+NOT SERVED BY PUBLIC WATER SYSTEM-REQUIREMENT FOR FIRE EXTINGUISHING SYSTEMS. The
+extension or enlargement of a platted subdivision, or the development of any platted
+but underdeveloped subdivision, which is not served by a public water system, shall
+require that each dwelling unit in such extension, enlargement, or development in
+a previously undeveloped subdivision shall have an automatic fire extinguishing system,
+which has been approved by the local fire code official."
+(Ord. 2014-980 §19; Ord. No. 2021-1133 , § 10, 11-2-2021)
+(a)
+The Fire Chief or the Fire Marshal shall enforce this Code and shall inspect or cause
+to be inspected all buildings, structures, property, premises and public places, except
+the interior of any private dwelling, in accordance with the inspection procedures
+set forth in Section 32-1-1002(3), C.R.S. All inspections shall be recorded in an
+inspection report.
+(b)
+A "Notice of Violation or Hazard" may be issued by the Fire Chief or Fire Marshal
+concerning violations or hazards which are not corrected on site during an inspection.
+Such notice shall be signed by the Chief or Fire Marshal and shall contain, as a minimum,
+the following information:
+(1)
+Date of inspection;
+(2)
+Name/address of premises inspected;
+(3)
+Name of inspector;
+(4)
+Nature of violations, including specific reference to sections or subsections of the
+Uniform Fire Code;
+(5)
+Date of compliance/reinspection;
+(6)
+Suggested methods of correction, if applicable;
+(7)
+Right to appeal to the Fort Lupton Fire Protection District Board; and
+(8)
+Consequences of failure to correct the violation.
+(c)
+Order for Immediate Correction of Hazard.
+(1)
+An Order for Immediate Correction of Hazard may be issued by the Fire Chief or Fire
+Marshal:
+a.
+For failure to correct violation or hazard within the time specified in a previously
+issued Notice of Violation or Hazard; or
+b.
+For violation of the Code or state statute, which violation renders the building,
+structure or premises especially liable to fire or is hazardous to the safety of the
+occupants thereof, or which is so situated as to endanger other property as set forth
+in Sections 32-1-1002(3)(c) and (d), C.R.S., whether or not a notice has been previously
+issued.
+(2)
+An Order for Immediate Correction of Hazard shall be signed by the Fire Chief or Fire
+Marshal and shall contain as a minimum, the following information:
+a.
+Date of issuance;
+b.
+Name/address of premises inspected;
+c.
+Nature of violation or hazard;
+d.
+Time limit for correction;
+e.
+Right of appeal, if any, to the Board;
+f.
+Right of appeal to the District Court and time limit;
+g.
+Penalties for violation of order;
+h.
+Signature of Fire Chief or Fire Marshal; and
+i.
+Acknowledgment of receipt signed by owner, lessee, agent or other responsible person.
+(d)
+An appeal of a Notice of Violation or Hazard may be made to the Board by delivering
+to the Fire Chief or Fire Marshal in writing a notice of appeal within five (5) days
+of the issuance of the Notice of Violation or Hazard. The appeal shall be heard at
+the next regular meeting or at a special meeting called for that purpose. The Board
+may affirm, rescind or modify the notice and may enter into such an enforcement agreement
+as it deems proper.
+(e)
+An appeal of an Order for Immediate Correction of Hazard may be made to the Board
+only if no previous appeal has been made of a previously issued Notice of Violation
+or Hazard concerning the same violation or hazard. An appeal of an order must be in
+writing and filed with the Board within three (3) days of the issuance of an order.
+(f)
+The Board shall hear all such appeals and applications for relief and render its decision
+thereon in accordance with its bylaws, rules and regulations.
+(g)
+In the event no appeal is made to the Board pursuant to this Code and resolution or
+to a court of competent jurisdiction pursuant to Section 32-1-1002(3), C.R.S., and
+compliance with the order and correction of the hazard has not occurred, the Board
+may, upon recommendation of the Fire Chief, the Fire Marshal or upon its own motion,
+refer the matter to the District Attorney of the county in which the violation occurs
+for prosecution.
+(h)
+An appeal shall suspend the time limits for compliance or correction until the appeal
+is resolved with respect to appeals of a Notice of Violation or Hazard and also of
+an Order for Immediate Correction of Hazard which is issued pursuant to Subsection
+(c)(1)a above. An appeal of an order issued pursuant to Subsection (c)(1)b above shall
+not suspend the time limits for compliance or correction, and compliance or correction
+shall be made or rendered forthwith, unless the order is suspended by the Board.
+(i)
+Whenever the Fire Chief or Fire Marshal disapproves an application or when it is claimed
+that the provisions of this Code do not apply or that the true intent and meaning
+of the Code has been misconstrued or wrongly interpreted, the applicant may appeal
+from the decision of the Fire Chief or Fire Marshal to the Fort Lupton Fire Protection
+District Board within thirty (30) days from the date of any such decision.
+(Ord. 630 §9, 1992)
+(a)
+This Article shall apply to the jurisdiction of the City, the Fort Lupton Fire Protection
+District in which the City is located, by and through the Fire Marshal appointed by
+the Fire Protection District or by the Fire Chief of said district or by both the
+Fire Marshal and the Fire Chief.
+(b)
+Whenever the term Chief or Chief of the Bureau of Fire Prevention is used, it shall
+be held to mean either the Fire Chief of the Fort Lupton Fire Protection District
+or the Fire Marshal of the Fort Lupton Fire Protection District or either of them
+as the context may require.
+(Ord. 630 §12, 1992)
+The 2003 International Fire Code of the City and all other ordinances or parts of
+laws in conflict herewith are hereby repealed.
+(Ord. 2014-980 §20)

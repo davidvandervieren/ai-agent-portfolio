@@ -8,8 +8,8 @@ agency: City of Thornton
 title: Oil & Gas Development | City of Thornton
 doc_type: guidance
 url: "https://www.thorntonco.gov/business-development/active-development/oil-gas-development"
-sha256: 853ac7398f04ba34f0359739f5e8cdd2ff6438c3ce6e42fbde50fbce001587a0
-fetched_at: "2026-09-10T04:34:00+00:00"
+sha256: ebaa386ca1a20b4719bc521e77f73853ff55d06ec9182444d33b9d5d3b6fbd36
+fetched_at: "2026-09-18T13:58:44+00:00"
 ---
 
 <!-- heading-path: Oil & Gas Development -->
@@ -34,57 +34,57 @@ At the November 29, 2022 Council Meeting, Council approved an Operator Agreement
 <!-- heading-path: Oil & Gas Development > Oil and Gas Regulations -->
 ## Oil and Gas Regulations
 In 2017, the City of Thornton adopted new regulations on oil and gas developments. The regulations can be found here:
-Oil and Gas Regulations
+Oil and Gas Regulations (opens in new window)
 
-<!-- heading-path: Oil & Gas Development > Oil and Gas Regulations > How do I find out about oil and gas development within unincorporated areas of Adams County? -->
-### How do I find out about oil and gas development within unincorporated areas of Adams County?
-Adams County maintains a list of current land use cases , including those related to oil and gas developments. Most land use cases dealing with oil and gas can be found at the bottom of the County's Current Land Use Case webpage.
+<!-- heading-path: Oil & Gas Development > How do I find out about oil and gas development within unincorporated areas of Adams County? -->
+## How do I find out about oil and gas development within unincorporated areas of Adams County?
+Adams County maintains a list of current land use cases (opens in new window) , including those related to oil and gas developments. Most land use cases dealing with oil and gas can be found at the bottom of the County's Current Land Use Case webpage.
 
-<!-- heading-path: Oil & Gas Development > Oil and Gas Regulations > Can Thornton regulate oil and gas development? -->
-### Can Thornton regulate oil and gas development?
+<!-- heading-path: Oil & Gas Development > Can Thornton regulate oil and gas development? -->
+## Can Thornton regulate oil and gas development?
 Thornton has the ability to regulate some aspects of oil and gas development. Case law allows cities to use their land use authority so long as it doesn’t create an operational conflict with the state oil and gas regulations. In general, land use authority in Colorado pertains to activities that occur within city boundaries such as, visual impacts, noise, site plans, verification of permits, emergency plans, drilling schedule, drainage, access plans, security, and traffic and streets, as long as those rules do not hinder oil and gas extraction. Oil and gas developments can have a large impact on traffic and road degradation and Thornton is exploring additional regulatory options to mitigate traffic concerns, preserve road conditions, and ensure for the safety of the traveling public. It’s important to note that most of the proposed developments around Thornton are actually in unincorporated Adams County, which makes the Adams County Board of County Commissioners the local permitting authority.
 
-<!-- heading-path: Oil & Gas Development > Oil and Gas Regulations > Who else regulates oil and gas development? -->
-### Who else regulates oil and gas development?
+<!-- heading-path: Oil & Gas Development > Who else regulates oil and gas development? -->
+## Who else regulates oil and gas development?
 The Colorado State Statutes establishes the Colorado Oil and Gas Conservation Commission (COGCC) as the state authority charged with regulating oil and gas production activities, enforcing environmental safeguards, and protecting public and private interests against waste in the production of oil and gas.
 
-<!-- heading-path: Oil & Gas Development > Oil and Gas Regulations > Why can oil and gas be developed under my home without my permission? -->
-### Why can oil and gas be developed under my home without my permission?
+<!-- heading-path: Oil & Gas Development > Why can oil and gas be developed under my home without my permission? -->
+## Why can oil and gas be developed under my home without my permission?
 Oil and gas companies purchase or lease the rights to the oil and gas minerals below the surface of a property. Many times the rights to the minerals are “severed” from the surface property – meaning a property owner frequently does not own the oil under his or her property. In these cases, an oil and gas company is permitted to drill underneath the surface property. Residents can confirm ownership of mineral rights underneath properties by reviewing their deeds and title insurance policies. Consulting with an attorney may be needed to find out for certain.
 
-<!-- heading-path: Oil & Gas Development > Oil and Gas Regulations > Where are the oil and gas wells in Thornton? -->
-### Where are the oil and gas wells in Thornton?
-The COGCC maintains an interactive map showing all the various oil and gas developments around the state. The map can be accessed on the COGCC website .
+<!-- heading-path: Oil & Gas Development > Where are the oil and gas wells in Thornton? -->
+## Where are the oil and gas wells in Thornton?
+The COGCC maintains an interactive map showing all the various oil and gas developments around the state. The map can be accessed on the COGCC website (opens in new window) .
 
-<!-- heading-path: Oil & Gas Development > Oil and Gas Regulations > What State regulations apply to oil and gas development? -->
-### What State regulations apply to oil and gas development?
+<!-- heading-path: Oil & Gas Development > What State regulations apply to oil and gas development? -->
+## What State regulations apply to oil and gas development?
 The COGCC regulates how oil and gas companies operate with measures to control the duration of drilling operations, comply with environmental standards, and address accidents or emergency responses. The COGCC is also the agency that inspects oil and gas developments and enforces regulations, including investigating violations. The Colorado Department of Public Health and Environment (CDPHE) also regulates some aspects of public health and environmental compliance, mostly related to air quality.
 
-<!-- heading-path: Oil & Gas Development > Oil and Gas Regulations > How is fracking related to oil and gas development? -->
-### How is fracking related to oil and gas development?
-Hydraulic fracturing, or fracking, is a component of the drilling process used to develop oil and gas resources. After a well is drilled, it is fractured under high pressure with water, sand, and chemicals. This stimulates the oil and gas captured underground, which is then released to the surface for capture through the drilled bore hole. A more detailed description of the process can be found on the Hydraulic Fracturing FAQs .
+<!-- heading-path: Oil & Gas Development > How is fracking related to oil and gas development? -->
+## How is fracking related to oil and gas development?
+Hydraulic fracturing, or fracking, is a component of the drilling process used to develop oil and gas resources. After a well is drilled, it is fractured under high pressure with water, sand, and chemicals. This stimulates the oil and gas captured underground, which is then released to the surface for capture through the drilled bore hole. A more detailed description of the process can be found on the Hydraulic Fracturing FAQs (opens in new window) .
 
-<!-- heading-path: Oil & Gas Development > Oil and Gas Regulations > Are all oil and gas wells fracked? -->
-### Are all oil and gas wells fracked?
+<!-- heading-path: Oil & Gas Development > Are all oil and gas wells fracked? -->
+## Are all oil and gas wells fracked?
 Fracking is not a part of the drilling process and a well can theoretically produce oil without being fracked. But with new horizontal drilling techniques, wells are fracked as part of the well completion process. Wells such as those drilled in the Thornton area would not be economical without being fracked.
 
-<!-- heading-path: Oil & Gas Development > Oil and Gas Regulations > Can the city ban fracking or oil and gas development? -->
-### Can the city ban fracking or oil and gas development?
+<!-- heading-path: Oil & Gas Development > Can the city ban fracking or oil and gas development? -->
+## Can the city ban fracking or oil and gas development?
 The Supreme Court of the State of Colorado recently ruled that the City of Longmont ban and the City of Fort Collins moratorium were unconstitutional. These cases determined that a home rule City cannot ban or place a five year moratorium on oil and gas development.
 
-<!-- heading-path: Oil & Gas Development > Oil and Gas Regulations > Where can I get more information on oil and gas development? -->
-### Where can I get more information on oil and gas development?
+<!-- heading-path: Oil & Gas Development > Where can I get more information on oil and gas development? -->
+## Where can I get more information on oil and gas development?
 There is an abundance of information on oil and gas development, both from proponents and opponents. The City Council encourages residents to become informed on the issue and suggests a balance of sources that provide information on both sides of the issue. The COGCC and United States Environmental Protection Agency (US EPA) websites offer a wealth of information on oil and gas development. Groups like Earthworks Colorado and 350 Colorado provide a perspective focused on environmental concerns while the Colorado Oil and Gas Association (COGA) and the Colorado Petroleum Association (CPA) provide a perspective from the Colorado oil and gas industry.
 
 <!-- heading-path: Oil & Gas Development > Oil & Gas Development Resources -->
 ## Oil & Gas Development Resources
-COGCC NTO Oil and Gas Facilities
-Oil & Gas Health Information and Response Program
-SB 19-181
-COGCC Complaints
-COGCC Hearings
-COGCC Permits
-COGCC Maps
-Inside Energy
-Hydraulic Fracturing Documents & Links
-Hydraulic Fracturing FAQs
+COGCC NTO Oil and Gas Facilities (opens in new window)
+Oil & Gas Health Information and Response Program (opens in new window)
+SB 19-181 (opens in new window)
+COGCC Complaints (opens in new window)
+COGCC Hearings (opens in new window)
+COGCC Permits (opens in new window)
+COGCC Maps (opens in new window)
+Inside Energy (opens in new window)
+Hydraulic Fracturing Documents & Links (opens in new window)
+Hydraulic Fracturing FAQs (opens in new window)

@@ -1,0 +1,292 @@
+---
+source_id: co-broomfield-municode
+jurisdiction: Broomfield County, CO
+state: CO
+county: Broomfield
+agency: City and County of Broomfield Planning & Development Services
+title: 15-32-180 - Emergency suspension.
+doc_type: code
+citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15-32 - Contractor's Licenses > 15-32-180 - Emergency suspension.
+url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT15BUCO_CH15-32COLI_15-32-180EMSU"
+sha256: 28387bd779660d0ac8e287a4b55d5b9a73ae42e7eb473e77fe28b5dc07fe0041
+fetched_at: "2026-09-17T15:55:54+00:00"
+---
+
+Any contractor performing in a business involving the building, construction, alteration,
+remodeling, repairing, equipping, moving, or wrecking of buildings and other structures
+shall be licensed as a contractor, as required in this chapter.
+(Ord. 1858 §1, 2008; Ord. No. 2115 , 2-25-20)
+(A)
+Contractor , within the meaning of this chapter is any person, which also means and includes
+a firm, co-partnership, corporation, association, or other organization, or any combination
+thereof, who:
+(1)
+Undertakes, with or for another within the city, to build, construct, alter, remodel,
+repair, move, or wreck any building or structure, or any portion thereof, for which
+a permit from the city is required, and which work is to be done for a fixed sum price,
+fee percentage, or other compensation.
+(2)
+Builds, constructs, alters, or adds to another building or structure either upon his
+or her own or another's property.
+(3)
+Holds himself or herself out to perform house-moving or the moving of buildings or
+structures from one location to another.
+(4)
+Holds himself or herself out to perform the service of wrecking a building or other
+structure.
+(B)
+The following persons shall not fall within the definition of contractor:
+(1)
+Employees working for and under the supervision of a contractor.
+(2)
+Plumbers, electricians, or other specialized trades for which another license or registration
+certificate is required by the city.
+(3)
+An owner or occupant making alterations or repairs totaling less than $1,000.00 in
+any one calendar year to the building he or she owns or occupies, which repairs do
+not involve the structure of the building, if the owner or occupant furnishes all
+the materials.
+(4)
+A homeowner who constructs his or her own residence, or a building or structure accessory
+thereto, which is intended for his or her own personal use; however, this will be
+permitted at only one residence within a period of a year, or such homeowner will
+be deemed a contractor.
+(Ord. 1858 §1, 2008; Ord. No. 2115 , 2-25-20)
+(A)
+No person shall perform any work as a contractor within the city without having first
+obtained a license as provided in this chapter. No permits shall be issued for work
+to be done by a contractor who does not have a valid license as required in this chapter.
+No work shall be done during the period a permittee's license is suspended or revoked.
+(B)
+The following classes of contractors' licenses are established, and the indicated
+fees shall be required of contractors within the city:
+(1)
+Class A. This class license shall entitle the holder to contract for the construction,
+alteration, or repair of any type of structure permitted by this chapter. The annual
+fee shall be $150.00. A Class A license is required for all work requiring the supervision
+of an architect or structural engineer. Possession of an A license permits the activities
+authorized by Class B or C licenses.
+(2)
+Class B. This license shall entitle the holder to contract for the construction, alteration,
+or repair of one-family and two-family residences of two stories or less. This contractor
+may not contract for public buildings or places of public assembly. The aforementioned
+limitations shall not apply to repairs on buildings not involving structural members.
+The annual fee shall be $100.00. Possession of a B license permits the activities
+authorized by a Class C license.
+(3)
+Class C. This license shall be issued to those engaged in contracting for labor or
+for labor and material involving specialized trades, such as brick contractors, plastering
+contractors, and framing contractors. Such licenses may include more than one such
+trade carried on by the licensee. The annual fee shall be $50.00. This license shall
+be issued to wrecking contractors, moving contractors, and mobile home set-up contractors.
+No wrecking shall be done except by a licensed wrecking contractor, except that a
+licensed general contractor of the A or B category may wreck minor buildings or remove
+portions of a building where such wrecking is a portion of a program of alteration
+or remodeling.
+(Ord. 1858 §1, 2008; Ord. No. 2115 , 2-25-20)
+(A)
+All contractors' licenses issued after the effective date of the ordinance codified
+herein will expire one year from the date of issuance.
+(B)
+All contractors' licenses issued pursuant to any prior ordinances of the city will
+remain valid until one year from the date of issuance.
+(Ord. 1858 §1, 2008; Ord. No. 2115 , 2-25-20)
+The building official shall have the authority in accordance with the terms of this
+chapter, to approve, deny, suspend, or revoke any license provided for in this chapter.
+(Ord. 1858 §1, 2008; Ord. No. 2115 , 2-25-20)
+The board of adjustment shall be assigned the duties and role of a contractor licensing
+board. The contractor licensing board shall have the following authority:
+(A)
+To develop rules, regulations, and procedures relating to contractor license applications;
+(B)
+To advise the building official on all matters pertaining to licensing;
+(C)
+To conduct appellate hearings in the event the building official exercises his or
+her authority to suspend, revoke, or decline to issue a license;
+(D)
+To elect a chair and vice chair from among its members; and
+(E)
+To adopt reasonable procedural rules and regulations to carry out its responsibilities,
+as set forth in this chapter.
+(Ord. 1858 §1, 2008; Ord. 1942 §1, 2011; Ord. No. 2115 , 2-25-20; Ord. No. 2138 , § 9, 4-6-21)
+Applications for contractor's licenses shall be on such forms and shall contain such
+information as may be required by the building official. Applicants may at any time,
+or from time to time, be required to furnish additional information with respect to
+their qualifications and financial status, or other matters relating to or affecting
+their licenses, as may be deemed necessary or desirable by the building official or
+the contractor licensing board. Failure to furnish such information within a reasonable
+time, or to furnish supplemental information as may be required by the building official
+or the land use review commission, shall be grounds for denial or revocation of license.
+(Ord. 1858 §1, 2008; Ord. 1942 §2, 2011; Ord. No. 2115 , 2-25-20; Ord. No. 2138 , § 10, 4-6-21)
+Persons required to be licensed under the terms of this chapter shall pay the license
+fees specified in section 15-32-030 above to the city clerk. Renewals may be obtained by submitting an application for
+renewal, on a form prescribed by the building official, together with the license
+fee and certificate of insurance to the city clerk within thirty days before or after
+the expiration date of the previous license. Renewal licenses shall be valid for the
+term indicated in section 15-32-040 above. If a license is not renewed as provided in this section, a new application
+will be required.
+(Ord. 1858 §1, 2008; Ord. No. 2115 , 2-25-20)
+At the time application is made for a license, the contractor shall file with the
+building official a certificate of insurance evidencing that a policy of insurance
+in at least the minimum amount required by this section has been issued to the applicant;
+the limits of the insurance; the policy number; the name of the insurance company;
+the effective date of the policy; and an endorsement requiring a minimum of ten days'
+advance written notice to the building official in the event of cancellation. Such
+certificate shall be signed by an authorized agent of the issuing company. At the
+time the licensee seeks renewal of the license, he or she must submit a new certificate
+of insurance. A licensee must at all times maintain insurance up to at least the following
+limits:
+(A)
+A Class A or B licensee must have liability limits of at least $300,000.00 per individual,
+$300,000.00 per occurrence, and $50,000.00 for property damage.
+(B)
+A Class C licensee must have liability limits of at least $50,000.00 per individual,
+$100,000.00 per occurrence, and $25,000.00 per property damage.
+(Ord. 1858 §1, 2008; Ord. No. 2115 , 2-25-20)
+License fees shall not be refunded. However, any fee paid by an applicant who is denied
+a license shall be refunded.
+(Ord. 1858 §1, 2008; Ord. No. 2115 , 2-25-20)
+Licensees wishing to upgrade their license to a higher classification must submit
+a new application and pay the difference between the two fees.
+(Ord. 1858 §1, 2008; Ord. No. 2115 , 2-25-20)
+(A)
+A change of name, business designation, or address must be reported to the building
+inspection office within thirty days after making such a change. Failure of the licensee
+to report such change within the time limit shall cause the license to expire by force
+of law and become invalid at the expiration of the thirty-day period.
+(B)
+Incorporation or change in incorporation creating a new legal entity shall require
+a new license for such entity, even though one or more stockholders or directors have
+a license.
+(C)
+The organization of a partnership or the change in a partnership creating a new legal
+entity shall require a new license, even though one or more of the partners are licensed.
+(D)
+The dissolution of a corporation or partnership which has been licensed terminates
+the license, and no individual or firm may operate under such license.
+(E)
+Licenses are not transferable.
+(Ord. 1858 §1, 2008; Ord. No. 2115 , 2-25-20)
+If a license is denied or revoked by the building official, and in case of an appeal,
+if the denial or revocation has been affirmed by the contractor licensing board, the
+applicant may reapply, but not sooner than ninety days after the denial or revocation,
+or in the case of an appeal, ninety days after the order of the board affirming the
+denial or revocation.
+(Ord. 1858 §1, 2008; Ord. No. 2115 , 2-25-20)
+All licensees shall be responsible for work requiring a permit under the provisions
+of this chapter, without limitation, and for the items listed in this section:
+(A)
+To report in writing to the building official any accident occurring in any construction
+or undertaking which has resulted in lost time, injury, or death to any person, or
+damage to any building or structure, within seventy-two hours after such accident;
+(B)
+To provide minimum safety measures and equipment to protect workers and the public,
+as prescribed by this chapter;
+(C)
+To observe any other city ordinances prescribing measures for the safety of workers
+and of the public;
+(D)
+To present his or her license card when requested by the building official or his
+or her authorized representative;
+(E)
+To employ a qualified supervisor and to provide the name of such supervisor on the
+permit inspection card;
+(F)
+To obtain a permit when the same is required;
+(G)
+To faithfully construct, without substantial departure from or disregard of drawings
+and specifications, when such drawings and specifications have been filed and approved
+by the building official and a permit issued for same, unless such changes are approved
+by the building official;
+(H)
+To complete all work authorized on the permit issued under the authority of this chapter,
+unless good cause is shown;
+(I)
+To obtain inspection services when the same are required by this chapter;
+(J)
+To pay any fee assessed under authority of this chapter; and
+(K)
+To obey any order issued under authority of this chapter.
+(Ord. 1858 §1, 2008; Ord. No. 2115 , 2-25-20)
+The building official may suspend, revoke, or deny a license when the licensee or
+applicant, including partners of a partnership, members of a joint venture, or officers,
+directors, or holders of 10% or more of the stock of a corporate licensee or applicant,
+is responsible for one or more of the following acts or omissions:
+(A)
+Failure to comply with any of the licensee responsibilities, as outlined in section 15-32-140 above, if such failure is not corrected within ten days of written notification of
+such failure by the building official.
+(B)
+Knowingly combining or conspiring with any other person to permit or allow the licensee's
+license to be used by such other person.
+(C)
+By acting as principal agent, partner, associate, or in any other capacity with persons,
+to evade any provisions of this chapter.
+(D)
+Violation of any provision of this title, chapter 3-04 or chapter 3-08 , B.M.C., or any violation of the laws of the United States, the State of Colorado,
+or the ordinances of the city having any bearing upon or relation to the work or services
+performed under the license, or ability to perform the work or services under the
+license, if such violation is not corrected within ten days of being notified of such
+failure by the building official.
+(E)
+Any conduct constituting fraud or misrepresentation in or connected with any activity
+or activities relating to building, or which are licensed or governed by this chapter.
+(F)
+Failure to keep and maintain necessary insurance or necessary state licenses.
+(Ord. 1858 §1, 2008; Ord. No. 2115 , 2-25-20)
+With regard to the acts or omissions listed in section 15-32-150 above:
+(A)
+The first act or omission during a term of a license issued under this chapter shall
+cause the license to be suspended for a period of twenty days.
+(B)
+The second act or omission during a term of a license issued under this chapter shall
+cause the license to be suspended for a period of forty days.
+(C)
+The third act or omission during the term of a license issued under this chapter shall
+cause the license to be revoked.
+(D)
+Three or more acts or omissions during the preceding year shall be cause for the denial
+of a license.
+(Ord. 1858 §1, 2008; Ord. No. 2115 , 2-25-20)
+When any of the acts or omissions as enumerated in section 15-32-150 above are committed by a licensee and the building official deems that such license
+would be suspended, revoked, or denied, the procedure shall be as follows:
+(A)
+The licensee shall be notified, in writing, by certified mail, mailed to the licensee's
+address of record with the building official, at least ten days prior to suspension,
+revocation, or denial.
+(B)
+Upon receipt of the notice, the licensee may request a hearing. Such request shall
+be in writing to the building official within ten days of mailing of the notice.
+(C)
+If a hearing is requested by the licensee, in writing, within the time limit designated
+above, the building official shall set a time, date, and place for the hearing within
+five days of receipt of the request for a hearing, and so notify the licensee.
+(D)
+When a hearing is conducted, the licensee and other interested parties may be in attendance.
+Upon completion of the hearing, the building official may take all the evidence admitted
+under advisement, and shall within ten days, notify the licensee of his or her findings
+and ruling, in writing, by certified mail. No suspension or revocation shall be effective
+while the matter is under advisement, except for emergency suspensions under section 15-32-180 below.
+(E)
+If the decision rendered by the building official is adverse to the licensee, the
+licensee may appeal to the contractor licensing board as an "aggrieved" person, and
+shall file an application for review by the contractor licensing board within thirty
+days after mailing of notice of the ruling of the building official.
+(Ord. 1858 §1, 2008; Ord. No. 2115 , 2-25-20)
+Should the contractor licensing board be called upon to review an initial decision
+of the building official, it shall conduct a hearing and set forth its findings and
+decision in writing. The decision of the contractor licensing board shall be made
+after notice and a hearing at which any party or applicant shall be entitled to appear
+and present evidence and be represented by counsel. A record of the hearings before
+the contractor licensing board shall be kept, whether by electronic transcription,
+secretarial minutes, or otherwise, and such records shall be kept in the custody of
+the building official and shall be made available for transcription as may be required.
+Both the party affected by the board's decision and the city shall be considered parties
+to every proceeding of this type before the contractor licensing board.
+(Ord. 1858 §1, 2008; Ord. No. 2115 , 2-25-20)
+If the building official finds that emergency cause exists for suspension or revocation
+of a license, he or she may enter an order for immediate suspension of such license,
+pending further investigation and proceedings for suspension or revocation, as provided
+in this chapter. The licensee may, upon notice of such suspension, request an immediate
+hearing before the building official. The procedure shall thereafter be as provided
+in this chapter.
+(Ord. 1858 §1, 2008; Ord. No. 2115 , 2-25-20)

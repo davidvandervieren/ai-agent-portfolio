@@ -1,0 +1,92 @@
+---
+source_id: co-loveland-municode
+jurisdiction: Loveland, CO
+state: CO
+county: Larimer
+municipality: Loveland
+agency: City of Loveland
+title: 9.04.070 - False report.
+doc_type: code
+citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 9 - PUBLIC PEACE, ORDER AND MORALS > I. OFFENSES BY OR AGAINST PUBLIC OFFICERS AND GOVERNMENT > CHAPTER 9.04. - OBSTRUCTING JUSTICE > 9.04.070 - False report.
+url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT9PUPEORMO_I.OFAGPUOFGO_CH9.04OBJU_9.04.070FARE"
+sha256: 49527e02ba55fe22d4780f8f23789ab4b86cd7f3416e6c7d5de43741e5d50577
+fetched_at: "2026-09-18T10:43:03+00:00"
+---
+
+A.
+It is unlawful for any person to resist arrest by a police officer of the city.
+1.
+A person commits resisting arrest if he knowingly prevents or attempts to prevent
+a police officer acting under color of his official authority, from effecting an arrest
+of the actor or another by using or threatening to use physical force or violence
+against the police officer or another, or using any other means which creates a substantial
+risk of causing physical injury to the police officer or another.
+2.
+It is no defense to a prosecution under this section that the police officer was attempting
+to make an arrest which in fact was unlawful, if he was acting under color of his
+official authority, and in attempting to make the arrest he was not resorting to unreasonable
+or excessive force giving rise to the right of self-defense. A police officer acts
+"under color of his official authority" when, in the regular course of assigned duties,
+he is called upon to make, and does make, a judgment in good faith based upon surrounding
+facts and circumstances that arrest should be made by him.
+3.
+The term "police officer" as used in this section means a police officer in uniform,
+or, if out of uniform, one who has identified himself by exhibiting his credentials
+as such police officer to the person whose arrest is attempted.
+B.
+It is unlawful for a person to obstruct a police officer.
+1.
+A person commits obstructing a police officer when, by using or threatening to use
+violence, force, or physical interference, or obstacle, he knowingly obstructs, impairs,
+or hinders the enforcement of the penal law or the preservation of the peace by a
+police officer acting under color of his official authority.
+2.
+It is no defense to a prosecution under this section that the police officer was acting
+in an illegal manner, if he was acting under color of his official authority as defined
+in Subsection A.
+(Ord. 1931, § 1, 1980; prior code § 29.3)
+It is unlawful for any person to rescue or attempt to rescue, or to aid in the escape
+of any person in the custody of a police officer or in the custody of the police department
+at the city jail, or to aid or attempt to aid any person who has escaped from such
+custody in attempting to avoid recapture. Escape is defined for purposes of this section
+as beginning with the formation of a plan for escape and continuing until the prisoner
+has been returned to police custody.
+(Ord. 1346 § 1, 1974; prior code § 29.4)
+It is unlawful for any person to escape or attempt to escape from custody or confinement
+while held for, charged with or convicted of a violation of any ordinance of the City.
+(Ord. 5253 § 1, 2007)
+It is unlawful for any person to fail to obey the lawful order of a police officer.
+A lawful order is that order issued by a police officer in the exercise of his assigned
+duties relating to the enforcement of the penal law or the preservation of the peace
+or the protection of the safety of a person. A police officer may issue a lawful order
+while performing his assigned duties or preserving the peace or protecting the safety
+of a person when in uniform, or, if not in uniform, after having identified himself
+as a police officer.
+(Ord. 3221 § 1, 1985)
+It is unlawful for any person to fail to obey the lawful order of a fire department
+member. A "lawful order" is that order issued by a fire department member in the exercise
+of his assigned duties at the scene of a fire or other emergency relating to the enforcement
+of the penal law or the preservation of the peace or the protection of the safety
+of a person. A fire department member may issue a lawful order only after having identified
+himself as a fire department member.
+(Ord. 3550 § 1, 1988)
+It is unlawful for any person intentionally to harass, alarm or annoy or attempt to
+harass, alarm or annoy a canine or horse by taunting, teasing, frightening, agitating,
+hindering or striking such canine or horse while such animal is serving a law enforcement
+or police purpose with a governmental entity.
+(Ord. 3832 § 1, 1992)
+It is unlawful for any person to intentionally make, turn in or give a false alarm
+of fire or need for police or ambulance assistance or aid or abet in the commission
+of such act.
+(Ord. 5253 § 1, 2007)
+It is unlawful for any person to make to, or file with, a police officer any false
+or misleading statement or report concerning the commission or alleged commission
+of any crime occurring within the city.
+(Ord. 5253 § 1, 2007)
+It is unlawful for any person, other than a police officer of the city, to wear or
+carry the uniform, apparel, badge, identification card or any other insignia of office
+like or similar to, or a colorable imitation of, that adopted or worn or carried by
+police officers. It is unlawful for any person to in any other way falsely represent
+himself or herself to be a police officer or to exercise any duty, power or function
+of a police officer.
+(Ord. 5253 § 1, 2007)

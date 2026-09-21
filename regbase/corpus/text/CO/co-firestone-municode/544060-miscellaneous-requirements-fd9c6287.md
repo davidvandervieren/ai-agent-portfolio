@@ -1,0 +1,80 @@
+---
+source_id: co-firestone-municode
+jurisdiction: Firestone, CO
+state: CO
+county: Weld
+municipality: Firestone
+agency: Town of Firestone
+title: 5.44.060 - Miscellaneous requirements.
+doc_type: code
+citation_root: Title 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5.44 - Animal Industries > 5.44.060 - Miscellaneous requirements.
+url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5.44ANIN_5.44.060MIRE"
+sha256: 58031b1b7f16a73341da745a1740b1535f0fad0c6363a26b5c01507cb39a0487
+fetched_at: "2026-09-18T05:06:53+00:00"
+---
+
+No person shall locate or manage any slaughterhouse, packing house, rendery, tallow
+candlery, bone factory, soap factory, tannery or dairy within the limits of the town
+without first obtaining annually a management permit in compliance with the provisions
+of this chapter.
+(Ord. 422 §1, 1999; Ord. 416 §1(part), 1999)
+For purposes of this chapter only, the following words shall have the following meanings:
+A.
+"Animal unit" means a term and number used to establish an equivalency for various
+species of livestock. The maximum number of any combination of livestock and their
+equivalents which may be managed within a premises subject to this chapter is as specified
+in Section 5.44.050 .
+B.
+"Dairy" means an establishment for the primary production and subsequent sale or distribution
+of milk and/or milk products.
+C.
+"Livestock" means cattle, bison, mules, burros, llamas, ostriches, elk, horses, swine,
+sheep, goats, poultry and rabbits.
+D.
+"Lot" means the basic development unit, an area with fixed boundaries, used or intended
+to be used by one building and its accessory uses, structures and/or buildings. A
+lot shall not be divided by any public highway, street or alley.
+(Ord. 416 §1(part), 1999)
+A.
+Application for the permit referred to in Section 5.44.010 shall be made on forms provided by the town clerk for that purpose, and shall be
+accompanied by a permit fee of one hundred fifty dollars.
+B.
+The applicant shall furnish the following information on the application:
+1.
+The name, business address and telephone number of the applicant;
+2.
+The address and legal description of the premises for which the application for a
+permit is being made, together with a copy of the deed, lease or other acceptable
+proof of ownership and/or possession of such premises;
+3.
+Where applicable, the types and numbers of animals and animal units which will be
+kept on the premises; and
+4.
+Such other information as reasonably requested by the town clerk.
+(Ord. 416 §1(part), 1999)
+Upon receipt of a complete application, proof that the annual permit fee has been
+paid, and proof that the application complies with all requirements of this chapter
+and with other applicable laws, the town clerk shall issue and deliver to the applicant
+the permit requested. If the town clerk denies a permit under this chapter, the town
+clerk shall in writing notify the applicant of the specific reasons for denial. Should
+the applicant object to the denial, an appeal to the board of trustees must be filed
+in writing with the town clerk within thirty days of transmittal of notice of denial.
+The board shall affirm or reverse the disapproval after notice and hearing.
+(Ord. 416 §1(part), 1999)
+A permit may be suspended or revoked for the reasons and in the manner stated in Chapter 5.04 of this title.
+(Ord. 416 §1(part), 1999)
+In addition to any other requirements of this code, an application for a permit under
+this chapter shall be granted only upon a showing that the premises will be managed
+in compliance with the following requirements:
+A.
+The premises are in compliance with all applicable building, subdivision and zoning
+regulations of the town for any premises located within the town.
+B.
+For any premises located within the town, the maximum amount of livestock permitted
+shall be pursuant to the Firestone Development Regulations.
+C.
+Management of the premises shall be in accordance with minimum management requirements,
+as adopted by the board of trustees from time to time by resolution. Such minimum
+management requirements shall be on file with the town clerk and available to interested
+persons upon request.
+(Ord. 422 §2, 1999; Ord. 416 §1(part), 1999)

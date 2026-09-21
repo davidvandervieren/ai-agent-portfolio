@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 22 - BUILDINGS AND CONSTRUCTION > CHAPTER 16. - OIL AND GAS EXPLORATION WELL DRILLING
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTIICOOR_TIT22BUCO_CH16OIGAEXWEDR"
 sha256: 715831c6f2236ef7827dc4ff0a7cd9d3cde4ef63248fb73839088ef982cbceb5
-fetched_at: "2026-09-17T04:52:03+00:00"
+fetched_at: "2026-09-21T06:34:00+00:00"
 ---
 
 The drilling of any well for the purpose of exploration or production of oil and gas

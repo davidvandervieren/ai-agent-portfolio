@@ -1,0 +1,33 @@
+---
+source_id: co-firestone-municode
+jurisdiction: Firestone, CO
+state: CO
+county: Weld
+municipality: Firestone
+agency: Town of Firestone
+title: 15.10.010 - Adoption of the International Existing Building Code.
+doc_type: code
+citation_root: Title 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.10 - International Existing Building Code > 15.10.010 - Adoption of the International Existing Building Code.
+url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT15BUCO_CH15.10INEXBUCO_15.10.010ADINEXBUCO"
+sha256: ffd574cd1e9289c0d67a1c0589895b85d039ca2580f1bd6ddbe8a18a98d8d828
+fetched_at: "2026-09-18T05:25:56+00:00"
+---
+
+Sections
+Editor's note— ( Ord. 1029, § 4, adopted June 21, 2023, amended Ch. 15.10 in its entirety to read as herein set
+out. Former 15.10, §§ 15.10.010—15.10.020, pertained to similar material, and derived
+from Ord. 981 §4, adopted in 2020.
+The International Existing Building Code, 2018 Edition, as published by the International
+Code Council, Inc., 4051 West Flossmoor Road, Country Club Hills, IL 60478, Chapters 1 through 16 inclusive (referenced in this chapter as the IEBC and thereinafter referred
+to as "this code"), is hereby adopted by reference as the Firestone Existing Building
+Code (FEBC), as if fully set out in this codification with, however, the amendments
+indicated in the following sections of this chapter.
+( Ord. 1029, § 4, 2023)
+IFGC Section 101.1 (Title) is amended to read as follows:
+These regulations shall be known as the Firestone Existing Building Code, hereinafter
+referred to as "this code."
+( Ord. 1029, § 4, 2023)
+IEBC Section 1401.2 (Conformance) is deleted in its entirety and replaced as follows:
+Structures moved into or within the jurisdiction shall comply with the provision of
+this code for new structures.
+( Ord. 1029, § 4, 2023)

@@ -1,0 +1,80 @@
+---
+source_id: co-dacono-municode
+jurisdiction: Dacono, CO
+state: CO
+county: Weld
+municipality: Dacono
+agency: City of Dacono
+title: Sec. 16-391. - Reserved.
+doc_type: code
+citation_root: CHAPTER 16 - Zoning > ARTICLE 16 - Board of Adjustment > Sec. 16-391. - Reserved.
+url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CH16ZO_ART16BOAD_S16-391RE"
+sha256: e503189d0b18823313bb7c78009eeaf413f1e4f1c51b8b29766f2562890e4fe0
+fetched_at: "2026-09-18T06:43:39+00:00"
+---
+
+There is created a Board of Adjustment consisting of five (5) members, including one
+(1) member of the City Council who shall act as chairman, all of whom shall be appointed
+by the City Council. Additionally, first and second alternates shall be appointed
+annually, whose function it shall be, upon twenty-four (24) hours' notice, to act
+in the stead of a regular member or members unable to attend a meeting.
+(Prior code 17.52.010)
+When vacancies occur prior to expiration of a regular term, they shall be filled in
+the same manner as regular appointments but shall serve only until the expiration
+of the term in which the vacancy occurred.
+(Prior code 17.52.030)
+Board members may be removed only for inefficiency, neglect of duty or malfeasance
+in office upon written charges filed by a resident taxpayer and after public hearing
+by the City Council.
+(Prior code 17.52.040; Ord. 374 §1, 1990)
+The members of the Board shall elect from among their members a vice-chairman to serve
+for a term of one (1) year. The City Clerk shall serve as secretary of the Board.
+(Prior code 17.52.050)
+In the performance of its duties, the Board may incur such expenses as shall be authorized
+by the City Council, but no member shall receive any compensation for his or her services.
+(Prior code 17.52.060)
+At any hearing any party may appear in person, by agent or by attorney.
+(Prior code 17.52.070)
+All meetings of the Board shall be open to the public.
+(Prior code 17.52.080)
+The Board shall keep minutes of its proceedings showing the vote of each member upon
+each question or, if absent or failing to vote, indicating such fact, which minutes
+shall be immediately filed in the office of the City Clerk and shall be a public record.
+(Prior code 17.52.090)
+The Board shall adopt reasonable rules governing all proceedings before it. Such rules
+provide and require as follows:
+(1)
+All hearings shall be held at a reasonable time and place;
+(2)
+Public notice shall be given of all hearings.
+(Prior code 17.52.100)
+The Board shall render its decision within a reasonable time after public hearing.
+(Prior code 17.52.110)
+Every decision shall be based on findings of fact and every finding of fact shall
+be supported in the record of the hearing. All testimony shall be presented publicly;
+provided, however, that the Board shall not take judicial notice of any fact and shall
+not consider the personal knowledge of any member unless the fact of which judicial
+notice is taken is made a part of the record and unless the personal knowledge of
+the member is presented publicly as testimony by such member.
+(Prior code 17.52.120)
+The concurring vote of four (4) members of the Board shall be necessary to reverse
+any order, requirement, decision or determination of any administrative official or
+to decide in favor of the applicant on any matter upon which the Board is required
+to pass under this Chapter or to effect any variation in this Chapter.
+(Prior code 17.52.130)
+Subject to all limitations enumerated in this Article, the Board shall have and exercise
+the following powers:
+(1)
+To hear and decide appeals and to review any order or decision of the Building Official
+and to hear and decide all matters referred to it or upon which it is required to
+pass under this Chapter or any amendment hereto;
+(2)
+To review, upon its own motion, any order or decision of the Building Official;
+(3)
+To reverse or affirm wholly or partly or to modify any order or decision of the Building
+Official appealed from, and to make such order or decision as in its opinion ought
+to be made in the premises, and to that end shall have all the powers of the inspector.
+(Prior code 17.52.140)
+Persons applying for appeal to the Zoning Board of Adjustment shall be assessed a
+filing fee in the amount established from time to time by resolution of the City Council.
+(Prior code 17.52.150; Ord. 278 §2, 1983; Ord. 409 §23, 1991)

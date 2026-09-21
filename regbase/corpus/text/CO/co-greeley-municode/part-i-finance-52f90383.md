@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER CITY OF GREELEY, COLORADO > ARTICLE V. - DEPARTMENT OF FINANCE > PART I. - FINANCE
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTICHGRCO_ARTVDEFI_PTIFI"
 sha256: 66351350d9d1c4666358f9e7a3727d458f374d01000dbc86c708dc1a4f70c971
-fetched_at: "2026-09-17T04:52:09+00:00"
+fetched_at: "2026-09-21T06:34:38+00:00"
 ---
 
 A Department of Finance is hereby established, the head of which shall be the Director

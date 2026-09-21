@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER CITY OF GREELEY, COLORADO > ARTICLE I. - GENERAL PROVISIONS
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTICHGRCO_ARTIGEPR"
 sha256: 6a2737e2bae9e1552a8ca7e47670c8ff67983bc254e9cf6777d25baf6296862f
-fetched_at: "2026-09-17T04:51:11+00:00"
+fetched_at: "2026-09-21T06:29:41+00:00"
 ---
 
 The municipal corporation now existing as the City of Greeley, Weld County, Colorado,

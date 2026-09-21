@@ -60,6 +60,7 @@ class Node:
     title: str
     depth: int = 0
     children: list = field(default_factory=list)
+    fetch_id: str = ""      # for a synthesised owner: a real node to ask for instead
 
 
 def parse_url(url: str) -> tuple[str, str, str]:
@@ -108,34 +109,60 @@ def is_section(node_id: str) -> bool:
 
 
 def content_units(nodes: list) -> list:
-    """Nodes worth fetching content for, at chapter granularity.
+    """Nodes worth fetching content for: one per chapter, never a section.
 
-    A chapter's CodesContent carries all of its sections, so fetching per
-    chapter needs roughly a tenth of the requests of fetching per section.
-    A node qualifies when its children are all sections, or when it is a
-    leaf that is not itself a section (a chapter with no sections yet).
-    Sections whose parent is not in the set - orphans - are included so
-    nothing is dropped.
+    CodesContent for ANY node returns the whole chapter it belongs to, so
+    fetching per section stores the same chapter once per section. A Greeley
+    run did exactly that: 2,694 records, 189 distinct - 28x the text.
+
+    Ownership follows the section's id, not where the tree placed it. The
+    live tree does not arrive as a clean hierarchy - a title's probe can list
+    a chapter's sections beside the chapter, and a chapter can hold an
+    article and direct sections side by side - but a section id always names
+    its owner: ..._CH11SUST_S24-1102OIGA belongs to ..._CH11SUST. So:
+
+      * a section is never a unit;
+      * the owner of every section, by id, is a unit - synthesised when the
+        tree never listed it, so no section is orphaned;
+      * a childless node that looks like a chapter, article or division is a
+        unit too (a chapter with no sections yet); a childless title is not,
+        since it holds nothing.
     """
     by_id = {n.node_id: n for n in nodes}
-    units = []
-    covered: set = set()
-    for n in nodes:
-        if is_section(n.node_id):
-            continue
-        kids = n.children
-        if kids and all(is_section(k.node_id) for k in kids):
-            units.append(n)
-            covered.update(k.node_id for k in kids)
-        elif not kids and n.node_id != n.node_id.split("_")[0]:
-            units.append(n)
-    for n in nodes:
-        if is_section(n.node_id) and n.node_id not in covered:
-            parent = n.node_id.rsplit("_", 1)[0]
-            if parent not in by_id or by_id[parent] not in units:
-                units.append(n)
-    return units
+    units: dict = {}
 
+    for n in nodes:
+        if not is_section(n.node_id):
+            continue
+        owner_id = n.node_id.rsplit("_", 1)[0]
+        if owner_id in units:
+            continue
+        # The immediate parent by id is not always a real node: a section's
+        # id can carry an extra suffix (..._S13-11_A), or sit under a section
+        # of its own, and asking Municode for the invented id is a 404. Walk
+        # up to the nearest listed chapter-like ancestor when there is one.
+        cur = owner_id
+        while cur and "_" in cur and (cur not in by_id or is_section(cur)):
+            cur = cur.rsplit("_", 1)[0]
+        if cur in by_id and not is_section(cur) and _CHAPTER_RE.search(cur):
+            owner_id = cur
+            if owner_id in units:
+                continue
+        owner = by_id.get(owner_id)
+        if owner is None:
+            # Municode answers any node with its enclosing chapter, so the
+            # section itself is a safe id to fetch the invented owner by.
+            owner = Node(node_id=owner_id, title=owner_id, depth=max(n.depth - 1, 0),
+                         fetch_id=n.node_id)
+            by_id[owner_id] = owner
+        units[owner_id] = owner
+
+    for n in nodes:
+        if (n.node_id not in units and not n.children
+                and not is_section(n.node_id) and _CHAPTER_RE.search(n.node_id)):
+            units[n.node_id] = n
+
+    return list(units.values())
 
 class BrowserTransport:
     """Issue API calls from inside a rendered Municode page.
@@ -430,7 +457,11 @@ class Municode:
         return list(seen.values())
 
     def fetch_code(self, ref: CodeRef, *, match: str = "", on_progress=None):
-        """Yield (node, heading_path, html) for every content unit in the code.
+        """Yield (node, heading_path, html, error) for every content unit.
+
+        `html` is empty when nothing came back; `error` then says why if the
+        request itself failed, and is empty for a chapter that is simply
+        empty (reserved ranges, titles with no direct text).
 
         `match` is a regex applied to the heading path; with it, only
         matching chapters are fetched - useful for pulling just the oil and
@@ -449,16 +480,28 @@ class Municode:
             return " > ".join(reversed(parts))
 
         rx = re.compile(match, re.I) if match else None
+        seen_html: set = set()
         for unit in content_units(nodes):
             heading = path_of(unit)
             if rx and not rx.search(heading):
                 continue
             try:
-                html = self.content(ref, unit.node_id)
+                html = self.content(ref, unit.fetch_id or unit.node_id)
             except RuntimeError as exc:
-                yield unit, heading, ""
+                yield unit, heading, "", str(exc) or "request failed"
                 continue
-            yield unit, heading, html
+            if not html:
+                # A real answer with nothing in it: a reserved or empty
+                # chapter, or a payload shape we do not extract from.
+                yield unit, heading, "", ""
+                continue
+            # Municode answers with the enclosing chapter whatever node is
+            # asked for, so two units can still come back identical.
+            key = hash(html)
+            if key in seen_html:
+                continue
+            seen_html.add(key)
+            yield unit, heading, html, ""
 
     # ---------------------------------------------------------------- content
 

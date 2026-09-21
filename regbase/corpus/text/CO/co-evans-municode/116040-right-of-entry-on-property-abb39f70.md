@@ -1,0 +1,831 @@
+---
+source_id: co-evans-municode
+jurisdiction: Evans, CO
+state: CO
+county: Weld
+municipality: Evans
+agency: City of Evans
+title: 1.16.040 - Right of entry on property.
+doc_type: code
+citation_root: TITLE 1 - General Provisions > CHAPTER 1.16 - General Penalty > 1.16.040 - Right of entry on property.
+url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT1GEPR_CH1.16GEPE_1.16.040RIENPR"
+sha256: 0c8369b756ff5019423b5c555930f092ba5f80e5ea361c1943188b2e67d9f864
+fetched_at: "2026-09-18T21:19:32+00:00"
+---
+
+Pursuant to the provisions of Sections 7.11 and 7.14 of the Home Rule Charter of the City of Evans, there is adopted the "Evans Municipal
+Code."
+(Ord. 1124-98, 1998; Ord. 597 84, 1984)
+The Code shall be known as the Evans Municipal Code and it shall be sufficient to refer to said code as the Evans Municipal Code in any
+prosecution for the violation of any provision thereof or in any proceeding at law
+or equity. It shall be sufficient to designate any ordinance adding to, amending,
+correcting or repealing all or any part or portion thereof as an addition to, amendment
+to, correction or repeal of the Evans Municipal Code. Further reference may be had
+to the titles, chapters, sections and subsections of the Evans Municipal Code and
+such references shall apply to that numbered title, chapter, section or subsection
+as it appears in the Code.
+(Ord. 597 84, 1984)
+The last ordinance included in the original code was Ordinance 571 83, passed October
+4, 1983. The following ordinances, passed subsequent to Ordinance 571 83, but prior
+to adoption of this Code, are adopted and made a part of this Code: Ordinances 572
+83, passed November 15, 1983 through 596 84, passed August 21, 1984.
+(Ord. 597 84, 1984)
+This Code consists of all the regulatory and penal ordinances and certain of the administrative
+ordinances of the City, codified pursuant to the provisions of Sections 31-16-201
+through 31-16-208, C.R.S.
+(Ord. 597 84, 1984)
+Whenever a reference is made to this Code as the "Evans Municipal Code" or to any
+portion thereof, or to any ordinance of the City, the reference shall apply to all
+amendments, corrections and additions heretofore, now or hereafter made.
+(Ord. 597 84, 1984)
+Title, chapter and section headings contained in this Code shall not be deemed to
+govern, limit, modify or in any manner affect the scope, meaning or intent of the
+provisions of any title, chapter or section thereof.
+(Ord. 597 84, 1984)
+The provisions of this Code shall not in any manner affect matters of record which
+refer to, or are otherwise connected with ordinances which are therein specifically
+designated by number or otherwise and which are included within the Code, but such
+reference shall be construed to apply to the corresponding provisions contained within
+this Code.
+(Ord. 597 84, 1984)
+Neither the adoption of this Code nor the repeal or amendment of any ordinance or
+part or portion of any ordinance of the City shall in any manner affect the prosecution
+for violations of ordinances, which violations were committed prior to the effective
+date of the ordinances codified in this Chapter, nor be construed as a waiver of any
+license, fee, or penalty at said effective date due and unpaid under such ordinances,
+nor be construed as affecting any of the provisions of such ordinances relating to
+the collection of any such license, fee, or penalty, or the penal provisions applicable
+to any violation thereof, nor to affect the validity of any bond or cash deposit in
+lieu thereof required to be posted, filed or deposited pursuant to any ordinance and
+all rights and obligations thereunder appertaining shall continue in full force and
+effect.
+(Ord. 597 84, 1984)
+This Code shall become effective on the date the ordinance adopting this Code as the
+"Evans Municipal Code" shall become effective.
+(Ord. 597 84, 1984)
+If any section, subsection, sentence, clause or phrase of this Code is for any reason
+held to be invalid or unconstitutional, such decision shall not affect the validity
+of the remaining portions of this Code. The City Council hereby declares that it would
+have passed this Code, and each section, subsection, sentence, clause and phrase thereof,
+irrespective of the fact that any one (1) or more sections, subsections, sentences,
+clauses or phrases had been declared invalid or unconstitutional, and if for any reason
+this Code should be declared invalid or unconstitutional, then the original ordinance
+or ordinances shall be in full force and effect.
+(Ord. 597 84, 1984)
+The following words and phrases, whenever used in the ordinances of the City or State,
+shall be construed as defined in this Section unless from the context a different
+meaning is intended or unless a different meaning is specifically defined and more
+particularly directed to the use of such words or phrases:
+Building permit means the development permit issued by the City before any building or construction
+activity can be initiated on a parcel of land.
+Capital facilities includes:
+(1)
+Buildings and facilities used for transportation, parks recreation and trails, fire/rescue
+services, and police protection services.
+(2)
+Apparatus and equipment, including communications equipment, with an average useful
+life of at least five (5) years, for transportation, parks recreation and trails,
+fire/rescue services, and police protection services.
+(3)
+Excludes periodic or routine maintenance of facilities and equipment, personnel costs
+or operational expenses.
+Capital improvement means a public improvement of a permanent nature, and may include land and equipment
+necessary for the functioning of a building or other capital improvement.
+City and town each mean the City of Evans, Colorado, or the area within the territorial limits of
+the City of Evans, Colorado, and such territory outside of the City's boundaries over
+which the City has jurisdiction or control by virtue of any constitutional or statutory
+provision.
+City Council means the City Council of the City of Evans. "All its members" or "all councilmen"
+means the total number of councilmen holding office.
+County means the County of Weld.
+Developer means a person or entity that commences a Development creating the need for additional
+transportation, parks recreation and trails, fire/rescue services, or police protection
+services.
+Development means any construction or expansion of a building, structure, or use, any change
+in use of a building or structure, or any change in the use of land, which creates
+or may create impacts on capital facilities for transportation, parks recreation and
+trails, fire/rescue services, or police protection services.
+Fire district means the Evans Fire Protection District.
+Fiscal Impact Fee Study means a study prepared by an outside engineer or consultant that mathematically calculates
+the fiscal impact of future demand for services on existing facilities of the City
+of Evans or within is boundaries.
+Impact fee means a fee established as provided in this Chapter that is intended to defray the
+projected impacts on Capital Facilities for streets, park recreation or trail facilities,
+fire/rescue services, or police protection services caused by proposed development
+within the City of Evans.
+Law denotes applicable federal law, the Constitution and statutes of the State, the ordinances
+of the City of Evans, and, when appropriate, any and all rules and regulations which
+may be promulgated thereunder.
+Local improvement means public improvement specially beneficial to the property affected, and also includes
+the abatement of such unsafe, unhealthful or unsanitary conditions as the board of
+trustees shall determine to be a public nuisance.
+May is permissive.
+Month means a calendar month.
+Must and shall are each mandatory.
+Oath includes an affirmation or declaration in all cases in which, by law, an affirmation
+may be substituted for an oath, and in such cases the words "swear" and "sworn" shall
+be equivalent to the words "affirm" and "affirmed."
+Office . The use of any title of any officer, employee, or any office, or ordinance means
+such officer, employee, office, or ordinance of the City of Evans, Colorado, unless
+otherwise specifically designated.
+Ordinance means the law of the City.
+Owner , applied to a building or land, includes any part owner, joint owner, tenant in common,
+joint tenant, tenant by the entirety, of the whole or a part of such building or land.
+Person includes a natural person, joint venture, joint stock company, partnership, association,
+club, company, corporation, business, trust, organization, or the manager, lessee,
+agent, servant, officer or employee of any of them.
+Personal property includes money, goods, chattels, things in action and evidences of debt.
+Preceding and following mean next before and next after, respectively.
+Property includes real and personal property.
+Public improvement means improvements to or in connection with streets, sidewalks, parks, playgrounds,
+buildings, sewer systems, water systems, power systems, and any other real property
+or appurtenances thereof of the City used by the public.
+Public utility includes all common carriers in the public streets, water, sewage disposal, electrical
+light, central heating, gas, electric power, telephone and telegraph lines and systems,
+and such other and different enterprises as the law or the board of trustees may determine.
+Real property includes lands, tenements and hereditaments.
+Sidewalk means that portion of a street between the curbline and the adjacent property line
+intended for the use of pedestrians.
+State means the State of Colorado.
+Street includes all streets, highways, avenues, lanes, alleys, courts, places, squares,
+curbs, or other public ways in this City which have been or may hereafter be dedicated
+and open to public use, or such other public property so designated in any law of
+the State.
+Tenant and occupant , applied to a building or land, include any person who occupies the whole or any
+part of such building or land, whether alone or with others.
+TischlerBise Impact Fee Study means the July 2015 Study accepted by the City Council on September 15, 2015.
+Written includes printed, typewritten, mimeographed, multigraphed, or otherwise reproduced
+in permanent visible form.
+Year means a calendar year.
+( Ord. 642-16 , 2016; Ord. 597 84, 1984)
+The town of Evans, Colorado, shall reclassify itself as a City upon the adoption of
+a home rule charter. [1]
+(Ord. 249, 1972)
+Editor's note— The Home Rule Charter was adopted April 30, 1973 and was accepted by voters at the
+election of June 12, 1973.
+Ward boundaries in the City of Evans, Colorado, shall hereafter be as follows:
+A.
+Ward 1. All that part of the City lying east of the line described as follows: Commencing
+at the intersection of the north City limit boundary line with the centerline of Pleasant
+Acres Road; thence south along said centerline to the centerline of 32nd Street; thence
+east along said centerline to the centerline of 11th Avenue; thence south along said
+centerline to the centerline of 34th Street; thence west along said centerline to
+the centerline of 17th Avenue; thence south along said centerline to the centerline
+of 37th Street; thence west along said centerline to the centerline of 23rd Avenue
+extended; thence south along said centerline to the south City limit boundary line.
+B.
+Ward 2. All that part of the City lying west of the line described as follows: Commencing
+at the intersection of the north City limit boundary line with the centerline of Pleasant
+Acres Road; thence south along said centerline to the centerline of 32nd Street; thence
+east along said centerline to the centerline of 11th Avenue; thence south along said
+centerline to the centerline of 34th Street; thence west along said centerline to
+the centerline of 17th Avenue; thence south along said centerline to the centerline
+of 37th Street; thence west along said centerline to the centerline of 23rd Avenue
+extended; thence south along said centerline to the south City limit boundary line
+and all that part of the City lying east of the line described as follows: Commencing
+at the intersection of the north City limit boundary line with the centerline of 29th
+Avenue; thence south along said centerline to the centerline of Prairie View Drive;
+thence west along said centerline to the centerline of 35th Avenue extended; thence
+south along said centerline to the south City limit boundary line.
+C.
+Ward 3. All that part of the City lying west of the ling described as follows: Commencing
+at the intersection of the north City limit boundary line with the centerline of 29th
+Avenue; thence south along said centerline to the centerline of Prairie View Drive;
+thence west along said centerline to the centerline of 35th Avenue extended; thence
+south along said centerline to the south City limit boundary line.
+( Ord. 671-17 , § 1, 2017; Ord. 527-11: 413-07: 104-01: 880-93: 571 83)
+This Section shall provide for an orderly transition for Council Members that may
+be displaced due to the readjustment of Ward boundaries.
+A.
+Should a Council Member be displaced due solely to adjustments in Ward boundaries,
+he or she may continue to serve as a Council Member in that Ward until the end of
+the term to which he or she was elected and/or appointed.
+(Ord. 104-01)
+Notwithstanding any provision in the Colorado Municipal Election Code or Uniform Election
+Code, the time periods for circulation, submission and cure of nomination petitions
+for any City mail ballot election shall be as follows:
+
+Action | Days Before Election
+First day to pick up petitions | 91 days
+Last day to file petition with City Clerk | 71 days
+Last day to cure petition with City Clerk | 66 days
+Affidavit of intent (last day for write-in candidates) | 64 days
+Election may be cancelled | 64 days
+Last day to withdraw from nomination | 63 days
+
+( Ord. 674-17 , § 1, 2017; Ord. 645-16 , 2016; Ord. 414-07)
+No write-in vote for any municipal office shall be counted unless an affidavit of
+intent has been filed with the City Clerk by the person whose name is written in by
+the close of business on the sixty-fourth day before the date of the election, indicating
+that such person desires the office and is qualified to assume the duties of that
+office, if elected. The City Clerk shall maintain an appropriate form of affidavit
+in the Clerk's office.
+( Ord. 674-17 , § 1, 2017; Ord. 645-16 , 2016; Ord. 414-07; Ord. 827-92; Ord. 757-90)
+If the only matter before the voters is the election of persons to office and if,
+at the close of business on the sixty-fourth day before the election, there are not
+more candidates than offices to be filled at such election, including candidates filing
+affidavits of intent, as set forth in Section 1.14.020 of this Chapter, the City Council, by resolution, shall cancel the election and declare
+the candidates elected. Notice of such cancellation shall be published and posted.
+( Ord. 674-17 , § 1, 2017; Ord. 645-16 , 2016; Ord. 414-07; Ord. 827-92; Ord. 757-90)
+A.
+Definitions. For the purposes of this Section the following terms, phrases, words,
+and their derivatives shall have the meanings given in this Section:
+Article XXVIII shall mean Article XXVIII of the Colorado Constitution, entitled Campaign and Political
+Finance, as amended from time to time.
+City Clerk shall mean the City Clerk of the City of Evans or that person's designee.
+City Clerk's Designee shall presumptively mean the Evans Municipal Court Judge appointed pursuant to the
+Evans Home Rule Charter, or such other person as the City Clerk may designate from
+time to time.
+FCPA shall mean the Fair Campaign Practices Act, C.R.S. Section 1-45-101 et seq., as amended
+from time to time.
+B.
+Applicable law for campaign finance in City elections. Article XXVIII and the FCPA
+shall apply to and govern all City elections except to the extent that a direct and
+irreconcilable conflict with the provisions of this Section exists, in which case
+the provisions of this Section shall prevail.
+C.
+Third party complaints.
+1.
+Any person who believes a violation of Article XXVIII or the FCPA has occurred related
+to a City election may file a written complaint with the City Clerk, who will promptly
+send the written complaint to the City Clerk's Designee.
+2.
+Complaints must be filed no later than thirty (30) calendar days after the complainant
+knew or should have known by the exercise of reasonable diligence of the alleged violation,
+but in any event no later than 60 days after the election is concluded.
+3.
+A written complaint filed with the City Clerk shall include the following information:
+a.
+The name, address, e-mail address, telephone number and signature of the complainant
+(if the complainant is represented by counsel, include the counsel's name, address,
+e-mail address, telephone number and signature).
+b.
+The name and, if known, the telephone number and address of the person alleged to
+have committed a violation (the "respondent").
+c.
+The particulars of the violation and any available documentation or evidence supporting
+the allegation.
+4.
+If an incomplete complaint is received, the date on which the originally filed complaint
+was received is considered the filed date if a complete complaint is received within
+three (3) business days of notification from the City Clerk's Designee that the complaint
+was incomplete.
+5.
+If the City Clerk's Designee determines that the complaint was not timely filed, has
+not specifically identified a violation of Article XXVIII or the FCPA, or that the
+complainant did not assert facts or provide information sufficient to support the
+alleged violations, the City Clerk's Designee shall dismiss the complaint and notify
+the complainant and respondent of the reasons for dismissal. The City Clerk's Designee's
+dismissal is a final decision, and subject to review under Rule 106 of the Colorado
+Rules of Civil Procedure.
+6.
+If the complaint is not dismissed pursuant to Subsection 5, the City Clerk's Designee
+shall issue notice to the respondent by personal service, regular mail or electronic
+mail. The notice of violation shall:
+a.
+Cite the section or sections of Article XXVIII or the FCPA the person allegedly violated
+and a general description of the violation.
+b.
+Allow seven (7) business days for the correction of the violation or submission of
+a written statement explaining the reason that supports a conclusion that a violation
+was not committed.
+c.
+Set forth the applicable civil fine for each violation, except that no such fine shall
+be due or payable if the person cures the violation within seven (7) business days
+of the date of the notice of violation.
+d.
+Allow fourteen (14) business days for submission of a written request for an informal
+hearing before the City Clerk's Designee.
+7.
+In the event the violation cannot be cured by complying with the reporting requirements
+in Article XXVIII or the FCPA, the person shall propose an alternative resolution
+to cure the violation to the City Clerk's Designee. The City Clerk's Designee shall
+have the discretion to accept, recommend an alternative, or decline the proposed alternative
+resolution. Acceptance of an alternative resolution by the City Clerk's Designee is
+deemed to be a cure of the violation if made within seven (7) business days of the
+date of the notice of violation.
+8.
+If the respondent fails to cure or otherwise remedy the violation, the respondent
+shall within fourteen (14) days of the date of the notice of violation either pay
+the fine or contest the violation by submitting to the City Clerk's Designee a written
+request for hearing.
+9.
+Upon timely receipt of a written request for a hearing, the City Clerk's Designee
+shall hear and determine the complaint.
+10.
+An informal hearing shall be scheduled as soon as practicable but, unless an enlargement
+of time is granted, the hearing shall be held within thirty (30) days of the receipt
+of the complaint by the City Clerk's Designee. Upon written motion, the City Clerk's
+Designee may grant the respondent a continuance upon a showing of good cause.
+11.
+Notice of the hearing and any applicable rules governing the hearing process shall
+be sent to the complainant and to the respondent, who shall also receive a copy of
+the entire complaint received by the City Clerk's Designee within three (3) business
+days of the date that the complaint was received by the City Clerk's Designee.
+12.
+Upon the request of either party, the City Clerk's Designee may issue administrative
+subpoenas requiring the personal attendance of witnesses or parties in relation to
+an alleged campaign finance violation, which shall be served on the party to whom
+it is directed by the requesting party pursuant to the Colorado Municipal Court Rules
+of Procedure. It shall be unlawful for a witness or party to fail to appear in person
+when directed by such subpoena, and a bench warrant may issue for the arrest of such
+person, pursuant to the Colorado Municipal Court Rules of Procedure, for such person's
+failure to appear.
+13.
+At the hearing, the complainant and the respondent shall be allowed to be heard. The
+complainant shall have the burden of proving the alleged violation by a preponderance
+of the evidence.
+14.
+Following the hearing, the City Clerk's Designee shall issue a decision within fourteen
+(14) business days. The decision may be issued orally at the conclusion of the hearing
+or may be issued in writing, at the discretion of the hearing officer.
+15.
+If the City Clerk's Designee determines that a violation has occurred, the City Clerk's
+Designee shall issue a decision that shall include any appropriate order, sanction
+or relief authorized hereunder and may include, without limitation, sanctions as follows:
+a.
+Civil penalties set forth in Subsection 16; except the City Clerk's Designee may increase
+or reduce the penalties upon a finding of good cause or excusable neglect based on
+evidence presented at the hearing.
+b.
+Ordering disclosure of the source and amount of any undisclosed contributions or expenditures.
+c.
+Ordering the return to the donor of any contribution made which was the subject of
+the violation.
+16.
+Civil fines for violations of Article XXVIII or the FCPA are set forth below. Candidates
+shall be personally liable for fines imposed against the candidate's committee. Civil
+fines imposed by this Section are established by Article XXVIII or the FCPA as follows:
+a.
+Failure to file a report required by Article XXVIII or the FCPA, other than independent
+expenditures, if not cured within seven (7) business days of notice of violation issued
+by the City Clerk's Designee: four hundred dollars ($400.00).
+b.
+Failure to file a report for independent expenditures: two hundred dollars ($200.00).
+c.
+After notification by the City Clerk's Designee, failure to cure a report/violation
+within the specified time period: four hundred ninety-nine dollars ($499.00).
+d.
+Accepting a contribution prohibited by Article XXVIII or the FCPA: four hundred dollars
+($400.00); except that it shall not be considered a violation if the contribution
+is returned within seventy-two (72) hours of its receipt. Each prohibited contribution
+accepted shall be a separate violation.
+e.
+Acting as a conduit in violation of Article XXVIII or the FCPA: four hundred dollars
+($400.00) for each violation.
+f.
+Failing to disclose a contribution or expenditure, including obligations entered into
+by the committee: one hundred dollars ($100.00) for each violation.
+g.
+Failure to timely file a candidate affidavit: one hundred dollars ($100.00).
+h.
+Failure to file a candidate committee, political committee or issue committee statement
+of registration: one hundred dollars ($100.00).
+i.
+Failure to deposit funds in a separate account in a financial institution: one hundred
+dollars ($100.00).
+j.
+Accepting coin or currency in excess of the limits set by Article XXVIII or the FCPA:
+fifty dollars ($50.00) for each violation.
+k.
+Use of unexpended campaign funds in violation of Article XXVIII or the FCPA: four
+hundred dollars ($400.00).
+l.
+Encouraging withdrawal from a campaign: four hundred ninety-nine dollars ($499.00).
+m.
+Any violation of Article XXVIII or the FCPA not otherwise set forth herein: one hundred
+dollars ($100.00) per violation.
+17.
+If the civil fine is not paid when due or upon entry of a civil judgement by the City
+Clerk's Designee, the City may commence procedures to collect the fine, including
+commencement of a civil action to collect the fine. A person found to be in violation
+of this Section shall be responsible for all costs of collection, including reasonable
+attorney's fees.
+18.
+All decisions by the City Clerk's Designee shall be final subject only to judicial
+review pursuant to Rule 106 of the Colorado Rules of Civil Procedure.
+D.
+Enforcement by City Clerk's Designee. If the City Clerk's Designee believes that a
+violation of the FCPA or Article XXVIII has occurred, the City Clerk's Designee may
+commence enforcement proceedings in accordance with the procedures set forth in Section 1.16.010 of this Code, except in no event shall the enforcement include a possibility of incarceration.
+E.
+Rules and regulations. The City Clerk's Designee is authorized to adopt such rules
+and regulations consistent with the provisions hereof as may be required to implement
+this Section.
+( Ord. 712-20 , § 2, 2020)
+It is unlawful for any person to violate any provision or to fail to comply with any
+of the requirements of this Code. Any person violating any of the provisions or failing
+to comply with any of the mandatory requirements of this Code shall, upon conviction
+thereof, be punished by a fine not exceeding two thousand six hundred fifty dollars
+($2,650.00). Each such person is guilty of a separate offense for each and every day
+during any portion of which any violation of any provision of this Code is committed,
+continued or permitted by such person, and shall be punished accordingly. Lack of
+or delay in enforcement of any provision of this Code shall not constitute a waiver
+of such provision. The City assumes no liability for any such violation.
+( Ord. 819-24 , § 2, 2024; Ord. 737-20 , § 2, 2020; Ord. 658-16 , 2016; Ord. 466-09; Ord. 842-92: Prior code 1.01.160)
+The violation of any section of this Code by any person not having attained the age
+of eighteen (18) years at the time of the commission of the violation shall be a misdemeanor,
+however, such conviction shall be punishable by a fine only, not exceeding two thousand
+six hundred fifty dollars ($2,650.00), unless a different fine is specifically set
+forth herein, and notwithstanding the application of imprisonment penalties which
+may otherwise be applicable to such offenses, if committed by a person eighteen (18)
+years of age or over as set forth in Section 1.16.010 above or any specific penalty provision of a Municipal Ordinance or Code section.
+In the event that the juvenile court should assume jurisdiction over the juvenile
+person so charged pursuant to the provisions of the Colorado Children's Code, prior
+to final adjudication by the Municipal Court, then all jurisdiction in the matter
+shall vest with the juvenile court, and the municipal action shall be dismissed.
+( Ord. 658-16 , 2016; Ord. 466-09; Ord. 875-93)
+A.
+A violator, upon conviction, may be sentenced to perform a certain number of hours
+of community or useful public service, not to exceed forty (40) hours, in addition
+to any other penalty provided in this Chapter. If a person is convicted of more than
+one (1) violation, community or useful public service may be imposed on any or each
+and every violation; any community or useful public service penalties in excess of
+one (1) arising out of multiple violations within one (1) case may run and be satisfied
+concurrently or consecutively, in the discretion of the Municipal Court.
+B.
+For the purposes of Subsection A above, community or useful public service means any work which is beneficial to the public, any public entity, or any bona
+fide nonprofit private or public organization and which work would not with the exercise
+of reasonable care, endanger the health or safety of the person required to work.
+C.
+Any community or useful public service penalty imposed pursuant to this Section shall
+be suitable to the age and abilities of the violator, and the amount of community
+or useful public service work ordered shall be reasonably related to the seriousness
+of the violations.
+D.
+The Municipal Court may assess a fee to cover the costs of the defendant participating
+in the useful public service program, upon every person required to perform community
+or useful public service pursuant to this Section. The Municipal Court may waive all
+or a portion of this fee if the Municipal Court determines the violator to be indigent.
+(Ord. 466-09; Ord. 909-94)
+The administrative authority or agents of the City, without liability, may enter upon
+any property, vacant lots or premises in the City to perform any abatement allowed
+by this Code. Prior to entry upon any private property, vacant lots or premises, the
+administrative authority or agents of the City shall make a reasonable attempt to
+contact the owner or tenant of such property.
+(Ord. 466-09)
+Any violation of this Code may be abated by the City. The full cost of such abatement,
+together with a fifteen-percent fee to defray the cost of inspection, abatement and
+collection, shall be billed to the owner or agent in charge of the property containing
+or causing such violation. Any such bill that is not paid within thirty (30) days
+shall cause such assessment to become a lien against such property, to have priority
+over all liens, except general taxes and prior special assessments, to be placed upon
+the tax list for the current year, and to be collected in the same manner as other
+taxes are collected, together with a fifteen-percent penalty to defray the cost of
+collection, as provided by the laws of the State. Any violation of this Code causing
+a real or potential hazard to life, limb, or property may be abated by the City without
+prior notice to the owner. Abatement of any other violation shall not commence unless
+a notice of violation has not been complied with.
+(Ord. 466-09)
+A.
+The City Council finds that the enforcement of this Code is an important public service,
+and that code enforcement is vital to the protection of the public's health, safety
+and quality of life. The City Council further finds that a comprehensive code enforcement
+system that uses a combination of judicial and administrative remedies is critical
+to gain compliance with these ordinances.
+B.
+Under this Chapter administrative enforcement and penalties may be imposed for any
+violation of this Code, including parking violations under 42-4-12, C.R.S. or Part
+4 of the Model Traffic Code adopted by Section 10.04.010 of this Code, except that administrative enforcement and penalties under this Chapter
+shall not apply to the following:
+1.
+Violations under Title 9 regarding the public peace, morals, and welfare.
+2.
+Violations under Title 10 regarding vehicles and traffic other than parking violations under 42-4-12, C.R.S
+or Part 4 of the Model Traffic Code set forth in Subsection B.
+C.
+The purpose of this Chapter is to encourage prompt compliance with the Code and prompt
+payment of any penalties.
+( Ord. 739-20 , § 2, 2020; ; Ord. 567-13)
+Editor's note— Section 2 of Ord. 739-20 , adopted Nov. 17, 2020, changed the title of § 1.17.010 from "General intent" to
+read as herein set out.
+When used in this Chapter, the following words and terms, unless the context indicates
+a different meaning, shall be interpreted as follows:
+City means the City of Evans.
+City Manager means the City Manager or the City Manager's designee.
+Code means the Evans Municipal Code.
+Enforcement Official means an employee or agent of the City authorized to enforce the ordinances of the
+City.
+Hearing Officer means the officer appointed by the City Manager to hear appeals under this Chapter.
+Responsible party means a person or entity who has violated the Code or, in the case of property violations,
+the responsible party may also be the property owner, the occupant, or an individual
+or an entity who, acting as an agent for or in any other legal capacity on behalf
+of the owner, has authority over property subject to an administrative citation under
+this Chapter.
+( Ord. 739-20 , § 2, 2020; Ord. 567-13)
+A.
+Any responsible party violating provisions of the Code may be issued an administrative
+citation by an Enforcement Official as provided in this Chapter.
+B.
+Notwithstanding any other provision of the Code, responsible parties cited under the
+provisions of this Chapter shall have only the appeal rights granted herein.
+C.
+Each day a violation exists or continues shall constitute a separate and distinct
+violation for which a separate administrative citation may be issued. However, once
+an administrative citation has been issued for a violation of the Code, no additional
+administrative citation shall be issued for the same violation for seven (7) days
+or, if the responsible party requests an appeal in accordance with this Chapter, until
+after the appeal has been heard and the responsible party has not complied with an
+administrative enforcement order of the Hearing Officer within seven (7) days of its
+issuance or such other time as the Hearing Officer has specified.
+D.
+A civil penalty assessed by means of an administrative citation may be collected by
+any means allowed by law.
+E.
+Enforcement actions are intended to be cumulative in nature. The City may pursue one
+(1) or more civil, criminal and administrative actions, fees, fines, sentences, penalties,
+judgments and remedies and may do so simultaneously or in succession. The enactment
+of this administrative remedy shall in no way interfere with the City's right to prosecute
+violations as criminal offenses.
+(Ord. 567-13)
+A.
+Whenever the Enforcement Official determines that a violation of the Code exists,
+the Enforcement Official shall issue a notice of violation and order to correct ("Notice
+of Violation") to the responsible party. The Notice of Violation shall be in writing
+and shall describe with reasonable detail the violation so that the responsible party
+may properly correct it. The Notice of Violation shall provide a reasonable time for
+correction not to exceed thirty (30) days given the circumstances of the violation.
+The initial time period for correction of the violation may be extended, at the discretion
+of the Enforcement Official, if the responsible party demonstrates a good faith effort
+to the satisfaction of the City to correct the violation within the initial time given
+for correction of the violation. In no case shall the time to correct a violation
+extend beyond one hundred eighty (180) days from the initial date of the issuance
+of the Notice of Violation.
+B.
+The Notice of Violation shall be served as follows:
+1.
+The Notice of Violation shall be mailed, first-class mail to the property owner's
+address recorded with the Weld County Assessor. If the address recorded with the Weld
+County Assessor is a different address from the mailing address of the site of the
+violation, then an additional copy of the Notice of Violation shall also be mailed
+to the occupant at the site address. Alternatively, the Notice of Violation may be
+personally served upon the owner or responsible party or posted in a conspicuous place
+upon the property.
+2.
+The Notice of Violation shall be deemed served upon the third day after the date of
+mailing to the responsible party, or, if personally served, upon the date of such
+personal service. Notices of violation for violations that pose an immediate threat
+to public health and safety or to the environment, but that cannot be personally served
+or posted in a conspicuous place upon the property, shall be sent to the address shown
+in the County Assessor records and shall be deemed served on the date of postmark.
+C.
+If, after service of the Notice of Violation, the Code violation is not timely corrected
+an Enforcement Official may issue an administrative citation to a responsible party.
+D.
+Service of an administrative citation on a responsible party shall be made in the
+same manner as the Notice of Violation as described in Subsection B. above.
+( Ord. 739-20 , § 2, 2020; Ord. 567-13)
+Editor's note— Section 2 of Ord. 739-20 , adopted Nov. 17, 2020, repealed former § 1.17.050 which pertained to voluntary compliance
+agreements and derived from Ord. 567-13.
+A.
+The administrative citation shall state the date and location of the violations, and
+the approximate time the violations were observed. Where applicable, the administrative
+citation shall identify the property in violation by address or legal description.
+B.
+The administrative citation shall state the Code sections violated and describe the
+violations.
+C.
+The administrative citation shall describe the action required to correct the violations.
+D.
+The administrative citation shall require the responsible party to correct the violations
+within a reasonable time given the circumstances, but in no case more than seven (7)
+days, and shall explain the consequences of failure to correct said violations.
+E.
+The administrative citation shall state the amount of penalty imposed for the violations.
+F.
+The administrative citation shall explain how the penalty shall be paid, the time
+period by which it shall be paid and the consequences of failure to pay the penalty.
+G.
+The administrative citation shall identify the right and procedures for appealing
+the administrative citation.
+H.
+The administrative citation shall contain the signature of the Enforcement Official
+and the signature of the responsible party if it can be obtained.
+(Ord. 567-13)
+A.
+A person served with an administrative citation may file a notice of appeal in person
+or by mail postmarked no later than seven (7) calendar days from the service of the
+administrative citation. Compliance with this time limit shall be a jurisdictional
+prerequisite to any appeal brought under this Chapter. Failure to comply with such
+time limit shall be deemed to waive the right to a hearing and the adjudication of
+the issues related to the hearing, provided that proper notice of the administrative
+citation has been provided.
+B.
+The notice of appeal shall be made in writing, filed with the City Clerk and contain
+the following information.
+1.
+The reasons the appellant believes the administrative citation is objectionable, incorrect
+or illegal.
+2.
+The amount and type of claim or dispute involved, and the time during which it accrued
+or occurred.
+3.
+The name, address and telephone number of the appellant.
+4.
+The signature of the appellant, legal representative and/or corporate agent.
+C.
+A processing fee in the amount indicated on the administrative citation shall be paid
+by cash, check or certified funds simultaneously with the filing of the notice of
+appeal. The processing fee is not refundable except as provided in Subsection 1.17.080.L
+of this Chapter.
+D.
+If, in the opinion of the City Clerk, the appeal meets all of the requirements of
+Sections A through C above, the City Clerk shall forward the notice of appeal to the
+designated Hearing Officer.
+E.
+If, in the opinion of the City Clerk, the appeal does not meet all of the requirements
+of Subsections A through C above, the City Clerk shall promptly return the appeal
+and notify the appellant of what requirements the appeal fails to meet.
+F.
+As soon as practicable after receiving the written notice of appeal, the designated
+Hearing Officer shall schedule a date, time and location for the hearing, unless,
+if requested by the appellant and in the sole discretion of the designated Hearing
+Officer it is submitted on written brief and supporting material.
+G.
+Written notice of the date, time and location of the hearing shall be personally served
+upon or sent by first-class mail to the responsible party at least seven (7) calendar
+days prior to the date of the hearing.
+(Ord. 567-13)
+A.
+The procedure and format of the administrative citation appeal hearing shall follow
+procedures as set forth herein. Procedure: In addition to any procedural hearing requirements
+the Hearing Officer may adopt by rule, the Hearing Officer shall conduct hearings
+and make decisions in accordance with the following requirements:
+1.
+The Hearing Officer may keep a record of the proceedings, either stenographically
+or by sound recording, and a transcript of the proceedings and copies of graphic or
+written material received in evidence shall be made available to any person upon request
+within sixty (60) days of the hearing and payment in advance of the estimated cost
+of production of the transcript.
+2.
+The Hearing Officer shall render written decisions, accompanied by findings of fact
+and conclusions based thereon. Conclusions based on any provision of Chapter 8.24 of this Code shall contain a reference to such provision and shall also contain the
+reason the conclusion is deemed appropriate in light of the facts found.
+3.
+All witnesses may be sworn or affirm their testimony.
+B.
+Administrative citation appeal hearings are intended to be informal in nature. Formal
+rules of evidence and discovery do not apply; however, an informal exchange of discovery
+may be required by the Hearing Officer or requested by any party. The request must
+be in writing. Failure to request discovery shall not be a basis for a continuance.
+C.
+The parties to an administrative citation appeal hearing shall be the responsible
+party and the City.
+D.
+The City bears the burden of proof at an administrative citation appeal hearing to
+establish the existence of a violation of the Code.
+E.
+The standard of proof to be used by the Hearing Officer in deciding the issues at
+an administrative citation appeal hearing is by a preponderance of the evidence.
+(Ord. 567-13)
+A.
+The Hearing Officer shall determine whether appeals of administrative citations are
+valid. In doing so the Hearing Officer shall determine whether the administrative
+citation under appeal was issued in compliance with the requirements of the City ordinances.
+In each case the Hearing Officer shall be charged with performing all functions relating
+to the final factual determinations and procedural orders, and entertaining petitions
+or motions made in writing. The Hearing Officer may perform those duties and functions
+necessary and incidental to determining the matter, hearing all evidence and examining
+all documents.
+B.
+In the discretion of the Hearing Officer, parties to the hearing may be required to
+file a pre-hearing statement before the case is set for hearing. The pre-hearing statement
+may include: the issues raised by the appeal; agreed and disputed facts; copies of
+exhibits not previously included in the record; names of witnesses with a brief statement
+summarizing their testimony; an estimate of the time necessary to present a party's
+evidence and other matters as requested by the Hearing Officer.
+C.
+All hearings or, when an appeal is submitted for determination based on written argument
+and written facts and figures, all examination of such written petitions and papers
+shall be conducted by the Hearing Officer assigned to conduct the hearing or to examine
+the written material submitted.
+D.
+The admissibility of evidence shall be encouraged and the Hearing Officer shall consider
+all evidence of probative value. The Hearing Officer may utilize his or her experience,
+technical competence and specialized knowledge in the evaluation of evidence presented.
+E.
+Copies, photographs and photocopies may be admitted into evidence or substituted in
+evidence in place of original documents.
+F.
+Witnesses intended to give opinion testimony as experts must be qualified as such,
+and their qualifications should be submitted in advance to the Hearing Officer.
+G.
+Whenever it appears that an appeal is not properly before the Hearing Officer, or
+that the appellant for some other reason lacks jurisdiction or standing, the case
+may be dismissed on the motion of any party or the Hearing Officer.
+H.
+Mailings, notices, computations of time, time limitations, service and filings shall
+conform to the requirements of particular law or ordinance involved.
+I.
+The written decision of the Hearing Officer shall be known as an administrative enforcement
+order.
+J.
+The parties may enter into a stipulated agreement which must be signed by both parties.
+Upon approval and acceptance by the Hearing Officer, this agreement shall be entered
+as the administrative enforcement order. Entry of this agreement shall constitute
+a waiver of the right to a hearing and the right to appeal.
+K.
+The Hearing Officer may uphold the administrative citation and all penalties, or dismiss
+the administrative citation and all penalties, or may conditionally reduce the penalties
+assessed by the administrative citation. The Hearing Officer may also impose conditions
+and deadlines to correct the violation or require payment of any outstanding penalties.
+L.
+If the Hearing Officer dismisses the administrative citation and all penalties due
+to the City's failure to satisfy its obligations under this Chapter, the appellant's
+thirty-five-dollar processing fee shall be promptly refunded.
+M.
+The Hearing Officer has continuing jurisdiction over the subject matter of an administrative
+citation appeal hearing for the purposes of granting a continuance, ordering compliance
+by issuing an administrative enforcement order, ensuring compliance of that order,
+modifying an administrative enforcement order, or, where extraordinary circumstances
+exist, granting a new hearing. The Hearing Officer may schedule subsequent review
+hearings as may be necessary or as requested by a party to the hearing to ensure compliance
+with the administrative enforcement order.
+(Ord. 567-13)
+It shall be unlawful for any person to willfully make a false statement or refuse
+to give his or her name or address with intent to deceive or interfere with the Enforcement
+Official when in the performance of official duties under the provisions of this Chapter.
+Any person who willfully makes a false statement or refuses to give his or her name
+or address with intent to deceive or interfere with the Enforcement Official shall
+be guilty of a misdemeanor and upon conviction thereof shall be punished by a fine
+or by confinement in jail or by both such fine and imprisonment as specified in Chapter 1.16 of this Title.
+(Ord. 567-13)
+Any responsible party who fails to appear at the hearing is deemed to waive the right
+to a hearing and the adjudication of the issues related to the hearing, provided that
+proper notice of the hearing has been provided as required herein.
+(Ord. 567-13)
+It is unlawful for a responsible party to an administrative enforcement hearing who
+has been served with a copy of the final administrative enforcement order to fail
+to comply with the order. Any person who fails to comply with a final administrative
+enforcement order shall be guilty of a misdemeanor and upon conviction thereof shall
+be punished by a fine or by confinement in jail or by both such fine and imprisonment
+as specified in Chapter 1.16 of this Title. Prosecution for failure to comply with a final administrative enforcement
+order shall not commence until the time to appeal such order has lapsed.
+(Ord. 567-13)
+A.
+If the responsible party fails to correct the violation within the time required as
+indicated on the notice of violation, or if an additional violation of the same Code
+section as the initial violation of this Code is observed within six (6) months of
+the notice of violation, an administrative citation may be issued to the responsible
+party indicating a fine of one hundred fifty dollars ($150.00).
+B.
+If the responsible party fails to correct the violation within the time required as
+indicated on the administrative citation, or if another violation of the same Code
+section as the initial violation of this Code is observed within six (6) months of
+the date of the first administrative citation, a second administrative citation may
+be issued to the responsible party indicating a fine of five hundred dollars ($500.00).
+C.
+If the responsible party fails to correct the violation within the time required as
+indicated on the administrative citation, or if another violation of the same Code
+section as the initial violation of this Code is observed within six (6) months of
+the date of the second or subsequent administrative citation, a third or subsequent
+administrative citation may be issued to the responsible party indicating a fine of
+nine hundred ninety-nine dollars ($999.00).
+D.
+Payment of the penalty shall not excuse the failure to correct the violations nor
+shall it bar further enforcement actions by the City.
+( Ord. 739-20 , § 2, 2020; Ord. 582-13 §1; Ord. 567-13)
+A.
+All penalties assessed shall be payable to the City. Payment of the full amount of
+the penalty must be received in person or by mail postmarked no later than thirty
+(30) calendar days from the date of issuance of the administrative citation or administrative
+enforcement order, or within the time specified on the administrative enforcement
+order.
+B.
+Any such penalty that is not paid within thirty (30) days shall cause such penalty
+to become a lien against such property, to have priority over all liens, except general
+taxes and prior special assessments, to be placed upon the tax list for the current
+year, and to be collected in the same manner as other taxes are collected, together
+with a fifteen-percent penalty to defray the cost of collection, as provided by the
+laws of the State.
+C.
+The failure of any responsible party to pay the civil penalties assessed by an administrative
+citation or administrative enforcement order within the time specified on the citation
+or order, respectively, may result in the imposition of a late fee of twenty-five
+dollars ($25.00) and interest at a rate of ten percent (10%) per annum.
+D.
+Any action or other process provided by law may be maintained by the City to recover
+or collect any amounts, including late fees, penalties, interest and administrative
+costs, owing under this Chapter, including but not limited to referral of this matter
+to the Municipal Court by service of a summons and complaint, in which case, notwithstanding
+the previously imposed penalties, the responsible party shall be subject to the penalties
+set forth in Chapter 1.16 of this Title. The City Manager may also refer the matter for collection by whatever
+means are available to the City.
+(Ord. 582-13 §1; Ord. 567-13)
+The official zoning map, filed in the Zoning Department, is adopted as the official
+zoning map of the City.
+(Ord. 1124-98, 1998; Ord. 577 84, 1984)
+No application for a permit, license, or other authorization issued by the City of
+Evans or any of its departments or related entities or personnel shall be processed
+unless and until all taxes, fees, assessments, liens, accounts, and other charges
+of any type owed to the City of Evans by the applicant as well as any of the principals,
+parent entities, subsidiaries, or other entities or individuals related to the applicant,
+are paid in full and current.
+(Ord. 592-14, 2014)
+No application for a permit, license, or other authorization issued by the City of
+Evans or any of its departments or related entities or personnel shall be approved
+unless and until all taxes, fees, assessments, liens, accounts, and other charges
+of any type owed to the City of Evans by the applicant as well as any of the principals,
+parent entities, subsidiaries, or other entities or individuals related to the applicant,
+are paid in full and current.
+(Ord. 592-14, 2014)

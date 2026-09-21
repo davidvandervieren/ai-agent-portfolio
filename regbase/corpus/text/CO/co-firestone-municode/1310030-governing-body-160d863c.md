@@ -1,0 +1,86 @@
+---
+source_id: co-firestone-municode
+jurisdiction: Firestone, CO
+state: CO
+county: Weld
+municipality: Firestone
+agency: Town of Firestone
+title: 13.10.030 - Governing body.
+doc_type: code
+citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.10 - Water Activity Enterprise > 13.10.030 - Governing body.
+url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.10WAACEN_13.10.030GOBO"
+sha256: 5f76882602c2e6632751c17edc016a03727e8e5c99396aeb208d0627793ca60a
+fetched_at: "2026-09-18T05:18:02+00:00"
+---
+
+As used in this chapter, unless the context otherwise requires:
+A.
+"Grant" means the cash payment of public funds made directly to a municipal activity
+enterprise by the state or a local governmental entity or district, including the
+town, which cash payment is not required to be repaid. "Grant" does not include public
+funds paid or advanced to a municipal activity enterprise by the state or local governmental
+entity or district, including the town, in exchange for an agreement by a municipal
+activity enterprise to provide service including the provision of water, the capacity
+of project works, materials or other water activities; nor does "grant" include refunds
+made in the current or next fiscal year, gifts, any payments directly or indirectly
+from federal funds or earnings on federal funds, collections from another government,
+pension contributions by employees and pension fund earnings, reserve transfers or
+expenditures, damage awards or property sales.
+B.
+"Water activity" shall be defined as set out in Section 37-45.1-102, C.R.S.
+C.
+"Water activity enterprise" means that water activity business wholly owned by the
+town which receives under ten percent of its annual revenues in grants from all Colorado
+state and local governments combined and which is authorized to issue its own revenue
+bonds pursuant to this chapter or any other applicable law.
+(Ord. 297 §1, 1993)
+A.
+There is hereby recognized, established and designated the "Town of Firestone Water
+Activity Enterprise" (the "enterprise"). The enterprise shall consist of the business
+represented by all of the town's water and sewer facilities and properties, now owned
+or hereafter acquired, whether situated within or without the town boundaries, including
+all present or future improvements, extensions, enlargements, betterment, replacements
+or additions thereof or thereto. The enterprise shall have all of the authority, powers,
+rights, obligations and duties as may be provided or permitted by the laws of the
+state and the Colorado Constitution, and as may be further prescribed by ordinance
+or resolution of the town.
+B.
+The enterprise shall continue to be a wholly owned business of the town and shall
+not be combined with any municipal activity enterprise owned by another district.
+The enterprise may continue to conduct the activities and provide the services as
+provided for in the ordinances of the town and the regulations adopted pursuant thereto.
+This paragraph shall not limit the authority of the enterprise to contract with any
+other person or entity, including other districts or enterprises.
+(Ord. 297 §2, 1993)
+A.
+The governing body of the enterprise (the "governing body") shall be the board of
+trustees of the town, and shall be subject to all of the applicable laws, rules and
+regulations pertaining to the board of trustees. Whenever the board of trustees is
+in session, the governing body shall also be deemed to be in session. It shall not
+be necessary for the governing body to meet separately from the regular and special
+meetings of the board of trustees, nor shall it be necessary for the governing body
+to specifically announce or acknowledge that actions taken thereby are taken by the
+governing body of the enterprise. The governing body may conduct its affairs in the
+same manner and subject to the same laws which apply to the board of trustees for
+the same or similar matters; provided that in accordance with Section 37-45.1-104(2),
+C.R.S., the governing body may authorize the issuance of bonds by adoption of a resolution.
+B.
+The governing body of the enterprise may exercise the town's legal authority relating
+to water activities, but no enterprise may levy a tax which is subject to Section
+20(4) of Article X of the Colorado Constitution.
+(Ord. 297 §3, 1993)
+The enterprise shall at all times and in all ways conduct its affairs so as to continue
+to qualify as a "water activity enterprise" as defined in Section 35-45.1-102, C.R.S.,
+and as an "enterprise" as defined in Article X, Section 20, Colorado Constitution.
+Specifically, but not by way of limitation, the enterprise is not authorized, and
+shall not receive ten percent or more of its annual revenue in grants from all Colorado
+state and local governments combined.
+(Ord. 297 §4, 1993)
+The enterprise maintained pursuant to this chapter, through the board of trustees,
+may issue or reissue revenue bonds, notes or other obligations payable solely from
+the revenues derived or to be derived from the functions, services, benefits or facilities
+of the enterprise or from any other available funds of the enterprise, in accordance
+with and through provisions of Section 37-45.1-104, C.R.S.; provided, however, that
+the powers provided in said section shall not modify, limit or affect the powers conferred
+by any other law either directly or indirectly.
+(Ord. 297 §5, 1993)

@@ -1,0 +1,149 @@
+---
+source_id: co-greeley-municode
+jurisdiction: Greeley, CO
+state: CO
+county: Weld
+municipality: Greeley
+agency: City of Greeley
+title: ARTICLE I. - GENERALLY
+doc_type: code
+citation_root: Title 18 - STREETS, SIDEWALKS AND PUBLIC PLACES > CHAPTER 5. - TREES IN RIGHTS-OF-WAY AND PUBLIC PLACES > ARTICLE I. - GENERALLY
+url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTIICOOR_TIT18STSIPUPL_CH5TRRI-WPUPL_ARTIGE"
+sha256: d43bad42143774c9ff50c73f738ac9b2a10e67519b01aa4a8d0c81c96b0c0f98
+fetched_at: "2026-09-21T06:38:03+00:00"
+---
+
+For the purposes of this chapter, the following words, terms and phrases shall have
+the meanings defined as follows:
+Parkways means that portion of a street or highway right-of-way, not paved or otherwise set
+apart for vehicular use, which abuts on the owner's property.
+Shrub means a woody plant which consists of a number of small stems from the ground or
+small branches near the ground and which may be deciduous or evergreen.
+Tree means a large woody plant having one or several self-supporting stems or trunks and
+numerous branches and which may be deciduous or evergreen.
+Vegetation means the plant life in the region, including shrubs and plants, but not including
+trees.
+(Code 1994, § 13.42.010; Ord. No. 30, 2012, § 4, 8-7-2012)
+No tree trimmer shall remove or trim any tree in a parkway or in a public right-of-way
+without first obtaining a permit from the city manager or his designee, and paying
+the fees required.
+(1)
+The city manager or his designee shall not issue a permit unless the tree to be removed
+or trimmed is dead or interferes with the proper use of parkways for sidewalk purposes
+or creates traffic hazards.
+(2)
+No tree shall be removed until the tree has been posted for at least seven days with
+a sign notifying the public of the contemplated removal unless otherwise deemed an
+emergency by the city manager or his designee.
+(3)
+All tree stumps shall be properly removed or ground to a minimum of six inches below
+normal ground level. Any remaining cavity resulting from such excavation shall be
+properly filled and compacted with quality soil to normal ground level.
+(Code 1994, § 13.41.030; Ord. No. 37, 2016 , § 1(exh. A), 12-20-2016)
+A tree trimmer operating under a permit may use and occupy for temporary periods of
+time alleys and the one-third portion of street roadways adjacent to the parkways
+where the trimming work is being carried on.
+(Code 1994, § 13.41.040; Ord. No. 37, 2016 , § 1(exh. A), 12-20-2016)
+It shall be the duty of all owners or persons in possession of property within the
+city to remove from the parkways, or cause to be removed from parkways, any and all
+trees, boughs and vegetation which, in the opinion of the city manager or his designee,
+interfere with the proper use of the parkways, overhang any sidewalks lower than eight
+feet or overhang any streets lower than 13 feet from the surfaces thereof, or create
+a traffic hazard.
+(Code 1994, § 13.42.060; Ord. No. 30, 2012, § 4, 8-7-2012; Ord. No. 25, 2015 , § 2(exh. B), 7-21-2015)
+It shall be the duty of all owners or persons in possession of property within the
+city to trim and care for any trees or shrubs in the parkway, whether or not planted
+by the owner or person in possession; the trimming of trees required by this section
+shall be done under the supervision of the city manager or his designee. Trimming
+and maintenance of shrubbery within the parkway shall be done in accordance with section 24-1143 .
+(Code 1994, § 13.42.130; Ord. No. 30, 2012, § 4, 8-7-2012)
+It shall be the duty of all owners or persons in possession of property within the
+city to refrain from planting trees in parkways unless the trees planted are at least
+35 feet apart in the case of shade trees and at least 25 feet apart in the case of
+ornamental trees and unless such trees are in line with each other and with trees
+previously planted in the parkway. The foregoing provisions shall apply to trees voluntarily
+planted by the owner as well as to planting ordered by the city council.
+(Code 1994, § 13.42.140; Ord. No. 30, 2012, § 4, 8-7-2012)
+It shall be the duty of all owners or persons in possession of property within the
+city to refrain from removing or trimming trees in parkways unless such removal or
+trimming is to be done by a licensed tree trimmer who has obtained a permit from the
+city for such removal or trimming.
+(Code 1994, § 13.42.160; Ord. No. 30, 2012, § 4, 8-7-2012)
+It shall be the duty of all owners or persons in possession of property within the
+city to refrain from planting trees within 25 feet of the corner of any street intersection
+as defined in the description of clear vision zone of a corner lot in section 24-579 .
+(Code 1994, § 13.42.180; Ord. No. 30, 2012, § 4, 8-7-2012)
+It shall be the duty of all owners or persons in possession of property within the
+city to refrain from planting trees or woody plants within five feet of the back of
+the curb or, in the absence of a curb, to refrain from planting on any portion of
+the right-of-way, until such time as curbing is installed.
+(Code 1994, § 13.42.190; Ord. No. 30, 2012, § 4, 8-7-2012)
+The city manager or his designee shall have authority to promulgate rules, regulations
+and specifications regarding planting, trimming, removing and spraying trees and woody
+plants on public rights-of-way in the city and regarding prohibiting specific types
+of trees and vegetation within the city. It is also the responsibility of the city
+manager or his designee to hear all appeals of this chapter unless a notice of violation
+is issued regarding the violation of this chapter.
+(Code 1994, § 13.42.240; Ord. No. 30, 2012, § 4, 8-7-2012)
+No one shall plant trees or woody plants on the public right-of-way without a tree
+planting permit. Such permit may be obtained from the office of the director of community
+development or his designee.
+(Code 1994, § 13.42.250; Ord. No. 30, 2012, § 4, 8-7-2012)
+(a)
+The enforcement of this chapter shall be carried out by the city manager or his designee.
+It shall be the duty of the city manager or his designee to perform such acts as are
+reasonably required to carry out and enforce the provisions of this chapter.
+(b)
+Any violation of any provision of this chapter shall be a violation enforced through
+the administrative procedure set out in chapters 10 of title 1 of this Code and chapter 12 of title 2 of this Code.
+(Code 1994, § 13.42.020; Ord. No. 30, 2012, § 4, 8-7-2012)
+It shall be the duty of the city manager or his designee to notify the owner or other
+persons in possession of the premises where such conditions exist as are described
+in this chapter, and to direct the owner or other person in possession to eradicate,
+remove, destroy and otherwise correct the condition described in the notice, within
+the time set forth in the notice.
+(Code 1994, § 13.42.040; Ord. No. 30, 2012, § 4, 8-7-2012; Ord. No. 25, 2015 , § 2(exh. B), 7-21-2015)
+It shall be the duty of the city manager or his designee to provide the director of
+finance with a statement of the costs incurred by the city in correcting any such
+conditions which the owners or other persons in possession fail to correct in order
+to enable the director of finance to prepare the assessments provided for in sections 18-357 , 18-358 and 18-359 .
+(Code 1994, § 13.42.070; Ord. No. 30, 2012, § 4, 8-7-2012)
+It shall be the duty of all owners or persons in possession of property within the
+city to comply with the directions of the city manager or his designee contained in
+a notice sent pursuant to sections 18-352 and 18-328 , within the time stated in the notice and in the manner directed therein.
+(Code 1994, § 13.42.110; Ord. No. 30, 2012, § 4, 8-7-2012)
+It shall be the duty of all owners or persons in possession of property within the
+city to pay to the city any and all amounts incurred by the city in correcting the
+conditions described in a notice sent by the city manager or his designee, such payment
+to be made within the time specified in the assessment notice issued pursuant to sections 18-357 , 18-358 and 18-359 .
+(Code 1994, § 13.42.120; Ord. No. 30, 2012, § 4, 8-7-2012)
+It shall be the duty of all owners or persons in possession of property within the
+city to refrain from interfering with the performance by city staff, including, but
+not limited to, forestry staff or code enforcement officers, of the duties set forth
+in this chapter.
+(Code 1994, § 13.42.150; Ord. No. 30, 2012, § 4, 8-7-2012)
+Failure by any property owner or person in possession of property to comply with the
+duties imposed in any provision of this chapter, within the times and in the manner
+provided therein, shall constitute a Code violation and shall be subject to the penalties
+provided in chapter 10 of title 1 of this Code.
+(Code 1994, § 13.42.200; Ord. No. 30, 2012, § 4, 8-7-2012)
+If the city incurs expenses and costs by reason of providing services or causing services
+to be provided and providing materials or causing materials to be provided, such total
+costs and expense shall be set forth in a written assessment notice to be prepared
+by the director of finance and to be mailed by him to the owner or person in possession
+whose duty it is to provide such services and materials. All such assessment notices
+shall declare that the full amount is immediately due and payable. Failure to pay
+any such assessment within such period of 30 days shall cause such assessment to become
+a lien against the lot, block or parcel of land owned or occupied by the person to
+whom the assessment notice was mailed, and such lien shall have priority over all
+other liens, except the general taxes and prior special assessments and the same may
+be certified at any time after such failure to so pay the same within 30 days, by
+the director of finance to the county treasurer to be placed upon the tax list for
+the current year, to be collected in the same manner as other taxes are collected,
+with a ten-percent penalty to defray the cost of collection, as provided by state
+law.
+(Code 1994, § 13.42.210; Ord. No. 30, 2012, § 4, 8-7-2012; Ord. No. 25, 2015 , § 2(exh. B), 7-21-2015)
+The city may bring civil suit against the owner or person in possession for the assessment
+or the unpaid portion thereof, described at section 18-358 , at any time after a 30-day period. This remedy shall be in addition to and an alternative
+to any other remedy available in this chapter or pursuant to law.
+(Code 1994, § 13.42.220; Ord. No. 30, 2012, § 4, 8-7-2012)

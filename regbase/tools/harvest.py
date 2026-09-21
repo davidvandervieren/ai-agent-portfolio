@@ -89,6 +89,7 @@ PLATFORMS: dict[str, dict] = {
 }
 
 THIN_REPORT: list[tuple[str, str, str, str]] = []
+MUNICODE_FAILURES: list[tuple[str, str, str, str]] = []   # source, heading, url, error
 
 _BINARY_EXT = re.compile(r"\.(pdf|docx?|xlsx?|zip|jpg|jpeg|png|gif|mp4|mp3)$", re.I)
 _SKIP_SCHEMES = ("mailto:", "tel:", "javascript:", "data:", "#")
@@ -299,6 +300,17 @@ def _municode_page(source: common.Source) -> str:
     return ""
 
 
+def _municode_root(page: str) -> str:
+    """The code's canonical page: host/state/client/codes/product, lower-cased,
+    without a job id or query. Registry URLs vary in case and some carry a
+    job id in the path; both name the same code."""
+    import municode
+    from urllib.parse import urlsplit
+    u = urlsplit(page)
+    state, client, product = municode.parse_url(page)
+    return f"{u.scheme}://{u.netloc}/{state}/{client}/codes/{product}".lower()
+
+
 def harvest_municode_source(source: common.Source, *, delay: float,
                             match: str = "", dry_run: bool = False) -> dict:
     """Pull a jurisdiction's entire code through Municode's own API.
@@ -310,7 +322,7 @@ def harvest_municode_source(source: common.Source, *, delay: float,
     import municode
 
     page = _municode_page(source)
-    stats = {"chapters": 0, "chars": 0, "failed": 0, "skipped": 0}
+    stats = {"chapters": 0, "chars": 0, "failed": 0, "skipped": 0, "empty": 0}
     if not page:
         return stats
     if dry_run:
@@ -328,6 +340,19 @@ def harvest_municode_source(source: common.Source, *, delay: float,
         state, city, product = municode.parse_url(page)
         ref = client.resolve(state, city, product, page_url=page)
         t = client.transport
+
+        # A whole-code harvest replaces this source's corpus outright. Stale
+        # shells from earlier per-document fetches and per-section duplicates
+        # from an earlier version of this path would otherwise sit beside the
+        # fresh chapters and be indexed alongside them.
+        import shutil
+        sub = Path(source.state) / common.slugify(source.id)
+        for d in (common.TEXT_DIR / sub, common.RAW_DIR / sub):
+            if d.exists():
+                shutil.rmtree(d, ignore_errors=True)
+        dropped = common.manifest_drop(source.id)
+        if dropped:
+            print(f"    cleared {dropped} earlier record(s) for a fresh whole-code harvest")
         print(f"    api session: job {ref.job_id} product {ref.product_id} "
               f"(headers reused: {', '.join(sorted(t.api_headers)) or 'none'})")
 
@@ -335,11 +360,16 @@ def harvest_municode_source(source: common.Source, *, delay: float,
             if reqs % 50 == 0:
                 print(f"    ... {total} nodes, {reqs} requests", flush=True)
 
-        for unit, heading, html in client.fetch_code(ref, match=match,
-                                                     on_progress=progress):
-            url = f"{page}?nodeId={unit.node_id}"
-            if not html:
+        for unit, heading, html, err in client.fetch_code(ref, match=match,
+                                                          on_progress=progress):
+            url = f"{_municode_root(page)}?nodeId={unit.fetch_id or unit.node_id}"
+            if err:
                 stats["failed"] += 1
+                MUNICODE_FAILURES.append((source.id, heading or unit.title, url, err))
+                print(f"  ! failed  {(heading or unit.title)[-60:]}: {err[:90]}")
+                continue
+            if not html:
+                stats["empty"] += 1
                 continue
             rec = store(source, unit.title or unit.node_id, "code",
                         heading or source.name, url, _ApiResponse(url, html))
@@ -380,13 +410,22 @@ def harvest_documents(sources: list[common.Source], fetcher: common.Fetcher,
                                              dry_run=dry_run)
             stats["api_chapters"] = stats.get("api_chapters", 0) + mstats["chapters"]
             stats["api_failed"] = stats.get("api_failed", 0) + mstats["failed"]
+            stats["api_empty"] = stats.get("api_empty", 0) + mstats["empty"]
             if mstats["chapters"]:
+                extra = []
+                if mstats["empty"]:
+                    extra.append(f"{mstats['empty']} empty")
+                if mstats["failed"]:
+                    extra.append(f"{mstats['failed']} failed")
                 print(f"    = {mstats['chapters']} chapter(s), "
-                      f"{mstats['chars']:,} chars via API")
+                      f"{mstats['chars']:,} chars via API"
+                      + (f"  ({', '.join(extra)})" if extra else ""))
             # The API covered the code page and everything under it; anything
             # else on this source - a city's own oil & gas page, say - still
             # goes through the normal fetch.
-            docs = [d for d in docs if not (d.url or "").startswith(api_page)]
+            root = _municode_root(api_page)
+            docs = [d for d in docs
+                    if not (d.url or "").lower().startswith(root)]
             if not docs:
                 continue
         for doc in docs:
@@ -612,9 +651,10 @@ def main() -> int:
               "JavaScript, so nothing was indexed.")
         print("  by platform: " + ", ".join(f"{k}={v}" for k, v in by_platform.most_common()))
         if by_platform.get("municode"):
-            print("\n  Municode serves its codes over XHR from api.municode.com, so the "
-                  "\n  HTML crawl cannot see them. Affected jurisdictions need that API "
-                  "\n  path before their ordinances are searchable.")
+            print("\n  Municode pages render their text with JavaScript, so a plain "
+                  "\n  fetch sees only the shell. These are harvested whole through "
+                  "\n  the API instead (default); a thin Municode entry here means a "
+                  "\n  registry document URL that did not match the source's code page.")
         report = common.CORPUS_DIR / "reports" / "thin_extractions.txt"
         report.parent.mkdir(parents=True, exist_ok=True)
         report.write_text(
@@ -622,6 +662,15 @@ def main() -> int:
                       for sid, plat, title, url in THIN_REPORT) + "\n",
             encoding="utf-8")
         print(f"\n  full list: {report}")
+    if MUNICODE_FAILURES:
+        report = common.CORPUS_DIR / "reports" / "municode_failures.txt"
+        report.parent.mkdir(parents=True, exist_ok=True)
+        report.write_text(
+            "\n".join(f"{sid}\t{heading}\t{url}\t{err}"
+                      for sid, heading, url, err in MUNICODE_FAILURES) + "\n",
+            encoding="utf-8")
+        print(f"\n{len(MUNICODE_FAILURES)} Municode chapter(s) failed to fetch; "
+              f"re-run the source to retry.\n  full list: {report}")
     if not args.dry_run:
         print(f"manifest compacted to {common.manifest_compact()} records")
         print("next: python3 regbase/tools/build_index.py --rebuild")

@@ -1,0 +1,486 @@
+---
+source_id: co-broomfield-municode
+jurisdiction: Broomfield County, CO
+state: CO
+county: Broomfield
+agency: City and County of Broomfield Planning & Development Services
+title: 17-71-070 - Tree protection measures during construction.
+doc_type: code
+citation_root: TITLE 17 - ZONING > Chapter 17-71 - Tree Preservation and Mitigation Measures During Land Development and Redevelopment > 17-71-070 - Tree protection measures during construction.
+url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-71TRPRMIMEDULADERE_17-71-070TRPRMEDUCO"
+sha256: 04f7bf0501e61353e856a543ba656d191d11728ff59c72cbe234c3f72ad47181
+fetched_at: "2026-09-17T16:13:41+00:00"
+---
+
+The purpose of this chapter is to establish requirements for tree preservation while
+facilitating responsible land development in the City and County of Broomfield. This
+includes both the addition of trees wherever feasible and the utmost effort in maintaining
+the existing tree population. These measures aim to achieve multiple benefits for
+the community, including:
+(A)
+Canopy preservation: Sustaining the tree canopy throughout the community to enhance and preserve the air
+quality. Trees filter air pollutants and replenish the atmosphere with oxygen.
+(B)
+Noise reduction: Trees act as natural barriers, reducing noise levels and creating a quieter environment.
+(C)
+Energy efficiency: Properly placed trees on properties serve as windbreaks and provide shade, contributing
+to the reduction of energy consumption.
+(D)
+Soil protection: Tree roots help prevent topsoil erosion, reducing stormwater runoff and preserving
+the quality of the soil.
+(E)
+Wildlife habitat: Trees offer habitat and food sources for birds and other wildlife, contributing to
+the preservation and enhancement of nesting areas and aiding in natural insect control.
+(F)
+Public resource: Trees are recognized as a valuable public resource that enriches the quality of life,
+maintains the unique character of the community, and contributes to its historical
+and aesthetic appeal. Additionally, they play a role in economic stability by attracting
+visitors and businesses.
+( Ord. No. 2240 , § 1, 12-10-2024)
+(A)
+General . The tree preservation requirements of this Chapter 17-71 shall apply to the following properties:
+(1)
+All new construction, including residential and non-residential and on properties
+owned by the City and County of Broomfield, that are to be constructed by a developer,
+property owner or their contractors;
+(2)
+All construction projects that cumulatively increase the gross floor area of the lot
+by 65% or more;
+(3)
+The partial or total redevelopment of a parcel, including demolition and new construction;
+(i)
+Redevelopment of a parcel means the demolition of an existing structure or building
+including any site disturbance, such as earthwork or grading, in anticipation of new
+development.
+(4)
+Expansion of parking lots by more than 50% of the existing parking lot area;
+(5)
+All public land dedications as required by the 2024 Open Space, Parks, Recreation
+and Trails (OSPRT) Plan and public lands dedications in accordance with B.M.C. 16-28-120 , as amended.
+This tree preservation chapter is intended only to cover properties during construction
+and post-construction until final acceptance in accordance with Broomfield Standards
+and Specifications.
+(B)
+Exempt properties . The following properties are exempt from the requirements of this Chapter 17-71 :
+(1)
+Accessory dwelling unit (ADU) construction on single-unit residential properties.
+(2)
+Public land dedications or city and county owned property with specific open space
+characteristics of the subject property may be exempt if approved by the city and
+county manager or their designee.
+(3)
+Site development plans, urban renewal site plans, building permits or other development
+process approved prior to the effective date of this Chapter 17-71 shall follow the plans as approved, without complying with the mitigation standards
+set forth below.
+( Ord. No. 2240 , § 1, 12-10-2024)
+As used in this chapter, unless the context clearly requires otherwise, the following
+words and terms shall have the meanings set forth in this section:
+(A)
+Aggregate diameter means the combined diameter of a multiple trunk tree measured at breast height.
+(B)
+Caliper means the diameter of a tree trunk six inches above the existing grade or proposed
+planted grade. Caliper is usually used in reference to nursery stock.
+(C)
+Critical root zone (CRZ) means the distance from the trunk that equals one and one half foot for every inch
+of the tree's diameter.
+(D)
+City and county forester means Broomfield's Forestry Division responsible for trees and shrubs in public parks,
+parkways, and other public property. Broomfields's right-of-way and street trees are
+under regulation of the city and county forester.
+(E)
+Development process means the intent to construct upon, improve, or modify any property within the City
+and County of Broomfield, whether governed by a site development plan (SOP) or urban
+renewal site plan (URSP) or not.
+(F)
+Diameter at breast height (DBH) means the standard measurement used in forestry and tree studies to assess the size
+of a tree trunk. DBH is determined by measuring the diameter of the tree trunk at
+a standardized height, which is typically four and one half feet above the ground
+level. This measurement is taken using a tape measure or calipers and is commonly
+used as an indicator of a tree's size, growth, and maturity.
+(G)
+Drip line means the outermost edge of the tree's canopy or branch spread. The area within a
+tree's drip line is all the ground under the total branch spread.
+(H)
+Intent means having the mind, attention, or will to develop, modify, construct or improve
+real property within the City and County of Broomfield.
+(I)
+Mitigation means the replacement of trees removed from a site, the relocation of existing trees,
+the planting of new trees to compensate for caliper inches lost, or cash payments
+to the tree preservation account as directed in this section when trees are impacted
+due to the development process.
+(J)
+Preservation means the act of keeping existing trees safe from injury, harm or destruction during
+the development process.
+(K)
+Relocation means the practice of moving an existing tree to another site or other location within
+the same site.
+(L)
+Significant trees . Significant trees includes all of the following:
+(1)
+Private protected tree, which is any tree with:
+(i)
+A DBH of six inches or more located on any lot within twenty feet of a street right-of-way
+(including an approved private street or other access easement), or
+(ii)
+A tree with a DBH of eight inches or more located within ten feet of any other property
+line, or
+(iii)
+A tree with a DBH of twelve inches or more located elsewhere on the lot or tract.
+(2)
+Public protected tree, which is any tree located on lands owned by the city, or other
+governmental agencies or authorities, or any land upon which easements are imposed
+for the benefit of the city, or other governmental agencies or authorities, or upon
+which other ownership control may be exerted by the city, or other governmental agencies
+or authorities. This includes rights-of-way and privately maintained trees within
+the public right-of-way, parks, open space, public areas and easements for drainage,
+sewer, water and other public utilities, with:
+(i)
+A DBH of six inches or more located within a city or other governmental right-of-way,
+or
+(ii)
+A DBH of six inches or more and located on any lot within twenty feet of a street
+right-of-way, or
+(iii)
+A DBH of eight inches or more located on any lot within ten feet of any other property
+line, or
+(iv)
+A DBH of twelve inches or more located elsewhere on the lot.
+(v)
+Exceptional specimen tree, which is any tree which is determined by the city and county
+forester to be of unique and intrinsic value to the general public because of its
+size, age, historic association or ecological value or any tree designated a Colorado
+State Champion, United States Champion or World Champion by the American Forestry
+Association. The city and county forester shall keep a record of all specimen trees
+so designated and their location.
+(M)
+Tree preservation account means an account established for the City and County of Broomfield for the purposes
+of furthering tree maintenance and tree replacement. The monies received as fees in
+lieu of mitigation, as described in B.M.C. 17-71-060 (E) below, shall be forwarded to the director of finance for deposit in the tree preservation
+account. Except as provided in this section, under no circumstances shall the funds
+collected by the director of finance for the tree preservation account be directed
+to any other account to be used for any other purposes other than for tree planting
+(including but not limited to tree support such as maintenance, installation of drip
+lines and drainage) and preservation programs (including the creation of new woodland
+areas, underplantings as part of a tree planting program, and other planting activities
+that support the purposes of this chapter), public education programs regarding trees,
+and other activities in support of the administration of this chapter.
+(N)
+Tree protection zone (TPZ) means the area above and below grade around each tree where construction activities
+are limited or restricted to prevent injury to preserved trees.
+(1)
+The tree protection zone shall extend at a minimum one and one half foot from the
+base of the trunk for every one inch of tree diameter.
+(2)
+For areas with groups or groupings of trees, if the distance between trees is less
+than thirty feet, the tree protection zone may be combined and treated as one contiguous
+tree protection zone to create a more clearly defined and manageable tree protection
+zone.
+( Ord. No. 2240 , § 1, 12-10-2024)
+(A)
+Tree preservation plan . Concurrent with the submission of site development plans, urban renewal site plans,
+building permits or other projects in the development process, properties subject
+to this chapter 17-71 shall submit a tree preservation plan for approval by the city and county landscape
+architect, city and county forester, or their designee. Applicants shall make all
+feasible attempts to accommodate existing trees within their design. The tree preservation
+plan shall be submitted and approved prior to any site activity or disturbances and
+shall include:
+(1)
+Identification of all existing trees four inches DBH and larger on the site and within
+fifty feet of the site boundaries and specifically note any significant trees.
+(2)
+A chart specifying size, species, condition (as described in subsection B below -
+Condition Rating for Tree Preservation) and disposition for each existing tree.
+(3)
+Mitigation actions as noted in B.M.C. 17-71-060 below, including identification of the trees that are proposed to comply with mitigation
+requirements, the location of removed trees, replacement trees, and the location of
+trees that are proposed for relocation.
+(4)
+Proposed methods and schedule for implementing tree and other plant preservation measures
+as noted in B.M.C. 17-71-070 below.
+(5)
+Proposed methods, materials, and schedule for root pruning, branch pruning, and other
+tree maintenance as noted in B.M.C. 17-71-070 below.
+(6)
+A construction schedule which includes a time frame for work near existing plants
+and trees.
+(7)
+A maintenance schedule for the preservation of the trees during construction.
+(8)
+A watering plan and schedule that details watering of trees on the project site during
+construction including the following:
+(i)
+Area of the project site to be watered and how watering will be phased based on construction.
+(ii)
+Number of trees to be watered and total caliper inches. Identify the amount of water
+to be applied based on total caliper inches.
+(iii)
+Schedule for watering during the duration of the project.
+(B)
+Condition rating for tree preservation . The tree preservation plan submittals shall include an evaluation of tree health
+and structural issues consistent with the condition ratings in this section, with
+condition rating 1 being the highest rating, and condition rating 6 being the lowest
+rating of tree health and structure. Tree ratings shall be completed by a certified/registered
+arborist or forester, or a licensed landscape architect.
+(1)
+Tree rating characteristics.
+(i)
+Condition 1: Excellent - The tree is typical of the species, has less than 10% deadwood in the crown that
+is attributable to normal causes, has no other observed problems, and requires no
+remedial action.
+(ii)
+Condition 2: Good - The tree is typical of the species and/or has less than 20% deadwood in the crown,
+only one or two minor problems that are easily corrected with normal care.
+(iii)
+Condition 3: Fair - The tree is typical of the species and/or has less than 30% deadwood in the crown,
+one or two minor problems that are not eminently lethal to the tree, and no significant
+decay or structural problems, but the tree may need remedial care in order to minimize
+the impact of future stress and to ensure continued health.
+(iv)
+Condition 4: Fair to Poor - The tree is typical of the species but has some problems such as 30% to 50% deadwood
+in the crown, decay or structural defects, insects, disease or other problems that
+can be eminently lethal to the tree or create a hazardous tree if not corrected in
+a short period of time or if the tree is subjected to additional stress.
+(v)
+Condition 5: Poor - The tree is not typical of the species and/or has over 50% deadwood in the crown,
+major decay or structural problems, is hazardous or is severely involved with insects,
+disease, or other problems, that even if aggressively corrected, would not result
+in the long-term survival of the tree.
+(vi)
+Condition 6: Dead - Less than 10% of the tree shows signs of life.
+( Ord. No. 2240 , § 1, 12-10-2024)
+(A)
+Tree preservation requirements . Properties required to comply with this Chapter 17-71 must comply with the following:
+(1)
+Trees with ratings of 1 through 4. Trees identified in the tree preservation plan as having characteristic ratings of
+1 through 4 must be preserved or mitigated as set forth in this Chapter 17-71 .
+(2)
+Trees with ratings of 5 or 6 and non-desirable trees . Trees identified in the tree preservation plan as having characteristic ratings
+of 5 or 6 and non-desirable trees do not need to be mitigated or replaced.
+(3)
+Replacement trees and mitigation measures . The tree preservation plan required in Section 17-71-040 (A) above shall show the mitigation actions that will equal the replacement of tree
+inches lost on site due to the construction activities as required by this chapter.
+(4)
+Interruption and maintenance of drainageways . Drainage plans for individual sites shall not alter the supply of water to existing
+stands of trees if the longevity of those trees is dependent upon the flows. If the
+drainage of the site requires altering the existing supply of water, some alternative
+form through the use of irrigation shall be available from the time the existing watering
+source is eliminated.
+(i)
+This requirement shall not preclude standard maintenance of drainageways necessary
+to ensure the free flow of stormwater. It will, however, protect those trees that
+do not interfere with the flow of storm drainage. Drainageways shall be maintained
+at the density of trees for which they were designed and future drainageways shall
+be designed, as far as economically feasible, to consider preservation of mature stands
+of trees. If preservation is not possible, mitigation and/or replacement shall be
+accomplished, as outlined in B.M.C. 17-71-060 .
+(5)
+Compliance with tree preservation plan . At all times during construction the property owner, developer and their contractor(s)
+shall comply with the terms of the approved tree preservation plan and this Chapter 17-71 .
+(6)
+Watering log . Upon completion of construction and/or prior to certificate of occupancy, a tree
+water log shall be submitted that provides the following information:
+i)
+Watered, identified by the site identification number.
+ii)
+Number of gallons of water applied to each tree during every watering period.
+iii)
+Soil moisture level readings, on a scale of one to ten throughout the critical root
+zone for each tree.
+iv)
+Dates of each watering.
+Projects on city and county-owned property where city and county maintained irrigation
+is available are exempted from watering log requirements of this section.
+(B)
+Tree preservation plan amendments. The city and county forester, the city and county
+landscape architect or their designee may amend any approved tree protection plan
+after receipt of an application for amendment from a property owner or authorized
+representative. The amendment shall be approved if staff determines that the proposed
+amendment complies with the requirements of this Chapter 17-71 .
+( Ord. No. 2240 , § 1, 12-10-2024)
+(A)
+Replacement trees. No tree proposed for replacement shall be less than two inches or more than three
+inches in caliper and shall be of no less quality species than the tree removed, as
+determined by the Tree Appraisal Guidelines published by the International Society
+of Arboriculture (ISA), as amended.
+For example: Two nine inch DBH trees are removed because of site constraints; the
+tree inches lost equals eighteen inches. These inches can be replaced by planting
+nine two inch caliper trees or six three inch caliper trees. Evergreen trees (i.e.
+Fir, Juniper, Pine and Spruce) are to be replaced with trees with the same level of
+quality by the ISA Guidelines, unless an equivalent substitute is approved by the
+city and county landscape architect.
+(B)
+Relocation on-site . If tree relocation within the site is attempted, it shall be performed by a professional
+forester or nursery operator. All measures shall be taken to ensure the life and good
+health of the tree(s).
+(C)
+Mitigation off-site . If on-site tree replacement or relocation is not feasible, tree replacement or relocation
+shall take place through any or all of the following methods:
+(1)
+Replacement of equal tree inch lost on another site within the City and County of
+Broomfield.
+(2)
+Replacement of equal tree inch lost on public lands within the City and County of
+Broomfield.
+(3)
+Relocation of trees to public lands within the City and County of Broomfield.
+(4)
+If the mitigation measures in B.M.C. 17-71-060 (1), (2), or (3) above are not feasible, payment of value of tree inches lost to the
+tree preservation account described below is permitted as a mitigation measure.
+(i)
+City and county owned properties and other government infrastructure projects (such
+as Colorado Department of Transportation or Mile High Flood District) are limited
+to on-site tree replacement or relocation of viable trees to public lands. If on-site
+tree replacement or relocation of trees to other public lands is not able to equal
+the replacement of tree inches lost due to site constraints, then the remaining required
+payment of tree inch value lost shall be waived.
+(D)
+Timing for tree mitigation activities .
+(1)
+Tree preservation and/or mitigation may be accomplished at any time during the development
+process. However, the timing of these activities is especially critical when moving
+trees from one location to another. The city and county landscape architect, city
+and county forester, or their designee, shall determine the conditions that will ensure
+the optimal success for tree relocation, preservation or mitigation and such conditions
+shall be detailed in the approved tree preservation plan.
+(2)
+When feasible, the decision on when to relocate trees will be made after all planning
+processes are complete. In cases where conditions necessitate the relocation of trees
+before all planning processes and approvals are complete, the applicant acknowledges
+that these activities do not guarantee project approval and that these activities
+are undertaken at the property owner's own risk.
+(E)
+Payment in lieu of mitigation . The property owner or their authorized representative shall pay a per tree payment
+in lieu of mitigation for each tree that is removed from the site during construction
+and not relocated or replaced. The payment in lieu of mitigation fee per tree is determined
+by the city and county forester or their designee based on current market rates as
+set forth in the fee schedule found in the City and County of Broomfield Landscape
+Reference Manual and such fees may be adjusted annually based on market changes. Payment
+must be submitted prior to the construction permit issuance or other required permits.
+(F)
+Standard landscape requirements . Mitigation shall be in addition to standard landscape requirements established by
+the B.M.C. Trees planted to comply with standard landscape requirements may not be
+counted as satisfying tree mitigation requirements. In the case of tree removals,
+the location, species, and caliper of trees to be removed and their replacements shall
+be included on the landscape/site plan. In the case of tree relocations on site, the
+placement of the relocated trees shall be included on the landscape/site plan.
+(G)
+Prohibited plant species . Nothing in this chapter permits the planting of any prohibited plant species set
+forth in chapter 17-70 , as amended, of the B.M.C.
+( Ord. No. 2240 , § 1, 12-10-2024)
+(A)
+Protection of existing trees during the construction process. Site construction shall take into account the life and good health of trees preserved
+on the site. The following procedures shall be followed for tree protection, unless
+alternate mitigation measures are approved in the tree preservation plan:
+(1)
+Tree protection fencing shall be installed prior to any site activity and shall remain
+in place and be maintained in the condition in which they were installed for the duration
+of the construction activity. Protective fencing or barriers shall be set up to visibly
+show the tree protection zone. Chain link fencing six feet high, with steel posts
+driven into the ground at not more than ten foot intervals is required, but other
+barriers may be approved in the tree preservation plan based on site conditions.
+(2)
+All equipment, including foot traffic shall remain outside of the tree protection
+zone.
+(3)
+If roots greater than one-inch in diameter require removal, a clean cut shall be accomplished
+using a sharp hand tool. A maximum of two, three-inch diameter roots per tree are
+permitted for removal. The removal of additional roots three-inches or greater in
+diameter requires approval of the city and county landscape architect, city and county
+forester, or their designee.
+(4)
+Limb removal shall be accomplished under the direction of a certified I registered
+arborist, forester or licensed landscape architect before construction begins.
+(5)
+Concrete washout areas shall be designated on the property, and such areas shall not
+flow into or across the tree protection zone.
+(6)
+No excavation is permitted within the tree protection zone. If excavation is required
+within the tree protection zone, the city and county forester, the city and county
+landscape architect or their designee must be notified prior to start of excavation
+activities.
+(7)
+No branches or bark are to be damaged within the tree protection zone. If it appears
+any work may cause damage to the branches of a tree, the property owner or their contractor
+shall contact the city and county forester or the city and county landscape architect,
+or their designee for a determination as to whether such damage is likely and pruning
+is necessary.
+(8)
+No stockpiling of soil, materials, or supplies of any kind are permitted within the
+tree protection zone.
+(9)
+No vehicle parking is permitted within the tree protection zone.
+(10)
+The soil shall not be compacted within the tree protection zone.
+( Ord. No. 2240 , § 1, 12-10-2024)
+(A)
+Injuries to existing trees - Repairs and mitigation . Existing trees damaged through the construction process shall be immediately repaired
+and if damaged beyond repair, replaced per the mitigation specifications in B.M.C. 17-71-060 and a damages fine as set forth in this section will be applied. The restoration
+of damaged trees shall follow the approved measures set forth in the tree preservation
+plan and this Chapter 17-71 .
+(B)
+Damages. Any trees designated as requiring retention or protection that are partially injured
+or lost due to construction activities on-site will result in a fine as determined
+by the city and county landscape architect, city and county forester, or their designee,
+as described in this B.M.C. 17-71-080 .
+(1)
+Tree appraisal . All trees that are damaged during construction will be evaluated and appraised by
+the city and county landscape architect, the city and county forester, or their designee
+in order to set the damages fine. Documentation for appraisals will consist of:
+(i)
+Measurement of plant size.
+(ii)
+Identification by common and botanical names.
+(iii)
+Current condition (overall health, injuries, overt hazard status, etc.).
+(iv)
+Location factors as described in the most current edition of "Guide for Plant Appraisal."
+Photographs may be taken of certain trees and shrubs to document debilitating condition
+factors.
+The full value of the tree will be used in calculations to determine damage fines
+or proportionate reductions for partial injuries, as applicable.
+(C)
+Notice of damages fine. The city and county landscape architect, the city and county forester, or their designee
+shall notify the property owner and any authorized representatives listed on the application
+of the total damages fine incurred for violations of this chapter, and if such persons
+fail within ninety days after the date of notification to pay the damage fine including
+any appeals as described below, then such damage fine may become a lien against and
+running with the property as set forth in B.M.C. 17-71-0B0(E). The damages fines described
+in this section are independent of any applicable penalty for violations of this chapter
+as provided below and are intended to address damages for injuries to trees during
+construction only. Assessed damages fines shall be placed in the tree preservation
+account and used accordingly.
+(D)
+Appeals . Upon receipt of a notice of damages fine issued pursuant to this section, the property
+owner or their authorized representative may appeal to decisions to city and county
+manager by filing a written notice of appeal within thirty days of the date of the
+notice of damages fine. The request for a hearing on appeal shall set forth the reasons
+for and the amount of the requested changes in fine amount. The city and county manager,
+or a designee thereof, shall conduct an informal administrative hearing and make a
+final determination on the damages fine assessment. The city and county manager, or
+a designee, shall notify the property owner and their authorized representative in
+writing of the time and place for the hearing on appeal. The decision of the city
+and county manager, or their designee, shall be final.
+(E)
+Liens. A failure by the property owner to pay the damage fines or other sums due under this
+chapter constitutes a debt due and owing the city and county. In the event any sums
+due to the city and county remain unpaid for more than ninety days, the director of
+finance in conjunction with the city and county landscape architect, city and county
+forester, or their designee shall certify such amounts to the county treasurer for
+collection in the same manner as general property taxes are collected in accordance
+with applicable law. The amount certified by the director of finance to the county
+treasurer for collection shall include any charges of the county treasurer for such
+collection. In addition, the city and county has the right to recover the amounts
+due and payable as provided by law in any court of competent jurisdiction.
+( Ord. No. 2240 , § 1, 12-10-2024)
+(A)
+Authority . All plantings, preservation and mitigation measures described herein shall be subject
+to inspection by Broomfield. The city and county shall have the authority to enforce
+provisions of this chapter and to impose fines for violations of this chapter. These
+tree preservation regulations are enforced by the city and county, and nothing in
+the tree preservation code is intended to create a private cause of action.
+(B)
+Penalty for violations . Any person found in violation of any provision of this chapter shall be subject
+to a civil penalty per violation, per day. Each violation may be fined up to the fine
+amount permitted in Chapter 1-12 of the B.M.C. to be assessed and collected through a summons into Broomfield Municipal
+Court.
+( Ord. No. 2240 , § 1, 12-10-2024)

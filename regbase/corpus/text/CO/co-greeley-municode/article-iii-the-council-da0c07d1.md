@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER CITY OF GREELEY, COLORADO > ARTICLE III. - THE COUNCIL
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTICHGRCO_ARTIIITHCO"
 sha256: 28a11a68ba18967e5dd95ecf783a2a0c8335e56af76b7131dc7c1afdb39bbe15
-fetched_at: "2026-09-17T04:51:15+00:00"
+fetched_at: "2026-09-21T06:29:45+00:00"
 ---
 
 The corporate authority of the City of Greeley, Colorado, shall be vested in a Mayor

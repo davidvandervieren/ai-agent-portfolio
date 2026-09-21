@@ -1,0 +1,98 @@
+---
+source_id: co-berthoud-municode
+jurisdiction: Berthoud, CO
+state: CO
+county: Larimer/Weld
+municipality: Berthoud
+agency: Town of Berthoud
+title: 9.2 - Acting Police Magistrate
+doc_type: code
+citation_root: Chapter 9 - POLICE COURT > 9.2 - Acting Police Magistrate
+url: "https://library.municode.com/co/berthoud/codes/code_of_ordinances?nodeId=CH9POCO_9.2ACPOMA"
+sha256: cd73b3fbf81c02c018b39ad308c49d0082cfcb33b14dae7b329b3590c1fdff26
+fetched_at: "2026-09-18T11:33:05+00:00"
+---
+
+The Board of Trustees at its first regular meeting following each biennial election
+of the board of trustees, shall appoint a municipal judge who shall preside over the
+police court for a term of two years and until his successor is duly appointed and
+qualified. He shall be a resident of Larimer or Weld County, Colorado and licensed
+to practice law. If a vacancy shall occur in such office, the same shall be filled
+by the board of trustees, by appointment for the unexpired term.
+In case of the temporary absence, sickness or other inability of the municipal judge
+to act, the mayor may appoint some competent person to act as such judge until the
+disability of the judge is removed. Such appointment must be in writing.
+State Law reference— Similar provisions, C.R.S. 1963, 139-85-2 as amended, 139-86-4
+The Municipal Judge shall receive compensation for his services in an amount set by
+the Board of Trustees by Resolution.
+State Law reference— Similar provisions, C.R.S. 139-85-6, as amended
+Court shall occur at least once a month on a day and time set at least 30 days before
+by the Municipal Judge and the Town Clerk.
+The police court shall have exclusive original jurisdiction to hear, try and determine
+all causes arising under this code and any of the ordinances of the town, for a violation
+thereof, and there shall be no change of venue there
+State Law reference— Similar provisions, C.R.S. 1963, 139-86-4, as amended
+The Municipal Judge shall have all powers referenced in C.R.S. 13-10-112, which includes
+the full power and authority to make and adopt rules and regulations for conducting
+the business of his court, and shall have all powers incident to a Municipal Court,
+as that term is defined in C.R.S. 13-10-103, in relation to the attendance of witnesses,
+the punishment of contempt, and enforcement of orders.
+State Law reference— Similar provisions, C.R.S. 1963, 139-84-11 and 19-86-4, as amended
+In all actions for the recovery of any fines or penalties incurred for the violation
+of this code or any ordinance or police regulation of the town it shall be sufficient
+to state in the complaint or affidavit, the Municipal Code Section number, or the
+title of the ordinance violated together with the date of its passage, without stating
+said ordinances or section in full or the substance thereof.
+State Law reference— Similar provisions, C.R.S. 1963, 139-85-13
+All actions brought to recover any fine or to enforce any penalty under any ordinance
+or code of the Town of Berthoud, shall be brought in the name of the people of the
+State of Colorado as plaintiff. No prosecution, recovery, or acquittal for the violation
+of any such ordinance or code shall constitute a defense to any other prosecution
+of the same party for any other violation of any such ordinance or code, although
+the different causes of action existed at the same time, and if united, would have
+exceeded the jurisdiction of the Court or magistrate. No person shall be incompetent
+as judge, juror or witness in any action to which the town shall be a party, on account
+of his being a resident citizen or property owner within the Town of Berthoud. Appeals
+shall be allowed from a judgment of the police magistrate to the County Court, in
+cases arising under the ordinances and codes of the Town of Berthoud.
+State Law reference— Similar provisions, C.R.S. 1963, 139-86-1, as amended
+9.8-1
+
+  Process — Penalty
+In all actions for the violation of any ordinance or code of the Town of Berthoud,
+the process shall be as required by Colorado Municipal Court Rules section 204 (as
+may be amended), and may involve the issuance of a summons; provided, that a warrant
+for the arrest of the offender may issue at the first instance upon the affidavit
+of any person that an ordinance or code has been violated, and that the person making
+the complaint has reasonable grounds to believe the party charged is guilty thereof.
+Any person arrested upon such warrant shall be taken before the proper officer to
+be tried for the alleged offense without unnecessary delay. Any person upon whom any
+fine or penalty shall be imposed, upon the order of the Court or magistrate before
+whom the conviction is had, may be committed to the County Jail, or other place provided
+by the Town for the incarceration of offenders, until such fine, penalty, and cost
+shall be fully paid. No such imprisonment shall exceed the time limitations set forth
+in Colorado Revised Statute section 18-1.3-702 (as may be amended).
+( Ord. No. 1308 , § 1, 9-13-2022)
+In the event any person fails to appear or comply with a notice given to such person
+or attached to a vehicle, or fails to make appearance pursuant to a summons directing
+an appearance in the police magistrate's court, the police department shall forthwith
+secure a warrant for his arrest.
+State Law reference— Similar provisions, C.R.S. 1963, 139-85-11
+When a cause for the violation of this Section is continued, the defendant shall give
+bail for his appearance at the time and place set for trial by depositing a cash bond
+or executing a written recognizance with sufficient sureties, in an amount fixed by
+the police magistrate, and thereupon such person shall be released. If such bail bond
+is not furnished, the defendant shall be committed to a jail until the time of trial.
+State Law reference— Similar provisions, C.R.S. 1963, 139-32-1 (61)
+If the defendant shall fail to appear at the time and place specified, or appearing
+shall depart the court without leave, the police magistrate may enter judgment against
+the defendant and forfeit any cash bond that has been posted, or he may enter judgment
+against the defendant and his sureties for the penalty of the bond. Upon the entering
+of such a judgment against the defendant and his sureties, the police magistrate shall
+issue a notice to the sureties requiring them to appear and show cause why the judgment
+should not be confirmed against them and execution issued. On the hearing thereunder
+the judgment may be set aside for good cause or it may be confirmed and execution
+issued.
+The board of trustees of the Town shall furnish the necessary books, stationery, forms,
+furniture and fuel required for the use of the police court, together with suitable
+rooms for the proper conducting of the business of said court.

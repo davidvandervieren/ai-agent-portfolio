@@ -1,0 +1,40 @@
+---
+source_id: co-loveland-municode
+jurisdiction: Loveland, CO
+state: CO
+county: Larimer
+municipality: Loveland
+agency: City of Loveland
+title: 3.50.030 - Criminal proceedings.
+doc_type: code
+citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 3 - REVENUE AND FINANCE > CHAPTER 3.50. - LIENS AND COLLECTIONS > 3.50.030 - Criminal proceedings.
+url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT3REFI_CH3.50LICO_3.50.030CRPR"
+sha256: af8f1a9b2c67283c7abae79b18b39bdd94d19438852a1d7d40cf7a695bb8aee9
+fetched_at: "2026-09-18T10:13:49+00:00"
+---
+
+A.
+When a provision within this chapter provides for the city's recovery of costs, assessments,
+penalties, or other charges associated with the city's provision of services to bring
+any property, lot, block, or parcel of land into compliance with this chapter and
+the amount due to the city is not paid within the time provided, the amount due shall
+become a lien against such property, lot, block or parcel of land associated with
+and benefitting from said services and shall have priority over all liens, except
+general taxes and prior special assessments.
+B.
+Each amount due under Subsection A, together with ten percent added thereto to defray
+the administrative cost of collection, plus actual cost to file and remove a lien,
+may be certified by the city clerk to the county treasurer and placed by the treasurer
+upon the tax list for the current year, and thereby collected in the same manner as
+real property taxes are collected.
+C.
+The recovery of amounts due through the use of the lien provisions herein shall be
+supplementary and in addition to any other collection procedures or remedies as provided
+by law, in equity or elsewhere in this Code.
+The city shall have the right to proceed for the amounts due on behalf of the city
+in any manner provided by law or in equity for collection of debts and claims including,
+but not limited to, lien and foreclosure procedures.
+The city remedies set forth in this chapter shall not be exclusive, and nothing shall
+restrict the city from concurrently pursuing the enforcement and prosecution of any
+violation of this Code through the Loveland Municipal Court.
+(Ord. 5683 § 1, 2012)

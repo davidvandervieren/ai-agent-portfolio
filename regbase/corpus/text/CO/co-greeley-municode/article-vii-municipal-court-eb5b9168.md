@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER CITY OF GREELEY, COLORADO > ARTICLE VII. - MUNICIPAL COURT
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTICHGRCO_ARTVIIMUCO"
 sha256: d45be42510459284344249732642a1b860c08b57741cfb7301ed92435e1491a6
-fetched_at: "2026-09-17T04:51:21+00:00"
+fetched_at: "2026-09-21T06:29:51+00:00"
 ---
 
 There shall be a Municipal Court vested with jurisdiction of all causes arising under

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER CITY OF GREELEY, COLORADO > ARTICLE XV. - PUBLIC WORKS
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTICHGRCO_ARTXVPUWO"
 sha256: 14dd0c65711f7b3a103cce58ebda116747b23120e1dbb17762c7d8055afbb241
-fetched_at: "2026-09-17T04:51:32+00:00"
+fetched_at: "2026-09-21T06:30:05+00:00"
 ---
 
 [Editor's History] Note—Art. XV repealed and reenacted by Ord. No. 45, 1993, § 4, adopted September 7, 1993.

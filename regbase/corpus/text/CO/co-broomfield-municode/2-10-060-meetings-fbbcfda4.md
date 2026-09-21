@@ -1,0 +1,50 @@
+---
+source_id: co-broomfield-municode
+jurisdiction: Broomfield County, CO
+state: CO
+county: Broomfield
+agency: City and County of Broomfield Planning & Development Services
+title: 2-10-060 - Meetings.
+doc_type: code
+citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-10 - Employees' Review Committee > 2-10-060 - Meetings.
+url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-10EMRECO_2-10-060ME"
+sha256: 4dabc70ac4770e258aef2bbbc67b8b9085574fed7de9f3cd860172a786f7a9f0
+fetched_at: "2026-09-17T15:12:56+00:00"
+---
+
+Full-time part-time, seasonal and temporary city employees select fellow employees
+as representatives to act as the voice of all staff, assist the city manager and human
+resources department in reviewing personnel policies, workplace culture, and procedures
+and the fringe benefit package. Representatives shall serve a two-year term or until
+their successors are elected or appointed. The Employees' Review Copmmittee shall
+establish and maintain committee bylaws which will provide additional guidance on
+the organization of the group.
+(Ord. 660 §1, 1985; Ord. 1647 §1, 2001; Ord. No. 2223 , § 1, 9-26-23)
+The Employees' Review Committee composition will be outlined within the established
+group bylaws and reviewed as needed to ensure an equitable representation of staff
+and every department.
+(Ord. 660 §1, 1985; Ord. 1243 §1, 1997; Ord. 1647 §1, 2001; Ord. 1985 §1, 2013; Ord. No. 2223 , § 1, 9-26-23)
+Department heads, supervisors in Group 1 (see subsection 2-14-060 (A) of this code), except for Group 1 supervisors in group A, are ineligible to serve
+on the committee or vote for its representatives. Temporary and seasonal employees
+are ineligible to serve on the committee.
+(Ord. 660 §1, 1985; Ord. 1243 §2, 1997; Ord. 1647 §1, 2001; Ord. No. 2223 , § 1, 9-26-23)
+Employee representatives must be employed within and elected by the group they represent
+as determined by the committee bylaws. To enhance continuity, at least one-half of
+the committee membership will be elected each year. Selection of representatives shall
+be made by secret ballot.
+(Ord. 660 §1, 1985; Ord. 1647 §1, 2001; Ord. 1985 §2, 2013; Ord. No. 2223 , § 1, 9-26-23)
+It is the duty of each employee representative to attend all committee meetings and
+express his or her constituents' views and to report back to his or her group so that
+all subjects discussed at meetings are understood by employees within their group.
+In the event that additional information or data is required, it shall be the responsibility
+of each representative to obtain that information for his or her group. In addition,
+the committee must collectively appoint two full-time employees to serve on the board
+of trustees of the city employee's medical care expense plan in accordance with the
+committee bylaws.
+(Ord. 660 §1, 1985; Ord. 1647 §1, 2001; Ord. No. 2223 , § 1, 9-26-23)
+Members of the Employees' Review Committee are expected to hold committee meetings
+in accordance with the established bylaws. The committee will meet with the city manager
+as needed.
+(Ord. 660 §1, 1985; Ord. 1647 §1, 2001; Ord. No. 2223 , § 1, 9-26-23)
+Editor's note— Ord. No. 2223 , § 1, adopted September 26, 2023, repealed § 2-10-070, which pertained to chairperson
+and derived from Ord. 660 §1, 1985; Ord. 1647 §1, 2001.

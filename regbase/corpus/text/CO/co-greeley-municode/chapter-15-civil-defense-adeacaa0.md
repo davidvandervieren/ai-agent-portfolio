@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 2 - ADMINISTRATION AND GENERAL GOVERNMENT > CHAPTER 15. - CIVIL DEFENSE
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTIICOOR_TIT2ADGEGO_CH15CIDE"
 sha256: 2aee3d1e4441d8ca18bbf7095b7abc3e25a81a7d5b108b597448062391639fad
-fetched_at: "2026-09-17T04:51:47+00:00"
+fetched_at: "2026-09-21T06:31:02+00:00"
 ---
 
 The mayor shall have the power to promulgate, in writing, rules and regulations which

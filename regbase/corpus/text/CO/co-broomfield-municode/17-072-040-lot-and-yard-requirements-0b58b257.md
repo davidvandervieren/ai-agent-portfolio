@@ -1,0 +1,56 @@
+---
+source_id: co-broomfield-municode
+jurisdiction: Broomfield County, CO
+state: CO
+county: Broomfield
+agency: City and County of Broomfield Planning & Development Services
+title: 17-07.2-040 - Lot and yard requirements.
+doc_type: code
+citation_root: TITLE 17 - ZONING > Chapter 17-07.2 - PROL Parks, Recreation and Open Lands District > 17-07.2-040 - Lot and yard requirements.
+url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-07.2PRPAREOPLADI_17-07.2-040LOYARE"
+sha256: 7d6856faaf2c6f3bc2f92d7bdf066b80177a96c3dd1765cf5c86309137452a7c
+fetched_at: "2026-09-17T16:02:19+00:00"
+---
+
+The PROL Parks, Recreation and Open Lands district is intended to provide areas for
+active or passive recreation for the public.
+(Ord. No. 2220 , 12-5-23)
+The following uses are permitted by right in the PROL district:
+(A)
+Uses permitted in the OS district (chapter 17-07.1 of the BMC);
+(B)
+Recreation centers, Community Center, Field House, Swimming Pools, Leisure Pools;
+(C)
+Outdoor recreational facilities including but not limited to pump tracks, singletrack,
+tennis courts and other similar recreational facilities;
+(D)
+Solar panels as an accessory to a principal structure;
+(E)
+Golf courses;
+(F)
+Public art installations that are compatible with natural resources;
+(G)
+Playground equipment such as slides, swing sets, jungle gyms;
+(H)
+Community gardens, excluding solar gardens.
+(Ord. No. 2220 , 12-5-23)
+The following uses are permitted by special review in the PROL district:
+(A)
+Wireless communication towers; and
+(B)
+Amphitheaters.
+(Ord. No. 2220 , 12-5-23)
+The following are minimum lot and yard requirements in the PROL district:
+
+Area | Minimum Requirement
+Lot area | No minimum
+Side, rear or front yard setback to buildings and structures adjacent to residential | 30 feet + 1 foot for each 2 feet of building height in the PROL district measured
+from residential property line
+
+(Ord. No. 2220 , 12-5-23)
+Buildings in the PROL district shall not be higher than three stories, and in no case
+higher than fifty feet.
+(Ord. No. 2220 , 12-5-23)
+Use of land in the PROL district shall also conform to the parking, signing, and other
+provisions of this title.
+(Ord. No. 2220 , 12-5-23)

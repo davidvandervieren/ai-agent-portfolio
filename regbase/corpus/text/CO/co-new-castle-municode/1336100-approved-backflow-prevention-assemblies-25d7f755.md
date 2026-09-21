@@ -1,0 +1,351 @@
+---
+source_id: co-new-castle-municode
+jurisdiction: New Castle, CO
+state: CO
+county: Garfield
+municipality: New Castle
+agency: Town of New Castle
+title: 13.36.100 - Approved backflow prevention assemblies.
+doc_type: code
+citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.36 - CROSS CONNECTIONS > 13.36.100 - Approved backflow prevention assemblies.
+url: "https://library.municode.com/co/new_castle?nodeId=TIT13PUSE_CH13.36CRCO_13.36.100APBAPRAS"
+sha256: b24cf6f86fa6d2d6abbd00efd16d0913c76958953a2e8318a31f91e3c32d4733
+fetched_at: "2026-09-18T17:27:11+00:00"
+---
+
+Editor's note— Ord. No. E 2022-01, § 2, adopted Jan. 18, 2022, repealed the former Ch. 13.36, §§
+13.36.010—13.36.060, and enacted a new Ch. 13.36 as set out herein. The former Ch.
+13.36 pertained to similar subject matter and derived from Prior Code §§ 11-18-010—11-18-060;
+Ord. 2004-3 § 2 (part); and Ord. 2002-5 § 4 (part).
+The town administrator or designated representative shall be responsible for the management
+of the water system of the town and all of the property appertaining thereto. He or
+she shall see that such system and such property are in good working order and repair.
+He or she shall ensure proper compliance with all local, state and federal regulations
+for the collection, transmission, treatment, and distribution of water and shall perform
+all other duties in connection with such system as may be required of him or her by
+the town council. This responsibility shall include enforcement of the provisions
+of this chapter.
+The town administrator or designated representative is hereby delegated the responsibility
+to implement a cross-connection control program in accordance with this chapter, and
+for the enforcement thereof. If a backflow prevention device is required at the town
+water service connection to any owner's premises for the protection of the municipal
+water system, the town administrator, or designated representative, shall give notice
+in writing to the owner to install an approved backflow prevention assembly at each
+service connection to the premises. The owner shall install an approved assembly or
+assemblies at the owner's own expense. No provision of this chapter exempts the owner
+from the cross-connection control provisions for internal water distribution systems
+as contained in the plumbing code adopted by the town from time to time.
+(Ord. No. E 2022-01, § 2, 1-18-2022)
+The authority to implement and maintain this program of cross connection control in
+addition to this chapter, is contained in the following legislative actions:
+A.
+Sections 25-1-114 and 25-1-114.1, C.R.S.;
+B.
+Regulation NO. 11—Colorado Primary Drinking Water Regulations, Section 11.39;
+C.
+CDPHE Policy 7: Backflow Prevention and Cross-Connection Control Rule Policy
+D.
+Occupational Safety and Health Administration Federal Register No. 202 Part 2, Page
+22234, Subpart J;
+E.
+Uniform Plumbing Code of the International Plumbing and Mechanical Officials, Chapter
+10, Sections 1001, 1002 and 1003.2.0;
+(Ord. No. E 2022-01, § 2, 1-18-2022)
+The following terms as used in this chapter shall have the meanings hereinafter designated:
+"Air gap" means the unobstructed vertical distance through the free atmosphere between
+the lowest opening from any pipe or faucet supplying water to a tank, plumbing fixture,
+other device or vessel and the flood level rim of said vessel.
+"Approved backflow prevention device (assembly)" means a device listed in the latest
+University of Southern California Foundation for Cross Connection Control and Hydraulic
+Research (F.C.C. and H.R.) "List of Approved Backflow Prevention Assemblies."
+"Backflow" means the undesirable reversal of the direction of flow of the water or
+mixtures of water and other liquid, gases, or other substances into the distribution
+pipes of the potable water supply from any source or sources caused by backpressure
+or backsiphonage.
+"Backpressure" means backflow caused by a pump, elevated tank, boiler or means that
+could create an elevated pressure within the nonpotable water system greater than
+the supply pressure.
+"Backsiphonage" means the flow of water or other liquids, mixtures or substances into
+the distribution pipes of a potable water supply system from any source other than
+its intended source caused by negative or subatmospheric pressure in the potable water
+supply system.
+"Certified cross connection control technician" means a person who has shown his or
+her competency and has passed the cross connection control technician certification
+examination given by the water distribution and wastewater collection systems council.
+This person shall be familiar with appropriate laws and rules, and shall be able to
+make competent tests and repairs on all approved backflow prevention devices, and
+stay abreast of all new products and information on the subject. The technician shall
+be listed by the Colorado Department of Health.
+"Check valve" means a self-closing device which is designed to permit the flow of
+fluids in one (1) direction and to close if there is a reversal of flow.
+"Colorado Department of Health Cross-Connection Control Manual" means a manual that
+has been published by the state addressing cross-connection control practices which
+will be used as a guidance document for the utility in implementing a cross-connection
+control program.
+"Containment" means protection by the installation of an approved backflow prevention
+device or method on the water service line(s) serving any premises, location, facility,
+or area. Protection by containment shall be used when the potable water system may
+be contaminated or polluted by substances used within a building or premises.
+"Contamination" means an impairment of the quality of the potable water by sewage,
+industrial fluids or waste liquids, compounds, or other materials to a degree which
+creates an actual hazard to the public health through poisoning or through the spread
+of disease.
+"Controlled" means having a properly installed, maintained, and tested or inspected
+backflow prevention assembly or backflow prevention method that prevents backflow
+through a cross-connection.
+"Critical level" means the critical level (C-L or C/L) marking on a backflow prevention
+device assembly or vacuum breaker which is a point conforming to approved standards
+and established by the testing laboratory (usually stamped on the device by the manufacturer),
+which determines the minimum elevation above the flood-level rim of the fixture, highest
+point of usage, or receptacle served at which the device may be installed. When a
+backflow prevention device assembly does not bear a critical level marking, the bottom
+of the vacuum breaker, combination valve or any such approved device assembly shall
+constitute the critical level.
+"Cross connection" means any physical arrangement whereby a potable water supply is
+connected, directly or indirectly, with any other water supply system, sewer, drain,
+conduit, tank, plumbing fixture, or other device which contains or may contain contaminated
+water, sewage, or other waste, liquid or gas of unknown or unsafe quality which may
+be capable of imparting contamination or pollution to the potable water supply as
+a result of backflow.
+"Cross-connection, controlled" means a connection between a potable water system and
+a nonpotable water system with an approved backflow prevention assembly properly installed
+that will continuously afford the protection commensurate with the degree of hazard.
+"Cross-connection, uncontrolled" means a connection between a potable water system
+and a nonpotable water system that does not have an approved backflow prevention assembly
+installed.
+"Customer" means the person or organization responsible for the water utility account
+for the premises and includes authorized employees or agents or the owner.
+"Distribution main" means that portion of the water supply system that transmits and
+distributes water of the town from treatment or storage facilities to users excluding
+service lines.
+"Double check valve assembly" means an assembly of two (2) independently operating
+approved check valves with tightly closing shut-off valves on each side of the check
+valves, plus properly located test cocks for the testing of each check valve. The
+entire assembly shall meet the design and performance specifications and approval
+of a recognized and utility-approved testing establishment for backflow prevention
+assemblies. To be approved, these assemblies must be readily accessible for in-line
+maintenance and testing and be installed where no part of the device will be submerged.
+"Hazard, degree of" means the term is derived from an evaluation of the potential
+risk to public health and the adverse effect of the hazard upon the potable water
+system.
+"Hazard, health" means any condition, device or practice in the water supply system
+and its operation which could create or, in the judgment of the town administrator,
+may create, a danger to the health and well-being of the water consumer. An example
+of a health hazard is a structural defect, including cross-connections, in a water
+supply system, or a direct connection of a potable water supply line to a sanitary
+sewer.
+"Hazard, plumbing" means a plumbing type cross-connection in a consumer's potable
+water system that has not been properly protected by a vacuum breaker, air-gap separation
+or backflow prevention assembly. Unprotected plumbing type cross-connections are considered
+to be a health hazard.
+"Hazard, pollution" means an actual or potential threat to the physical properties
+of the water system or to the potability of the public potable water system or the
+consumer's potable water system, but which would constitute a nuisance or be aesthetically
+objectionable or could cause damage to the system or its appurtenances, but would
+not be dangerous to health.
+"Hazard, system" means an actual or potential threat of severe damage to the physical
+properties of the public potable water system or the consumer's potable water system
+or of a pollution or contamination which would have a protracted effect on the quality
+of the potable water in the system.
+"Industrial fluids system" means any system containing a fluid or solution which may
+be chemically, biologically or otherwise contaminated or polluted in a system, pollution
+or plumbing hazard if introduced into an approved water supply. This may include,
+but not be limited to: polluted or contaminated waters; all types of process waters
+andused waters originated from the public potable water system which may have deteriorated
+in sanitary quality; chemicals in fluid form; plating acids and alkalies, circulated
+cooling waters connected to an open cooling tower and/or cooling towers that are chemically
+or biologically treated or stabilized with toxic substances; contaminated natural
+waters such as from wells, springs, streams, rivers, lakes, dams, ponds, retention
+pits, irrigation canals, systems, etc.; oils, gases, glycerine, paraffins, caustic
+and acid solutions and other liquid and gaseous fluids used in industrial or other
+purposes or for fire-fighting purposes.
+"Nonpotable water" means water that is not safe for human consumption or that is of
+questionable quality.
+"Pollution" means the presence of any foreign substance (organic, inorganic, radiological,
+or biological) in the water that may degrade the water quality so as to constitute
+a non-health type hazard or impair its usefulness.
+"Potable water" means water free from impurities in amounts sufficient to cause disease
+or harmful physiological effects. The bacteriological, chemical, and radiological
+quality shall conform with the state of Colorado Primary Drinking Water Regulations.
+"Reduced pressure principal assembly" means an assembly of two (2) independently operating
+approved check valves with an automatically operating differential relief valve between
+the two (2) check valves, tightly closing shut-off valves on either side of the check
+valves, plus properly located test cocks for the testing of the check and relief valves.
+The entire assembly shall meet the design and performance specifications and approval
+of a certified cross-connection control technician. The assembly shall operate to
+maintain the pressure in the zone between the two (2) check valves at a level less
+than the pressure on the public water supply side of the device. At cessation of normal
+flow, the pressure between the two (2) check valves shall be less than the pressure
+on the public water supply side of the device. In case of leakage of either of the
+check valves, the differential relief valve shall operate to maintain the reduced
+pressure in the zone between the check valves by discharging to the atmosphere. To
+be approved, the assembly must be readily accessible for in-line maintenance and testing
+and be installed in a location where no part of the device will be submerged.
+"Service line" means the water line extending from the point of connection at the
+corporation stop.
+"Survey" means a survey of property plumbing conducted by an authorized employee of
+the town for the purposes of identifying cross-connections, both controlled and uncontrolled.
+"User" means any person who uses, takes water from or is connected to the water supply
+system of the town.
+"Vacuum" means any pressure less than that exerted by the atmosphere.
+"Vacuum breaker, atmospheric nonpressure type" means a vacuum breaker consisting of
+an air inlet opening and a nonloaded check disk valve designed to prevent backsiphonage
+only. The assembly shall not be subjected to continuous static line pressure or backpressure
+or be installed where it would be under pressure for more than twelve (12) hours in
+any twenty-four (24) hour period.
+"Water service connection" means the terminal end of the town's service; i.e., where
+the town loses jurisdiction and sanitary control over the water at its point of delivery
+to the customer. There shall be no unprotected take-offs from the service line ahead
+of any meter or backflow prevention assembly located at the point of delivery to the
+customer's water system. Service connection shall also include water service connection
+from a fire hydrant and all other temporary or emergency water service connections
+from the public potable water system.
+"Water supply system" means a water distribution system, piping, connection fittings,
+valves and appurtenances within a building, structure, or premises. Water supply systems
+are also referred to commonly as premise plumbing systems.
+(Ord. No. E 2022-01, § 2, 1-18-2022)
+The municipal water system shall consist of the source and distribution facilities
+of the water system to the point of the owner's system. The source shall include all
+components of the facilities utilized in the production, treatment, storage and delivery
+of water to the distribution system. The distribution system shall include the network
+of conduits used for the delivery of water from the source to the owner's system.
+The owner's water supply system shall begin at the water service connection.
+(Ord. No. E 2022-01, § 2, 1-18-2022)
+backflow prevention assemblies.
+The type of protective assembly required shall depend upon the degree of hazard which
+exists, as determined by the town administrator or designated representative, based
+upon the following general guidelines:
+A.
+Commercial and or industrial connections to the towns potable water supply, shall
+be protected by air gap or reduced pressure principal backflow device.
+B.
+Multi-family connections where one (1) potable water line serves more than one (1)
+residential dwelling unit shall be protected by either air gap or reduced pressure
+principal backflow device.
+C.
+In the case of any premises where there is an auxiliary water supply and it is not
+subject to any of the following rules, the municipal water system shall be protected
+by an approved air-gap separation or an approved reduced pressure principal backflow
+prevention assembly.
+D.
+In the case of any premises where there is water or any substance that would be objectionable
+but not hazardous to health if introduced into the municipal water system, the municipal
+water system shall be protected by an approved double check valve assembly.
+E.
+In the case of any premises where there is any material dangerous to health which
+is handled in such a fashion as to create an actual or potential hazard to the municipal
+water system or there has been a backflow incident, either suspected or documented,
+the municipal water system shall be protected by an approved air-gap separation or
+an approved reduced pressure principal backflow prevention assembly.
+F.
+In the case of any premises where there are uncontrolled cross-connections, either
+actual or potential, the municipal water system shall be protected by an approved
+reduced pressure principal backflow prevention assembly at the service connection.
+G.
+In the case of any premises where, because of security requirements or other prohibitions
+or restrictions, it is impossible or impractical to make a complete in-plant cross-connection
+survey, the municipal water system shall be protected against backflow or backsiphonage
+from the premises by the installation of a backflow prevention assembly in the service
+line. In this case, maximum protection shall be required; that is, an air gap shall
+be installed in each service connection to the premises.
+(Ord. No. E 2022-01, § 2, 1-18-2022)
+A.
+Building plans must show water service size and location, backflow prevention device
+size, type and location, fire sprinkling system service line size and type of backflow
+prevention device, as must any irrigation system on the premises.
+B.
+Backflow prevention devices are to be installed by a licensed plumber in an accessible
+location to facilitate testing, maintenance and repair. They shall be installed downstream
+of water meters. There shall be no connections or tees between the meter and service
+line backflow prevention device.
+C.
+In order to insure that backflow prevention devices continue to operate satisfactorily,
+it will be necessary that they be tested at the time of installation and on an annual
+schedule thereafter. Such test will be conducted in accordance with F.C.C. and H.R.
+performance standards as directed by the Colorado Department of Health and the town
+by a certified cross connection control technician.
+D.
+All costs for design, installation, maintenance, repair and testing are to be borne
+by the customer.
+E.
+No grandfather clause exists. All laws and regulations apply regardless of the age
+of the facility.
+F.
+Backflow prevention device installations shall be inspected and approved for use by
+the town.
+(Ord. No. E 2022-01, § 2, 1-18-2022)
+A.
+The Town retains the right to test or otherwise check the installation and operation
+of any containment device.
+B.
+The water utility representative assigned to inspect premises relative to possible
+hazards shall carry proper credentials of his or her office, upon exhibit of which
+he or she shall have the right of entry during usual business hours to inspect any
+and all buildings and premises for cross connection in the performance of his or her
+duties. The right of entry shall be a condition of water service.
+(Ord. No. E 2022-01, § 2, 1-18-2022)
+testing and repair of cross-connections.
+It is the responsibility of the owner to grant access to the town for the purpose
+of conducting cross-connection site surveys. It shall be the responsibility of the
+owner to correct any identified uncontrolled cross-connections within one hundred
+twenty (120) days by installing the appropriate backflow prevention assembly for the
+degree of hazard identified and have certified inspections and operational tests made
+on the backflow prevention assembly upon installation and at least once per year thereafter.
+The town administrator or designated representative may require certified inspections
+at more frequent intervals. These inspections shall be made at the expense of the
+owner and shall be performed by a certified cross-connection control technician. A
+backflow prevention assembly shall be repaired or replaced at the expense of the owner
+whenever an assembly is found to be defective. Site surveys are conducted at no expense
+to the owner, however correction of identified cross-connections including the purchase,
+installation, testing, and repairs of backflow prevention assemblies, shall be at
+the owner's expense.
+(Ord. No. E 2022-01, § 2, 1-18-2022)
+The certified cross-connection control technician shall report, on the form prescribed
+by the town, the results of inspections, tests and maintenance to the town administrator
+and the water owner. This report shall be submitted to the town administrator or designated
+representative within ten (10) days following the completion of the inspection, test
+or maintenance of the device. The certified inspector shall also, on the form prescribed
+by the town, attach a card to the backflow prevention assembly following such inspection,
+test or maintenance activity to document and date the activities performed. Records
+of all inspections, tests or maintenance activities, including materials and parts
+changed, shall be kept by the certified cross-connection control technician and the
+owner. Backflow prevention assemblies that fail testing shall be reported to the town
+of New Castle immediately by email or phone call.
+(Ord. No. E 2022-01, § 2, 1-18-2022)
+Any backflow prevention assembly required herein shall be of a model and size approved
+by the town administrator or designated representative. The term approved backflow
+prevention assemblies means an assembly that has been manufactured in full conformance
+with the standards established by the American Water Works Association entitled "AWWA
+C506-78 Standards for Reduced Pressure Principal and Double Check Valve Backflow Prevention
+Devices," which is hereby adopted by reference in its present form and as it may subsequently
+be amended from time to time as the time standard. The term approved backflow prevention
+assembly also means an assembly that has completely met the laboratory and field performance
+specifications of the Foundation for Cross-Connection Control and Hydraulic Research
+(FCC and HR) of the University of Southern California established by "Specifications
+of Backflow Prevention Devices - Section 10," of the most current issue of "Manual
+of Cross-Connection Control," which is hereby adopted by reference as the city laboratory
+and field performance specifications. Final approval shall be evidenced by a certificate
+of approval issued by an approved testing laboratory certifying full compliance with
+said AWWA standards and FCC and HR specifications. In addition to the aforementioned
+standards and specifications, all backflow prevention assemblies shall have a unique
+serial number attached to the device by the manufacturer.
+(Ord. No. E 2022-01, § 2, 1-18-2022)
+A.
+It is unlawful for any user or customer to cause or allow the existence of a hazardous
+cross connection which is not contained by an approved backflow prevention device
+in the customer service line to prevent contamination or pollution in the town's distribution
+mains. Failure of the customer to cooperate in the installation, maintenance, testing,
+or inspection of such devices shall be grounds for discontinuance of water services
+to the premises or the requirement for an air gap separation from the public potable
+water system.
+B.
+Service of water to any premises may be discontinued by the town after written notification,
+if unprotected cross connections exist on the premises or if any defect is found in
+an installed backflow prevention device or if a backflow prevention device has been
+removed or bypassed. Service shall not be restored until such conditions or defects
+are corrected.
+C.
+Discontinuance of service may be summary, immediate, and without written notice whenever,
+in the judgment of the town administrator, such action is necessary to protect the
+purity of the public potable water supply to the safety of the water system.
+(Ord. No. E 2022-01, § 2, 1-18-2022)

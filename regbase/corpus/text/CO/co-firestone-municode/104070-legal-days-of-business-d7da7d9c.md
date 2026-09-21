@@ -1,0 +1,396 @@
+---
+source_id: co-firestone-municode
+jurisdiction: Firestone, CO
+state: CO
+county: Weld
+municipality: Firestone
+agency: Town of Firestone
+title: 1.04.070 - Legal days of business.
+doc_type: code
+citation_root: Title 1 - GENERAL PROVISIONS > Chapter 1.04 - General Provisions > 1.04.070 - Legal days of business.
+url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT1GEPR_CH1.04GEPR_1.04.070LEDABU"
+sha256: 6bd34061e073dba1e7163e41a59768c7848b0d9b06ed29c1d8e7e9b5961e4991
+fetched_at: "2026-09-18T04:58:45+00:00"
+---
+
+In the construction of this code and of all ordinances of the Town, the following
+definitions and rules of construction shall be observed, unless it shall be otherwise
+expressly provided in any section or ordinance, or unless inconsistent with the manifest
+intent of the section or ordinance:
+A.
+Board or town board or board of trustees means the governing body of the Town.
+B.
+Code means and includes any building, construction, safety, health or other regulatory
+code adopted by the town, whether adopted by reference and by ordinance or otherwise,
+as published and subsequently amended, unless the context requires otherwise.
+C.
+County means the county of Weld in the state of Colorado.
+D.
+Day is any period of time between any midnight and the midnight following. When a period
+of time is defined as a number of days, the date on which the period commences shall
+be excluded and last date of such period included in the computation.
+E.
+Daytime means the period of time between sunrise and sunset.
+F.
+Reserved.
+G.
+In the town means and includes all territory over which the town now has, or shall hereafter
+acquire, jurisdiction for the exercise of its police powers and other regulatory powers.
+H.
+Mayor means the elected mayor of the Town; and includes a mayor pro tem or other person
+duly authorized to act as mayor in the absence or disability of the mayor or during
+the period of any vacancy in the office.
+I.
+Month means a calendar month.
+J.
+Nighttime means the period of time between sunset and sunrise.
+K.
+Oath means and includes any oath or affirmation required by law or ordinance.
+L.
+Ordinance means the ordinances of the Town and includes the ordinances codified or the Town
+Code.
+M.
+Owner , when applied to a building or land, shall include any and all owners in fee, joint
+owner, tenant in common, joint tenant or tenant by the entirety of the whole or a
+part of such building or land, and, when applied to any personal property, animal
+or vehicle, means any person who has the legal title or right to or has possession
+of a thing.
+N.
+Reserved.
+O.
+Person means and includes an individual, firms, partnership, corporation, association or
+other organization acting as a group or unit.
+P.
+Preceding means next before; following means next after.
+Q.
+Property, unless qualified, includes real property and personal property, whether tangible
+or intangible. Real property includes lands, tenements and hereditaments.
+R.
+Public way means and includes any street, highway, alley, boulevard, parkway, sidewalk or other
+public thoroughfare.
+S.
+Shall is mandatory and may is permissive.
+T.
+Sidewalk means and includes the portion of the street between the curb line and the adjacent
+property line, intended for the use of pedestrians.
+U.
+State means the state of Colorado.
+V.
+Street means and includes any public way, highway, street, avenue, boulevard, parkway, alley
+or other public thoroughfare, and each of such words shall include all of them.
+W.
+Tenant or occupant , applied to a building, premises or land, or any part thereof, shall include any
+person who occupies the whole or a part of such building, premises or land, whether
+alone or with others.
+X.
+Town or municipality means the Town of Firestone, Colorado.
+Y .
+Town clerk means the duly appointed clerk of the Town.
+Z.
+Town code or code of the Town of Firestone means the code of the Town, as published and subsequently amended, unless the context
+requires otherwise.
+AA.
+Town engineer means the duly appointed engineer of the Town.
+AB.
+Year means a calendar year.
+( Ord. 966 , § 1, 2020; Ord. 671 §1, 2008; Ord. 246 §25(a)—(ee), 1988; prior code §1-50(part))
+All words and phrases shall be construed and understood according to the common and
+approved usage of the language; but technical words and phrases and such others as
+may have acquired a peculiar and appropriate meaning in the law shall be construed
+and understood according to such peculiar and appropriate meaning.
+(Ord. 246 §25(ff), 1988; prior code §1-50(part))
+Every word in every ordinance importing the masculine gender shall extend to and be
+applied to females as well as males, and associations and bodies corporate as well
+as individuals shall be included.
+(Ord. 246 §25(ii), 1988; prior code §1-50(part))
+The title or number of any chapter, article, section or subsection of the Town Code,
+or of the ordinances of the town, shall not be deemed to restrict, qualify or limit
+the effect of the provisions set forth and contained in any such chapter, article,
+section or subsection.
+(Ord. 246 §25(kk), 1988; prior code §1-50(part))
+Additions or amendments to the ordinances of the Town shall be made by ordinance.
+(Ord. 246 §25(11), 1988; prior code §1-50(part))
+The repeal of any ordinance or parts of ordinances of the town shall not revive any
+other section of any ordinance or ordinances theretofore repealed or superseded, except
+that such repeal shall not affect or prevent the prosecution or punishment of any
+person for any act done or committed in violation of any ordinance hereby repealed
+prior to the effective date of the adoption of the ordinance.
+(Ord. 255 §1, 1989)
+In all cases where any ordinance shall require any act to be done in a reasonable
+time or reasonable notice to be given, such reasonable time or notice shall be deemed
+to mean such time only as may be necessary for the prompt performance of such duty,
+or compliance with such notice.
+(Ord. 246 §25(jj), 1988; prior code §1-50(part))
+If the time limited for the doing of an act shall expire on a Sunday or legal holiday,
+the act shall be done upon the day next following such Sunday or legal holiday. If
+the time limited for filling or issuing any application, permit, license, paper or
+document with or by the town shall expire on a Saturday, Sunday or legal holiday,
+the same may be done on the business day next following.
+(Ord. 246 §25(hh), 1988; prior code §1-50(part))
+When an ordinance requires an act to be done which may as well be done by an agent
+as by the principal, such requirement shall be construed to include all such acts
+when done by an authorized agent.
+(Ord. 246 §25(gg), 1988; prior code §1-50(part))
+This chapter shall be known, cited as and referred to as the town annexation ordinance.
+This chapter shall be construed as establishing minimum requirements applicable to annexation petitions and as a guide in the evaluation
+and processing of annexation petitions in order to minimize misunderstanding and unnecessary
+expense to both petitioners and the town.
+(Ord. 312 §1(part), 1995)
+All annexation of land to the town shall be in accordance with the laws of the state
+in effect from time to time.
+(Ord. 312 §1(part), 1995)
+Prior to the adoption of a resolution finding that an annexation petition is in substantial
+compliance with applicable state law, the petitioner shall enter into and comply with
+the provisions of a pre-annexation cost agreement with the town. The pre-annexation
+cost agreement shall set forth the obligations of the landowners and the town relative
+to the costs incurred by the town in the evaluation and processing of the annexation
+request, including the cost of consultant services, including but not limited to engineering
+and planning services, to assist in the review, evaluation and negotiation of annexation-related
+matters, legal advice and publication costs. The pre-annexation cost agreement shall
+provide an estimate of such costs, shall provide for the establishment of an escrow
+account into which the landowners shall deposit moneys to be used to pay the estimated
+costs, and may contain other provisions relative to burdens placed upon the financial
+resources of the Town by the annexation request.
+(Ord. 312 §1(part), 1995)
+Prior to the final adoption of an annexation ordinance, the petitioner shall enter
+into an annexation agreement with the Town concerning matters relevant to the proposed
+annexation, including, but not limited to, such matters as public improvements, transfer
+of water rights, requested zoning, utility services, drainage and the dedication of
+rights-of-way and easements. Upon annexation, the annexation agreement shall be recorded
+to provide notice to transferees, successors, assigns and future purchasers of the
+property.
+(Ord. 312 §1(part), 1995).
+Unless otherwise provided by the Board of Trustees, the Town and the petitioner shall
+agree in writing, prior to final adoption of an annexation ordinance, to the transfer
+of the following minimum water rights to the Town:
+A.
+Residential.
+1.
+Single Family Detached Dwellings. The landowner, its successors or assigns in interest
+shall dedicate to the town for each single family detached dwelling lot the amount
+of water, in acre-feet, as set forth in the following table:
+
+Lot Size (ft 2 ) | Water Dedication Requirement (acre-feet)
+0-4,500 | 0.340
+4,501-6,600 | 0.470
+6,601-10,000 | 0.600
+10,001-12,500 | 0.750
+12,501-15,000 | 0.900
+15,001-17,500 | 1.050
+17,501-20,500 | 1.200
+20,501-23,000 | 1.350
+23,001-25,500 | 1.500
+25,501-28,000 | 1.650
+28,001-30,500 | 1.800
+30,501-33,000 | 1.950
+33,001-35,500 | 2.100
+35,501-38,000 | 2.250
+38,001-41,000 | 2.400
+41,001-43,500 | 2.550
+
+a.
+Unless otherwise provided pursuant to this Section or a written agreement approved
+by the Board of Trustees, water rights dedicated to the Town shall be Colorado-Big
+Thompson ("CBT") units. Credit for dedication of CBT units will be credited at an
+annual yield of 0.60 acre-feet per CBT unit. Credit for water credits purchased pursuant
+to Subsection C below, or for other water rights, will be credited at a yield determined
+by written agreement approved by the Board of Trustees.
+b.
+For lots that are fifteen thousand square feet or larger, the Town may in its sole
+discretion agree to reduce the water dedication requirements by an appropriate amount
+where: (a) irrigated areas on the lot will be limited to a maximum square footage
+that does not exceed a specified square footage or specified percentage of the lot
+area; (b) the corresponding final plat and final development plan contain restrictions
+on the square footage of irrigated areas, and associated restrictions on water use;
+(c) the associated covenants contain restrictions on the square footage of irrigated
+areas; and (d) such restrictions and covenants run in favor of and are enforceable
+by the Town, with the Town's enforcement rights to include, without limitation, the
+discontinuance of water service or installation of flow restriction devices at the
+expense of the landowner in the event of noncompliance.
+c.
+For each individual platted lot that is 2,500 square feet or less, and that is for
+a single family attached dwelling in a building of two or more attached units per
+building, the landowner, its successors or assigns in interest shall dedicate to the
+town for each single family attached dwelling lot: 0.160 acre-feet.
+2.
+The landowner, its successors or assigns in interest shall dedicate to the Town the
+amount of water, in acre-feet, for each living unit in a multi-family dwelling, as
+set forth in the following table:
+
+Living Units Per Multi-Family Dwelling | Water Dedication Requirement (acre-feet) (Per Living Unit)
+2 to 4 units | 0.160
+5 units or more | 0.112
+
+a.
+The above table is for units of three bedrooms or less. If a unit of four or more
+bedrooms is proposed, an increased dedication requirement may be specified for each
+unit.
+3.
+The landowner, its successors or assigns in interest shall dedicate to the Town 2.20
+acre-feet of water for every net acre of irrigated landscape area to be served by
+the Town water system and located within a residential development.
+4.
+In the event multi-family dwelling units are proposed to be served by a single meter
+rather than individual meters, the Town may require that the owner, its successors
+or assigns in interest, convey to the Town additional water in the event actual water
+use from the single meter exceeds the amount dedicated to the Town at the time of
+development. The Town in its sole discretion shall determine when single meters may
+be used for multi-family dwelling unit developments.
+5.
+[Water rights titles.]
+a.
+Title to the water rights, free of liens and encumbrances, shall be deliverable to
+the Town at the time of final subdivision platting of any residential area platted
+for single-family residential dwelling lots. No subdivision plat for such area shall
+be recorded until the Town becomes titled owner of all water required for the platted
+area.
+b.
+Title to the required water rights, free of liens and encumbrances, shall be deliverable
+to the Town at or prior to Town approval of the first of a final development plan
+or final subdivision plat for any property or portion thereof proposed for multi-family
+residential dwelling use, as the Town in its sole discretion shall determine, and
+no such plan or plat shall receive final approval or be recorded until the Town becomes
+titled owner of all water required for such use.
+B.
+Commercial and industrial.
+1.
+For commercial, industrial or other non-residential uses, the landowner, its successor
+or assigns in interests, shall dedicate to the Town an amount of water equal to the
+estimated total annual potable water demand requirement for such uses, as calculated
+by the Town, plus an additional twenty percent.
+2.
+For commercial, industrial or other non-residential uses, the landowner, its successor
+or assigns in interests, shall dedicate to the Town 2.20 acre-feet of water for every
+net acre of irrigated landscape area to be served by the Town water system and located
+within such non-residential development.
+3.
+Title to the required water rights, free of liens and encumbrances, shall be deliverable
+to the Town at or prior to Town approval of the first of a building permit, final
+development plan, or final subdivision plat for any property or portion thereof proposed
+for commercial, industrial or other non-residential use, as the Town in its sole discretion
+shall determine, and no such permit, plan or plat shall receive final approval or
+be recorded until the Town becomes titled owner of all water required for such use.
+C.
+To satisfy the water dedication requirements of this Section, a landowner may dedicate
+certain "water credits," which are purchased from the Town, in lieu of dedication
+of water rights or shares as required by this Section. The water credits allowed to
+be credited to the dedication requirements of this Section shall be derived from certain
+Windy Gap units which have been leased by the Town, and made available for purchase
+from the Town pursuant to the Firestone Municipal Water Credit Bidding Procedures
+adopted by ordinance of the Board of Trustees.
+D.
+In the sole and absolute discretion of the Town, any development having a total water
+dedication requirement of 1.8 acre-feet of water or less may satisfy its dedication
+requirements by payment of cash in lieu of dedication. The cash-in-lieu payment shall
+be made for the number of acre-feet required to serve the development at a rate as
+determined by the Board of Trustees from time to time by resolution, such rate to
+be not less than one hundred ten percent of the then current price of a unit of CBT
+with an assumed annual yield of 0.6 acre-feet per CBT unit. The Town shall set these
+cash-in-lieu funds aside for future purchase of water rights.
+E.
+In addition, the landowner shall offer to sell all remaining water rights appurtenant
+to his or her property to the Town at the fair market value as determined by a competent
+appraiser chosen jointly by the landowner and the Town. The landowner shall also petition
+for inclusion of the land into the Northern Colorado Water Conservancy District and
+Municipal Subdistrict if the land sought to be annexed is not already in that district
+and subdistrict.
+F.
+All water required to be dedicated under this Section shall be in the form of CBT
+units, water credits as described in Subsection C, above or such other water rights
+as the Town may agree to accept in lieu thereof.
+( Ord. 983 §1, 2020; Ord. 908 §1, 2017; Ord. 861, § 1, 12-17-2014 ; Ord. 860, § 1, 12-10-2014 ; Ord. 785 §1, 2011; Ord. 762 §1, 2010; Ord. 661 §1, 2007; Ord. 466 §1, 2001; Ord.
+312 §1(part), 1995; Ord. 1027, §§ 1—3, 2023)
+A.
+Any proposed ordinance may be submitted to the Board of Trustees upon petition of
+registered electors pursuant to the requirements and procedures set forth in Section
+31-11-101, C.R.S. and subject to Subsection (9) of Section 1 of Article V of the Colorado
+Constitution.
+B.
+The persons designated pursuant to Section 31-11-106(2), C.R.S., as representatives
+of the proponents of an initiative petition may withdraw the petition from consideration
+as a ballot issue by filing a letter with the Town Clerk requesting that the petition
+not be placed on the ballot. The letter shall be signed and acknowledged by both designated
+representatives before an officer authorized to take acknowledgments. The letter shall
+be filed with the Town Clerk no later than one day prior to the effective date of
+the ordinance or resolution submitting the petition to a vote of the registered electors.
+(Ord. 458 §1, 2000)
+A.
+Any proposed ordinance passed by the legislative body of the Town may be subjected
+to the right of the referendum upon petition of registered electors pursuant to the
+requirements and procedures set forth in Section 31-11-101, C.R.S., and subject to
+Subsection (9) of Section 1 of Article V of the Colorado Constitution.
+B.
+The persons designated pursuant to Section 31-11-106(2), C.R.S., as representatives
+of the proponents of a referendum petition may withdraw the petition from consideration
+as a ballot issue by filing a letter with the Town Clerk requesting that the petition
+not be placed on the ballot. The letter shall be signed and acknowledged by both designated
+representatives before an officer authorized to take acknowledgments. The letter shall
+be filed with the Town Clerk no later than one day prior to the effective date of
+the ordinance or resolution submitting the petition to a vote of the registered electors.
+(Ord. 458 §1, 2000)
+The Board of Trustees may, without receipt of any petition, submit any proposed or
+adopted ordinance or resolution or any question to a vote of the registered electors
+of the Town pursuant to Section 31-11-111(2), C.R.S.
+(Ord. 458 §1, 2000)
+A.
+The ballot title for an initiated or referred measure shall be fixed by the Board
+of Trustees or its designee, as determined by Board of Trustees resolution. The Board
+of Trustees shall fix the ballot title for any measure referred by the Board of Trustees
+without receipt of a petition. The Board of Trustees or its designee may obtain the
+assistance of the Town Manager, Town Clerk and Town Attorney in the fixing of any
+ballot title.
+B.
+In fixing a ballot title, the Board of Trustees or its designee shall follow the requirements
+of Section 31-11-111, C.R.S., and any other applicable law. The Board of Trustees
+or its designee shall fix the ballot title at a public meeting and by a majority vote
+of those present constituting a quorum.
+C.
+Any person presenting an initiative or referendum petition or any registered elector
+of the Town who is not satisfied with the ballot title for an initiative, referendum
+or referred measure as fixed by the Board of Trustees or its designee and who claims
+that the ballot title does not conform to the criteria of state law may file with
+the Town Clerk within forty-eight hours after the title is fixed a motion for a rehearing
+on the ballot title. The Mayor shall set a date and time for the hearing. The rehearing
+shall be held before the body that fixed the ballot title within ten days after the
+motion for rehearing is filed, except that if the ballot title was fixed by the Board
+of Trustees, the rehearing shall be held before the Board of Trustees no later than
+the next regularly scheduled meeting of the Board of Trustees.
+D.
+Written notice of the rehearing on the ballot title shall be hand delivered to the
+person filing the motion and, if applicable, to the persons designated in the initiative
+or referendum petition as representing the proponents thereof. If notice by hand delivery
+cannot be effected, then notice shall be provided by mailing to such addresses as
+are set forth in the motion and, if applicable, the initiative or referendum petition.
+Notice shall be deemed effective upon hand delivery or, if mailed, upon mailing to
+the addresses set forth in the motion and, if applicable, the initiative or referendum
+petition. At least twenty-four hours prior to the hearing, the person filing the motion
+shall file with the Town Clerk a written statement describing how the title fixed
+does not comply with applicable legal requirements and suggesting alternative wording.
+After the rehearing, the body that fixed the ballot title may affirm or modify the
+title previously fixed.
+(Ord. 731 §3, 2010; Ord. 712 §1, 2009; Ord. 458 §1, 2000)
+A seal, the impression of which is as follows: in the center the word "SEAL," and
+around the outer edge the words "The Town of Firestone, Colorado," shall be and is
+established and declared to be the corporate seal of the Town. (Prior code §1-3)
+A.
+No person shall violate any of the provisions of the ordinances of the Town. Except
+in cases where a different punishment is prescribed by any ordinance of the Town,
+any person, at least ten years of age but not yet eighteen years of age, who violates
+any of the provisions of the ordinances of the Town, shall be punished by a fine not
+exceeding, at the time of the commission of the offense, the maximum fine established
+by the state for municipal ordinance violations.
+B.
+No person shall violate any of the provisions of the ordinances of the Town. Except
+in cases where a different punishment is prescribed by any ordinance of the Town,
+any person eighteen years of age or older at the time of the violation, who violates
+any of the provisions of the ordinances of the Town, shall be punished by a fine not
+exceeding, at the time of the commission of the offense, the maximum fine established
+by the state for municipal ordinance violations or by imprisonment not to exceed 364
+days, or both such fine and imprisonment.
+C.
+Each such person shall be guilty of a separate offense for each and every day during
+any portion of which any violation of any provision of the ordinances of Firestone,
+Colorado, is committed, continued or permitted by any such person, and he or she shall
+be punished accordingly.
+( Ord. 955 , § 1, 2019; Ord. 650 §1, 2007; Ord. 299 §1, 1994; Ord. 246 §26, 1988; prior code
+§1-51)

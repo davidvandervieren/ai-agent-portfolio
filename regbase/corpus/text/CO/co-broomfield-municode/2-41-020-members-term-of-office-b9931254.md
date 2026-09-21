@@ -1,0 +1,46 @@
+---
+source_id: co-broomfield-municode
+jurisdiction: Broomfield County, CO
+state: CO
+county: Broomfield
+agency: City and County of Broomfield Planning & Development Services
+title: 2-41-020 - Members; term of office.
+doc_type: code
+citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-41 - Land Use Review Commission > 2-41-020 - Members; term of office.
+url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-41LAUSRECO_2-41-020METEOF"
+sha256: 664d7ef1bc12d80978fac782ec84b2845cc742cf43bbaa4297c1788e1c79944c
+fetched_at: "2026-09-17T15:19:19+00:00"
+---
+
+Pursuant to the authority conferred by chapter XI of the Charter, there is created
+a land use review commission (the "commission") for the city.
+( Ord. No. 2138 , § 2, 4-6-21)
+The commission shall consist of seven members.
+( Ord. No. 2138 , § 2, 4-6-21; Ord. No. 2211 , § 18, 2-13-2024)
+To the extent possible, each ward shall be represented by at least one member. If
+there is not a qualified applicant for any given ward at the time of application,
+a member may be appointed at large. Additionally, it is preferred that all members
+should have knowledge or experience in the following: architecture, construction,
+landscape design, land use development, or land use or real estate law.
+( Ord. No. 2138 , § 2, 4-6-21; Ord. No. 2211 , § 19, 2-13-2024)
+The commission shall hold at least one regular meeting in each month, and such meetings
+may be held consecutively on the same date, unless there are no cases scheduled to
+be heard before the commission for that month. The commission shall adopt rules for
+transaction of business, and shall keep a record of its resolutions, transactions,
+findings, and determinations, which record shall be a public record.
+( Ord. No. 2211 , § 20, 2-13-2024)
+Editor's note— Ord. No. 2211 , § 20, adopted February 13, 2024, amended § 2-41-040 in its entirety to read as herein
+set out. Former § 2-41-040 pertained to organization; term of office, and derived
+from Ord. No. 2138 , § 2, 4-6-21.
+The commission shall review and approve development proposals as provided in titles
+16 and 17, B.M.C.
+( Ord. No. 2138 , § 2, 4-6-21)
+The commission shall hold a public hearing on urban renewal site plans and make recommendations
+to the Broomfield Urban Renewal Authority as to the conformity of the urban renewal
+site plans to applicable urban renewal plans and urban renewal design standards. To
+the extent the Broomfield Urban Renewal Authority has delegated its approval authority
+to the commission, the commission may, subject to a call-up by the city council consistent
+with section 17-38-190 , B.M.C., approve, approve with conditions, or deny an urban renewal site plan based
+on the conformity of the urban renewal site plan to applicable urban renewal plans
+and urban renewal design standards.
+( Ord. No. 2138 , § 2, 4-6-21)

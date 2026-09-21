@@ -201,6 +201,17 @@ def manifest_append(rec: dict) -> None:
         fh.write(json.dumps(rec, sort_keys=True) + "\n")
 
 
+def manifest_drop(source_id: str) -> int:
+    """Remove every manifest record for one source. Used before a whole-code
+    re-harvest so stale per-section records do not outlive their files."""
+    recs = manifest_read()
+    keep = {k: r for k, r in recs.items() if r.get("source_id") != source_id}
+    dropped = len(recs) - len(keep)
+    lines = [json.dumps(r, sort_keys=True) for _, r in sorted(keep.items())]
+    MANIFEST.write_text("\n".join(lines) + ("\n" if lines else ""), encoding="utf-8")
+    return dropped
+
+
 def manifest_compact() -> int:
     """Rewrite manifest keeping only the newest record per key."""
     recs = manifest_read()

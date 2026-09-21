@@ -1,0 +1,50 @@
+---
+source_id: co-fort-lupton-municode
+jurisdiction: Fort Lupton, CO
+state: CO
+county: Weld
+municipality: Fort Lupton
+agency: City of Fort Lupton
+title: Sec. 18-322. - Application.
+doc_type: code
+citation_root: CHAPTER 18 - Building Regulations > ARTICLE XVI - Energy Conservation Code > Sec. 18-322. - Application.
+url: "https://library.municode.com/co/fort_lupton/codes/municipal_code?nodeId=CH18BURE_ARTXVIENCOCO_S18-322AP"
+sha256: 2a5db81f6a55a6619c39e56a5234ede08820d520636484ef8310b4baea70c87c
+fetched_at: "2026-09-18T07:34:57+00:00"
+---
+
+Pursuant to Title 31, Article 16, C.R.S., there is hereby adopted the 2018 International
+Energy Conservation Code, as published by the International Code Council, 4051 West
+Flossmoor Road, Country Club Hills, IL 60478, Chapters 1 through 5 inclusive, are hereby adopted by reference as the City of Fort Lupton Energy
+Conservation Code as if fully set out in this ordinance with the additions, deletions,
+insertions, and changes as follows.
+(Ord. 645 §1, 1993; Ord. 2007-884, Pt. 17; Ord. No. 2021-1133 , § 20, 11-2-2021)
+This Article shall apply to the jurisdiction of the City.
+(Prior code 6-419-3)
+This Article shall be so interpreted and construed as to effectuate its general purpose
+to conform with the codes adopted herein.
+(Prior code 6-419-6; Ord. 645 §1, 1993)
+The City Clerk shall certify to the passage of this Article and make not less than
+one (1) copy of the adopted standards available for inspection by the public during
+regular business hours.
+(Prior code 6-419-7)
+The following sections of the International Energy Conservation Code are hereby revised:
+" C101.1 Title. Is amended by the addition of the term "City of Fort Lupton" where indicated."
+" 101.5.2 IECC Section 101.5.1 Low energy buildings. Is amended by adding Section 101.5.2 that reads as follows; Commercial structures
+that lack one or more of the basic amenities or utilities required for year-round
+occupancy or use such as a permanent heating system, insulation, and/or year-round
+usable plumbing."
+" 109.1 General. Is amended by the deletion of the last three sentences and replaced with the following:
+"The members of the Board of Appeals shall be comprised of the members of the Board
+of Adjustment."
+" 109.3 Qualifications. Is amended by the deletion of this section in its entirety."
+" R402.4.1.2 Testing. Is amended by the deletion of this section and replacing it with the following: "The
+building or dwelling unit shall be tested and verified as having an air leakage rate
+of not exceeding 7 air changes per hour in Climate Zones 1 and 2, and 5 air changes
+per hour in Climate Zones 3 through 8. Testing shall be conducted with a blower door
+at a pressure of 0.2 inches w.g. (50 Pascals). Where required by the code official,
+testing shall be conducted by an approved third party. A written report of the results
+of the test shall be signed by the party conducting the test and provided to the code
+official. Testing shall be performed at any time after creation of all penetrations
+of the building thermal envelope."
+(Ord. 2014-980 §35; Ord. No. 2021-1133 , § 21, 11-2-2021)

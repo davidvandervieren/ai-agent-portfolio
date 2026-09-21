@@ -1,0 +1,1518 @@
+---
+source_id: co-firestone-municode
+jurisdiction: Firestone, CO
+state: CO
+county: Weld
+municipality: Firestone
+agency: Town of Firestone
+title: 2.60.040 - Disaster declaration powers.
+doc_type: code
+citation_root: Title 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.60 - Emergency Management > 2.60.040 - Disaster declaration powers.
+url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT2ADPE_CH2.60EMMA_2.60.040DIDEPO"
+sha256: bf13748108ebdc7147210d3482b535000e86797a1f8b51cf4f44adba60fb789c
+fetched_at: "2026-09-18T05:01:41+00:00"
+---
+
+Editor's note— Ord. No. 994 , § 1, adopted April 28, 2021, repealed the former Ch. 2.04, §§ 2.04.010—2.04.280,
+and enacted a new Ch. 2.04 as set out herein. The former Ch. 2.04 pertained to board
+of trustees and mayor and derived from prior code §§ 1-24(part), (Rules 1, 5, 9, 10,
+14, 15), 1-40; 1-44; Ord. 176, adopted 1982; Ord. 198, adopted 1984; Ord. 246, adopted
+1988; Ord. 327, adopted 1996; Ord. 386, adopted 1998; Ord. 386, adopted 1998; Ord.
+549, adopted 2004; Ord. 729, adopted 2009; Ord. 920, adopted 2017; Ord. 925, adopted
+2018; Ord. 966, adopted 2020.
+At the April 4, 1972, election, six Trustees shall be elected. The three candidates
+for Trustee receiving the highest number of votes shall be elected for four-year terms,
+and the three candidates for Trustee receiving the next highest numbers of votes shall
+be elected for two-year terms. At the next subsequent regular election and at each
+regular election thereafter, three Trustees shall be elected to serve four-year terms.
+( Ord. No. 994 , § 1, 4-28-2021)
+A.
+Compensation—Mayor. The Mayor of the Town shall be compensated at the rate of three
+hundred fifty dollars per month. Such rate shall apply only upon commencement of the
+Mayor's term of office following an election held on or after April 3, 2018.
+B.
+Compensation—Trustees. Each Trustee shall be compensated at the rate of three hundred
+dollars per month. Such rate shall apply only upon commencement of the term of office
+of a Trustee whose position is subject to an election held on or after April 3, 2018.
+C.
+Restrictions on Reappointment or Reelection. Any Trustee or Mayor who has resigned
+or vacated an office prior to the end of his or her elective or appointive term shall
+not be eligible for reelection or reappointment to such office during such term if
+during such term the compensation has been increased.
+D.
+Other Compensation. The Mayor and Trustees may be reimbursed for expenses incurred
+in the performance of Town business, provided that such expenses are itemized and
+approved by the Board of Trustees.
+( Ord. No. 994 , § 1, 4-28-2021)
+This chapter, referenced as the "Code of Conduct," is intended to supplement the state
+constitution and state law and serves as the code of ethics governing the conduct
+of elected and appointed officials of the Town with respect to conflicts of interest
+and the performance of their official activities on behalf of the Town and its citizens.
+( Ord. 966 , § 9, 2020)
+A.
+The Board of Trustees recognizes that the holding of public office is a public trust
+and that public officials have a fiduciary duty to carry out the responsibilities
+of their office for the benefit of the Town. The Board of Trustees finds that ethical
+standards among its members and the members of the various boards, commissions, committees
+and authorities of the Town are essential to the public affairs of the Town. In pursuit
+of such goals the Board of Trustees adopts the following rules, regulations, standards
+and procedures as set forth in this Code of Conduct.
+B.
+The purpose of this Code of Conduct is to promote public confidence in the integrity
+of the Town government and to provide guidance in the event of conflicts of interest
+to members of the Town Board of Trustees and to the boards, commissions, committees,
+and other authorities operating on behalf of the Town. This chapter is further intended
+to foster public trust by defining the parameters of honest government; by ensuring
+that government decisions and policy be made in proper channels of the government
+structure; and by prohibiting the use of public office for private gain.
+C.
+This Code of Conduct establishes guidelines for standards of conduct by setting forth
+those acts or actions that are incompatible with the best interests of the Town; by
+directing disclosure of private, financial, or other substantial interests in matters
+affecting the Town; and by imposing appropriate sanctions upon elected or appointed
+officials who violate the provisions of this Code of Conduct.
+( Ord. 966 , § 9, 2020)
+The provisions of this Code of Conduct shall be applicable to all members of the Board
+of Trustees and all appointed members of the Town's commissions.
+( Ord. 966 , § 9, 2020)
+As used in this chapter, the following terms shall have the following meanings, except
+where the context clearly requires a different meaning:
+"Appear on behalf of" means to act as a witness, advocate, or expert, or otherwise
+to support the position of another person.
+"Board" means the board of trustees of the Town of Firestone.
+"Board member" means a member of the board of trustees of the Town of Firestone.
+"Board or commission member" means a "board member" and a "commission member" as those
+terms are defined in this section.
+"Business" means any corporation, limited liability company, governmental entity,
+trust, partnership, association, sole proprietorship, firm, venture, or other legal
+entity carrying on a business, whether or not operated for profit.
+"Commission" means an appointive advisory board or commission or other appointive
+body or authority of the Town, including, but not limited to, advisory boards, commissions,
+committees, and authorities created by the Board and/or set forth in the Town Code.
+"Commission member" means a regular or alternate member of a commission.
+"Confidential information" means information that is not available to the general
+public under applicable laws, ordinances, and regulations, and which is obtained by
+reason of the board or commission member's position with the Town or under circumstances
+by which a reasonable person could anticipate that such information not be disclosed.
+Confidential information shall also include matters discussed in executive sessions;
+however, information otherwise available to the general public does not become "confidential"
+merely because it was discussed in executive session.
+"Conflict of interest" means a financial interest or personal interest of the board
+or commission member or of any relative of such member that interferes with or influences
+or may interfere with or influence the conduct of the duties or the exercise of the
+powers of the board or commission member on behalf of the Town. The term "conflict
+of interest" includes the restrictions set forth in Section 2.05.060 of this chapter.
+"Contract" means an arrangement or agreement, including the bidding or negotiation
+process therefor, pursuant to which any material, service, or other thing of value
+is to be furnished to the town for a valuable consideration to be paid by the Town
+or is to be sold or transferred by the Town, provided the amount involved is more
+than one hundred dollars. The term "contract" shall include any subcontract thereof.
+"Day" means working days.
+"Financial interest" means a pecuniary, property, or commercial interest or any other
+interest, the primary significance of which is economic gain or the avoidance of economic
+loss. A "financial interest" exists with regard to real property which is owned, leased,
+or used by a board or commission member if it is reasonably foreseeable that an action
+of the board or commission member will have a special economic effect on the value
+or use of the real property, distinguishable from its effect on the public. A board
+or commission member shall be deemed to have a financial interest in a contract if
+the board or commission member or any relative of the board or commission member is
+an employee, partner, officer, director, or sales representative of the person with
+whom such contract is made. However, the term "financial interest" shall not include
+any matter involving the common public good or necessity. Nor shall the term include
+any matter in which a similar benefit is conferred to all persons or property similarly
+situated. Provided further, ownership individually or in a fiduciary capacity of any
+securities or of any beneficial interest in securities of a business shall not be
+deemed to create an "financial interest" in the business unless the aggregate amount
+of such securities, or interest in such securities, amounts to five percent or more
+of any class of the securities of the business entity then outstanding or constitutes
+controlling interest in the business entity.
+"Official act or action" means any legislative, administrative, appointive, or quasi-judicial
+act, including inaction, of any board or commission member or of the Town board or
+of any commission of the Town.
+"Pending" means those matters before the Town for an official act or action. Such
+matters shall not be considered "before the Town" if no application or request for
+such official act or action has been filed with or received by the Town.
+"Person" means any individual, corporation, government or governmental subdivision
+or agency, business trust, estate, trust, limited liability company, partnership,
+association, or other legal entity.
+"Personal interest" shall mean a direct or indirect interest, not shared by the general
+public, having value peculiar to a particular board or commission member, whether
+or not the value is related to monetary, financial, commercial, or property matters,
+which value may accrue to such board or commission member or result in such board
+or commission member's deriving or potentially deriving a personal benefit as a result
+of the approval or denial of any ordinance, resolution, order, or other official action,
+or the performance or nonperformance thereof, by the Town. Personal interest does
+not include any matter in which a similar benefit is conferred to all persons or property
+similarly situated to that of the board or commission member.
+"Relative" means a board or commission member's spouse, domestic partner, child, parent,
+brother, sister, any dependent, or any person assuming a relationship being the substantial
+equivalent of those listed herein. "Domestic partner" shall mean an unmarried adult,
+unrelated by blood, with whom an unmarried board or commission member has an exclusive,
+committed relationship, maintains a mutual residence, and shares basic living expenses.
+"Town" means the Town of Firestone, Colorado, a Colorado municipal corporation.
+"Transaction" means any contract, any sale or lease of an interest in land, material,
+supplies or services, or any granting of a development right, license, permit or application.
+( Ord. 966 , § 9, 2020)
+A.
+Duty. All board and commission members have a duty to use their public positions to contribute
+to the public good. This chapter shall not preclude such persons from acting in any
+manner consistent with their official duties or from providing assistance or public
+services to anyone who is entitled to them. All board and commission members, however,
+also have a fiduciary duty to refrain from using their positions in any manner for
+personal or private gain or which is detrimental to the public good. Board and commission
+members must be mindful that the appearance of impropriety can be as corrosive of
+public confidence as an actual impropriety and must strive to avoid situations that
+may create an appearance of impropriety.
+B.
+State requirements. All board and commission members shall comply with all applicable provisions of Article
+XXIX of the Colorado Constitution (Ethics in Government) and the Colorado Revised
+Statutes regarding ethical conduct, including but not limited to Section 24-18-101
+et seq., C.R.S. (Standards of Conduct), Section 24-18.5-101 et seq., C.R.S. (Independent
+Ethics Commission), and Section 31-4-404, C.R.S. (Disclosure of Conflict), notwithstanding
+the requirements of this chapter.
+( Ord. 966 , § 9, 2020)
+A.
+Confidential information.
+1.
+No board or commission member may disclose to third parties any confidential information
+unless authorized to do so by a two-thirds vote of the applicable board or commission
+members in office, except as required by law.
+2.
+No board or commission member may waive any confidence or privilege of the board or
+of any commission unless authorized to do so by a two-thirds vote of the applicable
+board or commission members in office, except as required by law.
+3.
+Whether or not it shall involve disclosure, no board or commission member shall use
+or permit the use of any confidential information to advance the personal or financial
+interest of himself or herself or any other person, unless such information is available
+to the public at large.
+B.
+Gifts of substantial value. No board or commission member may solicit or receive any compensation, gift, payment
+of expense, reward, gratuity, loan, reduced interest rate, or any item of value of
+sixty-five dollars or more tendered by a person who has an interest in any matter
+pending before the Town which, in the judgment of a reasonably prudent person, would
+tend to impair the board or commission member's independence or impartiality of judgment
+in the performance of the board or commission member's official duties with regard
+to any such pending matter. This restriction also applies to any such items of value
+given after the pending matter is concluded if it reasonably appears that the giving
+of the item of value is related to the recipient's participation in the pending matter.
+Matters pending before the Town include, but are not limited to, inspections, the
+processing of permits or licenses, and other administrative approvals. The following
+shall not be prohibited under this subsection:
+1.
+Campaign contributions to a candidate, candidate committee, political committee, and/or
+issue committee if reported as required by law.
+2.
+An occasional nonpecuniary gift, having fair market value of or aggregate actual cost
+of sixty-five dollars or less in value in any calendar year.
+3.
+A nonpecuniary award publicly presented in recognition of public service.
+4.
+Payment of or reimbursement for actual and necessary expenditures for travel, subsistence,
+and admission for attendance at conventions, conferences, seminars, training sessions,
+luncheon and dinner meetings, or other meetings in connection with Town business.
+5.
+Acceptance of food and refreshment at conventions, conferences, seminars, training
+sessions, luncheon and dinner meetings, special occasions, and other meetings in connection
+with Town business.
+6.
+Payment for speeches, debates or other public events, reported as honorariums.
+7.
+Reimbursement for or acceptance of an opportunity to participate in a social function
+or meeting which is offered to a board or commission member, which is not extraordinary
+when viewed in light of the position held by such board or commission member.
+8.
+Payment of salary from employment, including other government employment, in addition
+to any that may be earned from being a board or commission member.
+9.
+Items available for free to the general public at trade conventions, conferences,
+or other public exhibitions, and items offered at a discount, generally, to board
+or commission members or employees of governments.
+C.
+Conflict of interest. No board or commission member may participate in any discussion of, take any official
+action on, or vote to render any final decision or determination on any matter in
+relation to which the board or commission member has a conflict of interest, except
+as provided in Section 2.05.070 of this chapter.
+D.
+Appearances before boards and commissions. No board or commission member may appear on behalf of a private party before a Town
+board or commission, unless otherwise permitted by the Town Code, except that any
+board or commission member may appear before a Town board or any commission to address
+that board or commission member's own personal interest. Nothing in this subsection
+shall preclude a board or commission member in the same manner and under the same
+circumstances as any other person from appearing before a board or commission on an
+application of the board or commission member for a permit, license or other approval
+of the board or commission required by law.
+E.
+Civil litigation. No board or commission member may appear on behalf of or represent any private interests,
+other than the board or commission member's own interest, against the interests of
+the Town in any civil litigation to which the Town is or may become a party, unless
+the consent of the board is first obtained, except that any board or commission member
+may testify under oath if subpoenaed.
+F.
+Service on other governmental entities or associations. Except as explicitly disclosed through a conflict-of-interest disclosure as to type
+of position, compensation, and role, no board or commission member may serve on any
+board or commission of a governmental entity that is located in the Town or receives
+funds from or provides funds to the Town.
+G.
+Personal benefit. No board or commission member may use any Town property, equipment, or employee services
+for personal or private purposes, gain, or advantage except in the same manner and
+under the same circumstances as any other person who is not a board or commission
+member of the Town.
+H.
+Special consideration. No board or commission member may request or grant to any person any special consideration,
+treatment, or advantage beyond that which is available to every other person in similar
+circumstances or need.
+I.
+Voting on matters involving own conduct. No board member or commission member may take any official action on or vote on any
+question concerning the member's own conduct.
+J.
+Other conduct. It shall be a violation of this Code of Conduct for any board or commission member
+to engage in other conduct which threatens the public confidence in the integrity
+of government, including but not limited to illegal conduct, conduct which puts self-interest
+before public interest, willful or persistent failure to perform his or her duties,
+engaging in any form of harassment or unlawful discrimination, or any other conduct
+involving dereliction of duties.
+( Ord. 966 , § 9, 2020)
+A.
+In the event that board or commission member has a conflict of interest in any matter
+proposed or pending before the board or commission of which he or she is a member,
+the member shall declare such conflict of interest in a public meeting to the board
+or commission. In the event that any board or commission member is aware that he or
+she could reasonably be perceived as having such a conflict of interest but is unsure
+of, or does not believe in, the existence of such a conflict, the member shall nevertheless
+disclose the possibility of such conflict of interest to the board or commission.
+B.
+When it appears to the board or commission that a member thereof may have a conflict
+of interest which has not been disclosed, a majority of the remaining members of the
+board or commission may determine whether the member has a conflict of interest, and
+the decision of the remaining members shall be final. The member may participate in
+the discussion regarding whether the member has a conflict of interest, but the member
+shall not vote on such matter. In deciding whether or not a board or commission member
+has a conflict of interest, consideration should be given to the following:
+1.
+Whether the potential conflict of interest would impede independence of judgment;
+2.
+The effect of the member's participation on public confidence in the integrity of
+the governing body and Town government;
+3.
+Whether the member's participation is likely to have any significant effect on the
+ultimate disposition of the matter;
+4.
+The member's fiduciary obligations to the Town; and
+5.
+The purposes of this Code of Conduct.
+C.
+A board or commission member with a conflict of interest shall not take any official
+action on or vote on or be present during or try to influence the vote or participate
+in consideration of the matter in relation to which a conflict of interest is disclosed
+or established. No vote shall be recorded for a board or commission member who refrains
+from voting due to a conflict of interest.
+D.
+A board or commission member who has a conflict of interest may vote notwithstanding
+the requirements and restrictions of this section if his or her participation is necessary
+to obtain a quorum or otherwise enable the board or commission to act and if he or
+she complies with the disclosure procedures under subsection A or B of this section.
+( Ord. 966 , § 9, 2020)
+A.
+Each board and commission member shall be and remain impartial when making any quasi-judicial
+decision. Any board or commission member who cannot be impartial in making a quasi-judicial
+decision shall follow the procedure described in Subsection 2.05.070.C of this chapter.
+B.
+No board or commission member shall receive nor shall any employee or member of the
+public provide to any board or commission member any substantive oral or written information,
+except for legal advice, regarding a matter which is pending before the board or commission
+on which the member sits, and which is the subject of a quasi-judicial hearing before
+the board or commission, outside of the quasi-judicial hearing process. The term "quasi-judicial
+hearing process" includes, but is not limited to, preparations necessary for such
+hearing such as written staff reports, scheduling, agendas, proposed resolutions and
+ordinances, posting or publishing notice, and legal advice. The Town attorney shall
+provide affected board or commission members advice on what constitutes a quasi-judicial
+decision.
+C.
+In the event a board or commission member shall inadvertently or unintentionally receive
+any substantive oral or written information outside of the quasi-judicial hearing
+process, as prohibited in this section, the board or commission member shall fully
+and completely disclose such substantive oral or written information received at the
+start of the quasi-judicial public hearing process. By making such full and complete
+disclosure, the board or commission member shall be deemed to be in compliance with
+the requirements of this section. Failure to make such full and complete disclosure
+shall be a violation of this section.
+( Ord. 966 , § 9, 2020)
+Except as provided in the Town Code, state law, or this chapter, each board and commission
+member who is present at a meeting shall vote on all issues presented for a vote.
+Any board or commission member who refuses to vote, except when required to refrain
+from voting, shall be deemed in violation of this chapter, and an affirmative vote
+shall be cast and recorded in the board or commission member's name.
+( Ord. 966 , § 9, 2020)
+A.
+Any board or commission member may request from the Town Attorney an advisory opinion
+whenever a question arises as to the applicability of this chapter to a particular
+situation.
+B.
+Should the Town Attorney at any time determine that he or she has a conflict of interest
+in carrying out the duties of this section; the Town attorney shall request that the
+Town board appoint special counsel to undertake such duties. Special counsel must
+be engaged by a majority vote of the board and his or her reasonable fees and expenses
+shall be paid by the Town.
+( Ord. 966 , § 9, 2020)
+A.
+Board to enforce. The board shall have the responsibility for the enforcement of this chapter as to
+board and commission members. It shall have the power to investigate any complaint,
+to initiate any civil action on behalf of the Town where it believes such action is
+appropriate. If the accused is a board member, the procedures in Subsection 2.05.070.C
+shall apply, except that the accused board member may participate as a party in a
+hearing on a complaint under this section.
+B.
+Verified complaint. Any person who believes that a board or commission member has violated any of the
+provisions of this chapter and wishes to initiate proceedings on such alleged violation
+shall file a written complaint with the Town Clerk, who shall forthwith forward the
+complaint to the board. The Town Clerk shall within ten days of a receipt of a complaint
+cause to be personally served a copy of the complaint to the board of commission member
+who is the subject of the complaint. The complaint must state in detail the facts
+of the alleged violation, must specify the provisions of this chapter alleged to have
+been violated, and must contain a sworn or verified statement signed by the complainant
+and stating under penalty of perjury that the information in the complaint is true
+and accurate, and that the complaint is filed in good faith and not out of malice
+or any other improper motive or purpose. Any complaint that does not contain such
+a signed statement shall be returned forthwith to the complainant without action.
+C.
+If the board determines that the verified complaint does not allege facts sufficient
+to constitute a violation of this chapter, it shall dismiss the complaint and notify
+the complainant and the accused.
+D.
+Investigation. Following the receipt of a complaint or upon the receipt of other information, whether
+or not under oath, that provides a reasonable basis to believe that a violation of
+this chapter has been committed or that an investigation of a possible violation is
+warranted, the board may cause an investigation to be made of the circumstances concerning
+the possible violation. An ethics investigation shall be conducted by a special investigator,
+who shall be a qualified disinterested party recommended by the Town Attorney, and
+who shall be engaged by a majority vote of the board. The reasonable fees and expenses
+of the special investigator shall be paid by the Town. Before invoking its investigatory
+powers, the board shall approve a motion which shall state the nature and purpose
+of the investigation, the actions or activities to be investigated and the persons
+who are the subject of the investigation. The board shall, within five days, serve
+a copy of the motion on the accused together with a notice informing the person that
+he or she is the subject of the investigation and a general statement of the applicable
+provisions whose violation are being investigated.
+E.
+Special investigator. The special investigator may interview witnesses and request documents that may be
+relevant to the investigation. Before completing the investigation, the special investigator
+shall provide the board or commission member against whom the complaint is made an
+opportunity to provide information concerning the complaint. Such information must
+be provided in writing. Upon completion of the investigation, the special investigator
+shall provide a written investigation report to the board stating whether there is
+probable cause to believe the violation(s) alleged in the complaint occurred, whether
+the investigation revealed that there is probable cause to believe that different
+or additional violations of this chapter occurred, or recommending dismissal of the
+complaint, and the basis for the special investigator's conclusions. A copy of the
+investigation report shall be provided to the board and served on the accused.
+F.
+Dismissal or hearing. Upon completion of the investigation, the board shall review the investigation report
+and dismiss the complaint if it determines there was no violation of this chapter.
+If the board determines, based on the investigation report, that there is probable
+cause that a violation occurred, it shall by motion set a hearing date, time and place.
+The investigative report and notice of the hearing shall be served on the accused
+not less than thirty days prior to the hearing.
+G.
+Hearing. The mayor or mayor pro tem shall preside over the hearing on the complaint and shall
+determine all procedural issues with the assistance of the Town Attorney. The special
+investigator shall present the case against the accused. The accused may be represented
+pro se or by any person of the accused's choice. The hearing shall be conducted so
+as to provide fundamental fairness, although strict rules of procedure and evidence
+need not be followed. All witnesses shall be subject to cross-examination. Documentary
+evidence that can be reasonably authenticated shall be admitted for consideration.
+A violation of this chapter shall be proven by a preponderance of the evidence as
+determined by two-thirds of all the voting members of the board. Upon finding that
+the accused violated this chapter, the board may continue the hearing to discuss and,
+in its discretion, to receive additional evidence regarding the appropriate penalty.
+H.
+Findings. At the conclusion of the hearing regarding the alleged violation, the board shall
+dismiss the charges or find that the accused violated this chapter. The board shall
+serve on the accused a written findings and order within thirty days after conclusion
+of the hearing.
+I.
+Sanctions. Upon finding that a board or commission member has violated this chapter, the board
+may impose an oral or written reprimand, a public censure, non-financial restorative
+justice measures, or other sanctions as the board deems just and appropriate depending
+on the seriousness of the violation and any mitigating circumstances. The board may
+also remove any person other than a board member from such person's appointed position,
+and may remove a board member from any committees, boards, or other special or ex
+officio appointments.
+J.
+Service. Service of any notice or other document pursuant to this section or this chapter
+is complete upon mailing certified mail to the person's last known address, or upon
+personal service.
+K.
+Reimbursement of attorney fees. If the final outcome of any complaint filed pursuant to this section is dismissal
+or in the event the board or commission member against whom a complaint is filed is
+found by the board not to be in violation of the provisions of this chapter, then,
+in that event, the board or commission member may request and the Town may reimburse
+the board or commission member for any attorney fees actually expended by the board
+or commission member in his or her defense of the complaint, up to the amount of two
+thousand dollars. The board or commission member seeking such reimbursement of attorney
+fees as provided for herein shall file a complete and detailed request for reimbursement
+with the board showing amounts expended and specific legal services received and the
+board shall then review the request and determine its appropriateness hereunder. In
+the event the board has determined by resolution to reimburse such fees, the Town
+shall reimburse such fees within sixty days of receipt of the request for reimbursement.
+( Ord. 966 , § 9, 2020)
+The requirements of this chapter shall be in addition to the applicable requirements
+of the Town Code, the Colorado Constitution, and the laws of the state. To the extent
+any conflict exists between the requirements of this chapter and the requirements
+of the Town Code or the Colorado Constitution or the laws of the state, the more restrictive
+provision shall apply.
+( Ord. 966 , § 9, 2020)
+A.
+The Board of Trustees shall appoint a Town Attorney, a Town Treasurer, a Town Clerk,
+and such other officers as from time-to-time shall be necessary for the proper government
+and control of the Town, and the appointees shall hold their respective offices until
+their successors are appointed and qualified unless sooner removed according to laws
+as hereinafter provided.
+B.
+All appointment of officers shall be by motion or ballot, and the concurrence of a
+majority of all the Trustees elected shall be required, and the names of the Trustees
+voting and the number of the votes each candidate receives shall be recorded. All
+vacancies in office shall be filled in the same manner as original appointments.
+( Ord. No. 1000 , § 1, 11-10-2021; Ord. 966 , § 10, 2020; Ord. 885 § 1, 2016 ; Ord. 671 § 6, 2008; Ord. 499 § 1, 2002; Ord. 433 § 1, 1999; Ord. 246 § 1, 1988;
+Ord. 240 § 1, 1987; Ord. 189 § 1, 1983; prior code § 1-4)
+Before entering upon the duties of their respective offices, each person appointed
+to any office shall take and subscribe an oath or affirmation to support the Constitution
+of the United States and the state of Colorado and to faithfully perform the duties
+of the office upon which he or she is about to enter. The Board, in its sole discretion,
+may require from the treasurer, and may require from such other officers as it determines
+proper, a bond, with proper penalty and surety, for the care and disposition of municipal
+funds in their hands and the faithful discharge of the duties of their offices. The
+oath, and, if required, the bond, when approved as aforesaid, shall be filed with
+the Town Clerk except any required of the Town Clerk which shall be filed with the
+Town Treasurer.
+(Ord. 905 §1, 2017; Ord. 671 §7, 2008; prior code §1-5)
+Any officer appointed by the Board of Trustees, who shall fail to take the oath of
+office or give a sufficient bond as aforesaid for ten days after he or she shall receive
+notice of his or her appointment, shall be deemed to have declined such office, and
+the same shall be declared vacant by the Board of Trustees, who shall at once proceed
+to appoint as in the case of a vacancy. (Prior code §1-6)
+In the event that the official bond of any officer in the town shall, after taking
+an approval thereof, be deemed insufficient by the Board of Trustees, the Board of
+Trustees shall require such officer to give a new bond, and shall designate the time
+in which the bond shall be furnished, which shall not be less than five days, and
+in case such officer shall not furnish a new bond with sureties, as provided in Section 2.08.020 , the office shall be declared vacant and the vacancy shall be filled by appointment
+as in other cases. (Prior code §1-10)
+Editor's note— Ord. 966 , § 11, adopted Jan. 22, 2020, repealed § 2.08.050, which pertained to removal of
+officers—causes—notice and derived from prior code § 1-7; Ord. 246 § 2, 1988; and
+Ord. 911 § 1, 2017.
+If any of the officers named in this chapter shall be charged with misconduct or malfeasance
+in office, the Mayor shall, upon the written request of not less than four members
+of the Board of Trustees, suspend such officer until final disposition of the matter.
+( Ord. 966 , § 12, 1-22-2020; Prior code §1-8)
+Each officer mentioned in this chapter shall receive such compensation for his or
+her services as the Board of Trustees may determine from time to time. (Ord. 246 §3,
+1988; prior code §1-9)
+There is created the position of Town Manager of the Town. (Ord. 671 §11, 2008)
+The Town Manager shall be hired and serve for an indefinite term, shall serve at the
+pleasure of the Board of Trustees, and may be removed by a majority vote of the entire
+Board of Trustees. (Ord. 671 §11, 2008)
+A.
+The Town Manager shall be the chief administrative officer of the Town and responsible
+to the Board of Trustees for the proper administration of all affairs of the Town
+placed in the Manager's charge. In fulfillment of such, the Town Manager shall:
+1.
+Provide for the enforcement of the laws, rules, regulations, ordinances and other
+enactments of the Town;
+2.
+Be responsible for the efficient operation of the administrative affairs of the Town,
+which includes, but is not limited to, supervision of all Town departments and oversight
+of the Town's intergovernmental, lease purchase, development, economic incentive and
+franchise agreements and authorities;
+3.
+Provide recommendations to the Board of Trustees regarding any necessary or beneficial
+administrative restructuring or reorganization;
+4.
+Provide for the hiring of employees based upon their ability, training and experience
+and the assignment, promotion, supervision, training, discipline, and removal of Town
+employees;
+5.
+Establish, subject to the approval of the Board of Trustees personnel rules and regulations
+for the Town's employees;
+6.
+Cause an annual budget to be prepared and submitted to the Board of Trustees, and
+oversee administration of the adopted budget in accordance with generally accepted
+principles;
+7.
+Cause to be prepared and submitted to the Board of Trustees, at the end of each fiscal
+year, a report on the Town's finances and administrative activities;
+8.
+Regularly advise the Board of Trustees as to the financial condition and future needs
+of the Town;
+9.
+Attend Board of Trustees meetings and participate in discussions with the Board of
+Trustees in an advisory capacity and assist the Board of Trustees in implementing
+its policies, procedures, goals and objectives; and
+10.
+Perform other such duties as prescribed by the Code or as required by the Board of
+Trustees and not inconsistent with this chapter.
+( Ord. 949 , § 1, 2019; Ord. 881 §1, 2015 ; Ord. 833 §1, 2013; Ord. 731 §2, 2010; Ord. 712 §1, 2009; Ord. 671 §11, 2008)
+A.
+Except as expressly provided to the contrary in this Code, the Town Manager shall
+have the powers and duties to hire, suspend, transfer and remove Town employees.
+B.
+Except for the purpose of inquiries, individual Board members or the Mayor shall deal
+with administrative services solely through the Town Manager, and neither the Mayor
+nor the Board of Trustees, nor any committee thereof, shall give orders to any of
+the subordinates of those employees directly appointed by the Board. (Ord. 778 §1,
+2011)
+The compensation of the Town Manager shall be established by the Board of Trustees
+and subject to Board budgeting and appropriations. ( Ord. 881 §2, 2015 ; Ord. 778 §1, 2011; Ord. 671 §11, 2008)
+The Town Clerk shall:
+A.
+Cause the ordinances of the Town to be published following adoption, which publication
+shall be by title only rather than by publishing in full, and which publication shall
+include a statement that the complete text of the ordinance is available at Town Hall
+and on the Town's official website; provided, however, that the inadvertent failure
+to include such statement as well as any unavailability of the ordinance on the Town's
+official website shall not be deemed to invalidate the ordinance;
+B.
+Superintend their publication, recording and placement in the permanent records of
+the Town, along with resolutions;
+C.
+Receive and file papers to be filed among the Town records;
+D.
+Handle local elections and exercise the powers vested in the Town Clerk by state law
+respecting the conduct of elections;
+E.
+Administer oaths of office and make out and deliver to each person elected or appointed
+to any office in the Town a certificate of such election or appointment;
+F.
+Furnish to the Town Attorney any record of documents in the Town Clerk's office that
+the Town Attorney may request to be used in any court and take receipts therefor.
+The Town Clerk shall also furnish any necessary, duly certified transcripts of the
+Town;
+G.
+Serve as custodian of public records and perform the functions thereof as provided
+by state law and Town laws and policies;
+H.
+Attend all meetings of the Board of Trustees and make a fair and accurate record of
+all the proceedings, rules and ordinances made and passed by the Board of Trustees;
+I.
+Keep the Town seal and affix it to all instruments and papers which, by ordinance
+or other applicable law, are required to be attested to by the Town seal;
+J.
+Have the custody of and safely keep, per applicable retention schedules, records;
+documents; ordinances; resolutions and orders of the Board of Trustees; and such other
+papers, documents, books and other property as may be delivered into the Town Clerk's
+custody;
+K.
+Sign those permits and licenses that are required to be issued or attested by the
+Town Clerk, in accordance with the provisions of the ordinances concerning the same;
+L.
+Serve as and exercise the powers of secretary to the Local Licensing Authority, in
+accordance with the provisions of the ordinances and laws concerning the same;
+M.
+Report at the regular meeting of the Board of Trustees the transactions of the Town
+Clerk's office; and
+N.
+Perform such other duties as may be required of the Town Clerk by state or federal
+laws; Town ordinances, resolutions, and policies; and the job description applicable
+to this office.
+( Ord. 966 , § 14, 2020; Ord. 914 §1, 2017; Ord. 804 §1, 2012; Ord. 671 §10, 2008; Ord. 246 §8, 1988; prior code §1-17.1)
+A.
+Any person who asserts that a violation of Article XXVIII of the Colorado Constitution
+or the Fair Campaign Practices Act (C.R.S. Section 1-45-101 et seq.), as amended,
+has occurred related to a town election may file a written complaint with the Town
+Clerk.
+B.
+Complaints must be filed no later than thirty calendar days after the complainant
+knew or should have known by the exercise of reasonable diligence of the alleged violation.
+C.
+A complaint shall include the following information and any other information that
+the Town Clerk deems necessary to process the complaint:
+1.
+The name, address, e-mail address, telephone number and signature of the complainant
+(if the complainant is represented by counsel, include the counsel's name, address,
+e-mail address, telephone number and signature along with the name, address, e-mail
+address, telephone number and signature of the complainant);
+2.
+The name and, if known, the telephone number, email address, and mailing address of
+the respondent(s) (or each person alleged to have committed a violation);
+3.
+The particulars of the violation, including the specific factual and legal basis for
+the allegation; and
+4.
+Documentation or other evidence supporting the allegation.
+D.
+A complaint may be submitted by personal delivery, mail, fax, or electronically.
+E.
+Town Clerk review.
+1.
+The Town Clerk will review the complaint to determine:
+a.
+Whether the complaint was timely filed in accordance with this Section;
+b.
+Whether the complainant has specifically identified a violation(s) of the Colorado
+Constitution Article XXVIII, the Fair Campaign Practices Act, or any local campaign
+finance laws or rules adopted and promulgated by the town concerning a municipal election;
+c.
+Whether the complainant has alleged sufficient facts and or provided sufficient information
+to support a legal and factual basis for the complaint; and
+d.
+Whether it is possible through reasonable efforts, to identify the subject of the
+complaint.
+2.
+Within fourteen business days of receiving the complaint, the Town Clerk must take
+one or more of the following actions following their initial review:
+a.
+If the Town Clerk determines that the complaint fails to satisfy each criteria in
+subsection E.1., the Town Clerk will dismiss the complaint and notify the complainant
+and respondent of the reasons for dismissal. The Town Clerk's determination and dismissal
+are a final decision.
+b.
+If the Town Clerk determines that the complaint satisfies each criteria in subsection
+E.1., and alleges one or more curable violations as described in subsection F., the
+Town Clerk will notify the respondent(s) in writing and provide an opportunity to
+cure as described in subsection G., holding in abeyance any alleged violations that
+may not be curable.
+c.
+If the Town Clerk determines that the complaint satisfies each criteria in subsection
+E.1., and that none of the alleged violations are curable the Town Clerk will proceed
+to set the matter for a hearing as described herein.
+F.
+Curing violations.
+1.
+Upon the Town Clerk's determination that a complaint alleges a failure to file or
+otherwise disclose required information, or other curable violation, the Town Clerk
+will notify the respondent(s) in writing and advise them of the curable deficiencies
+alleged in the complaint.
+2.
+Respondents shall have fourteen business days from the date the notice is issued by
+the Town Clerk to cure the alleged violation and to notify the Town Clerk, in writing,
+of actions taken to cure the alleged violation.
+3.
+The Town Clerk will determine, within five business days of receipt of the respondents'
+proposed cure, or if no response upon expiration of the cure period, whether the respondent(s)
+cured the violation(s), and if so, whether the respondent(s) "substantially complied"
+or acted in "good faith" as described herein. The Town Clerk may ask the respondent
+to provide additional information and may grant an extension of time to cure the violation(s).
+a.
+If the Town Clerk determines that the respondent(s) substantially complied or acted
+in good faith in curing any alleged violation, the Town Clerk will dismiss the complaint
+as to such violation. The Town Clerk's determination and dismissal are a final decision.
+b.
+If the Town Clerk determines that the respondent neither substantially complied nor
+acted in good faith in curing any alleged violation, the Town Clerk shall set the
+matter for a hearing and notify the complainant and respondent in writing.
+c.
+The Town Clerk will schedule a hearing with respect to any alleged violations held
+in abeyance after the Town Clerk's initial evaluation of the complaint.
+4.
+In determining whether an entity "substantially complied" the Town Clerk must consider:
+a.
+The extent of the noncompliance;
+b.
+The purpose of the provision violated and whether that purpose was substantially achieved
+despite the noncompliance; and
+c.
+Whether the noncompliance can properly be viewed as an intentional attempt to mislead
+the electorate or election officials.
+5.
+In determining whether an entity registered or disclosed in "good faith" the Town
+Clerk may consider whether ten percent or less of either the entity's disclosures
+or, alternatively, the reported dollar amounts required on the report or appearing
+on the filed reports at issue in the complaint are out of compliance.
+H.
+When required a hearing before the Town Clerk shall be scheduled as soon as practicable
+with due regard for the convenience and necessity of the parties but, unless an extension
+of time is granted by the Town Clerk, the hearing shall be held within fifteen business
+days after notice to the parties. The Town will not be a necessary party to the hearing
+and will not represent either the complainant, or respondent, but may intervene as
+a party on its own behalf.
+I.
+Notice of the hearing shall include any applicable rules of the Town Clerk governing
+the hearing process and the respondent(s) shall also receive a copy of the entire
+complaint received by the Town Clerk.
+J.
+Upon written motion, the Town Clerk may grant either party a continuance of up to
+thirty calendar days upon a showing of good cause.
+K.
+Upon the request of either party, the Town Clerk may issue administrative subpoenas
+requiring the attendance of a witness or party in relation to an alleged local campaign
+finance violation, which shall be served on the party to whom it is directed by the
+requesting party pursuant to Rule 4, C.R.C.P. It shall be unlawful for a witness or
+party to fail to comply with such subpoena.
+L.
+The hearing shall be electronically recorded and held in substantial accordance with
+such rules as the Town Clerk may have promulgated, including rules for holding hearings
+remotely by electronic means, when necessary, in the opinion of the Town Clerk. At
+the hearing, the complainant and the respondent(s) shall be present, and the complainant
+shall have the burden of proof to establish the alleged violation(s) by a preponderance
+of the evidence.
+M.
+Following the hearing, the Town Clerk shall issue a decision in writing within seven
+business days.
+N.
+If the Town Clerk determines after a hearing that a violation has occurred, the Town
+Clerk's decision shall include any appropriate order, sanction or relief authorized
+hereunder and may include, without limitation, sanctions as follows:
+1.
+A civil penalty, payable to the Town, of at least double the amount contributed, received
+or spent in violation of any contribution prohibition or in violation of a contribution
+reporting requirement.
+2.
+A civil penalty, payable to the town, in the amount of fifty dollars per day for each
+day that a statement or other information required to be filed pursuant to Article
+XXVIII of the Colorado Constitution or the Fair Campaign Practices Act (C.R.S. Section
+1-45-101, et seq.), is not filed by the close of business on the day due.
+3.
+An order requiring disclosure of the source and amount of any undisclosed contributions
+or expenditures.
+4.
+An order requiring the return to the donor of any contribution made which was the
+subject of the violation.
+O.
+The Town Clerk's decisions are a final decision subject to review under Rule 106(a)(4)
+C.R.C.P.
+P.
+Candidates shall be personally liable for penalties imposed upon their candidate committee.
+Q.
+The town may pursue any legal means for the collection of civil penalties imposed
+under this Article. The town administrator may also refer the matter for collection
+by whatever means are available to the town, including by a private collection agency
+and the party responsible to pay the penalty may be assessed the cost of collection.
+(Ord. No. 995 , § 1, 6-23-2021)
+Editor's note— Ord. 966 , § 15, adopted Jan. 22, 2020, repealed § 2.14.030, which pertained to pro tem and
+derived from prior code § 1-18 and Ord. 671, § 10, adopted in 2008.
+The Town Treasurer, prior to service, shall take an oath of office and is expressly
+prohibited from using, directly or indirectly, the Town money in the Town Treasurer's
+custody or keeping the same for personal use or benefit or that of any other person
+or persons. Any violation of this provision shall be grounds for immediate removal
+from office by the Board of Trustees, which is authorized to declare the office vacant;
+in which case, a successor shall be appointed who shall hold office for the remainder
+of the time unexpired of such officer so removed.
+( Ord. 966 , § 16, 2020; Ord. 912 §1, 2017; Ord. 905 §2, 2017;
+The Town Treasurer shall annually, no later than March 1st, make out and file with
+the Town Clerk a full and detailed account of all receipts and expenditures and all
+transactions as Town Treasurer during the preceding fiscal year. The Town Treasurer
+shall make out and file with the Town Clerk such statements of expenditures and other
+proceedings as are required by Section 31-20-202, C.R.S., which statements the Town
+Clerk shall immediately cause to be printed or posted according to applicable statutes
+of the State. (Ord. 671 §12, 2008; Ord. 246 §7, 1988; prior code §1-16)
+Editor's note— Ord. No. 1000 , § 2, adopted Nov. 10, 2021, repealed § 2.20.010, effectively repealing Ch. 2.20,
+which pertained to Town Marshal.
+Editor's note— Ord. No. 1000 , § 2, adopted Nov. 10, 2021, repealed § 2.20.010, which pertained to duties and derived
+from prior code § 1-19; Ord. 246 § 9, adopted 1988; Ord. 251 § 1, adopted 1989; Ord. 966 , § 17, 2020.
+Editor's note— Ord. 966 , § 18, adopted Jan. 22, 2020, repealed § 2.20.020, which pertained to pound master
+and derived from prior code § 1-21.
+A.
+It shall be the duty of the Town Attorney to institute and prosecute all suits for
+any recovery of fines and penalties, and imposition of jail, which may be brought
+under the provisions of the law of the state or the ordinances of the Town, and also
+to institute and defend all suits which may be brought in any court by or against
+the Town, or any of its officers in their official acts. He shall cause execution
+to be issued on judgments which may be recorded and attend to their collection. He
+shall, on presentation of the proper warrant, receive from the treasurer of the Town,
+on demand, all money necessary to meet the costs, disbursements and expenses before
+the court above mentioned, and shall give the treasurer receipt for the same.
+B.
+The Town Attorney shall draft all ordinances, leases, conveyances and all instruments
+of writing which may be required of him by ordinance, motion or order of the Board
+of Trustees, and it shall be his duty to act as legal advisor of the Town in all matters,
+and he shall have the right to be heard on all questions before the Board of Trustees.
+(Ord. 246 §5, 1988; prior code §1-13)
+All money which may be received by the Town Attorney on account of the town shall
+be immediately paid by him to the Town Treasurer. (Prior code §1-14)
+Editor's note— Ord. 966 , § 19, adopted Jan. 22, 2020, repealed Ch. 2.28, §§ 2.28.010—2.28.060, which pertained
+to health commissioner and derived from prior code §§ 8-2—8-7 and Ord. 246, §§ 69—73,
+adopted in 1988.
+Editor's note— Ord. 966 , § 20, adopted Jan. 22, 2020, repealed Ch. 2.32, §§ 2.32.010, 2.32.020, which pertained
+to town engineer and derived from prior code §§ 1-22, 1-23.
+Editor's note— Ord. 966 , § 21, adopted Jan. 22, 2020, repealed Ch. 2.36, § 2.36.010, which pertained to commissioner
+of streets and derived from prior code § 11-1 and Ord. 246, § 137, adopted in 1988.
+Editor's note— Ord. No. 1047 , § 1, adopted Aug. 25, 2024, repealed Ch. 2.40 § 2.40.010, which pertained to the
+board of adjustment and derived from Ord. 369; Ord. 246; prior code § 10-41.
+Editor's note— Ord. No. 1070 , § 2, adopted Dec. 10, 2025, repealed the former Ch. 2.44., §§ 2.44.010—2.44.090,
+and enacted a new Ch. 2.44 as set out herein. The former Ch. 2.44 pertained to similar
+subject matter and derived from Prior Code §§ 1-26—1-31; Ord. 246; Ord. 259; Ord.
+357; Ord. 516; Ord. 548; Ord. 650; Ord. 755; Ord. 803; Ord. 845; Ord. 864, adopted
+Jan. 28, 2015; Ord. 873, adopted July 8, 2015.
+A.
+The Municipal Court shall have original jurisdiction over any action brought in the
+Municipal Court for any criminal fine or punishment or for any civil penalty or other
+civil order, including issuance of stop work orders, orders to show cause, or any
+other civil order authorized by this Code. The judge of the Municipal Court shall
+have all the express and implied judicial powers relating to the operation of the
+court, including the power and authority to issue civil protection orders as set forth
+in C.R.S. § 13-14-104.5, to impose fines and penalties of incarceration, the power
+and authority to accept pleas of deferred prosecution or impose deferred sentences
+and deferred judgments, the power and authority to issue sentences subject to conditions,
+and including contempt powers to enforce the court's orders; provided, however, that
+those judicial powers shall be subject to the United States Constitution, the Colorado
+Constitution, the applicable court rules of procedure, Colorado statutes when applicable,
+and this Code.
+B.
+In sentencing any person, the municipal judge shall not exceed the penalty or fine
+limitations established by ordinance or established by a fine schedule published pursuant
+to Rule 210(b)(5), Colorado Rules of Municipal Court Procedure. When not expressly
+prohibited, the municipal judge may suspend the whole or part of the jail sentence,
+civil penalty, or fine imposed upon any person, and may accept pleas of deferred prosecution
+and may impose sentences of deferred sentence and/or deferred judgment, all upon such
+lawful terms and conditions as may be approved and accepted by the court. In addition,
+the court may also include as part of the sentencing of any person that such person
+be placed on probation for a period not to exceed twelve months, be required to pay
+restitution to the victim for damages caused by such person, or be required to perform
+community service or other lawful terms and conditions as ordered by the Municipal
+Court Judge.
+C.
+The Municipal Court's procedures shall be in accordance with the Colorado Rules of
+Municipal Court Procedure.
+D.
+The presiding Municipal Court Judge shall have full power and authority to adopt and
+make rules and regulations for conducting the Municipal Court which are consistent
+with rules of procedure promulgated by the Colorado Supreme Court and with this Code.
+( Ord. No. 1070 , § 2, 12-10-2025)
+A.
+There shall be regular sessions of the Municipal Court for the arraignment of defendants,
+the trial of cases and such other matters and proceedings as the business of the court
+may require. Such sessions shall be conducted no less frequently than once per month
+and shall be open to the public.
+B.
+The court shall be open during such hours as are set by the presiding Municipal Judge
+with the advice and consent of the Board of Trustees; provided, however, that the
+court shall be closed on weekends and local, state and national holidays except for
+special sessions held by the presiding municipal judge.
+C.
+The Municipal Court shall be a qualified municipal court of record. Either electronic
+devices or stenographic means shall be used to keep a verbatim record of the proceedings
+and evidence at trials.
+( Ord. No. 1070 , § 2, 12-10-2025)
+A.
+Whenever the Municipal Judge imposes any fine for any violation of an ordinance, in
+addition to any such fine or any other sentence, the Municipal Judge may also assess
+the costs against defendants as set by resolution of the Board of Trustees.
+B.
+In addition to all other fines and costs that may be assessed against a defendant,
+the Municipal Judge may assess the cost of care against any defendant who is sentenced
+to a term of imprisonment, in accordance with applicable law.
+(1)
+"Cost of care" means the costs associated with maintaining an offender in custody
+as defined by Section 18-1.3-701(5)(a), C.R.S.
+C.
+Payment of any fines, costs and surcharges shall be due within fourteen days after
+the date they are assessed by the Municipal Judge. In calculating this time period,
+the day upon which the fines, costs and surcharges are assessed shall not be included.
+Thereafter, every day shall be counted, including holidays, Saturdays and Sundays.
+In the event the last day is a Saturday, Sunday or legal holiday, the time period
+runs until the end of the next day which is not a Saturday, Sunday or legal holiday.
+The defendant against whom fines, costs and surcharges have been assessed may, upon
+approval of the Municipal Judge, extend payment beyond the fourteen-day period. In
+the event the Municipal Judge allows a defendant an extension of time for payment,
+the Municipal Judge shall assess an additional cost of thirty dollars.
+D.
+For all appeals from decisions in the Municipal Court to the District Court, the Court
+Clerk shall require a transcript deposit in an amount set annually by the Board of
+Trustees, to be consistent with state law. The transcript deposit shall be applied
+against the actual preparation costs of the transcript incurred by the Town. If the
+preparation costs of the transcript are less than the transcript deposit, then the
+balance will be refunded to the requesting party by the Court Clerk. If the preparation
+costs of the transcript are more than the transcript deposit, the Court Clerk shall
+require the requesting party to supplement the deposit or pay the additional cost
+to prepare the transcript. The Municipal Judge may waive the transcript deposit and
+transcript preparation cost in all instances of proven indigence. The transcript deposit
+shall be refunded to the defendant if the judgment is set aside on appeal.
+E.
+To collect past due fines, penalties, costs, fees, surcharges, restitutions, the Town
+may assign such accounts to a private collection agency, which shall be entitled to
+recover costs of collection in an amount not to exceed eighteen percent of the aggregate
+amount of an assigned account.
+( Ord. No. 1070 , § 2, 12-10-2025)
+In all actions where the defendant is found guilty, pleads guilty, or nolo contendere
+(no contest), there shall be assessed against defendant an amount to be established
+by resolution of the Board of Trustees, as amended from time to time, upon any fine
+imposed by the court, which funds shall constitute a community justice surcharge with
+such funds to be used for victims' assistance, police training programs and activities,
+and special units and assignments, including operational costs of such training programs,
+activities and special units and assignments, and nuisance abatement programs and
+activities.
+( Ord. No. 1070 , § 2, 12-10-2025)
+A.
+The Board of Trustees, by resolution, shall appoint the presiding municipal judge
+to preside over the Municipal Court for an initial term of not less than two years
+and, in its discretion, for subsequent term(s), the length of which shall be determined
+by the Board of Trustees. One or more assistant Municipal Judge(s) may be appointed
+by the Board of Trustees for a term as necessary to transact the business of the court.
+Upon a vacancy in the position of the presiding Municipal Judge, the Board of Trustees
+can appoint a new presiding municipal judge for the remainder of the unexpired term.
+B.
+The presiding judge shall supervise and direct the court's operation.
+C.
+Before assuming the duties of his or her office, a Municipal Judge shall take an oath
+or affirmation to support and uphold the Constitutions of the United States and the
+State of Colorado and the ordinances of the Town and that he or she will faithfully
+perform the duties of the office.
+D.
+The compensation of the presiding Municipal Judge shall be in such amount and on such
+other terms as set by agreement entered into between the Town and the presiding Municipal
+Judge or by resolution of the Board of Trustees, as amended from time to time. The
+compensation of an Assistant Municipal Judge shall be based on hours of service or
+number of court sessions served and shall be as set by resolution of the Board of
+Trustees, as amended from time to time, or as agreed to in writing executed by the
+Town and the assistant municipal judge.
+E.
+A Municipal Judge may be removed by the Board of Trustees during his or her term of
+office in accordance with Section 13-10-105, C.R.S., as amended.
+( Ord. No. 1070 , § 2, 12-10-2025)
+A.
+The Town Manager shall assign an employee to serve as clerk of the Municipal Court,
+in consultation with the presiding Municipal Judge, whose duties shall be such duties
+as delegated to such person by law, court rule or the presiding Municipal Judge. The
+Town Manager or such person's designee retains the ultimate authority to manage the
+terms of the Court Clerk's employment, including the power to terminate the Court
+Clerk and to establish and amend his or her compensation, as determined by the Town
+through the budget.
+B.
+The Town waives the bonds required under Section 13-10-109, C.R.S., as amended from
+time to time.
+( Ord. No. 1070 , § 2, 12-10-2025)
+Editor's note— Ord. No. 1023 , § 1, adopted March 8, 2023, repealed the former Ch. 2.50, and enacted a new Ch.
+2.50 as set out herein. The former chapter pertained to similar subject matter and
+derived from Ord. 291, adopted 1992; Ord. 641, adopted 2007.
+The following words, terms and phrases, when used in this chapter shall, unless otherwise
+specified, mean as follows:
+"Abandoned, lost, or unclaimed property" means any item or items, except for motor
+vehicles, that come into the possession of the police department and for which the
+custodian is unable to determine an owner.
+"Chief of police" means the chief of the Firestone Police Department or the chiefs
+designee.
+"Criminal instruments" means any personal property seized as evidentiary property
+and used directly in the commission of any criminal act, other than such property
+used in the commission of a traffic offense.
+"Custodian" means the person assigned by the chief of police to act as the official
+holder of all property coming into the possession of the police department.
+"Day(s)," means calendar day.
+"Evidence" means an item or material that has probative value in either tending to
+prove or disprove a material fact in a criminal manner.
+"Owner" means a person or entity or a duly authorized legal representative of same,
+which has a legal or equitable interest in property subject to this chapter.
+( Ord. No. 1023 , § 1, 3-8-2023)
+The provisions of this chapter shall, unless otherwise required by law, govern the
+disposition of all property delivered or otherwise coming into the possession of the
+police department.
+Such property shall, upon coming into possession of the town, be delivered to the
+custodian, who shall secure and keep a record of all such property, which shall include
+when and from where the property was obtained.
+( Ord. No. 1023 , § 1, 3-8-2023)
+All abandoned, lost, or unclaimed property, and all property that is no longer being
+held as evidence in a judicial proceeding shall be disposed of as follows:
+1.
+Last known owner determined by custodian.
+a.
+If, following examination of the property and those public records readily available
+to the custodian, the custodian is able to identify the owner of the property, the
+custodian shall notify the apparent owner by a written notice sent by United States
+Postal Service first class mail to the last known address of the apparent owner. Such
+notice shall state that if the owner does not make claim to the property within thirty
+days of the date of notice, any claim of ownership shall be waived, and the property
+shall be deemed forfeited, and become the sole property of the town. In addition,
+the notice shall state how to notify the police department to make a claim to the
+property. The claimant must provide photo identification to the custodian prior to
+release of any property.
+b.
+If the apparent owner is unable to perfect a claim such person may designate an agent
+to perform such task. The agent must provide the custodian proof of entitlement, which
+may include a notarized letter setting forth the agent's powers and duties, a power
+of attorney or court order.
+2.
+No last known owner determined. If, following examination of the property and public
+records readily available to the custodian, the custodian is unable to determine the
+identity of the owner, the property shall, subject to the procedure set forth in Section 2.50.030 (C) herein, be deemed considered abandoned, lost, or unclaimed.
+3.
+Procedure. The custodian shall publish a notice in the town's public web-site and
+post notice on the police department's website for a period of fourteen days for any
+property having a value of two hundred dollars or more, as determined by the custodian,
+that has not been claimed by the last known owner, and for all other property that
+has been deemed abandoned, lost, or unclaimed. The notice shall describe the property
+and contain a statement that the custodian is holding the property, and the place
+at which the property may be claimed. The notice shall state that the owner, in claiming
+the property, must provide proof of ownership acceptable to the custodian. The claimant
+must also provide photo identification to the custodian prior to release of any property.
+The notice shall state that if no person comes forward within thirty days of the expiration
+of the posting of the notice, any claim of ownership shall be deemed waived, and the
+property deemed forfeited and the sole property of the town.
+4.
+Form of claim. Any claim for property shall be on such form or forms as shall be provided
+by the custodian, shall be in writing, and shall be signed by the claimant.
+a.
+Each claim received by the custodian, within the claim period as set forth herein,
+shall be evaluated by the custodian. The custodian may at any time during evaluation
+of the claim request additional supporting documentation from the claimant.
+b.
+If there is more than one claimant for the same property, the custodian may deposit
+the disputed property with the registry of the district court in an interpleader or
+other action. Should the custodian petition any court to resolve any disputed claims,
+the custodian shall notify each claimant of this action.
+c.
+If a claim is upheld with respect to any unclaimed property, the claimant shall, as
+a prerequisite to recovering possession, reimburse the town for all reasonable expenses
+incurred in the storing or handling of such property.
+d.
+If a claim is denied with respect to any unclaimed property, such property shall be
+deemed forfeited and the town shall become the sole property.
+5.
+Any property deemed forfeited to the town may be disposed of in the following manner:
+a.
+The property may be sold or auctioned in accordance with police department policy.
+b.
+The property may be donated to a recognized charitable institution or nonprofit organization.
+c.
+The property may, in the discretion of the custodian, be retained by the police department
+for use in training or for other official duties.
+d.
+The property may otherwise be destroyed or disposed of as deemed appropriate by the
+custodian.
+( Ord. No. 1023 , § 1, 3-8-2023)
+(A)
+Disposition of dangerous, hazardous, or nominal value property. The provisions of
+Section 2.50.030 do not apply to the disposition of dangerous property or property of a value of less
+than two hundred dollars, as determined by the custodian, any of which, unless ordered
+otherwise by judicial order, may be destroyed or disposed of as deemed appropriate
+by the custodian.
+1.
+Dangerous or hazardous property includes, but is not limited to, burglary tools, explosives,
+armor or bulletproof clothing; gambling apparatus; beer, wine, spirituous liquors,
+or fermented malt beverages; cigarettes or tobacco products; soiled, bloody, or unsanitary
+clothing and goods; hazardous solids or liquids, drugs, medicines, pharmaceutical
+products; hallucinogenic substances, hypodermic syringes or needles; obscene pictures,
+images, or other such objects, contained in or on any media or format; any poisonous
+or noxious solids or liquids; or any other property which reasonably might result
+in injury to the health or safety of the public or be the subject of unlawful use.
+(B)
+Disposition of criminal instruments. The provisions of Section 2.50.030 do not apply to the disposition of criminal instruments. Criminal instrument(s) used
+by the owner in a criminal episode shall be destroyed or may be used by the town unless
+the owner is exonerated of all charges. Exoneration shall not include a plea of guilty
+to any charge in exchange for dismissal of any other charge, a deferred judgment and
+sentence, or a no contest plea.
+1.
+Criminal instrument(s) used by someone other than the owner in a criminal episode
+shall be destroyed or may be used by the town, unless the owner can prove to the custodian
+that the property had been taken from the owner and used without the owner's consent,
+express or implied, or that the owner was not involved in the criminal acts and neither
+knew nor reasonably should have known of those acts.
+(C)
+Disposition of weapons and firearms. The provisions of Section 2.50.030 do not apply to the disposition of weapons, including firearms, cartridges, and ammunition.
+These items shall be disposed of as follows:
+1.
+Illegal or contraband weapon. Any weapon that is illegal, or deemed to be contraband
+pursuant to state or federal law shall be deemed forfeited and become the sole property
+of the town and disposed of as set forth in section 2.50.030 (E) herein.
+2.
+Lawful possession apparent. If the custodian has determined that the item may be lawfully
+possessed by the owner, or other person entitled to the possession of the item, or
+if there exists a court order directing that the item be released to such person,
+the custodian shall release the item in accordance with the custodian's determination
+or the court order.
+(D)
+Lawful possession not apparent. If the custodian has determined that the owner or
+other person seeking possession of the item is not legally entitled to possession
+of the item pursuant to federal, state, or local law, and if there exists no court
+order directing that the item be released to any person, the forfeited item shall
+be disposed by the custodian as follows:
+1.
+The custodian may authorize the destruction of the item.
+2.
+The custodian may authorize the retention of the item by the police department for
+the purpose of training members of the department in the identification, safe handling,
+and operation of those weapons.
+3.
+The custodian may authorize the sale of the item, provided that the sale is restricted
+to federally licensed dealers or collectors.
+( Ord. No. 1023 , § 1, 3-8-2023)
+The Town shall have a Police Department consisting of a Chief of Police and such number
+of sworn and non-sworn personnel as in the judgment of the Board of Trustees are necessary
+to meet the Town's law enforcement needs. The members of the Police Department shall
+be subject to the control and orders of the Chief of Police.
+( Ord. No. 1000 , § 3, 11-10-2021; Ord. 700 § 2, 2008; Ord. 249 § 2(part), 1989)
+A.
+The Chief of Police shall have all powers and obligations conferred on such position
+pursuant to the Colorado state statutes and Town ordinances.
+B.
+The Chief of Police shall be the head of the Police Department and shall, in addition
+to the duties imposed upon all police officers, be responsible for the administration
+of the Police Department, exercise general supervision and control over the work of
+all members of the Department and prescribe the number of hours and the times of day
+or night when police officers shall be on duty. The Chief of Police shall attend meetings
+of the Board of Trustees as required by the Board.
+C.
+The Chief of Police shall develop, adopt, amend and administer policies and procedures
+for the administration of the Police Department, including without limitation the
+provisions of the Department policies and procedures manual. All amendments to such
+manual shall be filed with the Board of Trustees and the Town Manager upon their adoption.
+(Ord. 731 §3, 2010; Ord. 712 §1, 2009; Ord. 700 §3, 2008; Ord. 249 §2(part), 1989)
+A.
+Each police officer of the Town shall have all the powers and obligations conferred
+on peace officers pursuant to state statutes and Town ordinances.
+B.
+Police officers shall execute all writs and processes directed to them by the Municipal
+Judge in any case arising under a Town ordinance, and the Police Department shall
+receive the same fees for such services that sheriffs are allowed in similar cases.
+C.
+Police officers shall investigate, make arrests, issue summonses, sign complaints
+and assist in prosecution for violations of state or federal statutes and municipal
+ordinances. They shall suppress all riots and breaches of the peace and apprehend
+persons fleeing from justice. (Ord. 700 §4, 2008; Ord. 249 §2(part), 1989)
+The Chief of Police may establish not more than five positions in the Town police
+reserve unless otherwise authorized by the Board of trustees. Reserve members shall
+perform such duties as may be assigned by the chief of police or, in the chief's absence,
+the highest ranking officer. Reserve members shall serve without compensation and
+shall serve on duty when called into service by the chief of police or, in the chief's
+absence, by the highest ranking officer. Reserve members may be reimbursed at the
+town's discretion for authorized out-of-pocket expenses incurred in the course of
+duty. The position of reserve officer is volunteer in nature, and such relationship
+may be severed by the chief of police at any time, with or without cause. (Ord. 700
+§5, 2008; Ord. 411 §1, 1998)
+Editor's note— Ord. No. 1012 , § 1, adopted June 8, 2022, repealed § 2.52.050, which pertained to community service
+officer and derived from Ord. 445, adopted 2000.
+In the event that the town attorney, district attorney or other person charged with
+the duty of prosecuting violations of the town, state or federal laws requests that
+any of the lost, abandoned or recovered stolen property be held by the chief of police
+because it is required in a criminal prosecution, the chief of police shall retain
+custody and shall not sell the same until written notice is received that the property
+is no longer needed for prosecution purposes. (Ord. 700 §6, 2008)
+Before entering upon the duties of office, each officer shall take and subscribe the
+oath or affirmation. (Ord. 700 §7, 2008)
+Every officer shall wear at all times while on duty a uniform of the type and quality
+prescribed by the manual of the police department as amended from time to time. (Ord.
+700 §8, 2008)
+The mayor may, upon any emergency or riot, or at any time when the mayor shall deem
+it necessary for the peace, good order or health of the town, appoint deputy police
+officers for a specified time, but not exceeding two days, without the action of the
+board. (Ord. 700 §9, 2008)
+It shall be the duty of all persons, when called upon by the chief of police or any
+police officer, to promptly aid and assist such officer in the discharge of his or
+her duties. (Ord. 700 §10, 2008)
+The police department may dispose of impounded motor vehicles in any of the following
+ways:
+A.
+By following the procedures provided by state law for disposal of abandoned vehicles;
+or
+B.
+If the chief of police determines that some other method of disposal is more efficient,
+the chief of police may adopt such a method. Such method shall provide:
+1.
+Reasonable notice to the owner and any lien holders of record by mail or publication
+at least thirty days before disposition of the vehicle; but, if the vehicle has been
+appraised to determine its reasonable market value by the chief of police, by any
+employee of the police department designated by the chief of police or by a licensed
+Colorado motor vehicle dealer as having a value of less than two hundred dollars,
+then the vehicle may be disposed of no less than fifteen days after the date of the
+notice. Notice is deemed given on the date that it is delivered, mailed or published,
+whichever is earliest. The notice shall indicate whether the holding period is fifteen
+or thirty days. Before giving notice, the police department shall make inquiry through
+the licensing authority of the state of registration of the vehicle, if that can be
+ascertained from the license plate or vehicle identification number, if any, as to
+the name and mailing address of the owner and lien holders of record. Notice shall
+be delivered or sent by certified mail to such persons. If such inquiries produce
+no such information, notice shall be published at least once in a newspaper of general
+circulation in the town. The notice shall state the grounds upon which impoundment
+was authorized, the location of the vehicle and the person to whom the owner or lien
+holder may apply to reclaim the vehicle prior to its disposal.
+2.
+For disposition of the vehicle:
+a.
+If the vehicle has been appraised and the towing and storage charges at the end of
+the applicable holding period exceed the appraised value, then the town may sell the
+vehicle to the towing and impoundment lot operators, if such were involved, for the
+amount of the accrued charges;
+b.
+At a private sale; or
+c.
+At a public sale.
+3.
+For delivery of a bill of sale to the purchaser. The police department shall send
+a copy of such bill of sale, together with a written report of the sale, to the Colorado
+Department of Revenue. If the appraised value of the vehicle was less than two hundred
+dollars or if, in the case of a vehicle sold without appraisal, the sale was for less
+than two hundred dollars, the bill of sale shall state that the vehicle is sold only
+for the purpose of junking or dismantling the vehicle, and that the purchaser acquires
+no right to a certificate of title for such vehicle. Such purchaser shall also be
+given a copy of the report which is sent to the Colorado Department of Revenue.
+4.
+For disposition of the proceeds from a sale pursuant to Subparagraph 2.b. above or
+of this subparagraph in the following manner:
+a.
+The costs of towing and storage in an impound lot shall be paid to the towing and
+impound lot operators in accordance with the contract such operators may have with
+the town for such services. Such contract may provide, without limitation, that the
+towing and impound lot operator will receive only a percentage of the proceeds, but
+not to exceed such costs. If such services were not performed pursuant to a contract
+with the town, payment shall be calculated in the manner provided by state law.
+b.
+From the balance, if any, there shall be deposited into the general fund of the town
+reasonable expenses to the town on account of the abandonment of the vehicle, including
+without limitation the costs of the search for owners and lien holders, notice, appraisal,
+advertising, sale and any other fees or penalties, including without limitation those
+on account of parking infractions pursuant to this code, due with respect to the vehicle.
+c.
+The remaining balance, if any, shall then be paid first to any lien holder of record
+and second to any owner of record as his or her interests may appear on such records
+or to any person submitting proof of an enforceable interest in such vehicle as of
+the date of sale. If no such person is known to the town, such balance shall be deposited
+into the general fund of the town.
+d.
+There is no right of redemption from any sale made pursuant to this section. After
+a vehicle has been sold pursuant to such terms, neither the town nor any officer,
+agent or employee thereof is liable for any failure to deliver such vehicles to any
+person other than the purchaser at such sale. (Ord. 700 §11, 2008)
+Pursuant to the authority conferred by applicable laws of the state, there is created
+a planning commission and a zoning commission for the town. The members of the planning
+commission shall also serve and are appointed as the zoning commission. (Prior code
+§10-1)
+A.
+The Town Planning and Zoning Commission shall consist of seven regular members who
+shall be appointed by the Mayor and the appointment of whom shall be confirmed by
+a majority of the Board of Trustees. The term of office shall be six years and appointments
+shall be staggered so that at least two vacancies occur every two years. All terms
+shall commence on the fourth Thursday in January in the year of appointment and shall
+expire six years thereafter.
+B.
+The Mayor shall also appoint up to five alternate members of the Planning and Zoning
+Commission, who shall each otherwise have the qualifications of regular members of
+the Commission. Each alternate member shall serve, as may be required upon request
+of the Commission Secretary, during the temporary unavailability of any Commission
+member. Terms for alternate members shall commence upon appointment by the Mayor and
+shall end on December 31st of the third year following appointment, or until a successor
+is appointed by the Mayor.
+C.
+Regular members may be removed, after public hearing, by the Mayor for inefficiency,
+neglect of duty or malfeasance in office. The Mayor shall file a written statement
+of reasons for such removal. Alternate members may be removed by the Mayor upon appointment
+of a successor without a public hearing. Vacancies in membership occurring otherwise
+than through the expiration of term shall be filled for the remainder of the unexpired
+term by the Mayor.
+( Ord. 940 , § 1, 2018; Ord. 748 §1, 2010; Ord. 693 §1, 2008; Ord. 565 §1, 2004; Ord. 550 §1,
+2004; prior code §10-2)
+All members of the Planning and Zoning Commission shall be bona fide residents of
+the Town for a period of at least one year prior to beginning the term to which they
+have been appointed, and if any member ceases to reside in the Town, his or her membership
+shall immediately terminate. All members of the Commission shall serve as such without
+compensation, and the appointed members shall hold no other municipal office, except
+that such members shall serve as members of the Board of Adjustment when the Commission
+is acting as such Board. (Ord. 613 §1, 2006; Ord. 369 §3, 1997; prior code §10-3)
+Each Commission shall elect its chairman from among the appointed members and create
+and fill such other of its offices as it may determine. The chairman of the Commission
+shall preside at all meetings and hearings of the Commission but shall not be entitled
+to vote on any matter that comes before the Commission, except in the case of a tie
+vote. The term of the chairmen shall be one year, with eligibility for re-election.
+Each Commission shall hold meetings from time to time as necessary. Each Commission
+shall adopt rules for transaction of business and shall keep a record of its resolutions,
+transactions, findings and determinations. It may also hold special meetings from
+time to time as it shall deem necessary; special meetings shall be at the call of
+the chairman of the Commission or upon the request of any three of its members. A
+complete record shall be kept at the Town Hall of all proceedings of the Commission,
+which records shall be available for public examination at all appropriate times.
+(Ord. 565 §2, 2004; Ord. 246 §118, 1988; prior code §10-4)
+Each Commission, jointly or severally, may appoint such employees as it may deem necessary
+for its work, whose appointment, promotion, demotion, and removal shall be subject
+to the same provisions of law as govern other corresponding civil employees of the
+Town. Each Commission may also, with the consent of the Board of Trustees, contract
+with Town planners, engineers, and architects and other consultants for such services
+as it may require. The expenditures of the Commission, exclusive of gifts, shall be
+within the amounts which may be appropriated for the purpose by the Board of Trustees
+which shall provide in its sole discretion the funds, equipment, and accommodations
+necessary for the Commission's work. (Ord. 246 §119, 1988; prior code §10-5)
+Each Commission shall have all the powers and perform all duties specified by applicable
+laws of the State. The performance of such duties and the exercise of such authority
+is to be subject to the limitations expressed in such legislative enactment or enactments.
+(Prior code §10-6)
+It shall be the duty of the Commission to propose and recommend to the Board of Trustees
+a master plan for the physical development of the Town, including any areas outside
+its boundaries, subject to the approval of the governmental body having jurisdiction
+thereof, which in the Commission's judgment bears relation to the planning of the
+Town. The master plan shall be prepared in compliance with the provisions of the laws
+of the State with the general purpose of providing for a harmonious development of
+the Town and its environs which will best promote the health, safety and general welfare
+of the citizens of the Town. (Ord. 246 §120, 1988; prior code §10-7)
+The Zoning Commission shall prepare its regulations in accordance with a comprehensive
+plan and designed to lessen congestion in the streets; to secure safety from fire,
+panic and other dangers; to promote health and general welfare; to provide adequate
+light and air; to prevent the overcrowding of land; to avoid undue concentration of
+population; and to facilitate the adequate provision of transportation, water, sewerage,
+schools, parks and other public requirements. Such regulation shall be made with reasonable
+consideration, among other things, as to the character of the district and its particular
+suitability for particular uses, and with a view to conserving the value of buildings
+and encouraging the most appropriate use of land throughout such municipality. (Prior
+code §10-8)
+Editor's note— Ord. No. 1031A , § 1, adopted July 26, 2023, repealed the former Ch. 2.58, §§ 2.58.010—2.58.070,
+and enacted a new Ch. 2.58 as set out herein. The former Chapter 2.58 pertained to
+similar subject matter and derived from Ord. 472, adopted 2001; Ord. 563, adopted
+2004; Ord. 671, adopted 2008; Ord. 712, adopted 2009; Ord. 731, adopted 2010; Ord.
+776, adopted 2011; Ord. 786, adopted 2011; Ord. 794, adopted 2012; Ord. 832, adopted
+2013; Ord. 886, adopted 2016.
+There is hereby established a Parks, Trails, Recreation and Open Space Commission
+("Commission").
+( Ord. No. 1031A , § 1, 7-26-2023)
+The Commission shall serve in an advisory capacity and have the following duties:
+A.
+Review the Town's Parks, Open Space and Trails ("POST") master plan and provide comments
+and recommendations to the Board of Trustees regarding the implementation, administration,
+effectiveness, concerns, and amendment of POST;
+B.
+Ensure that all members are knowledgeable of the processes, procedures and requirements
+of Section 16.6.3 Parks Open Space and Trails of the Firestone Development Code ("FDC") as amended
+and provide comments and recommendations to the Board of Trustees regarding the implementation,
+administration, effectiveness, and concerns of such Section of the FDC;
+C.
+Establish a forum for community input regarding parks, trails, open space and recreation
+matters and report such input to the Board of Trustees in periodic reports;
+D.
+Inquire as to and report to the Board of Trustees regarding grants, gifts, endowments,
+donations and other funding sources which may be used for the Town's parks, trails,
+open space and recreation facilities;
+E.
+Interact with the Carbon Valley Parks and Recreation District regarding the District's
+plans, programs, services and facilities which impact the Town's parks, trails, open
+space and recreation facilities and advise the Board of Trustees of matters of mutual
+interest and concern; and
+F.
+Perform other related duties as assigned by the Board of Trustees.
+( Ord. No. 1031A , § 1, 7-26-2023)
+The Commission shall consist of seven Town residents appointed by the Board of Trustees
+to serve for two-year terms. The Board of Trustees shall also appoint from their members
+a liaison and alternate liaison to the Commission. The Trustee liaisons shall serve
+for the duration of their current term. The liaison shall attend Commission meetings
+and provide assistance and resources to the Commission in the fulfillment of its duties.
+For the initial appointments each Trustee shall nominate a candidate for appointment
+and such process shall continue until each Trustee has nominated a candidate who is
+appointed. The first three candidates for the initial appointment shall serve two-year
+terms with the remaining four to serve one-year terms.
+Resident members may be reappointed and serve at the pleasure of the Board of Trustees.
+( Ord. No. 1031A , § 1, 7-26-2023)
+The Commission shall annually hold at least four meetings, all of which shall be held
+and noticed in accordance with the Open Meetings Law, C.R.S. § 24-6-401 et seq. The
+Commission may adopt rules of procedure consistent with the recognized practices of
+good governance.
+The Commission shall, at its first meeting each year, select a Chair and Vice-Chair.
+A quorum shall consist of a majority of the members and existence of a quorum is required
+for the Commission to conduct business.
+The Commission shall, from its resident membership appoint a Recording Secretary,
+who shall make and keep minutes of the Commission's meeting and perform other administrative
+duties.
+( Ord. No. 1031A , § 1, 7-26-2023)
+The purpose of this Chapter is to establish the Emergency Management Unit within the
+Firestone Police Department and to set forth other emergency management authorities,
+responsibilities and procedures for the Town. The establishment of the Town's Emergency
+Management Unit shall not affect the jurisdiction of any local disaster agency maintained
+by Weld County within the Town and its authority to serve the Town in accordance with
+the "Colorado Disaster Emergency Act of 1992," Section 24-32-2101, et seq., C.R.S.
+(Ord. 757 §1, 2010)
+As used in this Chapter, the definitions set forth in Section 24-32-2103, C.R.S.,
+as amended from time to time, shall apply. The definition of disaster shall be as
+set forth in Section 24-32-2103(1.5), C.R.S., and shall include any other declared
+disaster that requires the aid and the assistance of local, state or federal agencies.
+(Ord. 757 §1, 2010)
+The Emergency Management Unit within the Firestone Police Department shall be responsible
+for disaster preparedness and coordination of disaster response for the Town. The
+Emergency Management Unit shall prepare and keep current a local disaster emergency
+plan, known as the emergency operations plan ("EOP") for the Town, which is subject
+to approval of the Board of Trustees by resolution. An emergency management system
+shall be developed and tested to assure capability of managing disasters and extraordinary
+events. The EOP will identify emergency responsibilities of all local agencies and
+officials. (Ord. 757 §1, 2010)
+A.
+The Town Manager, as the principal executive officer for the Town, shall have the
+power to declare that a state of local disaster exists when he or she is of the opinion
+that a disaster or extraordinary emergency event has occurred or the threat of such
+event is imminent.
+B.
+The declaration of local disaster shall be in writing and shall describe the nature
+of the disaster, the area threatened and the conditions which have brought it about
+and the conditions, if any, that would remedy it. The declaration shall be forwarded
+to the Mayor, who shall cause the declaration to be filed with the Town Clerk and
+forward a copy to the Weld County Office of Emergency Management and the State Division
+of Emergency Management. The Town Manager or his or her designee shall be responsible
+for publication and dissemination of the information to the public.
+C.
+The issuance of a declaration declaring a state of disaster or emergency shall automatically
+empower the Town Manager to exercise any and all of the disaster and emergency powers
+permitted by state and local law and shall activate all relevant portions of the EOP.
+D.
+The Mayor shall convene the Board of Trustees to exercise its legislative powers as
+the situation demands and shall receive reports through the Town Manager and evaluate
+and enact policy and other incident support as required.
+E.
+A state of local disaster shall remain in effect until the Board of Trustees or Town
+Manager declares that the threat of danger has passed or that the local disaster or
+emergency conditions no longer exist. However, a state of local disaster shall not
+be continued or renewed for a period in excess of seven days unless the Board of Trustees
+approves a longer duration. The Board of Trustees may, by motion, terminate a state
+of local disaster or emergency at any time, and the Town Manager shall immediately
+issue a notice effecting the same. Any declaration continuing or terminating a state
+of local disaster or emergency shall be filed with the Town Clerk, and a copy shall
+be forwarded to the Weld County Office of Emergency Management.
+F.
+Subsequent to the declaration of a disaster, the Town Manager may exercise any and
+all powers granted by applicable local or state law, including:
+1.
+Suspend the provision of the Firestone Municipal Code that prescribes procedures for
+conduct of Town business, if strict compliance would in any way prevent, hinder or
+delay necessary action in coping with the disaster or emergency, provided that such
+suspension of the provision of the Firestone Municipal Code is confirmed at the earliest
+practicable time by the Board of Trustees.
+2.
+Make and issue rules and regulations on matters reasonably related to the protection
+of life and property as affected by such disaster, provided such rules and regulations
+are confirmed at the earliest practicable time by the Board of Trustees.
+3.
+Requisition necessary personnel, material or supplies of any Town department, division
+or agency.
+4.
+Transfer the direction, personnel or functions of Town departments for the purpose
+of performing or facilitating emergency services.
+5.
+Subject to any applicable legal requirements to provide compensation for services
+or for taking or use of property and to the principles set forth in Section 24-32-2111,
+C.R.S., and Articles 1 to 7 of Title 38, C.R.S., to commandeer or utilize any private
+property necessary to cope with the disaster or emergency.
+6.
+Exercise all powers permitted by the Firestone Municipal Code and state law to require
+emergency services of any Town officer or employee and command the aid of as many
+people in the Town as he or she deems necessary in the execution of his or her duties.
+To the extent permitted by law, such persons may be entitled to the privileges, benefits
+and immunities provided by state law for civil defense workers. (Ord. 757 §1, 2010)
+A.
+If the Mayor is unable to perform the duties or functions set forth in this Chapter,
+the powers and duties conferred upon the Mayor shall be performed in descending order,
+as follows: by the Mayor Pro Tem, by the Board of Trustees member most senior in length
+of service, by the Board of Trustees member whose last name begins with a letter that
+is the closest to the beginning of the alphabet.
+B.
+If the Town Manager is unable to perform the duties or functions set forth in this
+Chapter, then the powers and duties conferred upon the Town Manager shall be performed
+in descending order as follows: by the Chief of Police or by the Chief of Police's
+designee as established in writing in advance. (Ord. 757 §1, 2010)
+A.
+Upon the declaration of a disaster by the Town Manager, an emergency meeting of the
+Board of Trustees may be called in order to protect the public health, safety or welfare
+of the residents of the Town.
+B.
+The requirement for twenty-four hours' posting of notice of the meeting as required
+by Section 24-6-402(2)(c), C.R.S., may be waived by majority vote of a quorum present
+at such emergency meeting as the first item of business.
+C.
+At such emergency meeting, any action within the police power of the Board of Trustees
+necessary for the immediate protection of the public health, safety or welfare may
+be taken, provided that any action taken at an emergency meeting shall be effective
+only until the next regular or special meeting of the Board of Trustees. At such regular
+or special meeting, the emergency issue shall be included in the notice posted pursuant
+to Section 24-6-402(2)(c), C.R.S. At such subsequent meeting the Board of Trustees
+may ratify any emergency action taken. If any emergency action taken is not ratified,
+it shall be deemed to be rescinded. (Ord. 757 §1, 2010)
+Any ordinances, resolutions, orders, rules and regulations promulgated during proclaimed
+state of emergency shall take precedence over existing ordinances, resolutions, rules
+and regulations if a conflict arises. (Ord. 757 §1, 2010)
+To the extent permitted by law and except in the case of willful and wanton misconduct,
+neither the Town nor any of its agencies, agents, employees or representatives, while
+engaging in any disaster response activities, while complying with or attempting to
+comply with the provisions of this Chapter, or with any rules or regulations promulgated
+pursuant to the provisions of this Chapter, shall be liable for the death or injury
+to persons or damage to property as a result of such activities. The provisions of
+this Chapter shall not affect the right of any person to receive benefits which would
+otherwise be available under the workers' compensation law, or under any pension law,
+nor the right of such person to receive any benefit or compensation under any act
+of Congress or the General Assembly of the State. (Ord. 757 §1, 2010)

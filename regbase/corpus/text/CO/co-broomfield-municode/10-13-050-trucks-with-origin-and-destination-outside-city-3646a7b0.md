@@ -1,0 +1,146 @@
+---
+source_id: co-broomfield-municode
+jurisdiction: Broomfield County, CO
+state: CO
+county: Broomfield
+agency: City and County of Broomfield Planning & Development Services
+title: 10-13-050 - Trucks with origin and destination outside city.
+doc_type: code
+citation_root: TITLE 10 - VEHICLES AND TRAFFIC > Chapter 10-13 - Truck Routes > 10-13-050 - Trucks with origin and destination outside city.
+url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT10VETR_CH10-13TRRO_10-13-050TRORDEOUCI"
+sha256: e41f0da47aa8dd0127d4880f8aac0246ca53f19274e915bf025129f842a593d9
+fetched_at: "2026-09-17T15:42:53+00:00"
+---
+
+(A)
+When used in this chapter, the words and phrases deemed shall, for the purposes of
+this chapter, have the meanings respectively ascribed to them in section 10-13-020 .
+(B)
+Whenever any words and phrases used in this chapter are not defined herein, but are
+defined in chapter 10-12 of this title, or in the state laws regulating the operation
+of vehicles, any such definition therein shall be deemed to apply to such words and
+phrases used in this chapter.
+(Ord. 1159 §1, 1996)
+(A)
+Available route means a street, road, or highway dedicated for and open to public motor vehicle travel.
+(B)
+Axle load means the total load transmitted by all wheels on a single or tandem axle extending
+across the full width of the vehicle.
+(C)
+City means the City of Broomfield, Colorado.
+(D)
+Gross weight of vehicle means the sum of all axle loads of a vehicle, including any trailer or trailers connected
+to a vehicle.
+(E)
+High pressure and low pressure pneumatic tires . Every pneumatic tire designed for use and used when inflated with air to less than
+100 pounds of pressure shall be deemed a low pressure pneumatic tire, and every pneumatic
+tire inflated to 100 pounds pressure or more shall be deemed a high pressure pneumatic
+tire.
+(F)
+Person means any person, firm, partnership, association, corporation, company, or organization
+of any kind.
+(G)
+Single axle means all wheels whose centers are included within two parallel transverse vertical
+planes not more than forty inches apart, extending across the full width of the vehicle.
+(H)
+Tandem axle means two or more consecutive axles, the centers of which may be included between
+parallel vertical planes spaced more than forty inches and not more than ninety-six
+inches apart, extending across the full width of the vehicle. Axles which are forty
+inches or less apart shall be considered to be single axles.
+(I)
+Truck means any motor vehicle, except privately owned recreational motor vehicles and mass
+transportation motor vehicles, whose gross vehicle weight exceeds 10,000 pounds.
+(J)
+Truck route means a highway which is part of the National System of Interstate and Defense Highways;
+a state highway; or a highway, street, or road designated in section 10-13-040 and posted as provided in section 10-13-080 , over and along which trucks may operate.
+(Ord. 1159 §1, 1996)
+No person shall operate within the city a vehicle that is in excess of the weight
+limitations for truck routes or the size limitations set forth in this chapter unless
+such person shall have first obtained a permit from Broomfield and the State Department
+of Transportation for such operation. Broomfield permit fees are in the amount of
+$50.00 per vehicle up to ten vehicles or $500.00 for a fleet of ten or more vehicles,
+plus $30.00 per vehicle over ten before transport.
+(Ord. 1159 §1, 1996)
+( Ord. No. 2139 , § 1, 10-27-2020)
+There are established the following truck routes within the city. The axle load of
+trucks operated on these routes shall not exceed ten tons.
+
+Street | From | To
+144 th Avenue | Those sections within the city | 
+State Highway 7 | Those sections within the city | 
+U.S. Highway 287 | Lowell Boulevard | State Highway 121
+U.S. Highway 287 | State Highway 121 | North city limit
+State Highway 121 | South city limit | U.S. Highway 287
+State Highway 128 | State Highway 121 | West city limit
+Huron Street | Those sections within the city | 
+U.S. Highway 36 | Those sections within the city | 
+Interstate 1-25 | Those sections within the city | 
+
+(A)
+All trucks entering the city for destination points outside the city shall be operated
+only on truck routes.
+(B)
+Any person who violates this section shall be punished by a fine as follows:
+(1)
+First offense, $100.00;
+(2)
+Second offense within any twelve consecutive months, $200.00;
+(3)
+Third or subsequent offense within any twelve consecutive months, $300.00.
+(Ord. 1159 §1, 1996)
+(A)
+Except as provided in subsection (B), every truck operated within the city shall proceed
+over a truck route, shall deviate from that route only at the intersection which is
+nearest to a destination point, and shall proceed to the destination point by the
+shortest available route. Upon leaving a destination point, a truck shall return to
+a truck route by a shortest available route, unless the shortest available route to
+the nearest truck route is longer than the shortest available route to the next destination
+point within the city. Upon leaving its last destination point within the city, a
+truck shall return to a truck route by the shortest available route.
+(B)
+Construction traffic within the city shall proceed over a truck route, and shall deviate
+therefrom only on such routes as are designated by council at the time development
+is approved. A construction traffic routing plan must be provided to the city along
+with any required traffic report at the time approval for development is sought. The
+requirement of providing a construction route shall apply retroactively to all developments
+already approved but which are incomplete on the effective date of the initial ordinance
+codified herein.
+(C)
+Any person who violates this section shall be punished by a fine as follows:
+(1)
+First offense, $100.00;
+(2)
+Second offense within any twelve consecutive months, $200.00;
+(3)
+Third or subsequent offense within any twelve consecutive months, $300.00.
+(Ord. 1159 §1, 1996)
+Sections 10-13-040 , 10-13-050 , and 10-13-060 shall not prohibit:
+(A)
+The operation of emergency vehicles upon any street in the city;
+(B)
+The operation of trucks owned or operated by the state, county, or a municipality,
+a public utility, trash removal company licensed to operate within the city in accordance
+with chapter 8-04 , or a contractor engaged in the repair, maintenance, or construction of streets,
+street improvements, or utilities in the city;
+(C)
+The operation of trucks on any street which has been designated by the city as a detour
+from a designated truck route.
+(Ord. 1159 §1, 1996)
+The traffic engineer shall cause all truck routes except highways which are part of
+the National System of Interstate and Defense Highways and state highways to be posted
+with signs identifying them as truck routes. Signs designating a truck route shall
+specify the maximum axle weight permitted on the truck route and, by means of an arrow,
+shall specify the exact course of the truck route. A street, road, or highway is not
+a truck route, or a part thereof, unless posted as such, or unless the highway is
+a state highway or a part of the National System of Interstate and Defense Highways.
+The size of said signs and their manner of posting shall be in accordance with the
+Manual on Uniform Traffic Control Devices, 1978 edition, as amended. State highways
+and highways which are part of the National System of Interstate and Defense Highways
+are truck routes, but need not be posted as such.
+(Ord. 1159 §1, 1996)
+Any person operating a truck upon a street, road, highway, or portion thereof which
+is not a truck route shall have in his or her possession a log book, delivery slip
+or other evidence of his or her points of origin and destination to justify the presence
+of his or her truck upon such street, road, or highway. Failure to produce such evidence
+upon the request of a police officer shall be a Class 3 traffic offense.
+(Ord. 1159 §1, 1996)

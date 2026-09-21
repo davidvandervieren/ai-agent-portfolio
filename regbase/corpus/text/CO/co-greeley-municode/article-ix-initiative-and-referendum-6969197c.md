@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER CITY OF GREELEY, COLORADO > ARTICLE IX. - INITIATIVE AND REFERENDUM
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTICHGRCO_ARTIXINRE"
 sha256: db06200b11d7170cdcf1713de989c860a2bb14810118801d52728372dcc748c1
-fetched_at: "2026-09-17T04:51:26+00:00"
+fetched_at: "2026-09-21T06:29:55+00:00"
 ---
 
 The electors shall have power, known as the initiative, to propose any ordinance,

@@ -1,0 +1,112 @@
+---
+source_id: co-evans-municode
+jurisdiction: Evans, CO
+state: CO
+county: Weld
+municipality: Evans
+agency: City of Evans
+title: 2.38.020 - Definitions.
+doc_type: code
+citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.38 - Unclaimed Property > 2.38.020 - Definitions.
+url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.38UNPR_2.38.020DE"
+sha256: 4842686276ffea23cff2ee38b129b225cc420e340f0f8819a7078b9b01286c0f
+fetched_at: "2026-09-18T21:22:23+00:00"
+---
+
+The purpose of this Chapter is to provide for the administration and disposition of
+unclaimed property which is in the possession of or under the control of the City.
+(Ord. 840-92)
+As used in this Chapter, the following words and phrases are defined as follows:
+City means the City of Evans, Colorado.
+City Manager means the City Manager or designee.
+Owner means a person or entity, including a corporation, partnership, association, governmental
+entity other than this City, or a duly authorized legal representative or successor
+in interest of same, which owns unclaimed intangible property held by the City.
+Unclaimed intangible property means intangible property, including, but not limited to, moneys, checks, drafts,
+deposits, utility deposits, credit balances, customer overpayments, gift certificates,
+refunds, security deposits, unpaid wages, amounts distributable from a trust or custodial
+fund established under an employee benefit plan, and including any income or increment
+derived therefrom, less any lawful charges, that is held by or under the control of
+the City and which has become abandoned consistent with C.R.S. § 38-13-201(1)(j) because
+the property has not been claimed by its owner for a period of one (1) year after
+it became payable or distributable. "Un-claimed intangible property" does not include
+lost or confiscated property as described in Chapter 2.40 of this Code.
+(Ord. 483-10; Ord. 840-92; Ord. 755-22 , § 1, 2022)
+A.
+After property becomes unclaimed intangible property as defined at Section 2.38.020 (D), but prior to disposition, the City Manager shall send notice by U.S. mail to
+the last known address, if any, of any owner of unclaimed intangible property at the
+following times: once within six (6) months of the property becoming unclaimed intangible
+property and once no less than four (4) years from the time the property became unclaimed
+intangible property. The last known address of the owner shall be the last address
+of the owner as shown by the records of the City department or agency holding the
+property and such other address as may be ascertained by the City Manager by searching
+the City of Evans telephone book. In the event the City does not possess a last known
+address, the City shall cause the first notice to be published in a newspaper of general
+circulation. The notice shall include the following:
+1.
+A description of the property;
+2.
+The amount or estimated value of the property;
+3.
+The purpose for which the property was deposited or otherwise held, when available;
+4.
+The location of where the owner may make inquiry of or claim the property; and
+5.
+An advisement that if the owner fails to provide the City Manager with a written claim
+for the return of the property within five (5) years of the date the property became
+unclaimed intangible property, the property shall become the sole property of the
+City and any claim of the owner to such property shall be deemed forfeited.
+B.
+If the City Manager receives no written claim within the above five-year claim period,
+the property shall become the sole property of the City and any claim of the owner
+to such property shall be deemed forfeited. The property or the proceeds of the sale
+thereof shall be placed in the general fund of the City.
+C.
+If the City Manager receives a written claim within the five-year claim period, the
+City Manager shall evaluate the claim and give written notice to the claimant within
+sixty (60) days thereof that the claim has been accepted or denied in whole or in
+part. Failure of the City Manager to give written notice shall be considered a denial
+of the claim. The City Manager may investigate the validity of a claim and may request
+further supporting documentation from the claimant prior to disbursing or refusing
+to disburse the property. If the claim is denied in whole or in part by the City Manager,
+the claimant may request and receive a hearing before a Hearing Officer appointed
+by the City Manager, providing such request for hearing is made in writing to the
+City Manager within fifteen (15) days of mailing of the City Manager's denial to claimant
+or within seventy-five (75) days of submittal of the claim to the City Manager in
+the event the City Manager fails to give written notice in a timely manner. Failure
+of claimant to timely request such a hearing shall bar claimant's recovery.
+D.
+In the event that there is more than one (1) claimant for the same property, the City
+Manager may, in his or her sole discretion, resolve said claims as set forth herein,
+or may resolve such claims by depositing the disputed property with the registry of
+the District Court in an interpleader action. The City Manager may withhold actual
+disbursement of the property until after the elapse of the appeal period set forth
+in subsection C hereof.
+E.
+In the event that all claims filed are denied, the property shall become the sole
+property of the City and any claim of the owner of such property shall be deemed forfeited.
+F.
+Prior to disbursement of any property, the City Manager shall require the owner to
+pay to the City the City's notice and publication costs, if applicable.
+G.
+Any legal action filed challenging a decision of the Hearing Officer shall be tried
+pursuant to Rule 106 of the Colorado Rules of Civil Procedure within thirty (30) days
+of such decision or shall be forever barred. If any legal action is timely filed,
+the property shall be disbursed by the City Manager pursuant to the order of the court
+having jurisdiction over such claim.
+(Ord. 844-92; Ord. 840-92; Ord. 755-22 , § 2, 2022)
+The City shall, consistent with the Revised Uniform Unclaimed Property Act under C.R.S.
+§ 38-13-101 et seq., or as it may be amended from time to time, provide the Colorado
+State Treasurer with an electronically-formatted alphabetical list of owners from
+whom the City holds property that becomes abandoned and is thus unclaimed intangible
+property as defined at Section 2.38.020(D) and consistent with C.R.S. § 38-13-1504,
+or as it may be amended from time to time. The City shall also include, within the
+alphabetical list, the value of the unclaimed intangible property, associated with
+the owner, as defined at Section 2.38.020 (D).
+( Ord. 755-22 , § 3, 2022)
+Editor's note— Ord. 755-22 , § 3, adopted March 1, 2022, repealed § 2.38.040 and enacted a new § 2.38.040 as
+set out herein. The former section pertained to disposition of unclaimed property
+and derived from Ord. 840-92.
+All provisions of Chapter 2.40 of this Title, concerning lost and confiscated property, shall remain in full force
+and effect and nothing contained within this Chapter shall vary the terms thereof.
+(Ord. 840-92)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 18 - STREETS, SIDEWALKS AND PUBLIC PLACES > CHAPTER 7. - NATURAL AREAS AND OFF-STREET TRAILS
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTIICOOR_TIT18STSIPUPL_CH7NAARORETR"
 sha256: 0c6f4359f2114a768fa9478a548240133aace70d8cf7b9425f2fa612049f5512
-fetched_at: "2026-09-17T04:51:58+00:00"
+fetched_at: "2026-09-21T06:33:12+00:00"
 ---
 
 This chapter establishes standards for conduct by the public within city-designated

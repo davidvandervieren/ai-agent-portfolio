@@ -1,0 +1,81 @@
+---
+source_id: co-denver-drmc
+jurisdiction: Denver County, CO
+state: CO
+county: Denver
+agency: City and County of Denver
+title: Sec. 49-247. - Failure to remove; removal by city.
+doc_type: code
+citation_root: Chapter 49 - STREETS, SIDEWALKS AND OTHER PUBLIC WAYS > ARTICLE IX. - ENCUMBRANCES OF THE RIGHT-OF-WAY > Sec. 49-247. - Failure to remove; removal by city.
+url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH49STSIOTPUWA_ARTIXENRI-W_S49-247FARERECI"
+sha256: fe012bb50dc35b576a5e23b60f4d3ea1ee8afa55132369cf56eadd560d26a6d9
+fetched_at: "2026-09-18T00:29:04+00:00"
+---
+
+Editor's note— Ord. No. 757-04, § 1, adopted Oct. 18, 2004 changed the title of article IX from "temporary
+obstructions" to "encumbrances of the right-of-way."
+The manager of transportation and infrastructure or the manager's designee (hereinafter
+in this article, "manager") is authorized to remove or to order the removal of any
+article, vehicle or thing whatsoever encumbering any street, alley, sidewalk, parkway
+or other public way or place (any such thing hereinafter in this article to be called
+an "encumbrance"). The manager may prescribe appropriate methods, specifications,
+placement and materials for encumbrances in the public right-of-way.
+(Code 1950, § 336.1-1; Ord. No. 757-04, § 1, 10-18-04; Ord. No. 39-20, § 109, 2-3-20)
+(a)
+If the manager orders the removal of an encumbrance which has previously been permitted
+or is legally in place in the right-of-way and said encumbrance is not removed within
+a reasonable time after notice to the owner or person in charge thereof under, such
+time to be specified in the notice, or if the owner or person in charge cannot be
+readily found for the purpose of serving such notice, the manager shall cause the
+encumbrance to be removed.
+(b)
+If the manager orders the removal of an encumbrance which has not previously been
+permitted, or is not legally in the right-of-way, said encumbrance shall be immediately
+removed by the owner or the manager may immediately remove said encumbrance.
+(c)
+Notwithstanding the above, the manager may, without notice to the owner, immediately
+remove any non-permitted, illegal encumbrance without notice to the owner.
+(Code 1950, § 336.1-2; Ord. No. 757-04, § 1, 10-18-04)
+It shall be the duty of all members of the police department to report to the manager
+such encumbrances and to remove the same in accordance with the provisions hereof.
+(Code 1950, § 336.1-3; Ord. No. 757-04, § 1, 10-18-04)
+The owner of any non-permitted encumbrance removed under the provisions of this article,
+or the owner of a permitted encumbrance who fails to remove it as required by section 49-247 (a), above, shall pay the costs of such removal and shall forfeit an administrative
+penalty of not more than nine hundred ninety-nine dollars ($999.00) in addition to
+the costs of such removal.
+(Code 1950, § 336.2; Ord. No. 757-04, § 1, 10-18-04)
+(a)
+Any encumbrance which may be removed in accordance with this article, if of sufficient
+value, to more than pay the expenses thereof, may be advertised ten (10) days in the
+official newspaper of the city and sold by the manager unless the same shall be sooner
+reclaimed, and the penalty and costs, including the costs of advertising, if any,
+paid by the owner thereof.
+(b)
+The proceeds of such sale shall be paid into the treasury, and the balance, if any,
+after deducting the penalty and costs shall be refunded to the person furnishing proof
+of ownership satisfactory to the manager, provided proof is made within six (6) months
+after such sale.
+(Code 1950, § 336.3; Ord. No. 757-04, § 1, 10-18-04)
+Any person who places an encumbrance in the right-of-way agrees that the act of doing
+so acknowledges the duty to hold the city harmless and indemnify the city from any
+damages or claims arising out of said placement.
+(Ord. No. 757-04, § 1, 10-18-04)
+A lien may be placed on the real property of an owner who fails to pay the costs and
+penalties specified in section 49-249 , unless those costs and penalties are recovered under section 49-250 .
+(Ord. No. 757-04, § 1, 10-18-04)
+The manager may dispose of any item not meeting the criteria of section 49-250 , above in any manner the manager deems appropriate, including treating the encumbrance
+as trash.
+(Ord. No. 757-04, § 1, 10-18-04)
+(a)
+It shall be unlawful to utilize any street, alley, sidewalk, parkway or other public
+place for the storage of goods, wares or merchandise.
+(b)
+Goods, wares and merchandise being received or shipped, not including vehicles, may
+remain on a sidewalk no longer than is necessary for loading or unloading purposes,
+provided a minimum of five (5) feet of sidewalk remains available for pedestrian traffic,
+and for these purposes such goods, wares and merchandise may be placed only along
+the four (4) feet of either the outer or the inner edge of the sidewalk in front of
+the establishment receiving or shipping same.
+(Code 1950, § 336.4; Ord. No. 757-04, § 1, 10-18-04)
+Editor's note— Ord. No. 757-04, § 1, adopted Oct. 18, 2004, added new sections 49-251—49-253 and
+renumbered former section 49-251 as new section 49-254.

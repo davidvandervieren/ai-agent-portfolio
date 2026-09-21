@@ -1,0 +1,944 @@
+---
+source_id: co-evans-municode
+jurisdiction: Evans, CO
+state: CO
+county: Weld
+municipality: Evans
+agency: City of Evans
+title: 18.09.040 - Exemptions.
+doc_type: code
+citation_root: TITLE 18 - Land Development Code > CHAPTER 18.09 - Signs > 18.09.040 - Exemptions.
+url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT18LADECO_CH18.09SI_18.09.040EX"
+sha256: 4b7388d3a2ff54510a1ddd0a5a0fc3b2aa62468ceecf3fc3d944b28d9cce326b
+fetched_at: "2026-09-18T21:51:44+00:00"
+---
+
+Editor's note— Ord. 745-21 , § 1, adopted July 6, 2021, repealed Ch. 18.09 in its entirety and enacted a new
+Ch. 18.09 to read as herein set out. Former Ch. 18.09, §§ 18.09.010—18.09.150, pertained
+to similar subject matter and derived from Ord. 698-19 , adopted July 16, 2019.
+The intent of the sign standards is to:
+A.
+Create an attractive aesthetic environment in the City.
+B.
+Enhance the quality and civic design of the community through the visual priority
+of buildings, streetscapes, open spaces, landscapes, and other investments in the
+public realm.
+C.
+Ensure that signs preserve and contribute to the unique character of distinct places
+and districts.
+D.
+Promote safety of pedestrians, motorists or other users of the public rights-of-way
+with proper location, construction, design, operation and maintenance of signs.
+E.
+Improve economic viability by assuring that the City is a visually pleasant place
+to visit, conduct business, and live.
+F.
+Provide effective identification and communication for businesses, institutions, and
+other community destinations without excessive competition for visual attention.
+G.
+Protect property values and investments by minimizing adverse effects of signs on
+adjacent property, such as obstructing views and access, glare, or visual clutter
+and blight.
+H.
+Ensure that the constitutionally guaranteed right of free speech is protected through
+appropriate standards for signs as a way of public communication.
+( Ord. 745-21 , § 1, 2021)
+A.
+General applicability. The standards in this Chapter shall apply to all signs except:
+1.
+Legal non-conforming signs, subject to the provisions in 18.05.040 .
+2.
+Signs exempt from standards, as specified in 18.09.040 .
+B.
+Interpretation. Whenever two or more provisions of this Chapter cover the same subject
+matter, whichever is the most restrictive or imposes the higher standard or requirements
+shall govern.
+C.
+Permit required. A permit shall be required for all signs to ensure compliance with
+these sign standards except as provided in parts 1, 2 and 3 below. A permit application
+shall include plans and specifications demonstrating compliance with all applicable
+standards of the Land Development Code, Title 18 . The property owner or the owner's authorized agent shall be required to sign the
+permit application. Specific sign types may require additional permits demonstrating
+compliance with other codes such as building codes or electrical codes to be determined
+by the Building Department. The sign permit application shall be reviewed and approved
+by the Community Development Director or their designee. The following activities
+do not require a sign permit:
+1.
+Signs exempt from a sign permit, as specified in 18.09.040 .
+2.
+Ordinary maintenance, care or repair of existing signs meeting these standards without
+altering the size, materials, location or other essential design characteristics or
+construction elements of the sign.
+3.
+The change of copy or content, change of sign panels, or similar changes to an existing
+sign that conforms to these standards, provided there is no change in the size, materials,
+sign structure, or other essential design characteristics of the sign.
+( Ord. 745-21 , § 1, 2021)
+A.
+Definitions. The following terms shall have the specific meaning given below for interpreting
+this Chapter:
+Accessory wall sign means a sign that has less importance and prominence than the main sign on the wall
+in size, location, and design emphasis.
+Address sign means a permanent sign that gives the address or name of a building or residence,
+used for general reference or emergency purposes.
+Building name plate sign means a permanent sign, tablet, cornerstone or plaque memorializing a person, event,
+structure or landmark, or otherwise emphasizing the permanence or importance of the
+building or site.
+Changeable copy sign means a sign or portion of a sign that can be easily changed manually or electronically
+for the purpose of displaying frequently changing information incidental to the property
+use or activity.
+Comprehensive sign plan means a graphic representation, including plans and elevations, showing all signage
+proposed for a multi-tenant building, multi-tenant center or subdivision.
+Construction sign means a temporary sign associated with commercial or non-residential construction
+projects under a valid building permit.
+Dilapidated sign means any sign, sign structure, or associated grounds with broken, cracked or discolored
+display panels, broken, bent, corroded or discolored support structure or frame, torn
+or discolored material or that is otherwise unreadable under normal viewing circumstances;
+any sign or portion thereof that exhibits visually obvious conditions of poor maintenance;
+faded, broken or missing panels or general deterioration; any sign or portion thereof
+that has been damaged by fire, earthquake, wind, flood or any other cause, to such
+an extent that the structural strength or stability thereof is materially less than
+it was before such cause.
+Flag means a piece of cloth of distinctive color and design, used as a symbol, standard,
+signal or emblem, representative of an organization, government, institution or principle.
+Foot-candle means a measure of illuminance, or amount of light projecting to a point at a distance
+from the light source, that is lumens per square foot.
+Foot-lambert means a measure of luminance, or the brightness at the object creating a light source,
+that is candles per square foot.
+Freestanding sign means a permanent, self-supporting sign attached to the ground, rather than to a
+structure, by means of one (1) or more columns, uprights, poles or braces in or upon
+the ground.
+Frontage, building means the face of the building providing main vehicular and/or pedestrian access
+and/or the primary orientation of the building.
+Frontage, street means the portion of a lot adjacent to the right-of-way, excluding alley frontage.
+Gateway sign means a sign signifying an important entry or transition into a distinct area or
+otherwise identifying a significant destination in the community.
+Illumination means a method of lighting signs at night or in other low-light conditions, which
+may be internal - where the light source is in the sign makes a translucent portion
+of the sign visible; external - where light source is outside of the sign and directed
+to the sign face; or direct - where the light source is a part of the sign.
+Incidental sign means a permanent, on-site sign associated with the operation and use of the property
+and necessary or convenient for visitors, clients or customers entering a site.
+Monument sign means an on-site sign attached to the ground by a structure with a wide base integral
+with the sign structure or otherwise attached to structures integrated into the landscape
+design.
+Multi-tenant sign means a permanent, freestanding sign displaying the name of each occupant in a multi-tenant
+building or multi-tenant center.
+Pedestrian sign means a sign with a design and scale to be legible to pedestrians in front of or
+immediately adjacent to the building, sidewalk or other areas of the site where people
+will be active. A pedestrian sign may be a freestanding (mounted on a support structure
+on the ground) wall sign (mounted on a wall, projecting from a wall, hanging from
+a canopy or mounted on an awning) or a window sign, (mounted in and visible from a
+window or door opening).
+Permanent sign means a sign attached to a permanent structure or the ground and made of durable
+materials and intended to exist for the duration of the time that the business, product,
+service, event or activity is located on the lot.
+Pole sign means a self-supporting, permanent sign mounted on one (1) or more freestanding poles,
+columns or similar support.
+Sign means any device, display, figure, painting, drawing, message, placard, poster, billboard,
+structure or any other contrivance designed, intended or used to attract attention,
+convey a message, advertise or to give information in the nature of advertising, including
+all necessary supports, brackets, framework, structural components and similar equipment
+whether or not actual graphics are attached or in place, and that is visible from
+the travel way of any public right-of-way.
+Sign face means the surface area upon which a message is displayed, including any perimeter
+frame used to support such surface area, but not including the support structure or
+base of a freestanding sign.
+Temporary sign means a sign that is intended to be displayed for a limited period of time, a sign
+that is mobile and easily placed and removed, or a sign that is made out of materials
+that will not endure elements of weather or other ambient conditions, or any combination
+of these factors.
+Wall means the exterior face of any building, including but not limited to mansards, parapets,
+doors and similar architectural features, excluding windows, that are nearly perpendicular
+to the surrounding grade, or at seventy-five-degree to one hundred ten-degree angles
+as measured from the surrounding grade, that have the capability of being seen from
+public right-of-way.
+Wall area means the portion of a vertical plane of a building owned or leased by a business,
+including any windows or gables, but not including any roof area.
+Wall sign means a sign with its backing affixed flush to an exterior wall of a building or
+mounted [on] any accessory element of a building such as an awning or canopy.
+Window sign means a sign posted, painted, placed or affixed to the interior or within three (3)
+feet inside of an exterior window.
+B.
+Interpretation. The following shall be used in interpreting dimensional standards
+for signs:
+1.
+General area calculation. All applicants for a sign permit shall provide the surface
+area of the sign in square feet on the permit, providing methods and measurements
+for the calculation. Signs mounted on or displayed as a standard geometrical shape
+shall be measured by the standard mathematical formula for that shape. Signs mounted
+on or displayed as an irregular shape shall be measured by the smallest area of up
+to two (2) standard geometrical shapes that can encompass the entire sign mounting.
+2.
+Freestanding signs. The area of the sign shall be computed by the entire area of the
+face of the structure, cabinet or module enclosed by the border of the frame.
+3.
+Wall, window or other building-mounted signs. Any building mounted sign mounted on
+a background shall be measured by the area of the background. If mounted directly
+on the wall, the area shall be computed by means of the smallest single and continuous
+perimeter of up to two (2) standard geometric shapes that enclose the outer limits
+of the writing, emblem or other display. Gaps in writing, emblems or other display
+which are greater than two (2) times the height of the sign area, when using the same
+single continuous perimeter above, may be subtracted from the calculation of the sign
+area but shall be interpreted as two (2) signs. The area of the wall or window area
+for the purposes of determining an allowed percentage shall be the total surface of
+the wall or window visible in an elevation view.
+4.
+Decorative elements. Embellishments such as pole covers, framing, decorative roofing
+and support structures shall not be included in the area of the measurement if they
+contain no writing, emblem or other display.
+5.
+Double-faced signs. Where the sign faces of a double-faced sign are no more than three
+(3) feet apart at any location, only one (1) face will be measured in computing sign
+area. If the two (2) faces of a double-faced sign are of unequal area, the area of
+the sign will be the area of the larger face. In all other cases, the areas of all
+faces of a multi-faced sign or the surface area of objects will be added together
+to compute the area of the sign.
+6.
+Height. Sign height is measured from the existing lowest grade directly below the
+sign to the highest point on the sign or sign structure.
+7.
+Clearance. Sign clearance is measured from the highest point of the ground directly
+below the sign to the lowest point on the sign structure enclosing the sign face.
+( Ord. 745-21 , § 1, 2021)
+The following signs are exempt from the sign permit process provided the sign meets
+all other applicable requirements of this Chapter. Unless specifically noted, exempt
+signs do not count towards the sign allowance specified for applicable the zoning
+district.
+A.
+Property identification signs. Signs clearly indicating the property address or building
+identification are encouraged to enhance the ability of public safety, emergency services
+personnel, and the general public to locate the property. Property identification
+signs shall be visible from the right-of-way and are subject to the following limitations:
+1.
+Address signs. Two (2) per address up to two (2) square feet each, only one (1) of
+which may be ground mounted. Address signs on buildings shall be between four (4)
+feet and twelve (12) feet high. Ground-mounted address signs shall be no more than
+thirty-six (36) inches high.
+2.
+Building name plate. Each building or site may have one (1) name plate sign per street
+front, up to nine (9) square feet. Building name plate signs shall be associated with
+the permanence or significance of the building or site, rather than a particular tenant,
+and include designs such as engraved stone, bronze plates or similar ornamental detail
+integrated with the architecture of the building or landscape of the site.
+B.
+Public safety, traffic control or public information. Signs designed and located to
+control traffic movement and safety of vehicles and pedestrians according to uniform
+traffic control device standards, signs required by the City's Building or Fire Code,
+or signs otherwise required to support any official action or legal obligation of
+a federal, state or local government, may be designed and located to meet the public
+purposes or requirements of other codes.
+C.
+Flags. Up to three (3) non-commercial flags may be permitted per lot. Flags shall
+be mounted to the building and below the building height or mounted on a permanent
+pole subject to the building height limit of the zoning district and setback from
+the property line a distance equal to the actual height of the flag pole. Total flag
+area per property shall not exceed eighty (80) square feet and no more than forty
+(40) square feet per flag for property zoned residential, and shall not exceed two
+hundred (200) square feet or one hundred (100) square feet per flag for property zoned
+non-residential.
+D.
+Window signs. Signs may be mounted to the interior of any first floor windows in non-residential
+districts, provided signs shall not exceed more than twenty-five percent (25%) of
+the area of all first floor windows, measured between two (2) feet and ten (10) feet
+above the first floor elevation, and provided at least fifty percent (50%) of the
+window the sign is mounted on remains clear of any visual obstructions including the
+sign area.
+E.
+Temporary signs. Temporary signs are exempt from the sign permit process, provided
+they are within the allowances specified for the zoning district in standards in 18.09.050 and 18.09.060 .
+F.
+Incidental signs. Incidental signs for non-residential uses or multi-family complexes,
+which are intended to convey messages to guests, patrons, or other users of the lot,
+such as parking instructions, internal directions, building names or unit numbers,
+security warnings, or other similar minor signs that are accessory, are limited to:
+1.
+No more than ten (10) square feet total sign allowance per lot, or thirty (30) square
+feet per acre, whichever is greater.
+2.
+No single sign may be more than three (3) square feet, or nine (9) square feet for
+lots more than one (1) acre.
+3.
+Signs shall be no more than six (6) feet high if ground mounted or twelve (12) feet
+high if mounted on a building;
+4.
+Signs shall be setback at least ten (10) feet from all property lines; and
+5.
+Grouping or arranging accessory signs to have the effect of a larger permitted sign
+or to convey messages and increase visibility to the general public (as opposed to
+guests, patrons or other users of the site) makes all signs in the grouping ineligible
+for this exemption.
+G.
+Construction signs. Signs associated with a temporary non-residential or multi-family
+construction project under a valid permit such as approval for either a land use permit
+or a grading permit for example, are limited to:
+1.
+Up to eighty (80) square feet total sign allowance per public street frontage;
+2.
+No more than three (3) signs per street frontage;
+3.
+Signs shall be mounted on a trailer, building or fence, or if mounted on the ground
+it shall be limited to no more than ten (10) feet high; and
+4.
+The signs shall only be posted for the duration of a valid permit associated with
+the project.
+Construction signs for single-family and two-family structures in the residential
+zoning districts are required to meet the applicable temporary sign standards for
+those districts.
+H.
+Interior signs. Any sign that is not visible from the right-of-way, from any point
+along the perimeter of the property or from adjacent property, or from publicly accessible
+common spaces intended to serve as an extension of public-streets and open spaces.
+Interior signs are exempt from permits and the standards of this Chapter, other than
+those applicable by building and fire codes or construction standards.
+( Ord. 745-21 , § 1, 2021)
+A.
+Sign types.
+B.
+Sign allowances. The following signs are permitted in the residential zoning districts
+(AG, R1E, R1, R2, R3, R, MFH, and RMH), and for any residential building or use, as
+permitted in a non-residential district. All Planned Unit Developments containing
+a residential component will also follow these standards.
+
+Table 18.09-1: Residential District Sign Allowances
+Wall Signs | Permitted principal non-residential or multi-family uses (i.e. school, church, community
+center, apartments):
+| • Total Allowance: 5% of facade
+| • Size: maximum of 50 square feet per sign
+| Quantity: 2 per building, but no more than 1 per wall
+Freestanding Signs | Permitted principal non-residential or multi-family uses (i.e. school, church, community
+center, apartments):
+| • Size: maximum 32 square feet
+| • Quantity: 1 per street frontage over 100' of frontage
+| • Setback: 10' from flow line, and on private property, whichever is greater
+| • Height: 6' high maximum
+Residential property may be permitted a Gateway Sign as provided in 18.09.080.F
+Temporary Signs | • Total Allowance:
+| ◦ Lots with less than 100' of street frontage - 24 square feet.
+| ◦ Lots with 100' of street frontage or more -, 0.15 square feet for every 1' of street
+frontage, up to a maximum of 48 square feet per lot.
+• Size per sign:
+| ◦ Lots with less than 100' of street frontage - 9 square feet maximum.
+| ◦ Lots with 100' to 200' of street frontage - 16 square feet maximum.
+| ◦ Lots with over 200' of street frontage - 24 square feet maximum.
+• Height:
+| ◦ Ground-mounted signs - 5' high maximum.
+| ◦ Building-mounted signs - no higher than 20' or top of the roof, whichever is less.
+• Duration: 120 day limit per sign; 90 day limit when two or more signs are displayed.
+Pedestrian Sign | Permitted principal non-residential or multi-family uses (i.e. school, church, community
+center, apartments):
+| • Quantity: 1 per each public building entrance
+| • Size: 12 square feet maximum
+| • Location: Mounted on a wall within 10' of the entrance, or mounted on the ground within 20'
+of the entrance feature; Pedestrian signs shall be no taller than 5 feet.
+
+( Ord. 745-21 , § 1, 2021)
+A.
+Sign types.
+B.
+Sign allowances. The following signs are permitted in the non-residential zoning districts
+(PF, C1, C2, C3, I1, I2, I3, 85-O, 85-RC-A, 85-RC-N, 85-RC-R). All Planned Unit Developments
+containing a non-residential component will also follow these standards.
+
+Table 18.09-2: Commercial District Sign Allowances
+Wall Signs | • Total Allowance: Total square foot allowance based on the primary building frontage along the following
+street classifications:
+| ◦ Local: 1.5 square feet for each 1' of building frontage;
+| ◦ Collector 2 square feet for each 1' of building frontage;
+| ◦ Arterial 2.5 square feet for each 1' of building frontage;
+| ◦ Highway or Frontage Road: 2.5 square feet for each 1' of building frontage;
+• Size: 200 square feet maximum for any one sign
+• Quantity: 1 per wall, plus up to 3 accessory signs. Accessory signs count toward the total
+sign allowance and are limited to no more than 20% of the total wall sign allowance
+each.
+• Height: No taller than the wall for flat roofs, or no taller than the roof deck or eave line
+for pitched roofs
+Freestanding Signs | • Total Allowance: Total square foot allowance based on the lot frontage along street classifications:
+| ◦ Local: 1 square feet for each 1' of frontage; 150 square feet maximum
+| ◦ Collector 1.15 square feet for each 1' of frontage; 300 square feet maximum
+| ◦ Arterial 1.25 square feet for each 1' of frontage; 450 square feet maximum
+| ◦ Highway or Frontage Road: 1.5 square feet for each 1' of frontage; 600 square feet
+maximum
+• Size: 125 square feet maximum for any one sign
+• Setback: 10' from flow line, and on private property, whichever is greater
+• Height: 12' generally; except:
+| ◦ Up to 16' if setback at least 16'
+| ◦ Up to 25' abutting a U.S. Highway, West Service Road, or 8th Avenue
+| ◦ Up to 35' if setback at least 35' and abutting a U.S. Highway, West Service Road,
+or 8th Avenue
+• Minimum Separation:
+| ◦ Pole signs: 50' from any pole sign on adjacent lot; 250' from any pole sign on same
+lot
+| ◦ Monument signs: 50' from any sign on adjacent lot; 100' from any other monument
+sign.
+• Freestanding Sign allowances may be allocated to a Gateway Sign as provided in Section
+18.09.080.F.
+Temporary Signs | • Total Allowance: 25 square feet total sign allowance, or 0.25 square feet for every 1' of street frontage
+for lots over 100' of frontage, up to a maximum of 100 square feet
+• Size: 16 square feet maximum for any one sign; 32 square feet for lots 100' to 200' of
+frontage; 48 square feet per sign for lots with over 200' of frontage
+• Height: 5' high maximum; or no higher than 20' or top of the roof, whichever is less if mounted
+on a building.
+• Duration: 120 day limit per sign; 90 day limit for period where more than 2 signs displayed.
+Pedestrian Signs | Frontage Signs
+• Quantity: 1 per 50 feet of building frontage, or 1 per storefront tenant, whichever is greater.
+• Size: 6 square feet maximum
+• Location: Mounted directly on the surface of the wall, awning or canopy, or if hanging below,
+at least 7' 6" clear from the sidewalk below the sign.
+Building Entrance Signs
+• Quantity: 1 per primary business entrance
+• Size: 8 square feet maximum
+• Location: Mounted flush to the wall, or if projecting may project up to 4' off the wall but
+must be at least 7'6" clear form the sidewalk below the sign, and shall be within
+10' of the entrance.
+
+( Ord. 745-21 , § 1, 2021)
+A.
+Public health, safety and maintenance.
+1.
+All signs shall be designed, constructed, located and maintained in a manner that
+is compliant with all other building and fire codes, and in no way presents any potential
+risk to public safety in the judgment of the Building Official, Fire Chief or the
+Community Development Director, or their designee.
+2.
+No sign shall imitate or resemble government signs for traffic direction or any other
+public safety symbol.
+3.
+No sign shall be placed in any sight distance triangle applicable to public streets,
+internal access streets, or driveway access points using the sight distance provisions
+of Section 15.58 Sight Distance of the Municipal Code.
+4.
+No sign shall be placed within five (5) feet of a fire hydrant.
+5.
+Any sign projecting over a walkway or other active area in front of a building or
+other area where people may walk shall maintain at least seven (7) feet six (6) inches
+vertical clearance.
+6.
+All signs and any surrounding grounds or landscape, shall be maintained in good condition,
+free of any debris, weeds, disrepair or other unsightly conditions.
+7.
+No sign, sign structure, or associated grounds shall present any dilapidated state
+or condition, or present any other property maintenance issues that may impact the
+appearance of the property from the public right-of-way or from adjacent property.
+B.
+Specific designs prohibited.
+1.
+No sign shall be placed on any vehicle or trailer, when such vehicle or trailer is
+placed or parked visible from the right-of-way, and the sign deviates from the standards
+or criteria of this Chapter.
+2.
+No sign shall be attached to any public utility pole or shall be installed within
+the right-of-way of a public road or street, except as permitted by the City or where
+specifically exempt from the right-of-way prohibition by this Chapter.
+3.
+No sign shall include balloons, streamers, pennants or other air activated elements
+and animated elements, whether animated by mechanical, electrical, or environmental
+means.
+4.
+Any sign with a business message shall be located on the lot of the business activity,
+except gateway signs, which must be associated with the site and located in common
+areas controlled by the businesses or property owners associations.
+5.
+Changeable copy portions of signs shall not exceed thirty-two (32) square feet, and
+be limited to one (1) sign per business or institution. Except for Electronic Message
+Centers as provided in 18.09.080.E.
+C.
+Illumination.
+1.
+Any illumination shall be designed to eliminate negative impacts on surrounding rights-of-way
+and properties. In general, any direct source of light shall not be visible from the
+public street or adjacent residential property.
+2.
+External light sources shall be directed and shielded to limit direct illumination
+of any object other than the sign.
+3.
+Light from an illuminated sign shall not spill onto adjacent properties. The light
+reading at any point within ten (10) feet from and adjacent private property shall
+be less than one (1) foot-candle.
+4.
+No light source shall cause any glare, movement or other distraction to traffic.
+5.
+Exposed incandescent, neon or other tube lighting shall be limited to window signs
+mounted to the inside of the building, or as an accent of less than 10 percent (10%)
+of the sign area of other signs.
+5.
+Signs within one hundred (100) feet and visible from any property used for single-family
+or two-family residential shall not be internally or directly illuminated between
+the hours of 10:00 p.m. and 6:00 a.m.
+( Ord. 745-21 , § 1, 2021)
+The standards in this sections are supplemental standards, in addition to the general
+standards in Tables 18.09-1 and 18.09-2 and applicable to specific sign types.
+A.
+Monument signs. Monument signs are subject to the following additional limitations:
+1.
+Monument signs shall be located within a landscape area at least three (3) feet in
+all directions from the base of the sign.
+2.
+Monument signs shall have a base at least seventy-five percent (75%) of the width
+of the widest part of the sign. The base shall not count as part of the sign area
+provided it contains no messages or other component of the sign and is otherwise integrated
+into the site as a landscape feature.
+3.
+All monument signs and bases shall be constructed with durable, quality materials
+that complement the building and other site elements in terms of material, colors,
+and ornamentation.
+4.
+All monument signs shall be accompanied by a landscape plan that integrates the sign
+area into the overall site, softens the view and appearance of the structural elements,
+and otherwise improves the view of the sign and property from the streetscape.
+B.
+Wall signs. Wall signs are subject to the following additional limitations:
+1.
+Signs attached to a building shall not extend vertically above the highest portion
+of the wall plane of the facade it is mounted on or the roofline, whichever is less.
+No portion of a building wall may be built above the roofline, that serves no other
+structural or architectural purpose, other than to mount a sign or expand the sign
+area allowance.
+2.
+Signs attached to a building shall not project more than twelve (12) inches off the
+surface it is mounted on unless specifically exempt from this limit by this Chapter.
+3.
+Wall signs may project from and be perpendicular to the wall provided:
+a.
+Only one (1) projecting sign is permitted per building
+b.
+The sign is no larger than sixteen (16) square feet.
+c.
+Each sign face counts to the wall sign allowance.
+d.
+The sign projects no more than five (5) feet from the wall and is at least eight (8)
+feet above grade.
+C.
+Temporary signs. Temporary signs are subject to the following additional limitations:
+1.
+Any temporary sign shall be placed with the permission of the property owner, and
+it is the responsibility of the person placing the sign and the property owner to
+ensure the sign meets all standards and is removed when the applicable display time
+limit has expired.
+2.
+Temporary signs shall not be illuminated or painted with a light-reflecting paint.
+3.
+Temporary signs shall be constructed of rigid material, designed to resist quick deterioration
+from the elements, and securely anchored so as not to pose a distraction or hazard
+to drivers. Non-rigid materials (such as banners) shall be secured by a support or
+frame to avoid distraction of flapping and set back at least twenty (20) feet from
+the pavement edge of the fronting roadway, or may be attached securely to a building
+or structure.
+4.
+No temporary sign shall be displayed for more than one hundred twenty (120) consecutive
+days, without thirty (30) days intervening.
+5.
+The period of time when a property has more than two (2) temporary signs displayed
+shall not be more than ninety (90) days in a calendar year.
+6.
+Relocation of a temporary sign, removal of the sign for a short period, or removal
+and replacement with a substantially similar sign does not expand the time period
+for the temporary sign.
+7.
+The Community Development Director, or their designee, shall be authorized to require
+the removal of any temporary sign that pertains to an expired event or refrain from
+enforcement any temporary sign related to an event that has been unexpectedly extended
+beyond the control of the owner.
+D.
+Multi-tenant buildings and sites.
+1.
+All signs for multi-tenant buildings or sites shall require Sign Plan and Permit approved
+by the Community Development Director or their designee according to these standards
+and criteria.
+2.
+The sign plan shall demonstrate coordination of all signs on the building, allow sufficient
+flexibility for the replacement of signs or new tenants without the need for a new
+sign plan, unless a completely new sign design concept is proposed for the entire
+building or site.
+3.
+The wall sign allowance may be apportioned to any tenant with a separate exterior
+entrance. In the case where all tenants share a common entrance the wall sign allowance
+may be apportioned to no more than two (2) signs per facade.
+4.
+The monument sign allowance for the building(s) and site shall meet the standards
+of 18.09.080.A, however the copy within the allowed sign may be apportioned to multiple
+tenants.
+5.
+The Community Development Director or their designee shall consider the intent of
+this Chapter and the objectives of the Design Guidelines in Section 18.09.100 in approving a Sign Plan and Permit. Deviations from the specific design guidelines
+or standards may be only approved through a Comprehensive Sign Plan specified in Section 18.09.090 .
+E.
+Electronic message signs. Electronic message signs are subject to the following additional
+limitations:
+1.
+Limited to properties with nonresidential uses.
+2.
+Limited to one (1) per lot.
+3.
+The visible sign face shall be setback at least two hundred fifty (250) feet from
+any adjacent residentially zoned property.
+4.
+Electronic message signs are only permitted on monument signs.
+5.
+The electronic portion/digital display area shall be limited to no more than fifty
+percent (50%) of the allowable sign area for any individual sign, not to exceed thirty-two
+(32) square feet, whichever is less.
+6.
+There shall be a maximum of three (3) colors used on each digital display.
+7.
+Automatic dimming controls shall limit the illumination to no more than one hundred
+fifty (150) foot-lamberts at the sign surface at night or during low light times and
+at any point between sunset and sunrise, and no more than two thousand (2,000) foot-lamberts
+at the brightest daylight period.
+8.
+Only static display is permitted with at least eight (8) seconds between changes in
+display and no more than two (2) seconds for transitions. No scrolling, flashing or
+animated transitions shall occur.
+F.
+Gateway signs. Larger commercial properties and residential neighborhoods may be permitted
+gateway signs as provided in this section.
+1.
+Non-residential gateway signs. Non-residential projects, through a Comprehensive Sign
+Plan, may allocate the allowed freestanding sign allowance to a gateway sign subject
+to the following:
+a.
+Gateway signs shall meet the monument sign standards
+b.
+Maximum height shall be no more than sixteen (16) feet.
+c.
+Gateway signs shall be set back from the lot or parcel line at least ten (10) feet,
+or at least the same as its height, whichever is greater.
+d.
+Maximum area shall be no more than two hundred (200) square feet per sign
+e.
+No more than one (1) gateway sign per entrance and one (1) per street intersection.
+f.
+Gateways signs shall be located at least two hundred (200) feet from any other freestanding
+sign.
+g.
+Gateway signs shall be located on the site of the non-residential use, or in a common
+area owned and controlled by a property or business association of the non-residential
+uses, provided there is a business or property owner's association to ensure on-going
+maintenance of the sign and landscape.
+2.
+Residential gateway signs. Residential projects with more than twenty (20) lots or
+more than five (5) acres may be allowed a gateway sign subject to the following standards:
+a.
+All residential gateway signs shall be monument signs, no higher than six (6) feet
+b.
+Gateway signs shall be limited to no more than two (2) per entrance from a collector
+or arterial street, provided the entrances are separated by at least three hundred
+(300) feet.
+c.
+Gateway signs shall be limited to:
+(1)
+Twenty-four (24) square feet for entrances on a collector street;
+(2)
+Forty-eight (48) square feet for entrances on an arterial street.
+d.
+Gateway signs shall be set back from the lot or parcel line at least ten (10) feet,
+or at least the same as its height, whichever is greater.
+e.
+Gateway signs shall be located on the site of the residential use, or in a common
+area owned and controlled by a property or business association of the residential
+uses, provided there is a property manager or homeowner's association to ensure on-going
+maintenance of the sign and landscape.
+G.
+Portable pedestrian signs. Portable pedestrian signs ("A frame", "sandwich board"
+or "T-frame") may be placed in the public right-of-way, or areas a site associated
+with a service areas, for any permitted retail use provided:
+1.
+The sign is placed within twenty (20) feet of the main entrance of the building or
+service area of a business.
+2.
+The sign is no larger than eight (8) square feet and no taller than four (4) feet
+high, and otherwise subject to the Pedestrian Sign limitations for the use, building
+and site.
+3.
+The sign is placed on or near a sidewalk, and otherwise associated with pedestrian
+routes to and from the business. The sign shall maintain at least six (6) feet clear
+passage for pedestrians on the sidewalk, and is otherwise not put in any location
+that creates visual obstructions or safety hazards for users of the right-of-way.
+4.
+The sign is removed and brought inside during non-business hours.
+5.
+The sign is designed with durable materials and quality aesthetics for use on a recurring
+basis. Although changeable copy can be included as part of the design, such as chalkboards,
+signs designed as "temporary signs" are not eligible as a portable pedestrian signs,
+and the allowance for signs in the right-of-way specifically does not apply to any
+temporary sign.
+6.
+Any sign associated with mobile vendors or temporary structures shall only be placed
+in coordination with the standards of Section 18.05.030.D.5.
+( Ord. 804-23 , § 3, 2023; Ord. 745-21 , § 1, 2021)
+Shopping centers, office parks or other multi-tenant non-residential projects with
+four (4) or more buildings or five (5) or more acres, or any PUD zoning, may propose
+a property specific sign plan. The sign package shall be based on the intent, types
+of signs, and standards of this Chapter, but the Planning Commission or City Council
+may approve deviations to these standards, associated with other land development
+approvals, where they find that the specific sign plan meets the following criteria:
+A.
+Promotes a unique character for the area, and improves the image and identity of the
+project as it relates to the surrounding community. In particular, the plan considers:
+1.
+Impacts and relationships to adjacent property not subject to the plan.
+2.
+Coordination with streetscapes, including pedestrian or traffic qualities of a particular
+street.
+3.
+Integration with the architecture of the buildings or other landscape and site design
+components of the site.
+4.
+Any deviations from these standards, and particularly those for the size, quantity,
+or location of signs, clearly meet the intent of this Chapter.
+5.
+Conformance with the Design Guidelines in Section 18.09.100 .
+B.
+Presents uniform designs to coordinate multiple components of the project, and where
+there are distinctions in the type and design of the signs, they are well-coordinated
+in light of the overall plan.
+C.
+The plan has clear and explicit standards for the size, location, design and quality
+of the signs, and it anticipates future tenants or changes in tenants without requiring
+amendments to the plan.
+D.
+The property owner or landlord has authorized the plan, and any changes to the plan
+will require the property or landlord to submit a new application to be approved by
+the Planning Commission.
+( Ord. 745-21 , § 1, 2021)
+All permanent signs shall be designed to convey durability and a quality appearance.
+Signs should meet the following design guidelines, and where the Community Development
+Director or their designee determines that a sign presents a substantial deviation
+from these standards and could conflict with the intent of this Chapter, the Director
+may require that the sign permit application be reviewed by the City Council or Planning
+Commission, according to the procedures of the associated land development application.
+In addition, these guidelines should be used in evaluating Comprehensive Sign Plans
+per section 18.09.090 , or any other requested deviations from the standards in this Chapter.
+A.
+Materials. Materials, particularly for the frames, casings or bases of signs, should
+be chosen to compliment the architecture of the building, and coordinate with other
+accent materials or architectural details of the building. In general, natural construction
+materials such as wood, metals, ceramic, and stone should be used for frames of all
+wall signs and for bases of monument signs. Synthetic materials should only be used
+if they are designed to resemble the recommended natural materials. Plastic or acrylic
+is discouraged as the primary component of signs, except when used for sign panels
+that are accompanied by frames or individual letter casings that add architectural
+details to compliment the building.
+B.
+Color. Simple two- and three-color contrasting colors schemes should be used between
+the color of the background, letters, and accents to ensure legibility and quality
+appearances. Symbols and logos may incorporate other colors. Colors or color combinations
+that interfere with the legibility of the sign copy should be avoided. Fluorescent
+colors should be limited to accents and typically less than ten percent (10%) of the
+sign area.
+C.
+Placement. The location of all permanent signs should be incorporated into the architectural
+design of the building. Placement of signs should be considered part of the overall
+facade design. Sign locations should be carefully considered, and align with major
+architectural features such as marquees, building name plates, storefront sign bands,
+cornices and parapets, entrance features, windows, canopies and other similar architectural
+features.
+D.
+Coordination of multiple signs. Buildings that have multiple wall or ground signs
+should coordinate all signs for the building or site. Coordination may be established
+by combinations of two (2) or more of the following:
+1.
+The same fonts, in terms of color, scale, and style. However, a primary and secondary
+font may be incorporated into signs.
+2.
+The same sign background in terms of material and color or coordinated colors.
+3.
+The same casing or framing in terms of materials and style, provided it is prominent
+enough to be a visible coordinating element across multiple signs.
+4.
+A consistent scale, orientation, shape or placement of signs. For example, all oval
+signs, or all signs located within a sign band across storefronts.
+5.
+Other elements specific to a proposed sign package.
+6.
+Limited deviations in the consistency are allowed for:
+a.
+Any one (1) sign may reserve up to thirty-three percent (33%) of the sign area for
+logos or icons that are unique to the tenant and deviate from the consistency elements.
+b.
+Any building with three (3) or more significant tenant spaces, or other similar large
+building or sites, may have one (1) gateway sign per facade that deviates from the
+consistency elements provided it is associated with a prominent point of entry or
+similar point of architectural emphasis.
+c.
+Pedestrian signs may deviate according to Section 18.09.100.E. below.
+E.
+Pedestrian signs. Pedestrian signs should help create architectural variety and unique
+business identities from establishment to establishment. In multi-tenant buildings,
+pedestrian signs should be used to create interest and variety of the tenants, while
+overall building and site signs should create consistency and identity of the place
+and building.
+( Ord. 745-21 , § 1, 2021)
+The design and construction of signs in all zoning districts are subject to the following
+requirements:
+A.
+Design.
+1.
+Signs and sign structures shall be designed and constructed to resist wind and seismic
+forces as specified in this Section. Bracing systems shall be designed and constructed
+to transfer lateral forces to the foundations. For signs supported on buildings, the
+dead and lateral loads shall be transmitted to the ground in a manner so as to avoid
+over stressing the elements of the structural frame. The overturning moment produced
+by lateral forces shall not exceed two-thirds (⅔) of the dead-load resisting moment.
+Uplift due to overturning shall be resisted by proper anchorage to the ground or to
+the structural frame of the building. The weight of earth superimposed over footings
+may be used in determining the dead-load resisting moment. Such earth shall be carefully
+placed and thoroughly compacted.
+2.
+Wind loads. Signs and sign structures shall be designed and constructed to resist
+wind forces as specified in Chapter 16 of the building code.
+3.
+Seismic loads. Signs and sign structures shall be designed and constructed to resist
+seismic forces as specified in Chapter 16 of the building code.
+4.
+Combined loads. Wind and seismic loads need not be combined in the design of signs
+or sign structures; only the loading producing the larger stress need be used. Vertical
+design loads, except roof live loads, shall be assumed to be acting simultaneously
+with wind or seismic loads.
+5.
+Allowable stresses. The design of wood, concrete, steel or aluminum members shall
+conform to the requirements of Chapters 19, 20, 21 and 22 of the building code. Loads,
+both vertical and horizontal, exerted on the soil shall not produce stresses exceeding
+those specified in Chapter 18 of the building code. The working stresses of wire rope
+and its fastenings shall not exceed twenty-five percent (25%) of the ultimate strength
+of the rope or fasteners. Working stresses for wind or seismic loads combined with
+dead loads may be increased as specified in Chapters 16 and 18 of the building code.
+B.
+Construction.
+1.
+General. Supports for signs or sign structures shall be placed in or upon private
+property and shall be securely built, constructed and erected in conformance with
+the requirements of this Code.
+2.
+Materials. Materials utilized for signs and sign structures shall be of the quality
+and grade as specified for buildings in the building code. In signs and sign structures
+the materials and details of construction shall, in the absence of specified requirements,
+conform with the following:
+a.
+Secondary members in contact with or directly supporting the display surface may be
+formed of light gauge steel, provided such members are designed in accordance with
+the specifications of the design of cold-formed steel as specified in the International
+Building Code and, in addition, shall be galvanized. Secondary members, when formed
+integrally with the display surface, shall be not less than 0.024 inch thick. When
+not formed integrally with the display surface, the minimum thickness of hot rolled
+steel members furnishing structural support for signs shall be one-quarter (¼) inch,
+except that, if galvanized, such members shall be not less than one-eighth (⅛) inch
+thick. Steel pipes shall conform to the International Building Code. Steel members
+may be connected with not less than one (1) galvanized bolt, provided the connection
+is adequate to transfer the load to supporting members.
+b.
+Anchors and supports of wood embedded in the soil, or within six (6) inches of the
+soil, shall be all heartwood of a durable species or shall be pressure treated with
+an approved preservative. Such members shall be marked or branded by an approved agency.
+3.
+Restrictions on combustible materials. Freestanding or ground signs may be constructed
+of any material meeting the requirements of this Code. All other signs shall be constructed
+of noncombustible materials, except that nonelectric wall signs may be constructed
+of unprotected combustible materials on walls permitted to be of unprotected combustible
+construction. Combustible materials other than approved plastics shall not be used
+in the construction of electric signs.
+4.
+Nonstructural trim. Nonstructural trim and portable display surfaces may be of wood,
+metal, approved plastics or a combination thereof.
+5.
+Anchorage. Members supporting unbraced signs shall be so proportioned that the bearing
+loads imposed on the soil in either the horizontal or vertical directions, shall not
+exceed the safe values. Braced ground signs shall be anchored to resist specified
+wind or seismic load acting in any direction. Anchors and supports shall be designed
+for safe bearing loads on the soil and for an effective resistance to pullout amounting
+to a force twenty-five percent (25%) greater than the required resistance to overturning.
+Anchors and supports shall penetrate to a depth below ground greater than that of
+the frost line. Portable ground signs supported by frames or posts rigidly attached
+to the base shall be proportioned so that the weight and size of the base will be
+adequate to resist the wind loads specified in this Chapter. Signs attached to masonry,
+concrete or steel shall be safely and securely fastened by means of metal anchors,
+bolts or approved expansion screws of sufficient size and anchorage to safely support
+the loads applied. Wooden blocks or plugs or anchors with wood used in connection
+with screws or nails shall not be considered to provide anchorage, except for signs
+attached to wood framing. The anchorage or support of a sign shall not be connected
+to, or supported by, an unbraced parapet wall, unless the wall is designed in accordance
+with the requirements for parapet walls specified for seismic zones in the building
+code.
+6.
+Display surfaces. Display surfaces of signs may be made of metal, glass or approved
+plastics. Glass thickness and area limitations shall be as set forth in the following
+table:
+
+Table 18.09-3: Size, Thickness and Type of Glass Panels In Signs
+Maximum size of exposed glass panel | Minimum thickness of glass (in inches) | Type of glass
+Any dimension (in inches) | Area (in square inches)
+30 | 500 | ⅛ | Plain, plate or wired
+45 | 700 | 3/16 | plain, plate or wired
+144 | 3,600 | ⅛ | glass
+Over 144 | Over 3,600 | ¼ | 
+
+• Sections of approved plastics on wall signs shall not exceed one hundred twenty-five
+(125) square feet in area.
+• Sections of approved plastics on wall signs shall be separated three (3) feet laterally
+and six (6) feet vertically by required exterior wall construction.
+• EXCEPTION: Sections of approved plastics on signs other than wall signs may not
+be required to be separated if approved by the Building Official.
+7.
+Approved plastics. Substantiating data shall be submitted to the Building Official
+to justify the proposed use of plastic materials. If it is determined that the evidence
+submitted is satisfactory for the use intended, the use may be approved.
+C.
+Projection clearance.
+1.
+General. Signs shall conform to the clearance and projection requirements of this
+Section.
+2.
+Clearance from high voltage power lines. Signs shall be located not less than six
+(6) feet horizontally or twelve (12) feet vertically from overhead electrical conductors
+which are energized in excess of seven hundred fifty (750) volts. The term "overhead
+conductors" as used in this Section means an electrical conductor, either bare or
+insulated, installed above the ground, except when conductors are enclosed in iron
+pipe or other approved material covering of equal strength.
+3.
+Clearance from fire escapes, exits or standpipes. Signs or sign structures shall not
+be erected in such a manner that a portion of their surface or supports will interfere
+with the free use of any fire escape, exit or standpipe.
+4.
+Obstruction of openings. Signs shall not obstruct openings to the extent that light
+or ventilation is reduced to a point below that required by the International Building
+Code. Signs erected within five (5) feet of an exterior wall in which there are openings
+within the area of the sign shall be constructed of noncombustible material or approved
+plastics.
+5.
+Projection over public rights-of-way and alleys. Signs or sign structures shall not
+project into public rights-of-way or alleys.
+6.
+Clearance from streets. Signs shall not project within two (2) feet of the curb line.
+7.
+Clearance above driveways, parking lots and pedestrian ways.
+a.
+Signs shall not project over driveways, parking lots or similar areas of vehicular
+travel below a height of fourteen (14) feet above grade.
+b.
+Signs shall not project over pedestrian ways below a height of eight (8) feet above
+grade.
+D.
+Electric signs.
+1.
+General. Electric signs shall be constructed of noncombustible material, except as
+provided in this Section.
+a.
+The enclosed shell of electric signs shall be watertight, except that service holes
+fitted with covers shall provide access into each compartment of the sign.
+b.
+Installation. Electrical signs and equipment used in connection with such signs shall
+be installed in accordance with local ordinances regulating electrical installations
+and the electrical components used shall bear the label of an approved agency.
+c.
+Erector's name. Electric signs shall have the name of the sign erector and date of
+erection included on the surface of the sign. The name and date shall be of sufficient
+size and contrast to be readable from a reasonable distance.
+( Ord. 745-21 , § 1, 2021)
+A.
+Violations of this Chapter are enforceable according to the provisions of Chapters 1.16 and 1.17 of the Evans Municipal Code.
+B.
+The responsible party or owner of any sign within the City that violates this Chapter
+shall remove such sign at the owner's own expense. Failure to perform such removal
+constitutes a violation of this Code and is subject to abatement by the City in accordance
+with Section 1.16.050 .
+( Ord. 745-21 , § 1, 2021)

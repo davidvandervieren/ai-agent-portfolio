@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER CITY OF GREELEY, COLORADO > ARTICLE XVII. - WATER AND SEWER
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTICHGRCO_ARTXVIIWASE"
 sha256: d009e1cdc0f801fbd8ad779bc342cb9ba2bc97c5a7745fefe1338d7377127e06
-fetched_at: "2026-09-17T04:51:38+00:00"
+fetched_at: "2026-09-21T06:30:11+00:00"
 ---
 
 [Editor's History] Note—Sections 17-1 to 17-10 amended, and Section 17-11 added to Charter by vote of citizens on November

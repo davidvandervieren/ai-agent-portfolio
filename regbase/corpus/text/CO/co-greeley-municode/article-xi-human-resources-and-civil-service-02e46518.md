@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER CITY OF GREELEY, COLORADO > ARTICLE XI. - HUMAN RESOURCES AND CIVIL SERVICE
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTICHGRCO_ARTXIHURECISE"
 sha256: 40d0d1e1bd2bfcc9f2f36267cb6cdb11bf417622b3d4662058942f1c85702349
-fetched_at: "2026-09-17T04:51:30+00:00"
+fetched_at: "2026-09-21T06:29:59+00:00"
 ---
 
 [Editor's History] Note—Sections 11-1 through 11-7 added to Charter by vote of citizens on November 3, 1981.

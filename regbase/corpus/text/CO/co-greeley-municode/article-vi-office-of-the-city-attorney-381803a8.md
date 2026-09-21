@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER CITY OF GREELEY, COLORADO > ARTICLE VI. - OFFICE OF THE CITY ATTORNEY
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTICHGRCO_ARTVIOFAT"
 sha256: f7a134083c9031cca97dc7f4ac159543f65b4fc374e37c955ad0d60075ce8c3c
-fetched_at: "2026-09-17T04:51:19+00:00"
+fetched_at: "2026-09-21T06:29:49+00:00"
 ---
 
 [Editor's History] Note—Art. VI title and Sections 6-1 and 6-2 amended by vote of citizens on November 7,

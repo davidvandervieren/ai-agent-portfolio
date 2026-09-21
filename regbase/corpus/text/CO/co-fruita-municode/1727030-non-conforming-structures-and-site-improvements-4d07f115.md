@@ -1,0 +1,89 @@
+---
+source_id: co-fruita-municode
+jurisdiction: Fruita, CO
+state: CO
+county: Mesa
+municipality: Fruita
+agency: City of Fruita
+title: 17.27.030 - NON-CONFORMING STRUCTURES AND SITE IMPROVEMENTS.
+doc_type: code
+citation_root: TITLE 17 - LAND USE CODE > CHAPTER 17.27 - NONCONFORMITIES > 17.27.030 - NON-CONFORMING STRUCTURES AND SITE IMPROVEMENTS.
+url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT17LAUSCO_CH17.27NO_17.27.030NNFSTSIIM"
+sha256: 0ef7c9165d551a8644e3810c7a8c1fdee3179f7a3f9ba7b9eeb18116cb58ff00
+fetched_at: "2026-09-18T19:53:25+00:00"
+---
+
+The purpose of this chapter is to regulate and restrict uses, structures, lots, and
+site improvements that were established legally at the time of adoption of this title
+or any subsequent amendment hereto, which is not in conformance with the provisions
+of this title or amendment. All such situations shall be referred to as "nonconformities."
+Any nonconformity that lawfully existed as of the effective data of this title and
+subsequent amendments, may continue in existence pursuant to the provisions of this
+section.
+A.
+Determination of Nonconforming Status. It shall be the responsibility of the owner, not the City, to establish the existence
+of a lawful non-conformity.
+B.
+Applicability of Other Modifications. Where a variance or minor modification has been granted that results in a development
+standard or feature that does not otherwise conform to the requirements of this title,
+that development standard or feature shall be deemed conforming and this chapter shall
+not apply.
+C.
+Maintenance of Nonconformities. Minor repairs or maintenance of nonconformities are permitted, provided they do not
+increase the extent of the nonconformity, taking all dimensional and use requirements
+into consideration.
+1.
+Abandonment or Discontinuance. Whenever a legal non-conforming use of land, structure, sign, or a building has been
+discontinued for a continuous period of one (1) year, future use of the land, structure,
+sign, or building shall be in conformance with all applicable City regulations.
+2.
+Annexation. Non-conformities should be brought into compliance with all City regulations before
+annexation and those non-conformities that are to be permitted to continue as legal
+non-conformities must be identified in the ordinance annexing the property.
+(Ord. 2021-21)
+A.
+A legal non-conforming use may be extended throughout the same building, provided
+no structural alteration of such building is made for the purpose of such extension.
+A legal non-conforming use of property not contained within a building shall not be
+expanded.
+B.
+A legal non-conforming use shall not be changed to any other use except a conforming
+use.
+C.
+A use that was legally established without a conditional use permit shall not be deemed
+non-conforming solely because a conditional use permit is now required for the use.
+Any expansion or other significant changes to the land use which requires the conditional
+use permit will require approval of a new conditional use permit before the expansion
+or other significant change.
+(Ord. 2004-19; Ord. 2009-02; Ord. 2016-04; Ord. 2021-06, [17.07]; Ord. 2021-21)
+A.
+A structure, building or sign which does not meet the setback, height, size, or other
+site requirements of this chapter may be repaired, maintained, or extended, provided
+any such repair, maintenance, or extension is in full compliance with all applicable
+City regulations.
+B.
+A non-conforming structure, building or sign which has been damaged to an extent not
+exceeding fifty (50) percent of its assumed market value on the day before the damage
+occurred may be restored in conformance with the City's building codes, provided such
+work is commenced within one (1) year of the date of damage. If the structure, sign,
+or building is damaged to the extent of more than fifty (50) percent of assumed market
+value, the non-conforming structure, building, or sign must be discontinued. Assumed
+market value for a building shall be determined by multiplying the most recent assessed
+value of the damaged building by four (4). This section shall not apply to single-family
+dwellings. Legal non-conforming single-family dwellings may be rebuilt in compliance
+with the current building codes.
+(Ord. 2004-19; Ord. 2009-02; Ord. 2016-04; Ord. 2021-06, [17.07]; Ord. 2021-21)
+A.
+An individual lot which was legally created but does not meet the minimum lot area
+or other dimensional requirement for the zone in which it is located shall be considered
+a legal non-conforming lot. Such legal non-conforming lot may be used provided all
+zoning and other applicable City regulations, including but not limited to setbacks,
+are met.
+B.
+Mobile and manufactured homes shall be subject to the provisions of this Code on the
+date they are removed from their pad or foundation; however, if a mobile or manufactured
+home was legally established as a single-family residential dwelling unit, the mobile
+or manufactured home can be replaced on the same site even if single-family residential
+land uses are not permitted, nor does the replacement require a conditional use permit,
+but all other standards apply.
+(Ord. 2004-19; Ord. 2009-02; Ord. 2016-04; Ord. 2021-06, [17.07]; Ord. 2021-21)

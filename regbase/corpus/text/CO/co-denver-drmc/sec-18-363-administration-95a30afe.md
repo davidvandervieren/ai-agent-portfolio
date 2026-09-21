@@ -1,0 +1,7777 @@
+---
+source_id: co-denver-drmc
+jurisdiction: Denver County, CO
+state: CO
+county: Denver
+agency: City and County of Denver
+title: Sec. 18-363. - Administration.
+doc_type: code
+citation_root: Chapter 18 - EMPLOYEE AND OFFICER PAY AND BENEFITS > ARTICLE X. - EMPLOYEES' VOLUNTARY SALARY REDIRECTION PLANS > DIVISION 3. - PARKING BENEFITS > Sec. 18-363. - Administration.
+url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH18EMOFPABE_ARTXEMVOSAREPL_DIV3PABE_S18-363AD"
+sha256: f0e2bd0e732c544c98add82883c7fd6a55a057e99a11fd80e667331d6233ca3c
+fetched_at: "2026-09-18T00:47:07+00:00"
+---
+
+Editor's note— Ord. No. 959-05, § 1, adopted Dec. 19, 2005, repealed chapter 18, articles I—VI, VIII—X,
+XIV and XVI—XIX, in their entirety and replaced them with new articles I—VI, VIII,
+IX, and XIV. For a listing of ordinances amending former articles I—VI, VIII—X, XIV
+and XVI—XIX, see the Code Comparative Table at the end of Volume II of this Code.
+Ord. No. 8-06, § 1, adopted Jan. 9, 2006, was retroactively effective on December
+1, 2005, and has been deleted from the Code pursuant to Ord. No. 959-05 at the direction
+of the City.
+Charter reference— Officers and employees, § C5.1 et seq.
+Cross reference— Any ordinance relating to classification and pay plans saved from repeal, § 1-6(14); administration, Ch. 2; fire department benefits, § 22-35 et seq.; police department benefits, § 42-52 et seq.
+Editor's note— Sec. 3 of Ord. No. 661-12, passed Dec. 26, 2012, amended the title of art. I by changing
+it from Career Service Authority to Office of Human Resources.
+There shall be and hereby is created an Office of Human Resources which shall be the
+central human resources agency for city employees in the career service personnel
+system. The Office of Human Resources shall be directed by the career service board
+and the Office of Human Resources Executive Director, exercising the powers and duties
+set forth in the Charter and in this article I. The career service board, the Office
+of Human Resources Executive Director, and the Office of Human Resources shall maintain
+and foster a merit-based personnel system for employees in the career service and
+shall be committed to equal employment opportunity. Members of the career service
+board shall be appointed as provided in the Charter and shall serve for staggered
+five-year terms.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 661-12, § 3, 12-26-12)
+(a)
+In addition to executing the powers and duties assigned to the career service board
+by the Charter or by any other ordinance of the city, the career service board shall:
+(1)
+Appoint an Office of Human Resources Executive Director to perform the duties set
+forth in ordinance and such other duties as may be assigned by the board.
+(2)
+Conduct or obtain annually surveys of generally prevailing pay rates as required by
+the Charter, and recommend to the mayor and city council classification and pay plan
+adjustments as provided in section 18-5 (a) and (b) on the basis of the survey results after conducting at least one (1) public
+hearing on any such recommendation.
+(3)
+Conduct at least one (1) public hearing on any proposed change to employee benefits
+prior to the director making any recommendation to the mayor and city council as provided
+in section 18-5 (c).
+(4)
+Develop, maintain and administer job classifications and attendant pay plans and pay
+practices for all positions in the career service and those positions not in the career
+service, excluding those positions excepted in section 18-5 (a).
+(5)
+Certify that personnel actions involving employees in the career service personnel
+system, including hiring, promotional appointments, disciplinary actions, and terminations
+are taken in strict accordance with the career service provisions of the charter,
+career service rules, and any applicable ordinance of the city.
+(b)
+In addition to exercising the rulemaking authority set forth in the Charter, the career
+service board may also adopt and maintain rules related to the administration of pay
+and benefits, classifications, terms and conditions of employment, employee conduct,
+and any other rules necessary to foster and maintain a merit-based personnel system;
+provided, however, that any such rule shall be consistent with the Charter and ordinances
+of the city.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 661-12, § 3, 12-26-12)
+The Office of Human Resources Executive Director shall serve at the pleasure of the
+board, shall administer the Office of Human Resources and shall be the appointing
+authority for all employees of the Office of Human Resources, except career service
+hearing officers and any other appointee serving at the pleasure of the board as provided
+in the Charter. The Office of Human Resources Executive Director shall:
+(a)
+Assist the career service board in carrying out the powers and duties set forth in section 18-2 .
+(b)
+Upon request of the mayor or the city council, directly assist the mayor or city council
+in formulating alternatives to implementing the career service board's annual recommendations
+regarding modification of the classification and pay plan.
+(c)
+Provide recommendations to the mayor and city council for other modifications to the
+classification and pay plan in order to promote the city's policy of providing generally
+prevailing compensation to employees in the career service and ensuring like pay for
+like work.
+(d)
+Conduct benefit surveys when requested by the mayor, the city council, or the career
+service board as required by the Charter.
+(e)
+Recommend to the mayor and city council changes to employee benefits as described
+in section 18-5 (c) after the career service board conducts at least one (1) public hearing on the
+proposed change.
+(f)
+Administer any duly adopted employee benefits programs.
+(g)
+Develop and administer, in cooperation with other city departments and agencies, employee
+training and organizational development programs.
+(h)
+Develop and administer, in cooperation with other city departments and agencies, publications,
+surveys, advisory boards, and other measures for communication to and from employees
+on matters of compensation, conditions of employment, and administration of the merit
+system.
+(i)
+Obtain voluntary benefit plans and programs for eligible city employees, provided
+that such plans and programs are at no cost to the city and are fully funded by employees.
+(j)
+Perform all other functions appropriate to a central human resource agency for employees
+in the career service including maintaining the official personnel records of career
+service employees, except those functions specifically reserved to the career service
+board or to other officers, departments or agencies by the Charter or ordinances of
+the city.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 661-12, § 3, 12-26-12; Ord. No. 233-21,
+§ 4, 3-30-21)
+(a)
+Department of human services employees. All persons holding career service positions in the department of human services
+on January 1, 1999 ("human services employees") shall be retained in their positions
+without tests, and shall thereafter be dismissed only in accordance with the career
+service rules. For purposes of leave accrual and layoffs, and so long as they remain
+within the department of human services or if they are involuntarily transferred to
+another department, human services employees shall have as the effective date of their
+inclusion in the career service, the date they began continuous employment under the
+jurisdiction of the Colorado merit system council or the Colorado department of personnel.
+Upon their voluntary transfer to another department, human services employees shall
+have as the effective date of their inclusion in the career service, the date they
+began continuous employment with the City and County of Denver.
+(b)
+Sheriff employees .
+(1)
+Deputy sheriffs shall be members of the career service of the City and County of Denver,
+except for the establishment of compensation, benefits, a means for the collection
+of union dues and an agency fee, and a grievance procedure for resolving any of the
+above listed issues as provided in part 9 of article IX of the Charter and the sections
+thereunder.
+(2)
+Deputy sheriff majors and division chiefs shall be members of the career service of
+the City and County of Denver, except for the establishment of compensation and fringe
+benefits.
+(3)
+The salaries and fringe benefits of the deputy sheriff division chiefs, and deputy
+sheriff majors shall be established by ordinance.
+(4)
+All other personnel matters shall continue to be within the power and duties of the
+career service board, the Office of Human Resources Executive Director, and the Office
+of Human Resources as set forth in the Charter and in this article I.
+(c)
+Election commission employees. Any person holding a position in the election commission on July 16, 2007 shall be
+retained in his or her position as an employee in the career service in the office
+of the clerk and recorder if the person qualifies to retain the position in accordance
+with the personnel rules of the career service board.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 264-07, § 15, 6-11-07; Ord. No. 661-12,
+§ 3, 12-26-12)
+(a)
+Pay plan adjustments; exceptions. On or before September 1 of each year, the career service board shall recommend classification
+and pay plan adjustments to the mayor and city council for all job classifications
+in the career service and for job classifications not in the career service based
+upon the duties of the job classifications except: those to which the provisions of section 9.2.1 of the Charter apply; the ranks in the classified service of the fire and police
+departments; deputy sheriffs, deputy sheriff majors, and deputy sheriff division chiefs;
+and other employees whose classification, pay plan, and attendant pay rates, are set
+in accordance with collective bargaining agreements pursuant to Article IX, Part 10
+of the Charter. Any pay rate recommended by the board shall provide like pay for like
+work and shall be based on annual surveys of generally prevailing pay rates in the
+Denver metropolitan area or in other appropriate geographic areas so long as such
+survey data has been adjusted to the Denver market using economic adjustment tools.
+(b)
+Annual implementation of pay plan adjustments. The mayor and the city council may accept, reject or modify any pay recommendation
+made by the board or the director pursuant to this section. The pay recommendations
+accepted or modified by the mayor and the city council shall be implemented in accordance
+with the career service rules.
+(1)
+The annual ordinance implementing the pay plan adjustments in accordance with this
+section and updating the classification and pay plan shall incorporate any interim
+adjustments to the classification and pay plan made by the executive director of the
+office of human resources as provided in section 18-42 (d), to the extent the city council chooses to ratify such interim adjustments.
+(c)
+Benefits. Upon the request of the mayor or the city council, the office of human resources
+executive director shall survey and recommend changes to employee benefits as necessary
+to attract and retain a qualified and competent workforce and to maintain the city's
+policy to provide generally prevailing compensation to employees in the classifications
+set forth in subsection (a) of this section. The director shall consult with and obtain
+a recommendation from the employee health insurance committee as provided in division
+2 of article VI of this chapter prior to recommending any change to health insurance
+benefits. The mayor and the city council may accept, reject or modify any benefit
+recommendation made by the director pursuant to this section.
+(d)
+Audit of survey methodologies and recommendations. In 2006 and not less than once every four (4) years thereafter, the mayor shall commission
+an independent audit of survey methodologies, determinations regarding generally prevailing
+rates and prevailing practices, and recommendations regarding pay rates and benefits
+made by the career service board or the office of human resources executive director
+in the preceding year. Results of the independent audit shall be provided by the mayor
+to the city council, the career service board and the office of human resources executive
+director.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 288-09, § 1, 5-18-09; Ord. No. 571-10, §
+1, 10-18-10; Ord. No. 661-12, § 3, 12-26-12; Ord. No. 156-18, § 1, 3-5-18; Ord. No.
+233-21, § 4, 3-30-21; Ord. No. 218-23, § 1, 3-28-23; Ord. No. 1556-25, § 2, 12-15-25)
+(a)
+Definition of employee. The term "employee" as used in this section shall be defined as provided in section 1.2.11 of the Charter, excepting those employees who are expressly excluded from the career
+service as provided in section 9.1.1 (E) of the Charter.
+(b)
+Acceptance of salary . It shall be unlawful for any person to willfully accept any salary, wages, compensation
+or remuneration as an employee of the city unless such person shall have been employed
+in strict accordance with the terms of the career service provisions of the Charter
+and the career service rules.
+(c)
+Employment by officers and department heads . It shall be unlawful for any department head or other officer of the city to knowingly
+and willfully hire or employ any person as an employee of the city who has not been
+employed in strict accordance with the terms of the career service provisions of the
+Charter and the career service rules.
+(d)
+Expending public monies or credit. It shall be unlawful for any officer of the city to willfully pay any salary, wages,
+remuneration, compensation or monies to any person claiming to be an employee of the
+city out of or against the public monies or credit of the city unless the person shall
+have been employed in strict accordance with the terms of the career service provisions
+of the Charter and the career service rules.
+(e)
+Other personnel actions. It shall be unlawful for any department head or other officer of the city to willfully
+promote, discipline, or terminate any employee of the city except in strict conformance
+with the terms of the career service provisions of the charter and the career service
+rules, or the provisions of a collective bargaining agreement negotiated pursuant
+to Article IX, Part 10 of the Charter.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 1556-25, § 2, 12-15-25)
+Employees shall be paid on a biweekly basis to the extent permitted by law. The mayor
+is authorized to designate the day of the week for biweekly payment of the salaries
+and wages of employees of the city receiving biweekly pay, and is authorized to change
+such pay day from time to time. Whenever a payday falls upon a holiday as defined
+in article IV of this chapter or on a mandatory furlough day ordered by the mayor,
+payment of salaries and wages shall be made on the preceding business day. The city
+is authorized to implement a lag payroll system; provided, however, that as to county
+court judges and the district attorney, the lag pay system shall be consistent with
+state law.
+(Ord. No. 959-05, § 1, 12-19-05)
+Any employee being converted to a lag payroll system in January 2006, January 2007,
+or January 2008 is hereby authorized to receive, during the first pay period in which
+the lag payroll system is being implemented, the following forms of financial assistance
+from the city upon the request of the employee:
+(a)
+Cash-out up to forty (40) of the employee's accrued vacation hours in no less than
+eight-hour increments;
+(b)
+A noninterest-bearing loan based on the employee's gross salary and wages, up to a
+maximum of thirty-two (32) hours of pay in no less than eight-hour increments, with
+repayment of the loan required through payroll deductions in twenty-four (24) equal
+installments; or
+(c)
+A combination of vacation cash-out and a noninterest-bearing loan up to a maximum
+of thirty-two (32) hours of accrued vacation and loan hours, in no less than eight-hour
+increments, with repayment of the loan required through payroll deductions in twenty-four
+(24) equal installments.
+(Ord. No. 959-05, § 1, 12-19-05)
+The pay of all employees of the city in the career service shall be fixed in accordance
+with the classification and pay plans adopted by ordinance as provided by the Charter
+and by this chapter 18 .
+(Ord. No. 959-05, § 1, 12-19-05)
+The position of every employee of the city in the career service shall be allocated
+to a class in the classification plan. Such allocation shall be made on the basis
+of the duties of the position and in accordance with the career service rules.
+(Ord. No. 959-05, § 1, 12-19-05)
+The pay plan shall set forth the annual rate of pay applicable to each class in the
+classification plan as indicated by the corresponding pay grade. Except for pay differentials
+specifically authorized by career service rules, and except as otherwise provided
+in section 18-11 , every employee shall be paid biweekly at a biweekly rate arrived at by dividing
+the annual rate set forth in the pay plan for the class to which the position is allocated
+by the biweekly periods for the calendar year. Provided, however, that employees in
+the part time and on-call labor classes in the community rate schedule shall be paid
+biweekly at the hourly rate in the schedule to which the position is allocated.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 646-17, § 2, 6-26-17)
+The rates of pay set forth in the pay plan shall be paid to employees regularly working
+a forty (40) hour week. Reasonable pay differentials may be added to or subtracted
+from the rates of pay set forth in the pay plan pursuant to career service rules with
+the exception of deputy sheriff classifications.
+(Ord. No. 959-05, § 1, 12-19-05)
+(a)
+In cases where a new kind of work is to be performed by an employee of the city, and
+where such work is not provided for in the existing classification and pay plan, or
+in cases where it is necessary to change the pay grade of an existing class, the Executive
+Director of the Office of Human Resources or the career service board is hereby authorized
+to change the pay grade or to create a provisional class to which the position of
+such employee or employees may be allocated and to designate the pay grade applicable
+to such class. Such pay grade shall in every case where practicable be one of the
+pay grades set forth in the pay plan.
+(b)
+No provisional class shall exist for longer than six (6) months.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 775-07, § 19, 12-26-07; Ord. No. 156-18,
+§ 1, 3-5-18)
+Employees whose pay rate immediately prior to the effective date of the latest pay
+plan was higher than the range maximum shall remain at the same pay rate until adjustments
+to the pay tables permit future additional wage growth or until they leave their positions,
+with the exception of deputy sheriff classifications.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 571-10, § 2, 10-18-10; Ord. No. 233-21,
+§ 4, 3-30-21)
+(a)
+Classification plans and pay tables, and any amendments thereto, shall be approved
+by the city council by ordinance, subject to the exceptions for interim adjustments
+set forth in subsection (d) of this section. Current classification plans and pay
+tables for all employees in the career service and for those employees not in the
+career service as set forth in division 3 of this article II shall be kept and maintained
+on record in the office of the clerk and recorder and the Office of Human Resources
+at all times, and shall be available for public inspection both in person and on-line.
+Each class title set forth in the classification plans shall be assigned a pay grade
+corresponding to the pay tables.
+(b)
+Pay tables shall be provided for all class titles and pay grades identified in the
+classification plans. The term "pay tables" is deemed to be synonymous with "pay plan"
+within the meaning of the Charter and this Code. Separate pay tables shall be provided
+for exempt and non-exempt classes. For purposes of this section, the term "exempt"
+refers to classes which are exempt from overtime requirements of the federal Fair
+Labor Standards Act, whether or not such classes are authorized to be paid overtime
+because of community standards. For purposes of this section, the term "non-exempt"
+refers to classes which are entitled to receive overtime payments under the requirements
+of the Fair Labor Standards Act.
+(c)
+The classification plans and pay tables shall also include:
+(1)
+Training pay tables.
+(2)
+A community rate table of hourly pay rates applicable to classes that are used on
+an on-call or part-time basis.
+(d)
+After any annual setting of classifications and pay plans as required in section 18-5 , and before the next annual setting of classifications and pay plans, the Executive
+Director of the Office of Human Resources may make interim adjustments to classifications
+and pay tables without the need for city council approval to the extent allowed by
+this subsection. Any such interim adjustments shall be subject to ratification by
+the city council in the ordinance approving the next annual setting of classifications
+and pay plans as provided in section 18-5 (b)(3), or at such earlier time as approval may be requested by the Executive Director.
+To the extent any interim adjustment is not expressly approved in the next annual
+ordinance or such earlier time as approval has been requested, the adjustment shall
+be deemed to be rescinded. Subject to the exceptions provided in section 18-42 (d)(6)(a)—(d), the interim adjustments that the Executive Director is authorized to
+make to classifications and pay tables under the authority of this subsection are
+limited to the following:
+(1)
+Abolishment of any existing classification;
+(2)
+Creation of any new classification or classifications;
+(3)
+Classification title changes;
+(4)
+Classification changes for purposes of overtime eligibility; and
+(5)
+Individual classification pay grade increases.
+(6)
+Provided, however, that interim adjustments to the classification and pay plan changes
+shall not be authorized and shall remain subject to council approval by ordinance
+if the proposed changes:
+a.
+Involve twenty-five (25) or more employees;
+b.
+Involve the creation of five (5) or more classifications at one time;
+c.
+Involve employees in three (3) or more city departments or agencies; or
+d.
+Involve a projected annual cost of fifty thousand dollars ($50,000.00) or more to
+the city in the first full year of implementation.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 661-12, § 3, 12-26-12; Ord. No. 646-17,
+§ 3, 6-26-17; Ord. No. 156-18, § 1, 3-5-18; Ord. No. 319-18, § 1, 4-30-18; Ord. No.
+233-21, § 4, 3-30-21)
+The provisions of this division 3 shall apply to the following employees not in the
+career service:
+(a)
+Employees appointed to serve at the pleasure of the mayor pursuant to Charter section 9.1.1 (E)(iv);
+(b)
+Employees and certified public accountants appointed to serve at the pleasure of the
+auditor pursuant to Charter section 9.1.1 (E)(viii);
+(c)
+Employees appointed to serve at the pleasure of the career service board pursuant
+to Charter section 9.1.1 (E)(xii);
+(d)
+[Reserved];
+(e)
+[Reserved];
+(f)
+Employees of the Denver Public Library;
+(g)
+Employees of the city council;
+(h)
+[Reserved];
+(i)
+Employees of the board of adjustment—zoning;
+(j)
+Employees appointed to serve at the pleasure of the clerk and recorder pursuant to
+Charter section 9.1.1 (E)(xiv);
+(k)
+Employees of the civil service commission;
+(l)
+Employees of the office of independent monitor;
+(m)
+Employees appointed to serve at the pleasure of the manager of aviation pursuant to
+Charter section 9.1.1 (E)(xv).
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 871-06, § 2, 12-26-06; Ord. No. 264-07,
+§ 16, 6-11-07; Ord. No. 387-11, § 2, 7-18-11; Ord. No. 976-15, § 1, 1-19-16; Ord.
+No. 233-21, § 4, 3-30-21)
+The pay of employees not in the career service shall be fixed in accordance with the
+classification and pay plans adopted by ordinance as provided by the Charter and this chapter 18 .
+(Ord. No. 959-05, § 1, 12-19-05)
+The position of employees not in the career service shall be allocated to a class
+in the classification plan adopted pursuant to the Charter and this chapter 18 . Such allocation shall be made solely on the basis of actual duties and responsibilities
+of the position.
+(Ord. No. 959-05, § 1, 12-19-05)
+The pay plan adopted pursuant to division 2 of this article is hereby incorporated
+by reference. Except for pay differentials specifically authorized pursuant to section 18-56 , every employee not in the career service shall be paid biweekly at a biweekly rate
+arrived at by dividing the annual rate set forth in the pay plan for the pay grade
+applicable to the class to which the position is allocated by the biweekly periods
+for the calendar year.
+(Ord. No. 959-05, § 1, 12-19-05)
+Career service rules relating to the pay rate at which an employee may be hired, movement
+of employees through the pay ranges, and pay differentials shall be applicable to
+employees and positions not in the career service in the implementation and administration
+of the classification and pay plans. When the career service rules permit a waiver
+or exception or require the approval of the Office of Human Resources, Office of Human
+Resources Executive Director, or career service board, the waiver, exception, or approval
+shall be the sole responsibility of the employee's appointing authority, and the approval
+of the Office of Human Resources, Office of Human Resources Executive Director, or
+career service board shall not be required.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 571-10, § 3, 10-18-10; Ord. No. 661-12,
+§ 3, 12-26-12)
+The rates of pay set forth in the pay plan adopted pursuant to division 4 of this
+article shall be paid to employees regularly working a forty-hour week. Reasonable
+pay differentials may be added to or subtracted from the rates set forth in the pay
+plan pursuant to career service rules.
+(Ord. No. 959-05, § 1, 12-19-05)
+(a)
+In cases where a new kind of work is to be performed by an employee not in the career
+service, and where such work is not provided for in the existing classification and
+pay plans, the employee's appointing authority shall request a study of such work
+to be made by the Office of Human Resources, who shall make findings and recommendations.
+The career service shall, after consultation with the appointing authority, present
+its recommendations in the form of an ordinance amending the classification plan to
+the city council for final approval.
+(b)
+In cases where it is necessary to change the pay grade of an existing class in order
+to be consistent with changes being made in the classification plan for employees
+in the career service contained in the classification plan, the Office of Human Resources
+shall, after consultation with the appointing authority, make recommendations in the
+form of an ordinance amending the classification plan to the city council for final
+approval.
+(c)
+Provisional classes may be established for employees not in the career service in
+the manner prescribed by section 18-40 .
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 661-12, § 3, 12-26-12)
+Except as otherwise provided herein, the benefits to be granted employees not in the
+career service shall be in conformance with this chapter, and in accordance with applicable
+career service rules. When the career service rules permit a waiver or exception or
+require the approval of the Office of Human Resources, Office of Human Resources Executive
+Director, or the career service board, the waiver, exception, or approval shall be
+the sole responsibility of the employee's appointing authority, and the approval of
+the Office of Human Resources, Office of Human Resources Executive Director, or the
+career service board shall not be required.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 7-06, § 1, 1-9-06; Ord. No. 209-06, § 1,
+3-28-06; Ord. No. 871-06, § 3, 12-26-06; Ord. No. 634-09, § 1, 11-2-09; Ord. No. 661-12,
+§ 3, 12-26-12)
+(a)
+This division 4 shall apply to employees in all classifications in the career service
+except deputy sheriffs, deputy sheriff majors, deputy sheriff division chiefs; and
+to the following employees in classifications not in the career service to the extent
+authorized by the appointing authority for these employees:
+(1)
+Employees of the city council, library commission, civil service commission, and the
+board of adjustment;
+(2)
+[Reserved];
+(3)
+Employees appointed by the mayor pursuant to the authority of Charter section 9.1.1 (E)(iv);
+(4)
+Employees appointed by the auditor pursuant to the authority of Charter section 9.1.1 (E)(viii).
+(5)
+Employees appointed by the clerk and recorder pursuant to the authority of Charter section 9.1.1 (E)(xiv).
+(b)
+This division 4 shall apply to employees working for the Denver Health and Hospital
+Authority who have elected to remain career service employees according to the personnel
+services agreement between the city and the authority dated January 1, 1997, as amended.
+For any year in which the city appropriates monies for performance-based incentive
+payments pursuant to subsection 18-73 (a) and authorizes the disbursement of performance-based incentive payments pursuant
+to section 18-74 , the authority shall likewise provide for performance-based incentive payments to
+be made to career service employees working for the authority. In addition, for any
+year in which the city authorizes the disbursement of performance recognition bonus
+payments pursuant to section 18-76 , the authority may likewise provide for performance recognition bonus payments to
+be made to career service employees working for the authority. Notwithstanding the
+provisions of section 18-74 and 18-76 , the approval of the mayor shall not be required for (i) any performance-based incentive
+payments to be made by the authority; (ii) for performance recognition bonus payments
+to be made by the authority, or (iii) for any criteria adopted by the authority for
+earning such payments. However, the authority shall comply with any other requirements
+of this division 4 for such payments, including, but not limited to, any requirement
+for approval by the Office of Human Resources Executive Director. Any performance-based
+incentive payment or performance recognition bonus made to city employees working
+for the authority shall be made from funds of the authority and not of the city, and
+shall be paid or reimbursed in the same manner as is provided for the payment or reimbursement
+of other wages in the personnel services agreement.
+(c)
+This division 4 shall apply to career service employees working for the district attorney,
+clerk and recorder and auditor; provided, however, the approval of the mayor shall
+not be required for (i) the establishment of criteria for earning performance-based
+incentive pay as provided in subsection 18-74 (a); (ii) for performance recognition bonus payments to be made by the authority;
+nor for (iii) a determination that performance targets have been met in any fiscal
+year as provided in subsection 18-74(e), and instead such approvals shall be given
+by the district attorney, clerk and recorder and auditor for their respective offices.
+The district attorney, clerk and recorder and auditor shall comply in all other respects
+with the requirements of this division 4, including, but not limited to, any requirement
+for approval by the Office of Human Resources Executive Director.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 7-06, § 2, 1-9-06; Ord. No. 756-06, § 1,
+11-13-06; Ord. No. 101-07, § 1, 3-5-07; Ord. No. 264-07, § 17, 6-11-07; Ord. No. 701-08,
+§ 1, 12-15-08; Ord. No. 387-11, § 3, 7-18-11; Ord. No. 661-12, § 3, 12-26-12; Ord.
+No. 233-21, § 4, 3-30-21)
+As used in this division, the following terms shall have the meanings in this section
+ascribed to them:
+(a)
+"Incentive pay" or "incentive payment" shall mean additional compensation in the form
+of a bonus over and above an employee's base rate of pay and any merit increase in
+pay as provided in the classification and pay plan, by which additional compensation
+may be earned by an employee on an annual basis in accordance with the performance-based
+standards and procedures set forth in this division and with any additional criteria
+promulgated by the mayor or the heads of the various departments and agencies of the
+city as provided herein.
+(b)
+"Efficiency savings" shall mean monies made available for incentive payments under section 18-75 due to reductions in expenditures by a city department or agency in any fiscal year,
+resulting in projected total expenditures for the fiscal year being below the amounts
+previously budgeted and appropriated for expenditure by the department or agency for
+the fiscal year. "Efficiency savings" shall not be applicable to or used for recognition
+bonuses.
+(c)
+"Recognition bonus" or "recognition bonus payment" shall mean additional compensation
+in the form of a discretionary cash or cash-equivalent bonus over and above an employee's
+base rate of pay and any merit increase in pay by which additional compensation may
+be earned by an employee on a performance recognition basis in accordance with the
+standards and procedures set forth in section 18-76 , and is separate from incentive pay.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 862-06, § 1, 12-26-06; Ord. No. 101-07,
+§ 1, 3-5-07)
+(a)
+The city council may provide annually for performance-based incentive payments to
+be administered pursuant to section 18-74 by including within the annual appropriation ordinance an appropriation for incentive
+pay. Any annual budget submitted by the mayor to the council and proposing any performance-based
+incentive payments shall clearly express the amount to be appropriated for this purpose
+both in a dollar amount, and as a percentage of the overall amount to be appropriated
+for personal services. The maximum lawful incentive payment amount any individual
+employee may earn shall be no more than double the percentage amount thus approved
+in the budget, calculated as a percentage of the employee's annual rate of pay. Payment
+of incentive payments are subject to the provisions of section 18-74 .
+(b)
+As to incentive payments, without the need for further city council action or appropriation,
+the mayor is hereby authorized to make incentive payments from efficiency savings
+realized by a department or agency of the city in accordance with subsection 18-75 (b), to the extent the department or agency does not exceed the amount previously
+appropriated for expenditure by the department or agency, subject to the provisions
+of section 18-74 .
+(c)
+As to recognition bonus payments, without the need for further city council action
+or appropriation, the mayor is hereby empowered to authorize recognition bonus payments
+in accordance with section 18-76 to the extent the department or agency does not exceed amounts previously appropriated
+for expenditure by the department or agency.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 862-06, § 1, 12-26-06; Ord. No. 101-07,
+§ 1, 3-5-07)
+Subject to the availability of a prior appropriation therefor as provided in section 18-73 , the mayor may authorize the disbursement of performance-based incentive pay for
+employees according to the following standards and procedures:
+(a)
+The head of the department or agency shall, prior to January 1 of any fiscal year
+and subject to the prior written approval of the mayor and the Office of Human Resources
+Executive Director, adopt and make available to all employees within his or her department
+or agency objective criteria for earning incentive pay within that fiscal year. The
+head of the department or agency in the first quarter of each year may propose modifications
+to the criteria based upon actual performance for the prior year, subject to the prior
+written approval of the mayor and the Office of Human Resources Executive Director.
+Any approved amendments to the criteria shall be made available to all employees within
+his or her department or agency.
+(b)
+Any criteria adopted pursuant to this subsection shall include performance targets
+for the department or agency sufficient to allow the head of the department or agency
+to measure cost savings, enhanced revenues, increased productivity, operating efficiencies,
+enhanced service delivery, or any similar objective measure of performance or productivity.
+(c)
+Any criteria adopted pursuant to this section shall provide that incentive pay may
+be earned by employees throughout the department or agency or any subdivision thereof,
+based upon the overall performance of the department, agency or subdivision, or, in
+the alternative, may be earned by individual employees based upon individual achievement
+in meeting the performance targets established by the head of the department or agency.
+(d)
+The maximum amount of any performance-based incentive payment for which any employee
+shall be eligible shall be as set forth in the criteria adopted by the expending authority
+in accordance with subsection (b) and (c) of this section; provided, however, no incentive
+payment shall exceed the maximum lawful incentive payment amount as provided in subsection 18-73 (a).
+(e)
+No incentive payment shall be made, and incentive payments remain discretionary, until
+certified by the department or agency head; provided however, that for career service
+employees working for the district attorney, clerk and recorder and auditor, incentive
+payments remain discretionary and shall not be paid until approved by the district
+attorney, clerk and recorder and auditor for their respective offices pursuant to
+subsection 18-71 (c). The process for certification is the following: the head of the department or
+agency documents and certifies to the mayor and the Office of Human Resources Executive
+Director that the performance targets established in accordance with subsections (b)
+and (c) have been or are projected to be met for the year, and the mayor and the director
+have approved the same in writing. The certification by the appointing authority of
+the department or agency shall specifically identify all employees eligible to receive
+the incentive payment as a result of having met the performance target, and a copy
+of the certification shall be provided to the manager of finance.
+(f)
+Unless otherwise provided in the criteria adopted by the head of the department or
+agency pursuant to this section, any incentive payment shall be made in the final
+month of the fiscal year. The incentive payment shall be deemed to be compensation
+in addition to, and not a part of, the employee's regular base rate of pay and any
+merit increase in pay as provided in the classification and pay plan, and shall be
+subject to any and all withholdings for taxes, employee contributions for benefits,
+and any other similar withholding that may be required by law or authorized by the
+employee.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 862-06, § 1, 12-26-06; Ord. No. 775-07,
+§ 20, 12-26-07; Ord. No. 701-08, § 1, 12-15-08; Ord. No. 661-12, § 3, 12-26-12)
+In recognition of the performance and effort of employees throughout the city that
+allows the city to achieve savings in costs or expenditures in any fiscal year, the
+mayor is hereby authorized to make incentive payments to employees according to the
+following standards and procedures:
+(a)
+The mayor may authorize payment of incentives to all employees subject to this division
+based upon projected overall efficiency savings by the city, subject to the prior
+approval of the city council acting by ordinance. Any such ordinance shall provide
+for a re-appropriation of monies between and among the departments and agencies of
+the city as may be necessary to allow the payment of efficiency savings as provided
+hereunder.
+(b)
+Either in lieu of or in addition to any incentive payment authorized pursuant to subsection
+(a) of this section, the head of any department or agency may also subject to the
+approval of the mayor and the Office of Human Resources Executive Director, authorize
+the payment of monies realized from efficiency savings to employees within the department
+or agency in recognition of extraordinary performance previously accomplished by employees
+of that department or agency when such payments may be made from monies uniquely available
+to that department or agency through state or federal grants, when such monies would
+be lost to the city and the department or agency if not expended by a date certain,
+and when such payments do not exceed the total amount of money previously budgeted
+and appropriated for expenditure by the department or agency.
+(c)
+All incentive payments under this section are subject to the provisions of section 18-74 . In addition, any incentive payment made pursuant to this section shall be paid in
+an equal amount to all employees subject to this division if made pursuant to subsection
+(a) of this section, or in an equal amount to all employees of the department or agency
+if made pursuant to subsection (b) of this section; provided, however, no employee
+who has received a rating of "below expectations," "needs improvement," or any similar
+rating of unsatisfactory performance on the employee's most recent annual evaluation
+shall be eligible to receive any incentive payment under this section. The amount
+of any incentive payment made pursuant to this section shall be determined and authorized
+by the mayor, but shall be in an amount of not less than fifty dollars ($50.00) nor
+more than five hundred dollars ($500.00) per employee.
+(d)
+The mayor shall report to the manager of finance and the city council any determination
+to pay incentives as provided in this section. Unless otherwise authorized by the
+mayor, any incentive payment pursuant to this section shall be made in the final month
+of the fiscal year. The incentive payment shall be deemed to be compensation in addition
+to, and not a part of, the employee's regular base rate of pay and any merit increase
+in pay as provided in the classification and pay plan, and shall be subject to any
+and all withholdings for taxes, employee contributions for benefits, and any other
+similar withholding that may be required by law or authorized by the employee.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 862-06, § 1, 12-26-06; Ord. No. 775-07,
+§ 21, 12-26-07; Ord. No. 661-12, § 3, 12-26-12)
+The mayor may authorize departments and agencies of the city to make disbursements
+for payment of performance recognition bonuses for eligible employees according to
+the following standards and procedures:
+(a)
+The head of the department or agency wishing to initiate a recognition bonus program
+shall submit for the prior written approval of the mayor a plan detailing the criteria
+proposed to award such payments: the mechanism by which the bonus will be nominated,
+reviewed and approved; the individual payment award amounts; and the total amount
+of monies set aside for the recognition bonuses during the fiscal year along with
+a certification that said funds are available within the existing appropriated budget
+and that the recognition bonus program will not necessitate a supplemental budget
+request or a supplemental appropriation.
+(b)
+Any criteria adopted pursuant to this section shall further the mission of the agency
+and the city.
+(c)
+At a minimum, the recognition bonus program of each agency and department participating
+shall include a nomination form completed pursuant to a nomination process established
+by the head of the agency or department and shall include a review of each nomination
+by a panel of agency staff that includes at least one non-management employee. The
+head of the agency or department shall notify the employees in his or her respective
+agency or department of the nomination procedures and forms.
+(d)
+Per calendar year, the total dollar amount or cash-value amount of recognition bonus
+awards to any one individual shall not exceed a gross amount of one hundred fifty
+dollars ($150.00), and the minimum dollar amount or cash-value amount of any recognition
+bonus shall be twenty-five dollars ($25.00).
+(e)
+Payments for approved recognition bonuses shall be processed through the applicable
+human resources department and shall be processed through the auditor's office as
+set forth in subsection (f) of this section 18-76 .
+(f)
+Recognition bonuses may only be paid in the calendar year in which the individual's
+performance being recognized is performed. The recognition bonus payment shall be
+subject to any and all withholdings for taxes, employee contributions for benefits,
+and any other similar withholding that may be required by law or authorized by the
+employee.
+(Ord. No. 101-07, § 2, 3-5-07)
+Editor's note— Ord. No. 1058-21, § 1, adopted October 25, 2021, set out provisions intended for use
+as Div. 5, §§ 18-81—18-88. Inasmuch as there were already provisions so designated,
+said provisions have been codified herein as div. 5, §§ 18-77—18-80.2 at the discretion
+of the editor.
+The purpose of this division 5 is to establish a program through which eligible city
+employees are rewarded with a one-time bonus of four hundred dollars ($400.00) for
+contributing to the city's efforts to protect the community from COVID-19 and reduce
+transmission of COVID-19 long-term through increased vaccination rates by either complying
+with the vaccine mandate by September 30, 2021, or by obtaining an approved exemption
+from the mandate and complying with their accommodation requirements through December
+10, 2021.
+(Ord. No. 1058-21, § 1, 10-25-21)
+(a)
+Except as provided in subsection (b) of this section 18-78 , this division 5 shall apply to all full-time, part-time and on-call employees of
+the city except:
+(1)
+Elected officials;
+(2)
+Judges, magistrates and employees of the Denver County Court;
+(3)
+Board and commission members;
+(4)
+Career service employees of the Denver Health and Hospital Authority; and
+(5)
+Unpaid volunteers.
+(b)
+This division 5 shall apply to the following employees to the extent authorized by
+their appointing authorities:
+(1)
+Employees of the city council, library commission, civil service commission, and the
+board of adjustment—zoning;
+(2)
+Employees appointed by the mayor pursuant to the authority of Charter section 9.1.1 (E)(iv);
+(3)
+Employees appointed by the auditor pursuant to the authority of Charter section 9.1.1 (E)(viii):
+(4)
+Employees appointed by the clerk and recorder pursuant to the authority of Charter section 9.1.1 (E)(xiv); and
+(5)
+Career service employees working for the district attorney, clerk and recorder and
+auditor.
+(Ord. No. 1058-21, § 1, 10-25-21)
+For purposes of this division 5 only, the following terms shall have the meanings
+in the section ascribed to them:
+(a)
+"Fully vaccinated" shall mean that two (2) weeks have passed since a person received
+either the second dose of a two-dose series COVID-19 vaccine or one (1) dose of a
+single-dose series COVID-19 vaccine.
+(b)
+"Vaccine mandate" shall mean the requirement that all city employees must be fully
+vaccinated no later than September 30, 2021, unless exempted from the mandate for
+medical or religious reasons, as set forth in the public health order issued by the
+Denver Department of Public Health and Environment on August 2, 2021, and as amended
+thereafter.
+(Ord. No. 1058-21, § 1, 10-25-21)
+In order to be eligible for the vaccine mandate bonus, an employee must:
+(a)
+Have started their employment with the city no later than September 29, 2021; and
+(b)
+Be an employee of the city at the time payment of the vaccine mandate bonus is made;
+and
+(c)
+Have complied with the vaccine mandate by:
+(1)
+Becoming fully vaccinated no later than September 30, 2021; and
+(2)
+Providing proof of their vaccination status no later than September 30, 2021, by either
+uploading their vaccine record into Workday or completing the manual verification
+process established for employees not in Workday; or
+(d)
+Have received an approved exemption from the vaccine mandate based on medical reasons
+or sincerely held religious beliefs and:
+(1)
+Have complied with the vaccine mandate by uploading their exemption approval notice
+into Workday or following alternate verification processes no later than September
+30, 2021; and
+(2)
+Have not been disciplined for violating their accommodation requirements as of December
+10, 2021; and
+(3)
+Are not the subject of pending disciplinary proceedings for violating their accommodation
+requirements as of December 10, 2021.
+(Ord. No. 1058-21, § 1, 10-25-21)
+Payment of COVID-19 vaccine mandate bonuses under this division 5 shall be subject
+to the appropriation of funds for this purpose by city council.
+(Ord. No. 1058-21, § 1, 10-25-21)
+The department of finance, in coordination with the office of human resources, will
+administer the vaccine mandate bonus program, as follows:
+(a)
+Employees who meet the eligibility requirements set forth in section 18-80 (a)—(c) shall receive a one-time bonus payment of four hundred dollars ($400.00),
+to be paid no later than November 26, 2021.
+(b)
+Employees who meet the eligibility requirements set forth in section 18-80 (a), (b) and (d) shall receive a one-time bonus payment of four hundred dollars ($400.00),
+to be paid no later than December 23, 2021.
+(c)
+The COVID-19 vaccination mandate bonus shall be subject to any and all withholdings
+for taxes, employee contributions for benefits, and any other similar withholding
+that may be required by or authorized by the employee.
+(d)
+The office of human resources will determine employee eligibility pursuant to section 18-80 .
+(Ord. No. 1058-21, § 1, 10-25-21)
+(a)
+Purpose. The purpose of this division 6 is to establish a bonus program through which eligible
+city employees receive a one-time bonus of six hundred dollars ($600.00) in appreciation
+for their dedication and service in 2022, when staffing shortages continued to impact
+departments and agencies across the city, often at the expense of the city workforce.
+(b)
+Applicability.
+(1)
+Except as provided in paragraph (b)(2) of this section 18-80.3 , this division 6 shall apply to all full-time and part-time employees, except:
+a.
+On-call employees who have regularly worked less than thirty (30) hours per week within
+the past twelve (12) calendar months;
+b.
+Elected and appointed Charter officers as defined in Charter section 9.2.1 ;
+c.
+Uniformed members of the Denver Fire Department, Denver Sheriff Department and Denver
+Police Department, whose pay and benefits are governed by collective bargaining agreements;
+d.
+Judges and magistrates of the Denver County Court;
+e.
+Board and commission members; and
+f.
+Unpaid volunteers.
+(2)
+This division 6 shall apply to the following employees to the extent authorized by
+their appointing authorities:
+a.
+Employees appointed by the mayor pursuant to the authority of Charter section 9.1.1 (E)(iv);
+b.
+Employees appointed by the auditor pursuant to the authority of Charter section 9.1.1 (E)(viii);
+c.
+Employees appointed by the clerk and recorder pursuant to the authority of Charter section 9.1.1 (E)(xiv);
+d.
+Employees of the city council, library commission, civil service commission, and the
+board of adjustment—zoning;
+e.
+Employees of the district attorney, clerk and recorder and auditor; Employees of the
+Municipal Public Defender's Office;
+g.
+Employees of the Denver County Court; and
+h.
+Career service employees of the Denver Health and Hospital Authority and the Denver
+Zoo.
+(c)
+Eligibility. In order to be eligible for the 2022 employee appreciation bonus, an employee must:
+(1)
+Have been continuously employed by the city since September 30, 2022; and
+(2)
+Be employed by the city at the time payment of the 2022 employee appreciation bonus
+is made.
+(d)
+Appropriation by council required. Payment of 2022 employee appreciation bonuses under this division 6 shall be subject
+to the appropriation of funds for this purpose by city council.
+(e)
+Administration.
+(1)
+Employees who meet the eligibility requirements set forth in subsection (c) shall
+receive a one-time bonus payment of six hundred dollars ($600.00), to be paid no later
+than December 30, 2022.
+(2)
+The 2022 employee appreciation bonus shall be subject to any and all withholdings
+for taxes, employee contributions for benefits, and any other similar withholding
+that may be required by or authorized by the employee.
+(Ord. No. 1575-22, § 1, 12-19-22)
+(a)
+In accordance with the limitations on the salaries of elected Charter officers as
+set forth in section 9.2.2 of the Charter, the council hereby fixes the annual salaries for the term beginning
+July 17, 2023, as follows:
+
+Officer (Elected) | Annual Salary
+Mayor | $205,990.58
+Auditor | 178,152.24
+President of the Denver City Council | 123,846.44
+Members of the Denver City Council | 110,595.76
+Clerk and Recorder | 178,152.24
+
+(b)
+Beginning July 19, 2027, and on the third Monday of July following the general City
+and County election, elected Charter officers salaries shall be adjusted in accordance
+with the procedure in § 9.2.2 . of the Charter.
+(c)
+Current annual elected Charter officer salaries shall be kept and maintained on record
+in the office of human resources at all times and shall be available on the public
+website of the City and County of Denver.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 14-07, § 1, 1-16-07; Ord. No. 99-07, § 1,
+3-5-07; Ord. No. 176-11, § 1, 2-24-11; Ord. No. 23-15, § 1, 2-2-15; Ord. No. 120-19,
+§ 1, 3-4-19; Ord. No. 199-23, § 1, 3-20-23; Ord. No. 347-24, § 1, 4-8-24)
+Elected charter officers shall be paid biweekly in the manner set forth in section 18-11 .
+(Ord. No. 959-05, § 1, 12-19-05)
+The salaries to be paid elected charter officers as set forth in section 18-81 shall remain in effect for the entire term of office of such elected officers beginning
+on July 16, 2007. Pursuant to section 9.2.2 of the Charter, this division 1 shall be self-executing and may not be modified,
+repealed, or superseded by the city council during its term of office.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 99-07, § 2, 3-5-07)
+Elected charter officers shall receive benefits paid to or on behalf of employees
+by the city, in an amount not to exceed the amount established by this chapter for
+career service employees.
+(Ord. No. 959-05, § 1, 12-19-05)
+The career service board having determined limits of the salaries of appointed charter
+officers in accordance with the limitations set forth in section 9.2.3 of the Charter, the council hereby fixes the annual salaries as follows:
+
+Officer (Appointed) | Annual Salary
+Manager of community development and planning | $184,257
+Manager of the department of aviation | 346,975
+City attorney | 216,061
+Manager of the department of safety | 206,481
+Manager of the department of transportation and infrastructure | 195,220
+Manager of the department of human services | 175,876
+Manager of the department of parks and recreation | 170,523
+Manager of the department of general services | 177,332
+Manager of the department of finance | 185,366
+Manager of public health and environment | 188,766
+Manager of licensing and consumer protection | 154,381
+
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 642-06, § 1, 10-2-06; Ord. No. 99-07, §
+3, 3-5-07; Ord. No. 221-07, § 1, 5-14-07; Ord. No. 490, § 1, 9-17-07; Ord. No. 658-07,
+§ 1, 11-13-07; Ord. No. 142-08, § 1, 3-17-08; Ord. No. 579-08, § 1, 11-3-08; Ord.
+No. 134-14, § 1, 3-17-14; Ord. No. 0118-16, § 1, 3-14-16; Ord. No. 0018-17, § 1, 1-30-17;
+Ord. No. 427-18, § 11, 6-11-18; Ord. No. 39-20, § 23, 2-3-20; Ord. No. 383-22, § 1,
+4-15-22; Ord. No. 1003-25, § 10, 7-28-25)
+Appointed charter officers shall be paid biweekly in the manner set forth in section 18-11 .
+(Ord. No. 959-05, § 1, 12-19-05)
+The mayor may appoint any one (1) of his or her cabinet members to be deputy mayor
+for a term ranging from one (1) month up to four (4) years. In addition to the annual
+salary of the appointed cabinet member who serves as deputy mayor, he or she shall
+be paid an additional five thousand dollars ($5,000.00) per year to be paid biweekly
+in the manner set forth in section 18-11 at a biweekly rated arrived at by dividing the annual rate by the biweekly periods
+for the calendar year.
+(Ord. No. 959-05, § 1, 12-19-05)
+Except as otherwise provided herein appointed charter officers shall receive benefits
+paid to or on behalf of employees by the city, in an amount not to exceed the amount
+established by this chapter for career service employees.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 7-06, § 3, 1-9-06; Ord. No. 209-06, § 2,
+3-28-06; Ord. No. 634-09, § 2, 11-2-09)
+(a)
+Positions authorized. The district attorney is authorized to appoint not more than twenty-eight (28) attorneys
+in the combined classifications of chief deputy and senior chief deputy district attorney
+and have not more than twenty-eight (28) being paid in those combined classifications
+at any one (1) time and to have not more than twelve (12) attorneys being paid in
+the senior chief deputy district attorney classification at any one (1) time.
+(b)
+Salary of district attorney.
+(1)
+For 2025, the district attorney of the second judicial district shall not receive
+an increase in salary and shall be paid an annual salary of two hundred forty-four
+thousand eight hundred sixteen dollars ($244,816.00).
+(2)
+Effective January 1, 2026, the district attorney of the second judicial district shall
+receive a four percent (4%) pay increase.
+(3)
+Effective January 1, 2027, the district attorney of the second judicial district shall
+receive a four percent (4%) pay increase.
+(4)
+Effective January 1, 2028, the district attorney of the second judicial district shall
+receive a four percent (4%) pay increase.
+(5)
+Future reviews of the pay assigned to the district attorney shall be conducted during
+the calendar year immediately preceding the expiration of the current term of such
+district attorney.
+(c)
+Classification and pay plan for attorneys employed by the district attorney. The classification and pay plan for the attorneys employed in the office of the district
+attorney, Second Judicial District, shall be as follows, with the following pay grades
+corresponding to pay grades assigned to city attorneys in the classification and pay
+plan adopted and maintained in accordance with division 2 of this article II:
+
+Classification | Pay Grade
+Assistant district attorney | EX-21
+Associate deputy district attorney | EX-13
+Chief deputy district attorney | EX-19
+Deputy district attorney | EX-12
+Senior chief deputy district attorney | EX-20
+Senior deputy district attorney | EX-18
+
+(d)
+As provided in section 18-11 , the city is authorized to implement a lag payroll system for attorneys employed
+in the office of the district attorney. Except as otherwise provided in section 18-11 and in this section, every such employee shall be paid biweekly at a biweekly rate
+arrived at by dividing the annual rate set forth in the pay plan for the pay grade
+applicable to the class to which the position is allocated by the biweekly periods
+for the calendar year.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 266-07, § 1, 6-11-07; Ord. No. 148-08, §
+1, 3-17-08; Ord. No. 687-08, § 1, 12-8-08; Ord. No. 14-09, § 1, 1-5-09; Ord. No. 7-13,
+§ 1, 1-7-13; Ord. No. 1258-16, § 1, 1-3-17; Ord. No. 891-19, § 1, 10-28-19; Ord. No.
+1553-20, § 1, 1-4-21; Ord. No. 1763-24, § 1, 12-23-24)
+(a)
+Compensation of each member except chairperson . The annual compensation of each of the members of the board of adjustment, except
+the chairperson of the board, is hereby fixed at the sum of seven thousand five hundred
+dollars ($7,500.00) to be paid biweekly in twenty-six (26) equal installments payable
+on the established payday of the city. Each alternate member of the board of adjustment
+shall receive one hundred fifty dollars ($150.00) per meeting attended.
+(b)
+Compensation of chairperson. The annual compensation of the chairperson of the board of adjustment is hereby fixed
+at the sum of eight thousand dollars ($8,000.00) to be paid biweekly in twenty-six
+(26) equal installments payable on the established pay day of the city.
+(Ord. No. 959-05, § 1, 12-19-05)
+(a)
+Compensation . The compensation for each member of the career service board is hereby fixed at
+the sum of one hundred fifty dollars ($150.00) for each meeting with a maximum of
+seven thousand five hundred dollars ($7,500.00) a year.
+(b)
+Expenses . The members of the career service board shall be eligible for reimbursement for
+travel in accordance with chapter 20 , article VIII, division 3 of this code. The necessary expenses actually incurred
+by the board in the discharge of their official duties shall be paid by the Office
+of Human Resources.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 661-12, § 3, 12-26-12)
+(a)
+Compensation. The compensation for each member of the civil service commission shall be one hundred
+dollars ($100.00) per meeting with a maximum of one hundred dollars ($100.00) per
+24-hour day.
+(b)
+Expenses. The members of the civil service commission shall be eligible for reimbursement for
+travel in accordance with chapter 20 , article VIII, division 3 of this Code. The necessary expenses actually incurred
+by the members in the discharge of their official duties shall be paid by the civil
+service commission.
+(Ord. No. 959-05, § 1, 12-19-05)
+(a)
+Effective January 1, 2024, the annual salary for deputy sheriff majors, deputy sheriff
+division chiefs and the sheriff shall be as follows:
+Deputy sheriff major: .....$169,930.00
+Deputy sheriff division chief: .....$210,714.00
+Sheriff: .....$226,481.00
+(b)
+Effective July 1, 2024, the annual salary for deputy sheriff majors, deputy sheriff
+division chiefs and the sheriff shall be as follows:
+Deputy sheriff major: .....$176,727.00
+Deputy sheriff division chief: .....$219,142.00
+Sheriff: .....$235,540.00
+(c)
+Effective January 1, 2025, the annual salary for deputy sheriff majors, deputy sheriff
+division chiefs and the sheriff shall be as follows:
+Deputy sheriff major: .....$180,262.00
+Deputy sheriff division chief: .....$223,525.00
+Sheriff: .....$240,251.00
+(d)
+Effective July 1, 2025, the annual salary for deputy sheriff majors, deputy sheriff
+division chiefs and the sheriff shall be as follows:
+Deputy sheriff major: .....$185,669.00
+Deputy sheriff division chief: .....$230,231.00
+Sheriff: .....$247,459.00
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 55-06, § 1, 1-23-06; Ord. No. 381-08, §
+1, 7-21-08; Ord. No. 571-08, § 1, 10-27-08; Ord. No. 42-10, § 1, 1-11-10; Ord. No.
+294-12, § 3, 6-11-12; Ord. No. 666-13, § 1, 12-9-13; Ord. No. 499-15, § 1, 8-10-15,
+eff. 1-1-15; Ord. No. 139-16, § 1, 4-4-16; Ord. No. 1458-17, § 1, 1-16-18; Ord. No.
+148-20, § 1, 3-9-20; Ord. No. 0002-22, § 1, 1-18-22; Ord. No. 1276-22, § 1, 10-31-22;
+Ord. No. 281-24, § 1, 3-26-24)
+(a)
+Effective January 1, 2022, deputy sheriff majors, deputy sheriff division chiefs,
+and the undersheriff, upon reaching their third anniversary date of employment, shall
+be paid longevity pay at the rate of seven dollars ($7.00) per month for each year
+of service except that no employee shall receive longevity compensation in excess
+of one hundred seventy-five dollars ($175.00) per month or two thousand one hundred
+dollars ($2,100.00) per year.
+(b)
+Effective January 1, 2023, deputy sheriff majors, deputy sheriff division chiefs,
+and the sheriff, upon reaching their third anniversary date of employment, shall be
+paid longevity pay at the rate of ten dollars ($10.00) per month for each year of
+service.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 381-08, § 2, 7-21-08; Ord. No. 1220-21,
+§ 1, 11-15-21; Ord. No. 0002-22, § 2, 1-18-22)
+Deputy sheriff majors, deputy sheriff division chiefs, and the undersheriff shall
+receive insurance coverage under those programs in chapter 18 , article VI of the Denver Revised Municipal Code, except that the city shall provide
+each employee a group life insurance benefit of two (2) times the employee's annual
+salary, up to a maximum of four hundred thousand dollars ($400,000.00) and a double-indemnity
+benefit for accidental death and dismemberment, subject to the provisions and limitations
+contained in the contract between the city and the insurance carrier and to such requirements
+and conditions as the health committee may from time to time establish. Employees
+may voluntarily participate, at the employee's cost, with no contribution by the city,
+in the deferred compensation program, the FLEX cash program, vision plan, supplemental
+life insurance plan, voluntary short term disability plan, and voluntary accidental
+death and dismemberment insurance, as long as these programs or plans are offered
+to the other deputy sheriffs.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 55-06, § 2, 1-23-06; Ord. No. 381-08, §
+3, 7-21-08)
+(a)
+Effective January 1, 2008:
+(1)
+Eligible deputy sheriff majors, deputy sheriff division chiefs, and the undersheriff
+shall receive eight (8) hours of vacation leave for each full calendar month of service
+with the city, for the first five (5) years of service within the career service.
+(2)
+Eligible deputy sheriff majors, deputy sheriff division chiefs, and the undersheriff
+shall receive ten (10) hours of vacation leave for each full calendar month of service
+with the city for the sixth through the tenth consecutive year of service within the
+career service.
+(3)
+Eligible deputy sheriff majors, deputy sheriff division chiefs, and the undersheriff
+shall receive twelve (12) hours of vacation leave for each full calendar month of
+service for the eleventh through the fifteenth consecutive years of service within
+the career service.
+(4)
+After the completion of fifteen (15) consecutive years of service, eligible deputy
+sheriff majors, deputy sheriff division chiefs, and the undersheriff all employees
+shall receive fourteen (14) hours of vacation leave for each full month of service
+within the career service.
+(b)
+Credits for less than a full month of service. Deputy sheriff majors, deputy sheriff division chiefs, and the undersheriff in a
+full-time position who work less than a full calendar month shall receive prorated
+vacation leave in accordance with the following schedule based on a pay period:
+(1)
+Under forty (40) hours—No vacation leave.
+(2)
+Forty (40) through fifty-nine (59) hours—Half of vacation leave authorized by subsections
+(a)(1) through (a)(4) of this section.
+(3)
+Sixty (60) through seventy-nine (79) hours—Three-fourths of vacation leave authorized
+by subsections (a)(1) through (a)(4) of this section.
+(4)
+Eighty (80) hours or more—Entire amount of vacation leave authorized by subsections
+(a)(1) through (a)(4) of this section.
+(c)
+Maximum. A maximum of two hundred eighty-eight (288) hours of vacation leave is accruable
+to an employee who has up to ten (10) years of service within the career service,
+and three hundred thirty-six (336) hours of vacation leave to an employee who has
+ten (10) or more years of service within the career service.
+(d)
+Granting vacation leave. The appointing authority shall grant vacation leave in accordance with the following
+provisions:
+(1)
+Vacation leave shall be granted only to deputy sheriff majors, deputy sheriff division
+chiefs, and the undersheriff who have been deputy sheriffs continuously for at least
+six (6) months.
+(2)
+Vacation leave shall be granted each calendar year unless the appointing authority
+defers a deputy sheriff major's, a deputy sheriff division chief's, or the undersheriff's
+vacation leave because of unusual work requirements. An employee's vacation shall
+not be deferred to the extent that vacation leave credits are lost.
+(3)
+Vacation leave shall not be granted in advance of accrual.
+(e)
+Transfer of vacation leave credits. If a deputy sheriff major, deputy sheriff division chief, or the undersheriff transfers
+from one (1) agency or classification to another agency or classification within the
+career service, vacation leave shall be transferred with the employee and the accrued
+vacation time shall include the continuous length of service accumulated in another
+agency and classification within the career service.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 381-08, § 4, 7-21-08)
+(a)
+Crediting sick leave. Deputy sheriff majors, deputy sheriff division chiefs, and the undersheriff working
+full time shall accrue sick leave at the rate of eight (8) hours per month of service
+within the career service, and those employees working part time shall accrue a proportionate
+amount.
+(b)
+Accruing and conversion of sick leave: Sick leave may be accumulated to a limit of nine hundred sixty (960) hours. When
+the accumulation exceeds eight hundred eighty (880) working hours, deputy sheriff
+majors, deputy sheriff division chiefs, and the undersheriff shall be granted eight
+(8) hours of vacation leave or eight (8) hours at straight time pay for each eight-hour
+day of sick leave accumulated beyond eight hundred eighty (880) hours up to a limit
+of ninety-six (96) hours a year, in addition to the vacation leave to which the employee
+is otherwise entitled.
+(c)
+Payment upon separation:
+(1)
+Upon separation for any reason other than termination for cause, death, or retirement,
+a deputy sheriff major, deputy sheriff division chief, or the undersheriff who has
+completed five (5) consecutive years of service shall be paid at the regular rate
+of pay for the difference between the balance of sick leave days to his or her credit
+and forty (40) hours multiplied by the years of service to a maximum of ten (10) years.
+(2)
+Upon separation due to retirement or death, a deputy sheriff major, deputy sheriff
+division chief, or the undersheriff shall be paid at his or her regular rate of pay
+for one-half (½) of all accumulated sick leave credits existing on the effective date
+of retirement or death, or for the difference between the balance of sick leave days
+to his or her credit and thirty-six (36) hours multiplied by the years of service
+to a maximum of ten (10) years, whichever is higher, but not to exceed six hundred
+(600) working hours.
+(d)
+Granting sick leave: The appointing authority shall grant sick leave pay in accordance with the following
+provisions:
+(1)
+Sick leave shall not be granted in advance of accrual.
+(2)
+Leave without pay may be granted for sickness extending beyond the earned credits.
+(3)
+After six (6) continuous months of service, vacation leave credits may be used for
+sick leave when sick leave has been exhausted.
+(e)
+Sick leave for family care:
+(1)
+Sick leave may be used when a deputy sheriff major, deputy sheriff division chief,
+or the undersheriff is incapacitated by sickness or injury; for disabilities caused
+or contributed to by pregnancy, miscarriage, abortion, childbirth, and recovery therefrom;
+for medical, dental or optical examination or treatment, including examinations for
+military service or disability payments; or for necessary care and attendance during
+sickness of a member of the employee's immediate family. Immediate family includes
+husband, wife, son, daughter, mother, father, sister, brother, grandmother, grandfather,
+grandchildren, son-in-law, daughter-in-law, mother-in-law, father-in-law, brother-in-law
+and sister-in-law, and domestic partner as defined by the city.
+(2)
+The amount of sick leave granted for necessary care of the employee's immediate family
+shall not exceed eighty (80) work hours in any twelve-month period. Nothing in this
+paragraph shall limit the amount of unpaid leave which can be taken by an employee
+when federal law provides for such leave.
+(f)
+Debiting sick leave: Sick leave shall be debited as follows:
+(1)
+The amount of sick leave to be debited shall be computed on the basis of the exact
+number of half hours the employee is scheduled to work when leave is utilized.
+(2)
+Holidays or other regular days off shall not be counted in debiting sick leave.
+(3)
+Sick leave shall be debited in no less than one-half-hour units.
+(g)
+Effect of transfer on sick leave credits: When a deputy sheriff major, deputy sheriff division chief, or the undersheriff transfers
+from one (1) agency or classification within the career service to another, the sick
+leave credits shall be transferred with the employee.
+(Ord. No. 959-05, § 1, 12-19-05)
+Deputy sheriff majors, deputy sheriff division chiefs, and the sheriff shall receive
+eight (8) hours of holiday leave on the following days:
+(1)
+New Year's Day (January 1);
+(2)
+Dr. Martin Luther King, Jr. Day (third Monday in January);
+(3)
+Presidents' Day (third Monday in February);
+(4)
+Cesar Chavez Day (last Monday in March);
+(5)
+Memorial Day (last Monday in May);
+(6)
+Juneteenth (June 19);
+(7)
+Independence Day (July 4);
+(8)
+Labor Day (first Monday in September);
+(9)
+Veteran's Day (November 11);
+(10)
+Thanksgiving Day (fourth Thursday in November);
+(11)
+Christmas Day (December 25); and
+(12)
+Personal holiday (on a date chosen by the employee under procedures approved by the
+sheriff, or in the case of the sheriff, the manager of safety).
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 1220-21, § 2, 11-15-21; Ord. No. 0002-22,
+§ 3, 1-18-22; Ord. No. 281-24, § 2, 3-26-24)
+A deputy sheriff major, deputy sheriff division chief, or undersheriff who is required
+to serve as juror in a federal, state or municipal court shall be granted jury leave
+with full pay to serve in that capacity except that the employee shall pay to the
+city any jury fees he or she receives for such service. An employee who is subpoenaed
+to testify concerning matters arising out of the performance of his or her duties
+shall be granted court leave with full pay to serve in that capacity.
+(Ord. No. 959-05, § 1, 12-19-05)
+Effective January 1, 2003, a deputy sheriff major, deputy sheriff division chief,
+or the undersheriff may be granted up to three (3) days funeral leave per year in
+the event of the death of a member of his or her immediate family. Immediate family
+includes husband, wife, son, daughter, mother, father, sister, brother, grandmother,
+grandfather, grandchildren, stepfather, stepmother, son-in-law, daughter-in-law, mother-in-law,
+father-in-law, brother-in-law, sister-in-law, and domestic partner as defined by the
+city. Funeral leave shall not be cumulative from year to year.
+(Ord. No. 959-05, § 1, 12-19-05)
+Eligible deputy sheriff majors, deputy sheriff division chiefs, or the undersheriff
+who are required to attend annual military training exercises with the United States
+government or any political subdivision thereof shall be granted at least one (1)
+and up to fifteen (15) days military leave in increments of one (1) to fifteen (15)
+days or any multiple thereof totaling fifteen (15) days. An employee who has requested
+but is not required to attend military training exercises may attend if the appointing
+authority grants military leave.
+(Ord. No. 959-05, § 1, 12-19-05)
+An annual allowance shall be paid to deputy sheriff majors, deputy sheriff division
+chiefs, and the sheriff for the maintenance of uniforms. This payment shall be made
+at the end of each calendar year. Upon separation other than for cause, this payment
+shall be prorated for the number of months served during the calendar year. Effective
+January 1, 2023, the amount of the annual allowance shall be seven hundred fifty dollars
+($750.00).
+All employees hired on or after January 1, 2024 shall receive an allowance of up to
+one thousand dollars ($1,000.00) toward the cost of purchasing a weapon from the list
+of duty weapons approved by the department. Such payment shall be made within thirty
+(30) days after the employee presents the department with written proof of purchase
+of the weapon.
+Upon separation from employment, any employee who received this allowance will retain
+the weapon they purchased, and shall reimburse the City in accordance with the following
+proration schedule:
+(1)
+If employed by the department for less than one (1) year: 100% of the weapon allowance
+amount paid by the city;
+(2)
+If employed by the department for less than two (2) years: 80% of the weapon allowance
+amount paid by the city;
+(3)
+If employed by the department for less than three (3) years: 60% of the weapon allowance
+amount paid by the city;
+(4)
+If employed by the department for less than four (4) years: 40% of the weapon allowance
+amount paid by the city;
+(5)
+If employed by the department for less than five (5) years: 20% of the weapon allowance
+amount paid by the city; and
+(6)
+If employed by the department for five (5) or more years: no reimbursement required.
+Such reimbursement, if any, shall be deducted from the employee's final paycheck.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 55-06, § 3, 1-23-06; Ord. No. 381-08, §
+5, 7-21-08; Ord. No. 666-13, § 2, 12-9-13; Ord. No. 148-20, § 2, 3-9-20; Ord. No.
+1220-21, § 3, 11-15-21; Ord. No. 0002-22, § 4, 1-18-22; Ord. No. 281-24, § 3, 3-26-24)
+Effective January 1, 2003, the provisions of division 4 of article V of this chapter
+shall apply with regard to job-related injury leave notwithstanding the provisions
+of section 18-151 (3)d.; except that a deputy sheriff major, deputy sheriff division chief, or the undersheriff
+shall be granted such leave at his or her full salary for a period not to exceed one
+hundred eighty (180) days which can be used over a period of eighteen (18) months
+immediately following the date of the occupational injury or occupational disease.
+If an employee who is on job-related injury leave, as described above, is not cleared
+to return back to duty by the city physician, after the one-hundred-eighty-day limit
+set above, the employee may use available vacation or sick leave.
+(Ord. No. 959-05, § 1, 12-19-05)
+For purposes of calculating payments for accrued sick and vacation leave, the hourly
+rate for deputy sheriff majors, deputy sheriff division chiefs, and the undersheriff
+shall be determined by adding the employee's annual salary and longevity pay and dividing
+that total annual figure by two thousand and eighty (2,080) hours.
+(Ord. No. 959-05, § 1, 12-19-05)
+In the event a deputy sheriff major, deputy sheriff division chief or the undersheriff
+is killed in the line of duty, the city shall provide medical and dental insurance
+coverage to the officer's surviving spouse and dependents for a period of one (1)
+year after the date of the officer's death, and the cost of such coverage will paid
+entirely by the city.
+(Ord. No. 55-06, § 4, 1-23-06)
+Effective January 1, 2016, a deputy sheriff division chief who, for a period of eight
+(8) consecutive work hours or more, is temporarily assigned to act as the sheriff
+shall be compensated at the rate of pay of the sheriff, in lieu of the salary of deputy
+sheriff division chief, for such time assigned to act as the sheriff; and, a deputy
+sheriff major who, for a period of eight (8) consecutive work hours or more, is temporarily
+assigned to act as a deputy sheriff division chief shall be compensated at the pay
+rate of deputy sheriff division chief, in lieu of the salary of deputy sheriff major,
+for such time assigned to act as a deputy sheriff division chief.
+(Ord. No. 55-06, § 4, 1-23-06; Ord. No. 666-13, § 3, 12-9-13; Ord. No. 499-15, § 2,
+8-10-15, eff. 1-1-15; Ord. No. 139-16, § 2, 4-4-16)
+Effective January 1, 2025, birthing and adopting parents shall receive up to four
+(4) weeks of paid leave to care for their child immediately following the child's
+birth or adoption. Paid parental leave shall run concurrently with FMLA leave. To
+qualify for the leave, an employee must have been employed by the department for twelve
+(12) months prior to the use of paid parental leave.
+(Ord. No. 281-24, § 4, 3-26-24)
+Editor's note— Section 3 of Ord. No. 634-09, adopted Nov. 2, 2009, amended div. 1 in its entirety
+to read as herein set out. Former div. 1 pertained to vacation leave, consisted of
+§§ 18-121—18-125, and derived from Ord. No. 959-05, adopted Dec. 19, 2005; Ord. No.
+7-06, adopted Jan. 9, 2006; and Ord. No. 209-06, adopted Mar. 28, 2006.
+The purposes of this division are as follows:
+(a)
+To reduce the amount of costly financial payouts for large amounts of accumulated
+sick and vacation leave when officers or employees separate from their employment
+with the city and county of Denver;
+(b)
+To provide officers or employees hired after December 31, 2009, paid leave benefits
+similar to those currently provided to appointed officers and to create a uniform
+PTO plan under which all such leave benefits shall be administered;
+(c)
+To afford officers and employees hired before January 1, 2010, the opportunity to
+participate in the PTO plan by converting and placing the existing amounts of sick
+and vacation leave into a special leave bank not to exceed four hundred (400) hours;
+(d)
+To allow for agencies, departments, commissions, or offices to make separation payments
+to officers or employees for the balance of their leave and special leave bank, each
+not to exceed four hundred (400) hours; and
+(e)
+To provide an incentive for officers and employees hired prior to January 1, 2010,
+to participate in the PTO plan by affording them the opportunity to utilize their
+leave at separation in the calculation of retirement benefits for employees of the
+Denver Employees Retirement Plan (DERP).
+(f)
+To comply with Colorado Senate Bill 20-205 , the "Healthy Families and Workplace Act" as set forth in C.R.S. 8-13.3-401 et seq.
+(Ord. No. 634-09, § 3, 11-2-09; Ord. No. 1233-20, § 1, 11-23-20)
+For purposes of this division 1., the following terms shall have the following meaning:
+(a)
+Employee means any employee of the city and county of Denver within the meaning of section 1.2.11 of the Charter, including employees in the career service and employees not in the
+career service.
+(b)
+Officer means any of the following:
+(1)
+Elected Charter officers; mayor, auditor; clerk and recorder; and members of the city
+council.
+(2)
+Appointed Charter officers; manager of public health and environment, manager of transportation
+and infrastructure, city attorney, manager of safety, manager of finance, manager
+of parks and recreation, manager of general services, manager of human services, manager
+of aviation, manager of community planning and development, and manager of licensing
+and consumer protection.
+(c)
+City means the city and county of Denver, a municipal corporation created by and operating
+by virtue of Article XX of the Constitution of the State of Colorado.
+(d)
+Paid time off (PTO) bank means a depository where an officer's or employee's monthly PTO leave benefit is
+deposited and stored for future use.
+(e)
+Immediate family member means spouse, partner in a civil union or domestic partner ("partner"), child, parent,
+grandparent, grandchild, sibling, child-in-law, parent-in-law, sibling-in-law, and
+the child, parent, or sibling of the partner. The terms child, parent, and sibling
+shall apply equally to relationships by birth, adoption, marriage, foster care, or
+guardianship (e.g. step-children and step-parents). Child shall also include children
+for whom the officer or employee or the officer's or employee's spouse or partner
+provide day-to-day care or financial support, and a child lost through stillbirth.
+(f)
+Special leave bank means a depository where an officer or employee who converts to PTO from receiving
+paid sick and vacation leave may store vacation leave and up to one-half of sick leave
+earned prior to February 1, 2010, that has been converted to PTO.
+(Ord. No. 634-09, § 3, 11-2-09; Ord. No. 427-18, § 11, 6-11-18; Ord. No. 601-19, §
+1, 7-15-19; Ord. No. 39-20, § 24, 2-3-20; Ord. No. 1003-25, § 10, 7-28-25)
+(a)
+All officers and employees hired or rehired by the city after December 31, 2009, shall
+receive PTO as provided in this division, with the exception of:
+(1)
+Part-time employees who are regularly scheduled to work less than twenty (20) hours
+per week;
+(2)
+Members of the classified service of the police and fire departments;
+(3)
+Employees in the deputy sheriff classifications;
+(4)
+Employees occupying on-call, temporary, seasonal, or contract positions, or positions
+in which the incumbent is paid according to the community rate schedule; or employees
+who meet the requirements of subsection 18-408 (j)(7) of this chapter.
+(5)
+Elected officers.
+(b)
+Officers and employees who were receiving the city's paid leave benefit (predecessor
+to this PTO benefit) on December 31, 2009, and who otherwise continue to remain eligible,
+shall receive PTO as provided in this division.
+(c)
+Reinstated employees. Employees who were laid off while receiving paid sick and vacation
+leave benefits, and are reinstated under the career service rules after December 31,
+2009, will be enrolled in the PTO plan unless they elect in writing to continue in
+the paid sick and vacation plan. Such election must be made within thirty (30) days
+of the effective date of their reinstatement.
+(d)
+All on-call and part-time employees who are regularly scheduled to work less than
+twenty (20) hours per week shall receive sick leave pursuant to the Colorado Healthy
+Families and Workplaces Act at the rate of one (1) hour of leave per thirty (30) hours
+worked. Any unused leave accumulated by on call and part-time employees scheduled
+to work twenty (20) hours per week pursuant to the Colorado Healthy Families and Workplace
+Act shall not be payable to the employee upon separation, as these employees are not
+"eligible" for such payout pursuant to section 18-127 .
+(Ord. No. 634-09, § 3, 11-2-09; Ord. No. 611-19, § 1, 7-15-19; Ord. No. 1233-20, §
+2, 11-23-20)
+(a)
+[Election of benefits.] Officers and employees who were receiving paid sick and vacation leave on December
+31, 2009; and who otherwise continue to remain eligible, may voluntarily elect to
+receive PTO benefits instead of paid sick and vacation leave. In order to receive
+PTO benefits, such officers and employees must provide written notice of this election
+to the department of finance on or before February 1, 2010. Submission of this written
+notice will result in an irrevocable waiver of the officer's or employee's right to
+further receipt of paid sick and vacation leave benefits provided under this article.
+(b)
+Conversion of existing sick and vacation leave banks. Officers and employees who elect to participate in the PTO plan must convert their
+existing sick and vacation leave banks into a special leave bank subject to the following
+conditions. An officer or employee may deposit one hundred (100) percent of his or
+her existing vacation leave plus a maximum of fifty (50) percent of his or her existing
+sick leave into PTO, which shall be deposited in a special leave bank, so long as
+the amount of PTO in the special leave bank does not exceed four hundred (400) hours.
+Any excess sick leave shall be forfeited. The amount of existing sick and vacation
+leave to be converted shall be the amount of leave earned as of January 31, 2010.
+(c)
+Exhaustion of special leave bank. The PTO balance in an officer's or employee's special leave bank shall not be replenished.
+PTO subsequently earned by an officer or employee shall be deposited in his or her
+PTO bank. PTO used by an officer or employee shall be debited from the officer's or
+employee's PTO bank first unless it has been exhausted or if the officer or employee
+requests that the special leave bank be used first.
+(Ord. No. 634-09, § 3, 11-2-09)
+The amount of PTO earned by eligible employees and officers working full-time shall
+be calculated as follows:
+(a)
+Under six (6) months of consecutive service, ten (10) hours per month;
+(b)
+At six (6) consecutive months of service, and up to five (5) years of consecutive
+service; twelve (12) hours per month;
+(c)
+At five (5) consecutive years of service, and up to ten (10) years of consecutive
+service; fifteen (15) hours per month;
+(d)
+At ten (10) consecutive years of service, and up to fifteen (15) years of consecutive
+service; eighteen (18) hours per month;
+(e)
+At fifteen (15) or more consecutive years of service; nineteen (19) hours per month;
+These amounts are demonstrated below:
+
+Paid Time Off
+Years of Service | Accrual Hours per Month | Hours per Year
+From hire to 6 months | 10 | -
+From 7 months to 1 year | 12 | 132
+Years 1 to 4 | 12 | 144
+At 5 years, <10 years | 15 | 180
+At 10 years, <15 years | 18 | 216
+At 15 years and beyond | 19 | 228
+
+A proportionate amount shall be allowed eligible employees working part-time.
+(Ord. No. 634-09, § 3, 11-2-09; Ord. No. 233-21, § 4, 3-30-21)
+When an officer or employee receiving PTO is appointed to a position in another city
+department or agency which is governed by the provisions of this article, his or her
+PTO credits shall be transferred into the new place of city employment provided that
+the entrance on duty in the new position immediately follows the separation from the
+former position.
+(Ord. No. 634-09, § 3, 11-2-09)
+(a)
+PTO may not be accumulated in the PTO bank in excess of four hundred (400) hours.
+(b)
+Upon separation, a PTO recipient shall be paid at his or her regular rate of pay for
+the unused portion of his or her accumulated PTO bank and special bank if applicable.
+(Ord. No. 634-09, § 3, 11-2-09)
+Officers and employees who receive PTO benefits shall be entitled to use up to forty
+(40) hours of paid bereavement leave because of the death of a member of an officer's
+or employee's immediate family. This forty (40) hours of bereavement leave shall not
+count against the officer's or employee's PTO bank.
+(Ord. No. 634-09, § 3, 11-2-09)
+The career service rules shall include provisions implementing this division relating
+to PTO that shall apply to all officers and employees covered by this division, including,
+but not limited to, rules related to donated leave, approval of leave usage, and debiting
+leave balances. Career service rules implementing the PTO leave benefit shall apply
+to officers and employees not in the career service, except that when the career service
+rules permit exceptions with the approval of the Office of Human Resources Executive
+Director, such approval shall be the sole responsibility of the employee's appointing
+authority, and the approval of the Office of Human Resources Executive Director shall
+not be required.
+(Ord. No. 634-09, § 3, 11-2-09; Ord. No. 661-12, § 3, 12-26-12)
+Editor's note— Section 3 of Ord. No. 634-09, adopted Nov. 2, 2009, amended div. 2 in its entirety
+to read as herein set out. Former div. 2 pertained to sick leave and derived from
+Ord. No. 959-05, adopted Dec. 19, 2005; Ord. No. 7-06, adopted Jan. 9, 2006; and Ord.
+No. 209-06, adopted Mar. 28, 2006.
+(a)
+[Continuous eligibility.] Officers and employees who were receiving paid sick and vacation leave on December
+31, 2009; who remain continuously employed by the city; and who have not voluntarily
+elected to receive PTO benefits, shall be entitled to continue to receive paid sick
+and vacation leave so long as the officer or employee does not become:
+(1)
+A part-time employee who is regularly scheduled to work less than twenty (20) hours
+per week;
+(2)
+A member of the classified service of the police and fire departments;
+(3)
+An employee in the deputy sheriff classifications;
+(4)
+A person occupying or employed in on-call, temporary, seasonal, or contract position,
+or position in which the incumbent is paid according to the community rate schedule.
+(b)
+Reinstated employees. Employees who were laid off while receiving paid sick and vacation leave benefits,
+and are reinstated under the career service rules after December 31, 2009, may elect
+in writing to continue in the paid sick and vacation plan. Such election must be made
+within thirty (30) days of the effective date of their reinstatement. Failure to submit
+this election will result in the employee being enrolled in the PTO plan.
+(c)
+All on-call and part-time employees who are regularly scheduled to work less than
+twenty (20) hours per week shall receive sick leave pursuant to the Colorado Healthy
+Families and Workplaces Act at the rate of one hour of leave per thirty (30) hours
+worked. Any unused leave accumulated by on call and part-time employees scheduled
+to work twenty (20) hours per week pursuant to the Colorado Healthy Families and Workplace
+Act shall not be payable to the employee upon separation, as these employees are not
+"eligible" for such payout pursuant to section 18-134 .
+(Ord. No. 634-09, § 3, 11-2-09; Ord. No. 1233-20, § 3, 11-23-20)
+Subject to the following provisions, the heads of all offices, agencies, commissions
+and departments of the city are hereby authorized and directed to grant paid sick
+and vacation leave to eligible officers and employees:
+(a)
+Sick leave.
+(1)
+Officers and employees working full-time shall accrue sick leave at the rate of eight
+(8) working hours per month of service, and officers and employees working part-time
+shall accrue a proportionate amount.
+(2)
+Sick leave may be accumulated to a limit of nine hundred sixty (960) working hours.
+When the accumulation exceeds eight hundred eighty (880) working hours, an officer
+or employee may request that accumulated sick leave in excess of the eight hundred
+eighty (880) working hours be converted to vacation leave. Such conversions are in
+addition to the monthly amount of vacation leave allowed by this section. Officers
+and employees may not convert sick leave to vacation leave if such a conversion would
+result in the officer's or employee's accumulated vacation leave exceeding the limits
+allowed by the career service rules.
+(b)
+Vacation leave.
+(1)
+The amount of vacation leave allowed eligible officers and employees working full-time,
+employed after January 1, 1981, shall be computed on the basis of eight (8) working
+hours per month of service for the first five (5) consecutive years. All eligible
+officers and employees working full-time shall be computed on the basis of ten (10)
+working hours per month of service for five (5) to ten (10) consecutive years, twelve
+(12) working hours per month of service for ten (10) to fifteen (15) consecutive years
+and fourteen (14) working hours per month of service for fifteen (15) or more consecutive
+years, and an amount proportionate thereto shall be allowed eligible employees working
+part-time.
+(2)
+Vacation leave shall be taken at a time convenient to the office, agency, commission
+or department head, provided that, every eligible officer and employee shall be granted
+vacation leave during each twelve (12) month period of employment except where a deferment,
+not to exceed an additional twelve (12) months, is required for the good of the service.
+(Ord. No. 634-09, § 3, 11-2-09)
+When an officer or employee receiving paid sick and vacation leave is appointed to
+a position in another city department or agency which is governed by the provisions
+of this division, his or her sick and vacation leave credits shall be transferred
+into the new place of city employment provided that the entrance on duty in the new
+position immediately follows the separation from the former position.
+(Ord. No. 634-09, § 3, 11-2-09)
+Upon separation, eligible officers and employees shall be paid for the unused portion
+of their accumulated sick and vacation leave, if any, subject to the following provisions:
+(a)
+Sick leave.
+(1)
+Upon separation for any reason other than death or retirement, an officer or employee
+who has completed five (5) consecutive years of service shall be paid at the regular
+rate of pay for the difference between the balance of sick leave days to his or her
+credit and forty (40) hours multiplied by the years of service to a maximum of ten
+(10) years.
+(2)
+Upon separation due to retirement or death, an officer or employee shall be paid at
+his or her regular rate of pay for one-half of all accumulated sick leave credits
+existing on the effective date of separation or death, or in accordance with the method
+described under subsection (1), whichever is higher, but not to exceed five hundred
+sixty (560) working hours.
+(b)
+Vacation leave. An eligible officer or employee who has served in a city position for less than six
+(6) months shall not be paid for any accumulated vacation leave. Officers or employees
+with more than six (6) months of service may use accumulated vacation leave and shall
+be paid at his or her regular rate of pay for the unused portion of his or her accumulated
+vacation leave upon separation.
+(Ord. No. 634-09, § 3, 11-2-09)
+(a)
+Sick leave.
+(1)
+Officers and employees who participated in DROP who maintain continuous city employment
+following the end of the DROP, shall accrue sick leave hours in accordance with section 18-132 , including application of the maximum accrual limitations, in the same manner as
+a regular employee. During this period, accumulated sick leave may be converted into
+vacation leave if used immediately upon conversion.
+(2)
+Upon final separation due to retirement or death, a member who has participated in
+the DROP shall be paid one-half of his or her accrued and unused sick leave. Upon
+separation for any other reason, the officer or employee shall be paid for sick leave
+in accordance with subsection 18-134 (a)(1).
+(b)
+Vacation leave.
+(1)
+For any period of continuous city employment following the end of the DROP, the officer
+or employee shall continue to accrue vacation leave hours in accordance with subsection
+18-132(b) in the same manner as a regular officer or employee. Upon final separation
+from city employment, the officer or employee shall be paid, in accordance with section 18-134 for unused vacation leave hours that accrued after the officer's or employee's declaration
+of retirement without separation from employment.
+(2)
+If the officer or employee continues employment after participation in the DROP, the
+calculation of a bridged pension benefit earned during the continuous employment after
+the DROP exit shall include any accrued vacation leave payoff received by the officer
+or employee at termination of employment.
+(Ord. No. 634-09, § 3, 11-2-09)
+The career service rules shall include provisions implementing this division relating
+to sick and vacation leave that shall apply to all officers and employees covered
+by this division, including, but not limited to rules related to donated leave, approval
+of leave usage, and debiting leave balances. Career service rules implementing sick
+and vacation leave benefits shall apply to officers and employees not in the career
+service, except that when the career service rules permit exceptions with the approval
+of Office of Human Resources Executive Director, such approval shall be the sole responsibility
+of the officer's or employee's appointing authority, and the approval of the Office
+of Human Resources Executive Director shall not be required.
+(Ord. No. 634-09, § 3, 11-2-09; Ord. No. 661-12, § 3, 12-26-12)
+Appointed charter officers as defined in section 9.2.1 (B) of the charter and employees shall receive holiday benefits as provided in this
+division, with the exception of:
+(1)
+Part-time employees who are regularly scheduled to work less than twenty (20) hours
+per week;
+(2)
+Members of the classified service of the police and fire departments;
+(3)
+Certain trainees as defined in the career service rules;
+(4)
+Persons occupying or employed in on-call, temporary, seasonal, or contract positions,
+or positions in which the incumbent is paid according to the community rate schedule;
+and
+(5)
+Employees in the deputy sheriff classifications.
+(Ord. No. 959-05, § 1, 12-19-05)
+"Holidays" for the purposes of this article shall mean eight (8) hours in the following
+days:
+(1)
+New Year's Day (January 1);
+(2)
+Martin Luther King Day (third Monday in January);
+(3)
+Washington's Birthday (to be observed on the third Monday in February);
+(4)
+Cesar Chavez Day (last Monday in March);
+(5)
+Memorial Day (last Monday in May);
+(6)
+Juneteenth (June 19);
+(7)
+Independence Day (July 4);
+(8)
+Labor Day (first Monday in September);
+(9)
+Indigenous Peoples' Day (Second Monday in October);
+(10)
+Veterans' Day (November 11);
+(11)
+Thanksgiving Day (fourth Thursday in November);
+(12)
+Christmas Day (December 25);
+(13)
+Personal holiday (one (1) personal holiday on date agreed upon by employee and the
+city to be used within the calendar year).
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 555-22, § 1, 6-20-22; Ord. No. 261-25, §
+2, 3-24-25)
+Subject to the following provisions, all offices, agencies, commissions and departments
+of the city are hereby authorized and directed to grant to employees and appointed
+Charter officers, with pay, the holidays as designated in section 18-142 :
+(1)
+If any of the holidays enumerated in section 18-142 shall fall upon a Sunday, then the Monday following shall be considered as the holiday.
+If any of the holidays enumerated in section 18-142 shall fall upon a Saturday, then the preceding Friday shall be considered as the
+holiday.
+(2)
+An employee may be required to work on a holiday in order to maintain essential services
+to the public.
+(Ord. No. 959-05, § 1, 12-19-05)
+The career service rules shall include provisions implementing this division relating
+to holidays insofar as applicable to employees of the city in positions which are
+comprised within the career service.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 661-12, § 3, 12-26-12)
+The following words and phrases, when used in this division, shall have the meanings
+respectively ascribed to them:
+(1)
+Disability shall mean physical inability of an eligible employee or appointed Charter officer
+to perform the duties of the position or any other position within or outside the
+city due to injury or occupational disease incurred in the course of employment with
+the city.
+(2)
+Disability leave shall mean the difference between the employee's temporary disability rate as established
+in the Workers' Compensation Act of Colorado, Title 8, Articles 40—47, C.R.S., as
+amended, ("the Act") and eighty (80) percent of his/her gross salary.
+(3)
+Eligible employees and charter officers shall mean any persons occupying either full-time or part-time positions in the employ
+of the city or any of the departments thereof, and officers as defined in section 9.2.1 of the charter, with the exception of the following:
+a.
+Members of the classified service of the police and fire departments;
+b.
+Certain trainees as defined in the career service rules;
+c.
+Persons occupying or employed in on-call, temporary, seasonal, or contract positions,
+or positions in which the incumbent is paid according to the community rate schedule;
+and
+d.
+Employees in the deputy sheriff classifications.
+(5)
+Temporary disability benefits shall mean the disability indemnity payable as wages to an eligible employee or appointed
+Charter officer under the provisions of the Workers' Compensation Act for the duration
+of the temporary total or partial disability.
+(Ord. No. 959-05, § 1, 12-19-05)
+Subject to the following provisions, eligible employees and appointed Charter officers
+shall be granted disability leave with pay for a period not to exceed ninety (90)
+consecutive calendar days for each occupational injury or occupational disease:
+(1)
+Disability leave shall begin with the first day of disability provided, however, that
+disability leave shall be granted only if:
+a.
+A claim for temporary disability benefits has been allowed without a penalty for failure
+to use a safety device, failure to follow a safety rule, injury because of intoxication,
+or other penalty as may be provided by law; and
+b.
+The disability continues for more than three (3) shift periods.
+(2)
+Every employee who sustains an injury shall immediately notify their supervisor of
+the injury and shall provide written notice to the supervisor within four (4) days
+of its occurrence, unless the employee shall be physically or mentally unable to do
+so, or unless the foreman, superintendent, manager or other person in charge shall
+have actual notice of the injury. If the employee shall fail to report the injury,
+the employee shall lose one (1) day's disability leave for each day's failure to so
+report. If anyone shall report the accident for the injured employee within the time
+above specified, then the injured employee shall be relieved from reporting the accident.
+(3)
+If the disability extends beyond the date of mandatory retirement of an eligible employee
+or appointed Charter officer, such date shall terminate the disability leave with
+pay.
+(Ord. No. 959-05, § 1, 12-19-05)
+The career service rules shall include provisions implementing this division relating
+to disability leave.
+(Ord. No. 959-05, § 1, 12-19-05)
+Editor's note— Ord. No. 7-06, § 10, adopted Jan. 9, 2006, changed the title of division 5 from "military
+leave" to "military leave and pay differential."
+Employees and appointed Charter officers eligible under the Uniformed Services Employment
+and Reemployment Rights Act of 1994, 38 U.S.C. §§ 4301, et seq. ("USERRA"), as it
+may be amended, shall be granted leaves of absence for military service as defined
+by USERRA.
+(Ord. No. 959-05, § 1, 12-19-05)
+Any employee or appointed Charter officer who is a member of the national guard or
+other component of the military forces of Colorado organized or constituted under
+state or federal law or who is a member of the reserve forces of the United States
+organized under federal law, and who is absent from employment by reason of military
+training or active service shall receive up to fifteen (15) days of paid military
+leave each calendar year, as provided by C.R.S. § 28-3-601(1), as it may be amended.
+(Ord. No. 959-05, § 1, 12-19-05)
+The career service rules shall include provisions implementing this division as it
+relates to paid and unpaid military leave and other employment benefits related to
+military training and service provided by federal and state law.
+(Ord. No. 959-05, § 1, 12-19-05)
+(a)
+Employees in the career service and members of the classified service of the police
+and fire departments called to active military duty in time of war or national emergency
+are eligible for a military pay differential.
+(b)
+The military pay differential is a benefit and not an entitlement, and applies only
+to employees in the career service and members of the classified service of the police
+and fire departments who are uniformed service members and who are called to active
+duty with written orders for military service exceeding one hundred seventy-nine (179)
+days in time of war or national emergency, and who are actually engaged in active
+military duty after December 31, 2005. A uniformed service member is defined as any
+member of the Army, Navy, Marines, Air Force, Coast Guard, Army Reserve, Naval Reserve,
+Marine Corps Reserve, Air Force Reserve, and Coast Guard Reserve, Army National Guard
+and the Air National Guard.
+(c)
+The military pay differential shall consist of the difference between the total compensation
+received by the employee while engaged in active military service and the amount of
+base salary the employee would have earned from the city had the employee not been
+called to active duty. In no event shall the military pay differential, coupled with
+the employee's military compensation, exceed the base salary the employee would have
+received had the employee not been called to active duty and remained in his or her
+position of employment with the city.
+(d)
+The manager of safety and the career service board shall establish written policies
+and procedures for administration of the military pay differential. The city attorney
+shall approve these policies and procedures prior to implementation.
+(Ord. No. 7-06, § 11, 1-9-06; Ord. No. 834-06, § 1, 12-11-06; Ord. No. 723-07, § 1,
+12-3-07; Ord. No. 241-09, § 1, 4-20-09; Ord. No. 762-09, § 1, 12-14-09; Ord. No. 291-11,
+§ 1, 6-13-11; Ord. No. 61-12, § 1, 1-23-12; Ord. No. 473-13, § 1, 9-30-13)
+The care hours program shall begin January 1, 2023, and shall be used so long as the
+city continues to opt out of the State of Colorado's "Paid Family and Medical Leave
+Insurance Act" pursuant to C.R.S. § 8-13.3-522(1).
+(a)
+Employees eligible to receive care hours. All officers and employees, as defined in this division, are eligible to receive
+care hours as provided for in this division.
+(1)
+Employee means any employee of the city and county of Denver within the meaning of section 1.2.11 of the Charter, including employees in the career service and employees not in the
+career service.
+(2)
+Officer means any of the following:
+a.
+Elected charter officers; mayor, auditor; clerk and recorder; and members of the city
+council.
+b.
+Appointed Charter officers; manager of public health and environment, manager of transportation
+and infrastructure, city attorney, manager of safety, manager of finance, manager
+of parks and recreation, manager of general services, manager of human services, manager
+of aviation, manager of community planning and development, and manager of licensing
+and consumer protection.
+(3)
+The following employees shall not be eligible for care hours:
+a.
+Part-time employees regularly scheduled to work less than twenty (20) hours per week;
+b.
+Members of the classified service of the police and fire departments;
+c.
+Employees in the deputy sheriff classifications;
+d.
+A person occupying or employed in an on-call, temporary, seasonal, or contract position,
+or position in which the incumbent is paid according to the community rate schedule;
+e.
+Employees who have individually opted into the State of Colorado's FAMLI benefits
+program pursuant to 8-13.3-514 C.R.S.
+(b)
+Care hours granted. Eligible employees may receive a maximum of three-hundred twenty (320) hours of care
+hours during any rolling twelve-calendar month period.
+(c)
+Continued accrual of time off. Employees and officers who use care hours shall continue to accrue time off pursuant
+to Division 1 (Paid Time Off) and Division 2 (Sick and Vacation Leave) under this
+article as if the care hours used were normal hours worked.
+(d)
+Career service rules. The career service rules shall include provisions implementing this division relating
+to care hours that shall apply to all officers and employees covered by this division.
+(Ord. No. 1356-22, § 1, 11-21-22; Ord. No. 1003-25, § 10, 7-28-25)
+Editor's note— This bill takes effect January 1, 2023.
+The following words and phrases, when used in this article, shall have the meaning
+given to them in this section and be observed in the interpretation of this article:
+(1)
+"Child" shall mean a primary insured's natural child, adopted child, or the natural
+child or adopted child of either a primary insured's spouse, or primary insured's
+partner in a civil union.
+(2)
+"Eligible dependent" shall mean the primary insured's child or spouse.
+a.
+An eligible dependent may not also be a primary insured on the same insurance plan.
+b.
+If spouses are each eligible employees, each may enroll in medical or dental coverage
+as either a primary insured or eligible dependent, but not both.
+c.
+An eligible dependent shall not include any form of grandchild of a primary insured
+or spouse, unless the primary insured or spouse has a court order of adoption.
+d.
+An eligible dependent may be covered by one (1) primary insured only for each insurance
+plan.
+(3)
+"Eligible employee" shall mean both: officers (elected and appointed) and employees
+of the city. The definition of eligible employee shall not include:
+a.
+Part-time employees who are regularly scheduled to work less than twenty (20) hours
+per week;
+b.
+Members of the classified service of the police and fire departments; and,
+c.
+Persons occupying or employed in on-call or contract positions, or positions in which
+the incumbent is paid according to the community rate schedule.
+(4)
+"Employee only" coverage shall mean insurance coverage for an eligible employee only.
+(5)
+"Employee plus children" coverage shall mean insurance coverage for an eligible employee
+and one (1) or more eligible dependents other than a spouse.
+(6)
+"Employee plus spouse" coverage shall mean insurance coverage for an eligible employee
+and a spouse.
+(7)
+"Employer contribution" shall mean funds paid by the city for insurance programs approved
+by the employee health insurance committee.
+(8)
+"Family" coverage shall mean insurance coverage for an eligible employee and a spouse
+or spousal equivalent and one (1) or more other eligible dependent.
+(9)
+"Primary insured" shall mean an eligible employee who enrolls for insurance coverage.
+a.
+A primary insured may not also be an eligible dependent on the same insurance
+(10)
+"Spouse" shall mean an eligible employee's lawful spouse, a lawful partner in a civil
+union in accordance with the Colorado Civil Union Act or spousal equivalent.
+(11)
+"Spousal equivalent" shall mean an adult of the same gender with whom the employee
+is in an exclusive committed relationship, who is not related to the employee and
+who shares basic living expenses with the intent for the relationship to last indefinitely.
+A spousal equivalent cannot be related by blood to a degree which would prevent marriage
+in Colorado and cannot be married to another person. An employee claiming a spousal
+equivalent as an eligible dependent shall file with the Office of Human Resources
+employee benefits section, an affidavit of spousal equivalency or may register as
+a committed partnership with the clerk's office.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 661-12, § 3, 12-26-12; Ord. No. 489-14,
+§ 1, 9-8-14; Ord. No. 763-17, § 1, 8-7-17; Ord. No. 188-18, § 1, 3-12-18; Ord. No.
+732-18, §§ 1, 2, 7-30-18)
+(1)
+Every eligible employee and charter officer is entitled to receive insurance coverage
+under an insurance program recommended in accordance with division 2 of this article,
+and approved by ordinance.
+(2)
+For purposes of medical insurance coverage only, any employee who qualifies as a "full-time
+employee," as applicable to large employers, pursuant to the Patient Protection and
+Affordable Care Act (the "Affordable Care Act") created by Public Law 111-148, dated
+March 23, 2010, as may be amended, shall be offered only medical insurance coverage
+as an eligible employee during the ensuing stability period as defined in the Affordable
+Care Act.
+(3)
+For purposes of implementing the Affordable Care Act, the following elections are
+made by the city:
+(a)
+The initial measurement period for the city shall be twelve (12) months long beginning
+October 03, 2013; and
+(4)
+To ensure the proper administration of benefits, the Office of Human Resources shall
+conduct an audit of eligible dependents at least once every five (5) years.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 489-14, § 2, 9-8-14; Ord. No. 763-17, §
+2, 8-7-17; Ord. No. 188-18, § 2, 3-12-18)
+(a)
+General provisions.
+(1)
+Full-time contributions. Primary insureds who are regularly scheduled to work at least sixty (60) hours every
+two (2) weeks or full-time employees as defined in section 18-172 shall receive full-time contribution as defined in this section.
+(2)
+Part-time contributions. Primary insureds who are regularly scheduled to work at least forty (40), but less
+than sixty (60) hours every two (2) weeks, excluding employees who fail to meet the
+full-time employee definition in section 18-172 , shall receive a part-time contribution as defined in this section.
+(3)
+Time limitations for health plan elections.
+a.
+Health plan election. Each employee shall elect a health plan within thirty (30) days of employment.
+b.
+Change in status. Each eligible employee shall promptly notify the office of human resources, benefits
+division of any changes to his or her status effecting the health plan election within
+thirty (30) days of such change. Eligible employees shall cooperate with the city
+and provide documentation as requested to verify any changes.
+(4)
+Dependent coverage requirement. Each eligible dependent must be insured under the same plan as the employee.
+(5)
+Limitations on city payment into active health savings accounts. The following restrictions shall apply to the city payment into an active health
+savings account provided for in this section:
+a.
+An employee who is a dependent on any health insurance plan shall not be eligible
+to receive a city payment into an active health savings account.
+b.
+Employees must actively contribute to an active health savings account through a pre-tax
+payroll deduction to receive a city matching contribution.
+c.
+The city matching contribution will end when the primary insured's enrollment in the
+high deductible health plan offered by the city ends.
+d.
+Employees who do not have an active health savings account are not eligible for a
+city payment into an active health savings account.
+(6)
+Active health savings accounts. The office of human resources shall select a bank or other legally qualified institution
+("approved bank") to provide and administer the health savings accounts ("active health
+savings account") associated with the city's high deductible health plan insurance
+program. No other health savings account ("HSA") shall qualify as an active health
+savings account as referred to in this section.
+(b)
+Contribution amounts.
+(1)
+High deductible health plan ("HDHP") contributions and payments. The city shall contribute the following for high deductible health plans, regardless
+of insurance provider:
+a.
+Full-time contributions. Full-time contributions shall be: ninety-four and one-half percent (94.5%) of the
+monthly premium for employee only plans; eighty-nine and one-half percent (89.5%)
+of the monthly premium for employee plus children plans; eighty-seven percent (87%)
+of the monthly premium for employee plus spouse plans; and eighty-four and one-half
+percent (84.5%) of the monthly premium for family plans.
+b.
+Part-time contributions. Part-time contributions shall be an amount equal to one-half (½) of the full-time
+contribution rate for each category of coverage listed in section 18-173 (b)(1)(a).
+c.
+City payment into active health savings accounts. Subject to the limitations set forth in this section, every year a primary insured
+is enrolled in a high deductible health plan offered by the city, the city shall pay
+into active health savings accounts the following amounts:
+1.
+For employee only high deductible health plan coverage: For every one dollar ($1.00)
+per month the employee deposits into their active health savings account, the city
+will provide a two dollar ($2.00) match, with a monthly maximum of twenty-five dollars
+($25.00), and an annual maximum of three hundred dollars ($300.00).
+2.
+For high deductible health plan coverages that have eligible dependents: For every
+one dollar ($1.00) per month the employee deposits into their active health savings
+account, the city will provide a two dollar ($2.00) match, with a monthly maximum
+of seventy-five dollars ($75.00), and an annual maximum of nine hundred dollars ($900.00).
+3.
+Active health savings account payment timing. Subject to the limitations set forth
+in this section, the city payment into an active health savings account shall occur
+within thirty (30) days of the active health savings account's creation, with the
+following limitations:
+A.
+The city's contribution to an active health savings account shall follow the same
+24-pay period schedule as health insurance premiums.
+B.
+No retroactive health savings account matching contributions will be made.
+C.
+Matching contributions will be based upon coverage effective on the first of each
+calendar month.
+(2)
+Deductible health maintenance organization ("DHMO") contributions and payments. The city shall contribute the following for deductible health maintenance organization
+plans, regardless of the insurance provider selected:
+a.
+Full-time contributions. Full-time contributions shall be: Eighty-four percent (84%) of the monthly premium
+for employee-only plans; seventy-nine percent (79%) of the monthly premium for employee
+plus children plans; seventy-six and one-half percent (76.5%) of the monthly premium
+for employee plus spouse plans; and seventy-four percent (74%) of the monthly premium
+for family plans.
+b.
+Part-time contributions. The city shall contribute an amount equal to one-half (½) of the full-time contribution
+rate for each category of coverage listed in section 18-173 (b)(2)(a).
+(3)
+Preferred provider organization ("PPO") plan contributions and payments. The city shall contribute the following for the preferred provider organization plan:
+a.
+Full-time contributions. Effective January 1, 2025, full-time contributions shall be: Ninety-two and one-half
+percent (92.5%) of the monthly premium for employee-only plans; eighty-seven and one-half
+percent (87.5%) of the monthly premium for employee plus children plans; eighty-five
+percent (85%) of the monthly premium for employee plus spouse plans; and eighty-two
+and one-half percent (82.5%) of the monthly premium for family plans.
+b.
+Part-time contributions. The city shall contribute an amount equal to one-half (½) of the full-time contribution
+rate for each category of coverage listed in section 18-173 (b)(3)(a).
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 502-11, § 1, 10-7-11; Ord. No. 507-12, §
+1, 10-8-12; Ord. No. 460-13, § 1, 9-23-13; Ord. No. 489-14, § 3, 9-8-14; Ord. No.
+412-15, § 1, 7-13-15; Ord. No. 763-17, § 3, 8-7-17; Ord. No. 0188-18, § 3, 3-12-18;
+Ord. No. 731-18, § 1, 7-30-18; Ord. No. 1089-24, § 1, 9-16-24)
+The city shall contribute one hundred percent (100%) of the monthly premium of group
+term life insurance for eligible employees and appointed charter officers in the following
+amounts:
+(a)
+For all employees hired after January 1, 2002:
+1.
+Who are regularly scheduled to work at least sixty (60) hours every two (2) weeks,
+a life insurance benefit of two (2) times the employee's annual salary up to a maximum
+benefit of one hundred thousand dollars ($100,000.00);
+2.
+Who are regularly scheduled to work at least forty (40) but less than sixty (60) hours
+every two (2) weeks, a life insurance benefit of one (1) times the employee's annual
+salary up to a maximum benefit of fifty thousand dollars ($50,000.00).
+(b)
+For all employees hired before January 1, 2002, the greater of the amount for which
+they would be eligible if hired after January 1, 2002 or two (2) times the employee's
+annual salary up to a maximum benefit of seventy-five thousand dollars ($75,000.00).
+(c)
+Beginning January 1, 2020 and thereafter, for all employees regardless of hours worked
+or date of hire, a life insurance benefit of two (2) times the employee's annual salary
+up to a maximum benefit of four hundred thousand dollars ($400,000.00).
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 489-14, § 4, 9-8-14; Ord. No. 601-19, §
+2, 7-15-19)
+For the calendar year 2015 and thereafter, the city will contribute monthly for dental
+insurance for eligible employees and appointed charter officers:
+(a)
+Eighty-five percent (85%) of the monthly premium of the lowest cost plan for employee
+only plans; seventy-seven and one-half percent (77.5%) of the monthly premium of the
+lowest cost plan for employee plus spouse plans; eighty percent (80%) of the monthly
+premium of the lowest cost plan for employee plus children plans; and seventy-five
+percent (75%) of the monthly premium of the lowest cost plan for family plans, regardless
+of the plan selected by the employee, for eligible employees who are regularly scheduled
+to work at least sixty (60) hours every two (2) weeks.
+(b)
+Forty-two and one-half percent (42.5%) of the monthly premium of the lowest cost plan
+for employee only plans; thirty-eight and three-quarters percent (38.75%) of the monthly
+premium of the lowest cost plan for employee plus spouse plans; forty percent (40%)
+of the monthly premium of the lowest cost plan for employee plus children plans; and
+thirty-seven and one-half percent (37.5%) of the monthly premium of the lowest cost
+plan for family plans, regardless of the plan selected by the employee, for eligible
+employees who are regularly scheduled to work at least forty (40), but less than sixty
+(60), hours every two (2) weeks.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 104-11, § 1, 2-22-11; Ord. No. 503-11, §
+1, 10-7-11; Ord. No. 489-14, § 5, 9-8-14; Ord. No. 763-17, § 4, 8-7-17)
+The city shall contribute one hundred percent (100%) of the monthly premium for long-term
+disability insurance for eligible employees and appointed charter officers who have
+completed six (6) full months of continuous uninterrupted employment, who have attained
+permanent employee status, who are residents or citizens of the United States, who
+are not temporary or seasonal employees, and who are not full-time members of the
+armed forces of any country.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 489-14, § 6, 9-8-14)
+The city shall contribute one hundred (100) percent of the monthly premium for the
+short-term disability insurance plan provided by the city for officers and employees
+receiving paid time off benefits under division 1 of article V of this chapter.
+(Ord. No. 634-09, § 4, 11-2-09)
+The office of human resources will administer a wellness program for eligible employees,
+as defined in section 18-171 , as follows:
+(a)
+For eligible employees who complete the established requirements of the wellness program
+administered by the office of human resources prior to the program deadline of December
+31 of each year, the city will provide the following wellness incentives during the
+following calendar year:
+(1)
+For DHMO insurance plan participants: a fifty dollar ($50.00) per month health insurance
+premium reduction following the same twenty-four (24) pay period schedule as health
+insurance premiums.
+(2)
+For HDHP insurance plan participants eligible to participate in an HAS who have an
+active health savings account opened prior to February 28: a one time, six hundred
+dollar ($600.00) HSA contribution.
+(3)
+For HDHP insurance plan participants who are eligible to participate in an HAS who
+do not, by February 28, have an active health savings account with the city's chosen
+HSA provider as defined in section 18-173 ; a six hundred dollar ($600.00) taxable paycheck credit.
+(4)
+For HDHP insurance plan participants not eligible to participate in an HSA: a six
+hundred dollar ($600.00) taxable paycheck credit.
+(5)
+The wellness incentive contribution to the HSA shall commence no earlier than January
+1.
+(b)
+Wellness incentives are subject to the following limitations.
+(1)
+Employees who are not currently employed by the city at the time the incentive is
+paid are not entitled to receive the wellness incentive.
+(2)
+Employees who are not enrolled as the primary account holder in a city-sponsored health
+plan are not entitled to the wellness incentives.
+(3)
+The wellness incentives will terminate if the employee terminates city-sponsored health
+insurance coverage.
+(c)
+Employees who believe an error precluded them from receiving the wellness incentive
+may appeal to the wellness team via email no later than February 28 of the year following
+the inventive program in question to have their situation reviewed.
+(d)
+All department-level wellness programs must include the requirements of the wellness
+program administered by the office of human resources.
+(Ord. No. 763-17, § 5, 8-7-17; Ord. No. 0188-18, § 4, 3-12-18; Ord. No. 731-18, §
+2, 7-30-18; Ord. No. 601-19, § 3, 7-15-19; Ord. No. 1089-24, § 2, 9-16-24)
+(a)
+In the event an eligible employee dies while in the service of the city, the city
+shall provide the surviving spouse and/or eligible dependent the following "survivor
+benefit:"
+(1)
+For a period of twelve (12) full calendar months following the date of death, the
+city will continue medical and dental insurance coverage and pay the full insurance
+premium cost.
+(b)
+To be eligible for this survivor benefit, the surviving spouse and/or eligible dependent
+must:
+(1)
+Have been enrolled in coverage at the time of the employee's death; and
+(2)
+Until open enrollment, remain on the same benefit plan the employee was enrolled in
+at the time of the employee's death.
+(c)
+The terms "eligible employee," surviving "spouse" and "eligible dependent" shall mean
+those persons defined in section 18-171 , DRMC.
+(1)
+For purposes of this survivor benefit, the term "eligible employee" shall also include
+deputy sheriffs, deputy sheriff sergeants, and deputy sheriff captains and all members
+of the classified service of the police and fire departments, unless the eligible
+employee has a greater survivor benefit in place under an operative collective bargaining
+agreement.
+(d)
+This survivor benefit shall be administered in a manner consistent with providing
+insurance to eligible employees, with a presumption of coverage in cases of ambiguous
+facts.
+(1)
+For all employees other than police and fire, the office of human resources is authorized
+to resolve any eligibility, coverage or subsidy disputes related to this survivor
+benefit.
+(2)
+For police and fire employees, the department of public safety human resources division
+is authorized to resolve any eligibility, coverage or subsidy disputes related to
+this survivor benefit.
+(Ord. No. 680-18, § 1, 7-16-18)
+There shall be and hereby is created the employee health insurance committee.
+(Ord. No. 959-05, § 1, 12-19-05)
+The employee health insurance committee shall consist of one (1) member of council
+appointed by the council president and such members and a chairperson thereof as the
+mayor, from time to time, may appoint, and such appointees may be removed or replaced
+by their appointing authority.
+(Ord. No. 959-05, § 1, 12-19-05)
+The members of the employee health insurance committee shall serve without compensation.
+(Ord. No. 959-05, § 1, 12-19-05)
+The employee health insurance committee shall advise the career service board and
+the Office of Human Resources Executive Director of the needs of persons in the employ
+of the City and County of Denver for a medical, life, dental, and long-term disability
+insurance financed, in whole or in part, by the city and shall make recommendations
+for instituting, altering, implementing, financing or terminating such an insurance
+program.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 661-12, § 3, 12-26-12)
+The employee health insurance committee may adopt its own by-laws, its form of organization,
+and provide for officers and meetings as it shall deem necessary.
+(Ord. No. 959-05, § 1, 12-19-05)
+Editor's note— Ord. No. 1110-96, § 5, adopted Dec. 16, 1996, repealed § 18-306, which created the
+employees' medical clinic and derived from § 149.1 of the 1950 Code.
+Employees of the city who sustain an occupational injury or disease or believing they
+have rights under the Workers' Compensation Act of Colorado, Articles 40—47 of Title
+8, Colorado Revised Statutes, as Amended, (hereinafter, "the Act") shall immediately
+upon receiving such injury or disease or becoming cognizant thereof, report it to
+their supervisor. The city shall provide the employee with the city's designated provider
+list, verbally and in writing pursuant to Rule 8 of the Division of Workers' Compensation
+Rules of Procedure (hereinafter the "Rules"). The employee shall report or be taken
+to the city's designated workers' compensation health care provider ("designated provider"),
+that is initially selected by the employee from the designated provider list for medical
+examination and treatment as hereinafter provided.
+(Code 1950, § 149.2; Ord. No. 426-80, § 1, 8-25-80; Ord. No. 1110-96, § 1, 12-16-96;
+Ord. No. 101-00, § 1, 1-31-00; Ord. No. 79-06, § 1, 2-6-06; Ord. No. 5-08, § 1, 1-7-08)
+The designated provider that is initially selected by the employee shall provide initial
+treatment and evaluation to the employee, provide medical treatment for the accepted
+injuries or disease, except for treatment by consultant specialists.
+(Code 1950, § 149.3; Ord. No. 426-80, § 2, 8-25-80; Ord. No. 1110-96, § 1, 12-16-96;
+Ord. No. 101-00, § 2, 1-31-00; Ord. No. 79-06, § 1, 2-6-06; Ord. No. 5-08, § 1, 1-7-08)
+The city shall provide an employee who reports an on the job injury or occupational
+disease with a list of at least two designated providers from which the employee may
+select to provide initial medical treatment. Any change by the employee of the initially
+selected designated provider shall be consistent with the Act and Rules, as amended.
+(Ord. No. 5-08, § 2, 1-7-08)
+Editor's note— Section 2 of Ord. No. 5-08, adopted Jan. 7, 2008, amended § 18-309 in its entirety
+to read as herein set out. Former § 18-309 pertained to specialized treatment and
+derived from the 1950 Code; Ord. No. 426-80, adopted Aug. 25, 1985; Ord. No. 1110-96,
+adopted Dec. 16, 1996; Ord. No. 101-00, adopted Jan. 31, 2000; and Ord. No. 79-06,
+adopted Feb. 6, 2006.
+Editor's note— Ord. No. 79-06, § 1, adopted Feb. 6, 2006, repealed section 18-310 in its entirety.
+Former section 18-310 pertained to a physical examination and derived from the Code
+of 1950, § 149.5; Ord. No. 1110-96, § 1, adopted Dec. 16, 1996.
+Prior to approving any contract with any designated provider other than the Denver
+Health and Hospital Authority's Occupational Health and Safety Clinic, the mayor and
+the city council shall consult with and obtain a non-binding recommendation from any
+or all of the following:
+(1)
+The recognized bargaining agent for Denver firefighters, if firefighters will be required
+to utilize the proposed designated provider;
+(2)
+The recognized bargaining agent for Denver police officers, if police officers will
+be required to utilize the proposed designated provider;
+(3)
+The Employee Health Insurance Committee, if other employees of the city will be required
+to utilize the proposed designated provider.
+(Ord. No. 79-06, § 1, 2-6-06)
+For the purpose of this article only:
+(a)
+The term "designated workers' compensation health care provider" or "designated provider"
+shall mean the Denver Health and Hospital Authority's Occupational Health and Safety
+Clinic or such other health care provider or providers as shall be selected to enter
+into a contract with the city for the treatment of city employees for occupational
+injuries or diseases.
+(b)
+The term "employee" shall mean and include every person in the service of the city,
+whether designated by Charter as an employee or as an officer, who is subject to the
+provisions and benefits of the state workers compensation act.
+(c)
+The term "Denver metropolitan area" shall mean and include the corporate boundaries
+of the City and County of Denver, Adams County, Arapahoe County, Boulder County, Douglas
+County, Elbert County, Broomfield County, or Jefferson County.
+(Code 1950, § 149.7; Ord. No. 101-00, § 5, 1-31-00; Ord. No. 1025-02, § 1, 12-16-02;
+Ord. No. 79-06, § 1, 2-6-06)
+Cross reference— Definitions and rules of construction generally, § 1-2 .
+Appointed charter officers as defined in section 9.2.1 (B) of the charter and employees shall be eligible for education refunds as provided
+in this article, with the exception of:
+(1)
+Part-time employees who are regularly scheduled to work less than twenty (20) hours
+per week;
+(2)
+Certain trainees as defined in the career service rules;
+(3)
+Persons occupying or employed in on-call, temporary, seasonal, or contract positions,
+or positions in which the incumbent is paid according to the community rate schedule;
+and
+(4)
+Persons who have not completed at least one (1) year of continuous service at the
+time of application.
+(Ord. No. 959-05, § 1, 12-19-05)
+There is hereby created an educational refund program, the purpose of which shall
+be to improve the overall productivity of the city's workforce by enhancing current
+job skills and/or creating promotional opportunities for eligible employees through
+funding accredited, college-level course work and coursework and exams to obtain or
+maintain professional certifications or licenses.
+(Ord. No. 959-05, § 1, 12-19-05)
+Refunds shall be granted by the Office of Human Resources for any formal course of
+study given in or by any accredited school or college, provided that the course is
+related to the work of the eligible employee, will enhance promotability within the
+City and County of Denver, and is approved by the education refund committee, as well
+as courses taken by eligible employees to obtain or maintain any professional certification
+or license necessary for the performance of the employee's job. The course must be
+taken during off-duty hours or while on approved leave. The amount refunded shall
+be determined in accordance with rules and regulations promulgated by the educational
+refund committee and based on the cost of all courses approved at any one (1) time
+for that employee. The eligible employee shall pay for books and other fees or expenses
+not directly related to the basic course cost. Additionally, a refund may be granted
+to reimburse an eligible employee for a job-related license and/or certification and
+for the examination fees associated with acquiring this license and/or certification
+contingent upon funds being available.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 661-12, § 3, 12-26-12)
+(a)
+There is hereby created an educational refund committee, hereinafter referred to as
+the "committee," consisting of the Office of Human Resources Executive Director and
+four (4) members to be appointed by the mayor for three-year terms who shall serve
+without compensation. It shall be the duty of this committee to:
+(1)
+Establish standards, policies and procedures for program administration;
+(2)
+Provide oversight and ensure compliance with all standards and policies;
+(3)
+Review and approve accredited colleges/universities and the courses provided by them;
+(4)
+Review and approve written periodic budget reports from the Office of Human Resources
+related to the education refund program;
+(5)
+Act as a final board of review for any disputes relating to the education refund program
+which cannot be settled by the Office of Human Resources.
+(b)
+The decisions of the committee in approving or disapproving any actions in regard
+to reimbursement shall be final.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 661-12, § 3, 12-26-12)
+Program expenditures shall be administered by the Office of Human Resources with funds
+appropriated by the city council. Conditions of eligibility for educational refunds
+and other provisions implementing this article shall be in accordance with rules and
+regulations as promulgated by the educational refund committee.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 661-12, § 3, 12-26-12)
+The educational refund program shall be contingent upon a definite amount of money
+identified in a current appropriation or in a fund not subject to appropriation.
+(Ord. No. 959-05, § 1, 12-19-05)
+Editor's note— Ord. No. 645-13, adopted Dec. 2, 2013, repealed art. IX, which consisted of §§ 18-331—18-340,
+pertained to the office of employee assistance, and derived from Ord. No. 959-05,
+adopted Dec. 19, 2005.
+(a)
+The City and County of Denver is hereby authorized to enter into salary reduction
+agreements with employees pursuant to sections 125 and 129 of the Internal Revenue
+Code (I.R.C.) for the purpose of making it possible for employees to select on a "before-tax
+basis" certain taxable and nontaxable benefits pursuant to section 125 of the I.R.C.
+The purpose of the "salary redirection plan" as hereinafter defined is to attract
+and retain individuals in governmental service by permitting them to enter into agreements
+with the City and County of Denver to provide for benefits as specified in the plan
+adopted by the city.
+(b)
+Nothing contained in the salary redirection plan shall be deemed to constitute an
+employment agreement between the participant and the city, and nothing contained in
+the participant's salary redirection agreement, the plan or this division shall be
+deemed to give a participant any right to be retained in the employ of the city.
+(Ord. No. 959-05, § 1, 12-19-05)
+The following words and phrases, when used in this division, shall have the meanings
+respectively ascribed to them:
+Committee: The salary redirection plan committee, consisting of seven (7) members appointed
+by the mayor who must be employees or officers. At least two (2) members of the committee
+shall be participants in the plan or shall become participants at the beginning of
+the next plan year following their appointment. The committee will have as its principal
+responsibility the formulation and adoption of a plan and policies and procedures
+designed to guide, direct and administer the plan. The city attorney or his/her designee
+shall serve as an ex officio nonvoting member of the committee. The committee members'
+terms of office shall be three (3) years, and committee members shall be eligible
+for reappointment.
+Flex-cash accounts: Flexible spending accounts established for the purpose of holding and disbursing
+the participants' funds under the auspices of the salary redirection plan.
+Participant: Any individual who fulfills the eligibility and enrollment requirements as defined
+in the plan.
+Plan year: January 1 to December 31 of each year.
+Salary: The salary or wages as provided in Chapter 18 .
+Salary redirection plan: A plan whereby employees and officers of the city may agree to a reduction of salary,
+which reduction will allow the employee to pay for various preselected flexible benefit
+choices pursuant to sections 125 and 129 of the I.R.C. (i.e., medical care, dependent
+care, expenses and/or other specifically described benefit choices that may be offered
+under the plan).
+(Ord. No. 959-05, § 1, 12-19-05)
+(a)
+A plan document describing the salary redirection plan shall be adopted and administered
+by the committee. The committee shall represent the city in all matters concerning
+the administration of the plan. The city through the committee may administer the
+plan through the career service board or may engage the services of a professional
+consultant or administrator on a contractual basis to serve as an agent to assist
+the committee in carrying out the purposes of this article.
+(b)
+The committee shall formulate and establish policies and procedures for the administration
+of the plan that are consistent with existing city ordinances, state laws, the I.R.C.
+and the regulations adopted by the Internal Revenue Service as they may apply to the
+benefits offered to participants under the plan.
+(c)
+The funds held by the city in flex-cash accounts shall be deposited in interest bearing
+accounts and the interest shall be used to defray all or part of the cost of administering
+the plan. At the end of each plan year, any excess contributions or interest shall
+be used to pay the costs of the plan or returned to the general fund. The committee
+may assess each participant a fee for administering the plan. The cost of administrating
+the plan may be financed by appropriation from the general fund or by internal service
+billing of an amount equivalent to actually realized savings experienced due to reductions
+in employer contributions required for the retirement plan, under the Social Security
+Act, and other similar savings.
+(d)
+Every action taken by the committee shall be presumed to be a fair and reasonable
+exercise of the authority vested in or the duties imposed upon it. The committee shall
+be presumed to have exercised reasonable care, diligence, and prudence and to have
+acted impartially as to all persons interested unless the contrary be proved by clear
+and convincing affirmative evidence.
+(Ord. No. 959-05, § 1, 12-19-05)
+(a)
+Eligible persons: Elected officials and all permanent and temporary officers and employees of the City
+and County of Denver, including those employed within the career service and the classified
+service of the police and fire departments and those appointed and employed by the
+mayor, the auditor, the clerk and recorder, the city council, the civil service commission,
+the district attorney, the library, the county court and the board of adjustment zoning
+shall be eligible to participate in the plan and reduce their salary by agreement
+with the committee.
+(b)
+Salary reduction agreement: Eligible persons are authorized to enter into salary reduction agreements with the
+city.
+(c)
+Enrollment in the plan:
+(1)
+In the initial year of the plan, an eligible person may become a participant after
+the adoption of the plan and before its effective date by agreeing to have a portion
+of his/her gross salary reduced and deposited into a flex-cash account to be used
+for reimbursement of expenses covered by the plan.
+(2)
+After the initial year of the plan, an eligible person may become a participant for
+a full plan year, with annual benefit selection for each new plan year made prior
+to January 1, or upon becoming an eligible person.
+(3)
+Once an eligible person elects to participate and determines the amount his or her
+salary shall be reduced and the benefit for which the funds are to be used during
+the plan year, the agreement shall be irrevocable and may not be amended during the
+plan year except as provided in paragraph (c)(4) below.
+(4)
+The committee shall provide in the plan that a participant may enroll, terminate or
+change his/her election when there is a significant change in a participant's status,
+as provided by section 125 of the I.R.C. and the regulations adopted by the internal
+revenue service.
+(d)
+Withdrawal from plan: The committee shall establish as part of the plan the procedures for and effect of
+withdrawal from the plan by reason of retirement, death, leave of absence or termination
+of employment. To the extent possible under federal law and regulations, the committee
+shall protect participants from forfeiture of rights under the plan.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 264-07, § 18, 6-11-07)
+(a)
+The city may at any time terminate the plan. Upon such termination, the participants
+in the plan will be deemed to have withdrawn from the plan as of the date of such
+termination. Balances remaining in the participants' flex-cash account(s) shall be
+returned to the participant pursuant to policies established by the committee.
+(b)
+The committee may amend the plan at any time provided that no amendment shall affect
+the rights of the participants to receive eligible reimbursement from the participants'
+flex-cash account(s).
+(Ord. No. 959-05, § 1, 12-19-05)
+The plan shall be construed under all applicable state laws, the I.R.C., and the provisions
+of the Charter and pertinent ordinances of the City and County of Denver.
+(Ord. No. 959-05, § 1, 12-19-05)
+The manager of finance is directed and empowered to make necessary payroll adjustments
+to implement the plan. The manager of finance and all other city officers and employers
+are directed and empowered to take whatever other action may be necessary to facilitate
+the accomplishment of the purposes of the plan. The plan shall be administered consistent
+with the city ordinances, payroll procedures, and fiscal rules and shall be subject
+to audit as the auditor deems necessary.
+(Ord. No. 775-07, § 22, 12-26-07; Ord. No. 1207-18, § 1, 11-26-18)
+Editor's note— Section 22 of Ord. No. 775-07, adopted Dec. 26, 2007, amended § 18-347 in its entirety
+to read as herein set out. Former § 18-347 pertained to the city auditor and derived
+from Ord. No. 959-05, adopted Dec. 19, 2005.
+(a)
+The City and County of Denver is hereby authorized to enter into salary redirection
+agreements with employees pursuant to section 9010 of the Surface Transportation Revenue
+Act of 1998 and section 26 U.S.C. 132(f) of the Internal Revenue Code, for the purpose
+of allowing employees to purchase transit passes on a "before tax basis."
+(b)
+Nothing contained in the salary redirection agreements or the salary redirection plan
+shall be deemed to constitute an employment agreement between the participant and
+the city, and nothing contained in the salary redirection agreements, the plan or
+this division shall be deemed to give a participant any right to be retained in the
+employ of the city.
+(Ord. No. 959-05, § 1, 12-19-05)
+The following words and phrases shall apply to this division exclusively, except as
+otherwise specifically noted:
+Committee: The salary redirection plan committee for this article shall consist of seven (7)
+members, appointed by the mayor, provided, however, that at least one (1) member must
+be an officer or employee of the department of public health and environment. At least
+two (2) of the members shall be participants in the plan or become participants within
+one (1) year of their appointment. The committee may include committee members from
+the committee serving pursuant to division 1 of this article X. The committee members
+shall serve terms of three (3) years, and will be eligible for reappointment.
+Eligible persons: Any eligible person as defined in section 18-344 (a), D.R.M.C.
+Issuer: Any person providing eligible transportation under section 26 U.S.C. 132(f) for which
+a transit pass may be purchased, including but not limited to, the regional transportation
+district.
+Participant: Any individual who fulfills the eligibility and enrollment requirements as defined
+in the plan.
+Salary: The salary or wages as provided in chapter 18 .
+Salary redirection plan: A plan whereby eligible individuals may agree to the redirection of salary to pay
+for transit passes from pre-tax dollars pursuant to section 26 U.S.C. 132(f) of the
+Internal Revenue Code.
+Transit pass: Any transit pass as defined in sections 26 U.S.C. 132(f)(1) and 132(f)(5) of the
+Internal Revenue Code as a qualified transportation fringe.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 427-18, § 11, 6-11-18)
+(a)
+The Office of Human Resources will submit a written salary redirection plan to the
+committee for review. The plan will be effective upon adoption by the committee. The
+plan may be amended by the committee upon consultation with the department of law,
+provided that the plan conforms at all times with the requirements of the Internal
+Revenue Code and any applicable requirements of the Denver Charter and the Revised
+Municipal Code. The plan will be administered by the Office of Human Resources, provided
+however, that the Office of Human Resources may designate other individuals or agencies
+to provide or assist with such administration.
+(b)
+The manager of finance is hereby authorized to implement the necessary payroll adjustments
+for participants of the employee transit benefit plan. The plan shall be administered
+consistent with city ordinances, payroll procedures, and fiscal rules and shall be
+subject to audit as the auditor deems necessary. The office of human resources shall
+provide a report of the plan activities and finances upon request to the mayor, auditor,
+and city council.
+(c)
+All purchases of transit passes are subject to the rules and regulations of the issuer.
+(d)
+The city may terminate the plan at any time provided any amounts paid by a participant
+to the city for a transit pass which have not been used to purchase a transit pass
+will be refunded to the participant.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 775-07, § 23, 12-26-07; Ord. No. 661-12,
+§ 3, 12-26-12; Ord. No. 1207-18, § 2, 11-26-18)
+(a)
+The City and County of Denver is hereby authorized to enter into qualified parking
+agreements with employees for salary redirection pursuant to section 9010 of the Surface
+Transportation Revenue Act of 1998 and section 26 U.S.C. 132(f) of the Internal Revenue
+Code for the purpose of allowing employees to obtain qualified parking on a before
+tax basis.
+(b)
+Nothing contained in the qualified parking agreements or the qualified parking plan
+shall be deemed to constitute an employment agreement between the participant and
+the city and nothing contained in the qualified parking agreements, the plan required
+in this division, nor in this division shall be deemed to give a participant any right
+to be retained in the employ of the city.
+(c)
+Any purchase by an employee of qualified parking remains subject to rules and regulations,
+if any, of the parking provider.
+(Ord. No. 959-05, § 1, 12-19-05)
+The following words and phrases shall apply to this division exclusively, except as
+otherwise specifically noted:
+Eligible employees shall mean any person meeting the definitions of 18-344 (a), D.R.M.C.
+Participant shall mean any individual who is an eligible employee and who enrolls under the requirements
+of the qualified parking plan.
+Qualified parking shall mean qualified parking as defined by 26 U.S.C. 132(f)(1) and 26 U.S.C. 132(f)(5)(C)
+as may be amended from time to time.
+Qualified parking committee shall mean a committee of at least seven (7) members, appointed by the mayor. The
+qualified parking committee may include committee members from the committee serving
+pursuant to division 1 of this article X.
+Qualified parking plan shall mean the plan whereby eligible employees may agree to the redirection of salary
+to pay for qualified parking from pre-tax dollars pursuant to 26 U.S.C. 132(f) of
+the Internal Revenue Code as may be amended from time to time.
+Salary shall mean salary or wages as provided in chapter 18 , D.R.M.C.
+(Ord. No. 959-05, § 1, 12-19-05)
+(a)
+The Office of Human Resources shall submit a written qualified parking plan to the
+qualified parking committee for review. The qualified parking plan will be effective
+upon adoption by the qualified parking committee. The plan may be amended by the committee
+upon consultation with the department of law, provided that the qualified parking
+plan conforms at all times with the requirements of the Internal Revenue Code and
+any applicable requirements of the Denver Charter and the D.R.M.C. The qualified parking
+plan will be administered by the Office of Human Resources or other individuals or
+agencies designated by the Office of Human Resources to administer or to assist the
+Office of Human Resources with administration.
+(b)
+The manager of finance is hereby authorized to implement the necessary payroll adjustments
+for participants in the qualified parking plan. The plan shall be administered consistent
+with city ordinances, payroll procedures, and fiscal rules and shall be subject to
+audit as the auditor deems necessary.
+(c)
+The city may terminate the qualified parking plan at any time, provided amounts of
+pre-tax dollars withheld on behalf of a participant are refunded to the participant
+as taxable wages or salary.
+(Ord. No. 959-05, § 1, 12-19-05; Ord. No. 775-07, § 24, 12-26-07; Ord. No. 661-12,
+§ 3, 12-26-12; Ord. No. 1207-18, § 3, 11-26-18)
+Cross reference— Exemption from reporting to social security income from sick pay, § 18-268.1.
+State Law reference— Public employees' social security, C.R.S. 1973, 24-51-701 et seq.
+On November 1, 1953, the city shall become a participant in the federal social security
+system, effective January 1, 1951, and that all of the benefits of old-age and survivor's
+insurance of the social security act are hereby extended to all eligible employees
+and officers of the city, except persons eligible to membership in and benefits from
+the police pension and relief fund, the firemen's pension fund, and the retirement
+plan trust fund of the water department.
+(Code 1950, § 142.30-1)
+The mayor and city clerk are hereby authorized to execute and deliver to the state
+department of employment security for its approval the necessary plan or plans and
+agreement, consistent with the terms and provisions of this article, for the purpose
+of extending the benefits of the federal old-age and survivor's insurance system to
+such employees and officers of the city, as required by the federal social security
+act and by Chapter 237 of the 1951 Session Laws of Colorado, and to do all other things
+necessary to effectuate coverage of such employees and officers under the old-age
+and survivor's insurance system. Any such agreement shall be made applicable to such
+employees and officers of the city as of the date of November 1, 1953, at which time
+there will be no retirement system in existence covering such employees and officers.
+(Code 1950, § 142.30-2)
+The Social Security plan shall be effective with respect to all services performed
+after January 1, 1951, by such employees and officers of the city. Such employees'
+tax upon wages and salaries earned after November 1, 1953, shall be deducted from
+wages and salaries. The manager of finance is hereby authorized and directed to make
+such deductions from wages and salaries.
+(Code 1950, § 142.30-3; Ord. No. 775-07, § 25, 12-26-07)
+The city treasurer is hereby authorized and directed to make payment to the contribution
+fund, established by Chapter 237 of the 1951 Session Laws of Colorado, of all taxes
+collected from employees and officers of the city and all excise taxes levied upon
+the city as an employer under section 1410 of the Federal Insurance Contributions
+Act (26 U.S.C.A., section 1410), the portion to be paid by the city to be paid from
+such resources as may be designated by ordinance from time to time.
+(Code 1950, § 142.30-4)
+Editor's note— Ord. No. 960-05, §§ 1, 2, adopted Dec. 19, 2005, repealed article XII, sections 18-391,
+18-392, 18-401—18-132, in its entirety and replaced it with a new article XII, sections
+18-391—18-393, 18-401—18-419, 18-422—18-430.7. Former article XII pertained to similar
+material and derived from the Code of 1950, §§ 142.1, 142.25—142.29; Ord. No. 37-87,
+§ 1, adopted Jan. 26, 1987; Ord. No. 235-87, §§ 1—3, 5, adopted May 4, 1987; Ord.
+No. 588-87, § 1, adopted Oct. 19, 1987; Ord. No. 710-87, § 1, adopted Dec. 7, 1987;
+Ord. No. 18-88, § 1, adopted Jan. 11, 1988; Ord. No. 551-88, §§ 1, 3, adopted Aug.
+29, 1988; Ord. No. 40-89, §§ 1—3, adopted Jan. 30, 1989; Ord. No. 478-89, §§ 1—13,
+adopted Sept. 5, 1989; Ord. No. 83-90, § 1, adopted Feb. 12, 1990; Ord. No. 398-90,
+§§ 1—4, adopted July 9, 1990; Ord. No. 296-91, § 1, adopted April 29, 1991; Ord. No.
+816-91, §§ 1—21, adopted Nov. 4, 1991; Ord. No. 350-92, §§ 1—5, adopted June 8, 1992;
+Ord. No. 727-92, §§ 1—3, adopted Oct. 13, 1992; Ord. No. 842-93, § 1, adopted Nov.
+1, 1993; Ord. No. 1030-95, §§ 1—6, adopted Dec. 11, 1995; Ord. No. 263-96, §§ 1—4,
+adopted April 1, 1996; Ord. No. 666-96, §§ 1, 5, adopted Aug. 5, 1996; Ord. No. 1106-96,
+§ 1, adopted Dec. 16, 1996; Ord. No. 1110-96, § 1, adopted Dec. 16, 1996; Ord. No.
+798-97, §§ 1—9, adopted Nov. 10, 1997; Ord. No. 142-99, §§ 1—17, adopted Feb. 22,
+1999; Ord. No. 372-99, §§ 1, 3, adopted May 10, 1999; Ord. No. 524-99, §§ 1—8, adopted
+July 12, 1999; Ord. No. 580-00, §§ 1—4, adopted July 17, 2000; Ord. No. 24-01, § 1,
+adopted Jan. 2, 2001; Ord. No. 527-02, § 1, adopted July 1, 2002; Ord. No. 1025-02,
+§ 9, adopted Dec. 16, 2002; Ord. No. 3-03, § 1, adopted Jan. 6, 2003; Ord. No. 4-03,
+§ 1, adopted Jan. 6, 2003; Ord. No. 155-03, § 1, adopted March 3, 2003; Ord. No. 547-03,
+§ 1, adopted July 7, 2003; Ord. No. 571-03, § 1, July 14, 2003; Ord. No. 703-03, §
+1, adopted Sept. 15, 2003; Ord. No. 313-04, §§ 1—3, adopted May 17, 2004; Ord. No.
+457-04, §§ 1, 2, adopted July 12, 2004; Ord. No. 458-04, §§ 1—4, adopted July 12,
+2004; Ord. No. 459-04, §§ 1—3, adopted July 12, 2004; Ord. No. 457-05, §§ 1, 3—7,
+adopted July 5, 2005.
+The city is hereby exempted from the purview of an Act of the General Assembly of
+the State of Colorado entitled, "An Act relating to pensioning of certain classes
+of county, municipal, and school district employees after retirement from office,"
+approved April 19, 1943, as enacted and as it may be repealed and reenacted or amended
+from time to time (C.R.S. 1973, 24-51-201 et seq.; see L. 1987, S.B. 143 § 1).
+(Ord. No. 960-05, § 1, 12-19-05)
+The retirement and disability plan or system of the city, as established by Ordinance
+No. 84, Series of 1946, as amended, was discontinued and terminated as of September
+19, 1953. Such termination and provisions related thereto in the 1950 Revised Municipal
+Code (sections 142.25—142.29) are hereby saved from repeal and continued in effect.
+(Ord. No. 960-05, § 1, 12-19-05)
+The ordinances creating and describing the 1963 Retirement Plan with all amendments
+thereto, up to and including Ordinance No. 457, Series 2005, as codified in sections 18-401 through and including 18-422 , chapter 18 , of the Revised Municipal Code, are hereby saved from repeal and continued in effect
+only, however, as they pertain to and provide for privileges, rights, and obligations
+of former and current members, including active, deferred, and retired members, their
+spouses and beneficiaries, and their respective obligations and rights to benefits
+vested under this article as of December 31, 2005.
+(Ord. No. 960-05, § 1, 12-19-05)
+It is hereby declared to be the policy of the city that all contributions under the
+terms of the plan, as provided for below, and all earnings thereon, are exclusively
+the property and for the exclusive benefit of those members, former members, retired
+members or their beneficiaries who may be eligible for payments under terms and conditions
+of the plan. No part of the corpus or investment return on the corpus of the trust
+shall be diverted to or used for purposes other than for the payment of benefits to
+members of the plan or other persons entitled to benefits under the terms of the plan
+and expenses incidental to the operation of the plan and the protection and enhancement
+of the trust. The plan, effective January 1, 1963, and this division 2, as restated
+with amendments and re-enacted as of January 1, 2006, are to further the objective
+of the employer in employment matters under, inter alia, section 6, article XX, of
+the state constitution and, therefore, are declared to be matters strictly of local
+and municipal concern of the city. It is the intent of the city to assure that each
+contractual entity of the plan be solely responsible for the costs of all pension
+and health benefits earned by the employees of such contractual entity, and in connection
+therewith to provide for the adequate and timely funding of such costs by each contractual
+entity on an ongoing basis.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 1424-21, § 1, 12-13-21)
+Terms used in this article or in the plan not defined generally in the Code shall
+have those meanings set forth specifically in definitions found in various sections
+of this division or in the administrative rules and regulations duly adopted by the
+board. As used in this division, the following words and phrases (and their declensional,
+inflected and conjugated forms) shall have the meanings in this section ascribed to
+them, unless it appears from the context that such word or term shall have been used
+in another sense:
+(1)
+Accumulated contributions shall mean, for employees employed prior to January 1, 1979, or employees not yet
+vested in the plan, the sum of a regular member's employee contributions to the plan,
+together with interest at a rate set annually by the retirement board, with a minimum
+rate of one (1) percent, not to exceed three (3) percent, per annum, compounded annually
+as of June 30th of each year.
+(2)
+Active member shall mean a member who is currently employed by the employer.
+(3)
+Actuarial equivalent or actuarially equivalent, including the phrase actuarially determined present value, shall mean a form of benefit differing in time, period or manner of payment from
+the normal form of benefit and determined on the basis of the mortality table and
+interest rate specified in the plan. The present value of any benefit and the amount
+of any distribution under the terms of the plan will be the actuarial equivalent of
+the normal form of benefit to the extent the limits of the Internal Revenue Code are
+not exceeded.
+(4)
+Appointed official shall mean any person occupying the following positions: manager of aviation, manager
+of transportation and infrastructure, manager of public health and environment, manager
+of safety, city attorney, manager of finance, manager of parks and recreation, manager
+of general services, manager of human services, and manager of community planning
+and development.
+(5)
+Authorized leave of absence means an unpaid, temporary cessation from active service with the employer, regardless
+of the reason, pursuant to an established nondiscriminatory policy of the employer,
+for which credited service is not given.
+(6)
+Board or retirement board means the five-member board appointed by the mayor as trustees to formulate, amend
+and administer the plan.
+(7)
+Bridged benefit means the total of a member's monthly benefit paid upon retirement following:
+(a)
+An initial retirement; and
+(b)
+Receipt of benefits from the plan; and
+(c)
+Any subsequent re-retirement benefits.
+Two (2) or more separately calculated retirement benefits combined into one monthly
+payment shall be known as and called a "bridged benefit."
+(8)
+Contractual entity shall mean any governmental agency or public entity exempt from the payment of federal
+income taxes by reason of express or implied governmental immunity under the Constitution
+or laws of the United States of America that joins the retirement plan, with the legislative
+approval of the city, by contracting with the retirement board upon and after review
+by and approval from the plan's regularly employed actuary. The contractual entity's
+contribution rates may have separate funding requirements for normal cost of pension
+benefits and for amortization of the portion of the unfunded actuarial liability attributable
+to that contractual entity's current or former employees. Contribution rates, retirement
+and health benefits, benefit schedules and refund privileges shall be the same for
+the contractual entity's employees as for city employees. The effective date for contractual
+entity employees shall be the date of the contract; however, the contractual entity's
+employees may have credit for current service between the contractual entity's effective
+date and January 1, 1963, if paid for with the contributions required for regular
+membership together with the applicable interest rate by both the employee and the
+contractual entity.
+(9)
+Credited service shall mean the number of years and months (and fractions thereof) of service for
+which contributions on behalf of the member were received by the plan based on the
+member's compensation, and the number of years and months (and fractions thereof)
+of permissive service credit (subject to the terms provided in this division) obtained
+by the member prior to the retirement date and credited to such member by the retirement
+board.
+a.
+Years and months of "military service duty," which shall have the meaning given the
+term "uniformed service" in the federal Uniformed Service Employment and Reemployment
+Rights Act of 1994, as amended from time to time, (the "Act") for re-employment rights
+purposes, shall be counted as credited service and benefits shall be accorded in compliance
+with and as limited by the Internal Revenue Code, provided that the member meets the
+qualifications and requirements of the Act.
+b.
+A member may change the class of employment without causing a break in credited service
+so long as the member maintains eligibility.
+c.
+In determining credited service, the plan shall count current service for fractional
+years and months on the basis of pay period of service.
+d.
+Subject to eligibility requirements, credited service shall include the aggregate
+of periods of current service commencing with an employee's first day of employment
+or reemployment and ending on the date a break in service begins, or the date an employee
+terminates employment with the employer. Service credit for properly authorized leave
+of absence without pay can be obtained upon payment by the member into the trust fund
+of an amount equal to the employee contribution, if any, and the employer contribution
+for the complete period of the leave of absence. Partial paybacks for a leave of absence
+shall not be allowed. Unpaid disciplinary leave or an unpaid disciplinary suspension
+are not authorized leaves of absence and a member is prohibited from purchasing or
+receiving credited service for any period of unpaid disciplinary leave or suspension.
+Any payment for an authorized leave of absence must be completed prior to the member's
+termination from employment. No payment shall be allowed to be made to the plan for
+a purchase of service credit following a member's termination of employment. If payment
+is made for an authorized leave of absence within twenty-four (24) months following
+a member's return to work the cost shall be calculated based upon the required contributions
+plus interest to the date of repayment at the rate of three (3) percent per annum,
+compounded annually as of June 30 th of each year. The cost for a member wishing to receive credited service for an authorized
+leave of absence who does not repay the required contributions, with interest, within
+twenty-four (24) months following the employee's return to work, shall be calculated
+at the full actuarial cost for such service in accordance with section 18-415 (c)(2). The hours of service credited shall be those which would normally have been
+credited but for such absence, or, in any case in which the plan is unable to determine
+such hours normally credited, eight (8) hours of service per day of absence.
+(10)
+Deferred member shall mean a member who does not complete and submit the required retirement application
+and all required documents to the plan within thirty (30) days of separation from
+service or termination of employment.
+(11)
+Effective date shall mean January 1, 1963, the date when the retirement plan shall be first put
+into effect.
+(12)
+Elected official shall mean any person occupying the following positions: councilmember, mayor, auditor,
+district attorney or clerk and recorder.
+(13)
+Employee shall mean any employee of the city who regularly works for the city at least
+forty (40) hours in a biweekly pay period, but shall not mean or include those reemployed
+pursuant to subsection 18-408 (j)(7) of this article, or persons holding on-call positions ("on-call position" shall
+mean and include those positions which have no established work schedule and for which
+no employee benefits are available). The term "regularly works" shall mean and apply
+to a person who works at least forty (40) hours in a biweekly pay period for a total
+of six (6) or more biweekly pay periods in a rolling twelve-month period.
+(a)
+The city council;
+(b)
+The auditor;
+(c)
+The retirement board (or the plan);
+(d)
+The library commission;
+(e)
+The civil service commission;
+(f)
+The board of adjustment-zoning;
+(g)
+The clerk and recorder;
+(h)
+The county court (except the judges of the county court);
+(i)
+The office of human resources;
+(j)
+The district attorney;
+(k)
+The undersheriff;
+(l)
+Any other person employed by the city who is eligible for employee benefits defined
+in Part 1, Article IX of the Charter (2003 codification) (but excepting employees
+who are members of the classified service as defined in Parts 4, 5 and 6 of said Article
+IX); and
+(m)
+In the case of contractual entities, any person who qualifies for participation in
+the plan and is an employee of an employer.
+(14)
+Employer shall mean the city or any contractual entity.
+(15)
+Gross pay, compensation and salary shall mean that amount of remuneration, including wages, salaries, other amounts
+received for personal services actually rendered in the course of employment with
+the employer, and other amounts actually included or that could be included in gross
+income of and due to an employee, including employees on disability leave as provided
+for in division 4 of article V of this chapter 18 , or otherwise, from the employer in the full amount as calculated before any reductions
+or deductions are made there from for any purpose, including reductions or deductions
+by reason of sections 125, 132(f)(4) or 457 of the Internal Revenue Code, but not
+including, distributions made from a plan of the employer designed to be eligible
+under section 457. The calendar year shall be the limitation year (determination period)
+for purposes of section 415 of the Internal Revenue Code.
+"Gross pay, compensation and salary" shall not include any amounts paid to a member
+whose service with the employer begins, or whose reemployment with the employer begins,
+after December 31, 2009, for the unused portion of the employee's bank of accumulated
+paid time off upon the employee's separation from employment with the employer. Employees
+who were employed on or before December 31, 2009, who are thereafter laid off and
+then reinstated (as defined in the career service rules), shall continue to have included
+in the calculation of their retirement benefit as gross pay, compensation and salary
+the unused portion of the employee's bank of accumulated paid time off upon the employee's
+subsequent separation from employment with the employer.
+Employer provided fringe benefits receiving special tax benefits, such as premiums
+for group term life insurance (to the extent excludible from gross income), shall
+be excluded from the definition of compensation. Gross pay, compensation and salary
+shall not include any lump-sum amount paid to a member under a settlement agreement
+entered into between the employer and the member, unless the adverse employment action
+which led to the settlement agreement is rescinded in its entirety and the member
+is reinstated to employment with the employer back to the effective date of the adverse
+employment action and the lump-sum settlement amount equals the exact gross pay, compensation
+and salary the member would have received for personal services actually rendered
+in the course of employment with the employer, but for the adverse employment action
+being taken, and the lump-sum payment is classified as back-pay wages in the settlement
+agreement. Payments made to employees pursuant to a retirement incentive program,
+shall be excluded from the definition of compensation and shall not be used in calculating
+an employee's retirement benefit.
+Gross pay, compensation and salary shall not include any amounts exceeding the limit
+set forth in section 401(a)(17) of the Internal Revenue Code.
+(16)
+Internal Revenue Code shall mean the Internal Revenue Code of 1986, as the same may be amended from time
+to time, and regulations and policies duly adopted or promulgated thereunder from
+time to time.
+(17)
+Investment manager shall mean any person who is a registered investment advisor under the Investment
+Advisors Act of 1940 who has the power to manage, acquire, or dispose of plan assets
+and acknowledges in writing the manager's fiduciary responsibility to the plan.
+(18)
+Investment policy shall mean the document which contains the current and long-term goals and objectives
+for the trust fund and the policies and procedures to be used by the retirement board,
+the trustees, investment managers, custodians, or any of them, in the management and
+safekeeping of the trust fund.
+(19)
+Joint and survivor annuity or joint and survivor benefit means an annuity for the life of the participant with a continued annuity for either
+the life of the spouse, if the participant is married at the time of retirement, or
+for a named beneficiary, and, subject to the minimum distribution incidental benefit
+requirements of the Internal Revenue Code, which is the actuarial equivalent of a
+single straight life annuity for the life of the participant. Under this option the
+member's benefit is reduced to provide for the lifetime monthly benefit of either
+the spouse or a named beneficiary following the death of the member.
+(20)
+Normal retirement. Normal retirement for members originally employed before July 1, 2011, shall mean
+retirement at the earlier of the age of sixty-five (65) or the first day of any calendar
+month after which a member has attained his or her fifty-fifth birthday and where
+the member's age and credited service, while an active member, are or were equal to
+the sum of seventy-five (75). The "rule-of-75" is determined by adding the age of
+the employee while employed with the employer to the years of credited service as
+an employee with the employer. If the total equals or exceeds the sum of seventy-five
+(75) then the requirements of the rule-of-75 have been met. The rule-of-75 must be
+attained by the member, while employed as an active member, prior to termination of
+employment. If the employee terminates employment, after earning the required service
+credit to be granted rule-of-75 unreduced benefits, but prior to reaching the age
+of fifty-five (55), the member may not apply for or receive retirement benefits under
+the rule until reaching age fifty-five (55).
+For members first employed on or after July 1, 2011, "normal retirement" shall mean,
+for members who have vested, the earlier of the age of sixty-five (65), or the first
+day of any calendar month after which a member has attained his or her sixtieth birthday
+and where the member's age and credited service, while an active member, are or were
+equal to the sum of eighty-five (85). The "rule-of-85" is determined by adding the
+age of the employee while employed with the employer to the years of credited service
+as an employee with the employer. If the total equals or exceeds the sum of eighty-five
+(85) then the requirements for the rule-of-85 have been met. The rule-of-85 must be
+attained by the member while employed as an active member, prior to termination of
+employment. If the employee terminates employment, after earning the required service
+credit to be granted rule-of-85 unreduced benefits, but prior to reaching the age
+of sixty (60), the member may not apply for or receive retirement benefits under the
+rule until reaching age sixty (60).
+(21)
+Participant or member shall mean any employee or official of an employer after the effective date, who
+qualifies for participation in the plan and who has not for any reason become ineligible
+to participate further in the plan. The term "participant" or "member" shall also
+include "active member," "deferred member" and "retired member."
+(22)
+Permissive service credit or purchase of service credit shall have the meaning given to it in section 415(n) of the Internal Revenue Code,
+and shall not mean the credited service granted a member under the Uniformed Services
+Employment and Reemployment Rights Act of 1994, as amended and as provided by federal
+law, or credited service for purposes of qualifying for a benefit available under
+the plan.
+(23)
+Plan shall mean the employees' retirement plan as presently set forth in this division
+or as the same may hereafter be amended. The name of the plan shall be "Denver Employees
+Retirement Plan." The term "plan" may also be used to refer to the administration
+of the plan and those who administer the plan.
+(24)
+Pre-retirement survivor annuity shall mean an annuity form of payment for the life of the surviving spouse of a participant
+who dies prior to the member's retirement date.
+(25)
+Regular member shall mean an employee who is eligible to be covered by the retirement plan and who
+is making all contributions required by the plan to be made by a regular member.
+(26)
+Retired member shall mean a former employee whose membership service has terminated by reason of
+retirement or disability and who is receiving or is entitled to receive benefits under
+this plan.
+(27)
+Retirement benefits shall mean any annuity payment to retired members, their spouses, beneficiaries or
+dependents provided for under the plan.
+(28)
+Service shall mean service rendered for compensation as an employee.
+(29)
+Single straight life annuity or maximum benefit shall mean an annuity for the lifetime of the member only which has not been reduced
+to provide a lifetime monthly benefit to a spouse or a beneficiary which becomes payable
+upon the death of the member. A member who is married at the time of his or her retirement
+shall not be allowed to take a single straight life annuity without the written permission
+of the member's spouse.
+(30)
+Trust or trust fund shall mean the fund established by this division and having its inception by authority
+of Ordinance No. 388, series of 1962, and shall have the meanings and be governed
+by the authority as set forth in section 18-403 , for the purpose of providing pension benefits and benefits incident thereto, and,
+except for reporting and record-keeping purposes, the term shall also include, for
+custodial, investment and fiduciary purposes, the health benefits account.
+(31)
+Vest, vesting or vested shall mean a member meeting or having met a stated requirement for a privilege or
+right as stated in the plan. Unless otherwise specifically indicated in this article,
+a member appointed before January 1, 1987, shall be vested after ten (10) years of
+credited service, a member appointed on or after January 1, 1987, but before July
+1, 2011, shall be vested after five (5) years of credited service or upon reaching
+the age of sixty-five (65), whichever is earlier. A member first appointed on or after
+July 1, 2011, regardless of their age upon appointment, shall be vested after five
+(5) years of credited service. A vested member, who terminates employment and is subsequently
+re-employed or re-hired by the employer, even if subject to a different benefit formula
+than the one applied or to be applied to the initial employment and credited service
+of the member does not have to re-vest in the plan. Upon meeting the eligibility and
+years of credited service requirements for a benefit, a member shall be vested in
+the benefit accruing under the terms of this article.
+(32)
+Unfunded actuarial liability shall mean the excess of the actuarial value of liabilities attributable to employees
+of the city or any contractual entity over the actuarial value of the assets attributable
+to the employees of the city or any contractual entity. The unfunded actuarial liability
+for the plan, the city and each contractual entity shall be calculated separately
+as of the last day of each plan year by the retirement board's regularly employed
+actuary.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 264-07, § 19, 6-11-07; Ord. No. 774-07,
+§ 1, 12-26-07; Ord. No. 775-07, § 26, 12-26-07; Ord. No. 513-09, § 2, 9-21-09; Ord.
+No. 514-09, § 1, 9-21-09; Ord. No. 634-09, § 5, 11-2-09; Ord. No. 641-09, § 1, 11-9-09;
+Ord. No. 349-11, § 1, 6-20-11; Ord. No. 350-11, § 1, 6-20-11; Ord. No. 661-12, § 3,
+12-26-12; Ord. No. 567-13, § 1, 11-12-13; Ord. No. 591-15, § 1, 9-21-15; Ord. No.
+1123-16, § 1, 12-5-16; Ord. No. 1007-17, § 1, 10-2-17; Ord. No. 427-18, § 11, 6-11-18;
+Ord. No. 39-20, § 25, 2-3-20; Ord. No. 690-21, § 1, 7-19-21; Ord. No. 1424-21, §§
+2, 3, 12-13-21; Ord. No. 1617-23, § 1, 11-20-23)
+(a)
+Creation of trust and exclusive benefit rule. There is hereby established a trust fund which shall be managed, invested and expended
+under the direction of the retirement board for the sole purpose of enabling the plan
+to make the payments of retirement benefits required under the plan. The plan shall
+be a governmental defined benefit plan that is consistent with the terms and conditions
+of this article and qualified under section 401(a) of the Internal Revenue Code. The
+trust shall be exempt from tax under section 501(a) of the Internal Revenue Code.
+The trust fund shall not include for record-keeping purposes, but shall include for
+investment, fiduciary and custodial purposes, the assets and earnings thereon of the
+health benefits account. All moneys, choses in action, and other property accounted
+for, deposited into, as, or made a part of such trust fund, excepting for accounting
+and record-keeping purposes the health benefits account, are hereby declared to be
+held in trust for the sole use and purpose of payment of the retirement benefits provided
+by this plan and the trust is hereby declared to be irrevocable, except as it may
+be modified in accordance with the terms of this division and the plan.
+(b)
+Fiduciary standards. Any fiduciary acting with regard to the management, investment, receipt or expenditure
+of the trust assets shall discharge the duties with respect to the plan solely in
+the interest of the members, retired members, and their beneficiaries:
+(1)
+For the exclusive purpose of:
+a.
+Providing benefits to participants and their beneficiaries; and
+b.
+Defraying reasonable expenses of administering the plan;
+(2)
+With the care, skill, prudence and diligence under the circumstances then prevailing
+that a prudent investor acting in a like capacity and familiar with such matters would
+use in the conduct of an enterprise of a like character and with like aims;
+(3)
+By diversifying the investments of the plan so as to minimize the risk of large losses,
+unless under the circumstances it is clearly prudent not to do so; and
+(4)
+In accordance with the documents and instruments governing the plan insofar as such
+documents and instruments are consistent with the provisions of this plan.
+(c)
+Use of group trusts and separate accounts. The board may authorize the investment of a portion of the trust in group trusts,
+other collective or commingled investment trusts or separate insurance accounts in
+accordance with the Internal Revenue Code and provisions of the rules and regulations
+established by the board.
+(d)
+Use of trustees, custodians and investment managers. Trustees acting under trust agreements, or custodians acting under custodial agreements,
+or both trustees and custodians, may be selected by the retirement board or its designee.
+(1)
+The retirement board may delegate investment powers to trustees or, in the case of
+a custodial account, such powers may be delegated to any investment manager or group
+of investment managers selected by the board. Trustees, investment managers or custodians
+may be removed by the retirement board at any time, and, in such event, new trustees,
+investment managers or custodians may be selected by the retirement board. Trustee,
+investment management and custodial expenses shall be paid out of the trust fund subject
+to the approval of the retirement board. The retirement board or the executive director,
+upon direction of the retirement board, is hereby authorized to execute the appropriate
+trust, investment management and/or custodial agreements, not inconsistent with the
+provisions of the plan, as indicated above.
+(2)
+The duties of the trustees, investment managers or custodians shall include the following:
+a.
+They shall invest and reinvest their share of the corpus and income of the trust fund
+subject to the requirements of the investment policy covering trust fund investments
+as set forth in the trust or custodial agreement.
+b.
+They shall maintain such records and accounts of their share of the trust fund and
+shall render such financial statements and reports thereof as may be required, from
+time to time, by the retirement board.
+(3)
+If the retirement board should determine that trustees or investment managers, or
+any combination thereof, will best serve the purpose of the plan, the assets of the
+plan, exclusive of those plan assets managed under the direction of the executive
+director, may be managed by trustees or investment managers. Plan assets may in the
+board's discretion, be managed by the plan, itself, under the direction of the executive
+director. In the absence of a plan custodian, the city treasurer shall provide safekeeping
+of the fund's securities which shall be registered in the fund's nominee name.
+(e)
+Operating expenses, budgets and audits.
+(1)
+All expenses of the administration and operation of the retirement plan shall be paid
+out of the trust fund established by this article. The investment management expenses
+of the plan shall be limited to one-quarter of one (0.25) percent of the average market
+value of the trust fund assets as of each calendar quarterly period. The administrative
+expenses (all expenses of the plan other than investment management expenses) shall
+be limited to one-eighth of one (0.125) percent of the asset value of the trust fund
+(cost or market value, whichever is higher) as of the end of each current year calendar
+quarterly period annualized. Upon direction of the board, expenses of custodial accounts,
+reports, and educational materials may be paid or partially paid through commissions
+generated by the purchase and sale of the plan's assets by plan trustees or investment
+managers.
+(2)
+The board shall adopt a budget for the succeeding calendar year not later than November
+thirtieth of the current calendar year, and a copy thereof shall be filed with the
+mayor and city council. Once adopted, the executive director is authorized to pay
+operational expenses in conformity with the established budget. Expenses outside of
+the annual budget may be authorized upon approval of the retirement board at the request
+of the executive director for good cause being shown or upon an emergency basis.
+(3)
+The board shall cause to be made, once each year, a complete audit of the trust fund,
+including the health benefits account, and shall furnish to the mayor, the city council
+and the city auditor a written report showing the result of such audit.
+(4)
+The city auditor may, at the auditor's discretion, audit the trust fund, including
+the health benefits account, at any time.
+(f)
+Unclaimed benefits. Any benefits, interest, or property held by the Plan which remain unclaimed for more
+than five (5) years after such benefits, interest, or property becomes payable or
+distributable to the claimant (including creditors of the Plan who are not members
+or beneficiaries), shall not be reported as unclaimed property to the Treasurer of
+the State of Colorado, but shall remain in the trust; however, any benefits, interest,
+or properties so forfeited shall not be used to increase benefits except in accordance
+with general funds available in the trust and subject to the requirements and provisions
+of the Internal Revenue Code.
+(g)
+Administration of trust. The trust fund established by this division and the plan itself shall be administered
+by the retirement board.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 402-08, § 1, 8-4-08; Ord. No. 530-11, §
+1, 10-28-11; Ord. No. 591-15, § 2, 9-21-15; Ord. No. 1248-18, § 1, 11-19-18)
+Internal Revenue Code preemption. Notwithstanding other provisions of this article
+and the plan, the following qualification requirements and limitations shall take
+precedence over and govern conflicting provisions that do not meet the minimum requirements
+applicable to governmental plans for qualification under section 401(a) of the Internal
+Revenue Code:
+(1)
+No part of the corpus of the trust or income derived therefrom may be used for or
+diverted to any purpose other than that of providing benefits to members and their
+beneficiaries and defraying reasonable expenses of administering the trust and plan.
+(2)
+Forfeitures arising from severance of employment, death or any other reason may not
+be applied to increase the benefits any member or beneficiary would otherwise receive
+under the plan.
+(3)
+To the extent of available funds in the trust, in the event of the permanent discontinuance
+of all contributions or upon termination, or partial termination of the plan, each
+member will be fully vested in the benefits the member has accrued at the date of
+the discontinuance or termination (or partial termination), and, upon meeting eligibility
+requirements for a particular benefit under the terms of the plan, the member will
+be fully vested in the accrued benefit.
+(4)
+A member's benefit shall begin no later than April 1 of the calendar year following
+the calendar year in which the member reaches the age of seventy-three (73) years
+or retires, whichever is later.
+(5)
+The benefits paid under this plan may not exceed the limitations specified by section
+415 of the Internal Revenue Code, as automatically adjusted January 1 of each year
+under section 415(d) of the Internal Revenue Code. The annually adjusted dollar limit
+shall apply to the benefits of all current, former and retired members (with benefits
+limited by section 415(b)), as specified in applicable regulations. The compensation
+taken into account for benefits under the plan shall not exceed the applicable amount
+permitted under section 401(a)(17) of the Internal Revenue Code; however, for any
+participant who became a member before January 1, 1996, the limitation on annual compensation
+taken into account shall not be less than the amount which was allowed to be taken
+into account under the Ordinance as in effect on July 1, 1993 as determined and set
+forth in Ordinance No. 1030, Series 1995 (which was $200,000, adjusted for changes
+in the cost of living under section 415(d) of the Internal Revenue Code). The Internal
+Revenue Code provisions are hereby incorporated by reference as the limitations applicable
+to this article and plan, and shall take precedence over, and control where inconsistent
+with the provisions set forth in this article or plan.
+(6)
+Any member or beneficiary ("distributee") who is entitled to an eligible rollover
+distribution, or is entitled to make an eligible rollover distribution, as defined
+in section 402(c)(4) of the Internal Revenue Code, may elect to have the portion of
+the distribution that would otherwise be included in the gross income of the distributee
+for federal income tax purposes transferred directly to an eligible retirement plan,
+as defined in section 402(c)(8)(B) of the Internal Revenue Code, designated by the
+distributee.
+(7)
+All benefits paid from the trust pursuant to the plan shall be distributed in accordance
+with the minimum distribution requirements of section 401(a)(9) of the Internal Revenue
+Code, including those Treasury Regulations pertaining to non-spousal beneficiaries.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 350-11, § 2, 6-20-11; Ord. No. 1617-23,
+§ 2, 11-20-23)
+(a)
+Established.
+(1)
+The plan shall be administered under the direction of a retirement board in which
+is vested authority to determine eligibility for membership in the plan for both retirement
+and health benefits, as well as the responsibility for the proper operation of the
+retirement plan, all such authority to be exercised in ways consistent with this division.
+The retirement board may, in administering the benefits payable under plan, conclusively
+rely upon the statements and representations sworn to or acknowledged before one authorized
+to administer oaths, in the form of affidavits, certificates, or other similar proof
+offered by members, spouses or beneficiaries with regard to eligibility for benefits,
+amount of benefits, membership, marital status, and other matters affecting rights
+or privileges under the plan.
+(2)
+The retirement board shall consist of five (5) voting members, all of whom shall be
+appointed by the mayor. At least one (1) of the appointed members shall be an active
+employee and at least one (1) of the appointed members shall be either a retired member
+or a deferred member. The terms of office shall be six (6) years, and the members
+of the retirement board shall be eligible for reappointment. Any vacancy in the membership
+of the retirement board shall be promptly filled for the unexpired portion of the
+term by appointment by the mayor. Vacancies occurring by reason of the expiration
+of the term of any member shall be promptly filled by the mayor. Members of the retirement
+board shall not receive compensation from the city for their services as such members.
+No member shall by reason of membership on the retirement board forfeit or be denied
+the right to any compensation, salary, or other remuneration to which the member is
+entitled for other services rendered by the member.
+(b)
+Additional powers. In addition to the general authority granted to the retirement board to carry out
+and administer the plan and the trust assets, and in no way in limitation of such
+authority, the board shall have the following powers:
+(1)
+The authority to determine membership status, eligibility for retirement, death and
+health benefits, and the amount of credited service and salary to be used in calculating
+benefits pursuant to this article.
+(2)
+The authority to accept or reject on behalf of the plan any moneys or properties received
+in the form of donations, gifts, appropriations, bequests, forfeitures or otherwise,
+or income derived therefrom.
+(3)
+The authority to recover from benefit recipients, through legal process or benefit
+offset, any benefits or premiums improperly paid to them or on behalf of them to which
+they or their beneficiaries are not entitled, and to assess interest on such money
+at the general statutory rate. When a benefit offset is not available as a means to
+collect, the plan may employ any collection method available, including assigning
+such accounts to private counsel or private collection agencies. If a legal suit is
+brought, then reasonable collection costs, attorney's fees, and legal expenses shall
+be added to the amount due. In the case of dishonored bank drafts and other negotiable
+instruments, the plan may pursue all remedies provided for in the Colorado Revised
+Statutes.
+The benefit recipient or their beneficiary(ies) shall be liable for repayment of the
+total of the amount outstanding plus any collection fees or costs. The plan may, at
+its option, waive the collection fee for good cause shown.
+(4)
+The authority to use and hold property in a nominee partnership composed of trustees
+or employees of the plan, designated by the board through appropriate motion or resolution,
+to facilitate sale and exchange transactions. The partners of the nominee partnership
+may be insured against liability which arises out of or in connection with performance
+of duties on behalf of the plan.
+(5)
+The authority and discretion to hold discussions in executive sessions, called by
+a two-thirds (⅔) vote of a quorum of the board, which shall be closed to the public,
+regarding investments, financial matters (excluding matters required to be reported
+by this article), litigation, potential litigation or personnel matters, or other
+matters under the law in which an executive session is authorized to be held.
+(6)
+The authority to hold title to interests, including the fee simple absolute, in real
+property, either for its administrative office needs, or for investment, in either
+the name of the plan or in the name of a title-holding organization, including a corporation,
+created and controlled by the retirement board for the purpose of holding title to
+interests in real property.
+(7)
+The authority to adopt its own rules of procedure and by-laws for conducting business,
+including the establishment of committees made up of board members or board members
+and staff members as the board deems necessary. If a committee created by the board
+consists of a majority of board members, the open meetings laws shall apply, unless
+the matter to be discussed is subject to the executive session rules listed in subsection
+(b)(5) above.
+(8)
+The authority to establish and administer, through the promulgation of rules and regulations,
+a qualified governmental excess benefit arrangement that satisfies the requirements
+of section 415(m) of the Internal Revenue Code, in order to provide to retired members
+such retirement benefits as would otherwise be payable under the plan, but for the
+application of the limitations on benefits of section 415(b) of the Internal Revenue
+Code. The benefits payable under this subsection shall be paid from contributions
+that otherwise would be made to the trust fund pursuant to section 18-407 . In lieu of deposit in the trust, an amount determined by the board, upon the advice
+of its actuaries, to be necessary to pay benefits and reasonable and necessary expenses
+shall be paid monthly to the credit of an account or grantor trust established for
+this purpose. The board reserves the right to amend or terminate this arrangement
+at any time. Such action may be retroactive to the extent that the board deems such
+action necessary to maintain the tax-qualified or funded status of the plan or the
+status of this arrangement as a qualified governmental excess benefit arrangement.
+(9)
+The authority to administer other or related employee benefit plans for the employer,
+including, but not limited to, early retirement incentive programs and deferred retirement
+option plans.
+(10)
+The authority to file an action in interpleader with the district court for the Second
+Judicial District of the State of Colorado, in those instances in which multiple claimants
+having differing interests contest the right to, or amount of, benefits.
+(11)
+The authority to sue or be sued in its own name or in the name of the plan.
+(12)
+The authority and power to construe disputed or doubtful terms in the plan.
+(c)
+Meetings and notices.
+(1)
+Regular meetings of the retirement board shall be held on regular business days chosen
+by the retirement board.
+(2)
+Special meetings may be called by not less than two (2) retirement board members and
+shall be held on a regular business day as chosen by the retirement board. Notice
+of the date of special meetings shall be transmitted to each member of the retirement
+board within a reasonable period of time before such meetings are held.
+(3)
+All meetings of the retirement board shall be public and shall be held in the offices
+of the retirement plan unless another location within the city is selected by the
+board by giving notice thereof in advance. All notices shall be published and provided
+in accordance with the open meetings laws and shall be posted on the plan's Internet
+website at least one (1) week before each meeting indicating the time and place of
+the meeting. Three (3) members of the retirement board shall constitute a quorum at
+any meeting, and each member shall be entitled to one (1) vote. Annually the retirement
+board shall elect one (1) of its members to preside over the board and its meetings
+as chairperson, and to perform such related duties as may be required by the retirement
+board. The retirement board shall also elect another member as vice-chair to perform
+those duties in the absence of the member routinely presiding.
+(d)
+Advisory committee.
+(1)
+Composition. The advisory committee shall be composed of three (3) members elected by the membership
+and one (1) member who is appointed by the career service board. At least one (1)
+elected member must be a retired member of the plan and at least one (1) elected member
+must be an active member of the plan who has five (5) years or more credited service.
+The member who is appointed by the career service board must either be a career service
+board member or an administrative staff member of the office of human resources. The
+term of office for all advisory committee members shall be three (3) years.
+(2)
+a.
+Elections. Each year, one (1) of the three (3) elected members shall be elected for a three-year
+term to the advisory committee in accordance with the election procedures authorized
+by the retirement board. This elected member shall be announced at a regular board
+meeting following the election, and assume office on the July 1 immediately following
+the election.
+b.
+The member appointed by the career service board designated prior to, and assume office
+effective on, July 1 in the year in which a term expires. Any vacancy in the appointed
+advisory committee position shall be promptly filled by the career service board for
+the unexpired portion of the term.
+(3)
+Vacancy of office. If an advisory committee member should vacate the office before the term expires,
+the office shall be filled by the person receiving the second highest number of votes
+at the election immediately preceding the vacancy who meets the qualifications of
+this division. The person appointed to fill the vacated office shall serve the remainder
+of the vacated term.
+(4)
+Re-election. All advisory committee members shall be eligible for re-election.
+(5)
+Role of advisory committee members. The duty and function of the advisory committee shall be to present to the retirement
+board suggestions and questions which are in the interest of the general membership
+of the plan.
+(e)
+Executive director.
+(1)
+The retirement board shall hire an executive director, who, subject to the policy
+direction of the board, shall be the managing and chief administrative officer of
+the plan, and as such, shall have charge of the retirement office and all accounts
+and records of the plan. Such accounts and records, other than personnel documents,
+membership files and records, and financial and investment records which are confidential
+under the Colorado Open Records Law, as well as temporary notes and drafts or documents
+in process but not finalized or adopted, shall be available for public inspection
+during regular business hours. A member's file and records may be inspected during
+regular business hours by that member or the member's duly authorized representative
+upon notice in writing to the retirement office, and upon making an appointment for
+such inspection.
+(2)
+The executive director shall:
+a.
+Have the authority to employ, supervise and dismiss the employees of the retirement
+office. All employees of the retirement office shall be paid salaries comparable to
+Office of Human Resources recommendations for similar job classifications.
+b.
+Be the secretary of the retirement board and shall keep the records of its proceedings.
+c.
+Make all disbursements from the trust fund in accordance with the provisions of this
+article.
+d.
+Apply and enforce all provisions of this article and of the rules and regulations
+of the retirement board pertinent to the operation of the retirement plan.
+e.
+Sign and execute all contracts for the plan as required by this article or as authorized
+by the retirement board.
+f.
+Prepare, execute and file all documents pertaining to the retirement plan as required
+by the Internal Revenue Service or by any other regulatory agency of government having
+jurisdiction.
+g.
+Obtain a determination from the commissioner of the Internal Revenue Service that
+the plan and all amendments to the plan that could affect the qualification of the
+plan are qualified under section 401(a) of the Internal Revenue Code, and the trust
+fund is exempt under section 501(a) of the Internal Revenue Code.
+(f)
+Advisors. The retirement board shall have the authority to retain such actuaries, consultants,
+attorneys and advisors by contract or otherwise as may be deemed necessary and advisable.
+The city attorney shall provide legal counsel to the plan, in an advisory or representative
+capacity, upon request of the board.
+(g)
+Rules and regulations; adoption and amendment of the plan. The board shall adopt an investment policy setting forth policies for investment
+of the trust and general standards for investment managers to follow. The board may
+also adopt its own rules of conduct and procedure, and by-laws governing its operations.
+As the need arises, because of changes in the applicable governing law, including
+this division and the Internal Revenue Code, or as deemed necessary by the board,
+the board may modify, from time to time, the investment policy and the rules and by-laws
+governing its conduct and the operations of the plan. The board shall be responsible
+for the resolution or settlement of claims or disputes, for the formation and adoption
+of rules and regulations pertinent to the operations of the retirement plan and for
+recommendations to the city council for amendments to the plan when, in the judgment
+of the retirement board, such changes are necessary or desirable. No recommendations
+for an amendment to the plan which may affect the cost of or contributions to the
+plan shall be made to the mayor and city council unless accompanied by a report from
+the plan's actuary clearly setting forth the effect of such amendment on future contributions
+by the city and by the employees.
+(h)
+Reports.
+(1)
+The retirement board shall submit a quarterly report, on a timely basis, to the mayor
+and to the city council on the financial status of the trust fund, a summary of any
+important decisions made by the retirement board during the quarter, including membership
+changes in the board or the advisory committee, the performance of the trust fund's
+investments, and on the performance of the trustees or investment managers. This report
+shall be compiled by a consultant who is an expert in the area of investment performance
+reporting.
+(2)
+The board shall cause to be made, once each year, a complete audit of the trust fund,
+including the health benefits account, and shall furnish to the mayor, the city council
+and the city auditor a written report showing the result of such audit.
+(3)
+An annual report of the retirement board to the membership shall be made available
+to all members.
+(i)
+Public records. Unless otherwise excepted, all official reports called for in this division shall
+be public documents under the Colorado Open Records Laws and shall be available for
+inspection at the retirement plan office.
+Exceptions:
+(1)
+If disclosure of financial information would be likely to impair the plan's ability
+to gain necessary information or to cause substantial harm to the competitive financial
+position of the person providing the information, the financial information shall
+be deemed confidential under the statutory exemptions regarding public records currently
+codified in part 2 of article 72, title 24, Colorado Revised Statutes.
+(2)
+A record received, prepared, used or retained by an investment fiduciary in connection
+with an investment or potential investment of the plan that relates to investment
+information pertaining to a portfolio company in which the investment fiduciary has
+invested or has considered an investment or that relates to investment information
+whether prepared by or for the investment fiduciary regarding loans and assets directly
+owned by the investment fiduciary is exempt from the disclosure requirements of the
+public records law.
+(3)
+If a public record described in this subsection is an agreement or instrument to which
+an investment fiduciary is a party, only those parts of the public record that contain
+investment information are exempt from the disclosure requirements of the public records
+law.
+(4)
+"Investment information" means information that has not been publicly disseminated
+or that is unavailable from other sources, the release of which might cause a portfolio
+company or an investment fiduciary significant competitive harm. Investment information
+includes, but is not limited to, financial performance data and projections, financial
+statements, lists of co-investors and their level of investment, product and market
+data, rent rolls and leases.
+(5)
+Member records. All information contained in individual records of members, former
+members, inactive members, retired members, benefit recipients and their dependents,
+shall be confidential and shall not be disclosed to anyone except insofar as may be
+necessary for the administration of this article, or upon order of a court of competent
+jurisdiction, or upon written authorization by the member.
+(j)
+Bond for diversion of funds. If, in the course of the operation of the plan, it shall become possible for funds
+or other assets of the trust fund to be diverted to the use of any member of the board
+or employee of the plan, the board shall give bond to the city with a sufficient responsible
+surety company approved by the mayor in such sums as are recommended by the retirement
+board and approved by the mayor.
+(k)
+Liability for misconduct. The retirement board and individual members thereof shall not be liable to the sponsor,
+an employer, the membership (individually or collectively), or the beneficiaries (individually
+or collectively) of the plan for mere errors of judgment in administering the plan
+or the trust, provided that the board or individual members of the board, as the case
+may be, shall be subject to removal by the mayor, and shall be liable for their willful
+default, misconduct, or gross negligence, in administering the plan or the trust resulting
+in loss or injury to the trust and members and beneficiaries thereof; however, none
+of the members of the retirement board shall be responsible or liable for the acts
+or omissions of any other of the members of the board, of any predecessor, or of a
+custodian, agent, depository, or counsel selected with reasonable care. Further, the
+board may, through operating rules or otherwise, provide for standards of conduct
+for board members and plan staff, indemnify actions undertaken in good faith, authorize
+the settlement of disputes, and purchase fiduciary insurance.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 349-11, § 2, 6-20-11; Ord. No. 350-11, §
+3, 6-20-11; Ord. No. 661-12, § 3, 12-26-12; Ord. No. 567-13, § 2, 11-12-13; Ord. No.
+700-14, § 1, 11-24-14; Ord. No. 591-15, § 3, 9-21-15; Ord. No. 1123-16, § 2, 12-5-16;
+Ord. No. 1007-17, § 2, 10-2-17; Ord. No. 1248-18, § 2, 11-19-18; Ord. No. 1617-23,
+§§ 3—5, 11-20-23)
+(a)
+Immediate participation. Each employee appointed or re-appointed, elected or re-elected, on or after the effective
+date, shall be a member of the plan as of the date of employment.
+(b)
+Breaks in service. If an employee has an interruption or break in service before satisfying a requirement
+under the plan for a particular benefit, or for being vested in or with regard to
+a particular benefit, service before such interruption or break in service shall not
+be taken into account except as expressly provided in this article in meeting eligibility
+or vesting requirements for the benefit. This section does not apply to a member who
+applies for and receives retirement benefits from the plan, nor does it apply to members
+re-employed under subsection 18-408(j)(1) after receiving retirement benefits from
+the plan. If the employee, who is not vested, returns to eligible employment with
+the employer, the employee shall be entitled to obtain credit for the years and months
+of service for which his or her contributions were refunded if the amount refunded,
+including interest accrued to the date of repayment at the rate of three (3) percent,
+per annum, compounded annually as of June 30 th of each year, is repaid to the trust within twenty-four (24) months of the employee's
+re-employment date. A re-employed employee who does not repay the refunded contributions,
+with interest, within twenty-four (24) months of the employee's re-employment date,
+may still, upon repayment, receive credit for the years and months of service for
+which his or her contributions were refunded, however, the repayment will be calculated
+at the full actuarial cost for such service in accordance with subsection 18-415 (c)(2).
+(c)
+Employment with disability. Plan membership shall not be denied on the basis that an individual is a "qualified
+individual with a disability" under the Americans with Disabilities Act, 42 U.S.C.
+section 12101, et seq.; provided, however, that no form of disability retirement shall
+be available under the plan if the disability arises from a medical condition as it
+existed before the member's last employment with the employer.
+(d)
+Leave of absence. Service credit for properly authorized leave of absence without pay can be obtained
+upon payment by the member into the trust fund of an amount equal to the employee
+contribution, if any, and the employer contribution for the complete period of the
+leave of absence. Partial paybacks for a leave of absence shall not be allowed. Unpaid
+disciplinary leave or an unpaid disciplinary suspension are not authorized leaves
+of absence and a member is prohibited from purchasing or receiving credited service
+for any period of unpaid disciplinary leave or suspension. No payment shall be allowed
+to be made to the plan for a purchase of service credit following a member's termination
+of employment. If payment for an authorized leave of absence is made within twenty-four
+(24) months following a member's return to work, the cost shall be calculated based
+upon the required contributions plus interest to the date of repayment at the rate
+of three (3) percent per annum, compounded annually as of June 30 th of each year. The cost for a member wishing to receive credited service for an authorized
+leave of absence who does not repay the required contributions, with interest, within
+twenty-four (24) months following the employee's return to work, shall be calculated
+at the full actuarial cost for such service in accordance with section 18-415 (c)(2). The election to purchase service credit for a properly authorized leave of
+absence shall be irrevocable and no refund shall be made to a member for any amount
+paid to the plan to purchase service credit. The hours of service credited shall be
+those which would normally have been credited but for such absence, or, in any case
+in which the plan is unable to determine such hours normally credited, eight (8) hours
+of service per day of absence.
+(e)
+Furlough days. If a member's average monthly salary is impacted by days designated by the employer
+as "furlough days." the negative impact on an employee's retirement benefit may be
+alleviated upon payment by the member into the trust fund of an amount equal to the
+employee contribution, if any, and the employer contribution on foregone gross pay
+which resulted from the furlough day. A member with multiple furlough days may choose
+which furlough days or how many furlough days to redeem, however, less than a full-day
+or partial redemptions for less than a full-day shall not be allowed. No payment shall
+be allowed to be made to the plan for redemption of a furlough day following a member's
+termination of employment. The cost for a member wishing to negate the impact on their
+average monthly salary of a furlough day shall be based upon the required contributions
+in effect at the time of the furlough day plus interest to the time of payment at
+the rate of three (3) percent per annum, compounded each June 30. Interest shall not
+be applied to the required payment if the redemption occurs between the furlough day
+and the June 30 immediately following such furlough day. The election to pay the required
+contributions to redeem a furlough day shall be irrevocable and no refund shall be
+made to a member for any amount paid to the plan to redeem a furlough day.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 350-11, § 4, 6-20-11; Ord. No. 567-13, §
+3, 11-12-13; Ord. No. 1007-17, § 3, 10-2-17)
+(a)
+Actuarial soundness of the plan. The employer intends to continue the plan and to contribute regularly to the trust
+each payroll period for each member such amounts as are necessary to maintain or assist
+in maintaining the plan on a sound actuarial basis as prescribed by applicable law
+and, particularly, the Internal Revenue Code for defined benefit pension plans qualified
+under section 401(a) thereof. Employees shall contribute regularly to the trust each
+payroll period in such amounts as are necessary, in the judgment of the city, to assist
+in maintaining the plan on a sound actuarial basis in accordance with the Internal
+Revenue Code.
+(b)
+Excess contributions. Contributions determined to be in error shall be returned or credited promptly to
+the employer or employee.
+(c)
+Insufficient employer contributions. If the employer makes insufficient contributions to the plan, it shall promptly pay
+the amount of the deficiency necessary to maintain or assist in maintaining the plan
+on a sound actuarial basis.
+(d)
+Insufficient employee contributions. The plan shall notify members, at least annually, of insufficient payroll deductions
+for mandatory and elective employee contributions and shall require payment of the
+amount of the deficiency. If the back payment is not made within one (1) year after
+notification, interest shall accrue at the rate of three (3) percent per annum, compounded
+annually as of June 30 th of each year from the date of the employee contribution error. If the back payment
+is not made by the member's date of retirement, the full amount due including interest
+shall be withheld from the member's retirement benefit payments using a schedule approved
+or directed by the plan.
+(e)
+Employer contributions. From and after the date a person first becomes an active member, and until the actual
+retirement date or prior termination of employment, the manager of finance and each
+contractual entity shall transfer into the trust fund each payroll period from such
+sources as shall, in the case of the city, be designated by ordinance, the amounts
+listed in this section which have been determined, on an actuarial basis, to be sufficient
+to provide for the benefits of eligible members.
+(1)
+Effective January 1, 2023, for each active member, including each elected official,
+the employer shall contribute seventeen and ninety-five-hundredths (17.95) percent
+of the member's gross salary. Any employer may prepay this contribution obligation
+with the approval of the retirement board. In the case of a contractual entity, the
+employer shall, as a condition necessary to becoming or remaining a contractual entity,
+also make any actuarially determined supplemental contributions necessary to fund
+the cost of benefits available under the plan payable to past, current and future
+employees of the contractual entity. Such supplemental contribution shall include
+the difference in the normal cost of benefits for current employees of the contractual
+entity and amortization of the unfunded actuarial liability attributable to current
+or former employees of the contractual entity, as determined by the retirement board's
+regularly employed actuary and approved by the retirement board. A contractual entity's
+supplemental contribution for any plan year must be made within one hundred eighty
+(180) days of the end of the plan year in which it is due. Further, the employer may
+make additional discretionary contributions at any time.
+(2)
+For accounting, reporting, and record-keeping purposes, a portion of said contributions
+from each employer shall be contributed so that it can be allocated and apportioned
+to the health benefits account created by section 18-412 based upon the determination made, from time to time, by the plan's actuary of the
+amount necessary for the actuarial soundness of the health benefits account, such
+portion not to exceed, however, two (2) percent of said total gross salary. Expenses
+relating to the administration and investment of the health benefits account shall
+be charged thereto with the same limitations imposed thereon as are set forth in section 18-403 regarding the administration of pension benefits.
+(f)
+Employee contributions. Each active member shall contribute to the trust fund, by means of payroll deductions
+which shall be withheld by the manager of finance or contractual entity and transferred
+each payroll period directly to the trust, the following amounts:
+(1)
+Effective January 1, 2023, for each active member, including each elected official,
+the employee shall contribute eight and forty-five one-hundredths (8.45) percent of
+his or her gross salary to the trust fund.
+(2)
+For the employee contributions required under paragraph (1) above and subject to the
+requirements of section 414(h) of the Internal Revenue Code the employer shall pick-up
+the designated employee contributions as an employer pick-up of the contributions.
+If an active member terminates employment prior to being vested, upon request of the
+member, the plan shall refund to the terminated employee in a lump sum the employee
+contribution plus interest at a rate set annually by the retirement board, with a
+minimum rate of one (1) percent, not to exceed three (3) percent, per annum, compounded
+annually as of June 30 of each year, attributable to the employee's contributions
+to the trust fund. Employee contributions attributable to an employee who is vested
+or eligible to receive a retirement benefit from the plan, shall not be considered
+"accumulated contributions" as that term is defined in this division, and shall not
+be refunded to the employee at any time but shall remain a part of the trust fund
+and used to fund, but not increase, retirement benefits.
+(g)
+Actuarial valuation. For the purpose of making its annual recommendation of contributions to be made by
+the each employer, the retirement board shall cause to be made, at least every other
+year, an actuarial valuation or valuations of the plan and trust fund including the
+health benefits account. When practicable, such valuations shall be based upon appropriate
+actuarial investigations into mortality, service, salary experience and other data
+pertaining to the members and retired members of the plan. Such actuarial valuation
+or valuations shall include separate valuations for each employer, based on methodology
+approved by the retirement board. The retirement board shall have its actuary or actuaries
+conduct an actuarial experience investigation of the plan at least every fifth year
+of the plan's operation. If the actuarial experience investigation determines that
+the assumptions previously adopted by the retirement board no longer reflect the actual
+experience of the plan, the retirement board shall adopt, upon the advice of its actuary
+or actuaries, new assumptions, or modify current assumptions, or retain current assumptions
+if there is no actuarial impact on the plan, in order to accurately reflect the experience
+which occurred during the period reflected in actuarial experience investigation and
+the future experience which is anticipated will occur. The new assumptions shall remain
+in use until the next actuarial experience investigation. The retirement board shall
+adopt, from time to time, upon the advice of its actuary or actuaries, and in accordance
+with applicable federal law or regulation, such mortality and other tables or interest
+rates as it may deem necessary or appropriate for the proper operation of the plan.
+(h)
+Authorization for payroll deductions. The manager of finance is directed and empowered to make necessary payroll deductions,
+and the manager of finance and all other city officers and employees are directed
+and empowered to take whatever other action may be necessary to facilitate the accomplishment
+of the purposes of the retirement plan.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 854-06, § 1, 12-26-06; Ord. No. 775-07,
+§ 27, 12-26-07; Ord. No. 632-09, § 1, 11-2-09; Ord. No. 636-10, § 1, 11-22-10; Ord.
+No. 341-11, § 1, 6-20-11; Ord. No. 350-11, § 5, 6-20-11; Ord. No. 506-12, § 1, 10-8-12;
+Ord. No. 568-13, § 1, 11-12-13; Ord. No. 701-14, § 1, 11-24-14; Ord. No. 1123-16,
+§ 3, 12-5-16; Ord. No. 1007-17, § 4, 10-2-17; Ord. No. 1248-18, § 3, 11-19-18; Ord.
+No. 1271-19, § 1, 12-9-19; Ord. No. 1401-20, § 2, 12-21-20; Ord. No. 1424-21, §§ 4—6,
+12-13-21; Ord. No. 1580-22, §§ 1, 2, 12-19-22)
+In order for a member to receive any retirement benefits, the member must first have
+completely separated from service or terminated employment with the employer and must
+have successfully completed and submitted a retirement application and all required
+documents to the plan. For members who are retiring directly from active service,
+in order to receive retirement benefits payable as of the first business day of the
+calendar month following the member's termination of employment with the employer,
+the member shall, not later than thirty (30) days from the date of separation from
+service or termination of employment, successfully complete and submit a retirement
+application and all required documents and information to the plan. A member who does
+not complete and submit the required application and documents to the plan within
+thirty (30) days of separation from service or termination of employment shall be
+considered to be a deferred member and any subsequent retirement shall be a deferred
+retirement. Except for payments for members retiring directly from active service
+where, within thirty (30) days from the date of termination, the member has successfully
+completed and submitted a retirement application to the plan, or for a disability
+retirement where the benefit may be partially paid retroactively to the member's date
+of termination, all other retirement benefits are to be paid prospectively and will
+be paid only after successful completion of all of the retirement application requirements.
+Eligible members who shall resign, become disabled, die while in the service of the
+employer, be discharged, or have their employment terminated for any other reason,
+shall be entitled to retire according to the following categories of retirement:
+(a)
+Normal retirement. Members employed before July 1, 2011, shall be eligible for a normal retirement payable
+on the first business day of the calendar month following termination of employment
+and upon the earlier of the member's sixty-fifth (65th) birthday or payable on the
+first business day of any calendar month after which a member has attained his or
+her fifty-fifth (55th) birthday and where the member's age and credited service while
+an active member are or were equal to or greater than the sum of seventy-five (75)
+(the "rule-of-75"). A member shall become fully vested in the member's accrued benefit,
+and this benefit shall become unforfeitable on the member's normal retirement date
+under the rule-of-75 or the member's sixty-fifth (65th) birthday, whichever is earlier.
+Members first employed on or after July 1, 2011, who are vested shall be eligible
+for a normal retirement payable on the first business day of the calendar month following
+termination of employment and upon the earlier of the member's sixty-fifth (65th)
+birthday, or payable on the first business day of any calendar month after which a
+member has attained his or her sixtieth (60th) birthday and where the member's age
+and credited service while an active member are or were equal to or greater than the
+sum of eighty-five (85) ("the rule-of-85"). A member shall become fully vested in
+the member's accrued benefit, and this benefit shall become nonforfeitable upon the
+member becoming eligible for normal retirement as defined herein.
+A member who meets the requirements for a normal retirement can retire without a reduction
+in the member's retirement benefit as is required for an early retirement.
+(b)
+Early retirement. Members employed before July 1, 2011 shall be eligible for an early retirement payable
+on the first business day of any month following termination of employment with the
+employer, after the member reaches the age of fifty-five (55), but before the member
+reaches eligibility for a normal retirement, provided that member must have completed
+five (5) years of credited service at the date of such early retirement.
+For members first employed on or after July 1, 2011, a member shall be eligible for
+an early retirement payable on the first business day of any month following termination
+of employment with the employer, after the member reaches the age of sixty (60), but
+before the member reaches eligibility for a normal retirement, provided that such
+member must have completed five (5) years of credited service at the date of such
+early retirement.
+(c)
+Deferred retirement . Members employed before July 1, 2011, who are vested and who terminated employment
+with the employer and, upon termination, were not eligible for or, if eligible, opted
+not to received their normal or early retirement ("deferred members"), upon reaching
+age fifty-five (55) or older, may elect, at any time prior and up to the age that
+mandatory distributions are required under section 401(a)(9) of the Internal Revenue
+Code, to apply for and receive a retirement benefit. Deferred members first employed
+on or after July 1, 2011, upon reaching age sixty (60) or older, may, at any time
+prior and up to the age that mandatory distributions are required under the Internal
+Revenue Code, apply for and receive a retirement benefit. The calculation of a deferred
+retirement benefit shall be based on the formula in effect at the time of the member's
+termination of employment with the employer and, with the exception of qualifying
+for normal retirement under the rule-of-75 (for those first employed before July 1,
+2011), or qualifying for a normal retirement under the rule-of-85 (for those first
+employed on or after July 1, 2011) the member's age at the time of application.
+(d)
+Disability retirement resulting from service duty. Disability retirement resulting from service duty shall be available to any active
+member who becomes totally and permanently disabled as defined below in this subsection
+(d) prior to the member's normal retirement date. The effective date of retirement
+shall be the first day of the month following termination of employment with the employer
+by reason of the disability:
+(1)
+Total and permanent disability for disabilities which occur on or after January 1,
+1996, and before August 1, 2005, shall be awarded when, and the phrase "totally and
+permanently disabled" for disabilities which occur on or after January 1, 1996, and
+before August 1, 2005, is defined as occurring when:
+a.
+The member is disabled by compensable injury or occupational disease occurring through
+accidental means that arises out of and in the course of the member's employment with
+the employer; and
+b.
+The injury or occupational disease occurs not more than twenty-four (24) months before
+the effective date of retirement; and
+c.
+The member has been awarded in a final order permanent total disability under the
+Workers' Compensation Act of Colorado, Articles 40 to 47, Title 8, C.R.S., as amended
+(the "Workers' Compensation Act") or has received, after reaching maximum medical
+improvement, a permanent medical impairment rating of twenty-six percent (26) or more
+or has, according to the schedule set forth in Section 8-42-107 of the Colorado Revised
+Statutes, as amended from time to time, suffered an injury or injuries that, when
+totaled, allow workers' compensation for a period of at least one hundred seventy-five
+(175) weeks when calculated as set forth in the Workers' Compensation Act, based on
+the medical condition of the member as of the effective date of the member's retirement,
+and based on an injury or occupational disease sustained while employed by the employer
+and which occurred not more than twenty-four (24) months prior to the effective date
+of retirement, as certified to the retirement board by the appropriate official of
+the employer and by one (1) physician selected and paid for by the retirement plan;
+and
+d.
+The Social Security Administration has awarded the member a disability insurance benefit
+for the same impairment upon which the member is basing a claim for a disability retirement
+from the plan. Denial of social security disability payments for any reason shall
+disqualify the member for disability retirement payments provided by this section;
+and
+e.
+When the member has terminated his employment by reason of disability and the member
+notifies the retirement board of his or her intent to apply for a disability benefit
+within ninety (90) days of such termination due to disability.
+(2)
+Total and permanent disability for disabilities which occur after July 31, 2005, shall
+be awarded when, and the phrase "totally and permanently disabled" for disabilities
+which occur on or after August 1, 2005, is defined as occurring when:
+a.
+The member is disabled by a compensable injury occurring through accidental means
+or an occupational disease, either of which arises out of and in the course of the
+member's employment with the employer; and
+b.
+The injury or occupational disease occurs not more than twenty-four (24) months before
+the effective date of retirement. Exceptions to this twenty-four (24) month requirement
+may be made by the executive director upon a showing of good cause and due diligence
+on the part of the member; and
+c.
+The member has received, and has provided to the plan, a true copy of the letter of
+"final admission of liability" filed by the employer with the State of Colorado by
+the risk management division of the City of Denver, or by the risk management division
+of the Denver Health and Hospital Authority; and
+d.
+Either:
+1.
+The Social Security Administration has awarded the member a disability insurance benefit
+for the same impairment which led to the member's termination from employment; or
+2.
+If the member is not eligible to apply for a Social Security disability benefit because
+the member is employed by an employer which does not participate in Social Security
+or the member does not have the requisite number of quarters to qualify, a physician
+chosen and paid by the plan has certified, within a reasonable degree of medical certainty,
+that the member would, if otherwise eligible under the Social Security Act, qualify
+for a disability insurance benefit from Social Security based on the same disability
+which led to the member's termination from employment; and
+e.
+When the member has terminated employment by reason of disability, which is verified
+by the employer, and the member submits a written disability application to the plan
+that is received in the plan's offices no later than ninety (90) days immediately
+following such termination due to disability; and
+f.
+The requirements for disability retirement have been met within three (3) years from
+the date of termination. Exceptions to this three (3) year requirement may be made
+by the executive director upon a showing of good cause and due diligence on the part
+of the member in actively pursuing all requirements necessary to be awarded a disability
+retirement.
+(3)
+Regardless of the date of the occurrence of the disability, if the member should die
+within thirty-six (36) months after termination of employment and while awaiting approval
+of his disability retirement application, he shall be deemed an active member upon
+his date of death.
+(4)
+The retirement board shall have the right to order medical examinations of any retired
+member on disability retirement for the purpose of obtaining a recommendation for
+the continuation, termination, or suspension of the benefit.
+(5)
+The disability benefit will cease upon reemployment of any kind generating income
+at or above the "substantial gainful activity" amount as at that time defined in the
+regulations of the Social Security Administration. Denial, suspension, or termination
+of Social Security disability insurance payments for any reason shall disqualify the
+affected member for disability retirement payments provided by this section.
+(6)
+Upon application for disability benefits under this section, a member who is or may
+be eligible for Social Security disability insurance benefits shall be required to
+authorize the plan to obtain from the Social Security Administration any and all information
+regarding the member by signing a "Release of Information" or similar form whereby
+the member shall give the plan permission to contact the Social Security Administration
+and receive any and all information regarding the member from the Social Security
+Administration. The information sought may include such information as, but not limited
+to, wages earned by the member and from what employment during any disability period,
+the member's medical records, doctors' reports, determinations of continued eligibility,
+suspensions or terminations of eligibility for Social Security disability insurance
+benefits, the dates the benefits began, ended, were interrupted, and were reviewed.
+The authorization shall remain in effect the entire period for or during which the
+member seeks eligibility, claims to be, or is eligible to receive disability benefits
+from the plan.
+(e)
+Disability retirement not resulting from service duty. As set forth below in this subsection (e), disability retirement not resulting from
+service duty shall be available to all totally and permanently disabled active members
+whose appointment occurs after December 31, 1962, upon completion of ten (10) years
+of credited service; and shall also be available to all totally and permanently disabled
+active members whose appointment occurs after December 31, 1988, upon completion of
+five (5) years of credited service.
+(1)
+For disabilities that occur on or after January 1, 1996 and before August 1, 2005,
+disability retirement not resulting from service duty for total and permanent disability
+shall be awarded when:
+a.
+The member's disability is caused by but not limited to a disease or an accidental
+injury other than one which occurred, was contracted, or suffered during or as a result
+of the member's engagement in or commission of a felony, or because of an intentionally
+self-inflicted injury; and
+b.
+The member has received, as of the effective date of the member's retirement as certified
+to by two (2) physicians selected and paid for by the member and one (1) physician
+selected and paid for by the retirement plan, the equivalent of, after reaching maximum
+medical improvement, a permanent medical impairment rating of twenty-six percent (26)
+or more or has, according to the schedule set forth in Section 8-42-107 of the Colorado
+Revised Statutes, as amended from time to time, suffered an injury or injuries that,
+when totaled, would allow, if incurred on the job, workers' compensation for a period
+of at least one hundred seventy-five (175) weeks when calculated as set forth in the
+Workers' Compensation Act; and
+c.
+The Social Security Administration has awarded the member a disability insurance benefit
+for the same impairment upon which the member is basing a claim for a disability retirement
+from the plan. Denial of social security payments for any reason shall disqualify
+the member for disability retirement payments provided by this section; and
+d.
+When the member has terminated his employment by reason of disability and the member
+notifies the retirement board of his or her intent to apply for a disability benefit
+within ninety (90) days of such termination due to disability.
+(2)
+For disabilities that occur on or after August 1, 2005, disability retirement not
+resulting from service duty for total and permanent disability shall be awarded when:
+a.
+The member's disability is caused by but not limited to a disease or an accidental
+injury other than one which occurred, was contracted, or suffered during or as a result
+of the member's engagement in or commission of a felony, or because of an intentionally
+self-inflicted injury; and
+b.
+The disease or accidental injury occurs not more than twenty-four (24) months before
+the effective date of retirement. Exceptions to this twenty-four (24) month requirement
+may be made by the executive director upon a showing of good cause and due diligence
+on the part of the member; and
+c.
+Either:
+1.
+The Social Security Administration has awarded the member a disability insurance benefit
+for the same impairment which led to the member's termination from employment; or
+2.
+If the member is not eligible to apply for a Social Security disability insurance
+benefit because the member is employed by an employer which does not participate in
+Social Security or the member does not have the requisite number of quarters to qualify,
+a physician chosen and paid by the plan has determined within a reasonable degree
+of medical certainty that the member would, if otherwise eligible under the Social
+Security Act, qualify for a disability insurance benefit from Social Security based
+upon the same disability which led to the member's termination from employment; and
+d.
+When the member has terminated employment by reason of disability, which is verified
+by the employer, and the member submits a written disability application to the plan
+that is received in the plan's offices no later than ninety (90) days immediately
+following such termination due to disability; and
+e.
+The requirements for disability retirement have been met within three (3) years from
+the date of termination. Exceptions to this three (3) year requirement may be made
+by the Executive Director upon a showing of good cause and due diligence on the part
+of the member in actively pursuing all requirements necessary to be awarded a disability
+retirement.
+(3)
+Regardless of the date of the occurrence of the disability under subsection (1) above,
+the effective date of retirement shall be the first day of the month following termination
+of employment with the employer.
+(4)
+If a member should die within thirty-six (36) months after termination of employment
+and while awaiting approval of his retirement application, the member shall be deemed
+an active member upon date of death.
+(5)
+The disability benefit will cease upon reemployment of any kind generating income
+at or above the "substantial gainful activity" amount as at that time defined in the
+regulations of the Social Security Administration. Denial, suspension, or termination
+of Social Security disability insurance payments for any reason shall disqualify the
+affected member for disability retirement payments provided by this section.
+(6)
+The retirement board shall have the right to order medical examinations of any retired
+member on disability retirement for the purpose of obtaining a recommendation for
+continuation, termination, or suspension of the benefit.
+(7)
+Upon application for disability benefits under this section, a member who is or may
+be eligible for Social Security disability insurance benefits shall be required to
+authorize the plan to obtain from the Social Security Administration any and all information
+regarding the member by signing a "Release of Information" or similar form whereby
+the member shall give the plan permission to contact the Social Security Administration
+and receive any and all information regarding the member from the Social Security
+Administration. The information sought may include such information as, but not limited
+to, wages earned by the member and from what employment during any disability period,
+the member's medical records, doctors' reports, determinations of continued eligibility,
+suspensions or terminations of eligibility for Social Security disability insurance
+benefits, the dates the benefits began, ended, were interrupted, and were reviewed.
+The authorization shall remain in effect the entire period for or during which the
+member seeks eligibility, claims to be, or is eligible to receive disability benefits
+from the plan.
+(f)
+Temporary early retirement pending approval of disability application. An active member who has submitted an application to the retirement board for a disability
+retirement may elect temporary early retirement, if so qualified, pending approval
+of such disability application. If the member so applies, the member shall be deemed
+a retired member upon the effective date of early retirement, and the death benefits
+provided for under section 18-411 shall not be payable, but the member and the member's spouse shall receive a joint
+and survivor benefit under this form of retirement unless the member and the member's
+spouse consent to a different form of benefit as described in section 18-410 .
+In the event of the approval of the disability application, the retired member shall
+receive a retroactive adjustment to reflect the difference in the disability retirement
+benefit as compared to the early retirement benefit.
+If the member has not qualified for a disability retirement within three (3) years
+from the effective date of the temporary early retirement (or during any period of
+extension of the three-years by the executive director permitted under this section
+408), the member shall be awarded either a regular early retirement or, if the member
+elects, a benefit as provided for by section 18-410 .
+(g)
+Date of termination of employment. After any retirement benefit has been paid, no change or adjustment shall be allowed
+to be made by the member in either the amounts or the form of the retirement benefit
+elected by the member upon retirement regardless of whether there has been a change
+of the member's termination date by the employer.
+(h)
+Current employees ineligible for refunds. No refund of accumulated contributions shall be made to any member of the plan who
+is currently employed by the employer.
+(i)
+Vested employees ineligible for refunds. Unless contributions were made by the employee to the plan prior to January 1, 1979,
+no refund of accumulated contributions shall be made to any member of the plan who
+is vested.
+(j)
+Re-employment by the employer. Unless a member meets the requirements set forth below in paragraph (7) of this subsection 18-408 (j), the following shall apply:
+(1)
+Retirement and death benefits, if any, shall be immediately suspended upon the effective
+date of the member's re-employment with the employer and shall be resumed only upon
+the subsequent termination of the member from employment. A member who receives a
+retirement benefit from the plan who later returns to work in a position subject to
+this article, shall receive a new separate retirement benefit calculated solely upon
+the credited service earned and the benefit formula in place following the member's
+re-employment with the employer. A member re-employed pursuant to this section on
+or after July 1, 2011, shall receive retirement benefits and death benefits, for any
+credited service earned subsequent to the re-employment, calculated pursuant to the
+post July 1, 2011, employment sections. A member who has received a retirement benefit
+from the plan shall not have his/her previous credited service included with or added
+to service credit earned following a member's re-employment in order to calculate
+a single retirement benefit or to increase a previously received retirement benefit.
+A member's previously calculated and received retirement benefit shall not change
+in form or amount following a member's re-employment, and shall be reinstated as it
+originally was calculated upon a member's subsequent retirement and added to any newly
+earned and calculated retirement benefit. A member with multiple re-employment periods
+following receipt of retirement benefits may have two (2) or more separately calculated
+benefit payments. Two (2) or more separately calculated retirement benefits combined
+into one benefit payment shall be known as and referred to as a "bridged benefit."
+Upon a subsequent retirement following a member's re-employment, a member shall accept
+a death benefit which shall be reduced by the death benefit payments the member received
+during the previous period or periods of retirement. A member re-employed pursuant
+to this section shall be considered vested as of the date of their re-employment and
+the member shall not be required to obtain a specified amount of new or subsequent
+credited service prior to being eligible for a "bridged benefit."
+(2)
+If an employee hired after January 1, 1979, has not received retirement or death benefits,
+and returns to employment with the employer, he or she is entitled to restore credit
+for the years and months of service for which employee contributions were refunded
+if the amount, including interest to the date of repayment at the rate of three (3)
+percent per annum, compounded annually as of June 30 th of each year, is repaid to the trust within twenty-four (24) months of the employee's
+re-employment date. A re-employed employee who does not repay the refunded contributions,
+with interest, within twenty-four (24) months of the employee's re-employment date,
+may still, upon repayment made to the plan prior to termination from employment, receive
+credit for the years and months of service for which his or her contributions were
+refunded, however, the repayment will be calculated at the full actuarial cost for
+such service in accordance with subsection 18-415 (c)(2). No repayment shall be allowed to be made to the plan for a purchase of refunded
+contributions following a member's termination of employment.
+(3)
+If a member, hired before January 1, 1979, receives a refund pursuant to subsection 18-409 (e)(2) and later resumes covered service under the plan, the member is entitled to
+restore credit for the years and months of service for which employee contributions
+were refunded if the amount, including interest to the date of repayment at the rate
+of three (3) percent per annum, compounded annually as of June 30 th of each year, is repaid to the trust within twenty-four (24) months of the employee's
+re-employment date. A re-employed employee who does not repay the refunded contributions,
+with interest, within twenty-four (24) months of the employee's re-employment date,
+may still, upon repayment made to the plan prior to termination from employment, receive
+credit for the years and months of service for which his or her contributions were
+refunded, however, the repayment will be calculated at the full actuarial cost for
+such service in accordance with subsection 18-415 (c)(2). No payment shall be allowed to be made to the plan for a purchase of refunded
+contributions following a member's termination of employment.
+(4)
+A non-vested member, upon termination, shall have the option of either leaving the
+member's accumulated contributions, if any, in the trust fund for use if the member
+resumes service with the employer, or receiving a refund of the member's accumulated
+contributions. If such non-vested member leaves the accumulated contributions in the
+trust fund and returns to the service of a covered employer before the member applies
+for and receives a retirement benefit from the plan, or before the member reaches
+an age in which required minimum distributions must begin to be paid by the plan (which
+for a non-vested member is a complete refund of contributions), the credited service
+which the member had prior to termination shall, upon re-employment, be reinstated
+to the member and the member shall only be required to complete the remaining amount
+of credited service required to vest in the plan that is set forth in the Ordinance
+at the time of the member's re-employment. If such member leaves the accumulated contributions
+in the trust fund and does not return to the service of the employer before the member's
+normal retirement date, the accumulated contributions, as of the member's normal retirement
+date, shall then be paid to the member. If such a member should die before the accumulated
+contributions are paid, there shall be paid to the beneficiary designated by the member,
+if such beneficiary is living, otherwise to the member's contingent beneficiary, if
+such contingent beneficiary is living, otherwise to the member's estate, the amount
+of accumulated contributions, if any, as of the date of the member's death.
+(5)
+Those members who participate or participated in the deferred retirement option plan
+(DROP) available under division 3, article XII, of chapter 18 of the Code and who elect or elected to continue employment with the employer after
+the termination of their term in DROP shall not be considered by making such election
+to be re-employed with the employer under the terms of this division for purposes
+of calculating retirement benefits and, therefore, the retirement benefits of such
+members shall be calculated, upon the member's termination from employment, in accordance
+with sections 18-406 and 18-409 (a).
+(6)
+If a member is re-employed by the employer or is considered reinstated by the employer
+and the member receives backpay, remuneration or any compensation from the employer
+following the member's initial retirement date and such compensation and re-employment
+period overlaps or coincides with the payment of retirement benefits, the member shall
+reimburse the plan for any amount the member has received in retirement benefits.
+If payment is not made in full within one (1) year from re-employment or re-instatement
+of the member, interest will accrue on the outstanding balance at a rate of three
+(3) percent per annum compounded annually as of June 30 th of each year. If payment in full is not made prior to the member's subsequent retirement,
+the outstanding balance owed plus such interest accrued on the balance will be withheld
+from the member's subsequent retirement payments until the amount has been paid in
+full.
+(7)
+A retired member who meets all of the following requirements will not be considered
+to be re-employed by the employer and, therefore, subject to paragraph (1) of this
+subsection:
+a.
+The member has been separated from service and has not received any remuneration from
+the city, or any other covered employer, for a minimum of thirty (30) days, including
+any settlement and payment of accrued vacation and accrued sick leave in accordance
+with section 18-134 of the Revised Municipal Code; and
+b.
+The member does not work more than one thousand (1,000) hours in any calendar year
+after the initial date of reemployment by the employer following the member's retirement.
+For purposes of this section, re-employment shall mean employment in any capacity,
+where a member receives remuneration of any kind from the city, other than as a self-employed
+independent contractor (as that term is defined by the Internal Revenue Service and
+the Department of Labor).
+(8)
+Any member who works more than one thousand (1,000) hours in a calendar year, for
+his/her previous employer, shall not meet the requirements of paragraph (7) listed
+above, and
+a.
+Shall instead be considered to be re-employed by the employer and subject to the provisions
+of paragraph (1) of this subsection 18-408 (j) as of the first hour worked in excess of the one thousand (1,000) hours; and
+b.
+Shall have the applicable retirement benefit and death benefit immediately suspended;
+and
+c.
+Shall not be eligible to receive a subsequent or continuation of the retirement and
+death benefits until the first day of the calendar year following the previous suspension
+of benefits, after which the member may not work for more than one thousand (1,000)
+hours during the calendar year without being again subject to paragraph (1) above
+and having retirement and death benefits suspended as set forth in this subsection 18-408 (j).
+(9)
+For any and all hours worked by a member during the calendar year in excess of the
+authorized one thousand (1,000) hours, where the member will be considered re-employed
+pursuant to subsection 18-408 (j)(1), both the employer and member shall, beginning with the first pay period following
+such re-employment, contribute to the plan all amounts required for active members
+of the plan. The member shall receive service credit and shall be considered an employee
+entitled to participate in the plan as set forth in section 18-406 of this article for any hours worked in excess of the authorized one thousand (1,000)
+hours. The member shall not receive, and shall not be entitled to receive, credited
+service for the first one thousand (1,000) hours worked in any calendar year following
+retirement.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 854-06, § 2, 12-26-06; Ord. No. 774, §§
+2, 3, 12-26-07; Ord. No. 402-08, § 2, 8-4-08; Ord. No. 514-09, § 2, 9-21-09; Ord.
+No. 349-11, § 3, 6-20-11; Ord. No. 350-11, § 6, 6-20-11; Ord. No. 567-13, § 4, 11-12-13;
+Ord. No. 591-15, § 4, 9-21-15; Ord. No. 1123-16, § 4, 12-5-16; Ord. No. 1007-17, §
+5, 10-2-17; Ord. No. 1248-18, § 4, 11-19-18; Ord. No. 1617-23, § 6, 11-20-23)
+Subject to the requirements and limitations set forth in this division and for qualification
+of the plan under section 401(a) of the Internal Revenue Code, the following benefits
+shall be paid to members of the plan:
+(a)
+Normal retirement.
+(1)
+Upon retirement at or after the normal retirement date, each member whose service
+with the employer begins before September 1, 2004, and terminates after December 31,
+1999, shall receive, for credited service during which the member made, was not required
+to make, or had to the credit of the member's account, required contributions for
+regular membership a monthly retirement benefit equal to two (2) percent of the monthly
+salary (averaged over the highest thirty-six (36) consecutive months of credited service
+prior to the actual retirement date), multiplied by years and fractional years of
+credited service as a regular member. If the plan is required to calculate a retirement
+benefit for a member who has less than thirty-six (36) months of consecutive credited
+service, the calculation of the member's benefit will be averaged over the total consecutive
+months of credited service which the member actually earned following employment or
+re-employment.
+(2)
+Upon retirement at or after the normal retirement date, each member whose service
+with the employer begins, or whose re-employment with the employer begins, on or after
+September 1, 2004, but before July 1, 2011, shall receive for credited service following
+August 31, 2004, during which the member made, was not required to make, or had to
+the credit of the member's account, required contributions for regular membership,
+a monthly retirement benefit equal to one and one-half (1.5) percent of the monthly
+salary (averaged over the highest thirty-six (36) consecutive months of credited service
+after August 31, 2004, but prior to the actual retirement date) multiplied by years
+and fractional years of credited service as a regular member. A member whose first
+service with an employer begins before July 1, 2011, and who terminates employment
+and later becomes re-employed on or after July 1, 2011, before applying for and receiving
+benefits from the plan, shall, upon re-employment, have his or her benefit calculated
+under this subsection 18-409 (a)(2). A member whose first service with an employer begins before July 1, 2011,
+and who terminates employment and who applies for and receives a retirement benefit
+from the plan, and then later becomes re-employed on or after July 1, 2011, shall,
+upon re-employment and subsequent retirement, have his/her initial benefit remain
+unchanged and calculated under this subsection 18-409 (a)(2), as defined and explained in subsection 18-408 (j), and any subsequent benefit earned following re-employment shall be calculated
+pursuant to subsection 18-409 (a)(3). If the plan is required to calculate a retirement benefit for a member who
+has less than thirty-six (36) months of consecutive credited service, the calculation
+of the member's benefit will be averaged over the total consecutive months of credited
+service which the member actually earned following employment or re-employment.
+(3)
+Upon retirement at or after the normal retirement date, each member whose initial
+service with the employer first begins, or whose re-employment under subsection 18-408 (j)(1) begins on or after July 1, 2011, shall receive for credited service, during
+which the member made, was not required to make, or had to the credit of the member's
+account, required contributions for regular membership, a monthly retirement benefit
+equal to one and one-half (1.5) percent of the monthly salary (averaged over the highest
+sixty (60) consecutive months of covered service on or after July 1, 2011, but prior
+to the actual retirement date) multiplied by years and fractional years of credited
+service as a regular member. If the plan is required to calculate a retirement benefit
+for a member who has less than sixty (60) months of consecutive credited service,
+the calculation of the member's benefit will be averaged over the total consecutive
+months of credited service which the member actually earned following employment or
+re-employment.
+(4)
+For those members subject to subsections 18-408(j)(8) or 18-408(j)(9), subsection
+(3) of this section 18-409 shall not apply.
+(b)
+Early retirement. Upon early retirement each member shall receive a reduced retirement benefit which
+shall be the percentage shown in the following table of that portion of the retirement
+benefit to which the member would otherwise be entitled at the normal retirement date
+as is based on years and fractional years of credited service prior to the date of
+actual retirement.
+Members employed before July 1, 2011, after vesting, shall be entitled to an early
+retirement payable on the first business day of the month following the month the
+member reaches age fifty-five (55) and after the member submits and completes all
+plan requirements and forms for being awarded an early retirement. The reduction for
+members employed before July 1, 2011, is three (3) percent for each year that the
+member is under age sixty-five (65) in accordance with the following table:
+
+Age at Retirement for Members Employed before July 1, 2011 | Percentage of Normal Retirement Benefit
+Under 55 | 00.00
+55 | 70.00
+56 | 73.00
+57 | 76.00
+58 | 79.00
+59 | 82.00
+60 | 85.00
+61 | 88.00
+62 | 91.00
+63 | 94.00
+64 | 97.00
+65 | 100.00
+
+Members first employed on or after July 1, 2011, after vesting, shall be entitled
+to an early retirement payable on the first business day of the month following the
+month the member reaches age sixty (60) and after the member submits and completes
+all plan requirements and forms for being awarded an early retirement. The reduction
+for members first employed on or after July 1, 2011, is six (6) percent for each year
+that the member is under age sixty-five (65) in accordance with the following table:
+
+Age at Retirement for Members first Employed on or after July 1, 2011 | Percentage of Normal Retirement Benefit
+Under 60 | 00.00
+60 | 70.00
+61 | 76.00
+62 | 82.00
+63 | 88.00
+64 | 94.00
+65 | 100.00
+
+(c)
+Disability retirement incurred in the performance of service duty. Upon retirement for disability incurred in the performance of service duty, the active
+member shall receive the retirement benefit to which the member should otherwise be
+entitled at the normal retirement date based on the higher of twenty (20) years' service
+or actual service plus ten (10) years, but in either case not to exceed the service
+the member would have earned to age sixty-five (65).
+(d)
+Disability retirement not incurred in the performance of service duty. Upon retirement for disability not incurred in the performance of service duty, the
+active member shall receive a reduced retirement benefit which shall be the higher
+of seventy-five (75) percent of the amount calculated in accordance with subsection 18-409 (c) or the early retirement amount calculated in accordance with subsection 18-409 (b).
+(e)
+Deferred retirement.
+(1)
+If a vested member of the plan, employed prior to July 1, 2011, ceases to be an employee
+for any reason other than retirement, disability or death, the member shall be entitled,
+upon reaching the age of fifty-five (55) to either normal retirement benefits under
+the rule-of-75 as provided under subsection (a) above, or early retirement benefits
+as provided under subsection (b) above for the member's category of membership based
+on credited service to the date employment is terminated.
+(2)
+In lieu of any retirement benefits as provided by this section, any member who was
+employed prior to January 1, 1979, may receive a refund of accumulated contributions,
+if any, as of the date of such refund at any time after terminating service but before
+the first payment of a retirement benefit hereunder. Election and receipt of such
+refund shall be final and conclusive and neither the member nor any beneficiaries
+shall have any right to later claim a retirement benefit except as provided in this
+article. All applications for refunds of accumulated contributions or retirement benefits
+must be made in writing and with spousal consent, if the member is married, as provided
+in section 18-410 and filed with the retirement plan. The member's refund check of accumulated contributions
+shall be issued within ninety (90) days from the receipt by the retirement plan of
+a request for a refund on a properly completed form supplied by the plan.
+If a vested member of the plan, first employed on or after July 1, 2011, ceases to
+be an employee for any reason other than retirement, disability or death, the member
+shall be entitled, upon reaching the age of sixty (60) to either normal retirement
+benefits as provided under subsection (b) above for the member's category of membership
+based on credited service to the date employment was terminated.
+(3)
+Any non-vested member, upon termination from employment, who is not eligible for the
+benefits described in (e)(1) of this section, shall have the option of leaving the
+member's accumulated contributions, if any, in the trust fund for use if the member
+resumes service with the employer, or receiving a refund of the member's accumulated
+contributions. If such member leaves the accumulated contributions in the trust fund
+and does not return to the service of the employer before the normal retirement date,
+the accumulated contributions as of the member's normal retirement date shall then
+be paid to the member. If such member should die before the accumulated contributions
+are paid, there shall be paid to the beneficiary designated by the member, if such
+beneficiary is living, otherwise to the member's contingent beneficiary, if such contingent
+beneficiary is living, otherwise to the member's estate, the amount of accumulated
+contributions, if any, as of the date of the member's death.
+(f)
+Forfeited benefits. Any amount forfeited either because of termination of employment of an active member
+prior to having acquired a fully vested right to retirement benefits, or because of
+the death of any member, or for any other reason, shall not be applied to increase
+the benefits provided by the plan unless such benefits are increased by appropriate
+amendment in accordance with the Internal Revenue Code.
+(g)
+Distribution of present value of benefits. If, upon retirement, the present value of the lifetime benefit available to the member
+under this Plan is less than the value set forth in the Internal Revenue Code (currently
+codified in section 411(a)(11) of the Internal Revenue Code), the member may request,
+in writing, an immediate distribution of the present value of the benefit. The distribution
+may be made directly to the member or may be made in accordance with the rollover
+provisions found in section 18-416 of this division.
+(h)
+Actuarial and other matters.
+(1)
+Actuarial assumption and interest rates: the interest rate used for the actuarial
+assumption of investment return shall be seven (7.00%) percent.
+(2)
+Mortality assumption: To determine the present value of benefits or actuarial equivalents,
+the mortality table to be used shall be the table that is based on the Internal Revenue
+Commissioner's prevailing standard table or any other table adopted by the retirement
+board which is applicable to qualified government plans.
+(3)
+For purposes of calculating actuarial equivalents, both the applicable interest rate
+and the mortality table are to be for the "look-back month" that precedes the annuity
+starting date for the distribution. The look-back month is the month of December preceding
+the full calendar year for which the data are to remain constant and during which
+distribution is to be made.
+(i)
+Social Security make-up. For all members who were employed before July 1, 2011 and who retire on or after
+January 1, 1996, other than those retiring under a disability form of retirement pursuant
+to subsections 18-409 (c) and 18-409 (d) of this Code, a Social Security make-up benefit shall be paid monthly beginning
+at the later of the member's retirement or on the first business day of the next calendar
+month immediately following the month of the member's sixty-second birthday, as follows:
+The member's estimated primary Social Security benefit multiplied by a factor determined,
+thus:
+The years of credited service of the member during which the member contributed towards
+Social Security income replacement benefits (up to a maximum of thirty-five (35) years)
+divided by thirty-five (35) and multiplied by the applicable percentage, as shown
+in the following table:
+
+Year of Birth | Applicable Percentage
+Before 1938 | 0.00%
+1938 | 1.25%
+1939 | 2.50%
+1940 | 3.75%
+1941 | 5.00%
+1942 | 6.25%
+1943—1954 | 7.50%
+1955 | 8.75%
+1956 | 10.00%
+1957 | 11.25%
+1958 | 12.50%
+1959 | 13.75%
+1960 | 15.00%
+After 1960 | 15.00%
+
+As used in this subsection (i), "estimated primary social security benefit" shall
+mean the estimated monthly amount payable to the member under Title II of the Social
+Security Act at the later of the member's reaching the age of sixty-two (62) or the
+member's actual retirement date if retiring after age sixty-two (62). The determination
+of the amount of a member's primary Social Security benefit shall be made based on
+available information, and, for prior years for which that information is unavailable,
+the plan may assume that the member's wages had increased each calendar year at the
+same rate as the average of the total wages (the "national average wage index,") defined
+in section 209(k)(1) of the Social Security Act for such calendar years as specified
+in section 215(b)(3)(A)(ii) of the Act for such calendar years. If a member is receiving
+a Social Security benefit at the time the member becomes eligible for the Social Security
+make-up benefit, the initial entitlement amount of that Social Security benefit shall
+be used to calculate the member's Social Security make-up benefit, even if that Social
+Security benefit is based on a Social Security benefit or earnings of a person other
+than the member (e.g. widow/widower's benefit, spousal benefit, etc.).
+Subsection 18-409 (i), social security make-up, shall be inapplicable, and there shall be no Social
+Security make-up for those members first employed on or after July 1, 2011.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 402-08, § 3, 8-4-08; Ord. No. 349-11, §
+4, 6-20-11; Ord. No. 350-11, § 7, 6-20-11; Ord. No. 591-15, § 5, 9-21-15; Ord. No.
+1123-16, § 5, 12-5-16; Ord. No. 1007-17, § 6, 10-2-17; Ord. No. 1248-18, § 5, 11-19-18;
+Ord. No. 1401-20, § 1, 12-21-20; Ord. No. 1618-23, § 1, 11-20-23)
+(a)
+Spousal consent, incidental benefit requirements and required distributions.
+(1)
+Married members. If a member is married at the time of the annuity starting date, unless the member
+elects and the member's spouse consents in writing to the maximum benefit that may
+be elected as provided for in subsections 18-409(a) or 18-409 (b) of this division within the ninety (90) day period ending on the date benefit
+payments commence, the member and the member's spouse will receive a retirement benefit
+on an actuarially equivalent basis for the member and the member's spouse for their
+joint lives and, following the member's death, a retirement benefit payment to the
+member's spouse, if living at the time of death, in the same amount (a full joint
+and survivor annuity of one hundred (100) percent, or seventy-five (75) percent, or
+fifty (50) percent of that amount. The failure of the member and the member's spouse
+to consent to a distribution which is immediately payable shall be deemed an election
+to receive a joint annuity and survivor annuity, which is the actuarial equivalent
+of the single straight life annuity for the life of the member, and which shall be
+an annuity payable during the joint lives of the participant and the spouse, and following
+the member's death, a survivor annuity to the spouse in the amount of fifty (50) percent
+of the joint annuity.
+(2)
+Maximum benefit; non-spousal beneficiary. If the member is married at the time of the annuity starting date and wishes to receive
+either a single straight life annuity or name a beneficiary other than the member's
+spouse, the member must:
+a.
+Have the spouse's consent in writing to such benefit (if the spouse can be located
+with reasonable effort); and
+b.
+On the consent form, designate a beneficiary (and a form of benefits) which may not
+be changed without the consent of the spouse (unless the original consent of the spouse
+expressly permits future designations by the member (before retirement) without any
+requirement of further consent by the spouse); and
+c.
+Have the spouse's acknowledgement of the effect of such consent and designation of
+benefit; and
+d.
+Have the acknowledgement witnessed by a plan representative or a notary public.
+(3)
+Unmarried members. A member who is unmarried at the time of the annuity starting date may elect a similar
+benefit to that described immediately above and select anyone as a designated beneficiary.
+The election may be made at any time within ninety (90) days before the annuity starting
+date and shall be subject to the minimum distribution incidental benefit requirements
+of section 401(a)(9) of the Internal Revenue Code concerning the disparity in age
+of the member and the designated beneficiary.
+(4)
+Death of spouse or named beneficiary. If the designated beneficiary or spouse dies prior to the annuity starting date and
+no new beneficiary is duly designated in accordance with the terms of the plan, and
+the member does not marry or remarry prior to the annuity starting date, the retirement
+benefit shall be increased to the full single straight life annuity for the member's
+life with no further benefit to be paid upon the member's death. If the spouse or
+designated beneficiary dies after the actual retirement date of such member, a new
+beneficiary may not be designated and the benefit paid to the member shall, commencing
+on the payment date of the month immediately next following the month of the beneficiary's
+death, be increased to the full single straight life annuity for the remainder of
+the member's life with no further benefit to be paid upon the member's death.
+(5)
+Disability survivor annuity. Unless the member and his spouse consent in writing to the maximum benefit provided
+for in subsections 18-409 (c) or 18-409 (d), the member and the member's spouse will receive such disability retirement benefit
+on an actuarially equivalent basis for the life of the member and the member's spouse
+and, following the member's death, a retirement benefit to the member's spouse, if
+living at the time of the member's death, in the same amount (a full joint and survivor
+annuity of one hundred (100) percent), or seventy-five (75) percent, or fifty (50)
+percent of this amount. If the spouse or designated beneficiary dies after the actual
+disability retirement date of such member, a new beneficiary may not be designated,
+and the benefit paid to the member shall, commencing on the payment date of the month
+immediately next following the month of the death of the spouse or designated beneficiary,
+be the benefit as would have been paid under subsections 18-409 (c) or 18-409 (d) as the full single straight lift annuity for the member's life with no further
+benefit to be paid upon the member's death. No joint and survivor optional benefits
+shall be permitted under this subsection unless the total monthly payment amounts
+to more than forty dollars ($40.00).
+(6)
+Minimum distribution requirements. Notwithstanding any other provision of the plan, the entire interest of a member
+under the plan, including incidental death benefits and any other non-retirement benefits
+provided under the plan, shall be paid in accordance with the minimum distribution
+requirements of section 401(a)(9) of the Internal Revenue Code, including those provisions
+pertaining to non-spousal beneficiaries, to the extent such requirements are applicable
+to governmental plans. Pursuant to such requirements, the interest of each member
+in the plan must be distributed beginning not later than the member's required beginning
+date, if such date is earlier than the date on which benefits otherwise would begin
+under the terms of this plan. The required beginning date of a member is the April
+1 of the calendar year following the calendar year in which the member attains age
+seventy-three (73) or retires, whichever is later.
+a.
+In the event a member dies before distributions have commenced to the member in accordance
+with the requirements of section 401(a)(9) of the Internal Revenue Code and the plan,
+the entire interest of such member must be distributed within five (5) years after
+the death of such member, unless the member's interest is payable, under the terms
+of the plan, to the member's surviving spouse or designated beneficiary over the life
+expectancy of such surviving spouse or designated beneficiary. In that event, distribution
+of the member's interest must begin not later than one (1) year after the death of
+the member. Notwithstanding the above, if the member's interest is payable, under
+the terms of the plan, to the member's surviving spouse, the date on which distributions
+must begin under this paragraph (5) will not be earlier than the date on which the
+member would have attained age seventy-three (73) and, if the surviving spouse dies
+before distributions to such surviving spouse begin, this paragraph (5) will be applied
+as if the surviving spouse were the member.
+b.
+In the event a member dies after distributions have commenced to the member in accordance
+with the requirements of section 401(a)(9) of the Internal Revenue Code and the plan,
+the remaining interest of such member must be distributed to the surviving spouse
+or other designated beneficiary entitled thereto under this article at least as rapidly
+as under the method of distribution being used as of the date of the member's death.
+(7)
+Minimum monthly payment. No joint and survivor optional benefits under this subsection (a) shall be permitted
+unless the total monthly payment for the joint and survivor benefit amounts to more
+than forty dollars ($40.00).
+(b)
+Explanation of annuities and right to change elections. The plan shall provide a written explanation of annuities and other options, and
+the effect of them and the participant's right to revoke them within the time periods
+set by and in accordance with regulations or policies of the Internal Revenue Service.
+Subject to overriding regulations or policies of the Internal Revenue Service, a participant
+may revoke an election not to take a joint and survivor annuity or choose again to
+take a joint and survivor annuity at any time ending on the date benefit payments
+commence.
+(c)
+Designation of beneficiary. Notwithstanding other provisions of the Code, and except as otherwise provided in section 18-411 of the Code, a member can designate any person to receive, upon the member's death,
+the benefits set forth herein. A member may designate only one (1) person as a beneficiary.
+An active or deferred member may designate a contingent beneficiary who shall become
+the primary designated beneficiary if the primary designated beneficiary predeceases
+the active or deferred member, and the active or deferred member does not submit a
+new beneficiary designation form to the plan prior to the active or deferred member's
+death. If a member designates more than one (1) person as either a beneficiary or
+a contingent beneficiary, the beneficiary designation shall fail and shall be treated
+as if the member has no beneficiary on file with the plan. If a member is married,
+the spouse must be designated as the beneficiary, unless the spouse waives, in writing,
+his/her right to those benefits. A member must name an individual and may not designate
+a fictional or artificial person as the beneficiary. In order for a beneficiary designation,
+or change in beneficiary designation, to be effective, the plan must receive, in its
+offices, a completed notarized beneficiary designation form prior to a member's death.
+A member's employer is not authorized to receive the form instead of the plan. Section 18-418 of the Code prohibits a member from transferring or assigning benefits, thus the
+member cannot designate a trust as his/her beneficiary. Retired members may not designate
+a contingent beneficiary.
+(d)
+Changes in designated beneficiary. A member may change a designated beneficiary or, in the case of an active or deferred
+member, a contingent beneficiary, only prior to the actual retirement date; provided,
+that such new designation must be made in the same manner as provided above for the
+filing of the written election. Once benefit payments commence, neither the retirement
+benefit nor the beneficiary may be changed. If the designated beneficiary, contingent
+beneficiary, or spouse dies prior to the actual retirement date of such member and
+no new beneficiary or contingent beneficiary is duly designated, the retirement benefit
+shall be paid under subsections 18-409 (a), 18-409 (b), 18-409 (c) or 18-409 (d) of this article, as a single straight life annuity for the member's life with
+no further benefit to be paid upon the member's death. If the designated beneficiary
+or spouse dies after the actual retirement date of such member, a new beneficiary
+may not be designated and the benefit paid to the member shall, commencing on the
+payment date of the month immediately next following the month of the beneficiary's
+death, be the full benefit as would have been paid had the maximum retirement benefit
+available under subsections 18-409 (a), 18-409 (b), 18-409 (c) or 18-409 (d) been in effect and no joint and survivor benefit been selected.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 567-13, § 5, 11-12-13; Ord. No. 591-15,
+§ 6, 9-21-15; Ord. No. 1123-16, § 6, 12-5-16; Ord. No. 1248-18, § 6, 11-19-18; Ord.
+No. 1617-23, § 7, 11-20-23)
+(a)
+Termination of benefits prior to receiving all contributions on deposit. For members employed prior to January 1, 1979, if, upon the termination of retirement
+benefit payments, a retired member and the retired member's beneficiary have not received
+in the form of retirement benefits an amount equal to the member's accumulated contributions,
+if any, which the member had on deposit at the date of retirement, the beneficiary,
+the member's estate, or the beneficiary's estate shall be paid such difference.
+(b)
+Death of an active member incurred in the performance of service duty. Upon death incurred as a result of the performance of service duty, the active member's
+surviving spouse, if any, shall be entitled to receive the retirement benefit to which
+the member would have been entitled based on the higher of fifteen (15) years' credited
+service or actual credited service plus five (5) years but in either case not to exceed
+the credited service the member would have earned to age sixty-five (65). The active
+member shall be deemed to have retired on the first day of the month following the
+month in which death occurs. If it is determined that, notwithstanding the above-listed
+calculation where additional service is credited to the member, the surviving spouse
+would have received a larger benefit under the one hundred-percent joint and survivor
+annuity option (with no additional service being credited to the member), then the
+surviving spouse shall receive the larger one hundred-percent joint and survivor benefit.
+The retirement benefits to the surviving spouse shall terminate upon the surviving
+spouse's death.
+(c)
+Death of an active member not incurred in the performance of service duty. Upon death not resulting from service duty, the active member's surviving spouse,
+if any, shall be entitled to receive seventy-five (75) percent of the benefit calculated
+in accordance with subsection (b) of this section. The active member shall be deemed
+to have retired on the first day of the month following the month in which death occurs.
+The retirement benefit payments to the surviving spouse shall cease upon the surviving
+spouse's death. If it is determined that, notwithstanding the above-listed calculation
+where additional service is credited to the member, the surviving spouse would have
+received a larger benefit under the one hundred-percent joint and survivor annuity
+option (with no additional service being credited to the member), then the surviving
+spouse shall receive the larger one hundred-percent joint and survivor benefit.
+A member who dies while performing qualified military service (defined in IRC Section
+401(u)) shall be considered to have resumed employment on the day preceding death,
+and then terminated employment due to the death on the actual date of death, and therefore
+said member's surviving spouse, if any, or other qualified beneficiary as set forth
+in this section [18-]411, shall be entitled to a death benefit calculated in accordance
+with this subsection (c).
+(d)
+Single lump-sum payment. Upon the death of a retired member, a single lump-sum payment shall be paid, if the
+member retired within one (1) month after the date of the member's termination of
+employment, to the beneficiary designated by the member, if the beneficiary is living,
+otherwise to the member's estate. The benefit payment shall be made in accordance
+with the following schedule:
+(1)
+For members employed before July 1, 2011, for normal retirement except where the member
+has fewer than five (5) years of credited service: $5,000.00. No death benefit shall
+be paid to a member that is age sixty-five (65) or older who retires having less than
+five (5) years of credited service. For members first employed on or after July 1,
+2011, no death benefit shall be paid to a member that has not vested in the plan.
+Members first employed on or after July 1, 2011, who vest with the plan and who are
+awarded a normal retirement shall receive a death benefit of $5,000.00. If a member
+is re-employed pursuant to subsection 18-408(j), the member shall not be entitled
+to a subsequent single lump-sum death benefit payment for the re-employment period.
+The single lump-sum death benefit payment sum calculated at the time of the original
+retirement shall be the death benefit to which the re-employed member is entitled.
+(2)
+a. For members employed before July 1, 2011, for early retirement at age:
+64 .....$4,750.00
+63 .....$4,500.00
+62 .....$4,250.00
+61 .....$4,000.00
+60 .....$3,750.00
+59 .....$3,500.00
+58 .....$3,250.00
+57 .....$3,000.00
+56 .....$2,750.00
+55 .....$2,500.00
+b.
+For member first employed on or after July 1, 2011, for early retirement at age:
+64 .....$4,500.00
+63 .....$4,000.00
+62 .....$3,500.00
+61 .....$3,000.00
+60 .....$2,500.00
+(3)
+For temporary early retirement pending approval of disability application, limited
+to three (3) years after the effective date of the temporary early retirement: The
+amount which is calculated for an early retirement pursuant to subsection 18-411 (d)(2)a., or subsection 18-411 (d)(2)b. Upon approval of a disability retirement, the lump-sum death benefit payment
+will be adjusted pursuant to subsection 18-411 (d)(4) or subsection 18-411 (d)(5), whichever is applicable.
+(4)
+For disability retirement at or after age sixty-five (65): $5,000.00.
+(5)
+For disability retirement before age sixty-five (65) a sum equal to one and one-half
+(1.5) times the member's annualized average monthly salary, limited to fifty thousand
+dollars ($50,000.00). This amount shall be reduced to five thousand dollars ($5,000.00)
+upon the date the disabled member reaches age sixty-five (65).
+This benefit under this subsection (d) is in addition to all other benefits listed
+within this article.
+In lieu of the single lump-sum payment of this subsection (d) that would be paid upon
+death, except for a member who is receiving a temporary early retirement, a retired
+member may elect to receive the appropriate death benefit limited to five thousand
+dollars ($5,000.00) in the form of periodic payments. These payments shall be based
+on one-fiftieth (0.02) or one-one-hundredth (0.01) of the appropriate amount as elected
+by the member. In the event of the member's death before the amount has been paid
+out, the balance remaining shall thereupon be paid within sixty (60) days of death
+to the surviving spouse, if any, in lump sum, or, if there is no surviving spouse,
+to the member's designated beneficiary. If the member leaves neither a spouse nor
+a named beneficiary, the balance shall be paid to the decedent's estate. The payments
+may be started upon any regular retirement check payment date as selected by the member.
+The payments may be changed or stopped once each calendar year. These payments shall
+be added to the member's regular retirement benefit, and the dates for making payment
+of retirement benefits shall govern the payment of any combined benefit. The option
+to receive periodic payments of this benefit shall not be available to an applicant
+for disability retirement receiving an early retirement pending approval of his or
+her disability application.
+(e)
+Death with surviving children under twenty-one (21) and no surviving spouse. If a member of the plan dies without a surviving spouse, but has children under age
+twenty-one (21), then any benefit payable to a spouse or a surviving spouse under
+subsections (b) or (c) of this section shall be paid to the guardian or other legal
+representative for the children under age twenty-one (21) at the date of the member's
+death. Monthly benefit payments shall continue unabated, per stirpes, for those children
+under age twenty-one (21) until the end of the month in which the youngest child becomes
+age twenty-one (21), at which time all benefits shall cease.
+(f)
+Death of a deferred member. If a deferred member, first employed before July 1, 2011, having such credited service
+as required in this article dies before applying for retirement benefits as provided
+for in section 409(e), there shall be paid to the surviving spouse, if living at the
+time the member reached or would have reached age fifty-five (55) (the earliest date
+the member would have been eligible to receive benefits under this division), a survivor
+annuity calculated in accordance with this section 18-411 for the life of the surviving spouse. If a deferred member, first employed on or
+after July 1, 2011, having such credited service as required in this article dies
+before applying for retirement benefits as provided for in section 409(e), there shall
+be paid to the surviving spouse, if living at the time the member reached or would
+have reached age sixty (60) (the earliest date the member would have been eligible
+to receive benefits under this division), a survivor annuity calculated in accordance
+with this section 18-411 for the life of the surviving spouse.
+If a member under this section dies without a surviving spouse, but has children under
+the age of twenty-one (21) at the time of death, then any benefit which would have
+been payable to the member under this section shall be paid beginning the month following
+the member's death to the guardian or other legal representative for the children
+under age twenty-one (21) at the date of the member's death. For members first employed
+before July 1, 2011, the survivor's benefit for children under the age of twenty-one
+(21) shall be equal to the sum which the member would have received if the member
+had attained the age of fifty-five (55). For members first employed on or after July
+1, 2011, the survivor's benefit for children under the age of twenty-one (21) shall
+be equal to the sum which the member would have received if the member had attained
+the age of sixty (60). Monthly benefits shall continue, unabated, per stirpes, for
+those children under age twenty-one (21) until the end of the month in which the youngest
+child becomes age twenty-one (21), at which time all benefits shall cease.
+If a member under this section dies without a surviving spouse and without children
+under the age of twenty-one (21), but who during the course of covered employment
+had a committed partner as that term is defined in section 28-200 (sometimes known and cited as Section 200, Chapter 28 ) of the Revised Municipal Code, or had a spousal equivalent as that term is defined
+in section 18-171 (sometimes known and cited as Section 171, Chapter 18 ) of the Revised Municipal Code, and submits a copy of the certified certificate of
+committed partnership or the affidavit of spousal equivalency previously filed with
+the employee benefits section of the career service authority to the plan and named
+the committed partner or spousal equivalent as the member's named beneficiary, and
+had not terminated the committed partnership or spousal equivalency and continued
+to be in the relationship with the committed partner or spousal equivalent at the
+time of the member's death, then there shall be paid to the committed partner or spousal
+equivalent, if, for members first employed before July 1, 2011, the individual is
+living at the time the member reached or would have reached age fifty-five (55), or
+if, for members first employed on or after July 1, 2011, the individual is living
+at the time the member would have reached age sixty (60) (the earliest date the member
+would have been eligible to receive benefits under this division), a survivor annuity
+calculated in accordance with this section 18-411 for the life of the committed partner.
+If there is no surviving spouse, or children under the age of twenty-one (21), or
+a committed partner or spousal equivalent, there shall be paid to the beneficiary
+designated by the member, if the beneficiary is living at the time the member would
+have reached the earliest date to have been eligible to receive benefits under this
+division, otherwise to the member's contingent beneficiary, if such contingent beneficiary
+is living at the time the member would have reached the earliest date to have been
+eligible to receive benefits under this division, a survivor annuity calculated in
+accordance with this section 18-411 for the life of the beneficiary or contingent beneficiary. For members first employed
+before July 1, 2011, the earliest date to have been eligible to receive benefits under
+this division is age fifty-five (55), and for members first employed on or after July
+1, 2011, the earliest date to have been eligible to receive benefits under this division
+is age sixty (60).
+(g)
+Unmarried active members. Unmarried active members may designate a beneficiary, or contingent beneficiary who
+shall become the primary designated beneficiary if the primary designated beneficiary
+predeceases the active member and the active member does not designate a new primary
+beneficiary, who shall be eligible to receive an equivalent benefit available to surviving
+spouses, subject to the requirements of the Internal Revenue Code, under the terms
+of this section. However, such designation of a beneficiary, or contingent beneficiary
+by an unmarried active member shall be void for all purposes should the member die
+with a surviving spouse. And, further, this subsection (g) shall not apply to members
+who die without leaving a surviving spouse but who die leaving surviving children
+any one (1) of whom is under the age of twenty-one (21) at the date of the member's
+death, except that such beneficiary may serve as the guardian or the legal representative
+for such children as provided in subsection (e) of this section.
+(h)
+Death of an active or deferred member with no beneficiary or contingent beneficiary. If there is no surviving spouse or children under the age of twenty-one (21), and
+the active or deferred member either failed to name a beneficiary or contingent beneficiary,
+or the named beneficiary and contingent beneficiary, if any, have predeceased the
+active or deferred member, and the active or deferred member failed to name a new
+beneficiary or contingent beneficiary, there shall be paid to the active or deferred
+member's estate, the amount of accumulative employee contributions paid by the active
+or deferred member to the plan, as of the applicable date of death.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 854-06, § 3, 12-26-06; Ord. No. 774-07,
+§ 4, 12-26-07; Ord. No. 349-11, § 5, 6-20-11; Ord. No. 350-11, § 8, 6-20-11; Ord.
+No. 661-12, § 3, 12-26-12; Ord. No. 567-13, § 6, 11-12-13; Ord. No. 700-14, § 2, 11-24-14;
+Ord. No. 1123-16, § 7, 12-5-16)
+(a)
+General provisions.
+(1)
+The retirement board shall provide health insurance at group rates (group health insurance)
+for retired members, their spouses and the members' dependents. The group health insurance
+shall provide benefits for sickness, accident, hospitalization and medical expenses.
+Where necessary, as determined by the retirement board, certain health insurance shall
+be made available by the city as an adjunct to the city's health insurance contract
+and such health insurance usage shall be charged by the insurance carrier to the city's
+contract for rate making purposes. In such cases, there may be a separate health insurance
+agreement made with the retirement plan, but the coverage and premiums offered to
+the eligible retirees by any such agreement shall be the same coverage and premiums
+offered by the city to its active employees.
+(2)
+In accordance with all applicable laws, when necessary, the retirement board shall
+adopt policies, procedures or rules to administer the health insurance benefits. A
+portion of the employer contribution may be allocated and apportioned separately from
+the trust fund to maintain the health benefit account. The purpose of the allocation
+is to provide separate record-keeping and actuarial soundness of the health benefit
+account. The mayor and city council find and declare that the portion of employer
+contribution paid toward this health benefit account is necessary, reasonable and
+appropriate.
+(b)
+The account.
+(1)
+The plan shall set up and maintain the health benefit account in accordance with the
+requirements applicable to governmental pension plans under 401(h) of the Internal
+Revenue Code, including the requirement that all assets accruing in the account shall
+remain in the account. If section 401(h) of the Internal Revenue Code becomes inapplicable
+to governmental pension plans, any unused assets and earnings remaining in the account,
+after satisfying outstanding liabilities, shall revert to and become part of the trust
+fund for providing pension benefits. No part of the corpus or earnings on such corpus
+in the account shall be used for, or diverted to any purpose other than providing
+health benefits described in this section.
+(2)
+The health benefit account shall remain separate and apart from the trust fund for
+record-keeping purposes. The payments and contributions toward this account shall
+not exceed twenty-five (25) percent of the aggregate employer contributions made to
+the plan. This limitation shall not include the contributions to fund past credited
+service to benefit eligible retired members, their spouses and dependents who qualify
+for the plan's health benefit.
+(3)
+The account shall provide for the payment or partial payment of premiums for health
+insurance. The account may be charged with administrative expenses necessary to administer
+health benefits.
+(4)
+If the plan is terminated the health benefit account shall be treated in accordance
+with the requirements under section 401(h)(5) of the Internal Revenue Code applicable
+to governmental pension plans. The retirement board may, at any time, in its sole
+judgment, consistent with the current and long-term fiscal soundness of the plan discontinue
+or reduce the health benefits. Disposition of the account assets due to termination
+shall be in accordance with the requirements of section 401(h)(5) of the Internal
+Revenue Code. If however, section 401(h)(5) of the Internal Revenue Code becomes inapplicable,
+the assets in the account shall, within sixty (60) days of termination, reduction
+or discontinuation of the health benefits account, be paid into the trust fund for
+retirement benefits.
+(c)
+Authority of the retirement board. When necessary, to administer the health insurance benefit the retirement board is
+empowered to adopt rules, procedures or practices, including the following:
+(1)
+Set forth criteria for determining eligibility.
+(2)
+Establish the time, terms and conditions of enrollment.
+(3)
+Acting by and through its executive director make contracts and disbursements including
+but not limited to contracting with insurance companies, health care providers and
+organizations or associations licensed or authorized under any state's laws to provide
+(directly or indirectly) health care services or benefits. For certain eligible retirees
+the board may make payments, partial payments or provide reimbursement or partial
+reimbursement for health insurance premiums consistent with the requirements of section
+401(h) of the Internal Revenue Code.
+(4)
+Develop a system or formulae to determine the rates for the health insurance premium
+reduction by using the member's years of credited service at retirement, disability
+or death.
+(5)
+At any time, either at a special or regular monthly meeting, change the design of
+the health benefit (by either increasing, decreasing or otherwise modifying the benefit).
+It shall however provide members notice of any changes at least thirty (30) days prior
+to the effective date of change.
+(6)
+Authorize, as necessary, the plan to withhold from retirement benefits, obtain from
+retirees, and use the health benefits available to retirees under this section, funds
+necessary to pay to applicable group insurance carriers, as made available to and
+selected by retired members, their spouses and dependents, all premiums necessary
+to provide health insurance to eligible members.
+(d)
+Member's responsibility. The retired members, their spouses, and the members' dependents shall bear the entire
+cost of the health insurance at the available group rates provided by the plan. The
+plan may deduct all or part of the health insurance premium not paid under this section
+from the member's pension benefit. In the event of the death of the retired member,
+subject to the requirements, terms, and conditions of existing health care provider
+agreements, the spouse or the dependent may be eligible for the plan's group health
+insurance coverage. However, the spouse or the dependent shall not, after the death
+of the member, receive any health benefits payable from the health benefit account
+unless the spouse or dependent is also the designated beneficiary of the member's
+joint and survivor annuity. In no event shall a surviving spouse or dependent be eligible
+for the health benefit provided by this section if the member chose to receive during
+retirement a single straight-life annuity with no rights in the survivor beneficiary
+to a joint and survivor annuity. Each month the member, or in the case of the death
+of the member, the spouse or dependent, shall in a timely manner pay to the plan the
+required health insurance premium.
+(Ord. No. 960-05, § 1, 12-19-05)
+(a)
+Duration. Monthly retirement benefit payments to the retired member shall become payable on
+the first business day of the month following the member's effective retirement date
+and shall continue to be paid on the first business day of the month thereafter until
+the last monthly payment prior to death. If retirement benefit payments become payable
+to a member's spouse or named beneficiary, such payments to the spouse or named beneficiary
+shall be made in monthly installments commencing, except as otherwise set forth in
+this article, on the first business day of the month following the month in which
+the retired member died and shall continue until the last monthly payment prior to
+the death of such spouse or named beneficiary or prior to such other authorized termination
+of benefit payments as are called for in this division. Benefits authorized and issued
+but unpaid to and unclaimed by members, spouses or beneficiaries after three (3) years
+from the date of issuance shall escheat to the trust.
+(b)
+Delivery.
+(1)
+For members who retire before January 1, 2011, the payments shall, at the request
+of the retired member, spouse or named beneficiary, either:
+a.
+Be placed in the mail of the United States Postal Service on the first business day
+of each month directed to either the last-known address of the payee shown on the
+records of the retirement plan or the address last designated in writing by the retired
+member, spouse or named beneficiary to which the payment is to be sent on record with
+the retirement plan, or
+b.
+Be deposited directly in an intermediary bank selected by the retirement board so
+as to be available to the payee on the first business day of the month in the account
+of the payee at the payee's designated depositary financial institution, and notice
+of such deposit shall be placed promptly in the mail of the United States Postal Service
+directed to the last-known address of the payee shown on the records of the retirement
+plan, or delivered in any manner offered by the plan.
+(2)
+For members who retire on or after January 1, 2011, or for beneficiaries who become
+eligible for a monthly retirement benefit on or after January 1, 2011, the payments
+shall be deposited directly in an intermediary bank selected by the retirement board
+so as to be available to the payee on the first business day of the month in the account
+of the payee at the payee's designated depositary financial institution, and notice
+of such deposit shall be placed promptly in the mail of the United States Postal Service
+directed to the last-known address of the payee shown on the records of the retirement
+plan, or delivered in any other manner offered by the plan.
+(3)
+If, at least twice in any twelve (12) month period, the United States Postal Service
+returns to the plan as undeliverable a retirement payment (for those members who receive
+a check under subsection 18-413(b)(1)a.), or returns to the plan as undeliverable
+a notice of deposit (for those members who have direct deposit under either subsection 18-413 (b)(1)b. or subsection 18-413 (b)(2)), or returns to the plan any correspondence mailed to the member to the last
+known address shown in the records of the retirement plan, or if any other agreed
+upon delivery method for any member communication fails, a member's monthly retirement
+benefit may be suspended until the plan is able to confirm the address or delivery
+details of the member or his or her beneficiary. The plan shall not be held liable
+for the non-payment of the benefit and the loss of the opportunity of use of any payments
+temporarily withheld under this section pending the determination of the status or
+location of the member. Additionally, the benefit payments and interest or earnings
+on those benefits and future benefits, if any, continuing to be withheld pending the
+determination of the status or location of the member, shall be held by the plan as
+unclaimed property and held and disposed of in accordance with the terms thereof.
+(c)
+Verification of entitlement to benefits. The plan shall periodically verify that all retired members, their spouses or beneficiaries,
+who are receiving retirement payments, are entitled to receive such payments and shall
+verify annually that all retired members and beneficiaries who are receiving retirement
+benefits and who are over age seventy (70) are entitled to receive such payments.
+(d)
+Recovery of overpayments. Pursuant to the procedures set forth in subsection 18-405 (b)(3), the plan shall obtain repayment of any overpayments from any future benefits
+to be paid to the member, the spouse of a member, or the named beneficiary of a member,
+or, upon the death of a member, spouse or beneficiary, where no further payments are
+to be made, from the estate of the member, of the member's spouse or of the member's
+named beneficiary. The recovery of overpayments includes amounts paid to a member
+prior to the member's re-employment or re-instatement as set forth in section 18-408 (j).
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 854-06, § 4, 12-26-06; Ord. No. 350-11,
+§ 9, 6-20-11; Ord. No. 700-14, § 3, 11-24-14; Ord. No. 591-15, § 7, 9-21-15; Ord.
+No. 1248-18, § 7, 11-19-18; Ord. No. 1617-23, § 8, 11-20-23)
+(a)
+Benefit adjustments. The retirement board, may, from time to time, but not more often than annually, adjust
+retirement benefits to retired members and beneficiaries. These adjustments may be
+made up or down in any full percentage amount.
+(1)
+Benefit increases or upward adjustments shall not exceed the lower of:
+a.
+Five (5) percent per year, or
+b.
+The sum of the actual increases in the Bureau of Labor Statistics Consumer Price Index
+for the United States, all items, accrued since the effective date of the last cost-of-living
+adjustment.
+(2)
+Benefit decreases or downward adjustments shall not exceed the sum of the actual annual
+decreases in the Bureau of Labor Statistics Consumer Price Index for the United States,
+all items, accrued since the effective date of the last cost-of-living adjustment.
+(3)
+No adjustment shall reduce any benefit below the amount determined as of a member's
+retirement date.
+(b)
+Effective date. Such adjustment shall be effective as of the January first preceding such determination
+by the retirement board. Such adjustments shall not be retroactive to the member's
+retirement date.
+(c)
+Calculation. The adjustment shall be determined by multiplying the current monthly benefit by
+the percentage increase or decrease authorized by the retirement board from the occurrence
+of the last of:
+(1)
+January 1 of the second calendar year following the calendar year in which the member
+retires, or
+(2)
+January 1 of the year following the year used in the previous adjustment under this
+section, or
+(3)
+The first day of the year selected by the retirement board.
+(d)
+Additional payment. Apart and separate from the benefit adjustment set forth in subsections 18-414 (a), (b) and (c), the retirement board, may, in 2008, grant an additional payment
+to retired members and beneficiaries using such methodologies, categories, or formulas
+deemed appropriate by the board. Such additional payment shall not be permanently
+added to the retirement benefit received by a retired member or the member's beneficiary.
+(e)
+Advice of actuary. All adjustments to benefits and additional payments shall be made only upon receipt
+and review by the board of actuarial cost data from the actuary employed by the board,
+regarding such adjustments or additional benefit payments. All such adjustments and
+additional payments shall be subject to the availability of funds for that purpose.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 402-08, § 4, 8-4-08; Ord. No. 350-11, §
+10; 6-20-11)
+(a)
+Purpose and intent. Subject to the procedures established by the plan and the requirements of section
+415(n) of the Internal Revenue Code, and providing there is no actuarial cost to the
+plan, an active member who is eligible under the terms of the plan, may purchase,
+in accordance with the definitions, terms and conditions of the plan, permissive service
+credit. The plan, in accordance with its procedures, shall determine the eligibility
+and qualifications of an active member to purchase permissive service credits. A member
+cannot use purchased permissive service credit for vesting purposes or for qualifying
+for a different category of benefits or subsidies other than that for which the member
+is otherwise entitled through credited service earned while employed by a covered
+employer.
+(b)
+General provisions.
+(1)
+Non-governmental service. An active member of the plan may purchase up to a maximum of five (5) years of non-governmental
+(nonqualified) service credit as defined in section 415(n) of the Internal Revenue
+Code. The purchase will be permitted only with respect to service for which the member
+is not and will not be entitled to a pension from the plan or another prior non-governmental
+employer. Further, that member shall not be eligible to purchase such service credits
+unless the member has had a minimum of five (5) years of credited service with the
+plan prior to making an application to purchase such prior non-governmental service
+credit.
+(2)
+Prior governmental service. An active member of the plan may purchase any amount of prior governmental service
+for which the member is not and will not be entitled to a pension from the plan or
+the previous governmental employer. A member shall not be eligible to purchase such
+prior governmental service credits from the plan unless the member has a minimum of
+five (5) years of credited service with the plan prior to making application to purchase
+such prior governmental service credit.
+(c)
+Requirements.
+(1)
+Payment options.
+a.
+An active member may purchase permissive service credits in accordance with the requirements
+and limitations imposed by the Internal Revenue Code. The board may set forth, in
+the requirements for eligibility, methods for computing actuarial equivalents, and
+other terms and conditions governing the purchase of permissive service credit.
+b.
+With the exception of direct rollover trustee-to-trustee transfers permitted under
+the Internal Revenue Code, as applied to governmental plans, an active member may,
+prior to retirement, make only after-tax direct contributions to purchase service
+credit.
+c.
+Subject to the limitations imposed by the Internal Revenue Code, such payments may
+be made only for full months of service in full payment for each month of permissive
+service credit purchased, provided, that additional months of service credit may be
+purchased thereafter, up to the limit imposed by subsection (b) of this section.
+d.
+An active member may use all or part of an eligible rollover distribution from another
+qualified plan (or other plan so permitted under the Internal Revenue Code) to pay
+for all or part of the amount needed to purchase the permissive-service credit, subject
+to the limitations imposed under section 415(n) of the Internal Revenue Code.
+e.
+The election to purchase prior permissive-service credit shall be irrevocable and
+no refund shall be made to a member for any amount paid to the plan to purchase service
+credit.
+f.
+No member shall receive service credit for any service for which payment has not been
+completed pursuant to this provision before the effective date of the member's termination
+from employment. No payment shall be allowed to be made to the plan for a purchase
+of service credit following a member's termination from employment.
+(2)
+Cost.
+a.
+A member must elect to pay, and thereafter pay in accordance with such election, the
+amount determined by the plan to be the current actuarial cost of the service credit
+purchased.
+b.
+The cost of the service credit purchased pursuant to this section shall be the actuarial
+amount required to provide the credited service based upon the member's age and years
+of service at the time of election and purchase.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 350-11, § 11, 6-20-11; Ord. No. 567-13,
+§ 7, 11-12-13)
+(a)
+Notice. In accordance with requirements of the Internal Revenue Code, the plan shall provide,
+within a reasonable period of time before the plan makes an eligible rollover distribution
+under this article, a written notice containing an explanation to those members, if
+any, who are recipients of an eligible rollover distribution, covering the direct
+rollover rules, the mandatory income tax withholding on distributions not directly
+rolled over, the tax treatment of distributions not rolled over (including the special
+tax treatment available for certain lump sum distributions), and when distributions
+may be subject to different restrictions and tax consequences after being rolled over.
+(b)
+Rollovers to purchase credited service. The plan may accept any portion of an eligible rollover distribution in payment of
+all or a portion of a member's purchase of credited service where such purchase of
+service or buyback is allowable under this article and the terms of the Internal Revenue
+Code.
+(c)
+Rollovers to an eligible retirement plan. A distributee (defined below) may elect, at the time and in the manner prescribed
+by the retirement board, to have any portion of an eligible rollover distribution
+paid directly to a specified eligible retirement plan, as defined by the Internal
+Revenue Code.
+(d)
+Definitions applicable to this section.
+(1)
+Eligible rollover distribution: An eligible rollover distribution is any distribution of all or any portion of the
+balance to the credit of the distributee, including after-tax employee contributions
+which are not includible in gross income, except that an eligible rollover distribution
+does not include: any distribution that is one (1) of a series of substantially equal
+periodic payments (not less frequently than annually) made for the life (or life expectancy)
+of the distributee or the joint lives (or joint life expectancies) of the distributee
+and the distributee's designated beneficiary, or for a specified period of ten (10)
+years of more; and any distribution to the extent such distribution is required under
+section 401(a)(9) of the Internal Revenue Code, or the corresponding section of any
+future amendment.
+(2)
+Eligible retirement plan: An eligible retirement plan is any program defined in the Internal Revenue Code from
+which the member has a right to an eligible rollover distribution as follows:
+a.
+An individual retirement account described in section 408(a) of the Internal Revenue
+Code,
+b.
+An individual retirement annuity described in section 408(b) of the Internal Revenue
+Code,
+c.
+An annuity plan or contract described in section 403(a), 403(b) or an eligible deferred
+compensation plan described in section 457 of the Internal Revenue Code, or
+d.
+Any qualified trust or deferred compensation plan described in the Internal Revenue
+Code that accepts the distributee's eligible rollover distribution.
+(3)
+Distributee: A distributee includes an employee or former employee. In addition, the employee's
+or former employee's surviving spouse or former spouse under a domestic relations
+order accepted by the plan, are distributees with regard to the interest of the spouse
+or former spouse.
+(4)
+Direct rollover: A direct rollover is a payment by the plan to the eligible retirement plan specified
+by the distributee, and also certain trustee to trustee transfers to the plan as permitted
+by this division, made within the time and in the manner and subject to the conditions
+of the Internal Revenue Code.
+(Ord. No. 960-05, § 1, 12-19-05)
+(a)
+Petition for reconsideration.
+(1)
+Petition; time limit. Any member or beneficiary or person claiming to be a member or beneficiary ("petitioner")
+who is denied benefit payments or who questions the amount of benefit payments made
+by the plan may petition the executive director for reconsideration of that decision.
+The petition shall be in written form and must be received at the retirement plan
+office within ninety (90) days after the denial of, or initial payment of, benefits
+by the plan.
+(2)
+Reasons for appeal. The petition shall set forth specific reasons for the petitioner's belief that the
+decision of the plan is incorrect and shall set forth the reasons the member or beneficiary
+is entitled to the benefit payments.
+(3)
+Documents. The petition shall include copies of any and all documents and authority (legal or
+otherwise), if any, which the petitioner is relying upon to support the petitioner's
+position.
+(4)
+Decision. The executive director shall render a decision on the matter within sixty (60) days
+from receipt of the petition for reconsideration. The decision shall be in writing
+and shall set forth the reasons for the decision. The decision will be mailed to the
+address of the petitioner or the petitioner's named agent contained in the petition.
+It shall be the petitioner's responsibility to notify the plan of any change of address
+which occurs within the reconsideration period.
+(5)
+Decision binding. Unless a timely appeal has been received as set forth in subsection (b) below, upon
+the expiration of thirty (30) days from entry of the decision by the executive director,
+the decision shall be binding and conclusive on all interested persons.
+(b)
+Appeal of executive director's decision.
+(1)
+Appeal; time limit. Any petitioner who is denied benefit payments after filing a timely petition for
+reconsideration and receiving a decision by the executive director, may appeal that
+decision by requesting a hearing before the retirement board. The request shall be
+in written form and must be received at the retirement plan office within thirty (30)
+days after the date the executive director's decision was entered.
+(2)
+Scheduled hearing. The retirement board may, at its sole discretion, either set the matter to be heard
+by the retirement board or refer the matter to a hearing officer selected by the board
+who is licensed to practice law in the State of Colorado. If the hearing is to be
+held by the retirement board the hearing shall be scheduled by the plan staff, and
+shall take place during a regularly scheduled meeting of retirement board held within
+one hundred eighty (180) days from the plan's receipt of the petition. If the matter
+to be heard involves medical records, personnel information or any other item declared
+by law to be confidential, the hearing shall take place in executive session. Notice
+of the hearing date shall be sent to the petitioner or to the attorney representing
+the petitioner and to the attorney representing the plan in a timely manner and such
+hearing may be rescheduled upon written request filed with the plan at least seven
+(7) calendar days before the scheduled date of the hearing upon good and sufficient
+cause being shown. If the matter is referred to a hearing officer, the hearing officer
+will schedule a date and time for the hearing acceptable to both parties, but within
+the time limitations applicable to hearings before the board.
+(3)
+Relevant material from files available. Within ten (10) business days after receipt by the plan of the request of the petitioner,
+the plan shall provide without cost one (1) copy of the materials in the petitioner's
+file. At least twenty (20) business days prior to the date of the scheduled hearing,
+petitioner shall furnish to the plan, for transmittal to the plan's attorney, a pre-hearing
+statement containing a written summary of any additional or supplemental evidence
+the petitioner intends to offer at the hearing, including any legal authority in support
+of petitioner's position. The pre-hearing statement shall include the names and addresses
+of any witnesses to be called at hearing and a summary of their proposed testimony.
+The plan's attorney shall then, at least ten (10) business days prior to the date
+of hearing, furnish to the petitioner a pre-hearing statement containing the same
+required information. Both parties shall be prohibited from introducing any additional
+or supplemental evidence, legal authority or witnesses not contained in the pre-hearing
+statement, unless, upon good and sufficient cause being shown, it is proved that the
+additional or supplemental evidence, legal authority or witnesses could not have been
+and were not discovered by the party until after the pre-hearing statement was required
+to be given to the other party.
+(4)
+Record of proceedings. The proceedings before the retirement board or hearing officer shall be recorded.
+If the decision of the retirement board or the hearing officer is to deny the petition,
+the plan shall provide without cost one (1) copy of the record made during the hearing
+to the petitioner, upon written request. The plan shall provide any additional copies
+requested by the petitioner at the rate of one dollar ($1.00) paid in advance for
+each page of the transcript of proceedings and exhibits received or offered into evidence.
+All witnesses shall testify under oath administered by the chairperson of the retirement
+board or the hearing officer, and each witness under subpoena shall be paid by the
+subpoenaing party, in advance, for attendance the fees and mileage provided for a
+witness in a court of record in Colorado.
+(5)
+The hearing. If the hearing is scheduled in front of the retirement board, the hearing shall be
+conducted by the chairperson, if present, or, if not present, by an appointed board
+member. The rules of procedure and evidence set forth generally in the State Administrative
+Procedure Act of Colorado shall apply unless in conflict with express provision herein.
+(6)
+Authority of board. In conducting a hearing, the retirement board shall have the authority to accept
+offers of proof and rule upon offers of, and receive, evidence; dispose of motions
+relating to jurisdiction, time, the discovery and production of relevant documents
+and items for inspection, copying or photographing; direct the parties to appear and
+confer to consider the simplification of the issues, admissions of fact, authenticity
+and relevancy of documents to avoid unnecessary proof, and to limit the number of
+expert witnesses; limit or exclude redundant or cumulative evidence; reprimand or
+exclude from the hearing any person for any improper or indecorous conduct in the
+hearing; and issue subpoenas.
+(7)
+Issuance of subpoenas. Subpoenas shall be issued without discrimination between public and private parties
+by the executive director of the plan upon the request of either party. A subpoena
+shall be served in the same manner as a subpoena issued by a district court. Upon
+failure of any witness to comply with such subpoena, the party concerned, with the
+approval of the retirement board, may petition the Denver district court, setting
+forth that due notice has been given of the time and place of attendance of the witness
+and the service of the subpoena; in which event, the district court, after hearing
+evidence in support of or contrary to the petition, may enter an order as in other
+civil actions compelling the witness to attend and testify or produce books, records
+or other evidence, upon penalty of punishment for contempt in case of contumacious
+failure to comply with the order of the court.
+(8)
+Time limit for rendering of decision. A decision with respect to the matter under review shall be rendered by the board
+or hearing officer within sixty (60) days from the date the hearing is closed. The
+decision or a copy thereof shall be mailed or delivered to the plan, the petitioner
+and the petitioner's attorney at their last known addresses. The date of the decision
+by the board or hearing officer shall be deemed the date of the entry of the decision
+into the plan's records.
+(9)
+Judicial review. Judicial review may be obtained by filing an action within thirty (30) days of the
+entry of decision by the retirement board or the hearing officer in the District Court
+for the Second Judicial District under Rule 106(a)(4) of the Colorado Rules of Civil
+Procedure, or such similar rule in the nature of certiorari established for judicial
+review of administrative decisions as may be promulgated by the Supreme Court of the
+State of Colorado. The standard for judicial review shall be abuse of discretion by
+the board or hearing officer or the board or hearing officer acting beyond its jurisdiction.
+(10)
+Decision binding. Upon the expiration of thirty (30) days from entry of the decision by the retirement
+board or the hearing officer, the decision shall be binding and conclusive on all
+interested persons.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 854-06, § 5, 12-26-06; Ord. No. 350-11,
+§ 12, 6-20-11; Ord. No. 1248-18, § 8, 11-19-18)
+(a)
+General. Active members, retired members, vested members, spouses of such members, and all
+beneficiaries under the plan are hereby restrained from selling, transferring, anticipating,
+assigning, hypothecating, or otherwise disposing of their retirement benefit, prospective
+retirement benefit, or any other rights or interest under the plan, and any attempt
+to anticipate, assign, pledge, or otherwise dispose of the same shall be void from
+the initiation of the attempt (and not merely voidable). Except as otherwise specifically
+preempted by law superseding this section, such as in the case of court orders for
+child support, said retirement benefit, prospective retirement benefit and rights
+and interests of said active members, retired members, vested members, spouses of
+such members, or beneficiaries shall not at any time be subject to the claims of creditors
+or subject to payment or execution upon judgment for the liabilities or torts of said
+active members, retired members, vested members, spouses of such members, or beneficiaries
+of members; neither shall such benefits, rights, or interests be liable or subject
+to attachment, garnishments, execution or other legal process; and this provision
+is hereby found, determined and declared to be a matter strictly of local and municipal
+concern to the city in the interest of retaining, maintaining, and attracting skilled
+personnel of the highest caliber and quality to serve the citizens of the City and
+County of Denver.
+(b)
+Domestic relations orders (DRO) . The plan shall permit the division of a member's retirement benefit through a DRO
+which meets all the requirements set forth in this subsection.
+(1)
+Notwithstanding the anti-alienation provision set forth in subsection (a) above, effective
+July 1, 2004, the plan shall honor an agreed upon DRO issued on or after July 1, 2004,
+by a court of record having jurisdiction in such matters where the decree of dissolution
+of marriage, legal separation, or declaration of invalidity was final on or after
+July 1, 2004. The member's retirement benefit shall be divisible directly by the plan
+only upon written agreement of the parties made pursuant to or in conjunction with
+a DRO in actions for dissolution of marriage, legal separation, and declaration of
+invalidity of marriage.
+(2)
+A plan-approved DRO shall permit the alienation of retirement benefits only between
+the member and a former spouse of the member. Both parties to the action must agree
+to follow the DRO and agree to all of its terms and conditions. If the parties cannot
+reach a written agreement, the plan will not honor a DRO dividing a member's retirement
+benefit. The plan's initial approval of the DRO is required before the DRO is submitted
+to the court for the court's approval, and the court must enter the DRO as an order
+either incorporating the agreement or approving the parties' fully executed agreement
+attached to the order. The DRO with the attached agreement must be approved and entered
+by the court either upon the entry of the decree and permanent orders, or within one
+hundred eighty (180) days thereafter. The DRO with the agreement must be submitted
+to the plan within ninety (90) days after the entry of the DRO by the court. The plan
+has thirty (30) days to approve the court approved DRO after the DRO has been submitted
+to the plan in accordance with the provisions herein. A court shall have no jurisdiction
+to modify an order approving a written agreement of the parties dividing the benefit
+unless the parties have agreed in writing to the modification. A court may retain
+jurisdiction to supervise the parties to the DRO in the implementation of the DRO.
+(3)
+The plan-approved DRO shall not:
+a.
+Provide any benefit of a type or form, or any option, not otherwise provided under
+the terms of the plan.
+b.
+Provide for payments for which the member and spouse would not otherwise be eligible
+if there were no dissolution of marriage, legal separation, or declaration of invalidity.
+c.
+Provide for payment of benefits to an active member or former spouse prior to the
+member's retirement.
+(4)
+If the member dies prior to retirement the following terms shall govern regarding
+the DRO:
+a.
+If the member dies before reaching the age of fifty-five (55) for members first employed
+before July 1, 2011, or before reaching the age of sixty (60) for members first employed
+on or after July 1, 2011, and the member has no current spouse, no children under
+age twenty-one (21), and had not yet named a beneficiary, or contingent beneficiary,
+payment will be made to the former spouse, from the amount of accumulated employee
+contributions to be paid to the member's estate, only if the parties opted to have
+the former spouse paid a percentage of the retirement benefit earned during marriage.
+Payment shall be made in a lump sum to the former spouse based on the percentage earned
+during the period of marriage as set forth in the DRO. No payment shall be made to
+the former spouse from the amount of accumulated employee contributions to be paid
+to the member's estate if the DRO orders that an exact amount of monthly retirement
+benefits be paid to the former spouse, as there will be no monthly retirement benefit
+payment to divide in such a manner.
+b.
+If the member dies either before or on or after reaching the age of fifty-five (55),
+for members first employed before July 1, 2011, or before or on or after reaching
+the age of sixty (60), for members first employed on or after July 1, 2011, and the
+member has a current spouse, or children under age twenty-one (21), or has a named
+beneficiary on file with the plan, the member's former spouse may receive monthly
+payments of the benefit agreed in the DRO calculated as follows:
+1.
+The DRO payment to the former spouse shall commence the first business day of the
+month following the date when the member would have (but for death) reached age and
+other requirements for a normal retirement benefit under the terms of the plan.
+2.
+Subject to the provisions of section 18-411 of this division, the decedent member's spouse or designated beneficiary, if any,
+at the time of the member's death shall receive a survivor annuity. This annuity shall
+be made available and calculated subject to the plan's requirements and the terms
+of the DRO.
+3.
+The former spouse's portion of the retirement benefit shall be actuarially reduced
+for and paid over the lifetime of the former spouse.
+4.
+If at the time the member would have reached age and other requirements for a normal
+retirement benefit, no retirement benefit payments are being made by the plan, and
+no benefit payment will be made by the plan in the future, no payment will be made
+to the former spouse, as there is and will be no benefit to divide.
+(5)
+If the member dies after retirement the following terms shall govern regarding the
+DRO:
+a.
+The payments to the former spouse shall terminate unless the former spouse agrees
+at the time of initial payment pursuant to the DRO to the option of a continued method
+of benefit payment following the member's death in accordance with the plan's requirements.
+b.
+If so agreed, the continued payments to the former spouse shall begin no later than
+the first business day of the month following thirty (30) days from the date of the
+member's death and shall continue to be paid until the death of the former spouse.
+c.
+The member's designated beneficiary, or spouse, if any, at the time of retirement
+may receive, subject to the plan's requirements and the terms of the DRO, a joint
+and survivor annuity based on the deceased member's portion of the benefit.
+(6)
+The DRO shall provide that payments to the former spouse terminate with the death
+of the former spouse and no payments shall be made to the estate of the former spouse.
+Each former spouse may be charged an administrative fee for the alienation of the
+member's retirement benefit pursuant to a DRO.
+(7)
+Subject to the terms and options available to the member and the former spouse, the
+plan shall make appropriate calculations of benefit payments to the member and the
+former spouse at the time of the entry of the DRO; and for the member and the member's
+current spouse, if any, or a designated beneficiary, if any, at the time of the member's
+retirement or death.
+(8)
+No health benefits available under the plan shall be paid to, or made available for
+the use of, the former spouse.
+(9)
+The retirement board may when necessary promulgate rules and procedures governing
+the implementation of orders for the division of retirement benefits. Such rules and
+procedures shall provide the plan the authority to implement and administer DROs.
+These rules may be incorporated into the plan's DRO manual. The DRO manual shall describe
+the plan's authority, terms, and requirements for the administration and operation
+of DROs. The manual or the rules may include the requirement that the parties promptly
+comply with the plan's procedural and administrative requirements for the processing
+and administration of the alienation of retirement benefits.
+(10)
+The retirement board, its officers, and plan staff shall not be liable for actions
+performed in good faith, including non-payment or payment of benefits pursuant to
+this subsection if the actions reasonably comply with this article, the DRO manual,
+rules governing DROs adopted by the board and the order approving the division of
+the retirement benefit.
+(11)
+If the member is eligible to receive benefits under divisions 3 and 4 of this article
+(DROP and DROP II), then the plan-approved DRO may permit only the option for disbursement
+in lump-sum to the former spouse. The former spouse shall receive the DROP or DROP
+II lump-sum payment either at the time the member receives the member's initial payment
+under DROP or DROP II or when the member is first eligible to receive such a payment,
+whichever occurs first.
+(12)
+It shall be the responsibility of the member's former spouse to inform the plan of
+the address of the former spouse for purposes of distribution of benefits. The plan
+shall attempt, based upon the information then available as provided by the former
+spouse, to inform the former spouse of the member's retirement, death, and commencement
+of benefit payments under this division and payments or eligibility for payments under
+DROP or DROP II.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 350-11, § 13, 6-20-11; Ord. No. 567-13,
+§ 8, 11-12-13; Ord. No. 1123-16, § 8, 12-5-16; Ord. No. 1248-18, § 9, 11-19-18)
+(a)
+General. Nothing in this article is intended to nor shall it be construed to create a debt
+for any year which is a charge against the city's revenues for any future year. All
+benefits payable under the plan shall be payable from and only from the trust fund
+established in section 18-403 . The plan is a determination of policy by the city, strictly of local and municipal
+concern, to enhance and stabilize its employer-employee relationship and will remain
+the policy until changed by city ordinance or amendment of the city Charter. The city
+reserves the right to change the operation of or to discontinue further city involvement
+in the operation of the system at any time and from time to time, subject only to
+the following limitations:
+(1)
+No reductions below what may be actuarially provided. No alteration or amendment shall reduce the retirement benefits below those determined
+to be sufficiently provided for actuarially by the trust fund as it exists at the
+time of alteration or amendment, except in the case of complete termination of the
+plan, nor change any right of a member to receive the return of accumulated contributions,
+if any, upon death or withdrawal from service; and
+(2)
+No reversion to employer. No alteration or amendment or complete or partial termination of the plan or any
+part thereof shall permit any part of the trust fund to revert to or be recoverable
+by the employer or be used or diverted to purposes other than for the exclusive benefit
+of eligible members or their beneficiaries under the plan. In the event of the discontinuance
+of city involvement in the plan, or the partial or complete termination of the plan,
+the proportionate interest of the members, and their beneficiaries, respectively,
+shall be determined by the plan's actuary and to the extent then funded shall become
+non-forfeitable. The assets of the trust shall be allocated to members, former members,
+retired members and their beneficiaries in the following order of preference:
+a.
+The current balance of the member's accumulated contributions, if any, with interest
+thereon at a rate set annually by the Retirement Board, with a minimum rate of one
+(1) percent, not to exceed three (3) percent, per annum, compounded each June 30th,
+as of the date of the termination of the plan. If the member has already retired,
+the amount payable under this subsection shall be the balance of the member's accumulated
+contributions, if any, with interest thereon, as of the member's effective date of
+retirement, less the total amount already received in retirement benefit payments,
+if any.
+b.
+The balance remaining after the allocation described in subsection (2)a., above, shall
+be allocated for the benefit of each retired member (including the member's beneficiary)
+in an amount proportionate to, but not in excess of, the actuarially determined present
+value of the retirement benefit payable to such member at the date of termination
+of the plan.
+c.
+The balance remaining after the allocation described in subsection (2)b, above, shall
+be allocated to:
+1.
+Each member who has attained the normal retirement date, but who has not retired;
+and
+2.
+Each member who has been approved for a retirement benefit payment but who has not
+yet received such payment, in an amount proportionate to, but not in excess of, the
+actuarially determined present value of the retirement benefit payment accrued by
+such member at the date of termination of the plan, less any amount allocated pursuant
+to subsection (2)a., above.
+d.
+The balance remaining after the allocation described in subsections (2)b., and (2)c
+above, shall be allocated for the benefit of each vested active and inactive member
+for whom no allocation has been made under subsection (2)b. and (2)c., above, in an
+amount proportionate to, but not in excess of, the actuarially determined present
+value of the retirement benefit payment accrued by such member at the date of termination
+of the plan, less any amount allocated pursuant to subsection (2)a, above.
+e.
+The balance remaining after the allocation described in subsections (2)b., (2)c. or
+(2)d., above, shall be allocated for the benefit of each member for whom no allocation
+has been made under subsections (2)b., (2)c. or (2)d., above, in an amount proportionate
+to, but not in excess of, the actuarially determined present value of the retirement
+benefit payment accrued by such member at the date of termination of the plan, less
+any amount allocated pursuant to subsection (2)a., above.
+f.
+Any balance remaining after the allocation described in subsections (2)b., (2)c.,
+(2)d. or (2)e., above, shall be allocated for the benefit of all members who have
+participated in the above allocations in a pro-rata share of their total allocations
+to the total distribution.
+(3)
+Timing of distributions upon termination of plan. Any distribution after termination of the plan may be made at any time, so long as
+the distribution requirements of the Internal Revenue Code are met, and from time
+to time, in whole or in part, to the extent that no discrimination in value results,
+in cash, in the form of a retirement benefit payment or a continued retirement benefit
+payment, or in a lump-sum amount as the retirement board directs. The benefit payments
+as apportioned upon plan termination shall be provided by the continuation of the
+trust fund until all assets of the trust fund have been exhausted. In making such
+distribution, any and all determinations, divisions, appraisals, apportionments and
+allotments shall be made by the retirement board acting under the information supplied
+by the actuary and shall be final and conclusive.
+(4)
+No reduction upon merger. This plan shall not be merged or consolidated with, nor shall any assets or liabilities
+be transferred to any other plan, unless the benefits payable to each member if the
+plan were terminated immediately after such action would be equal to or greater than
+the benefits to which such member would have been entitled if this plan had been terminated
+immediately before such action.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 1123-16, § 9, 12-5-16)
+(a)
+Application for disaffiliation. Any employer, agency of an employer, or contractual entity (collectively hereinafter
+referred to as "entity") which is affiliated with the plan may make an application
+to the board to terminate its affiliation or modify the terms and conditions of its
+affiliation with the plan. An entity is deemed to be affiliated with the plan if its
+employees actively participate in the plan. Prior to granting any disaffiliation from
+or modification of the relationship with the plan, the board shall obtain an actuarial
+report certifying that the termination of affiliation or change in relationship shall
+not have an adverse financial impact on the actuarial soundness of the plan. If the
+actuary determines, in accordance with accepted actuarial principles, that the termination
+of affiliation or modification of the relationship shall have an adverse financial
+impact on the actuarial soundness of the plan, the entity shall not be permitted to
+terminate affiliation or change the relationship unless it agrees by written contract
+with the plan to pay for the full actuarial costs associated with the disaffiliation
+or modification of the relationship. These costs include, but are not limited to,
+that portion of the accrued unfunded liability, if any, of the plan attributable to
+the disaffiliating entity, and the actuarial normal cost of current and future benefits
+of members of the plan who are employees of the entity.
+(b)
+Vested rights. The rights of retired members or their beneficiaries and the vested rights of deferred
+members shall not be impaired or reduced in any manner as a result of the termination
+of affiliation or modification of the relationship of an entity with the plan.
+(c)
+Expenses incurred. The expenses incurred by the board for the actuarial reports prepared as a result
+of an application under subsection (a) of this section shall be paid by the entity
+making such application.
+(d)
+Disclosures to applicant. The board shall provide any information contained in such actuarial reports upon
+request of the entity making the application for termination of affiliation or modification
+of the relationship of its affiliation.
+(Ord. No. 854-06, § 6, 12-26-06)
+(a)
+Effective January 1, 2001, in lieu of immediate termination of employment and receipt
+of a normal retirement benefit, a member may continue employment for four (4) years
+and have the member's normal retirement benefit paid into the deferred retirement
+option plan (DROP) account until the end of such period of the member's participation,
+at which time the participant may either terminate employment or continue to be employed
+and resume regular membership with the retirement plan. Subject to the conditions
+and provisions stated in this article, a member may elect to become a participant
+in the DROP and defer the commencement and receipt of the member's retirement benefit.
+(b)
+The board of trustees of the Denver Employees Retirement Plan shall develop and establish
+the DROP for eligible members of the Denver Employees Retirement plan. The board may
+develop, adopt and establish rules, regulations and procedures to efficiently facilitate
+the administration of this DROP.
+(c)
+The DROP permits active members who have never received a retirement benefit under
+the plan provisions and eligible for a normal retirement benefit under the plan to
+continue active employment (but not be an active member of the plan for the DROP period)
+and participate in the DROP.
+(d)
+A participant of the DROP shall continue to be an active employee for all intents
+and purposes but shall not be an active member of the plan for the period in the DROP
+(and shall not receive any retirement benefits which shall include any and all benefits
+provided under division 2 of this article). Nevertheless, the participant shall earn
+no additional service credits or benefits under the plan during the four-year period
+in the DROP.
+(Ord. No. 960-05, § 1, 12-19-05)
+(a)
+Definitions and terms used in this article are elaborated below:
+(1)
+Active employment shall mean when a person is employed part-time or full-time but shall exclude any
+person employed on a seasonal, contractual, or on-call basis or any person who is
+retired from the plan and is rehired by the employer. Active employment shall also
+mean when a person is on an approved paid leave of absence.
+(2)
+Beneficiary shall mean the person or persons designated in writing by the DROP participant (if
+no one is designated, then the estate of the participant).
+(3)
+Board shall mean the retirement board, which serves as the board of trustees for the Denver
+Employees Retirement Plan as described in division 2 of this article.
+(4)
+DROP account shall mean the participant's individual deferred retirement option plan account designed
+under this division and administered by the plan.
+(5)
+FMLA shall be the Family and Medical Leave Act of 1993.
+(6)
+Internal Revenue Code shall mean the Internal Revenue Code of 1986 as amended and the regulations promulgated
+thereunder.
+(7)
+Member shall mean an active member of the Denver Employees Retirement Plan as used in division
+2 of this article. It shall exclude a person or employee who has received any retirement
+benefit under the plan provisions. It shall also exclude any group of employees who
+may be re-employed and receiving a retirement benefit.
+(8)
+Normal Retirement shall mean retirement at the earlier of the age of sixty-five (65) or the first day
+of any calendar month after which a member has attained his or her fifty-fifth (55th)
+birthday and where the member's age and credited service, while an active member,
+are or were equal to the sum of seventy-five (75). The rule of 75 means that age after
+which the member has attained his or her fifty-fifth (55th) birthday where he or she
+can retire without a reduction in his/her retirement benefit as would have been required
+for an early retirement. The rule of 75 is determined by adding the age of the employee
+while employed with the employer to the years of service as an employee with the employer.
+If the total equals or exceeds the sum of seventy-five then the requirements for the
+rule of 75 have been met. The rule of 75 must be attained by the member prior to termination
+of employment.
+(9)
+Participant shall mean a person enrolled in the DROP and having a DROP account.
+(10)
+Plan or retirement plan shall mean the Denver Employees Retirement Plan as described in division 2 of this
+article.
+(11)
+Retiree shall mean a participant who terminates the DROP and is eligible for a distribution
+of retirement benefits under either the DROP or the plan.
+(12)
+Retirement benefit or benefits shall mean any benefit payment to retired members, qualified spouses, beneficiaries
+or dependents provided under the plan according division 2 of this article.
+(13)
+USERRA shall mean Uniformed Services Employment and Re-Employment Rights Act of 1994.
+(b)
+Any other definition or term not described or elaborated above shall be explained
+or interpreted by the board in its rules, regulations, policies and procedures adopted
+to administer the DROP. The plan administrators shall maintain discretionary authority
+to interpret ambiguous terms and make factual determinations regarding the administration
+of the DROP.
+(Ord. No. 960-05, § 1, 12-19-05)
+(a)
+The duration of participation in the DROP shall be for a maximum of four (4) years.
+As a condition precedent to participation in the DROP, the participant shall irrevocably
+elect, in writing on a form prescribed by the board to enter the DROP. The participant
+shall also acknowledge that no disbursement of any DROP funds can occur absent the
+retirement, death or termination of employment of the participant. The plan shall
+provide a copy of such agreement to the employer.
+(b)
+The member's retirement benefit shall be calculated at the entry of the DROP. The
+DROP benefit shall be a monthly amount equal to the member's normal retirement benefit
+(based on the formula used in the calculation of a member's retirement benefit under
+division 2 of this article). This amount shall be credited monthly to the participant's
+DROP account.
+(c)
+The participant's DROP account shall be credited with the member's monthly retirement
+benefit; Cost of Living Adjustments (COLAs) as authorized by the board (in compliance
+with the rules under division 2 of this article); and, until December 31, 2021, interest
+at a rate which shall be the plan's actuarial assumption rate for investment return.
+Beginning January 1, 2022, the participant's DROP account shall be credited with interest
+at a rate set annually by the Retirement Board, with a minimum rate of one (1) percent,
+not to exceed three (3) percent, per annum, compounded annually as of June 30th of
+each year. The employer contribution to the trust established by section 18-403 of the Code, based on the participant's current salary, in accordance with requirements
+set forth in section 18-408 (e) of the Code shall not be credited to the participant's DROP account.
+(d)
+At the DROP entry all calculations of vacation and sick payoff amounts shall be in
+compliance with sections 18-124 and 18-135 , respectively, of the Code and in accordance with all other applicable ordinances,
+policies and rules of the employer. At the exit of the DROP and/or the termination
+of employment the member shall be paid for the vacation and sick leave hours in compliance
+with sections 18-124 and 18-135 , respectively, of the Code. At the end of the DROP term, if the participant continues
+employment, the provisions regarding the calculations of plan eligibility and credited
+service shall apply to the additional bridged service.
+(e)
+If the participant's active employment during the DROP period is interrupted by military
+service, a disability, FMLA or any other paid or unpaid leave of absences, or if a
+participant terminates employment, but within sixty (60) days, returns to a covered
+position, then upon returning to active employment, (provided that the participant
+has not received any distribution from the DROP account, or received any retirement
+benefits under the plan), the employee shall immediately be eligible for participation
+in the DROP for the balance of the four-year period. Other than the above-mentioned
+types of interruptions of participation, the four-year period shall continue to run
+in all other cases. The participant must be an active employee in pay status for the
+DROP account to be credited with all the amounts mentioned in this section. In the
+case of an interruption due to a period of military service, USERRA and its provisions
+shall govern the participant's rights, eligibility and credits to the DROP account.
+(f)
+A participant's election to enter the DROP is irrevocable and may be terminated only
+upon the death of the participant; termination of employment with the employer, or
+the end of the four-year DROP period.
+(g)
+If the participant is on a paid or unpaid leave of absence but maintains an employer-employee
+relationship, there can be no disbursement from the DROP account. The participant
+upon returning to active employment shall continue to participate in the DROP. However,
+if after the leave of absence, the participant terminates employment and applies for
+a retirement benefit, the participant may terminate the DROP agreement and after sixty
+(60) days receive a distribution from the DROP account.
+(h)
+The accumulated amounts of the member's normal retirement benefit calculated at the
+DROP entry, interest at the plan's actuarial assumption rate for investment return
+or other rate as set by the retirement board, and authorized cost of living adjustments
+(COLA) (if and when applicable) shall be credited to, and shall be the amount the
+member receives from the DROP account. The participant's normal retirement benefit
+amount shall cease being credited to the DROP account after the four-year DROP period.
+However, the plan's actuarial assumption rate for investment return or other rate
+as set by the retirement board shall be credited to the participant's DROP account
+until the entire balance is distributed.
+(i)
+The board is authorized to charge the DROP accounts for administrative costs and charges.
+(j)
+After terminating employment and exiting the DROP, a participant may be rehired by
+an employer. If rehired within sixty (60) days, a participant may choose, if the participant
+has not received a distribution from the DROP or a retirement benefit from the plan,
+to continue in the DROP for the balance of the four-year period or to continue in
+the covered service and accrue service credits as a member of the plan.
+(k)
+A participant may receive a distribution from the DROP only sixty (60) days after
+termination of employment.
+(l)
+At the end of the DROP term, a participant may continue employment with the employer
+and shall renew status as an active member of the plan. The plan provisions, the applicable
+ordinances and federal law shall apply to the member's bridged benefit.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 691-20, § 1, 7-19-21)
+(a)
+A participant in the DROP shall be entitled to elect one (1) of the following distribution
+methods by executing in writing a DROP-distribution-payment-option selection form
+as prescribed by the board:
+(1)
+Deferral of any payment(s) from the account. If a deferral of payment(s) is selected,
+the participant may select one (1) of the following distribution methods at any time.
+Distributions may start no earlier than sixty (60) days following employment termination
+and must start no later than April 1 following the year in which the participant attains
+the age of seventy and one-half (70½).
+(2)
+A lump-sum distribution of the entire account balance.
+(3)
+Periodic monthly payments of a designated amount until the balance of the DROP account
+has been entirely distributed. The monthly payments may be adjusted annually.
+(4)
+Periodic monthly payments for a designated period of years. An amount shall be calculated
+for this periodic payment so that the entire balance in the participant's DROP account
+will have been distributed by the end of the period selected by the participant. The
+number of payments may be recalculated annually.
+(5)
+Initial minimum required distribution. The amount calculated to be the participant's
+periodic payment shall be based on the participant's current DROP balance. This minimum
+distribution is based on the participant's life expectancy (and the life expectancy
+of the participant's designated beneficiary, if applicable).
+(6)
+Combination of a lump sum and periodic payments by designating an initial lump sum
+payment of a specified amount and a specified monthly amount until the balance of
+the DROP account has been entirely distributed to the participant. The monthly amount
+may be adjusted annually.
+(7)
+The participant may rollover all or certain portions of eligible rollover distributions,
+as defined in the Internal Revenue Code, from the DROP to an individual retirement
+account (IRA) that qualifies as an IRA under the Internal Revenue Code, or to any
+other eligible retirement plan available to receive rollovers under the Internal Revenue
+Code as set forth in section 18-416 of this article.
+(8)
+Any other method of distribution that is consistent with the requirements of the Internal
+Revenue Code and approved by the plan.
+(b)
+Regardless of the form of payment the participant chooses, the minimum distribution
+amount will be determined and payment made in accordance with section 401(a)(9) of
+the Internal Revenue Code and the corresponding regulations. If the retiree has not
+selected a distribution method prior to reaching the age of seventy and one-half (70½),
+the retiree shall be deemed to have elected the lump-sum payment method.
+(Ord. No. 960-05, § 1, 12-19-05)
+(a)
+The participant shall designate any one (1) person as a beneficiary to receive benefits
+upon the death of the participant. The participant may designate multiple beneficiaries
+or a trust as beneficiary only to receive a lump-sum distribution of the DROP account.
+If the participant designates multiple beneficiaries to receive a lump-sum distribution,
+the member's DROP account shall cease being credited interest in accordance with subsection 18-424 (h) upon the member's death.
+(b)
+If the participant dies with a DROP account balance then the designated beneficiary
+may receive the participant's DROP distribution in accordance with any of the options
+under this division. If, however, the participant dies during the DROP and has not
+designated a beneficiary or the beneficiary predeceases the participant, the DROP
+benefit shall be paid in one (1) lump sum to the participant's estate. Payment shall
+be made within sixty (60) days after the plan is notified of the participant's death.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 350-11, § 14, 6-20-11)
+Except as regarding plan approved domestic relations orders as more specifically set
+forth in section 18-418 of this article, and except for law judicially determined to supersede this section,
+members and their beneficiaries of the DROP shall be restrained from selling, assigning
+or otherwise alienating their benefit under the DROP. The benefits from the DROP shall
+not at any time be subject to the claims of creditors or subject to payment or execution
+upon judgment for the liabilities or torts of said participants and their beneficiaries.
+The participant's and their beneficiaries' DROP benefit shall not be liable or subject
+to attachment, garnishments, execution, qualified domestic relations orders, other
+domestic relations orders, or other legal process. This provision is hereby found,
+determined and declared to be a matter strictly of local and municipal concern to
+the city.
+(Ord. No. 960-05, § 1, 12-19-05)
+(a)
+The board shall not incur any liability individually or on behalf of other individuals
+for any act or omission, made in good faith in relation to the DROP or funds of the
+DROP.
+(b)
+The DROP established by this section is subject to approval by the Internal Revenue
+Service. The provisions of the Internal Revenue Code and regulations promulgated thereunder
+shall supersede any DROP provision if there is any inconsistency with the Internal
+Revenue Code or regulation.
+(c)
+The plan year is the calendar year.
+(d)
+The benefits payable from the DROP are subject to the applicable limitations on benefits
+imposed by the Internal Revenue Code section 415 which is incorporated herein by reference.
+Deposits to the DROP account are not considered contributions to a defined contribution
+plan subject to the limits of the Internal Revenue Code section 415(c).
+(e)
+The DROP described in this section is enacted as a test for a period of three (3)
+years. Within thirty (30) days of the third anniversary of the effective date of the
+ordinance that adds this division to provide for the test of DROP, the board shall
+seek an analysis from its actuary as to the experience of the DROP for the preceding
+three years and report the results of the analysis to the mayor and city council along
+with a recommendation to continue the DROP, discontinue the DROP, or modify the DROP.
+(Ord. No. 960-05, § 1, 12-19-05)
+(a)
+Entrance. No member shall enter the DROP after April 30, 2003. Members who enter the DROP on
+or before April 30, 2003 shall be allowed to serve the full four (4) years in the
+DROP program and receive the full rights and benefits of the DROP program.
+(b)
+Terms: Participants of the DROP under this division 3 shall not be eligible to enter the
+new five-year deferred retirement option plan (DROP II) set forth and described in
+division 4 of this article. Except as modified and amended under this section, the
+terms and conditions of the deferred retirement option plan as set forth in division
+3, article XII, chapter 18 , of the Code shall remain and continue in effect. The participation, benefits, rights
+and privileges of the new entrants and existing participants in the DROP shall be
+governed in accordance with the terms and provisions set forth in this division. Unless
+amended further, those terms and conditions are hereby ratified.
+(c)
+Notice: Immediately following the enactment into law of this section, the Denver Employees
+Retirement Plan shall provide to all active members of the plan, adequate and reasonable
+notice that there shall be no new entrants into the DROP from and after April 30,
+2003.
+(a)
+Subject to the conditions and provisions stated in this article, effective May 1,
+2003, in lieu of immediate termination of employment and receipt of a normal retirement
+benefit, a member may elect to become a participant in the new five-year deferred
+retirement option plan (DROP II). The member may continue employment up to five (5)
+years and participate in the DROP II and have the member's retirement benefit paid
+into the DROP II account. As a condition of entry into the DROP II the member shall
+irrevocably agree to terminate employment with the employer at the end of the participation
+in DROP II.
+(b)
+The board of trustees of the Denver Employees Retirement Plan shall develop and establish
+DROP II for eligible members of the Denver Employees Retirement Plan. The board may
+develop, adopt, and establish rules, regulations and procedures to efficiently facilitate
+the administration of DROP II.
+(c)
+DROP II permits active members who have never received a retirement benefit under
+the plan provisions and who are eligible for a normal retirement benefit under the
+plan to continue active employment (but not be an active member of the plan for the
+DROP II period) and participate in DROP II. A member who has participated in DROP
+under division 3, article XII, and chapter 18 shall be ineligible to participate in DROP II set forth under this section.
+(d)
+A participant of DROP II shall continue to be an active employee for all other purposes
+but shall not be an active member of the plan for the period in DROP II (and shall
+not directly or constructively receive any retirement benefits, which shall include
+any and all benefits provided under division 2 of this article). Further, the participant
+shall earn no additional service credits or benefits under the plan during the member's
+participation in DROP II.
+(Ord. No. 960-05, § 1, 12-19-05)
+(a)
+Definitions and terms used in this division are elaborated below:
+(1)
+Active employment shall mean the period when a person is employed part-time or full-time but shall
+exclude any person employed on a seasonal, contractual, or on-call basis or any person
+who is retired from the plan and is rehired by the employer. Active employment shall
+also mean the period when a person is on an approved paid leave of absence.
+(2)
+Beneficiary shall mean the person or persons designated in writing by the DROP II participant
+(if no one is designated, then the estate of the participant).
+(3)
+Board shall mean the retirement board, which serves as the board of trustees for the Denver
+Employees Retirement Plan as described in division 2 of this article.
+(4)
+DROP II account shall mean the participant's individual new five-year deferred-retirement-option-plan
+account designed under this division and administered by the plan.
+(5)
+FMLA shall mean the Family and Medical Leave Act of 1993.
+(6)
+Internal Revenue Code shall mean the Internal Revenue Code of 1986, as amended, and the regulations promulgated
+thereunder.
+(7)
+Member shall mean an active member of the Denver Employees Retirement Plan as described
+in division 2 of this article. It shall exclude a retired member who is receiving
+any retirement benefit under the plan provisions. It shall also exclude any group
+of employees who may be re-employed and receiving a retirement benefit.
+(8)
+Normal retirement shall mean retirement at the earlier of the age of sixty-five (65) or the first day
+of any calendar month after which a member has attained his or her fifty-fifth (55th)
+birthday and where the member's age and credited service, while an active member,
+are or were equal to the sum of seventy-five (75). The rule of 75 means that age after
+which the member has attained his or her fifty-fifth (55th) birthday where he or she
+can retire without a reduction in his/her retirement benefit as would have been required
+for an early retirement. The rule of 75 is determined by adding the age of the employee
+while employed with the employer to the years of service as an employee with the employer.
+If the total equals or exceeds the sum of seventy-five (75) then the requirements
+for the rule of 75 have been met. The rule of 75 must be attained by the member prior
+to termination of employment.
+(9)
+Participant shall mean a person enrolled in DROP II and having a DROP II account.
+(10)
+Plan or retirement plan shall mean the Denver Employees Retirement Plan as described in division 2 of this
+article.
+(11)
+Retiree shall mean a participant who terminates DROP under either division 3 of this article
+or DROP II and is eligible for a distribution of retirement benefits under the plan,
+DROP, or DROP II.
+(12)
+Retirement benefit or benefits shall mean any benefit payment to retired members, qualified spouses, beneficiaries,
+or dependents as provided under the plan according to division 2 of this article.
+(13)
+USERRA shall mean Uniformed Services Employment and Re-Employment Rights Act of 1994.
+(b)
+Any other phrase or term not defined or elaborated above shall be explained or interpreted
+by the board in its rules, regulations, policies and procedures adopted to administer
+DROP II. The plan administrators shall maintain discretionary authority to interpret
+ambiguous terms and make factual determinations regarding the administration of DROP
+II.
+(Ord. No. 960-05, § 1, 12-19-05)
+(a)
+The duration of participation in DROP II shall be for a maximum of five (5) years.
+As a condition precedent to participation in DROP II, the participant shall irrevocably
+elect in writing on a form prescribed by the board to enter DROP II. The participant
+shall also acknowledge that no disbursement of any DROP II funds can occur absent
+the retirement, death, or termination of employment of the participant. The plan shall
+provide a copy of such election to the employer. As a further condition to participation
+in DROP II, applicants must agree with the employer in writing to terminate their
+employment at the end of their participation in DROP II. Applicants shall provide
+a conformed copy of the agreement to the plan. The agreement shall be irrevocable
+and may not be amended, modified, or cancelled in the absence of an ordinance superseding
+this provision.
+(b)
+The member's retirement benefit shall be calculated at the entry of DROP II. The DROP
+II benefit shall be a monthly amount equal to the member's normal retirement benefit
+(based on the formula used in the calculation of a member's retirement benefit under
+division 2 of this article). This amount shall be credited monthly to the participant's
+DROP II account.
+(c)
+The participant's account shall be adjusted for any cost of living adjustments (COLAs)
+as authorized by the board (in compliance with the rules under division 2 of this
+article). Until December 31, 2021, the interest on the DROP II account shall accrue
+at the plan's investment earnings rate provided that it shall be not less than three
+(3) percent per annum and not more than the plan's then current annual, actuarial
+assumption for the rate of return. Beginning on January 1, 2022, interest on the DROP
+II account shall accrue at a rate set annually by the retirement board, with a minimum
+rate of one (1) percent, not to exceed three (3) percent, per annum, compounded annually
+as of June 30 of each year. Such accruals to the DROP II account shall continue until
+the entire balance of the DROP II account is distributed.
+(d)
+At DROP II entry all calculations of vacation and sick leave payoff amounts shall
+be made in compliance with sections 18-124 and 18-135 , respectively, of the Code and in accordance with all other applicable ordinances,
+policies and rules of the employer. At the participant's exit of DROP II and termination
+of employment, the member shall be paid for the vacation and sick leave hours accrued
+during the DROP II period in compliance with sections 18-124 and 18-135 , respectively, of the Code.
+(e)
+If the participant's active employment during DROP II period is interrupted by military
+service, a disability, leave under FMLA, or any other paid or unpaid leave of absences,
+or if a participant terminates employment, but within sixty (60) days, returns to
+a covered position, then upon returning to active employment (provided that the participant
+has not received any distribution from the DROP II account, or received any retirement
+benefits under the plan), the employee shall immediately be eligible for participation
+in the DROP II for the balance of the five-year period. Other than the above-mentioned
+types of interruptions of participation, the five-year period shall continue to run
+in all other cases. The participant must be an active employee in pay status for the
+DROP II account to be credited with the amounts mentioned in this section. In the
+case of an interruption due to a period of military service, USERRA and its provisions
+shall govern the participant's rights, eligibility and credits to DROP II account.
+(f)
+A participant's election to enter DROP II is irrevocable and may be terminated only
+upon the death of the participant, termination of employment with the employer, or
+the end of the five-year DROP II period.
+(g)
+If the participant is on a paid or unpaid leave of absence but maintains an employer-employee
+relationship, there can be no disbursement from the DROP II account. The participant
+upon returning to active employment shall continue to participate in DROP II. However,
+if after the leave of absence, the participant terminates employment and applies for
+a retirement benefit, the participant may terminate the DROP II agreement and after
+sixty (60) days receive a distribution from the DROP II account.
+(h)
+The total amount that constitutes the DROP II account and eligible for distribution
+shall be the accumulated sum of monthly credits of the member's normal retirement
+benefit as calculated at DROP II entry; authorized COLAs (if and when applicable);
+and the interest accrued on such amounts. The amount of the participant's normal retirement
+benefit shall cease being credited to DROP II account after the five-year DROP II
+period. However, interest on the account as described in (c) of this section shall
+continue to accrue to the participant's DROP II account until the entire balance is
+distributed.
+(i)
+The board is authorized to charge the DROP II accounts for administrative costs and
+charges.
+(j)
+After terminating employment and exiting DROP II, a participant may be rehired by
+the employer. If rehired within sixty (60) days, a participant may elect, if the participant
+has not received a distribution from the DROP II account or a retirement benefit from
+the plan, to continue in DROP II for the balance of the five-year period, or to continue
+in the covered service and accrue service credits as a member of the plan.
+(k)
+Distributions from DROP II accounts may commence after the death of the participant
+or sixty (60) days following termination of employment, whichever occurs first.
+(l)
+At the end of the DROP II period, the participant must terminate employment with the
+employer.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 691-20, § 2, 7-19-21)
+(a)
+A participant in DROP II shall be entitled to select one (1) of the following methods
+of distribution by executing in writing a DROP II selection form prescribed by the
+board:
+(1)
+Deferral of any payment(s) from the account. If a deferral of payment(s) is selected,
+the participant may select one (1) of the following distribution methods at any time.
+Distributions may start no earlier than sixty (60) days following employment termination
+and must start no later than April 1 following the year in which the participant attains
+the age of seventy and one half (70½).
+(2)
+A lump-sum distribution of the entire account balance.
+(3)
+Monthly payments of a designated amount until the entire balance of the DROP II account
+have been distributed. The designated monthly payment amount may be adjusted annually.
+(4)
+Monthly payments for a designated period of years. An amount shall be calculated for
+this periodic payment so that the entire balance in the participant's DROP II account
+will have been distributed by the end of the period selected by the participant. The
+designated number of payments may be recalculated annually.
+(5)
+Initial minimum required distribution. The amount calculated to be the participant's
+monthly payment shall be based on the participant's current DROP II account balance.
+This minimum distribution is based on the participant's life expectancy (and the life
+expectancy of the participant's designated beneficiary, if applicable).
+(6)
+Combination of a lump sum and monthly payments by designating an initial lump sum
+payment of a specified amount and a specified monthly amount until the balance of
+DROP II account has been entirely distributed to the participant. The specified monthly
+amount may be adjusted annually.
+(7)
+The participant may rollover all or certain portions of eligible rollover distributions,
+as defined in the Internal Revenue Code, from DROP II to an individual retirement
+account (IRA) that qualifies as an IRA under the Internal Revenue Code or to any other
+eligible retirement plan available to receive rollovers under the Internal Revenue
+Code as set forth in section 18-416 of this article.
+(8)
+Any other plan approved method of distribution that is consistent with the requirements
+of the Internal Revenue Code.
+(b)
+Regardless of the form of payment the participant chooses, the minimum distribution
+amount will be determined and payment made in accordance with section 401(a)(9) of
+the Internal Revenue Code and the corresponding regulations. If the retiree has not
+selected a distribution method prior to reaching the age of seventy and one half (70½),
+the retiree shall be deemed to have elected the lump-sum payment method.
+(Ord. No. 960-05, § 1, 12-19-05)
+(a)
+The participant shall designate one (1) individual as a beneficiary to receive benefits
+upon the death of the participant. The participant may designate multiple beneficiaries
+or a trust as beneficiary only to receive a lump-sum distribution of the entire DROP
+II account. If the participant designates multiple beneficiaries to receive a lump-sum
+distribution, the member's DROP II account shall cease being credited interest in
+accordance with subsection 18-430.2 (c) upon the member's death.
+(b)
+If the participant dies with a DROP II account balance then, except as limited in
+(a) of this section, the designated beneficiary may receive the participant's DROP
+II distribution in accordance with any of the options under this division. If, however,
+the participant dies during DROP II and has not designated a beneficiary or the beneficiary
+predeceases the participant, the DROP II benefit shall be paid in one (1) lump sum
+to the participant's estate.
+(Ord. No. 960-05, § 1, 12-19-05; Ord. No. 350-11, § 15, 6-20-11)
+Except as regarding plan approved domestic relations orders as more specifically set
+forth in section 18-418 of this article and except for law judicially determined to supersede this section,
+members of DROP II and their beneficiaries shall be restrained from selling, assigning,
+or otherwise alienating their benefit under DROP II. The benefits from DROP II shall
+not at any time be subject to the claims of creditors or subject to payment or execution
+upon judgment for the liabilities or torts of said participants and their beneficiaries.
+The DROP II benefits of participants and their beneficiaries shall not be liable or
+subject to attachment, garnishment, execution, qualified domestic relations orders,
+other domestic relations orders, or other legal process. This provision is hereby
+found, determined and declared to be a matter strictly of local and municipal concern
+to the city.
+(Ord. No. 960-05, § 1, 12-19-05)
+(a)
+Members of the board and the board, itself, shall not incur any liability, individually
+or on behalf of other individuals, for any act or omission made in good faith in relation
+to DROP II or funds of DROP II.
+(b)
+The DROP II established by this section is subject to a determination by the Internal
+Revenue Service that it is a qualified pension plan or part of such a plan. The provisions
+of the Internal Revenue Code and regulations promulgated thereunder shall supersede
+any inconsistent provisions of DROP II.
+(c)
+The plan year is the calendar year.
+(d)
+The benefits payable from DROP II accounts are subject to the applicable limitations
+on benefits imposed by the Internal Revenue Code section 415(b), which is incorporated
+herein by reference. Deposits to DROP II accounts are not considered contributions
+to a defined contribution plan subject to the limits of the Internal Revenue Code
+section 415(c).
+(e)
+The board may in its sole discretion, based on actuarial factors, recommend at any
+time to the employer that DROP II be terminated. But no participant or beneficiary
+of DROP II then currently enrolled shall be divested of any rights under DROP II if
+DROP II is terminated and this division is repealed.
+(f)
+Annually, the board shall seek a report from its actuary to ascertain the actuarial
+soundness of DROP II. Based on this annual report the board may recommend to the city
+council a termination or modification of DROP II by enactment of ordinance.
+(Ord. No. 960-05, § 1, 12-19-05)
+(a)
+Termination: Effective from and after September 1, 2003, no member shall enter the DROP II. However,
+those members who are eligible for a normal retirement benefit (under division 2 of
+this article) on or before August 31, 2003 shall be permitted to enter and participate
+in the DROP II if application is made before September 1, 2003.
+(b)
+Terms: Except as modified and amended under this section, the terms and conditions of the
+DROP II as set forth in division 4, article XII, chapter 18 , of the Code shall remain and continue in effect. The participation, benefits, rights
+and privileges of the participants in the DROP II shall be governed in accordance
+with the terms and provisions set forth in this division. Unless amended further,
+those terms and conditions are hereby ratified.
+(c)
+Notice: Immediately following the enactment into law of this ordinance, the Denver Employees
+Retirement Plan shall provide to all active members of the plan, adequate and reasonable
+notice that there shall be no new entrants into the DROP II from and after September
+1, 2003.
+(Ord. No. 960-05, § 1, 12-19-05)
+Editor's note— Ord. No. 960-05, § 3, adopted Dec. 19, 2005, repealed division 5, sections 18-433.1—18-433.4,
+in its entirety. Former division 5 pertained to Denver's special incentive retirement
+plan for the members of the Denver employees' retirement plan, and derived from Ord.
+No. 703-03, § 1, adopted Sept. 15, 2003.
+Editor's note— Ord. No. 908-97, § 1, adopted Dec. 15, 1997, amended this article in its entirety,
+in effect repealing former §§ 18-434—18-444, relative to similar subject matter, and
+enacting new provisions as set out in §§ 18-434—18-443. Formerly, such provisions
+derived from Ord. No. 238-89, § 1, adopted May 8, 1989.
+(a)
+The plan to be made available by the city to employees and officers of the city is
+a system for voluntary deferral of the receipt of compensation affording tax deferral
+in order to enhance the participant's security during retirement years. The purpose
+of the plan is to attract and hold in governmental service qualified individuals by
+permitting them to enter into arrangements with the committee acting on behalf of
+the city which will provide them benefits as specified in the plan.
+(b)
+Nothing contained in the plan shall be deemed to constitute an employment agreement
+between the participant and the city, and nothing contained herein or in the plan
+shall be deemed to give a participant any right to be retained in the employment of
+the city. The plan is intended to comply with section 457 of the Internal Revenue
+Code of 1986, as amended, as an eligible deferred compensation plan.
+(Ord. No. 908-97, § 1, 12-15-97)
+The word "plan," when used in this article or in the plan, itself, shall mean the
+deferred compensation plan adopted by the committee.
+(Ord. No. 908-97, § 1, 12-15-97)
+(a)
+The plan shall be administered by the committee and the committee shall represent
+the city in all matters concerning the plan. The committee shall consist of nine (9)
+voting members, two (2) of whom shall be plan retirees; and one (1) of whom shall
+have working knowledge or experience with retirement plans. All appointed committee
+members shall be participants of the plan. Six (6) of the committee members shall
+be appointed by the mayor, and serve at the mayor's pleasure. Two (2) of the committee
+members shall be appointed by and serve at the pleasure of city council, one (1) of
+whom shall be a plan retiree. The initial city council appointees shall be appointed
+to the following terms: one (1) shall be appointed to a three-year term, and one (1)
+shall be appointed to a four-year term. The manager of finance or the manager's designee,
+shall be the ninth member. The city attorney or the city attorney's designee, shall
+serve as an ex-officio nonvoting member, but shall not be eligible to serve, nor serve,
+as a trustee. The city attorney shall advise the committee of any changes in applicable
+law affecting the status of the plan under section 457 of the Internal Revenue Code
+and regulations promulgated thereunder.
+(1)
+The committee members first appointed after the effective date of this section shall
+be appointed as follows so as to create staggered terms: Two (2) members shall be
+appointed to serve for two (2) years, three (3) members shall be appointed to serve
+for three (3) years, and three (3) members shall be appointed to serve for four (4)
+years. After these initial appointment terms have been served, each committee member
+shall be appointed thereafter for a four-year term. Committee members shall be eligible
+for reappointment.
+(2)
+The committee shall meet more than once per calendar quarter. At its first meeting
+each year, the committee shall elect a chair and vice-chair. The chair and/or vice-chair
+shall report at least annually to the city council regarding the status of the plan.
+(b)
+The committee shall have full power and authority to prepare an annual budget, adopt
+and, from time to time, amend the plan, to establish procedures for rules and regulations,
+and to adopt and implement rules and regulations for the administration of the plan,
+provided such rules and regulations are not inconsistent with the provisions of this
+article, section 2.5.3 (D) of the Denver Charter, or section 457 of the Internal Revenue Code, and to interpret,
+alter, amend, or revoke any rules and regulations so adopted. The committee may engage
+professional services as deemed necessary by the committee in its sole discretion
+to administer the plan.
+(c)
+Excepting administrative expenses of the committee assessed to the participants, which
+shall not exceed one (1) percent of annual deferrals, all funds and earnings thereon
+shall be held by the city in a trust, custodial account, or qualifying insurance contract,
+for the exclusive benefit of the participants and their beneficiaries and allocated
+in accordance with deferrals to the participant's account until such accumulated funds
+with earnings and losses thereon are to be distributed in accordance with the provisions
+of the plan and the agreement made by the participant under the plan. The name of
+any trust created hereunder shall be the "City and County of Denver Deferred Compensation
+Trust," and assets of the plan may be held in that name for the exclusive benefit
+of participants and their beneficiaries.
+(d)
+Trustees acting under trust agreements, or custodians acting under custodial agreements,
+or insurers administering qualifying insurance (group annuity) contracts, or any combination
+of them, may be engaged by the committee. Such trustees, custodians, or insurers may
+be removed by the committee at any time, and others may be selected by the committee.
+Such entities so engaged shall be institutions properly authorized under national
+or state laws to conduct a trust, custodial, or insuring business, and their expenses
+shall be paid out of the plan assets subject to the prior approval of the committee.
+The committee is hereby authorized to execute the appropriate trust, custodial, or
+group annuity insuring agreements not inconsistent with the provisions of the plan
+and the provisions of section 457 of the Internal Revenue Code of 1986, as amended,
+and regulations promulgated thereunder, with those entities properly selected as set
+forth above. Any change in the form of management of the fund assets from that described
+in the plan shall require the prior written approval of the committee.
+(e)
+The committee must adopt and approve a plan which meets the requirements of this article,
+section 457 of the Internal Revenue Code, and regulations promulgated thereunder or
+relating thereto. The current plan adopted under Ordinance No. 594, Series of 1980,
+as amended, shall remain in effect unless or until further amended by the committee
+as provided herein.
+(f)
+Every action taken by the committee shall be presumed to be a fair and reasonable
+exercise of the authority vested in or the duties imposed upon it. The committee shall
+be deemed to have exercised reasonable care, diligence, and prudence and to have acted
+impartially as to all persons interested unless the contrary be proved by affirmative
+evidence. The committee and the members thereof and the city shall not be liable for
+losses due to the failure of investments, whether directed by the participant or not,
+or for depreciation of assets in the plan, or loss of earnings or gains reinvested,
+or losses resulting from the failure of participants to direct the investment of assets
+held by the city in trust under the plan, nor shall the city or any person or the
+committee be required to replace any loss which may result from investments or failures
+to invest or direct the investment of any such moneys or assets.
+(g)
+In order to ensure that payroll deductions are properly recorded in compliance with
+all applicable laws and regulations and to ensure that organizations, trustees, custodians,
+insurance companies, or any of them, engaged by the committee are required to conform
+to reasonable monitoring and reporting requirements, all matters relating to the power
+and duty of the manager of finance to make necessary payroll deductions shall be subject
+to audit by the city auditor.
+(Ord. No. 908-97, § 1, 12-15-97; Ord. No. 1025-02, § 10, 12-16-02; Ord. No. 775-07,
+§ 28, 12-26-07; Ord. No. 466-12, § 1, 9-17-12; Ord. No. 428-13, § 9-9-13)
+Elected officials and all permanent and temporary officers and employees of the city,
+including, but not limited to, those employed within the career service and the classified
+service of the police and fire departments and those appointed and employed by the
+mayor; the auditor; the city council; the civil service commission; the clerk and
+recorder; the district attorney; the library; the county court; and the board of adjustment-zoning,
+who execute an agreement with the committee assenting to the provisions of the plan
+may participate in the plan. Retirees with a cumulative plan account balance in excess
+of five thousand dollars ($5,000.00) shall also be considered participants of the
+plan for purposes of section 18-436 .
+(Ord. No. 908-97, § 1, 12-15-97; Ord. No. 264-07, § 20, 6-11-07; Ord. No. 466-12,
+§ 2, 9-17-12)
+Notwithstanding anything which appears in this article or the plan, neither the city
+nor the committee shall be required to make investments or purchase assets with plan
+funds, but in the event the city or the committee shall purchase such investments
+or assets, it shall not be required to exercise any option, or right with respect
+to such investment or assets or, if it wishes to exercise any option, election, or
+right under such investments or assets, it shall not be required to exercise any option,
+election, or right in any particular manner.
+(Ord. No. 908-97, § 1, 12-15-97)
+(a)
+The city may at any time terminate the plan. Upon such termination, the participant's
+full compensation on a nondeferred basis will be thereupon restored.
+(b)
+The committee may amend the provisions of the plan, provided, however, no amendment
+shall affect the rights of participants or their beneficiaries to the receipt of benefits
+available as a result of compensation deferred before the time of the amendment, and
+further provided that prior to making any amendments to the plan, the committee shall
+notify city council in writing of the proposed amendments.
+(Ord. No. 908-97, § 1, 12-15-97)
+The amount of compensation deferred will be included in determining benefits or rights
+under the city's retirement and group insurance plans. Payments under the deferred
+compensation plan will supplement retirement, death, and other benefits payable under
+the retirement plan.
+(Ord. No. 908-97, § 1, 12-15-97)
+Neither the participant nor the participant's beneficiary shall anticipate, assign
+or pledge any payments or benefits available under the plan (which payments and rights
+thereto are expressly declared to be nonassignable and nontransferable) and in the
+event of any attempted anticipation, assignment or pledge, or any other partial or
+complete transfer, the city and the committee shall have no further liability to the
+participant hereunder or under the plan; nor shall any unpaid benefits or payments
+be subject to debts, damages for tort liability, attachments, garnishment or execution,
+or be transferable by operation of law in event of bankruptcy, insolvency, or assignment
+for the benefit of creditors, except to the extent otherwise required by law preemptive
+of this article. However, notwithstanding the foregoing restrictions, domestic relations
+orders that are applicable to eligible plans under section 414(p)(11) of the Internal
+Revenue Code will be allowed, but only to the extent that the domestic orders and
+agreements are drafted and approved in accordance with, and otherwise comply with
+C.R.S., section 14-10-113, with the plan, and with the procedures promulgated by the
+committee from time to time.
+(Ord. No. 908-97, § 1, 12-15-97; Ord. No. 1135, § 1, 12-26-01)
+Custodial accounts or group annuity contracts that are used in place of a trust must
+meet the requirements of section 401(f) of the Internal Revenue Code of 1986, as amended,
+must contain a specific provision that the instrument is written for the exclusive
+benefit of participants in a section 457 deferred compensation plan, and must state
+that the person holding the assets of such a contract or account shall be treated
+as the trustee thereof.
+(Ord. No. 908-97, § 1, 12-15-97)
+The city manager of finance is directed and empowered to make necessary payroll deductions
+and the manager of finance and all other city officers and employees are directed
+and empowered to take whatever other action may be necessary to facilitate the accomplishment
+of the purposes of the deferred compensation plan. The audit committee shall cause
+to be made once each year a complete audit of the fund and shall furnish to the mayor,
+the city council, and the committee a written report showing the result of such audit.
+(Ord. No. 775-07, § 29, 12-26-07)
+Editor's note— Section 29 of Ord. No. 775-07, adopted Dec. 26, 2007, amended § 18-443 in its entirety
+to read as herein set out. Former § 18-443 pertained to the city auditor and derived
+from Ord. No. 908-97, adopted Dec. 15, 1997.
+Editor's note— Ord. No. 772-97, § 1, adopted Nov. 3, 1997, amended this article in its entirety,
+in effect repealing former Art. XV, relative to police pension and relief fund, and
+enacting similar new provisions in lieu thereof as Divs. 1 and 2, §§ 18-550—18-560,
+18-565, 18-566 of this article. Formerly, such provisions comprised §§ 18-550—18-560
+and derived from Ord. No 179-87, § 1, adopted Apr. 6, 1987, as amended by Ord. No.
+720-89, § 1, adopted Nov. 27, 1989; Ord. No. 609-92, § 1, adopted Sept. 8, 1992; and
+Ord. No. 675-92, § 1, adopted Sept. 28, 1992.
+Editor's note— Ord. No. 1112-01, § 1, adopted Dec. 17, 2001, amended article XV by changing its title
+from "Police Pension" to "Police and Fire Pension."
+Editor's note— Ord. No. 959-05, § 2, adopted Dec. 19, 2005, amended the Code by redesignating without
+amendment article XV, police and fire pension, as article XIII. In order to avoid
+duplication of article XIII, the material pertaining to police and fire pensions has
+been redesignated as article XIV at the direction of the city.
+Cross reference— Police department benefits generally, § 42-52 et seq.
+Editor's note— Ord. No. 1112-01, § 1, adopted Dec. 17, 2001, amended division 1 by changing its title
+from "Police Pension and Relief Fund" to "Old Hire Police Pension Plan."
+Amendments to (1) any provision of the police pension and relief fund, also known
+as the old hire police pension plan, as contained in C.R.S., section 31-30.5-603 and
+C.R.S., section 31-30.5-704, and as contained in and modified by Denver Code sections 18-550 through 18-566 ; and to (2) any provision of the old hire fire fighters pension plan, as contained
+in C.R.S., section 31-30.5-604 and C.R.S., section 31-30.5-705, and as contained in
+and modified by Denver Code sections 18-571 through 18-581 , shall only be made pursuant to and in compliance with C.R.S., section 31-30.5-210,
+with Charter sections 9.6.11 (police) and 9.5.12 (fire fighters), and in compliance with the corresponding sections of any amendments
+to said statute and Charter sections.
+(Ord. No. 1112-01, § 1, 12-17-01; Ord. No. 1025-02, § 11, 12-16-02)
+As used in this article, unless the context otherwise requires:
+Fire and police pension association, or FPPA, means the political subdivision of the state created by section 31-31-201, C.R.S.
+As used in this division:
+Member means an active employee who is in the classified service of the police department
+who was hired before April 8, 1978, and who has not elected to become covered under
+the provisions of the statewide plan pursuant to section 31-31-701(2), C.R.S. The
+term also includes any former employee of the classified service of the police department
+who is retired and who meets these same criteria.
+(Ord. No. 772-97, § 1, 11-3-97)
+There is hereby created a police pension and relief fund which shall be composed of
+money from the following sources:
+(1)
+All moneys received from fines imposed on all police officers in the classified service
+for violation of law or the rules and regulations of the department;
+(2)
+All donations and gifts which may be made to the fund;
+(3)
+An annual appropriation by city council in a sufficient sum to carry out the provisions
+of this division for the police pension and relief fund benefits in an amount not
+less than the annual contributions made by the members;
+(4)
+Contributions from each member at the rate of eight (8) percent of his or her salary
+or the percentage as increased thereafter by the fire and police pension association
+or by city council pursuant to Charter section 9.6.11 (A), except that the increase in such contributions shall not be to a level higher
+than that permitted by state statutes concerning police pensions. No contribution
+shall be made by any member at such times as that member is receiving only one-half
+(½) of the salary for the rank he or she holds pursuant to any provision of the Charter.
+(Ord. No. 772-97, § 1, 11-3-97; Ord. No. 1025-02, § 12, 12-16-02)
+Any member who ceases to remain a member after having served for a minimum of ten
+(10) years in such capacity and who does not thereafter reenter the classified service
+of the Denver Police Department shall upon attaining the age of fifty-five (55) be
+refunded all contributions he or she has made to the police pension and relief fund,
+without interest.
+(Ord. No. 772-97, § 1, 11-3-97)
+Moneys remaining at the end of any fiscal year in this fund shall not be transferred,
+but shall be invested from time to time in approved interest bearing securities. The
+treasurer shall be the custodian of all moneys and securities provided for in this
+section.
+(Ord. No. 772-97, § 1, 11-3-97)
+(a)
+Any member who has twenty (20) years of active service shall, upon his or her request,
+be retired from further service in the department. If any member retires prior to
+the completion of twenty-five (25) years of active service, no pension payments shall
+commence until twenty-five (25) years of service would have been completed had the
+member not terminated. Any member who is otherwise eligible for retirement shall be
+separated from the police department upon reaching his or her sixty-fifth birthday.
+(b)
+A member who is eligible to retire pursuant to paragraph (a) of this section and who
+retires during the period beginning May 8, 1985, and ending June 30, 1993, shall receive
+a pension benefit equal to two (2) percent of the monthly rate of salary received
+on the date of retirement or two (2) percent of the average monthly rate of salary
+received during the year next preceding the date of retirement, whichever is greater,
+multiplied by the member's number of full years of active service up to thirty (30)
+years. In no case shall the pension exceed sixty (60) percent of the monthly rate
+of salary received on the date of retirement or of the average monthly rate of salary
+received during the year next preceding the date of retirement, whichever is greater.
+The pension shall be paid in equal monthly installments from the pension and relief
+fund.
+(c)
+A member who was eligible to retire pursuant to paragraph (a) of this section and
+who retired before May 8, 1985, shall receive a pension benefit equal to one-half
+(½) of the monthly rate of salary received on the date of retirement or one-half (½)
+of the average monthly rate of salary received during the year next preceding the
+date of retirement, whichever is greater. The pension shall be paid in equal monthly
+installments from the pension and relief fund.
+(d)
+A member who is eligible to retire pursuant to paragraph (a) of this section and who
+retires on or after July 1, 1993, shall receive a pension benefit to be calculated
+by multiplying the sum of the following:
+(1)
+The product of the number of full years of active service up to twenty-five (25) years
+times two (2) percent per year; plus
+(2)
+The product of the number of full years of active service worked after twenty-five
+(25) years, provided the years worked are in the period between May 8, 1985, and June
+30, 1992, times two (2) percent per year, up to a maximum of ten (10) percent; plus
+(3)
+The product of the number of full months of active service after twenty-five (25)
+years, provided the full months occur after June 30, 1992, times 0.3333 percent per
+month, up to a maximum of twenty-four (24) percent;
+Times the monthly rate of salary received on the date of retirement or the average
+monthly rate of salary received during the year next preceding the date of retirement,
+whichever is greater. The maximum allowable benefit under paragraph (d) of this section 18-554 shall be seventy-four (74) percent even when the sum of the products in paragraphs
+(1), (2) and (3) above exceeds seventy-four (74) percent. The pension paid under this
+paragraph 18-554(d) shall be paid in equal monthly installments from the pension and
+relief fund. The rank escalation benefit shall be based upon the percentage of salary
+due at retirement.
+(Ord. No. 772-97, § 1, 11-3-97; Ord. No. 506-98, § 1, 7-20-98; Ord. No. 440-00, §
+2, 6-5-00; Ord. No. 597-00, § 2, 7-24-00)
+(1)
+A member may purchase service credit for public safety employment, "public safety
+employment" meaning "employment as a law enforcement officer, firefighter, rescue
+squad worker, or ambulance crew member, or employment that is primarily involved with
+the provision of services which are auxiliary to law enforcement or fire protection,"
+provided such employment is within the United States, is not covered by the plan,
+and is subject to all of the following conditions:
+(a)
+The member has at least one (1) year of continuous service credit as a member with
+the city.
+(b)
+The member provides documentation of the dates of employment not covered by the plan
+and a record of the salary received.
+(c)
+The member verifies that the member will not receive a benefit from any retirement
+plan covering such employment and that the service credit to be purchased has not
+vested with that plan, except to the extent otherwise required by federal law.
+(d)
+The member pays to the plan administrator, the police pension and relief board created
+by Charter section 9.6.12 , at the time and in the manner prescribed by the police pension and relief board,
+the cost of the service credit purchased, such cost to be calculated by the police
+pension and relief board on an actuarially equivalent basis.
+(2)
+A member may purchase up to five years of service credit for periods of active duty
+in the uniformed services of the United States, subject to all of the following conditions:
+(a)
+The member has at least one (1) year of continuous service credit as a member with
+the city.
+(b)
+The member provides documentation of the dates of service in the uniformed services
+of the United States and that the member was honorably discharged from such service.
+(c)
+The member provides certification from the employer that the service is not intervening
+service covered by the federal Uniformed Services Employment and Reemployment Rights
+Act of 1994, chapter 43 of title 38, U.S.C., as amended.
+(d)
+The member verifies that the member will not receive a benefit from any retirement
+plan covering such service and that the service credit to be purchased has not vested
+with that plan, except to the extent otherwise required by federal law.
+(e)
+The member pays to the plan administrator, the police pension and relief board, at
+the time and in the manner prescribed by the police pension and relief board, the
+cost of the service credit purchased, such cost to be calculated by the police pension
+and relief board on an actuarially equivalent basis.
+(3)
+Any service credit purchased under this section must cover a period of one (1) year
+or longer.
+(4)
+Permissive service credits will be offered consistent with section 415(n) of the Internal
+Revenue Code, and the plan shall treat the accrued benefit derived from all such contributions
+as an annual benefit for purposes of the Internal Revenue Code subsection 415(b) as
+provided in section 415(n)(1)(A) of the Internal Revenue Code, effective January 1,
+1998.
+(Ord. No. 536-00, § 2, 7-3-00; Ord. No. 727-00, § 2, 9-11-00; Ord. No. 1022-02, §
+1, 12-9-02; Ord. No. 1025-02, § 13, 12-16-02)
+At no time shall the pension of any member be reduced to an amount less than the amount
+he or she was entitled to at the time he or she retired from active service.
+(Ord. No. 772-97, § 1, 11-3-97)
+Whenever salaries in the police department are raised for the rank the member held
+at the time of retirement from active service, each member who has previously retired
+from active service and who is receiving a pension shall be entitled to an increase
+in the amount of pension, from and after the effective date of such raise in salary,
+equal to the percentage of salary received as a pension benefit as determined in section 18-554 , multiplied by the dollar amount of the raise.
+(Ord. No. 772-97, § 1, 11-3-97)
+No member shall be retired from active service prior to the termination of the member's
+twenty (20) years of active service or be paid a pension until the time when twenty-five
+(25) years of active service would have been completed had the member not terminated.
+(Ord. No. 772-97, § 1, 11-3-97)
+(a)
+Should any member who has served an aggregate of twenty-five (25) years of active
+service elect to remain in active service beyond the termination of such members'
+initial twenty-five (25) years of active service, and should it appear at any time
+after such date that such member is physically or mentally unable to perform his duties
+as a police officer as a result of a disability, where the fire and police pension
+association has terminated its jurisdiction, the chief of police, upon recommendation
+of the member's commanding officer, may petition the police pension and relief board
+to call the member before the board for an examination into his or her physical and
+mental condition to ascertain his or her fitness for active service.
+(b)
+The board shall have the member examined by three (3) licensed practicing physicians
+appointed by the board. If the board finds from the recommendations of the physicians
+together with such other facts as may be presented to the board by the investigating
+committee that the member is either or both physically or mentally unfit for active
+service, the board may for the good of the department order him or her to be retired
+from active service on a pension as herein provided.
+(Ord. No. 772-97, § 1, 11-3-97)
+(a)
+Upon the death during the period beginning May 8, 1985, and ending June 30, 1992,
+of any retired member or active member who has completed at least twenty-five (25)
+years of service, the surviving spouse shall receive monthly benefits from the pension
+and relief fund equal to one-third (⅓) of the salary then or thereafter paid to active
+members of the department for services in the rank held by such retired member at
+the time of his or her retirement or rank held by the active member at the time of
+his or her death multiplied by a fraction, the numerator of which is the years of
+service of the police officer up to a maximum of thirty (30), and the denominator
+of which is twenty-five (25), and an allowance of fifty dollars ($50.00) per month
+for each dependent child of such retired or deceased active member under the age of
+nineteen (19) years. These benefits for the surviving spouse personally shall be terminated
+upon his or her death, and the allowance for any dependent child shall terminate when
+he or she reaches the age of nineteen (19) years. Should the retired or deceased active
+member leave no spouse surviving him or her but leave surviving a dependent child
+or dependent children under the age of nineteen (19) years or a spouse who shall thereafter
+die, then the surviving spouse's benefits herein provided plus the additional allowances
+for each dependent child under the age of nineteen (19) years shall be apportioned
+equally among the dependent children under the age of nineteen (19) years.
+(b)
+Upon the death of any retired member before May 8, 1985, the surviving spouse shall
+be entitled to receive monthly benefits from the pension and relief fund equal to
+one-third (⅓) of the salary then or thereafter paid to active members for services
+in the rank held by such retired member at the time of his or her retirement, and
+an allowance of fifty dollars ($50.00) per month for each dependent child of such
+retired member under the age of nineteen (19) years. These benefits for the surviving
+spouse personally shall be terminated upon his or her death, and said allowance for
+any such dependent child shall terminate when he or she shall reach the age of nineteen
+(19) years. Should the deceased retired member leave no spouse surviving him or her,
+but leave surviving a dependent child or dependent children under the age of nineteen
+(19) years, or a spouse who shall thereafter die, then the surviving spouse's benefits
+herein provided, plus the additional allowances for each dependent child under the
+age of nineteen (19) years shall be apportioned equally among the dependent children
+under the age of nineteen (19) years.
+(c)
+Upon the death, on or after July 1, 1993, of any retired member, the surviving spouse
+shall receive two-thirds (⅔) of the retired member's benefit under section 18-554 , including continued rank escalation. Each surviving spouse shall also be paid an
+allowance of fifty dollars ($50.00) per month for each dependent child of such deceased
+member under the age of nineteen (19) years. These benefits for the surviving spouse
+personally shall be terminated upon his or her death, and the allowance for any dependent
+child shall terminate when he or she reaches the age of nineteen (19) years. Should
+the retired member leave no spouse surviving him or her but leave surviving a dependent
+child or dependent children under the age of nineteen (19) years or a spouse who shall
+thereafter die, then the surviving spouse's benefits herein provided plus the additional
+allowances for each dependent child under the age of nineteen (19) years shall be
+apportioned equally among the dependent children under the age of nineteen (19) years.
+(d)
+Upon the death, on or after July 1, 1993, of an active member who has completed at
+least twenty-five (25) years of service, the surviving spouse shall receive two-thirds
+of the benefit to which the member would have been entitled under section 18-554 if he or she had retired as of the date of death, including continued rank escalation.
+Each surviving spouse shall also be paid an allowance of fifty dollars ($50.00) per
+month for each dependent child of such deceased member under the age of nineteen (19)
+years. These benefits for the surviving spouse personally shall be terminated upon
+his or her death, and the allowance for any dependent child shall terminate when he
+or she reaches the age of nineteen (19) years. Should the deceased active member leave
+no spouse surviving him or her but leave surviving a dependent child or dependent
+children under the age of nineteen (19) years or a spouse who shall thereafter die,
+then the surviving spouse's benefits herein provided plus the additional allowances
+for each dependent child under the age of nineteen (19) years shall be apportioned
+equally among the dependent children under the age of nineteen (19) years.
+(Ord. No. 772-97, § 1, 11-3-97; Ord. No. 537-00, § 2, 7-3-00)
+Nothing contained in this division shall allow a member to receive pension benefits
+in excess of those allowed by the Internal Revenue Code for qualified pension plans.
+Effective January 1, 1997, the family aggregation rules under Internal Revenue Code
+section 401(a)(17) no longer apply for purposes of the compensation limit of Internal
+Revenue Code section 401(a)(17). Effective December 12, 1994, notwithstanding any
+provision of this plan to the contrary, contributions, benefits and service credits
+with respect to qualified military service will be provided in accordance with Internal
+Revenue Code section 414(u)(4).
+(Ord. No. 772-97, § 1, 11-3-97; Ord. No. 1022-02, § 1, 12-9-02)
+Any distributee who is entitled to an eligible rollover distribution, as defined in
+section 402(c)(4) of the Internal Revenue Code, from the old hire pension fund on
+or after January 1, 1993, may elect to have the portion of such distribution that
+would otherwise be included in the gross income of distributee for federal income
+tax purposes transferred directly to an eligible retirement plan, as defined in section
+402(c)(8)(B) of the Internal Revenue Code, designated by the distributee, except that
+the amended definition of eligible retirement plan in Code section 402(c)(8)(B), as
+amended by the federal Economic Growth and Tax Relief Reconciliation Act of 2001,
+shall only apply to distributions that occur after December 31, 2001. For distributions
+made after December 31, 2001, a governmental 457(b) plan shall be an eligible retirement
+plan only if the governmental 457(b) plan agrees to separately account for amounts
+transferred into such plan from this plan, and the definition of eligible retirement
+plan shall also apply in the case of a distribution to a surviving spouse, or to a
+spouse or former spouse who is the alternate payee under a qualified domestic relation
+order, as defined in section 414(p) of the Internal Revenue Code.
+(Ord. No. 1112-02, § 1, 12-30-02)
+In this division, the term "member" shall mean an active employee in the classified
+service of the police department who was hired before April 8, 1978, and who has not
+elected to become covered under the provisions of the statewide plan pursuant to section
+31-31-701(2), C.R.S. The term "board" shall mean the police pension and relief board
+created by section 9.6.12 of the Charter.
+(Ord. No. 772-97, § 1, 11-3-97; Ord. No. 1025-02, § 14, 12-16-02)
+(a)
+Eligibility. To enter the Deferred Retirement Option Plan, a member must have completed at least
+twenty-five (25) years of active service and must be eligible to retire pursuant to section 18-554 .
+(b)
+Member's decision to enter DROP; member's decision regarding length of participation
+in the DROP. The decision to enter the deferred retirement option plan shall be each member's
+decision and responsibility. The decision regarding how long the member will participate
+in the DROP shall also be each member's decision and responsibility, provided no member
+shall be in the DROP more than five (5) years and no member may participate in the
+DROP more than once. However, members who filed an agreement prior to the extension
+of the plan to five (5) years and who have not separated from employment shall be
+allowed to file an agreement amending their date of termination to no later than the
+fifth anniversary of their participation in DROP.
+(c)
+Agreement with the board. To enter the DROP, a member must execute an irrevocable agreement with the board.
+The agreement shall require the member to terminate employment no later than the date
+declared by the member; the date shall be no later than the fifth anniversary of participation
+in the DROP. The agreement shall also acknowledge that no disbursement of the DROP
+funds shall occur absent the separation or death of the member.
+(d)
+Members who enter DROP are retired; pension payments. The members who enter the DROP shall continue to be active members of the police
+department for the duration of the period specified in their agreements with the board.
+Upon commencement of participation in the DROP, the retirement benefit described in section 18-554 , the rank escalator benefit described in section 18-556 , and the employee contribution described in section 18-551 shall be paid into the deferred retirement option plan account on behalf of the employee.
+In no case shall the employer contribution be used to fund the DROP. As is the case
+with the employee contributions made to the plan before a member participates in DROP,
+the employee contribution to the DROP account shall be deposited by the employer in
+lieu of contributions by employees in accordance with Internal Revenue Code section
+414(h)(2).
+(e)
+Interruptions in service. If a member's service with the department is interrupted for any reason, the date
+of his or her termination of employment shall remain the date set forth in his or
+her agreement.
+(f)
+Employee status while in DROP. Upon commencement of participation in DROP, the member shall continue to be considered
+to be an employee eligible to receive promotions, subject to department and civil
+service rules and regulations; the member shall receive all benefits and seniority
+just as any other active employee.
+(g)
+Retirement benefit established at time of entry into DROP. DROP participants shall have full voting rights on the retirement system. DROP participants
+shall earn no additional service credit or additional benefits, and the rank escalator
+benefit described in section 18-556 shall be established and calculated by utilizing the rank and grade held by a member
+at the time of the member's commencement of participation in DROP.
+(h)
+Investment of DROP funds. The DROP assets shall be held in trust for investment purposes as part of the member's
+self-directed investments fund. The FPPA shall be authorized to charge each account
+a reasonable fee approved by the FPPA for the administration of DROP. The FPPA is
+authorized to adopt rules and regulations governing DROP, so long as they are not
+in conflict with this division or the Charter. The FPPA shall not charge the city
+for any costs in connection with the DROP.
+(i)
+No charges on DROP account. The deferred retirement option plan account shall not be subject to any fees or charges
+of any kind for any purpose, except as provided in paragraph (h) above.
+(j)
+Termination of participation in DROP.
+(1)
+A member in the DROP who terminates employment or reaches the limit for participation
+as established by the irrevocable agreement with the board shall become a retiree.
+An active or inactive member, including a retiree, shall be entitled to elect, within
+thirty (30) days prior to retirement or anytime during retirement, one (1) of the
+following distribution methods by executing, in writing, a DROP distribution payment
+option selection form as prescribed by the board and the FPPA.
+(a)
+Deferral of any payment(s) from the account until a specified date. If a deferral
+of payment(s) is selected, the member shall select one (1) of the following distribution
+methods. However, all distributions must start no later than April 1 of the year in
+which the member attains the age of seventy and one-half (70½);
+(b)
+A lump sum distribution of the entire account balance;
+(c)
+Periodic monthly payments with a designated amount until the balance of the DROP account
+has been entirely distributed;
+(d)
+Periodic monthly payments for a designated period of years. FPPA will calculate the
+dollar amount of the member's periodic payment, so that the entire balance in the
+member's DROP account will have been distributed to the member by the end of the period
+selected by the member. This amount will be recalculated annually during April;
+(e)
+Initial minimum required distribution. FPPA will calculate the dollar amount of the
+member's periodic payment based on the member's current DROP account balance, and
+in accordance with subsection (j) of this section 18-566 ; or
+(f)
+Combination of a lump sum and periodic payments by designating an initial lump sum
+payment of a specified amount and a balance to be paid in a specified number of monthly
+payments of a specified dollar amount until the balance of the DROP account has been
+entirely distributed to the member.
+(2)
+Regardless of the form of payment the member chooses, the minimum distribution amount
+will be determined and made in accordance with Internal Revenue Code section 401(a)(9)
+and the regulations thereunder. The minimum distribution is recalculated by FPPA annually
+on the bases of the life expectancy of the member and the member's designated beneficiary,
+if applicable.
+(3)
+If the member dies during the period of the member's participation in the DROP and
+the member's designated beneficiary is the member's surviving spouse to whom the member
+was legally married at the time of the member's death, the member's designated beneficiary
+shall be entitled to select one (1) of the distribution methods set forth in subsection
+(j)(1) of section 18-566 , and subject to the other provisions of subsection (j) of subsection 18-566 . If no selection is made within thirty (30) days of the member's death, the lump
+sum payment method shall be utilized. Payment of DROP account proceeds shall be in
+addition to normal survivor benefits payable to survivors of retirees.
+(4)
+If a member or surviving spouse chooses a distribution method involving periodic payments,
+he or she may make a change in payment once a year during April; provided, that the
+benefit recipient shall contact the FPPA and the board in writing no later than March
+1 of the year in which he or she wishes to make the change.
+(5)
+If the member dies during the period of participation and the member's named beneficiary
+is someone other than the member's surviving spouse to whom the member was legally
+married at the time of the member's death, the named beneficiary shall receive a lump
+sum payment equal to the member's individual DROP account balance, including accrued
+earnings or losses. Payment of DROP account proceeds shall be in addition to normal
+survivor benefits payable to survivors of retirees.
+(6)
+If the member dies during the period of participation and the named beneficiary has
+not survived the member, the member's estate shall receive a lump sum payment equal
+to the member's individual DROP account balance plus accrued earnings or losses. Payment
+of DROP account proceeds shall be in addition to normal survivor benefits payable
+to survivors of retirees.
+(7)
+Except for assignments for child support purposes and writs of garnishment that are
+the result of a judgment taken for arrearages for child support or for child support
+debt, and for court-approved marital agreements complying with state law under section
+14-10-113(6), C.R.S., no portion of the account, before or after its order shall be
+held, seized, taken, subjected to, detained, or levied on by virtue of any attachment,
+execution, injunction, writ, interlocutory or other order or decree, or process or
+proceeding whatsoever issued out of or by any court of this state for the payment
+or satisfaction, in whole or in part, of any debt, damage, claim, demand, or judgment
+against the city, the member, or the beneficiary of the fund.
+(k)
+Internal Revenue Service approval required. Members may participate only after the police pension and relief board submits the
+original DROP plan to the IRS and the IRS approves.
+(l)
+Compliance with IRS requirements. The board shall take all necessary steps to insure that the DROP is administered
+in full compliance with all applicable IRS rules and regulations, and in compliance
+with all determinations issued specifically to this DROP plan.
+(m)
+Required Internal Revenue Service provisions.
+(1)
+The plan year is the calendar year.
+(2)
+The effective date of this amendment to the plan shall be on the date approved by
+the fire and police pension association. The plan was originally effective April 8,
+1978.
+(3)
+The benefits payable from this plan are subject to the applicable limitations on benefits
+imposed by the Internal Revenue Code section 415(b), which are incorporated herein
+by reference. Deposits to the DROP account are not considered contributions to a defined
+contribution plan subject to the limits of Internal Revenue Code section 415(c).
+(Ord. No. 772-97, § 1, 11-3-97; Ord. No. 506-98, §§ 2, 3, 7-20-98; Ord. No. 127-00,
+§ 1, 2-14-00; Ord. No. 382-00, § 1, 5-22-00; Ord. No. 550-02, § 1, 7-8-02; Ord. No.
+1019-02, § 1, 12-9-02; Ord. No. 1022-02, § 1, 12-9-02; Ord. No. 1112-02, § 1, 12-30-02;
+Ord. No. 396-10, § 1, 8-2-10)
+In this division, the term "member" shall mean an active employee in the classified
+service of the city's fire department, as defined in C.R.S., section 31-30.5-102(4),
+who was hired before April 8, 1978, and who has not elected to become covered under
+the provisions of the statewide plan pursuant to state statute C.R.S., section 31-31-701(2).
+The term also includes any former employee of the classified service of the fire department
+who is retired and who meets these same criteria.
+(Ord. No. 1112-01, § 2, 12-17-01)
+(a)
+As provided in C.R.S., section 31-30.5-604, any member who has served at least twenty-five
+(25) years of active duty and has attained the age of fifty (50) years shall be eligible
+to retire, and the member shall be retired within thirty (30) days after making application
+for retirement, except during periods of national emergency. Upon retirement, the
+member shall receive a monthly pension of fifty (50) percent of salary, which shall
+be increased under the terms and conditions of subsections 18-572 (b), 18-572 (c), and 18-573 . Any member of said fire department who is otherwise eligible for retirement shall
+be separated from said fire department upon reaching his or her sixty-fifth birthday.
+(b)
+The retirement benefit of subsection 18-572 (a) shall be increased by an additional 0.3333 percent for each full month of active
+service after the eligibility date is reached, provided each full month of service
+occurs after July 1, 1992. In no case shall the total benefit exceed seventy-four
+(74) percent of salary.
+(c)
+To the extent a member has worked more than twenty-five (25) years after reaching
+age fifty (50) during the period from February 1, 1986, but on or before July 1, 1992,
+then for those years the member shall be entitled to an additional two (2) percent
+per year for each full year of service worked after completion of twenty-five (25)
+years of active service and reaching age fifty (50). This two (2) percent per year
+amount is in addition to the retirement benefit of subsection 18-572 (a). The 74 percent maximum shall apply to these members; in no case shall the total
+benefit exceed 74 percent of salary.
+(d)
+Members, who retired or will retire as part of the City and County of Denver, Old
+Hire Fire Plan, whose status was active on October 2, 1998, and who were hired prior
+to age twenty-five (25), shall have the retirement benefit of subsection 18-572 (a) increased by an additional 0.3333 percent, for each full month of active service
+beyond the member's twenty-five (25) years of service excluding any years of service
+completed while in DROP. This calculation shall be made from July 25, 2002, or the
+member's retirement date, whichever is later. Further, the spouse of the aforementioned
+qualifying member, who becomes a surviving spouse on or after January 1, 2000, will
+have the surviving spouse's benefit recalculated in accordance with this section using
+two-thirds of the recalculated amount. There shall be no payments made in accordance
+with this section to any deceased members' or surviving spouses' estate or beneficiaries.
+The seventy-four-percent maximum shall apply to these members; in no case shall the
+total benefit exceed seventy-four (74) percent of salary. Any disputes arising from
+this section shall be adjudicated according to the rules promulgated by the board
+in accordance with C.R.S. § 31-30.5-204.
+(Ord. No. 1112-01, § 2, 12-17-01; Ord. No. 394-10, § 1, 8-2-10)
+The rank escalation benefit shall be based upon the percentage of salary due at retirement.
+(Ord. No. 1112-01, § 2, 12-17-01)
+(a)
+Upon the death, on or after July 1, 1994, of an active fire fighter member of at least
+age fifty (50), who has completed at least twenty-five (25) years of service, and
+who was employed as a member on January 1, 2000 or who has a surviving spouse who
+has not remarried prior to January 1, 2000, the surviving spouse shall receive two-thirds
+(⅔) of the benefit to which the member would have been entitled to under the old hire
+fire fighters pension plan if he or she had been retired as of the date of the death,
+including continued rank escalation. Each surviving spouse shall also be paid an allowance
+of fifty dollars ($50.00) per month for each dependent child of such deceased member
+under the age of nineteen (19) years. These benefits for the surviving spouse personally
+shall be terminated upon his or her death, and the allowance for any dependent child
+shall terminate when the dependent child reaches the age of nineteen (19) years. Should
+the deceased active member leave no surviving spouse but leave surviving a dependent
+child or dependent children under the age of nineteen (19) years or a spouse who has
+not remarried prior to January 1, 2000, and the spouse shall thereafter die, then
+the surviving spouse's benefits herein provided plus the additional allowances for
+each dependent child under the age of nineteen (19) years shall be apportioned equally
+among the dependent children under the age of nineteen (19) years. The beneficiaries
+under this subsection 18-574(a) are not eligible for a benefit from the death and
+disability fund.
+(b)
+If the active member, surviving spouse, or dependents do not meet the requirements
+of subsection (a) of this section 18-574 , then upon the death, on or after July 1, 1994, of an active member at least age
+fifty (50) who has completed at least twenty-five (25) years of service, the surviving
+spouse shall receive two-thirds (⅔) of the benefit to which the member would have
+been entitled to under sections 18-572 (a) and (c), and 18-573 of this article if he or she had been retired as of the date of the death, including
+continued rank escalation. Each surviving spouse shall also be paid an allowance of
+fifty dollars ($50.00) per month for each dependent child of such deceased member
+under the age of nineteen (19) years. These benefits for the surviving spouse personally
+shall be terminated upon his or her upon remarriage prior to January 1, 2000, or upon
+his or her death, and the allowance for any dependent child shall terminate when he
+or she reached the age of nineteen (19) years. Should the deceased active member leave
+no spouse surviving him or her but leave surviving a dependent child or dependent
+children under the age of nineteen (19) years or a spouse who shall thereafter die
+or remarry, then the surviving spouse's benefits herein provided plus the additional
+allowances for each dependent child under the age of nineteen (19) years shall be
+apportioned equally among the dependent children under the age of nineteen (19) years.
+The beneficiaries under this subsection 18-574(b) are not eligible for a benefit from
+the death and disability fund.
+(Ord. No. 1112-01, § 2, 12-17-01)
+Nothing contained in this division shall allow a member to receive pension benefits
+in excess of those allowed by the Internal Revenue Code for qualified pension plans.
+Effective January 1, 1997, the family aggregation rules under Internal Revenue Code
+section 401(a)(17) no longer apply for purposes of the compensation limit of Internal
+Revenue Code section 401(a)(17). Effective December 12, 1994, notwithstanding any
+provision of this plan to the contrary, contributions, benefits and service credits
+with respect to qualified military service will be provided in accordance with Internal
+Revenue Code section 414(u)(4).
+(Ord. No. 1112-01, § 2, 12-17-01; Ord. No. 1021-02, § 1, 12-9-02)
+Any distributee who is entitled to an eligible rollover distribution, as defined in
+section 402(c)(4) of the Internal Revenue Code, from the old hire pension fund on
+or after January 1, 1993, may elect to have the portion of such distribution that
+would otherwise be included in the gross income of distributee for federal income
+tax purposes transferred directly to an eligible retirement plan, as defined in section
+402(c)(8)(B) of the Internal Revenue Code, designated by the distributee, except that
+the amended definition of eligible retirement plan in Code section 402(c)(8)(B), as
+amended by the federal Economic Growth and Tax Relief Reconciliation Act of 2001,
+shall only apply to distributions that occur after December 31, 2001. For distributions
+made after December 31, 2001, a governmental 457(b) plan shall be an eligible retirement
+plan only if the governmental 457(b) plan agrees to separately account for amounts
+transferred into such plan from this plan, and the definition of eligible retirement
+plan shall also apply in the case of a distribution to a surviving spouse, or to a
+spouse or former spouse who is the alternate payee under a qualified domestic relation
+order, as defined in section 414(p) of the Internal Revenue Code.
+(Ord. No. 1113-02, § 1, 12-30-02)
+(a)
+Definitions. As used in this division:
+The term "member" shall mean an active employee in the classified service of the city's
+fire department, as defined in C.R.S., section 31-30.5-102(4), who was hired before
+April 8, 1978, and who has not elected to become covered under the provisions of the
+statewide plan pursuant to C.R.S., section 31-31-701(2).
+The term "board" shall mean the board of trustees created by C.R.S., section 31-30.5-202(3)(a).
+(b)
+Eligibility. The enter the deferred retirement option plan, a member must have completed at least
+twenty-five (25) years of active service, must have attained at least the age of fifty
+(50) years, and must be eligible to retire pursuant to C.R.S., section 31-30.5-604.
+(c)
+Member's decision to enter DROP; members decision regarding length of participation
+in the DROP. The decision to enter the deferred retirement option plan shall be each member's
+decision and responsibility. The decision regarding how long the member will participate
+in the DROP shall also be each member's decision and responsibility, provided no member
+shall be in the DROP more than five years and no member may participate in the DROP
+more than once. However, members who filed an agreement prior to the extension of
+the plan to five (5) years and who have not yet separated from employment shall be
+allowed to file an agreement amending their date of termination to no later than the
+fifth anniversary of their participation in DROP.
+(d)
+Agreement with board. To enter the DROP, a member must execute an irrevocable agreement with the board.
+The agreement shall require the member to terminate employment no later than the date
+declared by the member. The date shall be no later than the fifth anniversary of participation
+in DROP. The agreement shall also acknowledge that no disbursement of DROP funds shall
+occur absent the separation or death of the member.
+(e)
+Members who enter DROP are retired; pension payments. The members who enter the DROP shall continue to be active members of the Denver
+fire department for the duration of the period specified in their agreements with
+the board. Upon commencement of participation in the DROP, the retirement benefit,
+the rank escalator benefit, and the employee contribution shall be paid into the deferred
+retirement option plan account on behalf of the employee. In no case shall the employer
+contribution be used to fund the DROP. As is the case with the employee contributions
+made to the plan before a member participates in DROP, the employee contribution to
+the DROP account shall be deposited by the employer in lieu of contributions by employees
+in accordance with Internal Revenue Code section 414(h)(2).
+(f)
+Interruptions in service while in DROP. For interruptions in service while in DROP that occur on or after August 26, 1998,
+if a member's service with the department is interrupted for any reason, the date
+of his or her termination of employment shall remain the date set forth in his or
+her agreement. For interruptions in service while in DROP that occur before August
+26, 1998, if the member's participation in the DROP is interrupted by military service
+or job-related disability, upon reestablishment of membership, provided the member
+has not received any distribution from his DROP account, the member shall be immediately
+eligible for resumption of participation for the balance of the period specified in
+the irrevocable agreement. Other than the above-described types of interruptions,
+the period specified in the irrevocable agreement shall continue to run in all other
+cases for interruptions in service while in DROP that occur before August 26, 1998.
+(g)
+Employee status while in DROP. Upon commencement of participation in DROP, the member shall continue to be considered
+to be an employee eligible to receive promotions, subject to department and civil
+service rules and regulations; the member shall receive all benefits and seniority
+just as any other active employee.
+(h)
+Retirement benefit established at time of entry into DROP. DROP participants shall have full voting rights on the retirement system. DROP participants
+shall earn no additional service credit or additional benefits, and the rank escalator
+benefit shall be established and calculated by utilizing the rank and grade held by
+a member at the time of the member's commencement of participation in DROP.
+(i)
+Investment of DROP funds. The DROP assets shall be held in trust for investment purposes as part of the member's
+self-directed investments fund. The FPPA shall be authorized to charge each account
+a reasonable fee approved by the FPPA for the administration of DROP. The FPPA is
+authorized to adopt rules and regulations governing DROP, so long as they are not
+in conflict with this division or the Charter. The FPPA shall not charge the city
+for any costs in connection with the DROP.
+(j)
+No charges on DROP account. The deferred retirement option plan account shall not be subject to any fees or charges
+of any kind for any purpose, except as provided in subsection 18-581 (i).
+(k)
+Termination of participation in DROP.
+(1)
+A member of the DROP who terminates employment or reaches the limit for participation
+as established by the irrevocable agreement with the board shall become a retiree.
+For a member who becomes a retiree more than thirty (30) days before July 5, 2000,
+(the effective date of the expanded distribution options in subsections 18-581 (k)(1)(a) through 18-581 (k)(1)(f) below) the retiree shall receive, at the retiree's option, (1) a lump sum
+payment from the retiree's individual DROP account balance equal to its balance plus
+any accrued earnings or losses or (2) equal monthly installment payments from the
+retiree's individual DROP account balance over a period of no more than ten (10) years.
+At the end of the ten-year period, a final disbursement of remaining funds in the
+account shall be made. Beginning on July 5, 2000, an active or inactive member, including
+a retiree, shall be entitled to elect, within thirty (30) days prior to retirement
+or anytime during retirement, one (1) of the following distribution methods by executing,
+in writing, a DROP distribution payment option selection form as prescribed by the
+board and the FPPA.
+a.
+Deferral of any payment(s) from the account until a specified date. If a deferral
+of payment(s) is selected, the member shall elect one (1) of the following distribution
+methods. However, all distributions must start no later than April 1 of the year in
+which the member attains the age of seventy and one-half (70½);
+b.
+A lump sum distribution of the entire account balance;
+c.
+Periodic monthly payments for a designated amount until the balance of the DROP account
+has been entirely distributed;
+d.
+Periodic monthly payments for a designated period of years. FPPA will calculate the
+dollar amount of the member's periodic payment, so that the entire balance in the
+member's DROP account will have been distributed to the member by the end of the period
+selected by the member. This amount will be recalculated annually during April;
+e.
+Initial minimum required distribution. FPPA will calculate the dollar amount of the
+member's periodic payment based on the member's current DROP account balance, and
+in accordance with subsection 18-581 (k)(2), termination of participation in DROP section; or
+f.
+Combination of a lump sum and periodic payments by designating an initial lump sum
+payment of a specified amount and a balance to be paid in a specified number of monthly
+payments of a specified dollar amount until the balance of the DROP account has been
+entirely distributed to the member.
+(2)
+Regardless of the form of payment the member chooses, the minimum distribution amount
+will be determined and made in accordance with Internal Revenue Code section 401(a)(9)
+and the regulations thereunder. The minimum distribution is recalculated by FPPA annually
+on the bases of the life expectancy of the member and the member's designated beneficiary,
+if applicable.
+(3)
+If the member dies before July 5, 2000, the member dies during the period of the member's
+participation in the DROP, and the member's designated beneficiary is the member's
+surviving spouse to whom the member was legally married at the time of the member's
+death, then the member's designated beneficiary shall receive at the beneficiary's
+option, a lump sum payment from the member's individual DROP account balance plus
+any accrued earnings or loses, or equal monthly installment payments from the member's
+individual DROP account balance for a period of no more than ten (10) years. At the
+end of the ten-year period, a final disbursement of remaining funds in the account
+shall be made. If the member dies on or after July 5, 2000, the member dies during
+the period of the member's participation in the DROP, and the member's designated
+beneficiary is the member's surviving spouse to whom the member was legally married
+at the time of the member's death, then the member's designated beneficiary shall
+be entitled to select one (1) of the distribution methods set forth in subsection
+(k)(1) of this section 18-581 , subject to the provisions of this termination of participation in DROP section.
+If no selection is made by the beneficiary within thirty (30) days of the member's
+death, the lump sum payment method shall be utilized. Payment of DROP account proceeds
+shall be in addition to normal survivor benefits payable to survivors of retirees.
+(4)
+If a member or surviving spouse chooses and was qualified to choose a distribution
+method involving periodic payments under subsections (k)(1)c., (k)(1)d. or (k)(1)f.,
+he or she may make a change in payment once a year during April; provided, that the
+benefit recipient shall contact the FPPA and the board in writing no later than March
+1 of the year in which he or she wishes to make the change.
+(5)
+If the member dies during the period of participation and the member's named beneficiary
+is someone other than the member's surviving spouse to whom the member was legally
+married at the time of the member's death, then the named beneficiary shall receive
+a lump sum payment equal to the member's individual DROP account balance, including
+accrued earnings or losses. Payment of DROP account proceeds shall be in addition
+to normal survivor benefits payable to survivors of retirees.
+(6)
+If the member dies during the period of participation and the named beneficiary has
+not survived the member, the member's estate shall receive a lump sum payment equal
+to the member's individual DROP account balance plus accrued earnings or losses. Payment
+of DROP account proceeds shall be in addition to normal survivor benefits payable
+to survivors of retirees.
+(7)
+Except for assignments for child support purposes and writs of garnishment that are
+the result of a judgment taken for arrearages for child support or for child support
+debt, and except for court-approved martial agreements complying with state law under
+section 14-10-113(6), C.R.S., no portion of the account, before or after its order
+shall be held, seized, taken subjected to, detained, or levied on by virtue of any
+attachment, execution, injunction, writ, interlocutory or other order or decree, or
+process or proceeding whatsoever issued out of or by any court of this state for the
+payment or satisfaction, in whole or in part, of any debt, damage, claim, demand,
+or judgment against the city, member, or the beneficiary of the fund.
+(l)
+Compliance with IRS requirements. The board shall take all necessary steps to insure that the DROP is administered
+in full compliance with all applicable IRS rules and regulations, and in compliance
+with all determinations issued specifically to the old-hire fire fighter's DROP plan.
+(m)
+Required Internal Revenue Service provisions:
+(1)
+The plan year is the calendar year.
+(2)
+The benefits payable from this plan are subject to the applicable limitations on benefits
+imposed by the Internal Revenue Code section 415(b), which are incorporated herein
+by reference. Deposits to the DROP account are not considered contributions to a defined
+contribution plan subject to the limits of Internal Revenue Code section 415(c).
+(Ord. No. 1112-01, § 3, 12-17-01; Ord. No. 1020-02, § 1, 12-9-02; Ord. No. 1021-02,
+§ 2, 12-9-02; Ord. No. 1113-02, § 1, 12-30-02; Ord. No. 395-10, § 1, 8-2-10)
+Editor's note— Ord. No. 70-05, § 1, adopted Feb. 7, 2005, amended the Code with the addition of a
+new article XX, section 18-790. In order to avoid the duplication of article numbers,
+the provisions of said ordinance have been included herein as article XIX.5, section
+18-790, at the discretion of the editor. At the direction of the city, former article
+XIX.5 has been redesignated as new article XV.
+(a)
+The manager of finance is authorized to charge five dollars ($5.00) a month against
+the pay of an official or employee as a service fee to offset the costs of processing
+and complying with a writ of garnishment served on the manager of finance for collection
+against said official or employee.
+(b)
+The manager of finance is authorized to charge five dollars ($5.00) a month, or such
+other amount as authorized by state statute, against the pay of an official or employee
+as a service fee to offset the costs of processing and complying with a notice of
+income assignment for child support or maintenance served on the manager of finance
+for collection against said official or employee.
+(c)
+All fees collected shall be paid to the treasurer and credited to the general fund.
+(Ord. No. 70-05, § 1, 2-7-05; Ord. No. 775-07, § 30, 12-26-07)
+Editor's note— Ord. No. 564-20, § 1, adopted July 20, 2020, repealed art. XX, §§ 18-800—18-809 and
+enacted a new art. XX as set out herein. Former art. XX pertained to similar subject
+matter and derived from Ord. No. 513-09, § 1(18-600—18-609) adopted September 21,
+2009.
+The purposes of the special incentive program (SIP) are:
+(a)
+To reduce expenditures for personnel employed by the city;
+(b)
+To provide financial incentives from revenues available either for appropriation from
+the general fund or for expenditure from the various funds and accounts described
+in the fiscal code of the city in order to encourage employees eligible for a normal
+retirement benefit to separate from employment and to avoid or minimize forced layoffs
+that would otherwise be required;
+(c)
+To enable and encourage agency and department heads to achieve vacancy savings and
+control the level of expenditures for personnel while maintaining the proper level
+of performance of duties; and
+(d)
+To afford those employees who are eligible for normal retirement and willing to separate
+from service some financial assistance.
+(Ord. No. 564-20, § 1, 7-20-20)
+The following definitions are used in this article.
+(a)
+Administrator means the manager of finance of the city or such other officer or appointee designated
+by the manager.
+(b)
+Employee means an active member of the Denver Employees Retirement Plan as defined in subsection 18-402 (2) or subsection 18-402 (13) of the Code who is either a full-time employee in the career service of the city
+as set forth in Denver Charter section 9.1.1 or a full-time employee of the city whose salary or wage is paid directly or indirectly
+from the general funds of the city, excluding any employees of a contractual entity
+as defined in subsection 18-402 (8).
+(c)
+SIP-eligible rmployee means an employee who irrevocably agrees to separate from service and who is eligible
+for normal retirement, as currently defined in section 18-402 (20).
+(d)
+City means the City and County of Denver, a municipal corporation created by and operating
+by virtue of Article XX of the Constitution of the State of Colorado.
+(e)
+SIP means the special incentive program, the name by which this article XX of chapter 18 of the Code may be known and cited.
+(f)
+Normal retirement shall have the same meaning as currently defined in subsection 18-402 (20).
+(g)
+Participant shall mean a SIP-eligible employee who has met the requirements set forth in section 18-803 .
+(h)
+Separate from service means voluntary termination from employment but shall not include any person terminated
+for violation of career service rules.
+(i)
+Pension plan shall mean the Denver Employees Retirement Plan created under article XII of chapter 18 .
+(j)
+Final check shall mean the check issued after the employee's final payroll check that includes
+any payment due for unused paid time off (PTO) or paid sick and vacation leave in
+accordance with DRMC section 18-127 (b) and section 18-134 , respectively.
+(Ord. No. 564-20, § 1, 7-20-20)
+(a)
+Duties of the administrator. SIP shall be administered by the administrator in accordance with its terms and purposes.
+The administrator shall determine a SIP-eligible employee's eligibility for participation
+in the SIP and shall distribute the incentive payments described in subsection 18-804 (b) due to or to be paid on behalf of SIP participants.
+(b)
+Finality of decisions. The decisions made and the actions taken by the administrator in the administration
+of SIP shall be final.
+(c)
+Expenses. The administrator shall not invade the corpus of the trust created by section 18-403 in order to administer SIP.
+(Ord. No. 564-20, § 1, 7-20-20)
+In order to participate, an employee must:
+(a)
+Qualify as a SIP-eligible employee;
+(b)
+Apply in writing on a form provided by the administrator in accordance with the terms
+of the SIP no later than July 10, 2020;
+(c)
+Be an employee of the city on the date of application;
+(d)
+Voluntarily separate from service on or before August 31, 2020; and
+(e)
+Sign an agreement setting forth the terms and conditions for participation in the
+SIP.
+(Ord. No. 564-20, § 1, 7-20-20)
+(a)
+Source. The amount to be paid under SIP shall be from funds appropriated or allocated to
+the agency or department of the city in which the employee last served at the time
+of separation from service. Amounts paid to Denver Employees Retirement Plan employees
+shall be paid in accordance with subsection 18-403 (e).
+(b)
+Incentive payment. Each SIP participant shall receive an incentive payment comprised of the following:
+(1)
+The sum of five thousand dollars ($5,000.00) to be paid in two (2) equal installments.
+The first installment shall be included in the employee's final check, and the second
+installment shall be paid no later than January 22, 2021;
+(2)
+An amount equal to the participant's current weekly salary on the date of separation
+multiplied by the number of years of service on the date of separation, but not to
+exceed a maximum of forty thousand dollars ($40,000.00). One-third (⅓) of this amount
+shall be included in the employee's final check, and two-thirds (⅔) of this amount
+shall be paid no later than January 22, 2021. For the purposes of this paragraph,
+"years of service" shall not include any service purchased under the terms of the
+pension plan.
+a.
+For employees paid hourly, the current weekly salary shall be calculated as follows:
+the employee's regular annual salary on the date of separation divided by fifty-two
+(52) weeks.
+(c)
+Incentive payments excluded from calculation of retirement benefit. Incentive payments shall be excluded from the definition of compensation used in
+calculating an employee's retirement benefit under the pension plan.
+(d)
+Receipt of payment. Payments due under SIP are not intended to be actually or constructively received
+as defined under the Internal Revenue Code prior to the date of payment. The participant
+does not have ability or authority to draw upon or control the receipt of the payment.
+(e)
+Limits on participation. The SIP will be limited to forty percent (40%) of all eligible employees by fund,
+including forty percent (40%) by appropriation accounts within the general fund, on
+a first come, first served basis. The city reserves the right to limit the total number
+of participants in the SIP in order to preserve the viability of a department's basic
+programs and the integrity of its financial resources.
+(f)
+Contingencies. In the event of the participant's death prior to the payment of all incentive payments
+being paid, the remainder of such incentive payments shall be deemed the property
+of the city and shall not be paid to any beneficiary of the participant.
+(Ord. No. 564-20, § 1, 7-20-20)
+The city agrees to pay the incentive payments available under SIP from its funds as
+the same are available for annual appropriation or other budget allocation from year-to-year,
+subject only to appropriations required for preexisting obligations created by law
+or contract, including those set forth in the Charter and ordinances of the city.
+Although the city reserves the right to amend SIP for whatever reasons it may deem
+appropriate, incentive payments shall not be reduced by any such amendment; neither
+shall the rights of the participants to the receipt of incentive payments be diminished
+to the extent that annual appropriations have been made for the payment of incentive
+payments.
+(Ord. No. 564-20, § 1, 7-20-20)
+The city's SIP incentive obligations shall terminate under the following circumstances:
+(a)
+The final payment is paid to the participant; or
+(b)
+The death of the participant.
+(Ord. No. 564-20, § 1, 7-20-20)
+Nothing contained in the SIP shall be construed as a contract of employment or as
+a right to continue employment with the city, or as a limitation of the city to dismiss,
+demote, or discipline any of its employees in accordance with applicable personnel
+rules.
+(Ord. No. 564-20, § 1, 7-20-20)
+Participants receiving incentive payments from the SIP shall be restrained from selling,
+assigning, or otherwise alienating their incentive payments. The incentive payments
+from the SIP shall not at any time be subject to the claims of creditors or subject
+to payment or execution upon judgment for the liabilities or torts of said participants.
+The SIP incentive payments shall not be liable for or subject to attachment, garnishment,
+execution, qualified domestic relations order, other domestic relations orders, or
+other legal process. This provision is hereby found, determined and declared to be
+a matter strictly of local and municipal concern to the city.
+(Ord. No. 564-20, § 1, 7-20-20)
+Employees of the Denver Employees Retirement Plan shall be eligible to participate
+in the SIP if they meet eligibility requirements, including receipt of and restrictions
+on the benefit, however, the pension plan shall be the administrator for its employees
+and the pension plan shall be solely responsible for the funding and administration
+of SIP benefits for pension plan employees who are eligible and opt to participate
+in the SIP. The term "pension plan" or "the pension plan" shall be substituted for
+the term "city" or "the city" wherever that term is used above to describe the entity
+responsible for obligations created by the SIP.
+(Ord. No. 564-20, § 1, 7-20-20)
+The definitions set forth in Section 9.10.2 of the Charter shall apply equally to this Article IX. In addition, the following
+terms shall have the meanings respectively assigned to them:
+(1)
+Association means the American Arbitration Association.
+(2)
+City employee means bargaining-eligible employees excluding employees of the board of water commissioners.
+(3)
+Showing of interest petition means a petition concerning the selection or removal of a bargaining agent signed
+by members of a bargaining unit made up of city employees filed pursuant to Section 9.10.5 of the Charter. A showing of interest is a document, including a document the form
+of which satisfies the requirements of the Colorado Uniform Electronic Transactions
+Act, C.R.S. §24-71.3-101, et seq., indicating membership in or otherwise showing intent
+to be represented by such employee or labor organization.
+(4)
+New employee orientation means the onboarding process of a newly hired city employee, whether in person, online,
+or through other means or mediums, in which city employees are advised of their employment
+status, rights, benefits, duties, and responsibilities or any other employment-related
+matters.
+(5)
+Petitioner means an employee organization seeking to become the bargaining agent for a proposed
+bargaining unit made up of city employees.
+(6)
+Service means delivery by hand, mail, or transmission by email, unless otherwise agreed to
+by all parties to a proceeding or otherwise required by law.
+(7)
+Represented employee means a member of a bargaining unit with a certified bargaining agent.
+(8)
+Collective labor action means strike, work stoppage, work slowdown, or mass absenteeism as contemplated in Section 9.10.8 (A) of the Charter.
+(9)
+Collective labor action authority means the city council, the clerk and recorder, the auditor, or the library commission
+for their respective employees, and the mayor for all other city employees except
+employees of the Denver County Court and the presiding judge.
+The provisions of this Article shall only apply to collective bargaining for city
+employees.
+(Ord. No. 1556-25, § 3, 12-15-25)
+In accordance with Section 9.10.4 of the Charter, there shall be and is hereby created a permanent panel of arbitrators,
+who shall have the powers and duties provided in this article.
+(a)
+Appointment and removal. The panel shall consist of an odd number of no less than three (3) members, appointed
+by the city council acting by resolution. Members of the panel shall serve at the
+pleasure of council and may be removed before expiration of a term by council acting
+by resolution, unless the member has been selected to conduct a hearing pursuant to
+this article, in which case the member may only be removed after issuance of a final
+decision in the matter.
+(b)
+Terms. Members of the panel shall serve a term not to exceed six (6) years. Members may
+be reappointed to additional terms in the same manner as the original appointment.
+Upon expiration of a term, a member may continue to serve until a successor is appointed
+or until removed by council.
+(c)
+Vacancy. Any vacancy on the panel shall be filled in the same manner as original appointment,
+and any member so appointed shall serve the remainder of the term unless removed.
+(d)
+Designation of lead arbitrator. Upon appointment, the members of the panel shall select one of the members as a lead
+arbitrator, by majority vote, who shall have the powers and duties provided in this
+article. The lead arbitrator shall be elected every two (2) years and shall hold such
+position for that time or until expiration of the member's term or the member's removal
+by council.
+(e)
+Lead arbitrator powers and duties. The lead arbitrator shall assign matters to panel members and shall have authority
+to take all actions necessary for the expeditious resolution of matters arising for
+arbitration under this Article.
+(f)
+Assigned arbitrator powers and duties. An arbitrator assigned to a matter shall have the power to control proceedings required
+by this article including, but not limited to, setting a schedule for written for
+briefings, ruling upon motions and offers of proof, receiving and admitting evidence,
+managing hearings, and issuing decisions and orders. The assigned arbitrator is entitled
+to examine any witness and request the submission of additional evidence and arguments.
+Additionally, any person designated to serve as an arbitrator shall be subject to
+the standards of conduct set forth in the Colorado Code of Judicial Conduct and subject
+to disqualification for bias, prejudice, interest, or for any other reason for which
+a judge may be disqualified in a court of law.
+(Ord. No. 1556-25, § 3, 12-15-25)
+In accordance with Section 9.10.7 of the Charter, there shall be and is hereby created a permanent panel of mediators,
+who shall have the powers and duties provided in this article.
+(a)
+Appointment and removal. The panel shall consist of no less than three (3) members, appointed by the council
+acting by resolution. Members of the panel shall serve at the pleasure of council
+and may be removed by council acting by resolution, unless the member has been selected
+to conduct a mediation pursuant to this article, in which case the member may only
+be removed after mediation has concluded. Any arbitrator appointed pursuant to this
+article shall be presumed to be appointed to serve a mediator under this section.
+(b)
+Qualifications. In order to be eligible to be on the permanent panel of mediators, a person must
+be impartial and disinterested and must be qualified by experience and training as
+a neutral party in the field of labor relations. A person is ineligible to be on the
+permanent panel of mediators if they or a member of the immediate family, a business
+associate, or an employer including the city, has any substantial employment, contractual,
+or financial interest in that matter, as those terms are defined in the code of ethics
+pursuant to chapter 2 , article IV of the code.
+(c)
+Terms. Members of the panel shall serve a term not to exceed six (6) years and may be reappointed
+in the same manner as the original appointment. Upon expiration of the term, members
+of the panel may continue to serve until a successor is appointed or until removed
+by council.
+(d)
+Vacancy. Any vacancy on the panel shall be filled in the same manner as original appointment,
+and any member so appointed shall serve the remainder of the term unless removed.
+(Ord. No. 1556-25, § 3, 12-15-25)
+(a)
+Filing of petition. A petitioner shall file its petition via electronic or certified mail with the association,
+the corporate authority, the mayor, city council, and the lead arbitrator on forms
+designated by the lead arbitrator, which shall contain:
+(1)
+A description of the bargaining unit and the employees who share a community of interest
+as understood under the National Labor Relations Act, 29 U.S.C. §§ 151—169, as amended;
+(2)
+The name or names of the department, agency, board, commission, council or component
+of city government that employs the employees;
+(3)
+The approximate number of employees that would make up the bargaining unit;
+(4)
+The names of other employee organizations that represent, or have filed a petition
+to represent, any employees within the proposed bargaining unit;
+(5)
+The name of the employee organization submitting the petition along with contact information
+for the petitioner's designated representative(s); and
+(6)
+A statement of whether the petitioner is seeking the right to be a sole and exclusive
+representative by election or another method;
+(7)
+The assigned arbitrator shall decide any matter connected with the recognition of
+an employee organization as the bargaining agent of an employee or group employees
+in matters over which the association does not assume jurisdiction.
+(b)
+Decertification. A petition to decertify an existing bargaining agent must be filed during the month
+of November in the year a collective bargaining agreement will expire. If there is
+no collective bargaining agreement in effect, a petition to decertify an existing
+bargaining agent may be filed after the bargaining agent has been certified for at
+least one (1) year.
+(c)
+Filing of preliminary showing of interest. No later than three (3) calendar days after filing the petition, the petitioner shall
+file the names and signatures of employees within the proposed bargaining unit who
+have signed the petition, to demonstrate a preliminary showing of interest in forming
+a bargaining unit, with the association. Failure to comply with this subsection shall
+render the petition withdrawn.
+(d)
+Alphabetical employee list. No later than ten (10) calendar days after receipt of the petition, the corporate
+authority shall provide the petitioner and the association with an alphabetical list
+and the city-issued email addresses, home addresses, home phone numbers, cellular
+telephone numbers, and personal email addresses of the city employees that make up
+the proposed bargaining unit as outlined in the petition shall be provided unless
+an employee requests the information not be released pursuant to section 2-271 (b). The association shall certify the preliminary showing of interest by issuing
+written notice to the parties or issue a written notice of deficiency to the petitioner
+in accordance with section 18-855 .
+(e)
+Notice of filing. No later than ten (10) calendar days after the association provides notice to all
+parties that the preliminary showing of interest is verified, the association shall
+send a copy of the notice electronically to all city employees on the alphabetical
+employee list and send a copy of the notice to any other employee organization that
+represents, or has filed a petition to represent, one or more of the employees in
+the alphabetical employee list as of the date of petition receipt. The corporate authority
+shall post notice of the filing of the petition in all locations where official employer
+notices are typically posted for a minimum of ten (10) calendar days. The notice must
+include the date of filing of the petition, the name of the petitioning employee organization,
+a description of the bargaining unit, whether the petitioner seeks recognition without
+an election or seeks a representation election, and the name and email address of
+the petitioner's designated representative. The notice shall also describe the process
+by which a different employee organization may intervene and seek to become the bargaining
+agent.
+(f)
+Intervention. A different employee organization may seek to become the bargaining agent by filing
+a request for intervention to the association with copies to the lead arbitrator,
+designated representative(s) of the corporate authority, and designated representative
+of the petitioner. Any request to intervene must be filed within ten (10) calendar
+days of the notice to employees. A showing of interest of no less than thirty-three
+(33) percent of the bargaining-eligible employees must accompany the request sent
+to the association.
+(g)
+Challenge to appropriateness. The corporate authority or a different employee organization that represents, or
+has filed a petition to represent, one or more of the employees in the alphabetical
+employee list may file a challenge to the appropriateness of the bargaining unit via
+electronic or certified mail with the lead arbitrator, with notice to the petitioner
+and any interested parties. Any such challenge shall be filed no later than twenty-one
+(21) calendar days after the date of the notice of filing. Compliance with this subsection
+shall be a jurisdictional prerequisite to challenge the appropriateness of any proposed
+bargaining unit. A proposed bargaining unit shall be deemed appropriate if not challenged.
+(h)
+Hearing procedures. Upon receipt of the challenge to the appropriateness of the proposed bargaining unit,
+the lead arbitrator shall appoint a panel member to decide the matter. The assigned
+arbitrator shall schedule a date and time for a hearing or, if there are no genuine
+issues of material fact in the complaint, render a final decision based on written
+briefing by the parties. If the assigned arbitrator determines that a hearing on the
+challenge is necessary, the hearing shall be set no later than twenty-one (21) calendar
+days from the service date of the challenge. At the conclusion of the hearing or upon
+review of the written briefs, the assigned arbitrator shall issue a written final
+determination of the appropriate bargaining unit and determining which employees and
+classifications belong in the appropriate bargaining unit. The arbitrator and the
+parties shall make every effort to complete the unit determination process within
+forty-five (45) calendar days of the service date of the challenge. A qualified intervenor
+may participate in the unit determination proceedings. The decision of the arbitrator
+on the unit determination question is final and binding on all parties and shall not
+be subject to appeal or challenge in any other proceeding. One-half of the necessary
+fees and necessary expenses of arbitration (excluding all fees and expenses incurred
+by either party in the preparation or presentation of its case) shall be borne by
+the city and one-half shall be borne by the employee organization.
+Nothing herein shall preclude the parties from stipulating to an appropriate unit
+at any time. A representation election shall be held within thirty (30) calendar days
+of the determination of the appropriate unit, unless the association certifies in
+writing that they are unable to hold the election within thirty (30) calendar days.
+If the association sends such notice, the election shall be held as soon as practicable.
+(i)
+Clarification. A petition to clarify an established unit or amend the certification of an existing
+bargaining unit, including, but not limited to, petitions to add employees to an existing
+certification for which there is a recognized bargaining agent, may be filed at any
+time with the lead arbitrator by the corporate authority or bargaining agent. The
+petition must be served on the other party and describe the clarification or amendment
+sought and the reasons therefor. The lead arbitrator shall assign a panel member to
+decide the matter. The decision of the arbitrator shall be final and binding on all
+parties and not subject to appeal or challenge in any other proceeding. One-half of
+the necessary fees and necessary expenses of arbitration (excluding all fees and expenses
+incurred by either party in the preparation or presentation of its case) shall be
+borne by the city and one-half shall be equally apportioned to the petitioner and
+intervening parties.
+(Ord. No. 1556-25, § 3, 12-15-25)
+(a)
+If the association determines the petitioner or any intervening labor organization,
+other than an incumbent bargaining agent, lacks a sufficient showing of interest following
+the determination of the bargaining unit, the association shall provide notice to
+the organization which shall have seven (7) calendar days from the date of the notice
+to cure the deficiency. Any organization, other than the incumbent bargaining agent,
+that does not have a sufficient showing of interest in the sole determination of the
+association shall not appear on the ballot. If the petitioner does not have a sufficient
+showing of interest, the petition shall be dismissed without prejudice.
+(b)
+Qualification for ballot. Any employee organization who has submitted a petition to represent the same bargaining
+unit within ten (10) calendar days of the notice of filing date for the first petition,
+and who has received notice from the association that the showing of interest petition
+contains signatures from thirty-three (33) percent of the bargaining unit, shall be
+placed on the ballot, along with any incumbent bargaining agent for the bargaining
+unit. In an initial election, the choice of "no representation" shall appear on the
+ballot.
+(c)
+Notice of election. The association shall provide notice of a secret ballot election at least fourteen
+(14) calendar days before the election. Notice shall be provided electronically to
+all employees in the bargaining unit and shall contain the date of the election along
+with instructions for voting. An election may be conducted via in-person, mail, or
+electronic means.
+(d)
+Election procedures. The association, consistent with these rules and in their discretion, shall prepare
+suitable notices and ballots for any election held under these rules. The association
+shall convene the petitioner, the corporate authority, and any intervenor for the
+purposes of entering into an election agreement, which shall govern the conduct of
+an election.
+(1)
+For a representation election, the secret ballot shall contain the name of any eligible
+bargaining agent(s) seeking to be the exclusive representative, and a choice of "no
+representation" for employees who do not desire representation.
+(2)
+Notices and ballots for any election shall be in English and Spanish if any party
+or eligible voter credibly indicates, at or before the pre-election conference, that
+any voters need Spanish-language ballots. Any party or eligible voter may request
+ballots in any other language, and the association shall make efforts to so provide,
+if possible, in the time provided.
+(3)
+If the parties have an election agreement, the election shall be conducted pursuant
+to the procedures therein.
+(4)
+To the extent that the parties contest an individual employee's eligibility, the parties
+may agree that these employees can vote challenged ballots, so long as these employees
+do not comprise more than fifteen (15) percent of the proposed unit. If the number
+of contested employees comprises more than fifteen (15) percent of the proposed unit,
+an arbitrator must issue a decision and order concerning employee eligibility pursuant
+to the hearing procedures in section 18-854 .
+(e)
+Votes required. The employee organization that receives a majority of the votes cast at an election
+shall be recognized and certified as the bargaining agent for the bargaining unit.
+(f)
+Runoff election. If no employee organization receives a majority of the votes cast at an election
+or the choice of "no representation" does not receive the majority of the votes cast,
+the association shall hold a runoff election between the employee organizations receiving
+the highest number of votes and the second highest number of votes. The runoff election
+shall be held no later than thirty (30) calendar days after the initial election.
+(g)
+Notice of results. The association shall provide the tally of ballots to the corporate authority and
+all employee organizations on the election ballot.
+(h)
+Objections; procedure and basis.
+(1)
+Within seven (7) calendar days after the tally of ballots has been provided, any party
+may file objections to the conduct of the election or to conduct affecting the results
+of the election to the lead arbitrator who shall assign an arbitrator to decide the
+matter. This deadline shall not be tolled or reset by any challenge to the validity
+of particular ballots, even in a number that could impact the election result; rather,
+all objections arising from the election, including challenges to ballots, must be
+filed and decided simultaneously.
+(2)
+Objections must contain a short statement of the reasons therefor and must be accompanied
+by a written offer of proof identifying each witness the party would call to testify
+concerning the issue and summarizing the witness's testimony and attaching or, if
+not feasible to attach, describing all additional written or recorded evidence the
+party would submit in support.
+(3)
+Any conduct, whether by any party to the election or any third party, that may have
+interfered with the free choice of the voters is grounds to set aside an election.
+This may include, but is not limited to, violations of employee, employee organization,
+or bargaining agent rights described in the Charter or this article or the commission
+of unfair labor practices as defined in this article.
+(4)
+Upon receipt of written objections, the assigned arbitrator shall:
+a.
+Review the evidence described in the objection. If the arbitrator determines that
+the objection would not constitute grounds for setting aside the election if introduced
+at a hearing, the arbitrator shall issue a decision disposing of the objections, issuing
+any lesser remedies, and certifying the results of the election, including issuing
+a certification of representative where appropriate. If the arbitrator determines
+the objections may require the setting aside of an election, they shall schedule a
+hearing concerning the objections. This hearing shall convene not more than twenty-one
+(21) calendar days from the date of receipt of the objections.
+b.
+After the hearing, the arbitrator shall issue findings of fact and a decision on the
+objections and imposing any further remedies. A decision by the assigned arbitrator
+is final and not subject to review by the district court or challenge in any other
+proceeding.
+(5)
+One-half of the necessary fees and necessary expenses of arbitration (excluding all
+fees and expenses incurred by either party in the preparation or presentation of its
+case) shall be borne by the City and one-half shall be equally apportioned to the
+petitioner and intervening parties.
+(i)
+Certification. If no timely objections are filed or no objection is filed containing a challenge
+to a number of ballots sufficient to affect the result, and no runoff election is
+required to be held, the association will issue a certification of the results of
+the election, including certification of the representative where appropriate.
+(j)
+Alternative method of selection. The petitioner and the corporate authority may agree to an alternative method for
+determining majority support for recognition without an election. If an intervenor
+qualifies with thirty-three (33) percent showing of interest, a representation election
+must be held. In order to be recognized as the bargaining agent without an election,
+the petitioner and the corporate authority shall request the association determine
+whether the employee organization seeking recognition without an election has satisfied
+the requirement for majority support. If majority support is verified, the association
+shall order that the employee organization be recognized and certified as the bargaining
+agent for the appropriate unit.
+(Ord. No. 1556-25, § 3, 12-15-25)
+(a)
+The corporate authority shall honor the terms of a represented employee's authorization
+for payroll deductions of dues and other payments, if made in any form that satisfies
+the requirements of the "Uniform Electronic Transactions Act", C.R.S. Article 71.3
+of Title 24, including an electronic signature as defined in C.R.S. Section 24-71.3-102(8).
+The corporate authority shall process an authorization for payroll deduction of dues
+for a bargaining eligible employee only for the employee organization that is the
+bargaining agent where the employee is in a recognized bargaining unit. Where the
+employee is not a member of a recognized bargaining unit, the corporate authority
+shall process an authorization for any employee organization indicated by the employee.
+An authorization for a payroll deduction may be revoked by the employee within the
+pay period immediately after the anniversary of the authorization in any given year.
+(b)
+The corporate authority will promptly transmit an electronic roster of all employees
+using payroll deduction for dues or other payments, and all such dues or other payments,
+by check or electronic payment, to the bargaining agent or related entities no later
+than the last day of each month.
+(Ord. No. 1556-25, § 3, 12-15-25)
+(a)
+Request for bargaining. In order to begin the bargaining process for a contract governing city employees,
+either the corporate authority or the bargaining agent shall serve written notice
+of a request for bargaining on the other party not later than April 30 of the year
+prior to the contract period which will be the subject of bargaining or in accordance
+with the notice requirements, if any, contained in any applicable collective bargaining
+agreement. A collective bargaining agreement shall expire on December 31 but the terms
+of the collective bargaining agreement, other than no-strike and no-lockout provisions,
+shall remain in effect until replaced by a subsequent collective bargaining agreement.
+In the case of an initial collective bargaining agreement, a request to negotiate
+may be made at any time after a bargaining agent is recognized.
+(b)
+Commencement of bargaining. Unless otherwise agreed to by the corporate authority and the bargaining agent, bargaining
+shall be scheduled no later than thirty (30) calendar days after the request for bargaining
+is served. All bargaining must be scheduled to commence no later than October 1 of
+the year prior to the creation of a new agreement or expiration of the previous agreement.
+(c)
+Ground rules. The corporate authority and the bargaining agent shall meet prior to the start of
+bargaining to agree to ground rules governing the negotiations. These ground rules
+shall include the names of all members of each bargaining team, the dates and locations
+of bargaining sessions, and methods for exchanging proposals, along with any other
+appropriate agreements prior to the start of negotiations.
+(d)
+Release from duty of employee representatives. Employee representatives of the bargaining agent shall be released from duty without
+charge to pay or leave to engage in collective bargaining with the corporate authority
+and the number of employee representatives released from duty with pay shall be at
+least equal in number to the number of corporate authority bargaining team members,
+unless otherwise agreed to in the ground rules.
+(e)
+Good faith obligation to share information. The obligation in Section 9.10.6 (B) of the Charter to collectively bargain in good faith includes an obligation for
+the corporate authority to provide the following information upon request of the bargaining
+agent:
+(1)
+Information reasonably necessary to understand the terms and conditions of employment
+currently applicable to members of the bargaining unit;
+(2)
+Information reasonably necessary to interpret the existing collective bargaining agreement;
+and
+(3)
+Information reasonably necessary for full and proper discussion, understanding, and
+negotiation of subjects within the scope of collective bargaining or subject to a
+grievance under a collective bargaining agreement.
+This obligation does not require a party to provide information that is privileged,
+that may not be disclosed by law, that is unduly burdensome to provide, or that constitutes
+guidance, advice, counsel, or training on collective bargaining provided for managerial
+or executive employees of the corporate authority or for representatives of the bargaining
+agent. The duty of good faith also requires negotiation of a reasonable protective
+order where doing so may enable the provision of such information. For the purposes
+of this section, "unduly burdensome" means that the city does not have the requested
+information or compliance with the request would be prohibitively expensive in time,
+labor and resources to fulfill and that the city does not possess the resources to
+fulfill the request.
+(f)
+Disputes regarding bargaining subjects. In the event that the corporate authority and bargaining agent cannot resolve a dispute
+regarding whether a subject of bargaining is subject to bargaining under Section 9.10.3 (A) of the Charter, either party may file a petition for resolution of the issue with
+the lead arbitrator who shall immediately assign a panel member to the dispute. The
+assigned arbitrator shall schedule a date and time for a hearing or, if there are
+no genuine issues of material fact in the complaint, order expeditious written briefing
+from the parties and render a final decision on the briefs. Any hearing shall be set
+no later than seven (7) calendar days from the service date of the petition. The assigned
+arbitrator shall issue a written final decision within seven (7) calendar days from
+receipt of the written briefs or, if a hearing is held, conclusion of the hearing.
+One-half of the necessary fees and necessary expenses of arbitration (excluding all
+fees and expenses incurred by either party in the preparation or presentation of its
+case) shall be borne by the city and one-half shall be borne by the bargaining agent.
+(g)
+Mediation. If the corporate authority and the bargaining agent are unable to reach an agreement,
+then, pursuant to Section 9.10.7 of the Charter, the lead arbitrator shall select and appoint a mediator from the
+panel of mediators. The assigned mediator shall set the time, place, and scope of
+mediation, may request materials from the parties to assist in resolution, and shall
+have the authority to determine that an impasse has been reached and release the parties
+from mediation. Mediation shall commence as soon as practicable. One-half of the necessary
+fees and necessary expenses of mediation (excluding all fees and expenses incurred
+by either party in the preparation or presentation of its case) shall be borne by
+the city and one-half shall be borne by the bargaining agent.
+(Ord. No. 1556-25, § 3, 12-15-25)
+Procedures for the notice of a planned collective labor action or lockout, and for
+submission to binding interest arbitration, shall be as set out in Section 9.10.8 of the Charter. In addition:
+(a)
+Election of binding interest arbitration. In the alternative to submitting a notice of intent to engage in a collective labor
+action after impasse, the bargaining agent may waive the right to engage in a collective
+labor action and elect to engage in binding interest arbitration, subject to the agreement
+of the collective labor action authority. Agreement to proceed to binding interest
+arbitration shall constitute a waiver of the right of the collective labor action
+authority to engage in a lockout. Upon agreement, the parties shall submit to binding
+interest arbitration.
+(b)
+Reinstatement. All employees who lawfully participate in a collective labor action shall neither
+be discharged nor have their duties reassigned to another employee past their return
+from participation in a collective labor action, and are entitled to immediate reinstatement
+upon conclusion of the collective labor action.
+(c)
+Suspension of wages. During a lawful collective action or lock out, the corporate authority may discontinue
+paying all wages and benefits to the employees involved, with the exception of medical
+insurance coverage, which will be continued for employees. Employees will be responsible
+for paying their portion of their medical insurance coverage, which the City shall
+deduct from their wages when they return to duty, or if they do not return, from their
+final paycheck. The city will make payments to maintain coverage during the action
+and the employee shall repay that contribution upon the end of the action.
+(Ord. No. 1556-25, § 3, 12-15-25)
+(a)
+Upon receipt of a determination of which employees are prohibited from engaging in
+a strike issued by the collective labor action authority pursuant to §9.10.8 (B) of the Charter, the bargaining agent must challenge the determination within thirty
+(30) days of receipt. The county court may overturn such determination only upon a
+finding of abuse of discretion.
+(Ord. No. 1556-25, § 3, 12-15-25)
+(a)
+In the event that the bargaining agent and the corporate authority are unable, within
+forty-five (45) days from the final date of mediation, to reach an agreement on a
+collective bargaining agreement, any and all unresolved issues may be submitted to
+binding arbitration. The obligation of the parties to bargain in good faith shall
+continue after submission of unresolved issues to binding arbitration. Any or all
+issues which are unresolved between the bargaining agent and the corporate authorities
+may be resolved by the parties until the sixteenth day following receipt of the decision
+of the arbitrator. Any agreements reached within fifteen (15) days following receipt
+of the decision of the arbitrator shall supersede the decision of the arbitrator.
+In the event the bargaining agent and the corporate authorities are able to reach
+agreement upon any or all issues prior to the receipt of the decision of the arbitrator,
+then the arbitrator shall make no decision on such issue or issues. One-half of the
+necessary fees and necessary expenses of arbitration (excluding all fees and expenses
+incurred by either party in the preparation or presentation of its case) shall be
+borne by the city and one-half shall be borne by the bargaining agent.
+(b)
+The arbitrator's decision shall be subject to court review only pursuant to the terms
+of this section. Any party desiring court review must file suit in district court
+no later than thirty (30) days after the date of the arbitrator's decision. Failure
+to file suit within this time frame shall waive the right to appeal the decision.
+A party may appeal to the district court only on the following grounds:
+(1)
+The award was procured by corruption, fraud or other similar wrongdoing;
+(2)
+The decision on any issue is arbitrary and capricious, to wit, there is no competent
+evidence in the record to support the decision;
+(3)
+The decision on any issue was reached without considering the factors listed in section 9.9.10 hereof; or
+(4)
+The award of the arbitrator on an issue was not the final offer of the corporate authorities
+or the final offer of the bargaining agent.
+(c)
+The court shall not conduct de novo review except to determine whether the award was
+procured by corruption, fraud or other similar wrongdoing. If the court determines:
+(1)
+That the award was procured by corruption, fraud or other similar wrongdoing, the
+entire award shall be vacated and the matter shall be remanded back to a different
+arbitrator selected pursuant to section 18-852 of the code. The arbitrator who issued the award determined to be procured in corruption,
+fraud, or similar wrongdoing shall no longer be deemed qualified to be on the permanent
+panel of arbitrators, shall cease to be a member of the panel, and shall not be eligible
+for reappointment to the permanent panel.
+(2)
+That the arbitrator's decision on any issue is arbitrary and capricious, the court
+shall remand that issue to the arbitrator with instructions to conduct a new hearing
+on that issue if either the bargaining agent or the corporate authorities so desires
+and, with or without a new hearing, to issue a new decision on that issue which is
+based on some competent evidence in the record. If the court determines that the arbitrator's
+decision on any issue was reached without considering the factors listed in Section 9.10.8 (E) of the Charter, the court shall remand that issue to the arbitrator with instructions
+to conduct a new hearing on that issue if either the bargaining agent or the corporate
+authorities so desire and, with or without a new hearing, to issue a decision which
+considers the factors listed in Section 9.10.8 (E) of the Charter, as the arbitrator deems proper.
+(3)
+That the arbitrator's decision did not accept the final offer of either the corporate
+authorities or the bargaining agent on an issue, the court shall remand the issue
+to the arbitrator with instructions to accept the final offer of either the corporate
+authorities or the bargaining agent.
+(Ord. No. 1556-25, § 3, 12-15-25)
+(a)
+A corporate authority and anyone acting on its behalf shall not:
+(1)
+Retaliate against any employee or other person for forming, joining, supporting, participating
+in, or being a member or representative of an employee organization; for participating
+or providing information in an election, collective bargaining, mediation, arbitration,
+or any other proceeding arising from Article IX, Part 10 of the Charter or this Article;
+for expressing views regarding employee representation, collective bargaining, workplace
+issues, or the rights granted to employees in Article IX, Part 10 of the Charter or
+in this article; for authorizing payroll deductions for employee organization dues
+or other voluntary contributions; or for associating with anyone engaged in such activities,
+by taking any action that might deter a reasonable employee from engaging in such
+activities in the future;
+(2)
+Deter or discourage employees or applicants from engaging in any of the foregoing
+activities, except that the corporate authority may respond to questions from an employee
+related to her employment as long as the response is neutral toward participation
+in and selection of an employee organization;
+(3)
+Use any public resource or official position to support or oppose an employee organization,
+except for the provision of training or orientation information that is neutral toward
+participation in and selection of an employee organization and provided that actions
+necessary to comply with Article IX, Part 10 of the Charter; this Article, or a collective
+bargaining agreement are permitted. The expression of any personal view, argument,
+or opinion by an elected official shall not be considered a violation of this section
+unless the expression contains a threat of reprisal or promise of a benefit or is
+made under coercive conditions. Representatives of the corporate authority may correct
+the record with respect to any false or misleading statement made by any person, publicize
+the fact of a representation election, and encourage employees to exercise their right
+to vote in the election;
+(4)
+Dominate or interfere with the formation, existence, or administration of an employee
+organization;
+(5)
+Make materially untruthful, intimidating, or inflammatory statements, or engage in
+intimidating behavior, intended to influence an election;
+(6)
+Deny the rights accompanying certification as a bargaining agent pursuant to the Charter
+and this article;
+(7)
+Engage in collective bargaining regarding the subjects of bargaining with an organization
+or group of employees other than the bargaining agent certified to represent a unit
+to which the employees at issue belong;
+(8)
+Disclose the identities or private information of employees within the bargaining
+unit; other than to a bargaining agent, petitioner, or intervenor for a proposed or
+certified bargaining unit to which the employee belongs, as required by this article;
+and unless otherwise required by law;
+(9)
+Prohibit employees from communicating with one another and with employee organization
+representatives concerning organization, representation, workplace issues, the collective
+bargaining process, and the business and programs of certified employee organizations
+by means of e-mail systems, texts, other electronic communications, telephone, paper
+documents, and other means of communication subject to reasonable restrictions, provided
+that employee communications shall not be disruptive of work nor create substantial
+cost to the corporate authority;
+(10)
+Fail to permit an employee in a bargaining unit to be represented by the bargaining
+agent at any examination of the employee in connection with a workplace-related investigation
+if (a) the employee reasonably believes that the examination may result in an adverse
+employment action against the employee and (b) the employee requests representation;
+(11)
+Refuse to bargain collectively in good faith with a certified bargaining agent;
+(12)
+Refuse to comply with a binding arbitration award or another decision of an arbitrator
+made under this article absent a court order staying or overturning the decision;
+or
+(13)
+Otherwise fail to comply with the requirements of Article IX, Part 10 of the Charter
+or of this article in a manner that materially interferes with the processes described
+herein or with the ability of an employee or employee organization to participate
+in them.
+(b)
+An employee organization and anyone acting on its behalf shall not:
+(1)
+Restrain or coerce employees in the exercise of rights guaranteed in Article IX, Part
+10 of the Charter or in this article;
+(2)
+Make materially untruthful, intimidating, or inflammatory statements, or engage in
+intimidating behavior, intended to influence an election;
+(3)
+Refuse to bargain collectively in good faith when acting as a bargaining agent under
+this article;
+(4)
+Refuse to comply with a binding arbitration award or another decision of an arbitrator
+made under this article absent a court order staying or overturning the decision;
+(5)
+Willfully or deliberately fail to fairly represent a city employee who is in a bargaining
+unit exclusively represented by the employee organization in the negotiation or enforcement
+of the terms of a collective bargaining agreement;
+(6)
+Otherwise fail to comply with the requirements of Article IX, Part 10 of the Charter
+or of this article in a manner that materially interferes with the processes described
+herein or with the ability of an employee or employee organization to participate
+in them.
+(c)
+Unfair labor practice charge. A charge of unfair labor practices may be filed by the city or any employee organization
+impacted by the alleged practice. A charge shall be filed with the lead arbitrator
+and must be received by the lead arbitrator within six (6) months after the date on
+which the charging party knew or reasonably should have known of the alleged unfair
+labor practice. One-half of the necessary fees and necessary expenses of arbitration
+(excluding all fees and expenses incurred by either party in the preparation or presentation
+of its case) shall be borne by the city and one-half shall be borne by the employee
+organization.
+(1)
+The lead arbitrator shall assign an arbitrator to decide the matter, including ordering
+briefing if the complaint alleges facts that would constitute an unfair labor practice
+if proven, conducting a hearing on a complaint presenting disputes of fact, issuing
+a written decision, and ordering any appropriate remedial relief.
+(2)
+The arbitrator may dismiss the charge if the arbitrator determines that the allegations,
+if proved, would not constitute an unfair labor practice.
+(3)
+If the arbitrator determines that they do not have jurisdiction, that the charge has
+not been timely filed, that the charge fails to state an unfair labor practice, or
+for other appropriate reasons, the arbitrator may request the charging party to withdraw
+the charge. If the charging party does not withdraw the charge within a reasonable
+period of time, the arbitrator will dismiss the charge and provide the parties with
+a written statement of the reasons for not pursuing the charge.
+(4)
+A decision by the arbitrator is final and subject to review by the district court.
+(Ord. No. 1556-25, § 3, 12-15-25)
+(a)
+Violations of unfair labor practices.
+(1)
+Within one year after an alleged violation of section 18-861 (a)(1), (2), (8), (9), (10), or (13) or section 18-861 (b)(1), (5), or (6), an aggrieved individual may file a complaint with the auditor
+as specified in this section.
+(2)
+Upon receipt of an alleged violation, the auditor shall either:
+a.
+Investigate the alleged violations; or
+b.
+Authorize the aggrieved individual to proceed with an action in district court. The
+auditor must authorize any employee under the auditor's supervision to proceed with
+an action in district court without conducting an investigation.
+(3)
+If the auditor conducts an investigation of alleged violations, at the conclusion
+of the investigation, the auditor shall state in writing an investigatory determination
+of whether an unfair labor practice or unfair labor practices occurred, and shall
+either:
+a.
+Authorize the aggrieved individual to proceed with an action in district court; or
+b.
+If the investigatory determination is that an unfair labor practice or unfair labor
+practices occurred, bring the matter to an administrative hearing officer within the
+office of the auditor for a hearing.
+(4)
+Upon a hearing and a final determination by an administrative hearing officer finding
+that an unfair labor practice or unfair labor practices occurred, the hearing officer
+shall award the remedies identified in in this section. Determinations made by a hearing
+officer within the office of the auditor under this subsection are appealable to district
+court.
+(5)
+A person who receives authorization to proceed with an action in district court pursuant
+to any subsection of this section is considered to have exhausted administrative remedies.
+(b)
+Actions in court . An aggrieved individual may, within ninety (90) days after exhausting administrative
+remedies pursuant to this section, commence an action in district court for a violation
+of section 18-861 .
+(c)
+Relief authorized . The auditor or a court may order all affirmative relief that such entity determines
+to be appropriate, including the following, against a party who is found to have engaged
+in an unfair labor practice:
+(1)
+Reinstatement or rehiring of a worker;
+(2)
+Any lost pay resulting from the violation, including back pay for a reinstated or
+rehired worker and front pay for a worker who is not reinstated or rehired; and
+(3)
+Any other equitable relief the auditor or a court deems appropriate.
+(d)
+Compensatory damages . In addition to the relief available pursuant to this section, in a civil action
+brought by a plaintiff under this section against a defendant who is found to have
+engaged in an intentional discriminatory, adverse, or retaliatory employment practice,
+the plaintiff may recover compensatory damages as specified.
+(1)
+A plaintiff may recover compensatory damages against a defendant for other pecuniary
+losses, emotional pain and suffering, inconvenience, mental anguish, loss of enjoyment
+of life, and other nonpecuniary losses.
+(2)
+In determining the appropriate level of damages to award a plaintiff who has been
+the victim of an intentional discriminatory, adverse, or retaliatory employment practice,
+the court shall consider the size and assets of the defendant and the egregiousness
+of the discriminatory, adverse, or retaliatory employment practice.
+(3)
+Compensatory damages awarded pursuant to this section are in addition to, and do not
+include, front pay, back pay, interest on back pay, or any other type of relief awarded
+pursuant to subsection (c) of this section.
+(4)
+If a plaintiff in a civil action filed under this section seeks compensatory damages,
+any party to the civil action may demand a trial by jury.
+(5)
+The court shall award reasonable attorney fees to a plaintiff who prevails in an action
+brought pursuant to this section.
+(e)
+Rulemaking. The auditor may promulgate rules necessary to implement this section.
+(Ord. No. 1556-25, § 3, 12-15-25)
+(a)
+Meetings. The corporate authority shall make available on a reasonable basis and upon request
+meeting or conference rooms and provide access to areas unrestricted to the general
+public other than work areas to representatives of an employee organization to solicit
+support and membership and otherwise provide information to bargaining eligible employees
+provided that such solicitation does not disrupt the work of the bargaining eligible
+employees involved. In the event bargaining eligible employees subject to solicitation
+by the employee organization are represented by a bargaining agent, only the employee
+organization serving as the bargaining agent shall be afforded the access described
+in this section. The corporate authority shall not provide access to meetings or conference
+rooms in secured areas where doing so would cause a violation of local, state, or
+federal law.
+(b)
+New employee orientation. The city shall provide the exclusive representative notice at least ten (10) days
+in advance of a new employee orientation; except that a shorter notice may be provided
+when there is an urgent need, critical to the county's operations, that was not reasonably
+foreseeable.
+(Ord. No. 1556-25, § 3, 12-15-25)

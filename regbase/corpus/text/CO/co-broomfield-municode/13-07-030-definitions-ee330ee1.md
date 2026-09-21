@@ -1,0 +1,380 @@
+---
+source_id: co-broomfield-municode
+jurisdiction: Broomfield County, CO
+state: CO
+county: Broomfield
+agency: City and County of Broomfield Planning & Development Services
+title: 13-07-030 - Definitions.
+doc_type: code
+citation_root: TITLE 13 - PUBLIC SERVICES > Chapter 13-07 - Cross-Connection and Backflow Connection Control Program > 13-07-030 - Definitions.
+url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT13PUSE_CH13-07CRNNBACOCOPR_13-07-030DE"
+sha256: d628aa3a047494dd5289550d1f936537d25cbf1cab30f8679290d9ff46b95789
+fetched_at: "2026-09-17T15:47:08+00:00"
+---
+
+It is the intent of the city council to protect the city's water system from contamination
+or pollution by backflow from a customer's internal distribution system or private
+water system, and to provide for the maintenance of a continuing program of cross-connection
+control, which will systematically prevent the contamination of the city water system.
+This ordinance does not apply to residential services unless there are more than two
+dwelling units per service connection.
+(Ord. 1796 §1, 2005)
+(A)
+The city manager is hereby delegated the responsibility for implementing a Cross-Connection
+and Backflow Control Program in accordance with this chapter and for enforcement thereof.
+If a backflow prevention device is required at the city water service connection to
+the customer's premises for the protection of the city's water system, the city manager
+shall give notice in writing to the customer to install an approved backflow prevention
+device or devices at the customer's own expense.
+(B)
+No provision of this chapter exempts the customer from the cross-connection control
+provision for internal water distribution system as contained in the International
+Plumbing Code and the International Residential Code, which have been adopted by reference
+in chapter 15-05 of this code.
+(Ord. 1796 §1, 2005)
+For purposes of this chapter, unless the context clearly indicates otherwise, the
+following terms shall be defined as follows:
+(A)
+Auxiliary water supply means any water supply on or available to the premises other than the approved public
+potable water supply, including water from another purveyor's public potable water
+supply or any natural source such as a well, spring, or stream.
+(B)
+Backflow prevention device means a device or other means designed to prevent backflow or back-siphonage, as
+follows:
+(1)
+Air gap means the unobstructed vertical distance through the free atmosphere between the
+lowest opening from any pipe or faucet supplying water to a tank, plumbing fixture,
+or other device and the edge of the vessel from which water overflows, which shall
+be at least two times the diameter of the supply pipe, measured vertically above the
+top of the rim of the vessel, and in no case, less than one inch. When an air-gap
+is used at the service connection to prevent the contamination or pollution of the
+public potable water system, an emergency bypass shall be installed around the air-gap
+system and an approved reduced pressure principle device shall be installed in the
+bypass system.
+(2)
+Reduced pressure principle device means an assembly of two independently operating approved check valves with an automatically
+opening differential relief valve between the two check valves, tightly closing shut-off
+valve on either side of the check valves, plus properly located test cocks for the
+testing of the check and relief valves. The device shall operate to maintain the pressure
+in the zone between the two check valves at a level less than the pressure on the
+public water supply side of the device. At cessation of normal flow, the pressure
+between the two check valves shall be less than the pressure on the public water supply
+side of the device. In case of leakage of either of the check valves, the differential
+relief valve shall operate to maintain the reduced pressure in the zone between the
+check valves by discharging to the atmosphere. When the inlet pressure is two pounds
+per square inch or less, the relief valve shall open to the atmosphere.
+(3)
+Double check valve assembly means an assembly of two independently operating approved check valves tightly
+closing shut-off valves on each side of the check valve, plus properly located test
+cocks for the testing of each check valve.
+(C)
+Back pressure means backflow caused by a pump, elevated tank, boiler or other means that could
+create pressure within the system greater than the supply pressure.
+(D)
+Back siphonage means the flow of water or other liquids, mixtures, or substances into the distribution
+pipes of a potable water supply system, from any source other than its intended source,
+caused by the sudden reduction of pressure in the potable water supply system.
+(E)
+Certified Cross-Connection Control Technician means an individual that possesses a valid cross-connection control certification
+from the American Society of Sanitary Engineering (ASSE), the American Backflow Prevention
+Association (ABPA) or the Association of Boards of Certification (ABC). Cross-Connection
+Control Technicians certified prior to January 1, 2003, under the program administered
+by the Colorado Water and Wastewater Collection Systems Certification Council, Inc.,
+shall be considered compliant with the certification requirements through the scheduled
+expiration date of their certification except those individuals whose certification
+expired between January 1, 2003, and December 31, 2004, had until December 31, 2004,
+to obtain certification from one of the organizations listed above or their certification
+lapsed as of January 1, 2005.
+(F)
+Cross-connection means any physical connection or arrangement between two otherwise separate piping
+systems, one of which contains potable water and the other either water of unknown
+or questionable safety or steam, gas, or chemical, whereby there exists the possibility
+for flow from one system to the other, with the direction of flow determined by the
+pressure differential between the two systems.
+(G)
+Customer means user, owner, or occupant.
+(H)
+Industrial fluids system means any system containing a fluid or solution which may be chemically, biologically,
+or otherwise contaminated or polluted in a form or concentration such as would constitute
+a health hazard, pollution, or contaminated water; all types of process water and
+"used water" origination from the public potable water system which may have deteriorated
+in sanitary quality; chemicals in fluid form; plating acids and alkalis; circulated
+cooling water connected to an open cooling tower that is chemically or biologically
+treated or stabilized with toxic substances; contaminated waters, oils, gases, glycerin;
+paraffins; caustic and acid solution, and other liquid and gaseous fluids used for
+industrial, fire-fighting, or other purposes.
+(I)
+Spill-proof vacuum breaker means an assembly consisting of one check valve force-loaded closed and an air-inlet
+vent valve force-loaded open to atmosphere, positioned downstream of the check valve,
+and located between and including two tightly closing shutoff valves and test cock.
+(J)
+Utility Operations Division means the Utility Operations Division of the city's Public Works Department.
+(K)
+Vacuum breaker - atmospheric non-pressure type means a vacuum breaker designed so as to be subjected to static pressure or installed
+where it would be under pressure for not more than twelve hours in any 24-hour period.
+(L)
+Vacuum breaker - pressure type means a vacuum breaker designed so as to be subjected to static line pressure.
+(M)
+Water service connection means the terminal end of a service connection where the city loses jurisdiction
+and sanitary control over the water at its point of delivery to the customer's water
+system. If a meter is installed at the end of the service connection, then the service
+connection shall mean the downstream end of the meter. The term shall also include
+water service connection from a fire hydrant and all other temporary or emergency
+water service connections from the public potable water system.
+(N)
+Water supply system includes:
+(1)
+Utility system shall consist of the source facilities and the distribution system;
+and shall include all those facilities of the water system under the complete control
+of the utility, up to the point where the customer's system begins. The source shall
+include all components of the facilities utilized in the production, treatment, storage,
+and delivery of water to the distribution system;
+(2)
+Distribution system shall include the network of conduits used for the delivery of
+water from the source to the customer's system; and
+(3)
+Customer system shall include those parts of the facilities, beyond the termination
+of the utility distribution system, which are utilized in conveying utility-delivered
+domestic water to points of use.
+(Ord. 1796 §1, 2005)
+(A)
+The chief of a fire department in the city, or his or her designee, shall have the
+authority to review the plans submitted for fire protection systems, approve the system
+installed, inspect the system and enforce the fire systems section herein.
+(B)
+Whenever practicable, water systems for fighting fire derived from a supply that cannot
+be approved as potable shall be kept wholly separate from drinking water pipelines,
+and equipment. Where the domestic water system is used for both drinking and firefighting
+purposes, approved backflow prevention devices shall be installed to protect individual
+drinking water lines that are not used for firefighting purposes.
+(C)
+Fire protection systems are classified as low hazard, moderate hazard, or high hazard,
+as follows:
+(1)
+A low hazard system is a single nonpumped system serving a building with a maximum
+height of thirty feet or a dry system. Backflow prevention devices required for a
+low hazard system are single detector check meter, alarm check valve, or single soft
+seat check valve.
+(2)
+A moderate hazard system is any wet system without corrosion prohibition or freeze
+protection chemicals. This may include systems with pumper connections, in-line booster
+pumps, private hydrants, or looped system. Backflow prevention devices required for
+a moderate hazard system are approved double check valve assembly or approved detector
+double check valve assembly.
+(3)
+A high hazard system is any system where an auxiliary water supply is permanently
+connected to the fire system, corrosion, prohibition, or antifreeze chemicals are
+used or a foamite installation is used. The backflow prevention device required for
+a high hazard system is an approved reduced pressure principal backflow device.
+(D)
+It is hereby declared that it is the responsibility of the person causing the introduction
+of unapproved or unsafe water into the city's pipeline during an emergency to see
+that a procedure to notify and protect customers of this piping system during the
+emergency is developed and implemented and that special precautions be taken to disinfect
+thoroughly and flush out all pipelines which may become contaminated before they are
+again used to furnish drinking water.
+(Ord. 1796 §1, 2005)
+(A)
+So that the public water system will be protected, customer shall install a backflow
+prevention device approved by the city at or near the property line or immediately
+inside the structure being serviced; but, in all cases, before the first branch line
+leading off the service line appropriate to the degree of hazard, wherever any of
+the following conditions exist:
+(1)
+In the case of premises having an auxiliary water supply which is not or may not be
+of safe bacteriological or chemical quality and which is not acceptable as an additional
+source to the city manager;
+(2)
+In the case of premises in which any industrial fluids or any other objectionable
+substance is handled in such a fashion as to create an actual or potential hazard
+to the public water system. This will include the handling of process waters originating
+from the public water system which have been subject to deterioration in quality;
+(3)
+In the case of premises having internal cross-connection that cannot be permanently
+corrected and controlled, or that have intricate plumbing and piping arrangements,
+or where entry to all portions of the premises is not readily accessible for inspection
+purposes making it impracticable or impossible to ascertain whether or not dangerous
+cross-connections exist; or
+(4)
+As otherwise required by the International Plumbing Code.
+(B)
+Facilities or premises required to have an approved cross-connection control device
+include the following:
+(1)
+Hospitals, clinics, medical, and dental laboratories;
+(2)
+Mortuaries;
+(3)
+Manufacturing and industrial facilities;
+(4)
+All buildings greater than 40 feet high;
+(5)
+All premises, public and private, which have irrigation systems separate from the
+potable system, including but not limited to cemeteries, churches, estates, golf courses,
+parks, playgrounds, schools, and ranches;
+(6)
+All facilities, areas, or locations that have pipe configurations in which piping
+containing potable water is physically joined to a piping system which contains any
+substance other than potable water; and
+(7)
+All facilities, areas or locations that have pipe arrangements in which piping containing
+potable water may be contaminated by any substance which may be forced, back-siphoned,
+or otherwise diverted into the potable water system.
+(C)
+The customer of any building, facility, or premises not referenced in the foregoing
+list may be required by the city manager to install a backflow prevention device as
+provided in this section. The compliance period and backflow device required will
+be determined by the city manager.
+(D)
+Backflow prevention devices are to be installed in an accessible location to facilitate
+inspection, testing, and maintenance. Adequate drainage area for the device must be
+provided for in the event water is released.
+(Ord. 1796 §1, 2005)
+(A)
+At least once per year, it will be the duty of the customer at any premises where
+any backflow prevention devices are installed to have certified tests made of these
+devices. In those specific instances where the city manager deems the hazard great
+enough, he will require certified inspections at more frequent intervals. These tests
+shall be made at the expense of the customer and shall be performed by a certified
+cross-connection control technician.
+(B)
+As necessary, the device shall be repaired or replaced at the expense of the customer
+whenever the device(s) are found to be defective. Records of copies of same, of all
+such tests, repairs or replacement shall be kept with a copy sent to:
+The City and County of Broomfield Utility Operations Division 3001 W. 124th Avenue Broomfield, CO 80020
+(C)
+Existing devices shall be sealed by the technician performing the test at the completion
+of the test.
+(D)
+All testing gauges shall be checked for accuracy yearly, or more often, on the event
+of questionable readings.
+(E)
+The Utility Operations Division retains the right to test or otherwise check the installation
+and operation of any containment device.
+(F)
+The certified inspector will report on the form prescribed by the Utility Operations
+Division, the results of inspections, tests, and maintenance to the Utility Operations
+Division and the water owner. This report will be submitted to the Utility Operations
+Division within ten days following the completion of the inspection, test, or maintenance
+of the device. The certified inspector shall also, on the form prescribed by the city,
+attach a card to the backflow prevention device following each inspection, test, or
+maintenance activity to document and date the activities performed. Records of all
+inspections, tests, or maintenance activities, including materials and parts changed,
+shall be kept by the certified inspector, the property customer, and the city and
+Utility Operations Division for a period of not less than three years.
+(Ord. 1796 §1, 2005)
+(A)
+The city's water utility representative assigned to inspect premises relative to potential
+hazards shall carry proper credentials of his or her office, upon exhibit of which
+he or she shall have the right of entry during usual business hours to inspect any
+and all buildings and premises for cross-connection in the performance of his or her
+duties. If the city or its duly authorized representative is denied access for inspection,
+water service may be suspended by the city in accordance with the provisions of section 13-12-040 , B.M.C.
+(B)
+This right of entry shall be a condition of water service in order to provide assurance
+of the health, safety, and welfare of the people throughout the city's potable water
+distribution system. Where building security is required, the backflow device(s) should
+be located in an area not subject to security. Questions regarding the proper credentials
+should be directed to the Utility Operations Division.
+(Ord. 1796 §1, 2005)
+(A)
+Failure of the customer to cooperate in the installation, maintenance, testing, or
+inspection of backflow prevention devices required by these regulations shall be grounds
+for the discontinuance of water service to the premises or the requirement for an
+air-gap separation from the public water system.
+(B)
+Service of water to any premises may be discontinued by the city manager after written
+notification for any violations of this chapter, including, but not limited to, if
+unprotected cross-connection exists on the premises, or if any defect is found in
+an installed backflow prevention device which has been removed or bypassed. Service
+shall not be restored until such conditions or defects are corrected.
+(C)
+Discontinuance of service may be summary, immediate, and without written notice whenever,
+in the judgment of the city manager, such action is necessary to protect the purity
+of the public potable water supply or the safety of the water system.
+(D)
+Customers are referred to Section 25-1-114, C.R.S., which sets forth the penalties
+for criminal violations of the health laws, and to Section 25-1-114.1, C.R.S., which
+sets forth the available civil remedies for violations of such health laws. Copies
+are available for review at the Utility Operations Division, 3001 W. 124th Avenue,
+Broomfield, CO 80020.
+(E)
+In accordance with Section 25-1-114.1, C.R.S., any customer who is found to have willfully
+or negligently failed to comply with any provision of these regulations shall be assessed
+a penalty and charge of $1,000 for each offense plus interest as provided by statute.
+Each day on which a violation shall occur or continue shall be deemed a separate offense.
+In addition to the penalties provided herein, the city manager may recover reasonable
+actual damages incurred by the city by appropriate suit at law against the person
+or entity who is found to have violated any provision of these regulations. Such damage
+shall include, but not be limited to, actual damages incurred by the city and costs
+incurred by Publicly Owned Treatment Works for violation of its national Pollutant
+Discharge Elimination System permit where such permit violation is a direct result
+of a violation of these regulations.
+(F)
+In addition to any other penalties set forth herein, any person who shall violate
+any of the provisions of this chapter shall be subject to the penalties set forth
+in chapter 1-12 , B.M.C.
+(G)
+Any charges imposed by the city in accordance with the code relating to the cross-connection
+and backflow connection control program, together with the cost of collecting those
+charges, including court costs and attorney's fees, are a lien that is prior and superior
+to all other liens, claims, titles, and encumbrances, whether prior in time or not,
+except liens for general taxes, and remain a lien upon the real property served by
+the water connection from the date such charges and the cost of collecting them, if
+any, become due, until they are paid. Said lien shall be enforced in accordance with
+the provisions set forth in section 13-12-045 , B.M.C.
+(Ord. 1796 §1, 2005)
+(A)
+Customer shall test annually all existing backflow devices installed on customer's
+systems. Any failed devices, as evidenced on the test inspection report, shall be
+repaired by the customer within ten days.
+(B)
+The compliance period for new installations is set forth in subsection 13-07-090 (C) below. If a new device is found not to be tested, the customer has ten days from
+the date of issuance of the notice of noncompliance by the Utility Operations Division
+to have the device tested. All test reports shall be mailed to:
+The City and County of Broomfield Utility Operations Division 3001 W. 124th Avenue Broomfield, CO 80020
+(C)
+The compliance period for installation, inspection, and testing of a backflow prevention
+device, including air-gap (AG), double check valve assembly (DC), or reduced pressure
+principal device (RP), shall be as follows:
+(1)
+An existing facility shall comply within sixty days of the date of issuance of a notice
+of noncompliance issued by the Utility Operations Division.
+(2)
+An existing facility that is being altered to the extent that it requires a building
+permit shall comply at the time of final inspection by the Building Division.
+(3)
+A newly constructed facility shall comply prior to the issuance of the Certificate
+of Occupancy.
+(4)
+Any facility with a documented or suspected backflow incident shall comply within
+ten days from the date of backflow occurrence.
+(Ord. 1796 §1, 2005)
+(A)
+Any backflow prevention device required herein will be of a model and size approved
+by the city manager. The term approved backflow prevention device means a device that
+has been manufactured in full conformance with the standards established by the American
+Water Works Association entitled, "AWWA C506-78 Standards for Reduced Pressure Principal
+and Double Check Valve Backflow Prevention Devices," which is hereby adopted by reference
+in its present form as the city standard. The term approved backflow prevention device also means a device that has met completely the laboratory and field performance
+specifications of the Foundation for Cross-Connection Control and Hydraulic Research
+(FCC and HR) of the University of Southern California established by "Specifications
+of Backflow Prevention Devices - Section 10" of the current issue of the Colorado
+Department of Health Cross-Connection Manual, which is hereby adopted by reference
+as the city cross-connection manual and laboratory and field performance specifications.
+Final approval is evidenced by a certificate of approval issued by an approved testing
+laboratory certifying full compliance with said AWWA standards and FCC and HR specifications.
+In addition to the aforementioned standards and specifications, all backflow prevention
+devices will have a unique serial number attached to the device by the manufacturer.
+(B)
+Backflow prevention devices currently installed which are not approved shall be replaced
+by the customer with an approved device within three years of adoption of this chapter,
+unless the device fails an annual operational test. If the device fails any such test,
+the customer shall replace it with an approved device in accordance with this section.
+(C)
+Backflow prevention devices that may be subjected to back-pressure or back-siphonage
+that have been fully tested and have been granted a certificate of approval by said
+qualified laboratory and are listed on the laboratory's current list of approved devices,
+and newly installed devices which have been inspected and installed to the satisfaction
+of the city manager, are deemed to be in compliance with this chapter.
+(Ord. 1796 §1, 2005)

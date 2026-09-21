@@ -1,0 +1,445 @@
+---
+source_id: co-silt-municode
+jurisdiction: Silt, CO
+state: CO
+county: Garfield
+municipality: Silt
+agency: Town of Silt
+title: 17.74.060 - Hours of operation for adult entertainment businesses.
+doc_type: code
+citation_root: Title 17 - ZONING > Chapter 17.74 - ADULT ENTERTAINMENT BUSINESSES > 17.74.060 - Hours of operation for adult entertainment businesses.
+url: "https://library.municode.com/co/silt?nodeId=TIT17ZO_CH17.74ADENBU_17.74.060HOOPADENBU"
+sha256: 0610231407331cf59189ddf18ec9f3d7c5ee2d2b3d5e1c3332a423cbbf0c7b5a
+fetched_at: "2026-09-18T16:16:34+00:00"
+---
+
+It is the purpose and object of this chapter to establish reasonable and uniform regulations
+to prevent the concentration of adult entertainment businesses, as defined herein,
+and the consequent secondary effects created by the concentration of adult entertainment
+businesses within the Town of Silt, and to promote the health, safety, morals, and
+general welfare of the citizens of the town. It is neither the intention of the board
+nor the effect of the provisions of this chapter to limit or restrict the content
+of any communicative materials, including sexually oriented materials. Neither is
+it the intent of the board nor the effect of these provisions to limit any adult's
+access to sexually oriented materials nor to prevent any distributor or exhibitor
+of sexually oriented materials from distributing such materials to consenting adults.
+Neither is it the intent or effect of this section to condone or legitimize the distribution
+of obscene material.
+(Ord. 26-03 § 1 (part))
+Definitions relevant to this Chapter 17.74 et seq. are incorporated herein as follows:
+A.
+"Adult entertainment business" means adult arcade, adult bookstore, adult cabaret,
+adult motel, adult motion picture theater, adult novelty store, adult theater, adult
+video store, massage parlor, nude model studio, peep booth, or sexual encounter establishment,
+as defined herein. Each of these individual enterprises shall constitute a separate
+adult entertainment business even if operated in conjunction with another adult entertainment
+business at the same establishment.
+B.
+"Adult arcade" means any establishment to which the public is permitted or invited,
+for any form of consideration, wherein still or motion picture machines, projectors,
+or other image-producing devices are maintained to show images to five or fewer persons
+per machine at any one time, and where the images so displayed are distinguished or
+characterized by the depiction or description of "specified sexual activities" or
+"specified anatomical areas."
+C.
+"Adult bookstore" means an establishment having as a substantial and significant portion
+of its stock and trade, revenues, space, or advertising budget, resulting from the
+sale, rental, or viewing of one or more of the following: books, magazines, periodicals,
+or other printed matters that depict or describe "specified sexual activities" or
+"specified anatomical areas."
+D.
+"Adult cabaret" means a nightclub, bar, restaurant, or similar establishment, whether
+alcoholic beverages are served or not, that regularly features:
+1.
+Live performances that are characterized by the depiction of "specified sexual activities"
+or the exposure of "specified anatomical areas"; or
+2.
+Films, motion pictures, video cassettes, slides, or other photographic reproductions
+that are characterized by the depiction or description of "specified sexual activities"
+or "specified anatomical areas."
+E.
+"Adult motel" means a hotel, motel, or similar establishment that offers public accommodations
+for any form of consideration and provides patrons live performances characterized
+by the exposure of "specified anatomical areas," or with closed-circuit television
+transmissions, films, motion pictures, video cassettes, slides, or other photographic
+or electronic reproductions that are characterized by the depiction or description
+of "specified sexual activities" or "specified anatomical areas," or that offers a
+sleeping room for rent for a period of time less than ten hours.
+F.
+"Adult motion picture theater" means an establishment where films, motion pictures,
+video cassettes, slides, or similar photographic or electronic reproductions are regularly
+shown, and in which a substantial portion of the total presentation time is devoted
+to the showing of material that is characterized by an emphasis on the depiction or
+description of "specified sexual activities" or "specified anatomical areas."
+G.
+"Adult novelty store" means an establishment having as a substantial and significant
+portion of its stock and trade, revenues, space, or advertising budget, resulting
+from the sale of one or more of the following: instruments, devices, or paraphernalia
+that are designed for use in connection with "specified sexual activities."
+H.
+"Adult theater" means a theater, concert hall, auditorium, or similar establishment
+that, for any form of consideration, regularly features live performances that are
+characterized by the exposure of "specified anatomical areas" or by "specified sexual
+activities."
+I.
+"Adult video store" means an establishment having as a substantial and significant
+portion of its stock and trade, revenues, space, or advertising budget, resulting
+from the sale, rental, or viewing of one or more of the following: photographs, films,
+motion picture, video cassettes or video reproductions, slides, or other visual representations
+that depict or describe "specified sexual activities" or "specified anatomical areas."
+J.
+"Employee" means a person who works and/or performs in an adult entertainment business,
+regardless of whether said person is paid a salary, wage, or other compensation by
+the operator of said business.
+K.
+"Establishment" means, as used in this Chapter 17.74 , the "establishment" of an adult entertainment business shall mean and include any
+of the following:
+1.
+The opening or commencement of any such business as a new business;
+2.
+The conversion of an existing business, whether or not an adult entertainment business,
+to any of the adult entertainment businesses defined herein; or
+3.
+The relocation of any such business.
+L.
+"Foyer" means an architectural element of a building that consists of an entry hall
+or vestibule that is completely enclosed and contains one door to provide access to
+areas outside of the building and a separate door to provide access to areas inside
+of the building.
+M.
+"Manager" means an individual, other than an operator, who is employed by an adult
+entertainment business to act as a manager or supervisor of employees or is otherwise
+responsible for the operation of the business.
+N.
+"Massage parlor" means an establishment where, for any form of consideration, massage,
+alcohol rub, fomentation, electric or magnetic treatment, or similar treatment or
+manipulation of the human body is administered, unless such treatment or manipulation
+is administered by a medical practitioner, chiropractor, acupuncturist, physical therapist,
+licensed massage therapist, or similar professional person licensed by the state of
+Colorado.
+O.
+"Nude model studio" means any place where a person who appears in a state of nudity
+or displays "specified anatomical areas" is provided for money or any form of consideration
+to be observed, sketched, drawn, painted, sculpted, photographed, or similarity depicted
+by other persons.
+P.
+"Operator" means an owner, license holder, custodian, or other person in charge of
+any licensed adult entertainment business.
+Q.
+"Peep booth" means a room, semi-enclosure or other similar area located within a licensed
+premises wherein a person may view representations of "specified anatomical areas"
+or "specified sexual activities."
+R.
+"Person" means an individual, proprietorship, partnership, corporation, limited liability
+company, association, or other legal entity.
+S.
+"Public park" means a park, playground, swimming pool, reservoir, golf course or similar
+athletic field within the Town of Silt that is under the control, operation or management
+of the Town of Silt public works department.
+T.
+"Religious institution" means a building that is used primarily for religious worship
+and related religious activities.
+U.
+"School" means an institution of learning for minors, whether public or private, that
+offers instruction in those courses of study required by the Colorado Education Statutes
+or that is maintained pursuant to standards set by the Colorado Department of Education.
+This definition includes nursery schools, preschools, kindergartens, elementary schools,
+junior high schools, middle schools, senior high schools, or any special institution
+of learning under the jurisdiction of the Colorado Department of Education, but does
+not include a vocational or professional institution or an institution of higher education,
+including a community or junior college, college, or university.
+V.
+"Sexual encounter establishment" means an establishment, other than a hotel, motel
+or similar establishment offering public accommodations, that, for any form of consideration,
+provides a place where two or more persons may congregate or associate in connection
+with "specified sexual activities" or the exposure of "specified anatomical areas."
+This definition does not include an establishment where a medical practitioner, psychologist,
+psychiatrist or other professional practitioner licensed by the state of Colorado
+engages in sexual therapy.
+W.
+"Specified anatomical areas" means less than completely and opaquely covered human
+genitals, pubic hair, pubic region, buttocks, anus or female breasts below a point
+immediately above the top of the areolas, or human male genitals in a discernibly
+turgid state, whether or not completely or opaquely covered.
+X.
+"Specified criminal acts" means sexual crimes against children, sexual abuse, sexual
+assault, or crimes connected with another adult entertainment business including,
+but not limited to, distribution of obscenity, prostitution, or pandering.
+Y.
+"Specified sexual activities" means as used in Chapter 17.74 et seq., "specified sexual activities" shall mean and include any of the following:
+1.
+The fondling or other erotic touching of human genitals, pubic hair, pubic region,
+buttocks, anus, or female breasts;
+2.
+Sex acts, normal or perverted, actual or simulated, including intercourse, oral copulation,
+or sodomy;
+3.
+Masturbation, actual or simulated; or
+4.
+Excretory functions as part of or in connection with any of the activities set forth
+in subsections (Y)(1) through (Y)(3) of this section.
+Z.
+"Substantial enlargement," as used in Chapter 17.74 et seq., the "substantial enlargement" of an adult entertainment business shall mean
+an increase by fifty percent or more of the total square footage occupied by an adult
+entertainment business that exists upon the effective date of this section.
+AA.
+"Transfer of ownership or control" as used in Chapter 17.74 et seq., "transfer of ownership or control" of an adult entertainment business shall
+mean any of the following:
+1.
+The sale, lease or sublease of any such business;
+2.
+The transfer of securities in any such business that, by their transfer, constitute
+a controlling interest in such business, whether by sale, exchange, or any other means;
+or
+3.
+The establishment of a trust, gift, or similar legal device that transfers ownership
+or control of such business, except by transfer by bequest or other operation of law
+upon the death of the person owning or controlling such business.
+(Ord. 26-03 § 1 (part))
+A.
+No person shall cause or permit the establishment, substantial enlargement or transfer
+of ownership or control of an adult entertainment business within five hundred feet
+of a religious institution, existing dwelling, school, state-licensed day care facility,
+public library, or public park, or within one thousand feet of another adult entertainment
+business within the Town of Silt. Furthermore, no person shall cause or permit the
+establishment, substantial enlargement or transfer of ownership or control of an adult
+entertainment business within two hundred feet of any arterial or interstate highway.
+B.
+Measurement of Distance. The distance limitations in subsection A of this section
+shall be measured in a straight line, without regard to intervening structures, from
+the nearest structural wall of any adult entertainment business to the lot lines of
+any institutions set forth in subsection A of this section or to the nearest boundary
+of any arterial or interstate highway, which shall include any off-ramp or on-ramp
+to said arterial or interstate highway.
+C.
+No person shall cause or permit the establishment or maintenance of more than one
+adult entertainment business in the same building, structure or portion thereof, or
+the increase of floor area of any adult entertainment business in any building, structure
+or portion thereof containing another adult entertainment business.
+D.
+Exceptions. A person possessing ownership or control of an adult entertainment business
+shall be permitted to transfer such ownership or control if such business is not within
+five hundred feet of any religious institution, existing dwelling, school, state-licensed
+day care facility, public library, or public park and the only other adult entertainment
+business or businesses within one thousand feet of such business have been established
+tinder a variance from the requirements of this section, pursuant to the variance
+provisions set forth in Section 17.84.100 of this code. This exception shall not, however, apply to an adult entertainment
+business that has been established tinder such a variance.
+E.
+All doors for ingress and egress to an adult entertainment business, except for emergency
+exits, shall be located on the front of the adult entertainment business. For purposes
+of this subsection, the front of the adult entertainment business shall be the facade
+of the building that faces the front lot line of the lot or parcel on which the building
+is located. In the case of an adult entertainment business that has more than one
+front lot line, such business shall be oriented in such a way that the front of the
+business faces away from the nearest of any of the land uses set forth in subsection
+A of this section.
+F.
+For purposes of this section, to the extent that an adult entertainment business is
+located in only a portion of square footage space of an existing building structure
+and does not have a door that exits directly to the outdoors, but rather exits to
+an interior hallway, stairway or other such internal building structure, the front
+of the adult entertainment business shall be the wall of the business that faces the
+internal building structure abutting the main entrance or exit to such business.
+G.
+Every adult entertainment business shall have a foyer at every point of ingress or
+egress, except for emergency exits.
+H.
+No merchandise or pictures of the products or entertainment provided on the premises
+shall be displayed in or visible froth any area that can be viewed from the exterior
+of the building or premises.
+I.
+Window areas within two feet of the main public entrance shall not be covered or made
+opaque in any way. No signs may be placed in any window, except that a sign measuring
+no greater than one square foot may be placed on the main public entrance to state
+hours of operation and a sign complying with the requirements of Section 17.74.050 (A)(3).
+J.
+All exterior windows of an adult entertainment business not included in the designation
+set forth in subsection I of this section shall be opaque to such an extent that the
+interior, including any objects therein, shall be so obscure as to be unidentifiable.
+(Ord. 26-03 § 1 (part))
+A.
+Any adult entertainment business lawfully operating on the effective date of the ordinance
+codified in this chapter that is in violation of Section 17.74.030 will be permitted to continue for a period of six months from the effective date
+hereof.
+B.
+Upon application made by the owner of an adult entertainment business within four
+months of the effective date of this ordinance, and notwithstanding the provisions
+of subsection A of this section, the town administrator may, after a hearing to be
+held within thirty days of the application, grant an extension of time during which
+an adult entertainment business in violation of Section 17.74.030 will be permitted to continue upon a showing, by competent evidence, that the owner
+of the business has not had a reasonable time to recover the initial financial investment
+in the business. At the hearing, the town administrator shall hear such statements
+and consider such evidence as the town attorney, the owner, occupant, lessee, or other
+party in interest, or any other witness shall offer that is relevant to the issue
+of whether the owner of the business has had a reasonable time to recover the initial
+financial investment in the business. The town administrator shall make findings of
+fact, from the statements and evidence offered, as to whether the owner of the business
+has had a reasonable time to recover the initial financial investment in the business.
+If the town administrator grants an extension of time during which an adult entertainment
+business in violation of Section 17.74.030 will be permitted to continue, he or she shall issue an order to that effect that
+states exactly the period of the extension. A copy of the order shall be mailed to
+or served on the owner within thirty days of the hearing. No extension of time shall
+be for a period greater than that reasonably necessary for the owner of the business
+to recover his or her initial financial investment in the business. An adult entertainment
+business in violation of Section 17.74.030 may continue during such extended period unless the business is sooner terminated
+for any reason, or voluntarily discontinued for a period of thirty days or more. Such
+business shall not be enlarged, extended, or altered except that the business may
+be brought into compliance with Chapter 17.74 .
+C.
+An adult entertainment business that, at the time it received its adult entertainment
+business license, was in compliance with the location requirements of Section 17.74.030 does not violate that section if, when the adult entertainment business applies to
+renew its valid adult entertainment business license, a religious institution, existing
+dwelling, school, state-licensed day care facility, public library, or public park
+is now located within five hundred feet of the adult entertainment business. This
+provision applies only to the renewal of a valid adult entertainment business license
+that is submitted as a result of the previous adult entertainment business license
+at the same location expiring or being revoked.
+(Ord. 26-03 § 1 (part))
+All signage for adult entertainment businesses shall comply with the following sign
+requirements:
+A.
+All signs shall be flat wall signs.
+B.
+The amount of allowable sign area shall be one square foot of sign area per foot of
+lot frontage on a street.
+C.
+An adult entertainment business shall display a sign, clearly visible and legible
+at the entrance to the business, that gives notice of the adult nature of the adult
+entertainment business and of the fact that the premises is off limits to minors or
+those under the age of twenty-one years, as the case may be.
+D.
+No sign for an adult entertainment business shall contain flashing lights, words,
+lettering, photographs, silhouettes, drawings or pictorial representations that emphasize
+the specified anatomical areas or specified sexual activities.
+(Ord. 26-03 § 1 (part))
+Hours of Operation. It shall be unlawful for an adult entertainment business to be
+open for business or for any operator, manager, or employee to allow a patron upon
+the premises on any day of the week from two a.m. to seven a.m.
+(Ord. 26-03 § 1 (part))
+Any adult cabaret or adult theater shall have one or more separate areas designated
+as a stage in the diagram submitted as part of the application for the adult entertainment
+business license. Entertainers shall perform only upon a stage. The stage shall be
+fixed and immovable and located inside the building in which the adult use operates.
+No seating for the audience shall be permitted within three feet of the edge of the
+stage. No members of the audience shall be permitted upon the stage or within three
+feet of the edge of the stage.
+(Ord. 26-03 § 1 (part))
+A.
+No licensee, manager, operator, or employee mingling with the patrons of an adult
+entertainment business, or serving food or drinks, shall be in a state of nudity.
+It is a defense to any prosecution for a violation of this subsection that an employee
+of an adult entertainment business exposed any specified anatomical area only during
+the employee's bona fide use of a restroom or during the employee's bona fide use
+of a dressing room that is accessible only to employees.
+B.
+No licensee, manager, operator, or employee shall encourage or knowingly permit any
+person upon the premises to touch, caress, or fondle the genitals, pubic region, pubic
+hair, buttocks, anus, or breasts of any person.
+C.
+It shall be unlawful for an adult entertainment business or for the licensee, operator,
+manager, or employee of a licensee under Chapter 5.28 et seq., regardless of whether a license has been issued for said business under Chapter 5.28 et seq., to knowingly allow any patron upon the premises to engage in a specified
+sexual activity while on said premises. It shall also be unlawful for any licensee,
+operator, manager, or employee of an adult entertainment business, regardless of whether
+a license has been issued to said business under Chapter 5.28 et.seq., to engage in a specified sexual activity while on the premises of said adult
+entertainment business. This subsection shall not apply to those areas of an adult
+motel that are private rooms.
+(Ord. 26-03 § 1 (part))
+A.
+It shall be unlawful for any employee of an adult entertainment business to receive
+tips from patrons except as set forth in subsection B of this section.
+B.
+A licensee that desires to provide for tips from its patrons shall establish one or
+more boxes or other containers to receive tips. All tips for such employees shall
+be placed by the patron of the adult entertainment business into the tip box.
+C.
+An adult entertainment business that provides tip boxes for its patrons as provided
+in this section shall post one or more signs to be conspicuously visible to the patrons
+on the premises, in bold letters at least one inch high, to read as follows:
+"All tips are to be placed in the tip box and not handed directly to employees. Any
+physical contact between a patron and any employee is strictly prohibited."
+(Ord. 26-03 § 1 (part))
+A.
+It shall be unlawful for a licensee, manager, operator, or employee to violate, or
+knowingly to permit any patron to violate, any of the requirements of Chapter 17.74 et seq. or Chapter 5.28 et seq.
+B.
+Any adult entertainment business that engages in repeated or continuing violations
+of these regulations shall constitute a public nuisance. For purposes of these regulations,
+repeated violations shall mean three or more violations of any provision set forth
+herein within one year dating from the time of a new violation, and a continuing violation
+shall mean a violation of any prevision set forth herein lasting for three or more
+consecutive days.
+C.
+Notwithstanding any other remedies at law or equity, the town attorney may bring an
+action in the District Court for Garfield County for an injunction against the operation
+of an adult entertainment establishment in a manner that violates any of the provisions
+set forth herein.
+(Ord. 26-03 § 1 (part))
+The provisions of Chapter 17.74 et seq. regulating nude model studios do not apply to:
+A.
+A college, junior college, or university supported entirely or partly by taxation;
+B.
+A private college or university that maintains and operates educational programs in
+which credits are transferable to a college, junior college, or university supported
+entirely or partly by taxation; or
+3.
+A business located in a structure that has no sign visible from the exterior of the
+structure and no other advertising that indicates a nude person is available for viewing;
+and where, in order to participate in a class, a student must enroll at least three
+days in advance of the class; and where no more than one nude model is on the premises
+at any one time.
+(Ord. 26-03 § 1 (part))
+It shall be unlawful for a person who operates or causes to be operated an adult entertainment
+business with peep booths to violate the following requirements of this section:
+A.
+At least one employee must be on duty and situated at each manager's station at all
+times that any patron is present inside the premises. The interior of the premises
+shall be configured in such a manner that such employee shall be clearly visible from
+every area of the premises to which any patron is permitted access for any purpose,
+excluding restrooms. If the premises has two or more manager's stations designated,
+then the interior of the premises shall be configured in such a manner that there
+is an unobstructed view of the employee from at least one of the manager's stations
+from each area of the premises to which any patron is permitted access for any purpose.
+The view required in this subsection must be by direct line of sight from the manager's
+station. The view area shall remain unobstructed by any opaque coverings, two-way
+mirrors, doors, walls, merchandise, display racks, or other materials at all times,
+and no patron shall be permitted access to any area of the premises that has been
+designated as an area in which patrons will not be permitted in the application filed
+pursuant to Section 5.28.050 .
+B.
+The interior of the premises shall be configured in such a manner that there is an
+unobstructed view from a manager's station of every area of the premises to which
+any patron is permitted access for any purpose, excluding restrooms. Restrooms may
+not contain video display equipment. If the premises has two or more manager's stations
+designated, then the interior of the premises shall be configured in such a manner
+that there is an unobstructed view of each area of the premises to which any patron
+is permitted access for any purpose from at least one of the manager's stations. The
+view required in this subjection must be by direct line of sight from the manager's
+station. The view area shall remain unobstructed by any opaque coverings, two-way
+mirrors, doors, walls, merchandise, display racks, or other materials at all times,
+and no patron shall be permitted access to any area of the premises that has been
+designated as an area in which patrons will not be permitted in the application filed
+pursuant to Section 5.28.050 .
+C.
+No peep booth may be occupied by more than one person at any one time.
+D.
+No door, two-way mirror, screen, opaque covering or other covering shall be placed
+or allowed to remain on any peep booth, and no holes or openings shall be placed or
+allowed to remain in the wall between any two adjacent peep booths.
+(Ord. 26-03 § 1 (part))
+A.
+Except for such employees as may be permitted by law, it shall be unlawful for any
+person under the age of twenty-one years to be upon the premises of an adult entertainment
+business that operates pursuant to a type A adult entertainment business license.
+It shall be unlawful for any person under the age of eighteen years to be upon the
+premises of an adult entertainment business that operates pursuant to a type B adult
+entertainment business license.
+B.
+It shall be unlawful for the licensee, operator, manager, or any employee of the licensee
+to allow anyone under the age of twenty-one years, except for such employees as may
+be permitted by law, to be upon the premises of an adult entertainment business operated
+pursuant to a type A adult entertainment business license. It shall be unlawful for
+the licensee, operator, manager, or any employee of the licensee to allow anyone under
+the age of eighteen years to be upon the premises of an adult entertainment business
+operated pursuant to a type B adult entertainment business license.
+(Ord. 26-03 § 1 (part))

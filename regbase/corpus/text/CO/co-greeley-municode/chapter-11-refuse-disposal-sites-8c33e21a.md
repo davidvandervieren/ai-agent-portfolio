@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 12 - PUBLIC HEALTH AND ENVIRONMENTAL CONTROL > CHAPTER 11. - REFUSE DISPOSAL SITES
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTIICOOR_TIT12PUHEENCO_CH11REDISI"
 sha256: a5d88fc6e7e4ec9853fcd60f6b6966df2cc9d03b5f355a5a9fe738bc0babb1eb
-fetched_at: "2026-09-17T04:51:55+00:00"
+fetched_at: "2026-09-21T06:32:34+00:00"
 ---
 
 The following words, terms and phrases, when used in this chapter, shall have the

@@ -1,0 +1,21 @@
+---
+source_id: co-silt-municode
+jurisdiction: Silt, CO
+state: CO
+county: Garfield
+municipality: Silt
+agency: Town of Silt
+title: 17.08.481 - Mobile food vendor/food truck.
+doc_type: code
+citation_root: Title 17 - ZONING > Chapter 17.08 - DEFINITIONS > 17.08.481 - Mobile food vendor/food truck.
+url: "https://library.municode.com/co/silt?nodeId=TIT17ZO_CH17.08DE_17.08.481MOFOVEFOTR"
+sha256: f25cfb2f27ce6c0b2502cdaf1f08dfa9e980656af7c28f2515e0707db58e3579
+fetched_at: "2026-09-18T16:09:35+00:00"
+---
+
+17.08.481 - Mobile food vendor/food truck.
+A licensed motorized vehicle or trailer equipped to prepare, cook, and serve food
+or beverages.
+(
+Ord. No. 10-25
+, § 1, 10-14-2025)

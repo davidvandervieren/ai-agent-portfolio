@@ -6,14 +6,12 @@ county: Weld
 agency: Weld County Planning Services / Board of County Commissioners
 title: PREFACE
 doc_type: code
-citation_root: Weld County Oil and Gas Regulations (Mineral Resource Area of State Interest)
+citation_root: PREFACE
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=COCOHORUCHCOWECO_PR"
-sha256: 52f6264c5e98ee46d55084ef1a40e46da7a4ceda1ed3d427ab3c3de36fedf268
-fetched_at: "2026-09-05T05:10:48+00:00"
+sha256: 2d7b0deaef03fef0338dba04f154eaa56ac616e48a9a6d34d78efe1727d97241
+fetched_at: "2026-09-17T13:26:25+00:00"
 ---
 
-<!-- heading-path: PREFACE -->
-## PREFACE
 The County of Weld, a Home Rule County incorporated in September 1861, has published
 its County Code in a format which features the following:
 The Table of Contents is the table containing each chapter and article title, with reference to page location.

@@ -1,0 +1,84 @@
+---
+source_id: co-broomfield-municode
+jurisdiction: Broomfield County, CO
+state: CO
+county: Broomfield
+agency: City and County of Broomfield Planning & Development Services
+title: 17-52-020 Notice; - contents.
+doc_type: code
+citation_root: TITLE 17 - ZONING > Chapter 17-52 - Public Notice Requirements > 17-52-020 Notice; - contents.
+url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-52PUNORE_17-52-020_NOTICECO"
+sha256: edb68fb5f28b7077be1fd26a83d61d93f75f9282a793d9db4a42664a09004480
+fetched_at: "2026-09-17T16:12:04+00:00"
+---
+
+Whenever, pursuant to this title 17 or pursuant to title 16 , B.M.C., a public hearing before the city council or the land use review commission
+is held, a neighborhood meeting is conducted or a concept review is conducted, public
+notice shall first be given as provided in this chapter. Failure to give full notice
+as required by the terms of this chapter due to a clerical or administrative oversight
+or omission shall not affect the validity of any hearing, meeting or decision. The
+provisions of this chapter shall not apply to amendments to title 16 or title 17 .
+(Ord. 516 §3, 1983; Ord. 769 §15, 1988; Ord. 1111 §47, 1995; Ord. 1935 §71, 2011; Ord. No. 2127 , § 5, 8-11-20)
+( Ord. No. 2138 , § 76, 4-6-21)
+At a minimum, every type of notice required by this chapter shall contain the following
+information:
+(A)
+The name of the body before which the hearing is to be held, if applicable;
+(B)
+The date, time, and place that the hearing, meeting or review will be held;
+(C)
+The legal description of the property with regard to which the hearing will be held
+or, in the case of public notice signs, the general description of the property location;
+and
+(D)
+The action or decision which is requested or proposed.
+(Ord. 516 §3, 1983; Ord. No. 2127 , § 6, 8-11-20)
+Notice shall be given by publication one time in a newspaper of general circulation
+in the city at least five days before the hearing.
+(Ord. 516 §3, 1983; Ord. 1070 §2, 1994)
+Notice shall be given by first-class mail to the record owners of the property with
+regard to which the action or decision is proposed or requested and to the record
+owners of property located within the distances noted in subsection (A) herein. The
+record owners must be determined as of not more than sixty days prior to the date
+notice is sent. The notices shall be sent within ten days of the city's receipt of
+a concept review application and no less than ten days before any hearing or neighborhood
+meeting is held concerning the property. The applicant shall obtain and submit to
+the city the names and addresses of the record owners of the property with regard
+to which the action or decision is proposed or requested and of property within the
+distances noted in subsection (A) herein.
+(A)
+Mailed notice shall be provided to the property owners within:
+(1)
+One thousand feet from the planned unit development plan, planned unit development
+plan amendment, site development plan, site development plan amendment, use by special
+review, concept review and final plat;
+(2)
+Two hundred feet of a requested variance.
+(3)
+Such additional distance deemed necessary by the city and county manager based on
+the proposed size, density, and intensity of the proposed development.
+(Ord. 516 §3, 1983)
+( Ord. No. 2127 , § 7, 8-11-20)
+Notice shall be given by posting on the property or on a public right-of-way abutting
+the property. Each sign shall be at least twenty-two inches by twenty-eight inches
+in size. Posting shall be in at least one location, but the city manager or the director
+of community development may require such additional posting as they deem desirable.
+Posting shall be complete at least ten days before the hearing or meeting. Posting
+shall be the responsibility of the applicant, who shall submit an affidavit of posting
+immediately after posting the notice. All notices posted pursuant to this chapter
+shall be removed by the applicant within forty-eight hours after the hearing or meeting.
+(Ord. 516 §3, 1983; Ord. 1805 §1, 2005)
+( Ord. No. 2127 , § 8, 8-11-20)
+In computing any period of time prescribed for the giving of notice, the day of the
+hearing shall not be included. The day of the publication, mailing, or posting shall
+be included. Saturdays, Sundays, and legal holidays shall be counted as any other
+day.
+(Ord. 516 §3, 1983)
+Fees for giving public notice as required by this chapter shall be $100.00 per application
+or proposal and shall be paid by the applicant for, or proponent of, the action being
+requested or proposed. These fees are in addition to any application fees, and shall
+be paid at the time the application is presented to the city.
+(Ord. 812 §1, 1989)
+A hearing, once commenced, may be continued to a date, time, and place certain by
+the body before whom it is being held without any additional public notice being required.
+(Ord. 516 §3, 1983)

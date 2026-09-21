@@ -1,0 +1,161 @@
+---
+source_id: co-lafayette-municode
+jurisdiction: Lafayette, CO
+state: CO
+county: Boulder
+municipality: Lafayette
+agency: City of Lafayette
+title: Sec. 110-232. - Bad debts.
+doc_type: code
+citation_root: Chapter 110 - TAXATION > ARTICLE VI. - STORAGE AND STORAGE SERVICE TAX > Sec. 110-232. - Bad debts.
+url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH110TA_ARTVISTSTSETA_S110-232BADE"
+sha256: c530b97bc47c92d98abc4d30bf1fd4f5dea028edefd2ec87a8eee3261a935760
+fetched_at: "2026-09-18T12:32:14+00:00"
+---
+
+Unless the context otherwise requires, the following words, terms and phrases, when
+used in this article, shall have the meanings ascribed to them in this section:
+City administrator shall mean the city administrator of the City of Lafayette, or his/her authorized
+designee.
+Finance director or city treasurer shall mean the finance director of the City of Lafayette, also known as the city
+treasurer, or his/her authorized designee.
+City shall mean the City of Lafayette, Colorado.
+District court shall mean the 20th Judicial District Court of Colorado.
+Person shall mean any individual, association, firm, partnership, joint venture, corporation,
+estate or trust, receiver, trustee, assignee, lessee or any person acting in a fiduciary
+or representative capacity, whether appointed by the court or otherwise, or any group
+or combination acting as a unit, by whatever name known, and includes the plural as
+well as the singular number.
+Storage services shall mean the providing, by any person, for consideration, under any concession,
+permit, right of access, license to use, other agreement, or otherwise, of the rental,
+use, possession, or the right to rent, use or possess any indoor or outdoor space
+for the purpose of storage or storing of tangible personal property.
+Storage or storing shall mean any possession, keeping, or retention of, or the exercise of dominion
+or control over, tangible personal property.
+Storage customer shall mean any person who, through a taxable storage transaction, acquires storage
+services from a storage provider.
+Storage price shall mean the gross price paid, exclusive of other taxes paid, or value given by
+the customer for the provision of storage services.
+Storage provider shall mean any person furnishing storage services or such provider's authorized agent.
+Storage tax shall mean an excise tax payable by the purchaser of storage services or the aggregate
+amount of taxes due from a storage provider during the period for which such person
+is required to report the collections of storage tax as herein specified.
+Storage transaction shall mean the providing of storage services.
+State shall mean the State of Colorado.
+Tangible personal property shall mean corporeal personal property.
+Taxpayer shall mean any person obligated to account to the finance director for taxes collected
+or to be collected under the terms of this article.
+(Ord. No. 2017-58, § 1, 12-5-17)
+There is levied and shall be paid and collected an excise tax of three and one-half
+(3½) percent on the price paid for the provision of storage services located in the
+city. This tax shall be in addition to the sales and use tax as established pursuant
+to chapter 110 of this Code. It shall be a violation of this Code for any storage customer of a
+storage provider located in the city to fail to pay, or for any storage provider to
+fail to collect, the tax levied pursuant to this section. The proceeds of this tax
+shall be used to fund programs of the city that promote and advance cultural arts,
+historic preservation and local history museums.
+(Ord. No. 2017-58, § 1, 12-5-17)
+The following storage transactions are exempt from taxation under this article:
+(a)
+All storage services provided to the United States Government; to the state, its departments
+or institutions and political subdivisions, in their governmental capacities only,
+including the city and any department thereof;
+(b)
+All storage services provided to religious and charitable organizations in the conduct
+of their regular religious or charitable functions and activities;
+(c)
+All storage services provided to persons that the city is prohibited from taxing under
+the Constitution or laws of the United States or the state;
+(Ord. No. 2017-58, § 1, 12-5-17)
+(a)
+Formulation and promulgation of rules and regulations. The administration of this article is hereby vested in the finance director, who
+shall prescribe forms and reasonable rules and regulations in conformity with this
+article for the making of returns, for the ascertainment, assessment and collection
+of taxes imposed hereunder and for the proper administration and enforcement hereof.
+(b)
+Application of provisions of division 1 of article III of chapter 110 to this article VI. The finance director is empowered to enforce this article. The provisions of division
+1 of article III of chapter 110 of this Code shall govern and apply to the administration, enforcement procedures,
+collection and refund procedures, confidentiality, deficiency, delinquencies, penalties,
+interest, assessments, liens, recovery, notice, and hearings under this article. To
+the extent that any provisions of this article VI conflict with the terms and provisions
+of division 1 of article III of chapter 110 of this Code, the provisions of this article VI shall prevail.
+(Ord. No. 2017-58, § 1, 12-5-17)
+It shall be unlawful for any person to engage in the business of providing storage
+services without first having obtained a Lafayette sales and use tax license pursuant
+to and subject to the provisions of division 2 of article III of this chapter 110 . Such license shall be granted, and issued by the finance director, and upon an application
+form provided by the finance director.
+(Ord. No. 2017-58, § 1, 12-5-17)
+Every storage provider shall be liable and responsible for the payment of an amount
+equal to three and one-half (3½) percent of all proceeds derived from the providing
+of storage services as established pursuant to section 110-221 , and shall, before the twentieth day of each month, make a return to the city finance
+director for the preceding calendar month, and remit an amount equivalent to three
+and one-half (3½) percent of such proceeds to said city finance director.
+(Ord. No. 2017-58, § 1, 12-5-17; Ord. No. 2024-20 , § 3, 10-1-24)
+The storage provider shall add the tax imposed to the storage price, showing such
+tax as a separate and distinct item and, when added, such tax shall constitute a part
+of such price and shall be a debt from the storage customer to the storage provider
+until paid and shall be recoverable at law in the same manner as other debts.
+(Ord. No. 2017-58, § 1, 12-5-17)
+The returns filed by the storage provider shall contain such information and be made
+in such manner upon any such forms as the city finance director may prescribe. The
+finance director may, upon request of the storage provider, extend the time for making
+returns and paying the taxes due under such reasonable rules and regulations as the
+finance director may prescribe, but no such extension shall be for a greater period
+than is provided in section 110-130 of this Code.
+(Ord. No. 2017-58, § 1, 12-5-17)
+The burden of proving any exemption from collection of the storage tax and paying
+the same to the city finance director or from making such returns shall be on the
+storage provider under such reasonable requirements of proof as the city finance director
+may prescribe.
+(Ord. No. 2017-58, § 1, 12-5-17)
+It shall be unlawful for any storage provider to advertise or hold out or state to
+the public or to any customer, directly or indirectly, that the tax or any part of
+the tax imposed by this chapter will be assumed or absorbed by the storage provider
+or that it will not be added to the storage price of the storage service provided
+or, if added, that it or any part will be refunded. Any person violating any provision
+of this chapter shall be subject to the penalties of this Code.
+(Ord. No. 2017-58, § 1, 12-5-17)
+If the accounting method regularly employed by the storage provider in the transaction
+of business, or other conditions are such that reports of storage transactions made
+on a calendar month basis will impose unnecessary hardship, the finance director may,
+upon request of the storage provider, accept reports at such intervals as will, in
+the finance director's opinion, better suit the convenience of the storage provider
+and will not jeopardize the collection of the tax.
+(Ord. No. 2017-58, § 1, 12-5-17)
+A storage provider doing business in two (2) or more places or locations taxable under
+this chapter may file one (1) return covering all such business activities.
+(Ord. No. 2017-58, § 1, 12-5-17)
+Storage taxes paid on the amounts of the storage price that are represented by accounts
+that are found to be worthless and are actually and properly charged off as bad debts
+for the purpose of the income tax imposed by the laws of the state may be credited
+upon a subsequent payment of the tax as provided in this chapter, but if any such
+accounts are thereafter collected by the storage provider, a tax shall be paid upon
+the amounts so collected.
+(Ord. No. 2017-58, § 1, 12-5-17)
+(a)
+No storage tax or interest thereon or penalties with respect thereto, shall be assessed,
+nor shall any notice of lien be filed, or distraint warrant issued, or suit for collection
+be instituted, nor any other action to collect the same be commenced more than three
+(3) years after the date on which the tax was or is payable; nor shall any lien continue
+after such period, except for taxes assessed before the expiration of such period,
+notice of lien with respect to which has been filed prior to the expiration of such
+period, in which case such liens shall continue only for one (1) year after the filing
+of notice thereof. In the case of a false or fraudulent return with intent to evade
+tax, the tax together with interest and penalties thereof, may be assessed, or proceedings
+for the collection of such taxes may begin at any time. Before the expiration of such
+period of limitation, the taxpayer and the city finance director may agree in writing
+to an extension thereof, and the period so agreed on may be extended by subsequent
+agreements in writing.
+(b)
+In the case of failure to file a return, the storage tax may be assessed and collected
+at any time.
+(Ord. No. 2017-58, § 1, 12-5-17)
+If any storage provider shall, during any reporting period under this article, collect
+as a tax an amount in excess of three and one-half (3½) percent of his/her total taxable
+storage transactions, the storage provider shall remit to the city the full net amount
+of the tax herein imposed and also such excess. The retention by the storage provider
+of any excess tax collections over three and one-half (3½) percent of the total taxable
+storage transactions of such storage provider, or the intentional failure to remit
+punctually to the city finance director the full amount required to be remitted by
+the provisions of this article, is hereby declared to be a violation of this article.
+(Ord. No. 2017-58, § 1, 12-5-17)

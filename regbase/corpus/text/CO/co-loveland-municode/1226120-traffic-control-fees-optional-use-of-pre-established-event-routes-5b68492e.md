@@ -1,0 +1,361 @@
+---
+source_id: co-loveland-municode
+jurisdiction: Loveland, CO
+state: CO
+county: Larimer
+municipality: Loveland
+agency: City of Loveland
+title: 12.26.120 - Traffic-control fees; optional use of pre-established event routes.
+doc_type: code
+citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 12 - STREETS, SIDEWALKS AND PUBLIC PLACES > CHAPTER 12.26. - LOCAL EVENTS > 12.26.120 - Traffic-control fees; optional use of pre-established event routes.
+url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT12STSIPUPL_CH12.26LOEV_12.26.120TRNTFEOPUSPTAEVRO"
+sha256: d4e53f1ceb7892c993b56a38a720b0a27a9934f7a5409f4d23312e835cb82286
+fetched_at: "2026-09-18T10:26:24+00:00"
+---
+
+This Chapter establishes the standards for the issuance of a permit for local events
+and demonstrations on any property that is owned, leased or controlled by the city.
+(Ord. 5569 § 2, 2011)
+As used in this chapter, the following words and terms shall be defined as follows,
+unless the context requires otherwise:
+Applicant means any person who or organization that seeks a permit from the city to conduct
+or sponsor an event governed by this Chapter. An applicant must be 18 years of age
+or older.
+Block party means a festive gathering on a residential street requiring the closure of a street
+or a portion thereof to vehicular traffic and use of the street for the festivity,
+including barbecues, picnics, music or games.
+Coordinator means the Chief of Police or his/her designee.
+Demonstration means a rally, picketing, speechmaking, marching, vigil, religious services or any
+other similar gathering or parade that primarily involves the communication or expression
+of views or grievances, engaged in by more than one person, that occurs on any property
+that is owned, leased or controlled by the city including, without limitation, streets,
+highway and sidewalks, and which demonstration does not comply with traffic laws and
+controls or which may, in the judgment of the Coordinator or the service area director
+responsible for the administration of any city affairs on the property, obstruct,
+delay or interfere with the normal activities, operations or flow of pedestrian or
+vehicular traffic on the property or which may create a significant risk of injury
+to the public or participants in the demonstration or other persons.
+Event means all demonstrations and local events for which permits have been applied for
+or given.
+Local event means a parade, athletic contest, street fair, art and craft show, carnival, block
+party, or other outdoor event which is not a demonstration as defined in this Section,
+that occurs on any property that is owned, leased or controlled by the city including,
+without limitation, streets, highway and sidewalks, and which event does not comply
+with traffic laws and controls or which may, in the judgment of the Coordinator or
+the service area director responsible for the administration of any city affairs on
+the property, obstruct, delay or interfere with the normal activities, operations
+or flow of pedestrian or vehicular traffic on the property or which may create a significant
+risk of injury to the public or participants in the event or other persons.
+Parade means a march or procession consisting of persons, animals or vehicles, or combination
+thereof, on any street or highway, including sidewalks, which obstructs, delays or
+interferes with the normal flow of pedestrian or vehicular traffic or does not comply
+with traffic laws or controls.
+Permit or event permit means a permit issued for either a demonstration or local event.
+Permittee means any person who or organization that has been issued an event permit by the
+Coordinator.
+Street or highway has the same meaning as defined in the Model Traffic Code, adopted by the City of
+Loveland pursuant to Code Chapter 10.04 , and includes bike and pedestrian lanes or paths.
+(Ord. 5569 § 3, 2011)
+Any person desiring to conduct an event in the city shall first obtain a permit from
+the Coordinator; provided, however, that an event permit shall not be required for
+the following:
+A.
+Events that occur exclusively within city natural areas or recreation areas, as the
+same are defined in this Chapter, and do not involve the closure of any streets or
+sidewalks that are normally open to the public. All events within city natural areas
+or recreation areas that do involve the closure of such streets or sidewalks shall
+be reviewed by the Coordinator and shall be subject to the permit requirements of
+this Chapter but only with regard to that portion of the event which occurs upon or
+affects the streets or sidewalks. Other activities conducted within the natural areas
+or recreation areas in conjunction with such events shall be governed by the City's
+Natural Areas Policies;
+B.
+Parades involving a total of 40 or fewer pedestrians marching along a route that is
+restricted to sidewalks and who cross streets only at pedestrian crosswalks in accordance
+with traffic regulations and controls; provided that pedestrians participating in
+such parades shall cross streets in groups of 15 people or less, and shall allow vehicles
+to pass between each group;
+C.
+Funeral processions; and
+D.
+All events that occur solely on privately owned property are not covered by this Chapter 12.26 , but remain subject to all other applicable Code provisions.
+A.
+Any person desiring to sponsor an event not exempted by § 12.26.030 shall apply for an event permit by filing a verified application with the Coordinator
+on a form supplied by the Coordinator. Applications must be submitted not less than
+20 business days nor more than one year before the event date.
+B.
+If the application is for a demonstration, the Coordinator shall, upon a showing of
+good cause, consider an application that is filed after the filing deadline if there
+is sufficient time to process and investigate the application and obtain police services
+for the event. Good cause may be demonstrated by the applicant by showing that the
+circumstance that gave rise to the application did not reasonably allow the applicant
+to file within the time prescribed.
+C.
+If the application is for a block party or other small local event, the Coordinator
+may consider an application that is filed after the filing deadline if there is sufficient
+time to process and investigate the application and obtain police services for the
+event.
+D.
+A nonrefundable permit application fee may be set by the City Council in accordance
+with § 3.04.025 . The fee, if set, shall cover, but not exceed, the full cost of processing and investigating
+permit applications and administering the permit program. If established, the fee
+shall be submitted by the applicant with the permit application; provided however
+that no permit application fee shall be charged to organizations qualified for exemption
+from the payment of city sales and use taxes pursuant to Chapter 13.16 .
+(Ord. 5569 § 4, 2011)
+The Coordinator shall approve, conditionally approve or deny an application on the
+grounds specified below. Such action shall be taken no later than ten business days
+after receiving a completed application and fee, if applicable. If the application
+is denied or conditionally approved, the Coordinator shall inform the applicant in
+writing of the grounds for denial or the conditions on the permit and the applicant's
+right of appeal. If the Coordinator relied on information about the event other than
+that contained in the application, he/she shall inform the applicant of such information.
+If the Coordinator refuses to consider a late application, he/she shall inform the
+applicant in writing of the reason for the refusal, and of the applicant's right of
+appeal.
+A.
+The Coordinator shall approve an application for an event permit unless he/she determines,
+from a consideration of the application and other pertinent information, that:
+1.
+Information contained in the application, or supplemental information requested from
+the applicant, is false in any material detail; or
+2.
+The applicant failed to complete the application form after having been notified of
+the need for additional information or documents; or
+3.
+Another event permit or application has been received prior in time, or has already
+been approved, to hold another event at the same time and place requested by the applicant,
+or so close in time and place as to cause undue traffic congestion, or the Police
+Department is unable to meet the needs for police services for both events; or
+4.
+The time, route or size of the event will substantially interrupt the safe and orderly
+movement of traffic on or contiguous to the event site or route or will disrupt the
+use of a street or highway at a time when it is usually subject to traffic congestion;
+or
+5.
+The size, nature or location of the event will present a substantial risk to the health
+or safety of the public or participants in the event or other persons; or
+6.
+The size of the event will require diversion of so great a number of peace officers
+of the city to ensure that participants stay within the boundaries or route of the
+event, or to protect participants in the event, as to prevent normal protection to
+the rest of the city; nothing herein authorizes denial of a permit because of the
+need to protect participants from the conduct of others, if reasonable permit conditions
+can be imposed to allow for adequate protection of participants with the number of
+peace officers available to police the event; or
+7.
+The location of the event will substantially interfere with any construction or maintenance
+work scheduled to take place upon or along the city streets or a previously granted
+encroachment permit; or
+8.
+The event shall occur at a time when a school is in session on a route or at a location
+adjacent to the school or class thereof, and the noise created by the activities of
+the event would substantially disrupt the educational activities of the school or
+class; or
+9.
+The event involves the use of hazardous, combustible or flammable materials which
+could create a fire hazard; or
+10.
+The event will violate an ordinance or statute.
+B.
+When the grounds for denial of an application for permit specified in Subsections
+A.4 through A.9 above can be corrected by altering the date, time, duration, route
+or location of the event, the Coordinator shall, instead of denying the application,
+conditionally approve the application upon the applicant's acceptance of conditions
+for permit issuance. The conditions imposed shall provide for only such modification
+of the applicant's proposed event as are necessary to achieve compliance with said
+subsections.
+The Coordinator may condition the issuance of an event permit by imposing reasonable
+requirements concerning the time, place and route of the event and such requirements
+as are necessary to protect the safety of persons and property and the control of
+traffic. Such conditions include but are not limited to the following:
+A.
+Alteration of the date, time, route or location of the event;
+B.
+Conditions concerning the area of assembly and disbanding of parades or other events
+occurring along a route;
+C.
+Conditions concerning accommodation of pedestrian or vehicular traffic, including
+restricting the event to only a portion of a street;
+D.
+Requirements for the use of traffic cones, barricades or other traffic-control devices
+to be provided, placed and removed by the permittee at its expense;
+E.
+Requirements for provision of first aid or sanitary facilities;
+F.
+Requirements for arrangement of supplemental fire protection personnel to be present
+at event at the permittee's expense;
+G.
+Requirements for use of event monitors and providing notice of permit conditions to
+event participants;
+H.
+Restrictions on the number and type of vehicles, animals or structures at the event
+and inspection and approval of floats, structures and decorated vehicles for fire
+safety by the City of Loveland Fire and Rescue Department;
+I.
+Requirements for use of garbage containers, cleanup and restoration of city property;
+J.
+Restrictions on use of amplified sound;
+K.
+A requirement that an event permit to conduct a block party may be conditioned on
+the giving of notice to the residents of dwellings along the affected street(s); and/or
+L.
+Compliance with any relevant law and obtaining any legally required permit or license.
+The applicant shall have the right to appeal the denial of a permit or a permit condition.
+A notice of appeal shall be filed with the City Manager's office setting forth the
+grounds for the appeal within five business days after mailing or personal delivery
+of a notice of denial or permit condition. The City Manager or his or her designee
+shall hold a hearing no later than five business days after the filing of the appeal
+and shall render his or her decision no later than one business day after the hearing.
+In the event that a notice of appeal is filed in accordance herewith but fewer than
+six business days prior to the requested date for an event for which a permit has
+been denied, the City Manager shall hold a hearing and issue his or her decision no
+later than two business days after the filing of the appeal. If the City Manager determines
+that circumstances do not permit the completion of such hearing and decision at least
+one full business day prior to the time and date for the initiation of an event regarding
+which an appeal is pending, he or she shall notify the appealing applicant of said
+determination in writing and said applicant shall be entitled, but not required, to
+seek judicial review of the permit denial with no further administrative review. The
+City Manager's decision shall be final, subject only to such judicial review as may
+be permitted by law.
+If, after review of the criteria contained in § 12.26.080 above, the Coordinator determines that a permit should be granted, the Coordinator
+shall issue the event permit once the applicant has agreed in writing to comply with
+all terms and conditions of the permit and the following sections of this Chapter
+have been complied with:
+A.
+Section 12.26.100 - pertaining to indemnification;
+B.
+Section 12.26.110 - pertaining to insurance;
+C.
+Section 12.26.120 - pertaining to traffic-control fees; and
+D.
+Section 12.26.130 - pertaining to cleanup deposits (when applicable).
+Prior to the issuance of an event permit, the Coordinator shall require the applicant
+and authorized officer of the sponsoring organization (if any) to sign an agreement
+for the permittee to reimburse the city for any costs incurred by it in repairing
+damage to city property occurring in connection with the permitted event proximately
+caused by the actions of the permittee, its officers, employees or agents, or any
+person who was under the permittee's control. The agreement shall also provide that
+the permittee shall defend the city against, and indemnify and hold the city harmless
+from, any liability to any persons resulting from any damage or injury occurring in
+connection with the permitted event proximately caused by the actions of the permittee,
+its officers, employees or agents, or any person who was under the permittee's control.
+Persons who merely join in an event are not considered by that reason alone to be
+"under the control" of the permittee.
+A.
+Prior to the issuance of an event permit, the Coordinator may require the applicant
+and authorized officer of the sponsoring organization (if any) to possess or obtain
+public liability insurance to protect against loss from liability imposed by law for
+damages on account of bodily injury and property damage arising from the event. The
+Coordinator shall determine whether to require such insurance, and the amount of insurance
+that shall be required, based upon the considerations routinely taken into account
+by the city in evaluating loss exposures, including, without limitation, whether the
+event poses a substantial risk of damage or injury due to the anticipated number of
+participants, the nature of the event and activities involved and the physical characteristics
+of the proposed site. Such insurance shall name on the policy or by endorsement as
+additional insureds the city, its officers, employees and agents.
+B.
+If insurance coverage is required pursuant to Subsection A above, a copy of the policy
+or a certificate of insurance along with all necessary endorsements must be filed
+with the Coordinator no less than five days before the date of the event unless the
+Coordinator for good cause changes the filing deadline, in which event such documents
+shall be provided prior to the event.
+C.
+The insurance requirements of Subsections A and B above shall be waived by the Coordinator
+for demonstrations if the applicant or an officer of the sponsoring organization signs
+a verified statement that he/she believes the event is a demonstration under the definition
+in this Chapter, and that he/she has determined that the cost of obtaining insurance
+is so financially burdensome that it would constitute an unreasonable burden on the
+right of First Amendment expression, or that it has been impossible to obtain insurance
+coverage. The statement shall include the name and address of one insurance agent
+or other source for insurance coverage contacted to determine insurance premium rates
+for insurance coverage.
+D.
+If the Coordinator waives the insurance requirements set forth in Subsections A and
+B above, the city may, in its discretion, require the applicant to apply for insurance
+coverage for the event under a policy selected by the city. The applicant must provide
+any information pertinent to qualifying for the insurance coverage. The premium for
+such insurance coverage would be paid by the city rather than the applicant.
+A.
+Upon approval of an application for an event permit, the Coordinator shall provide
+the applicant with a statement of the estimated cost of providing peace officers for
+traffic control at the event. The applicant of the event shall be required to pay
+the actual traffic-control fees no later than 30 days after the event unless the Coordinator
+extends the payment deadline. Traffic control includes clearing the event route or
+site of unauthorized vehicles, diversion of traffic around the event, and directing
+pedestrian and vehicular traffic along the route of an event.
+B.
+Traffic-control fees will be computed based on an hourly rate with a minimum charge
+of two hours per officer or supervisor. The hourly rate is based upon negotiated benefits
+for peace officers and will be updated periodically. The Coordinator shall keep a
+record of such rate.
+C.
+The Coordinator shall pre-establish several event routes within the city which may
+be, but are not required to be, used by applicants. The routes shall specify the number
+of officers and traffic-control devices or marshals needed for traffic control on
+the routes, if any. Such pre-established event routes and the fee schedule for traffic-control
+services shall be made available to the public.
+D.
+Traffic-control fees will be waived by the Coordinator for demonstrations if the applicant
+signs a verified statement that he/she believes the event's purpose is First Amendment
+expression, and that he/she has determined that the cost of traffic-control fees is
+so financially burdensome that it would constitute an unreasonable burden on the right
+of First Amendment expression.
+A.
+In connection with an event involving the sale of food or beverages, erection of structures,
+presence of horses or other large animals, or erection of water aid stations, the
+applicant may be required to provide a cleanup deposit prior to the issuance of a
+permit. The cleanup deposit shall be in the amount established by the Coordinator,
+based upon an estimate of the actual costs reasonably estimated to be incurred by
+the city in the cleanup of an event of like nature and size.
+B.
+The cleanup deposit shall be returned after the event if the area used for the event
+has been cleaned and restored to the same condition as existed prior to the event.
+C.
+If the property used for the event has not been properly cleaned or restored, the
+applicant shall be billed for the actual cost to the city for cleanup and restoration,
+and the cleanup deposit (or a portion thereof) shall be applied toward payment of
+the bill. If the applicant disputes the bill, he/she may appeal to the Coordinator
+within ten days of the date of the bill. Should there be any unexpended balance on
+deposit after completion of the work, this balance shall be refunded to the applicant.
+Should the amount of the bill exceed the cleanup deposit, the difference shall be
+billed to the applicant by the city and the applicant shall pay the same within ten
+days of the date of the bill.
+A.
+The permittee shall comply with all terms and conditions of the local event permit.
+B.
+The permittee shall ensure that the person leading a parade or other event along a
+route, or the person in charge of any other event, is familiar with all the provisions
+of the permit and carries the event permit on his or her person for the duration of
+the event.
+C.
+The permittee shall ensure that the area used for the event is cleaned and restored
+to the same condition as existed prior to the event, immediately following the completion
+of the event.
+(Ord. 5569 § 5, 2011)
+A.
+The Coordinator or a designee may, at any time prior to an event, revoke or terminate
+a permit that has been issued for the event if conditions change so that the permit
+application could have been denied in the first instance.
+B.
+The Coordinator or a designee may revoke or terminate the permit during the course
+of the event if continuation of the event presents a clear and present danger to the
+participants or the public.
+A.
+It is unlawful for any person to sponsor or conduct a parade, athletic event, other
+special event or demonstration requiring an event permit unless a permit has been
+issued for the event. It is unlawful for any person to participate in such an event
+with the knowledge that the sponsor of the event has not been issued a permit.
+B.
+It is unlawful for any person to interfere with or disrupt a lawful parade, athletic
+event or other special event.
+C.
+The event permit authorizes the permittee to conduct only such event as is described
+in the permit in accordance with the terms and conditions of the permit. It is unlawful
+for the permittee to knowingly violate the terms and conditions of the permit, or
+for any event participant with knowledge thereof to knowingly violate the terms and
+conditions of the permit.
+D.
+Any person, firm, corporation or other entity violating any provision of this Chapter 12.26 shall be deemed guilty of a misdemeanor and subject to penalties as set forth in
+Section 1.12.010 of the Code of the City of Loveland.
+(Ord. 5164 § 2, 2007)

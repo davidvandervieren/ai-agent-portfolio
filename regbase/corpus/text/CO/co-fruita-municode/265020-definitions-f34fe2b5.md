@@ -1,0 +1,241 @@
+---
+source_id: co-fruita-municode
+jurisdiction: Fruita, CO
+state: CO
+county: Mesa
+municipality: Fruita
+agency: City of Fruita
+title: 2.65.020 - DEFINITIONS.
+doc_type: code
+citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.65 - DISPOSITION OF UNCLAIMED PROPERTY > 2.65.020 - DEFINITIONS.
+url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT2ADPE_CH2.65DIUNPR_2.65.020DE"
+sha256: 3ef565de1601af534c5d1311b45c747861991e4ef18d4d2281477a737d64e296
+fetched_at: "2026-09-18T19:26:49+00:00"
+---
+
+The purpose of this ordinance is to provide for the administration and disposition
+of unclaimed property which is in the possession of, or under the control of the City
+Clerk or the Fruita Police Department.
+(Ord. 2003-14, S3)
+Words and terms shall be defined as follows:
+A.
+Unclaimed Property. When held by the City Clerk, any tangible or intangible property, including any income
+or increment derived therefore, less any lawful charges, that is held by or under
+the control of the City Clerk which has not been claimed by its owner for a period
+of more than two (2) years after it became payable or distributable.
+B.
+Unclaimed Property. When held by the Police Department, any tangible property, less any lawful charges
+or court proceedings, that is held by or under the control of the Police Department
+which has not been claimed by its owner after a period of more than sixty (60) days.
+C.
+Owner. A person or entity, including a corporation, partnership, association, governmental
+representative or successor in interest of same, which owns unclaimed property.
+D.
+City Clerk. The City Clerk or designee thereof.
+E.
+Police Department. The Chief of Police or designee thereof.
+(Ord. 2003-14, S3)
+A.
+Prior to disposition of any unclaimed property, the City Clerk shall send a written
+notice by certified mail, return receipt requested, to the last known address, if
+any, of any owner of unclaimed property. The last known address of the owner shall
+be the last address of the owner as shown by the records of the City department or
+agency holding the property. The notice shall include a description of the property,
+the amount or estimated value of the property, and when available, the purpose for
+which the property was deposited or otherwise held. The notice shall state where the
+owner may make inquiry of or claim the property. The notice shall also state that
+if the owner fails to provide the City Clerk with a written claim for the return of
+the property within sixty (60) days of the date of the notice, the property shall
+become the sole property of the City and any claim of the owner to such property shall
+be deemed forfeited.
+B.
+Prior to disposition of any unclaimed property, of which there is no last known address
+of the owner or after an unsuccessful attempt to notify the owner at the last known
+address, the City Clerk shall cause a notice to be published in a newspaper of general
+circulation in the City. The notice shall include a description of the property, the
+owner of the property, the amount or estimated value of the property, and when available,
+the purpose for which the property was deposited or otherwise held. The notice shall
+state where the owner may make inquiry of or claim the property. The notice shall
+also state that if the owner fails to provide the City Clerk with a written claim
+for the return of the property within sixty (60) days of the date of the publication
+of the notice, the property shall become the sole property of the City and any claim
+of the owner to such property shall be deemed forfeited.
+C.
+If the City Clerk receives no written claim within the sixty (60) day claim period,
+the property shall become the sole property of the City and any claim of the owner
+to such property shall be deemed forfeited.
+D.
+If the City Clerk receives a written claim within the sixty (60) day claim period,
+the City Clerk shall evaluate the claim and give written notice to the claimant with
+ninety (90) days thereof that the claim had been accepted or denied in whole or in
+part. The City Clerk may investigate the validity of a claim and may request further
+supporting documentation from the claimant prior to disbursing or refusing to disburse
+the property.
+E.
+In the event that there is more than one (1) claimant for the same property, the City
+Clerk may, in the City Clerk's sole discretion, resolve said claims, or may resolve
+such claims by depositing the disputed property with the registry of the District
+Court in an interpleader action.
+F.
+In the event that all claims filed for the property are denied, the property shall
+become the sole property of the City and any other claim of such property shall be
+deemed forfeited.
+G.
+Any legal action filed challenging a decision of the City Clerk shall be filed pursuant
+to Rule 106 of the Colorado Rules of Civil Procedure within thirty (30) days of such
+decision or shall be forever barred. If any legal action is timely filed, the property
+shall be disbursed by the City Clerk pursuant to the order of the court having jurisdiction
+over such claim.
+H.
+The City Clerk is authorized to establish and administer procedures for the administration
+and disposition of unclaimed property consistent with the Chapter, including compliance
+requirements for other City officials and employees in the identification and disposition
+of such property.
+(Ord. 2003-14, S3)
+The City Clerk shall, with two (2) years of the receipt of unclaimed property, either
+determine to retain such property for the City's use or sell the property to the highest
+bidder at public sale. The City Clerk may decline the highest bid and re-offer the
+property for sale if in the judgment of the City Clerk the bid is insufficient. Any
+sale held under this section must be preceded by a single publication of notice, at
+least three (3) weeks in advance of the sale, in a newspaper of general circulation
+in the county in which the property is to be sold. The purchaser of property at any
+sale under this section takes the property free of all claims of the owner or previous
+holder thereof and all persons claiming through or under them. The City Clerk shall
+execute all documents necessary to complete the transfer of ownership.
+(Ord. 2003-14, S3)
+A.
+Custodian. The Chief of Police or his designee is designated as the official custodian of each
+and every lost, stolen, confiscated or abandoned article or object of personal property
+not in the lawful custody of the court or any other person, which has been acquired
+or delivered to the Police Department or any of its members, for care, control and
+custody.
+B.
+Records Required. It shall be the duty of the Chief of Police or his designee to keep a record of all
+such property coming into the care, control and custody of the Police Department showing:
+1.
+The date and description of the property received;
+2.
+Which property has been reclaimed by its owner, including the date and to whom delivered;
+3.
+The date and name of any person who has made a finder's claim and date of release
+to such person;
+4.
+The date and description of how any remaining property was disposed of.
+C.
+Rights of Finder. Notwithstanding any other provision of this Chapter, whenever any item of lost or
+abandoned property has been found and delivered to the Police Department for care,
+control and custody, such item shall be released to the original finder whenever a
+claim has been made by the finder and the following conditions have been met:
+1.
+The claimant is the person who originally found the lost or abandoned property and
+he is not a police officer.
+2.
+The claimant, after surrendering the property, has filed a written notice with the
+Police Department of his intentions to make a claim on the property within sixty (60)
+days of the surrender of the item.
+3.
+The lost or abandoned property has remained unclaimed by the owner or person having
+a right to such property for sixty (60) days after the surrender of the property to
+the Police Department.
+4.
+The lost or abandoned property is not stolen or confiscated property, nor is it property
+held under the exceptions outlined in subsection D, nor property held as evidence
+pursuant to subsection G.
+5.
+The claimant must appear at the Police Department no less than sixty (60) days after
+surrendering any lost or abandoned property and prior to the expiration of ninety
+(90) days to request the release of such property. Failure to appear within the above
+time frame shall forever bar any finder's claim to such property.
+6.
+The lost or abandoned property is not personal effects such as keys, checkbooks, wallets,
+credit cards or other such items as determined by the custodian.
+7.
+The lost or abandoned property is not a firearm.
+D.
+Disposition of Certain Property Exclusive of Section Provisions. Notwithstanding any other provisions of this section, certain objects
+and articles of property as described in this section may be kept, held or disposed
+of as follows:
+1.
+Nothing in this section shall be construed as amending any existing ordinances concerning
+the impoundment and disposition of livestock, dogs, poultry or other animals.
+2.
+Unless ordered to the contrary by a court or otherwise required by state or national
+law, firearms or other weapons which may not lawfully be kept, possessed or retained
+by the owner or person otherwise entitled to the possession thereof, or which may
+not otherwise lawfully be released to the owner thereof, or which are unclaimed after
+notice to the owner, or the owner of which is not known, may be kept and used by the
+Police Department in its training program or otherwise, or may be donated to museums
+or historical societies as the Chief of Police may order for purposes of historical
+preservation. If the firearms or weapons are declared surplus by the Chief of Police,
+disposition of such firearms or weapons may be made as otherwise provided in this
+section.
+3.
+If the property consists of burglary tools of any description; firearms, cartridges,
+explosives, armored or bullet proof clothing, or other dangerous weapons; gambling
+apparatus or instruments; articles or medicines for the purpose of inducing an abortion;
+beer, wine, spirituous liquor or fermented malt beverages; soiled bloody or unsanitary
+clothing; solids or liquids of unknown or uncertain composition; drugs, narcotics,
+hallucinogenic substance, hypodermic syringes and needles, or other drug paraphernalia;
+any poisonous, noxious or deleterious solids or liquids; or any other property which
+reasonably might result in injury to the health and safety of the public or be subject
+to unlawful use, the Chief of Police or his designee may destroy any such article.
+E.
+Reclaiming Property. Unless otherwise provided in this section, any lost, stolen, confiscated or abandoned
+property may be reclaimed by the lawful owner upon proof of ownership and identity
+satisfactory to the Chief of Police or his designee and he is hereby authorized to
+release the property to such owner when the owner gives a proper receipt therefore,
+if claimed before such property is disposed of as provided in subsection D or subsection
+G.
+F.
+Failure to Claim Property. Failure to make a claim of ownership within the time limits prescribed in subsection
+C and before the sale or other disposition provided in subsection D or subsection
+G of any chapter shall forever bar the owner or any person claiming ownership by,
+through or under the owner from making any subsequent claims of ownership.
+G.
+Disposition Generally. All lost, stolen, confiscated or abandoned property, with exceptions as provided
+in subsection D, which has not been claimed by the rightful owner thereof within sixty
+(60) days after such property is no longer required to be held as evidence or within
+sixty (60) days after such property came into the custody of the Fruita Police Department,
+or within thirty (30) days after the mailing of a letter of notice if an owner can
+be identified, shall be disposed of by releasing such property to the original finder
+if a claim has been filed; retaining and using such property in the City's training
+programs; destroying such property; or as ordered to the contrary by any court under
+the provision of a more appropriate ordinance or state statute; or at such time as
+the Chief of Police or his designee shall determine, donating such property to the
+Fruita Thrift Store, a community non-profit organization or selling such property
+at public auction, provided the following conditions are met:
+1.
+The Chief of Police, or his designee, shall examine all property in his custody and
+if the identity of the owner appears from such examination or if the identity of the
+owner is readily available from public records available to him or otherwise known
+to him, the Chief of Police, or his designee, shall notify the apparent owner by mail,
+to the last known address of such apparent owner, describing the property and stating
+that such property is held by the Chief of Police and may be sold or otherwise disposed
+of unless claimed within thirty (30) days of mailing such notice.
+2.
+The Chief of Police or his designee shall keep in his control all articles of personal
+property seized or held as evidence, which has been delivered to the Police Department
+for use in any pending or prospective trial; unless otherwise ordered by the court
+having jurisdiction or upon proper authorization of the prosecuting attorney, until
+final disposition of any pending charges, including appeals or the lapse of time for
+filing an appeal.
+3.
+Before any such property may be sold at public auction, the Chief of Police or his
+designee, shall cause to be published in a newspaper of general circulation in the
+City, not less than fourteen (14) days before such sale, a notice setting forth a
+description of each article to be sold, the time and date and place of sale, and a
+statement that any person who claims to be the owner of or claims any interest in
+any article so described may appear at the Police Department by a designated date
+so stated in the newspaper, to reclaim such article upon presentation of satisfactory
+proof of identity and ownership of such article.
+4.
+Whenever any property is retained by the City as provided for in this chapter, it
+shall be added to the City's capital assets inventory, which shall also indicate the
+location of the assigned property and designated use thereof.
+H.
+Sale of Unclaimed Property. At the time and place mentioned in the notice for the sale of unclaimed property
+the Chief of Police or his designee shall sell all such property at public auction
+for the highest and best price such property will bring in cash. The proceeds of such
+sale, after deduction of the expenses of the sale, shall be paid to the City Manager,
+who shall deposit the proceeds into the general fund of the City.
+(Ord. 2003-14, S3)

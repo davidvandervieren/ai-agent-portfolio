@@ -7,8 +7,8 @@ agency: Pueblo County Planning and Development Department
 title: Pueblo County Code
 doc_type: code
 url: "https://county.pueblo.org/county-attorney-department/pueblo-county-code"
-sha256: c8b57249945524af3574c3d9086fc13efeafd5a83edc852a9c0af7a6361d484d
-fetched_at: "2026-09-10T04:33:27+00:00"
+sha256: 2fd4cf72be7d0204c7309c873d435012bd94dae5fd53feace383671579fa012d
+fetched_at: "2026-09-17T16:30:49+00:00"
 ---
 
 The electronic version of the Pueblo County Code was created for online access to the County’s various ordinances, policies, procedures and rules. The Pueblo County Code website may not contain the most recent official actions of the Pueblo County Board of County Commissioners at any given time. For the most recent provisions, please contact the Pueblo County Attorney’s Office except for Title 16 Subdivision and Title 17 Land Use, which are now under the Pueblo County Unified Development Code (UDC) , please contact the Pueblo County Planning and Development Department .

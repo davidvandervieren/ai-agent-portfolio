@@ -1,0 +1,278 @@
+---
+source_id: co-new-castle-municode
+jurisdiction: New Castle, CO
+state: CO
+county: Garfield
+municipality: New Castle
+agency: Town of New Castle
+title: 1.04.080 - Repeal shall not revive any ordinances.
+doc_type: code
+citation_root: Title 1 - GENERAL PROVISIONS > Chapter 1.04 - GENERAL PROVISIONS > 1.04.080 - Repeal shall not revive any ordinances.
+url: "https://library.municode.com/co/new_castle?nodeId=TIT1GEPR_CH1.04GEPR_1.04.080RESHNOREANOR"
+sha256: df4a3622bed5c0edb8505ee3a8cae749b92e36d3602ab986caf954fad27b7a53
+fetched_at: "2026-09-18T17:07:08+00:00"
+---
+
+There is adopted the "New Castle Municipal Code" as compiled, edited and published
+by Matthew Bender & Company, Inc.
+(Ord. 2004-2 § 1)
+This code shall be known as the "New Castle Municipal Code" and it shall be sufficient
+to refer to said code as the "New Castle Municipal Code" in any prosecution for the
+violation of any provision thereof or in any proceeding at law or equity. It shall
+be sufficient to designate any ordinance adding to, amending, correcting or repealing
+all or any part or portion thereof as an addition to, amendment to, correction or
+repeal of the "New Castle Municipal Code." References may be made to the titles, chapter,
+sections and subsections of the "New Castle Municipal Code" and such references shall
+apply to those titles, chapters, sections or subsections as they appear in the code.
+(Ord. 2004-2 § 2)
+Whenever a reference is made to this code as the "New Castle Municipal Code" or to
+any portion thereof, or to any ordinance of the town codified in this code, the reference
+shall apply to all amendments, corrections and additions heretofore, now or hereafter
+made.
+(Ord. 2004-2 § 3)
+Title, chapter and section headings contained in this code shall not be deemed to
+govern, limit, modify or in any manner affect the scope, meaning or intent of the
+provisions of any title, chapter or section of this code.
+(Ord. 2004-2 § 4)
+The last ordinance included in this code in Ordinance 2003-17, passed September 2,
+2003. The following ordinances, passed subsequent to Ordinance 2003-17, but prior
+to adoption of this code, are hereby adopted and made a part of this code: Ordinance
+2003-18, passed November 4, 2003; Ordinance 2003-19, passed November 4, 2003; Ordinance
+2003-20, passed December 2, 2003; Ordinance 2003-21, passed December 16, 2003; Ordinance
+2003-22, passed December 16, 2003; Ordinance 2003-E-1, passed December 2, 2003; Ordinance
+2004-1, passed January 20, 2004; Ordinance 2004-4, passed March 16, 2004; Ordinance
+2004-5, passed March 16, 2004; and Ordinance 2004-7, passed May 4, 2004. Additionally,
+the provisions or Ordinances 2004-3 and 2004-6, which are of even date herewith, are
+adopted and shall be incorporated into this code.
+(Ord. 2004-2 § 5)
+The adoption of this code does not affect prosecutions for ordinance violations committed
+prior to the effective date of this code, does not waive any fee or penalty due and
+unpaid on the effective date of this code, and does not affect the validity or any
+bond or cash deposit posted, filed or deposited pursuant to the requirements of any
+ordinance.
+(Ord. 2004-2 § 6)
+If any section, subsection, clause or phrase of this code is for any reason held to
+be invalid or unconstitutional, such decision shall not affect the validity of the
+remaining portions of this code.
+(Ord. 2004-2 § 7)
+The following words and phrases, whenever used in the ordinances of the town of New
+Castle, shall be construed as defined in this section unless from the context a different
+meaning is intended or unless a different meaning is specifically defined and more
+particularly directed to the use of such words or phrases:
+"Charter" means the Home Rule Charter for the town of New Castle, Colorado, adopted
+January 12, 1999, as it may be amended from time to time.
+"Council" means the town council of the town of New Castle. "All its members" or "all
+councilmembers" or "all councilors" means the total number of councilmembers holding
+office.
+"Councilor" means a councilmember, including the mayor, as defined in Section 3.1
+of the Charter.
+"County" means the county of Garfield, Colorado.
+"Law" denotes applicable federal law, the Constitution and statutes of the state of
+Colorado, the ordinances of the town, and when appropriate, any and all rules and
+regulations which may be promulgated thereunder.
+"Local newspaper of general circulation" and "newspaper of general circulation in
+the town" mean a newspaper printed at regular intervals, available by paid subscription
+to any resident of the town, possessing a diverse potential subscriber base measured
+by the geographic region of its circulation area, generally available within town
+limits with or without charge, and containing news of a general character and interest
+to the community.
+"May" is permissive.
+"Month" means a calendar month.
+"Must" and "shall" are each mandatory.
+"Oath" includes an affirmation or declaration in all cases in which, by law, an affirmation
+may be substituted for an oath, and in such cases the words "swear" and "sworn" shall
+be equivalent to the words "affirm" and "affirmed."
+"Owner," applied to a building or land, includes any part owner, joint owner, tenant
+in common, joint tenant, or tenant by the entirety, of the whole or a part of such
+building or land.
+"Person" includes a natural person, joint venture, joint stock company, partnership,
+association, club, company, corporation, business, trust, organization, or the manager,
+lessee, agent, servant, officer or employee of any of them.
+"Personal property" includes money, goods, chattels, things in action and evidences
+of debt.
+"Preceding" and "following" means next before and next after, respectively.
+"Property" includes real and personal property.
+"Published" or "publication" means the act of posting a document on the town website
+in a designated space that is available for inspection by the general public unless
+expressly provided otherwise in a particular code provision.
+"Real property" includes lands, tenements and hereditaments.
+"Sidewalk" means a public right-of-way adjacent to a street or road intended for the
+use of pedestrians.
+"State" means the state of Colorado.
+"Street" includes all streets, highways, avenues, lanes, alleys, courts, places, squares,
+curbs, or other public ways in the town that have been or may hereafter be dedicated
+and open to public use, or such other public property so designated in any law of
+this state. "Structure" includes all buildings, houses, sheds, garages, storage facilities,
+walls, fences, and other improvements to real property but does not include streets,
+sidewalks, fire hydrants, lamp posts, signs, or underground utilities.
+"Tenant" and "occupant," applied to a building or land, include any person who occupies
+the whole or a part of such building or land, whether alone or with others.
+"Town" means the town of New Castle, or the area within the territorial limits of
+the town, and such territory outside the town over which the town has jurisdiction
+or control by virtue of any constitutional or statutory provision.
+"Written" includes printed, typewritten, mimeographed, multigraphed, or otherwise
+reproduced in permanent visible form. "Written" also includes electronic mail.
+"Year" means a calendar year.
+(Ord. 2008-12 § 2; Ord. 2003-11 § 2(1))
+(Ord. No. 2016-1, § 2, 5-3-2016)
+All words and phrases shall be construed according to the common and approved usage
+of the language, but technical words and phrases and such others as may have acquired
+a peculiar and appropriate meaning in the law shall be construed and understood according
+to such peculiar and appropriate meaning.
+(Ord. 2003-11 § 2(2))
+The following grammatical rules shall apply in the ordinances of the town unless it
+is apparent from the context that a different construction is intended:
+A.
+Gender. Each gender includes the masculine, feminine and neuter genders.
+B.
+Singular and Plural. The singular number includes the plural and the plural includes
+the singular.
+C.
+Tenses. Words used in the present tense include the past and the future tenses and
+vice versa, unless manifestly inapplicable.
+(Ord. 2003-11 § 2(3))
+When an act is required by an ordinance, the same being such that it may be done as
+well by an agent as by the principal, such requirement shall be construed to include
+all such acts performed by an authorized agent.
+(Ord. 2003-11 § 2(4))
+Whenever in the ordinances of the town any act or omission is made unlawful, it shall
+include causing, allowing, permitting, aiding, abetting, suffering, or concealing
+the fact of such act or omission.
+(Ord. 2003-11 § 2(5))
+Except when otherwise provided, the time within which an act is required to be done
+shall be computed by excluding the first day and including the last day, unless the
+last day is Sunday or a holiday, in which case it shall also be excluded.
+(Ord. 2003-11 § 2(6))
+The provisions of the ordinances of the town, and all proceedings under them are to
+be construed with a view to effect their objects and to promote justice.
+(Ord. 2003-11 § 2(7))
+The repeal of an ordinance shall not repeal the repealing clause of an ordinance or
+revive any ordinance that has been repealed thereby.
+(Ord. 2003-11 § 2(8))
+The map and plat of the town, dated the eighth day of June, 1970, and as prepared
+by Robert Scarrow, a licensed engineer in the state of Colorado, is adopted and declared
+the official map of the town of New Castle, Colorado.
+(Prior code § 10-04-010)
+A seal, the impression of which is as follows: in the center the word "Seal," and
+around the outer edge the words "The Town of New Castle, Colorado," shall be and is
+established and declared to be the seal of the town of New Castle. Any ordinance of
+the town may be proven by such seal and, when printed in book or pamphlet form and
+purporting to be printed or published by authority of the town, the same shall be
+received in evidence in all courts and places without further proof.
+(Prior code § 2-02-010)
+All town elections shall be governed by the Colorado Municipal Election Code of 1965,
+as amended from time to time, except as otherwise provided in the town Charter, this
+code, or by ordinance.
+(Ord. 2006-12 § 2 (part))
+Editor's note— Ord. No. 2015-4, § 2, adopted Sept. 1, 2015, repealed § 1.16.020, which pertained
+to write-in candidates—affidavit of intent, and derived from Ord. No. 2006-12, § 2.
+Editor's note— Ord. No. 2015-4, § 2, adopted Sept. 1, 2015, repealed § 1.16.030, which pertained
+to special procedures for mail ballot elections, and derived from Ord. No. 2006-12,
+§ 2.
+If the only matter before the voters in a municipal election is the election of persons
+to office and if, at the close of business on the sixty-fourth (64 th ) day before the election, the town clerk has not received more candidate nomination
+petitions, including affidavits of intent for write-in candidates, than there are
+offices to be filled at such election, the town clerk, if instructed by resolution
+of the town council either before or after such date, shall cancel the election and
+the town council shall by resolution declare the candidates elected. Upon such declaration,
+the candidates shall be deemed elected. Notice of such cancellation shall be published,
+if possible, in order to inform the electors of the town, and notice of such cancellation
+shall be posted at each polling place and in not less than one (1) other public place.
+(Ord. 2006-12 § 2 (part))
+(Ord. No. TC 2016-6, § 2, 9-20-2016; Ord. No. TC 2022-5, § 2, 3-1-2022)
+No write-in candidate for any municipal office shall be counted unless an affidavit
+of intent has been filed with the town clerk by the person whose name is written in
+prior to sixty-four (64) days before the day of the election indicating that such
+person desires the office and is qualified to assume the duties of that office if
+elected.
+(Ord. No. TC 2022-5, § 2, 3-1-2022)
+Editor's note— Ord. No. TC 2022-5, § 2, adopted March 1, 2022, set out provisions intended for use
+as § 1.16.050. Inasmuch as there were already provisions so designated, said section
+has been codified herein as § 1.16.045 at the discretion of the editor.
+A.
+Any candidate or registered elector of the town ("complainant") who has reason to
+believe there has been a violation of municipal campaign finance rules as set forth
+in the Colorado's Fair Campaign Practices Act ("FCPA"), C.R.S. § 1-45-101 et seq.,
+Article XXVIII of the Colorado constitution ("Article XXVIII"), or other rule promulgated
+by the Colorado Secretary of State ("Rules") concerning campaign and political finance
+may file a written complaint ("complaint") with the town clerk no later than sixty
+(60) days after the alleged violation(s) has occurred. The complaint shall include:
+1.
+The name, address and signature of the complainant;
+2.
+The name and address of each person alleged to have committed a violation; and
+3.
+The details of the violation with citations to the election code section(s) or provision(s)
+allegedly violated.
+B.
+If the town clerk receives a written complaint pursuant to subsection C, below, alleging
+a campaign violation, the town clerk shall:
+1.
+Provide the person believed to have committed the violation with a copy of the written
+complaint.
+2.
+Allow ten (10) business days for correction of the violation or submission of written
+statements explaining the reason that support a conclusion that a violation was not
+committed.
+3.
+If the town clerk receives a written complaint that is not corrected or otherwise
+remedied as provided in Section 1.16.050 (b)(2) herein, the town clerk shall refer the matter to the town attorney to review
+whether, under the circumstances and in accordance with this chapter, a complaint
+in the municipal court should be filed with regard to the alleged violation.
+C.
+Within ten (10) days of receipt of a complaint referred by the town clerk, the town
+attorney shall respond indicating whether he or she intends to file a civil or criminal
+action. If the town attorney indicates in the affirmative and files suit within thirty
+(30) days thereafter, no other action may be brought unless the action brought by
+the town attorney is dismissed without prejudice.
+D.
+In the event any person residing within the town shall bring a civil action for injunction
+or to otherwise enforce this chapter and such person shall prevail in such action,
+then he or she shall be awarded a reasonable attorney's fee and costs of the action
+to be paid by the defendant.
+(Ord. No. TC 2021-1, § 2, 3-16-2021)
+A.
+Any person who knowingly violates any provision of the FCPA, Article XXVIII, or the
+Rules is guilty of a misdemeanor and shall be punished by a fine not exceeding three
+hundred dollars ($300.00) or imprisonment for a period of not more than ninety (90)
+days or both such fine and imprisonment.
+B.
+Any candidate who knowingly violates any provision of the FCPA, Article XXVIII, or
+the Rules shall, in addition to any other penalties provided for herein, be denied
+his or her right to take oath for the office to which he or she was elected unless
+he or she has already taken said oath, in which event, the office shall be deemed
+vacant and shall be filled as otherwise provided by law.
+(Ord. No. TC 2021-1, § 2, 3-16-2021)
+A.
+Any person who violates any of the reporting provisions of the FCPA, Article XXVIII,
+or the Rules shall be liable in any civil action initiated by the town attorney or
+by a person residing within the town for an amount not more than the amount or value
+not properly reported.
+B.
+Notwithstanding the provisions of subsection 1.16.060 (A), any person who makes or receives a contribution or expenditure in violation of
+the FCPA, Article XXVIII, or the Rules is liable in a civil action initiated by the
+town attorney or by a person residing within the town for an amount up to five hundred
+dollars ($500.00) or three (3) times the amount of the unlawful contribution or expenditure,
+whichever is greater.
+C.
+In determining the amount of liability under subsections 1.16.070 (A) and (B), the court may take into account the seriousness of the violation and
+the culpability of the defendants. If a judgment is entered against a defendant or
+defendants in an action under the sections noted above, the plaintiffs, other than
+the town, shall receive fifty (50) percent of the amount recovered. The remaining
+fifty (50) percent shall be deposited in the treasury of the town. In an action initiated
+by the town attorney, the entire amount recovered shall be paid into the treasury
+of the town.
+(Ord. No. TC 2021-1, § 2, 3-16-2021)
+A.
+Except in cases where a different punishment is prescribed by ordinance, any person
+convicted of violating an ordinance of the town or committing a criminal municipal
+offense is punishable by a fine of not more than two thousand six hundred fifty dollars
+($2,650.00) or by imprisonment not to exceed three hundred sixty-four (364) days,
+or by both such fine and imprisonment.
+B.
+Each such person shall be guilty of a separate offense for each and every day during
+any portion of which any violation of any provision of the ordinances of the town
+is committed, continued, or permitted by any such person, and such person shall be
+punishable accordingly.
+(Ord. 2003-11 § 3(A) and (B))
+(Ord. No. TC 2022-2, § 2, 2-1-2022)

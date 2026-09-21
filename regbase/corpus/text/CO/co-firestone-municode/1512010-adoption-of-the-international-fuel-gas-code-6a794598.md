@@ -1,0 +1,49 @@
+---
+source_id: co-firestone-municode
+jurisdiction: Firestone, CO
+state: CO
+county: Weld
+municipality: Firestone
+agency: Town of Firestone
+title: 15.12.010 - Adoption of the International Fuel Gas Code.
+doc_type: code
+citation_root: Title 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.12 - International Fuel Gas Code > 15.12.010 - Adoption of the International Fuel Gas Code.
+url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT15BUCO_CH15.12INFUGACO_15.12.010ADINFUGACO"
+sha256: d7f701dedf5734278835d0309c7525ea65920c8356ea0a229713d4552d9b1868
+fetched_at: "2026-09-18T05:26:01+00:00"
+---
+
+Sections
+Editor's note— Ord. 1029, § 5, adopted June 21, 2023, amended Ch. 15.12 in its entirety to read as herein set
+out. Former 15.12, §§ 15.12.010—15.12.035, pertained to similar material, and derived
+from Ord. 981 §5, adopted in 2020.
+The International Fuel Gas Code, 2018 Edition, as published by the International Code
+Council, Inc., 4051 West Flossmoor Road, Country Club Hills, IL 60478 (referenced
+in this Chapter as the IFGC and thereinafter referred to as "this code"), Chapters 1 through 8 inclusive is hereby adopted by reference as the Firestone Fuel Gas Code
+(FFGC), as if fully set out in this codification with, however, the amendments indicated
+in the following sections of this chapter.
+( Ord. 1029, § 5, 2023)
+IFGC Section 101.1 (Title) is amended to read as follows:
+These regulations shall be known as the Firestone Fuel Gas Code, hereinafter referred
+to as "this code."
+( Ord. 1029, § 5, 2023)
+IFGC Section 404.12 (Minimum burial depth) is amended to read as follows:
+Underground piping systems shall be installed a minimum depth of 12 inches (305 mm)
+below grade. All plastic fuel gas piping shall be installed a minimum of 18 inches
+(457 mm) below grade.
+( Ord. 1029, § 5, 2023)
+IFGC Section 404.12.1 (Individual outside appliances) is deleted in its entirety.
+( Ord. 1029, § 5, 2023)
+IFGC Section 406.4.1 (Test pressure) is amended to read as follows:
+The test pressure to be used shall be not less than one and one-half times the proposed
+maximum working pressure, but not less than 10 psig -(20 kPa gauge), irrespective
+of design pressure. Where the test pressure exceeds 125 psig (862 kPa gauge), the
+test pressure shall not exceed a value that produces a hoop stress in the piping greater
+than 50 percent of the specified minimum yield strength of the pipe.
+( Ord. 1029, § 5, 2023)
+IFGC Section 406.4.2 (Test duration) is amended to read as follows:
+Test duration shall be not less than half an hour for each 500 cubic feet (14m 3 ) of pipe volume or fraction thereof. When testing a system having a volume less than
+10 cubic feet (0.28m 3 ) or a system in a single- family dwelling, the test duration shall be not less than
+fifteen minutes. The duration of the test shall not be required to exceed twenty-four
+hours.
+( Ord. 1029, § 5, 2023)

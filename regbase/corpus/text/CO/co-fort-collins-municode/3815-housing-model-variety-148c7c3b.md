@@ -1,0 +1,3680 @@
+---
+source_id: co-fort-collins-municode
+jurisdiction: Fort Collins, CO
+state: CO
+county: Larimer
+municipality: Fort Collins
+agency: City of Fort Collins
+title: 3.8.15 - Housing Model Variety
+doc_type: code
+citation_root: ARTICLE 3 - GENERAL DEVELOPMENT STANDARDS > Division 3.8 - Supplementary Regulations > 3.8.15 - Housing Model Variety
+url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART3GEDEST_DIV3.8SURE_3.8.15HOMOVA"
+sha256: e257301efe9e98ff3855582aee73f75d7b2793b907c0805dd91e875ae5b7c31d
+fetched_at: "2026-09-18T20:17:38+00:00"
+---
+
+Accessory buildings, structures and uses (when the facts, circumstances and context
+of such uses reasonably so indicate) may include but are not limited to the following:
+(1)
+home occupations;
+(2)
+horses and household pets;
+(3)
+signs;
+(4)
+off-street parking areas;
+(5)
+off-street loading areas;
+(6)
+fences;
+(7)
+private greenhouses;
+(8)
+private swimming pools, recreation facilities and clubhouses;
+(9)
+storage of merchandise in business, commercial and industrial districts;
+(10)
+cultivation, storage and sale of crops, vegetables, plants and flowers produced on
+the premises;
+(11)
+family-care homes;
+(12)
+solar energy systems;
+(13)
+satellite dish antennas less than thirty-nine (39) inches in diameter;
+(14)
+garage sales, wherein property which was not originally purchased for the purpose
+of resale is sold, provided that such sales are limited to no more than five (5) weekend
+periods (as defined in Section 15-316 of the City Code) in one (1) calendar year;
+(15)
+hoop houses;
+(16)
+community based shelter services.
+(Ord. No. 228, 1998 §27, 12/15/98; Ord. No. 204, 2001 §23, 12/18/01; Ord. No. 034, 2014 §1, 3/18/14; Ord. No. 059, 2017 , § 10, 5/2/17)
+(A)
+Family Foster Homes . Family foster homes shall be permitted as an accessory use as defined in Article 5 , provided that the maximum number of foster children in any given home shall not
+exceed four (4).
+(B)
+Day Care Homes . Day care homes shall be permitted as an accessory use as defined in Article 5 , provided that such homes are licensed by the State of Colorado and that the maximum
+number of children and the age limitation of children to whom care is provided complies
+with the State of Colorado regulations for a family child care home, an infant/toddler
+home or an experienced family child care provider home.
+(C)
+Elderly Day Care Homes. Elderly day care homes shall be permitted as an accessory use as defined in Article 5 , provided that the maximum number of elderly persons receiving care, protection and
+supervision in any such home shall not exceed four (4) at any given time.
+(Ord. No. 087, 2002 §20, 6/4/02)
+A home occupation shall be allowed as a permitted accessory use, provided that all
+of the following conditions are met:
+(1)
+Such use shall be conducted entirely within a dwelling and carried on by the inhabitants
+of the dwelling with not more than one (1) additional employee or co-worker. The hours
+of operation during which clients, customers, employees or co-workers are allowed
+to come to the home in connection with the business activity are limited to between
+8:00 a.m. and 6:00 p.m. Monday through Saturday.
+(2)
+Such use shall be clearly incidental and secondary to the use of the dwelling for
+dwelling purposes and shall not change the character thereof.
+(3)
+The total area used for such purposes shall not exceed one-half (½) the floor area
+of the user's dwelling unit.
+(4)
+There shall be no exterior advertising other than the residential sign allowed in
+Section 3.8.7.1 (D)(5)(a) of this Code.
+(5)
+There shall be only incidental sale of stocks, supplies or products conducted on the
+premises.
+(6)
+There shall be no exterior storage on the premises of material or equipment used as
+a part of the home occupation.
+(7)
+There shall be no offensive noise, vibration, smoke, dust, odors, heat or glare noticeable
+at or beyond the property line.
+(8)
+A home occupation shall provide additional off-street parking area adequate to accommodate
+all needs created by the home occupation.
+(9)
+In particular, a home occupation may include, but is not limited to, the following,
+provided that all requirements contained herein are met:
+(a)
+art studio;
+(b)
+dressmaking or millinery work;
+(c)
+professional office;
+(d)
+office for insurance or real estate sales;
+(e)
+teaching;
+(10)
+A home occupation shall not be interpreted to include the following:
+(a)
+animal hospital;
+(b)
+long-term care facility;
+(c)
+restaurant;
+(d)
+bed & breakfast;
+(e)
+group home;
+(f)
+adult-oriented use;
+(g)
+vehicle repair, servicing, detailing or towing if vehicles are:
+1.
+dispatched from the premises, or
+2.
+are brought to the premises, or
+3.
+are parked or stored on the premises or on an adjacent street.
+(h)
+medical marijuana businesses ("MMBs"), as defined in Section 15-452 of the City Code;
+(i)
+retail marijuana establishment as defined in Section 15-603 of the City Code;
+(j)
+short term primary rentals and short term non-primary rentals.
+(11)
+A home occupation shall be permitted only after the owner or inhabitant of the dwelling
+in which such occupation is conducted has obtained a home occupation license from
+the City. The fee for such a license shall be the fee established in the Development
+Review Fee Schedule, and the term of such license shall be two (2) years. At the end
+of such term, the license may be issued again upon the submission and review of a
+new application and the payment of an additional fee. If the City is conducting an
+investigation of a violation of this Code with respect to the particular home occupation
+at the time such renewal application is made, the license will not be reissued until
+the investigation is completed and, if necessary, all violations corrected. The term
+of the previous license shall continue during the period of investigation. The Director
+may revoke any home occupation license issued by the City if the holder of such license
+is in violation of any of the provisions contained in paragraphs (1) through (8) of
+this Section, provided that the holder of the license shall be entitled to the administrative
+review of any such revocation under the provisions contained in Chapter 2, Article
+VI of the City Code.
+Ord. No. 165, 1999 §§28, 29, 11/16/99; Ord. No. 177, 2002 §14, 12/17/02; Ord. No.
+090, 2003 §10, 6/17/03; Ord. No. 070, 2005 §9, 7/5/05; Ord. No. 123, 2005 §5, 11/15/05; Ord. No. 026, 2010 §§2, 3, 3/16/10; Ord. No. 010, 2012 §2, 2/21/12; Ord. No. 143, 2012 §2, 1/15/13; Ord. No. 175, 2014 §8, 12/16/14 ; Ord. No. 044, 2017 , §5, 3/21/17; Ord. No. 161, 2020 , §11, 1/5/21)
+(A)
+
+Minimum Outdoor Play Area for a Child Care Center
+15 children or less | 1,200 square feet
+more than 15 children | 75 square feet per child for 33% of the child capacity of the center
+
+The outdoor play area shall not be required for drop-in child care centers.
+For the purposes of this subsection, the capacity of the center is calculated based
+upon indoor floor space reserved for school purposes of forty (40) square feet per
+child. Any such play area on the site of the child care center within or abutting
+any residential district shall be enclosed by a decorative solid wood fence, masonry
+wall or chain link fence with vegetation screening, densely planted. The height of
+such fence shall be a minimum of six (6) feet and shall comply with Section 3.8.11 . Where access to child care centers is provided by other than local streets, an off-street
+vehicular bay or driveway shall be provided for the purpose of loading and unloading
+children.
+(B)
+If active and continuous operations are not carried on for a period of twelve (12)
+consecutive months in a child care center which was approved for operation within
+a residential dwelling, the child care center use shall be deemed to have been abandoned.
+Such child care center use may thereafter be reestablished only upon approval of a
+new application in accordance with all applicable provisions of this Code.
+(Ord. No. 59, 2000 §23, 6/6/00; Ord. No. 073, 2008 §7, 7/1/08; Ord. No. 086, 2014 §36, 7/1/14; Ord. No. 175, 2014 §9, 12/16/14 )
+(A)
+All facilities of a small animal veterinary clinic or a small animal veterinary hospital,
+including all treatment rooms, cages, pens, kennels and exercise runs, shall be maintained
+within a completely enclosed, soundproof building.
+(B)
+All such veterinary clinics and hospitals shall be designed and constructed in a manner
+that eliminates any emission of odor offensive to persons owning, occupying or patronizing
+properties adjacent to such clinics or hospitals.
+(C)
+All such veterinary clinics and hospitals shall be designed and constructed in a manner
+that reduces the sound coming from any such clinic or hospital to the level of sixty-five
+(65) decibels at any given abutting property line.
+(D)
+No such veterinary clinic or hospital shall board any animal for any length of time
+except where such boarding is necessary to provide surgical or other medical care
+to the animals.
+(Ord. No. 091, 2004 §17, 6/15/04)
+(A)
+Residential group homes shall conform to the lot area and separation requirements
+specified in the following table:
+
+Zone | Maximum number of residents excluding supervisors, for minimum lot size | Additional lot area for each additional resident (square feet) | Maximum permissible residents, excluding supervisors | Minimum separation requirements between any other group home (feet)*
+U-E | 3 | 2,000 | 8 | 1,500
+R-L, N-C-L, H-C, E, R-F, M-H | 3 | 1,500 | 8 | 1,500
+L-M-N, N-C-M, R-D-R | 6 | 750 | 8 | 1,000
+N-C-B, D, C-S, | 6 | 500 | 8 | 700
+C-C-N, M-M-N,
+H-M-N, N-C,
+C-G, C-C, C-L,
+C-C-R
+
+* The minimum separation distance required between group homes that are located in
+different zone districts shall be the one that requires the greatest distance.
+(B)
+Large group care facilities shall conform to the lot area and separation requirements
+specified in the following table:
+
+Zone | Maximum number of residents excluding supervisors, for minimum lot size | Additional lot area for each additional resident (square feet) | Maximum permissible residents, excluding supervisors | Minimum separation requirements between any other group home (feet)*
+L-M-N, N-C-M, | 6 | 750 | 15 | 1,000
+M-H, R-D-R
+N-C-B, D, C-S, | 6 | 500 | 20** | 700
+C-C-N, M-M-N,
+H-M-N, N-C, C-G,
+C-C, C-L, C-C-R
+
+* The minimum separation distance required between group homes that are located in
+different zone districts shall be the one that requires the greatest distance. ** The decision maker may determine a higher maximum number of residents to be allowed
+to occupy the facility upon finding that the facility as so occupied will satisfy
+the following criteria: a. the adjacent street system is sufficient to accommodate the traffic impacts generated
+by the large group care facility; b. the large group care facility has made adequate, on-site accommodations for its
+parking needs; c. the architectural design of the large group care facility is compatible with the
+character of the surrounding neighborhood; d. the size and scale of the large group care facility is compatible with the character
+of the surrounding neighborhood; and e. the types of treatment activities or the rendering of services proposed to be conducted
+upon the premises are substantially consistent with the activities permitted in the
+zone district in which the facility is proposed to be located.
+(C)
+With respect to group homes which require either a Type 1 or Type 2 review, the following
+regulations shall apply:
+(1)
+Before any group home shall be approved in any zone that requires a Type 1 or Type
+2 review, the decision maker shall conduct such review for the purpose of approving,
+denying or approving with conditions the application for a group home use in such
+zone. If approved, the decision maker shall, with such approval, establish the type
+of group home permitted and the maximum number of residents allowed in such group
+home.
+(2)
+A group home may be located without consideration to the minimum separation requirements
+as established in subparagraph (A) and (B) of this Section if the group home is separated
+from other group homes within the area of the aforesaid minimum separation requirement
+by a substantial natural or man-made physical barrier, including, but not limited
+to, an arterial street, a state or federal highway, railroad tracks, river or commercial/business
+district. Such reduction in the separation requirement shall be allowed only after
+the decision maker has determined that the barrier and resulting separation distance
+are adequate to protect the City from any detrimental impacts resulting from an excessive
+concentration of group homes in any one (1) vicinity.
+(3)
+No permanent certificate of occupancy will be issued by the City for a group home
+until the person applying for the group home has submitted a valid license, or other
+appropriate authorization, or copy thereof, from a governmental agency having jurisdiction.
+(4)
+If active and continuous operations are not carried on in a group home which was approved
+pursuant to the provisions contained in this Section for a period of twelve (12) consecutive
+months, the group home use shall be considered to have been abandoned. The group home
+use can be reinstated only after obtaining a new approval from the decision maker
+as outlined in this Section.
+(D)
+Shelters for victims of domestic violence shall be separated from any other group
+home or shelter by a minimum of one thousand five hundred (1,500) feet.
+(Ord. No. 59, 2000 §24, 6/6/00; Ord. No. 107, 2001 §§30, 31, 6/19/01; Ord. No. 177,
+2002 §15, 12/17/02; Ord. No. 192, 2006 §§9, 10, 12/19/06; Ord. No. 028, 2009 §2, 3/24/09;
+Ord. No. 036, 2001 §1, 3/22/11; Ord. No. 100, 2020 , §4, 8/18/20)
+(A)
+Title; Purpose and Intent.
+(1)
+Title. Sections 3.8.7.1 , 3.8.7.2 , 3.8.7.3 , 3.8.7.4 , 3.8.7.5 . and 3.8.7.6 may be collectively referred to as the "City of Fort Collins Sign Code,"
+or the "Sign Code". Definitions related to the Sign Code are set out in Section 5.1.2 , Definitions.
+(2)
+Purpose and Intent. The purpose and intent of the Sign Code is to set out reasonable regulations for
+the design, location, installation, display, operation, repair, maintenance, and removal
+of signs in a manner that advances the City's legitimate, important, substantial,
+and compelling interests, while simultaneously safeguarding the constitutionally protected
+right of free speech.
+(B)
+Interests. The City has a legitimate, important, substantial, or compelling interest in:
+(1)
+Preventing the proliferation of signs of generally increasing size, dimensions, and
+visual intrusiveness (also known as "sign clutter") that tends to result from property
+owners competing for the attention of passing motorists and pedestrians, because sign
+clutter:
+(a)
+Creates visual distraction and obstructs views, potentially creating safety hazards
+for motorists, bicyclists, and pedestrians;
+(b)
+May involve physical obstruction of streets, sidewalks, or trails, creating public
+safety hazards;
+(c)
+Degrades the aesthetic quality of the City, making the City a less attractive place
+for residents, business owners, visitors, and private investment; and
+(d)
+Dilutes or obscures messages on individual signs due to the increasing competition
+for attention.
+(2)
+Maintaining and enhancing the historic character of historic Downtown Fort Collins,
+a unique historic resource of exceptional quality and vibrancy.
+(3)
+Protecting the health of the City's tree canopy, an important community asset that
+contributes to the character, environmental quality, and economic health of the City
+and the region.
+(4)
+Maintaining a high quality aesthetic environment to protect and enhance property values,
+leverage public investments in streets, sidewalks, trails, plazas, parks, open space,
+civic buildings, and landscaping, and enhance community pride.
+(5)
+Protecting minors from speech that is harmful to them according to state or federal
+law, by preventing such speech in places that are accessible to and used by minors.
+(C)
+Findings. The City finds that:
+(1)
+Content-neutrality, viewpoint neutrality, and fundamental fairness in regulation and
+review are essential to ensuring an appropriate balance between the important, substantial,
+and compelling interests set out in Section 3.8.7.1 (B) and the constitutionally-protected right to free expression.
+(2)
+The regulations set out in the Sign Code are unrelated to the suppression of constitutionally-protected
+free expression, do not relate to the content of protected messages that may be displayed
+on signs, and do not relate to the viewpoint of individual speakers.
+(3)
+The incidental restriction on the freedom of speech that may result from the regulation
+of signs pursuant to the Sign Code is no greater than is essential to the furtherance
+of the important, substantial, and compelling interests that are set out in Section 3.8.7.1 (B).
+(4)
+Regulation of the location, number, materials, height, sign area, form, and duration
+of display of temporary signs is essential to prevent sign clutter.
+(5)
+Temporary signs may be degraded, damaged, moved, or destroyed by wind, rain, snow,
+ice, and sun, and after such degradation, damage, movement, or destruction, such signs
+harm the safety and aesthetics of the City's streets if they are not removed.
+(6)
+Certain classifications of speech are not constitutionally protected due to the harm
+that they cause to individuals or the community.
+(D)
+Applicability, exemptions, and permit exceptions.
+(1)
+Applicability. The provisions of the Sign Code shall apply to the display, construction, installation,
+erection, alteration, use, location, maintenance, and removal of all signs within
+the City that are not specifically exempt from such application.
+(2)
+Sign Permits.
+(a)
+No sign shall be displayed, constructed, installed, erected, refaced, or altered within
+the City limits until the City has issued a sign permit, unless the sign qualifies
+as an exception to the permit requirements.
+(b)
+No permit is required for routine sign maintenance, painting, or replacing light sources
+with lighting of comparable intensity (however, the installation of a new manual changeable
+copy message center or electronic message center does require a permit).
+(3)
+Sign Regulation Exemptions. The Sign Code does not apply to:
+(a)
+Signs of any type that are installed or posted (or required to be installed or posted)
+by the Federal government, the State of Colorado, Larimer County, the City, or a School
+District (collectively, "Governmental Entities"), on property owned or controlled
+by a Governmental Entity.
+(b)
+Required signs, posted in accordance with applicable law or regulations.
+(4)
+Sign Regulation Partial Exemptions. The following signs are subject only to subsections (E) through (L) of this Section 3.8.7.1 , inclusive, and shall not require a sign permit:
+(a)
+Signs that are not visible from any of the following areas due to the configuration
+of the building(s) or structure(s) or the topography of the site upon which the signs
+are located:
+1.
+Residential lots;
+2.
+Adjoining property that is not under common ownership;
+3.
+Public rights-of-way; or
+4.
+Property that is located at a higher elevation than the property upon which the sign
+is displayed.
+(b)
+Signs that are not legible from adjoining property or rights-of-way due to the configuration
+of the building(s) or structure(s) or the topography of the site upon which the signs
+are located or the orientation or setback or typeface of the sign, provided that:
+1.
+One (1) such sign may have a sign area that is not more than thirty-five (35) square
+feet, and if a sign area allowance applies to the site, fifty (50) percent of the
+sign area of the sign is counted towards the sign area allowance;
+2.
+Other such signs may have a sign area that is not more than eight (8) square feet,
+and are not counted towards any applicable sign area allowance.
+(c)
+Horizontal projected light signs that are projected onto private property, provided
+that they are not projected onto required signs.
+(5)
+Sign Permit Exceptions. The following signs may be displayed, constructed, installed, erected, or altered
+without a sign permit, but are not exempt from other applicable provisions of Section 3.8.7.2 or Section 3.8.7.3 :
+(a)
+One (1) optional residential sign per street-facing building elevation of a residential
+building not exceeding four (4) square feet in area;
+(b)
+Flags that are hung from not more than three (3) rigid, straight, building-mounted
+or ground-mounted flagpoles per one hundred (100) feet of property frontage or fraction
+thereof, provided that:
+1.
+No more than three (3) flags are flown from any one (1) flagpole;
+2.
+No flag obstructs pedestrian, bicycle, or vehicular traffic, or a required sight triangle;
+and
+3.
+No flag exceeds thirty-two (32) square feet in area;
+(c)
+Small signs, as follows:
+1.
+Signs that are affixed to a building or structure, that do not exceed two (2) square
+feet in sign area, provided that only one (1) such sign is present on each elevation
+that is visible from public rights-of-way or adjoining property; and
+2.
+Signs that are less than one (1) square foot in area that are affixed to machines,
+equipment, fences, gates, walls, gasoline pumps, public telephones, or utility cabinets;
+(d)
+Temporary seasonal decorations;
+(e)
+Temporary signs (except feather flags and attached or detached temporary banners and
+pennants, all of which require a sign permit); and
+(f)
+Window signs that are less than six (6) square feet in area, provided that:
+1.
+The total area covered by window signs:
+a.
+Does not exceed twenty-five (25) percent of the area of the architecturally distinct
+window in which they are located; and
+b.
+Does not exceed twenty-five (25) percent of the sign allowance described in Section 3.8.7.2 (A); and
+2.
+The window signs are not illuminated.
+(E)
+Relationship to Other Regulations.
+(1)
+In addition to the regulations set out in the Sign Code, signs may also be subject
+to applicable State laws and regulations (e.g., State of Colorado, Department of Highways,
+"Rules and Regulations Pertaining to Outdoor Advertising," effective January 1, 1984,
+as may be amended from time to time), Federal laws and regulations, and applicable
+adopted building and electrical codes. Exceptions to the sign permit requirement do
+not constitute exemptions to other applicable codes or permit requirements.
+(2)
+Where any provision of the Sign Code covers the same subject matter as other regulations
+of the City, the more specific regulation shall control the more general one, unless
+the City determines that the more restrictive regulation is clearly unenforceable
+as a matter of law.
+(3)
+Where any provision of the Sign Code covers the same subject matter as other regulations
+of the State of Colorado or the United States, the applicant is advised that nothing
+in this Chapter shall be construed as a defense to a violation of applicable state
+or federal law except as may be provided in the state or federal law.
+(4)
+All signs within the Old Town Historic District within the Downtown District must
+comply with the Old Town Historic District Design Standards except that the Old Town
+Historic District Design Standards shall not be interpreted to limit the content of
+the sign.
+(5)
+The Downtown District shall be defined by the boundary exhibited in the 2017 Fort
+Collins Downtown Plan.
+(F)
+Measurements.
+(1)
+Property Frontage. Property frontage is measured as the length of each property boundary that abuts
+a public street right-of-way.
+(2)
+Sign Area.
+(a)
+Generally. In general, sign area is the area within a continuous polygon with up to eight (8)
+straight sides that completely encloses the limits of text and graphics of a sign,
+together with any frame or other material or color forming an integral part of the
+display or used to differentiate the sign's contents from the background against which
+they are placed.
+(b)
+Additions. The area of all freestanding and ground signs shall include the area of the sign
+face(s) as calculated in subsection (F)(2)(a), together with any portion of the sign
+structure which exceeds one and one-half (1½) times the area of the sign face(s).
+(c)
+Exclusions. The sign area does not include the structure upon which the sign is placed (unless
+the structure is an integral part of the display or used to differentiate it), but
+does include any open space contained within the outer limits of the display face,
+or between any component, panel, strip, or figure of any kind composing the display
+face, whether this open space is enclosed by a frame or border or not.
+Figure (F)(2)(c) Sign Area Measurement
+(d)
+Multiple Sign Faces. Freestanding temporary signs may have multiple faces. The area of such signs is measured
+using the vertical cross-section that represents the sign's maximum projection upon
+a vertical plane (e.g., for a sign with two (2) opposite faces on the same plane,
+the total cumulative area of both faces is used for area calculation).
+Figure (F)(2)(d) Multiple Sign Faces
+(e)
+Three-Dimensional Sign Faces. The area of signs that do not have a flat sign face is measured using the vertical
+cross-section that represents the sign's maximum projection upon a vertical plane.
+Figure (F)(2)(e) Three-Dimensional Sign Faces
+(3)
+Sign Clearance. Sign clearance is the distance between the bottom of a sign or related structural
+element that is not affixed to the ground and the nearest point on the ground-level
+surface under it.
+Figure (F)(3) Sign Clearance
+(4)
+Sign Height. Sign height is measured as:
+(a)
+For ground-mounted signs:
+1.
+The distance between ground level at the base of the sign and the top of the sign
+or sign structure, whichever is higher; or
+2.
+If the average grade under the base of the sign is more than two (2) feet lower than
+the average grade of the nearest adjoining street, then the height of the detached
+sign shall be measured from the elevation of the flowline of the street to the top
+of the sign or sign structure.
+Figure (F)(4)(a) Sign Height (Ground-Mounted Signs)
+(b)
+For building-mounted signs, the greatest distance between the lowest part of the sign
+or sign structure and the highest part of the sign or sign structure.
+Figure (F)(4)(b) Sign Height (Building-Mounted Signs)
+(5)
+Projection. Projection is the horizontal distance between a building wall or fascia to which
+a sign is mounted and the part of the sign or sign structure that is most distant
+from the wall or fascia, Measured perpendicular to the vertical plane of the wall
+or fascia.
+Figure (F)(5) Projection
+(6)
+Setbacks. Sign setbacks are measured perpendicularly from the property line that defines the
+required setback to the nearest point on the sign or sign structure.
+(G)
+Prohibited signs and sign elements.
+(1)
+Generally. The prohibitions in this subsection (G) apply to temporary and permanent signs in
+all areas of the City.
+(2)
+Prohibited Signs. The following signs are not allowed, whether temporary or permanent:
+(a)
+Temporary signs, except as specifically permitted in Section 3.8.7.3 , Temporary Signs;
+(b)
+Portable signs, except as permitted in the Code of the City of Fort Collins Chapter
+24, Article IV;
+(c)
+Wind-driven signs except flags, feather flags, banners, and pennants in compliance
+with this Section 3.8.7.3 ;
+(d)
+Inflatable signs, and signs that are designed to appear as inflatable signs (e.g.,
+plastic balloons);
+(e)
+Revolving or rotating signs;
+(f)
+Permanent off-premises signs;
+(g)
+Billboards; and
+(h)
+Abandoned signs.
+(3)
+Prohibited Design Elements. The following elements shall not be incorporated as an element of any sign or sign
+structure, whether temporary or permanent:
+(a)
+Animated or moving parts, including any moving, swinging, rotating, or spinning parts
+or flashing, blinking, scintillating, chasing, fluctuating, or otherwise animated
+light; except as expressly allowed in this Sign Code;
+(b)
+Cardboard, card stock, or paper, except when laminated or used as a window sign located
+on the interior side of the window;
+(c)
+Motor vehicles, unless:
+1.
+The vehicles are operational, and either:
+a.
+Automobile dealer inventory; or
+b.
+Regularly used as motor vehicles, with current registration and tags;
+2.
+The display of signage on the motor vehicle would not interfere with the immediate
+operation of the motor vehicle (e.g., signs that are held in place by an open hood
+or trunk are not allowed; signs that cover windows are not allowed; and signs that
+would fall off of the vehicle if the vehicle were in motion are not allowed); and
+3.
+The motor vehicle is legally parked in a vehicle use area depicted on an approved
+site plan.
+(d)
+Semi-trailers, shipping containers, or portable storage units, unless:
+1.
+The trailers, containers, or portable storage units are:
+a.
+Structurally sound and capable of being transported;
+b.
+Used for their primary purpose (e.g., storage, pick-up, or delivery); and
+c.
+If subject to registration, have current registration and tags; and
+2.
+The display of signage is incidental to the primary purpose; and
+3.
+The semi-trailer, shipping container, or portable storage unit is parked or placed
+in a designated loading area or on a construction site in an area that is designated
+on an approved construction staging plan.
+Exception: This standard does not apply to shipping containers that are used as building
+cores.
+(e)
+Stacked products (e.g., tires, soft drink cases, bagged soil or mulch) that are placed
+in unapproved outdoor storage locations;
+(f)
+Materials with a high degree of specular reflectivity, such as polished metal, installed
+in a manner that creates substantial glare from headlights, street lights, or sunlight.
+Exception: This standard does not prohibit retroreflective materials that comply with
+the standards set forth in the Manual on Uniform Traffic Control Devices.
+(g)
+Rooftop signs and all other types of signs that project above the roof deck, except
+that signs are allowed on parapet walls if the parapet wall was constructed as a part
+of the building and the parapet wall includes a sign band within which the sign is
+installed.
+Exception: Secondary Roof signs as provided in subsection 3.8.7.2 (F).
+(4)
+Prohibited Obstructions. In no event shall a sign, whether temporary or permanent, obstruct the use of:
+(a)
+Building ingress or egress, including doors, egress windows, and fire escapes;
+(b)
+Operable windows (with regard to movement, not transparency); or
+(c)
+Equipment, structures, or architectural elements that are related to public safety,
+building operations, or utility service (e.g., standpipes, downspouts, fire hydrants,
+electrical outlets, lighting, vents, valves, and meters).
+(5)
+Prohibited Mounts. No sign, whether temporary or permanent, shall be posted, installed, mounted on,
+fastened, or affixed to any of the following:
+(a)
+Any tree or shrub;
+(b)
+Any utility pole or light pole, unless:
+1.
+The sign is a banner or flag that is not more than ten (10) square feet in area;
+2.
+The owner of the utility pole or light pole consents to its use for the display of
+the banner or flag;
+3.
+The banner or flag is mounted on brackets or a pole that extends not more than thirty
+(30) inches from the utility pole or light pole;
+4.
+The banner or flag is either situated above an area that is not used by pedestrians
+or vehicles, or the bottom of the banner or flag has a sign clearance of at least
+eight (8) feet; and
+5.
+Any applicable City encroachment or banner permits are obtained; or
+(c)
+Utility cabinets.
+(H)
+Prohibited Locations. In addition to applicable setback requirements and other restrictions of this Sign
+Code, no sign shall be located in any of the following locations:
+(1)
+In or over public rights-of-way (which, in addition to streets, may include other
+sidewalks, parkways, trails, multi-use pathways, retaining walls, utility poles, traffic
+calming devices, medians, and center islands that are within public rights-of-way),
+except:
+(a)
+Signs painted on or affixed to transit shelters and bus benches as authorized by the
+provider of the shelter or bench, but not extending beyond the physical structure
+of the shelter or bench;
+(b)
+Signs that are the subject of a revocable license agreement with the City, installed
+and maintained in accordance with the terms of that agreement;
+(c)
+Portable signs permitted pursuant to the Code of the City of Fort Collins, Chapter
+24, Article IV; or
+(d)
+Signs posted by the City or jurisdiction that owns or maintains the right-of-way;
+or
+(2)
+Within any sight distance triangle, as provided in subsection (I), below.
+(I)
+Illumination. The illumination of signs, where permitted, shall comply with the standards of this
+subsection (I) and Land Use Code Section 3.2.4 , Site Lighting.
+(1)
+Generally.
+(a)
+In general, attached illuminated signs shall be turned off by 11:00 PM if they located
+within three hundred (300) feet of property that is zoned, used, or approved for residential
+use. However, signs may be illuminated in Downtown, Commercial/Industrial, and Mixed-Use
+sign districts after 11:00 PM if:
+1.
+The operating hours of the use to which the sign relates extend past 10:30 PM, in
+which case the sign shall be turned off not more than thirty (30) minutes after the
+end of operating hours each day; and the sign is dimmed by at least thirty (30) percent
+between midnight and 6:00 AM; or
+2.
+The lighting that illuminates the sign is used primarily for the protection of the
+premises or for safety purposes; or
+3.
+The sign is separated from residential uses by an arterial street.
+(b)
+Illuminated signs shall avoid the concentration of illumination. The intensity of
+the light source shall not produce glare, the effect of which constitutes a traffic
+hazard or nuisance to adjoining property.
+(c)
+No sign or associated luminaire shall create light spillover of more than one (1)
+lux at any property line that is zoned or used for single-family detached, duplex,
+or townhome purposes.
+(d)
+Every electric sign shall have affixed thereon an approved Underwriters' Laboratories
+label, and all wiring connected to such sign shall comply with all provisions of the
+National Electrical Code, as adopted by the City.
+(e)
+Electrical service to freestanding signs shall be installed underground. Electrical
+service to attached signs shall be provided from the building and concealed from view.
+(2)
+Internal Illumination.
+(a)
+No internal sign lighting shall include any exposed light source, except that neon
+or comparable tube lighting is permitted in locations where internal sign illumination
+is allowed.
+(b)
+During the time between sunset and the time an illuminated sign must be turned off
+pursuant to subsection (I)(1)(a), above, internally lit signs (including electronic
+message centers) shall not exceed six hundred (600) nits of luminance.
+(3)
+Indirect Lighting.
+(a)
+All signs that use indirect lighting shall have their lighting directed in such a
+manner as to illuminate only the face of the sign, and not to create glare or sky
+glow.
+(b)
+When indirect lighting is used to illuminate detached signs, the light source must
+be concealed from view from on and off-site vehicular and pedestrian use areas and
+from within existing buildings.
+(c)
+Indirect lighting of signs shall not exceed the following illuminance:
+1.
+Commercial/Industrial and Mixed-Use Sign Districts: six hundred (600) lux.
+2.
+Downtown Sign District: five hundred (500) lux.
+3.
+All Other Sign Districts: four hundred (400) lux.
+(4)
+Off-Premises Signage. No new illumination may be added to existing off-premises signage.
+(J)
+Message Centers.
+(1)
+Manual Copy Message Centers.
+(a)
+Design.
+1.
+Manual changeable copy message centers shall appear integrated into the sign face
+of a permanent sign that also includes text and graphics that are not part of the
+manual changeable copy message center.
+2.
+No manual changeable copy message center may be constructed using face or screen materials
+such as expanded metal or other types of mesh; any type of corrugated plastic such
+as Filon, V3, or Styrene; or other types of materials that are commonly used for "portable"
+or "homemade" signs.
+(b)
+Dimensions. No manual changeable copy message center shall occupy more than eighty (80) percent
+of the sign area of a sign.
+(c)
+Operation and Maintenance.
+1.
+No changeable copy sign or portion of a sign may have changeable copy that is nailed,
+pinned, glued, taped, or comparably attached.
+2.
+If any part of the changeable copy portion of a sign or the track type system or other
+method of attachment is absent from the sign, or deteriorates so that it is no longer
+consistent with the style or materials used in the permanent portion of the sign,
+or is altered in such a way that it no longer conforms to the approved plans and specifications,
+the sign shall be removed or repaired within fourteen (14) days.
+(2)
+Electronic Message Centers. Digital electronic message centers ("EMCs") may be incorporated into signs as provided
+in this subsection.
+(a)
+Number, Design, Dimensions.
+1.
+Not more than one (1) sign with an EMC component is allowed per street frontage.
+2.
+EMCs shall appear to be incorporated into the face of a permanent sign that includes
+text or graphics that are not part of the EMC.
+3.
+EMCs shall not have a pixel pitch that is greater than twelve (12) mm.
+4.
+EMCs shall be integrated harmoniously into the design of the sign face and structure,
+shall not be the predominant element of the sign, and if located at the top of a sign,
+the sign must include a substantial cap feature above the EMC, which consists of the
+same material, form, color, and texture as is found on the sign face or structure.
+5.
+Not more than fifty (50) percent of the sign area of a permitted sign may be occupied
+by EMCs.
+(b)
+Spacing, Prohibitions.
+1.
+Signs with EMC components shall be separated from each other and from property used
+or if the property is vacant but zoned for residential purposes (except multi-family
+buildings with more than four [4] units) by a distance of not less than one hundred
+(100) feet, measured in a straight line.
+2.
+EMCs are not allowed on a freestanding pole sign except as provided in Section 3.8.7.6.
+3.
+In the Downtown (D) District, wall signs with electronic message centers are not permitted
+on properties located within the boundaries of the Portable Sign Placement Area Map,
+See Section 24-150, et seq., Fort Collins City Code.
+(c)
+Operations.
+1.
+The message displayed on an EMC shall not change more frequently than once per sixty
+(60) seconds unless the EMC is subject to Section 3.8.7.6(F). If a single sign includes
+multiple EMCs, they shall be considered a single EMC for the purposes of this standard.
+2.
+EMCs shall contain static messages only, and animated, dissolve, or fade transitions
+are not allowed.
+3.
+EMCs shall be controlled by dimming software and sensors to adjust brightness for
+nighttime viewing and variations in ambient light. The intensity of the light source
+shall not produce glare, the effect of which constitutes a traffic hazard or is otherwise
+detrimental to the public health, safety or welfare.
+(d)
+Certification. Prior to acceptance of the installation by the City, the permit holder shall schedule
+an inspection with a Zoning Inspector to verify compliance. The permit holder and
+the business owner, business manager or property manager shall be in attendance during
+the inspection.
+(K)
+Sight Distance Triangles. Signs that obstruct view within an area between forty-two (42) inches and seventy-two
+(72) inches above the flowline of the adjacent street shall be set back from the right-of-way
+line a distance as established in Table (K), Sight Distance Triangles.
+
+Table (K) Sight Distance Triangles 1
+Type of street | Y distances (ft.) 2 | X distances (ft.) | Safe sight distance (ft.)
+Arterial | Right: 135 | 15 | 500
+Left: 270
+Collector | Right: 120 | 15 | 400
+Left: 220
+Local | Right: 100 | 15 | 300
+Left: 150
+Table Notes: 1 These distances are typical sight distance triangles to be used under normal conditions
+and may be modified by the Director of Engineering in order to protect the public
+safety and welfare in the event that exceptional site conditions necessitate such
+modification. 2 See Figure (K) for illustration.
+
+Figure (K) Sight Distance Triangle Setbacks
+(L)
+Content. Except as provided in this subsection (L), no sign shall be approved or disapproved
+based on the content or message it displays.
+(1)
+Prohibition on Certain Types of Unprotected Speech. The following content, without reference to the viewpoint of the individual speaker,
+shall not be displayed on signs:
+(a)
+Text or graphics that is harmful to minors as defined by state or federal law;
+(b)
+Text or graphics that are obscene, fighting words, defamation, incitement to imminent
+lawless action, or true threats, as such words and phrases are defined by controlling
+law;
+(c)
+Text or graphics that present a clear and present danger due to their potential confusion
+with traffic control signs; or
+(d)
+Signs that provide false information related to public safety (e.g., signs that use
+the words "Stop," "Yield," "Caution," or "Danger," or comparable words, phrases, symbols,
+or characters that are presented in a manner as to confuse motorists or imply a safety
+hazard that does not exist).
+(2)
+Severability. The narrow classifications of content that are prohibited from display on signs by
+this subsection (L) are either not protected by the United States and Colorado Constitutions,
+or are offered limited protection that is outweighed by the substantial and compelling
+governmental interests in protecting the public safety and welfare. It is the intent
+of the City Council that each provision of this subsection (L) be individually severable
+in the event that a court holds one or more of them to be inconsistent with the United
+States Constitution or Colorado Constitution.
+(M)
+Sign Districts.
+(1)
+Generally. In recognition that the City is a place of diverse physical character, and that different
+areas of the City have different functional characteristics, signs shall be regulated
+based on sign district in which they are located.
+(2)
+Sign Districts Created. The following sign districts are created: Downtown, Commercial/Industrial, Multifamily,
+Single-Family, and Residential Neighborhood. Sign districts shall correspond to zoning
+districts as provided in Table (M), Sign Districts.
+
+Table (M) Sign Districts
+Sign District | Corresponding Zoning Districts
+Downtown | D; R-D-R
+Commercial/Industrial | T; C-C; C-C-N; C-C-R; C-G; C-S; C-L; H-C; E; I
+Mixed-Use | L-M-N; M-M-N; H-M-N; N-C
+Multifamily | N-C-M; N-C-B; M-H
+Single-Family | R-U-L; U-E; R-F; R-L; N-C-L; P-O-L; R-C
+Residential Neighborhood Sign District | See map on file at City Clerk's office. To the extent of any geographic overlap with
+other sign districts, the Residential Neighborhood Sign District supersedes the overlapped
+sign district.
+
+(A)
+Sign Area Allowance.
+(1)
+Generally. The sign area allowance limits the total amount of sign area that may be allocated
+to certain types of signs (listed in Tables (B) to (F)) on a site based on the location
+and use of the site. Sign area allowance is calculated as set out in Table (A), Sign
+Area Allowance.
+
+Table (A) Sign Area Allowance
+Location/Use | Calculation
+For 1st 200 lf. of bldg. frontage | + | For each lf. of bldg. frontage in excess of 200 lf. | = | But not less than
+Generally
+All Sign Districts 1 | 2 sf./lf. | + | 1 sf./lf. | = | 1 sf./lf. of lot frontage
+TABLE NOTES: 1 Sign allowance is calculated per building frontage and may only be applied to the
+frontage to which the calculations apply. No more than 3 building frontages shall
+be used for the purposes of the sign allowance calculations.
+
+(2)
+Sites without Frontage on Public Streets. If a building does not have frontage on a dedicated public street, the owner of the
+building may designate the one building frontage for the purpose of calculating the
+sign area allowance.
+(3)
+Allocation of Sign Area Allowance.
+(a)
+If the only building frontage that fronts on a public street is a wall containing
+no signs, the property owner may designate another building frontage on the building
+on the basis of which the total sign allowance shall be calculated, provided that
+no more than twenty-five (25) percent of the total sign allowance permitted under
+this Sign Code may be placed on frontage other than the building fascia which was
+the basis for the sign allowance calculation.
+(b)
+In all other cases, the sign allowance for a property may be distributed in any manner
+among its building and/or street frontages except that no one building, or street
+frontage may contain more sign area than one hundred (100) percent of the sign area
+allowance.
+Figure (A), Sign Types
+(B)
+Wall Signs. Wall signs are allowed according to the standards in Table (B), Wall Signs.
+
+Table (B) Wall Signs
+Type of Sign Standards | Sign District
+Outside of Residential Neighborhood Sign District 1
+Downtown | Commercial/ Industrial | Mixed-Use | Multifamily | Single-Family | Within Residential Neighborhood Sign District 1
+Applied or Painted Wall Signs
+Max. # | Not limited | Not limited | 1 per single-family dwelling unit or duplex building that fronts on an arterial; or
+1 per nonresidential use | 1 per single-family dwelling unit or duplex building that fronts on an arterial; or
+1 per nonresidential use | 1 per single-family dwelling unit or duplex building that fronts on an arterial; or
+1 per nonresidential use | 1 per single-family dwelling unit or duplex building that fronts on an arterial; not
+limited for nonresidential uses
+Subject to Sign Area Allowance | Yes | Yes | Nonresidential uses only | Nonresidential uses only | Nonresidential uses only | Yes
+Max. Sign Area | In addition to sign allowance, 6 sf. is allowed on rear wall if: (i) the wall includes
+a public entrance; (ii) site is within DDA Alley Enhancement Project area; and (iii)
+a projecting sign is not installed on the wall | Limited by sign area allowance | Single-family or duplex building: 4 sf. Nonresidential use: 35 sf. | Single-family or duplex building: 4 sf. Nonresidential use: 35 sf. | Single-family or duplex building: 4 sf. Nonresidential use: 35 sf. | Limited by sign area allowance, except if tenant space does not have outside wall,
+in which case 30 sf.
+Max. Sign Height | 4.5 ft. if within 15 ft. of elevation of sidewalk below; 7 ft. if above 15 ft. of
+elevation of sidewalk below but any portion below fourth story; 9 ft. if entirely
+above fourth story. | 7 ft. | 7 ft. | 7 ft. | 7 ft. | 2.5 ft. within Neighborhood Service Center or Neighborhood Commercial Uses; 2 ft.
+within Convenience Shopping Center use; and 1.5 ft. for all other Institutional, Business,
+Commercial, or other Nonresidential uses
+Max. Sign Width | N/A | N/A | N/A | N/A | N/A | N/A
+Allowed Lighting | Indirect only | Indirect only | Indirect only | Indirect only | None | Indirect only
+Other Standards | For flush wall signs consisting of framed banners, all banners shall be sized to fit
+the banner frame so that there are no visible gaps between the edges of the banner
+and the banner frame. | For flush wall signs consisting of framed banners, all banners shall be sized to fit
+the banner frame so that there are no visible gaps between the edges of the banner
+and the banner frame. | Not allowed if detached sign is installed | Not allowed if detached sign is installed | Not allowed if detached sign is installed | Location shall harmonize with architecture of the building(s) to which sign is attached,
+(e.g., projection, relief, cornice, column, change of building material, window or
+door opening); Flush wall signs shall align with other such signs on the same building.
+
+Figure (B)(1) Applied or Painted Wall Signs
+
+Table (B) Wall Signs
+Type of Sign Standards | Sign District
+Outside of Residential Neighborhood Sign District 1
+Downtown | Commercial/ Industrial | Mixed-Use | Multifamily | Single-Family | Within Residential Neighborhood Sign District 1
+Applied or Painted Wall Signs - Vertically Oriented
+Max. # | 1 per building | 1 per building | 1 per building | 1 per building | 1 per building | 1 per single-family dwelling unit or duplex building that fronts on an arterial; 1
+per building for nonresidential uses
+Subject to Sign Area Allowance | Yes | Yes | Nonresidential uses only | Nonresidential uses only | Nonresidential uses only | Yes
+Max. Sign Area | Limited by sign area allowance | Limited by sign area allowance | Single-family or duplex building: 4 sf. Nonresidential use: 35 sf. | Single-family or duplex building: 4 sf. Nonresidential use: 35 sf. | Single-family or duplex building: 4 sf. Nonresidential use: 35 sf. | Limited by sign area allowance, except if tenant space does not have outside wall,
+in which case 30 sf.
+Max. Sign Height | 10' if within 15' if elevation of sidewalk below; 25 ft. if above 15' of elevation
+of sidewalk below | 25 ft. | 25 ft. | 25 ft. | 25 ft. | 25 ft.
+Max. Sign Width | 2 ft. | 2 ft. | 2 ft. | 2 ft. | 2 ft. | 2 ft.
+Allowed Lighting | Indirect only | Indirect only | Indirect only | Indirect only | Indirect only | Indirect only
+
+Figure (B)(2) Applied or Painted Wall Signs - Vertically Oriented
+
+Table (B) Wall Signs
+Type of Sign Standards | Sign District
+Outside of Residential Neighborhood Sign District 1
+Downtown | Commercial/ Industrial | Mixed-Use | Multifamily | Single-Family | Within Residential Neighborhood Sign District 1
+Cabinet Wall Signs or Dimensional Wall Signs
+Max. # | Not limited | Not limited | Not limited for nonresidential or mixed-use; 1 per building per frontage for multifamily
+properties | Not limited for nonresidential or mixed-use; 1 per building per frontage for multifamily
+properties | Not limited for nonresidential or mixed-use; 1 per building per frontage for multifamily
+properties | Not limited for nonresidential or mixed-use; 1 per building per frontage for multifamily
+properties
+Subject to Sign Area Allowance | Yes | Yes | Nonresidential uses only | Yes | Yes | Yes
+Max. Sign Area | Limited by sign area allowance | Limited by sign area allowance | Limited by sign area allowance | Limited by sign area allowance | Limited by sign area allowance | Limited by sign area allowance
+Max. Sign Height | 4.5 ft. if within 15 ft. of elevation of sidewalk below; 7 ft. if above 15 ft. of
+elevation of sidewalk below but any portion below fourth story; 9 ft. if entirely
+above fourth story. | 7 ft. | 7 ft. | 7 ft. | 7 ft. | 2.5 ft. within Neighborhood Service Center or Neighborhood Commercial Uses; 2 ft.
+within Convenience Shopping Center use; and 1.5 ft. for all other Institutional, Business,
+Commercial, or other Nonresidential uses
+Max. Projection | 1 ft. | 1 ft. | 1 ft. | 1 ft. | 1 ft. | 1 ft.
+Allowed Lighting | Any | Any | Any | None | None | Internal only
+Other Standards | Raceway must be finished to match color of wall; raceway must be not more than 50%
+of height of attached letters or shapes | Raceway must be finished to match color of wall; raceway must be not more than 50%
+of height of attached letters or shapes | Raceway must be finished to match color of wall; raceway must be not more than 50%
+of height of attached letters or shapes | Raceway must be finished to match color of wall; raceway must be not more than 50%
+of height of attached letters or shapes | Raceway must be finished to match color of wall; raceway must be not more than 50%
+of height of attached letters or shapes | Raceway must be finished to match color of wall; raceway must be not more than 50%
+of height of attached letters or shapes
+
+(C)
+Window Signs. Window signs are allowed according to the standards in Table (C), Window Signs.
+
+Table (C) Window Signs
+Type of Sign Standards | Sign District
+Outside of Residential Neighborhood Sign District 1
+Downtown | Commercial/ Industrial | Mixed-Use | Multifamily | Single-Family | Within Residential Neighborhood Sign District 1
+All Window Signs
+Max. # | Not limited 1 | Not limited 1 | Not limited 1 | Not limited | Not limited | Not limited
+Subject to Sign Area Allowance | Yes, except as provided in "other standards," below | Yes, except as provided in "other standards," below | Nonresidential only, and except as provided in "other standards," below | No | No | Yes
+Max. Sign Area 2 | Up to 50% of area of architecturally distinct window. | Up to lesser of 50% of area of architecturally distinct window or 80 sf. | Up to lesser of 50% of area of architecturally distinct window or 80 sf. | Nonresidential: Up to lesser of 50% of area of architecturally distinct window or
+80 sf.; Residential: 6 sf. | Nonresidential: Up to lesser of 50% of area of architecturally distinct window or
+80 sf.; Residential: 6 sf. | Nonresidential: Up to lesser of 25% of area of architecturally distinct window or
+80 sf.; Residential: 6 sf.
+Max. Sign Height | No Max. | 7 ft. | 7 ft. | 3 ft. | 3 ft. | 3 ft.
+Allowed Lighting | Internal | Internal | Internal | None | None | Internal
+Other Standards | Window signs that are not exempt from sign permits are counted towards sign area allowance.
+See subsection (A), above, and Section 3.8.7.1 (D)(5)(g) | Window signs that are not exempt from sign permits are counted towards sign area allowance.
+See subsection (A), above, and Section 3.8.7.1 (D)(5)(g) | Window signs that are not exempt from sign permits are counted towards sign area allowance.
+See subsection (A), above, and Section 3.8.7.1 (D)(5)(g) | Not allowed above the first story of nonresidential buildings | Not allowed above the first story of nonresidential buildings | Not allowed above the first story of nonresidential buildings
+
+(D)
+Projecting Signs. Projecting signs include awning signs, marquee signs, under-canopy signs, and fin
+signs. Projecting signs are allowed according to the standards in Table (D), Projecting
+Signs. Projecting signs shall not extend into the public right-of-way, except that
+the City may grant a revocable license to allow projecting signs to encroach into
+the right-of-way.
+
+Table (D) Projecting Signs
+Type of Sign Standards | Sign District
+Outside of Residential Neighborhood Sign District 1
+Downtown | Commercial/ Industrial | Mixed-Use | Multifamily | Single-Family | Within Residential Neighborhood Sign District 1
+Awning Signs
+Max. # | 1 per awning | 1 per awning | 1 per awning | 1 per awning; limited to nonresidential uses | 1 per awning; limited to nonresidential uses | 1 per awning; limited to nonresidential uses
+Subject to Sign Area Allowance | Yes | Yes | Nonresidential uses only | Nonresidential uses only | Nonresidential uses only | Yes
+Max. Sign Area | Lesser of 35 sf. or 25% of total area of the awning | Lesser of 35 sf. or 25% of total area of the awning | Lesser of 35 sf. or 25% of total area of the awning | Lesser of 35 sf. or 25% of total area of the awning | Lesser of 10 sf. or 10% of total area of the awning | Lesser of 35 sf. or 25% of total area of the awning
+Max. Projection (may project into right-of-way with revocable license) | 7 ft. | 7 ft. | 7 ft. | 7 ft. | 7 ft. | 7 ft.
+Min. Sign Clearance | 8 ft. to awning; 7 ft. to valance | 8 ft. to awning; 7 ft. to valance | 8 ft. to awning; 7 ft. to valance | 8 ft. to awning; 7 ft. to valance | 8 ft. to awning; 7 ft. to valance | 8 ft. to awning; 7 ft. to valance
+Allowed Lighting | Indirect; or backlighting of letters and graphics is allowed if background is completely
+opaque | Indirect; or backlighting of letters and graphics is allowed if background is completely
+opaque | Indirect; or backlighting of letters and graphics is allowed if background is completely
+opaque | Indirect; or backlighting of letters and graphics is allowed if background is completely
+opaque | For nonresidential uses only; Indirect; or backlighting of letters and graphics is
+allowed if background is completely opaque | Indirect; or backlighting of letters and graphics is allowed if background is completely
+opaque
+Other Standards | Not allowed above first story; awning must be installed over window or building entrance Awning sign shall not project above top of awning or beyond face of awning | Not allowed above first story; awning must be installed over window or building entrance Awning sign shall not project above top of awning or beyond face of awning | Not allowed above first story; awning must be installed over window or building entrance Awning sign shall not project above top of awning or beyond face of awning | Not allowed above first story; awning must be installed over window or building entrance Awning sign shall not project above top of awning or beyond face of awning | Not allowed above first story; awning must be installed over window or building entrance Awning sign shall not project above top of awning or beyond face of awning | Not allowed above first story; awning must be installed over window or building entrance Awning sign shall not project above top of awning or beyond face of awning
+Under-Canopy Signs
+Max. # | 1 per building entrance for canopies that are attached to buildings; 1 per elevation
+for detached canopies | 1 per building entrance for canopies that are attached to buildings; 1 per elevation
+for detached canopies | 1 per building entrance for canopies that are attached to buildings; 1 per elevation
+for detached canopies | 1 per building entrance for canopies that are attached to buildings; 1 per elevation
+for detached canopies | 1 per building entrance for canopies that are attached to buildings; 1 per elevation
+for detached canopies | Under canopies that cover vehicular use areas: 1 per street frontage; all others not
+limited
+Subject to Sign Area Allowance | Yes | Yes | Yes | Yes | Yes | Yes
+Max. Sign Area (per face) | Not covering vehicular use area: 4 sf.; Covering vehicular use area: 12 sf. | Not covering vehicular use area: 4 sf.; Covering vehicular use area: 12 sf. | Not covering vehicular use area: 4 sf.; Covering vehicular use area: 12 sf. | Not covering vehicular use area: 4 sf.; Covering vehicular use area: 12 sf. | Not covering vehicular use area: 4 sf.; Covering vehicular use area: 12 sf. | Not covering vehicular use area: 4 sf.; Covering vehicular use area: 12 sf.
+Min. Sign Clearance | 8 ft. | 8 ft. | 8 ft. | 8 ft. | 8 ft. | 8 ft.
+Allowed Lighting | Any | Any | Any | Indirect only | Indirect only | Indirect only
+Other Standards | Under-canopy sign shall not project above top of canopy to which it is mounted; painted
+or applied wall sign standards apply if parallel to building facade; secondary fin
+sign standards apply if perpendicular to building facade; not allowed if secondary
+fin sign is present at same entrance | Under-canopy sign shall not project above top of canopy to which it is mounted; painted
+or applied wall sign standards apply if parallel to building facade; secondary fin
+sign standards apply if perpendicular to building facade; not allowed if secondary
+fin sign is present at same entrance | Under-canopy sign shall not project above top of canopy to which it is mounted; painted
+or applied wall sign standards apply if parallel to building facade; secondary fin
+sign standards apply if perpendicular to building facade; not allowed if secondary
+fin sign is present at same entrance | Not allowed if secondary fin sign is present at same entrance | Not allowed if secondary fin sign is present at same entrance | Not allowed on a canopy that covers a vehicular use area if a canopy sign is present;
+not allowed if secondary fin sign is present at same entrance
+Fin Signs (Primary)
+Max. # | 1 per street frontage per nonresidential, mixed-use, or multifamily building | 1 per street frontage per nonresidential, mixed-use, or multifamily building | 1 per street frontage per nonresidential, mixed-use, or multifamily building | 1 per street frontage per nonresidential, mixed-use, or multifamily building | 1 per street frontage per nonresidential, mixed-use, or multifamily building | 1 per street frontage per nonresidential, mixed-use, or multifamily building
+Subject to Sign Area Allowance | Yes | Yes | Yes, but only for nonresidential, mixed-use, or multifamily buildings | Yes, but only for nonresidential, mixed-use, or multifamily buildings | Yes, but only for nonresidential, mixed-use, or multifamily buildings | Yes
+Max. Sign Area | 12 sf. if within 15 ft. of elevation of sidewalk below; 25 sf. if between 15 ft. and
+45 ft. of elevation above sidewalk below; 45 sf. if entirely above 45 ft. of elevation
+above sidewalk below | 15 sf. | 15 sf. | 15 sf. | 15 sf. | 7 sf.
+Max. Sign Height | 7 ft. if within 15 ft. of elevation of sidewalk below; 10 ft. if 15 ft. to 45 ft.
+of elevation above sidewalk below; 18 ft. if entirely above 45 ft. of elevation above
+sidewalk below | 7 ft. | 7 ft. | 7 ft. | 7 ft. | 4 ft.
+Max. Projection (may project into right-of-way only by revocable license) | Entirely or partially below third story: 3 ft.; entirely above third story: 6 ft.;
+Not more than 4 ft. within right-of-way | 6 ft.; not more than 4 ft. within right-of-way | 6 ft.; not more than 4 ft. within right-of-way | 6 ft.; not more than 4 ft. within right-of-way | 6 ft.; not more than 4 ft. within right-of-way | 4 ft.; not more than 4 ft. within right-of-way
+Min. Sign Clearance | 8 ft. | 8 ft. | 8 ft. | 8 ft. | 8 ft. | 8 ft.
+Allowed Lighting | Any | Any | Any | Any | Any | Internal only
+Other Standards | City may authorize up to 48 in. encroachment into right-of-way by revocable license
+if total sign area for fin signs is lesser of 1 sf. per lf. building frontage or 12
+sf. | City may authorize up to 48 in. encroachment into right-of-way by revocable license
+if total sign area for fin signs is lesser of 1 sf. per lf. building frontage or 12
+sf. | City may authorize up to 48 in. encroachment into right-of-way by revocable license
+if total sign area for fin signs is lesser of 1 sf. per lf. building frontage or 12
+sf. | City may authorize up to 48 in. encroachment into right-of-way by revocable license
+if total sign area for fin signs is lesser of 1 sf. per lf. building frontage or 12
+sf. | City may authorize up to 48 in. encroachment into right-of-way by revocable license
+if total sign area for fin signs is lesser of 1 sf. per lf. building frontage or 12
+sf. | 
+
+Figure (D) Fin Signs (Primary)
+
+Table (D) Projecting Signs
+Type of Sign Standards | Sign District
+Outside of Residential Neighborhood Sign District 1
+Downtown | Commercial/ Industrial | Mixed-Use | Multifamily | Single-Family | Within Residential Neighborhood Sign District 1
+Fin Signs (Secondary)
+Max. # | 1 per public building entry | 1 per public building entry | 1 per public building entry | 1 per public building entry | 1 per public building entry | 1 per public building entry
+Subject to Sign Area Allowance | Yes | Yes | Yes, but only for nonresidential uses | No | No | Yes
+Max. Sign Area | 4 sf. | 4 sf. | 4 sf. | 4 sf. | 4 sf. | 4 sf.
+Max. Projection | 4 ft. | 4 ft. | 4 ft. | 4 ft. | 4 ft. | 1 ft.
+Min. Sign Clearance | By building code | By building code | By building code | By building code | By building code | By building code
+Allowed Lighting | Indirect only | Any | Any | Not allowed | Not allowed | Internal only
+Other Standards | Must be located above entrance, within 3 ft. of top of door; not allowed if under-canopy
+sign is present at same entrance | Must be located above entrance, within 3 ft. of top of door; not allowed if under-canopy
+sign is present at same entrance | Must be located above entrance, within 3 ft. of top of door; not allowed if under-canopy
+sign is present at same entrance | Must be located above entrance, within 3 ft. of top of door; not allowed if under-canopy
+sign is present at same entrance | Must be located above entrance, within 3 ft. of top of door; not allowed if under-canopy
+sign is present at same entrance | Must be located above entrance, within 3 ft. of top of door; not allowed if under-canopy
+sign is present at same entrance
+
+(E)
+Canopy Signs. Canopy signs are allowed according to the standards in Table (E), Canopy Signs.
+
+Table (E) Canopy Signs
+Type of Sign Standards | Sign District
+Outside of Residential Neighborhood Sign District 1
+Downtown | Commercial/ Industrial | Mixed-Use | Multifamily | Single-Family | Within Residential Neighborhood Sign District 1
+All Canopy Signs
+Max. # | 1 per canopy elevation, for nonresidential, multifamily, or mixed-use property | 1 per canopy elevation, for nonresidential, multifamily, or mixed-use property | 1 per canopy elevation, for nonresidential, multifamily, or mixed-use property | 1 per canopy elevation, for nonresidential, multifamily, or mixed-use property | 1 per canopy elevation, for nonresidential, multifamily, or mixed-use property | 1 per street frontage, on canopy that covers vehicular use area of nonresidential,
+multifamily, or mixed-use property
+Subject to Sign Area Allowance | Yes | Yes | Yes | Yes | Yes | Yes
+Max. Sign Area (per sign) | 20 percent of canopy fascia on elevation to which sign is mounted | 30 percent of canopy fascia on elevation to which sign is mounted | 30 percent of canopy fascia on elevation to which sign is mounted | 15 percent of canopy fascia on elevation to which sign is mounted | 10 percent of canopy fascia on elevation to which sign is mounted | 12 sf. on canopy that covers vehicular use area
+Allowed Lighting | Internal only | Internal only | Internal only | Internal only | Internal only | Internal only
+Min. Sign Clearance | By building code | By building code | By building code | By building code | By building code | By building code
+Other Standards | Canopy signs shall not project above the top of the canopy to which they are mounted. | Canopy signs shall not project above the top of the canopy to which they are mounted. | Canopy signs shall not project above the top of the canopy to which they are mounted. | Canopy signs shall not project above the top of the canopy to which they are mounted. | Canopy signs shall not project above the top of the canopy to which they are mounted. | Not allowed on a canopy that covers a vehicular use area if an under-canopy sign is
+present.
+
+(F)
+Secondary Roof Signs. Secondary roof signs are allowed according to the standards in Table (F), Secondary
+Roof Signs.
+
+Table (F) Secondary Roof Signs
+Type of Sign Standards | Sign District
+Outside of Residential Neighborhood Sign District 1
+Downtown | Commercial/ Industrial | Mixed-Use | Multifamily | Single-Family | Within Residential Neighborhood Sign District 1
+Max. # | 1 per building, for nonresidential or mixed-use property | 1 per building, for nonresidential or mixed-use property | 1 per building, for nonresidential or mixed-use property | 1 per building, for nonresidential or mixed-use property | 1 per building, for nonresidential or mixed-use property | 1 per building, for nonresidential or mixed-use property
+Subject to Sign Area Allowance | Yes | Yes | Yes | Yes | Yes | Yes
+Max. Sign Area (per sign) | Limited by sign area allowance | Limited by sign area allowance | Limited by sign area allowance | Limited by sign area allowance | Limited by sign area allowance | Limited by sign area allowance
+Max. Sign Height | 1 st or 2 nd story secondary roof: 3 ft. | 1 st or 2 nd story secondary roof: 3 ft. | 1 st or 2 nd story secondary roof: 3 ft. | 1 st or 2 nd story secondary roof: 3 ft. | 1 st or 2 nd story secondary roof | 1 st or 2 nd story secondary roof: 3 ft.
+Allowed Lighting | Any | Any | Any | Any | Any | Any
+Other Standards | Distance between secondary roof and bottom of sign face shall not exceed 6 in.; not
+allowed above 2 nd story | Distance between secondary roof and bottom of sign face shall not exceed 6 in.; not
+allowed above 2 nd story | Distance between secondary roof and bottom of sign face shall not exceed 6 in.; not
+allowed above 2 nd story | Distance between secondary roof and bottom of sign face shall not exceed 6 in.; not
+allowed above 2 nd story | Distance between secondary roof and bottom of sign face shall not exceed 6 in.; not
+allowed above 2 nd story | Distance between secondary roof and bottom of sign face shall not exceed 6 in.; not
+allowed above 2 nd story
+
+Figure (F) Secondary Roof Sign
+(G)
+Freestanding Permanent Signs. Detached permanent signs are allowed according to the standards in Table (G)(1),
+Freestanding Permanent Signs.
+
+Table (G)(1) Freestanding Permanent Signs
+Type of Sign Standards | Sign District
+Outside of Residential Neighborhood Sign District 1
+Downtown | Commercial/ Industrial | Mixed-Use | Multifamily | Single-Family | Within Residential Neighborhood Sign District 1
+Primary Detached Signs
+Max. # | 1 per frontage 1 | 1 per frontage 1 | 1 per frontage for nonresidential, mixed-use, or multifamily property 1 | 1 per site for nonresidential, mixed-use, or multifamily uses 1 ; 1 per site for single-family detached or duplex if the lot fronts on an arterial;
+2 per public vehicular entry into residential subdivision or multifamily site (one
+single face sign on each side of entry) | 1 per site for nonresidential, mixed-use, or multifamily uses 1 ; 1 per site for single-family detached or duplex if the lot fronts on an arterial;
+2 per public vehicular entry into residential subdivision or multifamily site (one
+single face sign on each side of entry) | 1 per site for nonresidential, mixed-use, or multifamily uses 1 ; 2 per public vehicular entry into residential subdivision or multifamily site (one
+single face sign on each side of entry)
+Subject to Sign Area Allowance | Yes | Yes | Yes, for nonresidential or multifamily uses | No | No | Yes
+Max. Sign Area | Based on setback and style, see Table (G)(2), below | Based on setback and style, see Table (G)(2), below | Based on setback and style, see Table (G)(2), below | Single-family detached or duplex building with frontage on arterial: 4 sf. All other
+allowed signs: 35 sf. | Single-family detached or duplex building with frontage on arterial: 4 sf. All other
+allowed signs: 35 sf. | 32 sf. 2
+Max. Sign Height | Based on setback and style, see Table (G)(2), below | Based on setback and style, see Table (G)(2), below | Based on setback and style, see Table (G)(2), below | Single-family detached or duplex building with frontage on arterial: 5 ft. Multifamily
+or Nonresidential use: 8 ft. | Single-family detached or duplex building with frontage on arterial: 5 ft. Multifamily
+or Nonresidential use: 8 ft. | Multifamily or Nonresidential use: 5 ft. 2
+Allowed Lighting | Any | Any | Any | Indirect only | None | Indirect only
+Setbacks and Spacing | See Table (G)(2), below; 15 ft. setback from interior lot lines; 75 ft. spacing between
+freestanding signs | See Table (G)(2), below; 15 ft. setback from interior lot lines; 75 ft. spacing between
+freestanding signs | See Table (G)(2), below; 15 ft. setback from interior lot lines; 75 ft. spacing between
+freestanding signs | Not allowed if a wall sign is installed | Not allowed if a wall sign is installed | 75 ft. from adjacent residential zone or existing or approved residential use
+Max. Cabinets or Modules per Sign Face | 3 | 3 | 3 | 3 | 3 | 3
+Other Standards | Location may be established by approved development plan; Structure shall match primary finish and colors of associated buildings; Pole style signs shall contain no more than thirty (30) percent (or forty [40] percent
+if located within the site distance triangle) of free air space between the top of
+the sign and the ground, vertically and between the extreme horizontal limits of the
+sign extended perpendicular to the ground. A base or pole cover provided to satisfy
+this requirement shall be integrally designed as part of the sign by use of such techniques
+as color, material and texture. Freestanding signs that existed prior to December
+30, 2011, and that do not comply with this requirement shall be removed or brought
+into compliance by December 31, 2019, provided that such signs otherwise comply with
+Section 3.8.7.4 , Nonconforming Signs. | Structure shall match primary finish and colors of associated buildings; must be monument
+style
+Secondary Detached Signs
+Max. # | 1 per vehicular access point to nonresidential, mixed-use, or multifamily property | 1 per vehicular access point to nonresidential, mixed-use, or multifamily property | 1 per vehicular access point to nonresidential, mixed-use, or multifamily property | 1 per vehicular access point to nonresidential, mixed-use, or multifamily property | 1 per vehicular access point to nonresidential, mixed-use, or multifamily property | 1 per street frontage of a nonresidential, mixed-use, or multifamily uses
+Subject to Sign Area Allowance | Yes | Yes | Nonresidential uses only | No | No | No
+Max. Sign Area | 16 sf. | 16 sf. | 16 sf. | 16 sf. | 16 sf. | 20 sf.
+Max. Sign Height | 4 ft. | 4 ft. | 4 ft. | 4 ft. | 4 ft. | 5 ft.
+Allowed Lighting | Any | Any | Any | Indirect only | Indirect only | Indirect only
+Setbacks and Spacing | 2 ft. from right-of-way; 10 ft. from property lines | 2 ft. from right-of-way; 10 ft. from property lines | 2 ft. from right-of-way; 10 ft. from property lines | 2 ft. from right-of-way; 10 ft. from property lines | 2 ft. from right-of-way; 10 ft. from property lines | 2 ft. from right-of-way; 10 ft. from property lines
+Max. Cabinets or Modules per Sign Face | 1 | 1 | 1 | 1 | 1 | 1
+Other Standards | Same as primary freestanding sign; however, pole style signs are not allowed | Same as primary freestanding sign; however, pole style signs are not allowed | Same as primary freestanding sign; however, pole style signs are not allowed | Same as primary freestanding sign; however, pole style signs are not allowed | Same as primary freestanding sign; however, pole style signs are not allowed | Same as primary freestanding sign; however, pole style signs are not allowed
+Drive-Thru Lane Signs
+Max. # | 1 per drive through lane | 1 per drive through lane | 1 per drive through lane | 1 per drive through lane | 1 per drive through lane | 1 per drive through lane
+Subject to Sign Area Allowance | No | No | No | No | No | No
+Max. Sign Area | 30 sf. 3 | 30 sf. 3 | 30 sf. 3 | 30 sf. 3 | 30 sf. 3 | 30 sf. 3
+Max. Sign Height | 6 ft. | 6 ft. | 6 ft. | 6 ft. | 6 ft. | 6 ft.
+Allowed Lighting | Any | Any | Any | Any | Any | Any
+Setbacks and Spacing | 2 ft. from the right of way; if the sign faces out to the right-of-way 10 ft. | 2 ft. from the right of way; if the sign faces out to the right-of-way 10 ft. | 2 ft. from the right of way; if the sign faces out to the right-of-way 10 ft. | 2 ft. from the right of way; if the sign faces out to the right-of-way 10 ft. | 2 ft. from the right of way; if the sign faces out to the right-of-way 10 ft. | 2 ft. from the right of way; if the sign faces out to the right-of-way 10 ft.
+Max. Cabinets or Modules per Sign Face | 1 | 1 | 1 | 1 | 1 | 1
+Other Standards | Must be oriented to the drive-thru lane; if any part of the sign structure is visible
+from abutting property or right-of-way additional screening is required 4 | Must be oriented to the drive-thru lane; if any part of the sign structure is visible
+from abutting property or right-of-way additional screening is required 4 | Must be oriented to the drive-thru lane; if any part of the sign structure is visible
+from abutting property or right-of-way additional screening is required 4 | Must be oriented to the drive-thru lane; if any part of the sign structure is visible
+from abutting property or right-of-way additional screening is required 4 | Must be oriented to the drive-thru lane; if any part of the sign structure is visible
+from abutting property or right-of-way additional screening is required 4 | Must be oriented to the drive-thru lane; if any part of the sign structure is visible
+from abutting property or right-of-way additional screening is required 4
+Table Notes:
+1 Frontages include the frontage of all properties that are part of a group of properties
+that are planned or developed with shared pedestrian or vehicular access. Signs may
+not be allocated from one frontage to another.
+2 Additional sign area and sign height are allowed as follows: (i) Convenience shopping centers: Max. sign area: 40 sf., Max. sign height 8 ft.; (ii) Neighborhood service centers or neighborhood commercial districts: Max. sign
+area: 55 sf., Max. sign height: 10 ft.
+3 A Drive-Thru Lane EMC may be 100% of the sign area if the display changes no more
+than three times in a 24 hr. period.
+4 For a Drive-Thru Lane Sign screening may be achieved through plants or other materials
+compatible to the primary building.
+
+Table (G)(2) Setback for Primary Detached Signs based on Sign Height and Sign Area
+
+Distance from Street Right-of-Way Line (ft.) | Monument Style Sign Max. Height (ft.) | Max. Sign Area (per face) (sf.) | Pole Style Sign Max. Height (ft.) | Max. Sign Area (per face) (sf.)
+0 | 7 | 45 | 10 | 20
+5 | 8.5 | 60 | 10 | 30
+10 | 10 | 75 | 12 | 40
+15 | 12 | 90 | 12 | 50
+20 | 12 | 90 | 14 | 60
+25 | 12 | 90 | 16 | 70
+30 | 12 | 90 | 18 | 80
+36+ | 12 | 90 | 18 | 90
+
+(H)
+Projected Light Signs.
+(1)
+Horizontal Projected Light Signs.
+(a)
+Horizontal projected light signs that are projected onto public sidewalks are allowed
+only by portable sign permit, except that with respect to such signs, the area in
+which the portable sign permit may be issued is expanded to include the following
+zoning districts: D, R-D-R, C-C-R, C-G, and N-C, and all pedestrian-oriented shopping
+streets within the C-C and H-C zoning districts.
+(b)
+All horizontal projected light signs require a permit.
+(c)
+The projected image of a horizontal projected light sign:
+1.
+Shall be entirely within ten (10) feet of a building entrance;
+2.
+Shall not exceed six (6) square feet in area;
+3.
+Shall be projected onto a sidewalk or landscaped area;
+4.
+Shall not project onto safety or traffic signage (e.g., crosswalk markings, bicycle
+dismount signs, etc.); and
+5.
+Shall comply with all applicable lighting standards.
+(d)
+The projector shall be concealed from view and either:
+1.
+Located entirely on private property; or
+2.
+Hung under an awning, canopy, eave, or arcade that is allowed to encroach over the
+right-of-way by way of a revocable license.
+(e)
+A Horizontal projected light sign shall not be displayed on the public sidewalk at
+the same time as a sidewalk sign.
+(2)
+Vertical Projected Light Signs. Vertical projected light signs are not allowed as permanent signs. See Section 3.8.7.3 for the temporary use of vertical projected light signs.
+(3)
+Operation. All projected light signs shall contain static messages only. Animated, dissolve,
+or fade transitions are not allowed.
+(I)
+Restoration or Reconstruction of Historic Signs. The provisions of this subsection apply to buildings in the Downtown sign district
+that are fifty (50) years or older, whether or not they are formally recognized as
+historic at the local, state, or national level, or whether they are located within
+a designated historic district.
+(1)
+A sign on a designated property, or a property determined to be eligible for designation
+on the National Register of Historic Places, the State Register of Historic Properties,
+or as a Fort Collins Landmark, that may not otherwise comply with the strict provisions
+of this Sign Code and has been approved by the Landmark Preservation Commission through
+a review of Chapter 14 of the City Code shall be permitted and shall not be counted
+in sign area allowance for the property.
+(2)
+A sign on a property which is not designated or individually eligible for designation
+on the National Register of Historic Places, the State Register of Historic Properties,
+or as a Fort Collins Landmark, that may not otherwise comply with the strict provisions
+of this Sign Code and is inspired by a historic sign on the property and does not
+require a review through Chapter 14 of the City Code by the Landmark Preservation
+Commission shall be reviewed by the Director. In approving such signs, the Director
+shall not condition approval on changes in content and must find the following:
+(a)
+The sign is not detrimental to the public good;
+(b)
+The size and location of the sign are comparable to a historic sign of the property
+and the deviation from the provisions of this Sign Code are nominal and inconsequential
+with the context of the neighborhood;
+(c)
+The sign is comparable to the quality, character and design of a historic sign of
+the property;
+(d)
+The sign shall not degrade the historic character of the neighborhood or convey a
+false sense of history.
+The Director may deny any sign application that does not meet all the standards of
+this section. All signs approved through Section 3.8.7.2 (I) shall count towards the sign area allowance for the property.
+(A)
+Applicability. The regulations contained in this Section 3.8.7.3 apply to temporary signs. The standards of this Section are applied in conjunction
+with all other applicable standards (e.g., the standards set out in Section 3.8.7.1 ).
+(B)
+Standards for Attached Temporary Signs.
+(1)
+Generally. The standards of this subsection apply to temporary signs that are attached to buildings.
+Temporary signs that are not attached to buildings are subject to the standards of
+subsection (C), below. Duration of display is limited by subsection (D).
+(2)
+Attached Temporary Banners and Pennants. Attached temporary banners and pennants may only be displayed provided a permit is
+obtained pursuant to Section 3.8.7.4 (B)(2).
+(3)
+Temporary Sign Covers. Temporary sign covers are permitted in all sign districts, provided that they are
+used during a period not to exceed forty (40) days in which a new permanent sign or
+sign component is being fabricated and such sign or sign component is permitted and
+installed in accordance with this Sign Code.
+(4)
+Temporary Window Signs.
+(a)
+Temporary window signs are allowed in all locations where permanent window signs are
+allowed, provided that the standards of Section 3.8.7.2 (C) are met as to the combination of temporary and permanent window signs.
+(b)
+Temporary window signs shall be affixed to the window such that the fastener (e.g.,
+tape) is not highly visible, or shall be mounted vertically inside of the building
+for viewing through the window.
+(C)
+Standards for Detached Temporary Signs.
+(1)
+Generally. The standards of this subsection apply to temporary signs that are not attached to
+buildings. Temporary signs that are attached to buildings are subject to the standards
+of subsection (B), above. Duration of display is limited by subsection (D).
+(2)
+Detached Temporary Signs. Detached temporary signs are allowed according to the standards in Table (C), Detached
+Temporary Signs. Detached temporary sign types that are not listed in Table C (including
+but not limited to inflatable signs) are not allowed. Detached banners and pennants
+may only be displayed provided a permit is obtained pursuant to subsection (E), below.
+Portable signs may only be displayed provided a permit is obtained pursuant to the
+Code of the City of Fort Collins, Chapter 24, Article IV.
+
+Table (C) Detached Temporary Signs (sf. = square feet/ft. = linear feet/N/A = not applicable)
+Type of Sign Standards | Sign District
+Downtown | Commercial-Industrial | Multifamily/Mixed Use | Single-Family
+Yard Signs
+Max. # | Single-Family and Duplex Residential Buildings: Not Limited | Single-Family and Duplex Residential Buildings: Not Limited | Single-Family and Duplex Residential Buildings: Not Limited | Residential Buildings: Not limited
+Multi-Family Residential Buildings: 1 per 20 ft. of property frontage or fraction
+thereof | All other uses: 2 per vehicular access point | Multi-Family Residential Buildings: 1 per 20 ft. of property frontage or fraction
+thereof | Nonresidential and Residential Mixed Use Buildings: 1 per 80 ft. of property frontage
+or fraction thereof
+Nonresidential and Residential Mixed Use Buildings: 1 per 80 ft. of property frontage
+or fraction thereof | | Nonresidential and Residential Mixed Use Buildings: 1 per 80 ft. of property frontage
+or fraction thereof | 
+Max. Sign Area (per sign) | 6 sf. | 8 sf. | 8 sf. | 6 sf.
+Max. Sign Height | 4 ft. | 4 ft. | 4 ft. | 4 ft.
+Allowed Lighting | None | None | None | None
+Setbacks and Spacing | 2 ft. from property lines; 2 ft. from all other signs | 2 ft. from property lines; 2 ft. from all other signs | 2 ft. from property lines; 2 ft. from all other signs | 2 ft. from property lines; 2 ft. from all other signs
+Other Standards | Must be installed in permeable landscaped area. | Must be installed in permeable landscaped area that is at least 8 sf. in area and
+2 ft. in any horizontal dimension, not more than 10 ft. from vehicular access point | Must be installed in permeable landscaped area that is at least 8 sf. in area and
+2 ft. in any horizontal dimension | Must be installed in permeable landscaped area that is at least 8 sf. in area and
+2 ft. in any horizontal dimension
+Site Signs
+Max. # | Residential Buildings: Not Limited | 1 per 600 ft. of property frontage or fraction thereof | 1 per 600 ft. of property frontage or fraction thereof, provided that the area of
+the property is at least 2 acres; properties that are less than 2 acres shall not
+display site signs | 1 per 600 ft. of property frontage or fraction thereof, provided that the area of
+the property is at least 2 acres; properties that are less than 2 acres shall not
+display site signs
+Nonresidential and Residential Mixed Use Buildings: 1 per property
+Max. Sign Area | 16 sf. | 32 sf. | 32 sf. | 32 sf.
+Max. Sign Height | 6 ft. | 6 ft. | 6 ft. | 6 ft.
+Allowed Lighting | External, down directional and concealed light source | External, down directional and concealed light source | External, down directional and concealed light source | External, down directional and concealed light source
+Setbacks and Spacing | 2 ft. from front property lines | 2 ft. from front property lines | 2 ft. from front property lines | 2 ft. from front property lines
+10 ft. from all other property lines | 10 ft. from all other property lines | 10 ft. from all other property lines | 10 ft. from all other property lines
+10 ft. from all other signs | 10 ft. from all other signs | 10 ft. from all other signs | 10 ft. from all other signs
+12 ft. from building walls | 12 ft. from building walls | 12 ft. from building walls | 12 ft. from building walls
+Other Standards | Where allowed, site signs shall be installed in permeable landscaped areas or hardscaped
+areas other than vehicular use areas and sidewalks that are at least 5 ft. in every
+horizontal dimension and at least 40 sf. in area | Where allowed, site signs shall be installed in permeable landscaped areas or hardscaped
+areas other than vehicular use areas and sidewalks that are at least 5 ft. in every
+horizontal dimension and at least 40 sf. in area | Where allowed, site signs shall be installed in permeable landscaped areas or hardscaped
+areas other than vehicular use areas and sidewalks that are at least 5 ft. in every
+horizontal dimension and at least 40 sf. in area | Where allowed, site signs shall be installed in permeable landscaped areas or hardscaped
+areas other than vehicular use areas and sidewalks that are at least 5 ft. in every
+horizontal dimension and at least 40 sf. in area
+Swing Signs
+Max. # | Not allowed | Not allowed | 1 per property frontage | 1 per property frontage
+Max. Sign Area | N/A | N/A | 5 sf., including riders | 5 sf., including riders
+Max. Sign Height | N/A | N/A | 5 ft. | 5 ft.
+Allowed Lighting | N/A | N/A | None | None
+Setbacks and Spacing | N/A | N/A | 2 ft. from all property lines | 2 ft. from all property lines
+Other Standards | N/A | N/A | Swing signs shall be installed in permeable landscaped areas that are at least 4 ft.
+in every horizontal dimension and at least 20 sf. in area | Swing signs shall be installed in permeable landscaped areas that are at least 4 ft.
+in every horizontal dimension and at least 20 sf. in area
+Feather Flags
+Max. # | 1 per 100 ft. of property frontage or fraction thereof; may be clustered | 1 per 100 ft. of property frontage or fraction thereof; may be clustered | 1 per 100 ft. of property frontage or fraction thereof; may be clustered | Residential Buildings: Not Allowed Nonresidential Buildings: 1
+Max. sign area | 40 sf. | 40 sf. | 40 sf. | 10 sf.
+Max. sign height | 15 ft. | 15 ft. | 15 ft. | 10 ft.
+Other Standards | Not allowed if freestanding banner is present Must be installed in a permeable landscaped area with a radius that extends not less
+than 3 ft. from the flag pole | Not allowed if freestanding banner is present Must be installed in a permeable landscaped area with a radius that extends not less
+than 3 ft. from the flag pole | Must be installed in a permeable landscaped area with a radius that extends not less
+than 3 ft. from the flag pole | Must be installed in a permeable landscaped area with a radius that extends not less
+than 3 ft. from the flag pole
+
+(D)
+Duration of Display of Temporary Signs.
+(1)
+Generally. The purpose of temporary signs is to display messages for a temporary duration. Temporary
+signs shall not be used as a subterfuge to circumvent the regulations that apply to
+permanent signs or to add permanent signage to a property in addition to that which
+is allowed by this Sign Code.
+(2)
+Classification of Temporary Sign Materials. Temporary signs are constructed from a variety of materials with varying degrees
+of durability. Common materials are classified in Table (D)(1), Classification of
+Temporary Sign Materials.
+
+Table (D)(1) Classification of Temporary Sign Materials
+Material | Material Class
+1 | 2 | 3 | 4 | 5
+Paper, card stock, foam core board, or cardboard | ✓ | | | | 
+Laminated paper or cardstock, polyethylene bags | | ✓ | | | 
+Cloth, canvas, nylon, polyester, burlap, flexible vinyl, or other flexible material
+of comparable durability | | | ✓ | | 
+Inflexible vinyl, hard plastic, composite, or corrugated plastic ("coroplast") | | | | ✓ | 
+Wood or metal | | | | | ✓
+
+(3)
+Duration of Display.
+(a)
+In general, a temporary sign shall be removed as of the earlier of the date that:
+1.
+It becomes an abandoned sign;
+2.
+It falls into disrepair (see Section 3.8.7.5 ); or
+3.
+The number of days set out in Table (D)(2), Duration of Temporary Sign Display by Material Class , expires.
+
+Table (D)(2) Duration of Temporary Sign Display by Material Class
+Sign Type | Max. Duration for Individual Sign by Material Class | Max. Posting Days/Year
+1 | 2 | 3 | 4 | 5
+Yard Sign | Not Allowed | 45 days | Not Allowed | 60 days | 180 days | 180 days
+Site Sign | Not Allowed | Not Allowed | Not Allowed | 60 days | 180 days | 180 days 1
+Swing Sign | Not Allowed | Not Allowed | Not Allowed | 60 days | 180 days | 180 days 1
+Window Sign | 30 days per sign | 30 days per sign | 30 days per sign | 30 days per sign | 30 days per sign | 30 days per sign
+Feather Flags | Not Allowed | Not Allowed | 20 days | Not Allowed | Not Allowed | 20 days
+Table Notes: 1 Alternatively, the sign type may be displayed for three hundred sixty (360) days every
+two (2) calendar years.
+
+(b)
+Temporary required signs shall be removed as required by the applicable regulation.
+(4)
+Administrative Interpretations. Materials for signage that are not listed in this subsection (D) may be introduced
+into the market. When a material is proposed that is not listed in this subsection
+(D), the Director shall determine the class of materials with which the new material
+is most closely comparable, based on the new material's appearance, durability, and
+colorfastness. No temporary sign shall be displayed for a longer period than a site
+sign constructed of class 5 material, regardless of the durability material (although
+such a sign may be permissible as a permanent sign under Section 3.8.7.2 ).
+(E)
+Banners and Pennants.
+(1)
+Attached unframed banners, detached banners, and attached and detached pennants are
+allowed in any zone district subject to the restrictions in below Table (E), provided
+that a permit is obtained from the Director. The Director shall issue a permit for
+the display of banners and pennants only in locations where such banners and pennants
+will not cause unreasonable annoyance or inconvenience to adjoining property owners
+or other persons in the area and on such additional conditions as deemed necessary
+to protect adjoining premises and the public. All banners and pennants shall be removed
+on or before the expiration date of the permit. If any person, business or organization
+erects any banners or pennants without receiving a permit, as herein provided, the
+person, business or organization shall be ineligible to receive a permit for a banner
+or pennant for the remainder of the calendar year.
+(2)
+Each business or non-profit entity or other organization, and each individual not
+affiliated with an entity or organization, shall be eligible to display banners and
+pennants pursuant to a valid permit for a maximum of forty (40) days per calendar
+year. A permitted banner may exceed the forty (40) days when there is City authorized
+construction work in the portion of public right-of-way abutting the property, until
+such time as all applicable construction materials, equipment and fencing is removed
+from the right-of-way.
+(3)
+The Director shall review a banner or pennant permit application within two (2) business
+days to determine completeness. If it is complete, the Director shall approve or deny
+the application within three (3) business days after such determination. If it is
+incomplete, the Director shall cause the application to be returned to the applicant
+within one (1) business day of the determination, along with written reasons for the
+determination of incompleteness.
+(4)
+Notwithstanding the size and time limitations contained in Table E in the Downtown
+sign district:
+(a)
+In conjunction with a special event permit, three (3) banners larger in size than
+forty (40) square feet may be displayed for fifteen (15) days.
+(b)
+The Director may approve a temporary banner permit application if it is demonstrated
+that:
+1.
+The banner display is not detrimental to the public good;
+2.
+The banner does not project into the right-of-way;
+3.
+The banner is attached to a building thirty (30) feet or greater in height;
+4.
+The banner is mounted flush with the building wall;
+5.
+The banner is on the side of building that fronts a right-of-way or public plaza;
+6.
+There is no more than fifteen (15) square feet of permanent signage on the side of
+the building on which the banner is to be displayed;
+7.
+The banner does not cover more than one (1) architecturally distinct window;
+8.
+No feather flags are displayed on the property;
+9.
+Only one (1) banner is displayed at a time;
+10.
+The banner does not exceed six (6) feet in width and twenty-five (25) feet in height;
+and
+11.
+The banner is displayed no more than a four (4) consecutive month period.
+
+Table (E) Banners and Pennants (sf. = square feet/ft. = linear feet/N/A = not applicable)
+Standard | Sign District
+Downtown | Commercial-Industrial | Multifamily/Mixed Use | Single-Family
+Attached Banners and Pennants
+Max. # on each building elevation | 1 | 1 per 300 ft. of building elevation or fraction thereof, but not more than 3 banners
+per building | 1 | Residential Buildings: Not Allowed Nonresidential Buildings: 1
+Max. Sign Area | 40 sf. | 40 sf. | 40 sf. | Residential Buildings: N/A Nonresidential Buildings: 40 sf.
+Allowed Lighting | None | External | None | None
+Max. Sign Height | 7 ft. | 7 ft. | 4 ft. | 4 ft.
+Other Standards | None | If more than one banner is allowed on a building elevation, banners may be clustered | None | None
+Detached Banners and Pennants
+Max. # | Either framed or unframed: 1 per property frontage; or 1 per 100 ft. of property frontage
+if secured to temporary construction fencing related to permitted construction (may
+be clustered) | Either framed or unframed: 1 per property frontage; or 1 per 100 ft. of property frontage
+if secured to temporary construction fencing related to permitted construction (may
+be clustered) | Either framed or unframed: 1 per property frontage; or 1 per 100 ft. of property frontage
+if secured to temporary construction fencing related to permitted construction (may
+be clustered) | Not allowed
+Max. Sign Area (per banner) | 40 sf. | 40 sf. | 40 sf. | 40 sf.
+Allowed Lighting | None | None | None | None
+Max. Sign Height (applies to freestanding banner frames) | 6 ft. | 6 ft. | 6 ft. | 6 ft.
+
+(5)
+For banners and pennants in all sign districts, the following shall apply:
+(a)
+Mounting hardware shall be concealed from view;
+(b)
+Banners shall be stretched tightly to avoid movement in windy conditions;
+(c)
+All banners that are installed in banner frames shall be sized to fit the banner frame
+so that there are no visible gaps between the edges of the banner and the banner frame;
+(d)
+Banners are not allowed if any of the following are present on the property: feather
+flag, yard sign, site sign, or swing sign;
+(e)
+Any common line of pennants must be stretched tightly to avoid movement in windy conditions.
+(F)
+Vertical Projected Light Signs.
+(1)
+Vertical projected light signs may be used in connection with a temporary special
+event, during the term of the temporary special event. Such special events may include,
+but are not limited to, Art in Public Places events or Downtown Development Authority
+Alley Enhancement Projects.
+(2)
+The projected image of a vertical projected light signs is limited to nonresidential
+and mixed-use properties, but is not limited by zoning district.
+(3)
+The projected image shall not fall onto a surface with a high degree of specular reflectivity,
+such as polished metal or glass. The image shall be positioned to harmonize with the
+architectural character of the building(s) to which it is projected, and shall avoid
+any projection, relief, cornice, column, window, or door opening.
+(4)
+The projected image shall not exceed fifteen (15) square feet if any portion of it
+is on a first story building wall or on a structure that is not a building, or thirty
+(30) square feet if all of the image is above the first story of a building, except
+that a projected image may occupy one hundred (100) percent of the side or rear wall
+area of a building in the Downtown sign district, provided that the building is within
+the Downtown Development Authority's Alley Enhancement Project and the building wall
+does not face a vehicular right-of-way.
+(5)
+The path of the projection shall not cross public rights-of-way or pedestrian pathways
+at a height of less than seven (7) feet.
+(6)
+Vertical projected light signs shall contain static messages only, and animated, dissolve,
+or fade transitions are not allowed.
+(7)
+Vertical projected light signs are subject to the illumination standards of Section 3.8.7.1 (I) unless the City determines that additional illumination will be permitted because
+it will pose no material detrimental effects on neighboring properties or public rights-of-way
+due to the location and/or timing of the display. Such determination, and allowable
+illumination levels, shall be specified in the permit that allows the vertical projected
+light sign.
+(A)
+Nonconforming Signs.
+(1)
+Nonconforming signs shall be maintained in good condition and no such sign shall be:
+(a)
+Structurally changed to another nonconforming sign, although its content may be changed;
+(b)
+Structurally altered in order to prolong the life of the sign;
+(c)
+Altered so as to increase the degree of nonconformity of the sign; or
+(d)
+Enlarged.
+(2)
+Except as provided in subsection (A)(3), below, all existing nonconforming signs located
+on property annexed to the City shall be removed or made to conform to the provisions
+of this Article no later than seven (7) years after the effective date of such annexation;
+provided, however, that during said seven (7) year period, such signs shall be maintained
+in good condition and shall be subject to the same limitations contained in subparagraphs
+(A)(1)(a) through (f), above. This subsection shall not apply to off-premises signs
+that are subject to the just compensation provisions of the Federal Highway Beautification
+Act and the Colorado Outdoor Advertising Act.
+(3)
+All existing signs with flashing, moving, blinking, chasing or other animation effects
+not in conformance with the provisions of this Article and located on property annexed
+to the City shall be altered so that such flashing, moving, blinking, chasing, or
+other animation effects shall cease within sixty (60) days after such annexation,
+and all existing portable signs, vehicle-mounted signs, banners, and pennants located
+on property annexed to the City shall be removed or made to conform within sixty (60)
+days after such annexation.
+(4)
+Historic signs shall be considered conforming for the purposes of this Section. The
+Director may designate a sign as an historic sign if:
+(a)
+The applicant provides documentation that the sign has been at its present location
+for a minimum of fifty (50) years.
+(b)
+The sign is structurally safe or capable of being made structurally safe without substantially
+altering its historic character. The property owner is responsible for making all
+structural repairs and restoration of the sign to its original condition.
+(c)
+The sign is representative of signs from the era in which it was constructed and provides
+evidence of the historic use of the building or premises.
+Additionally, a sign shall be considered historic if the Landmark Preservation Commission
+through a review of Chapter 14 of the City Code as approved the historic nature of
+the sign.
+(B)
+Administration.
+(1)
+All sign permit applications shall be accompanied by detailed drawings indicating
+the dimensions, location, and engineering of the particular sign, plat plans when
+applicable, and the applicable processing fee.
+(2)
+The Director shall review the sign permit application within two business days after
+receipt to determine if it is complete. If it is complete, the Director shall approve
+or deny the application within three (3) business days after such determination. If
+it is incomplete, the Director shall cause the application to be returned to the applicant
+within one (1) business day of the determination, along with written reasons for the
+determination of incompleteness.
+(A)
+Maintenance Standards. Signs and sign structures of all types (attached, detached, and temporary) shall
+be maintained according to the following standards:
+(1)
+Paint and Finishes. Paint and other finishes shall be maintained in good condition. Peeling finishes
+shall be repaired. Signs with running colors shall be repainted, repaired, or removed
+if the running colors were not a part of the original design.
+(2)
+Mineral Deposits and Stains. Mineral deposits and stains shall be promptly removed.
+(3)
+Corrosion and Rust. Permanent signs and sign structures shall be finished and maintained to prevent corrosion
+and rust. A patina on copper elements (if any) is not considered rust.
+(4)
+Damage. Permanent signs that are damaged shall be repaired or removed within one (1) year,
+unless the damage creates a material threat to public safety, in which case the Chief
+Building Official may order prompt repair or removal. Temporary signs that are obviously
+damaged (e.g., broken yard signs) shall be removed within twenty-four (24) hours.
+(5)
+Upright, Level Position. Signs that are designed to be upright and level, whether temporary or permanent,
+shall be installed and maintained in an upright and level position. Feather flag poles
+shall be installed in a vertical position. Signs that are not upright and level shall
+be removed or restored to an upright, level position.
+(6)
+Code Compliance. The sign must be maintained in compliance with all applicable building, electrical,
+and property maintenance codes (including any exceptions that may apply to existing
+sign structures).
+(B)
+Quality of Repairs. Repairs to signs shall be equal to or better in quality of materials and design than
+the original sign.
+(C)
+Altering or Moving Existing Signs.
+(1)
+Any alteration to an existing sign structure (except for alterations to changeable
+copy, replacement of a panel in a cabinet sign, replacement of a light source with
+a comparably bright light source, application of paint or stain) shall require a new
+permit pursuant to Section 3.8.7.4 (B) prior to commencement of the alteration. Alterations requiring a new permit shall
+include, without limitation:
+(a)
+Changes to the area of manual changeable copy center on a sign, including the installation
+of a new manual changeable copy center where one was not previously present;
+(b)
+Changing the size of the sign;
+(c)
+Changing the shape of the sign;
+(d)
+Changing the material of which the sign is constructed;
+(e)
+Changing or adding lighting to the sign (except as provided above);
+(f)
+Changing the location of the sign; or
+(g)
+Changing the height of the sign.
+(2)
+No sign permit is required for removal of sign displays from supporting structures
+for maintenance, provided that they are replaced on the same support in the same configuration
+and the maintenance did not involve work that requires a permit.
+(Ord. No. 228, 1998 §§28, 29, 12/15/98; Ord. No. 165, 1999 §30, 11/16/99; Ord. No.
+59, 2000 §25, 6/6/00; Ord. No. 183, 2000 §§14, 16, 12/19/00; Ord. No. 107, 2001 §§32,
+33, 6/19/01; Ord. No. 177, 2002 §16, 12/17/02; Ord. No. 173, 2003 §18, 12/16/03; Ord.
+No. 091, 2004 §§18—20, 6/15/04; Ord. No. 198, 2004 §§14—16, 12/21/04; Ord. No. 139,
+2006 §1, 10/3/06; Ord. No. 192, 2006 §§11—13, 12/19/06; Ord. 081, 2007 §6, 7/17/07;
+Ord. No. 028, 2009 §2, 3/24/09; Ord. No. 068, 2010 §§8, 9, 7/6/10; Ord. No. 036, 2001 §1, 3/22/11; Ord. No. 178, 2011 , §§1—3, 12/20/11; Ord. No. 031, 2013 , 3/5/13; Ord. No. 088, 2017 , §§2, 3, 8/15/17; Ord. No. 141, 2018 §2, 12-4-18; Ord. No. 100, 2020 , §5, 8/18/20; Ord. No. 161, 2020 , §§ 12, 13, 1/5/21)
+(A)
+Area and Dimension . No part of an area or dimension required for a lot to comply with the provisions
+of this code shall be included as an area or dimension required for another lot, nor
+shall such required area or dimension be burdened by any easement for an abutting
+private street or private drive that provides access to the lot or to any other lot.
+private driveways on the lot may be included in the lot area. where a minimum lot
+area square footage is otherwise required by this code, said minimum lot area shall
+be required for each principal building located on any one (1) lot.
+(B)
+Reduction for Public Purpose . When an existing lot is reduced as a result of conveyance to a federal, state or
+local government for a public purpose and the remaining area is at least seventy-five
+(75) percent of the required minimum lot size for the district in which it is located,
+then that remaining lot shall be deemed to comply with the minimum lot size standards
+of this Code.
+(C)
+Utility Facilities . Utility facilities using land or a building used only for equipment purposes (and
+not for human occupation) and requiring less than one thousand (1,000) square feet
+of site are exempt from the minimum lot size standards of all zone districts.
+(Ord. No. 070, 2005 §10, 7/5/05)
+All developments shall meet the following yard requirements unless otherwise specified
+in this code:
+(A)
+Cornices, eaves or similar architectural features may extend into a required yard
+not more than three (3) feet. Fire escapes may extend into a required rear yard not
+more than six (6) feet.
+(B)
+No part of a yard required for a building for the purpose of complying with the provisions
+of this Land Use Code shall be included as a yard for another building.
+(C)
+Solar energy devices, including but not limited to, overhangs, movable insulating
+walls and roofs, detached solar collectors, sun reflectors and piping, may extend
+into a required yard not more than three (3) feet.
+(A)
+For each single-family dwelling there shall be one (1) parking space on lots with
+greater than forty (40) feet of street frontage or two (2) parking spaces on lots
+with less than forty (40) feet of street frontage.
+(B)
+Parking of any vehicle in the front yard of a lot on which exists a single-family
+or two-family dwelling shall be prohibited unless such vehicle is parked on an improved
+area having a surface of asphalt, concrete, rock, gravel or other similar inorganic
+material, and such improved area has a permanent border.
+Fencing and walls shall meet the following standards:
+(A)
+If used along collector or arterial streets, such features shall be made visually
+interesting and shall avoid creating a "tunnel" effect. Compliance with this standard
+may be accomplished by integrating architectural elements such as brick or stone columns,
+incorporating articulation or openings into the design, varying the alignment or setback
+of the fence, softening the appearance of fence lines with plantings, or similar techniques.
+In addition to the foregoing, and to the extent reasonably feasible, fences and sections
+of fences that exceed one hundred (100) feet in length shall vary the alignment or
+setback of at least one-third (⅓)of the length of the fence or fence section (as applicable)
+by a minimum of five (5) feet.
+(B)
+Materials: Chain-link fencing with or without slats shall not be used as a fencing
+material for screening purposes. Except as permitted below, no barbed wire or other
+sharp-pointed fence and no electrically charged fence shall be installed or used in
+any zone districts.
+(1)
+In the Urban Estate (U-E), Rural Land (R-U-L) and Foothills Residential (R-F) Districts,
+barbed wire and portable electrically charged fencing may be used for the purpose
+of livestock and pasture management. Electrically charged fencing must be used within
+permanent fencing. Electrically charged fencing that is located along any public right-of-way
+shall contain signage that identifies it as being electrically charged. Such signage
+shall occur every three hundred (300) feet and be a minimum of thirty-six (36) square
+inches in area. All electrically charged fencing shall be limited to low impedance
+commercially available electric fence energizers using an interrupted flow of current
+at intervals of about one (1) second on and two (2) seconds off and shall be limited
+to two thousand six hundred (2,600) volts at a five-hundred-ohm load at seventeen
+(17) millamperes current. All electric fences and appliances, equipment and materials
+used shall be listed or labeled by a qualified testing agency and shall be installed
+in accordance with manufacturers' specifications and in compliance with the National
+Electrical Code, 1981 Edition NFPA 701981.
+(2)
+In the Employment (E) District and the Industrial (I) District, the Director may grant
+a revocable use permit that must be renewed every three (3) years for installation
+of security arms and barbed wire strands atop protective fences or walls, provided
+that the following conditions are met: the lowest strand of barbed wire must be maintained
+at least ten (10) feet above the adjoining ground level outside the fence; exterior
+area security lighting controlled by an automatic light level switch must be installed
+and maintained in good operating condition; and such lighting must be directed into
+the site and not outward toward the perimeter.
+(C)
+Fences or walls shall be:
+(1)
+no more than four (4) feet high between the front building line and front property
+line;
+(2)
+no more than four (4) feet high if located in the front yard, or within any required
+side yard setback area in the front yard, except if required for demonstrated unique
+security purposes;
+(3)
+no more than six (6) feet high if located within any required rear yard setback area
+or within any side yard setback area in a rear yard;
+(4)
+no more than forty-two (42) inches in height when located within the visual clearance
+triangle described in Section 3.8.7 (G)(1), and, if over thirty-two (32) inches in height within such triangle, fences
+shall be constructed of split rail with a minimum dimension of twelve (12) inches
+between horizontal members;
+(5)
+no closer than two (2) feet to a public sidewalk;
+(6)
+no closer than three (3) feet to a lot line along an alley where an alley-accessed
+garage door is set back at least twenty (20) feet from the lot line, and no closer
+than eight (8) feet to a lot line along an alley where an alley-accessed garage door
+is set back less than twenty (20) feet from the lot line, except that alley fences
+on lots in the RL, NCL, NCM and NCB districts may be located closer to the lot line
+along an alley when the City Engineer approves such a location.
+(D)
+For the purposes of this Section, the height of a fence or wall shall be the distance
+from the top of the fence or wall to the finished grade of the lot directly under
+the fence or wall as such grade existed at the time the fence or wall was constructed.
+Any berm, wall or similar feature that is constructed for the purpose of increasing
+the height of a fence or wall shall be considered to be a part of the fence or wall.
+(Ord. No. 90, 1998, 5/19/98; Ord. No. 165, 1999 §31, 11/16/99; Ord. No. 183, 2000
+§17, 12/19/00; Ord. No. 087, 2002 §21, 6/4/02; Ord. No. 091, 2004 §21, 6/15/04; Ord.
+No. 139, 2006 §2, 10/3/06; Ord. No. 120, 2011 §14, 9/20/2011)
+(A)
+Adult-oriented uses shall be permitted only in the zone districts established in Article 4 wherein such uses are specifically allowed.
+(B)
+Adult-oriented uses shall not be established, operated or maintained within one thousand
+(1,000) feet of the boundary of any residential zone district (whether within or beyond
+the City's jurisdictional boundary), any structure occupied for residential purposes,
+any public park or playground, any child care center, any outdoor recreation facility,
+any limited indoor recreation use, any place of worship or assembly, any school meeting
+all of the requirements of the compulsory education laws of the State and/or any other
+adult-oriented use. An adult-oriented use lawfully operating as a conforming use shall
+not be rendered a nonconforming use by the subsequent location of a residential district
+or residential use, public park or playground, child care center, outdoor recreation
+facility, limited indoor recreation use, place of worship or assembly, or school within
+one thousand (1,000) feet of said adult-oriented use.
+(C)
+Method of Measurement . All measurements required pursuant to this Section shall be made from the nearest
+property line of the property from which spacing is required (pursuant to paragraph
+(B) of this Section) to the nearest entrance of the building in which the adult-oriented
+use is to occur, using a straight line, without regard to intervening structures or
+objects.
+(D)
+Displays, Screenings . Advertisements, displays or other promotional materials displaying or depicting
+"specified anatomical areas" or "specific sexual activities" shall not be shown or
+exhibited so as to be visible or audible to the public from adjacent streets, sidewalks
+or walkways or from other areas outside the establishment; and all building openings,
+entries and windows for adult-oriented uses shall be located, covered or screened
+in such manner as to prevent the interior of such premises from being viewed from
+outside the establishment.
+(E)
+No adult bookstore, adult novelty store or adult retail store that, as of June 14,
+2002, had adult material in excess of twenty (20) percent of its stock-in-trade, or
+derived in excess of twenty (20) percent of its revenues from such material, or devoted
+in excess of twenty (20) percent of its interior business or interior advertising
+to such material, or maintained in excess of twenty (20) percent of its gross floor
+area or display space for the sale or rental of such material, shall be allowed to
+increase its adult material business beyond the percentages that existed on June 14,
+2002.
+(Ord. No. 087, 2002 §22, 6/4/02)
+(A)
+Applicability and Exemptions . The provisions of this Section shall apply to any Wireless Communications Facility
+(WCF) within the City. The requirements set forth in this Section shall not apply
+to:
+(1)
+Antennas or towers used by FCC-licensed amateur (ham) radio operators.
+(2)
+Television or radio antennas. Those antennas, including over the air reception devices,
+located on single family dwellings or duplexes, not exceeding one (1) meter in diameter
+and less than five (5) feet above the highest point of the existing principal structure,
+or for ground mounted antennas, the requirement that the height be no more than the
+distance from its base to the property line or the maximum height specified for accessory
+structures for that zone district, whichever is less. The Director has the authority
+to approve modifications to the height restriction related to over the air reception
+device antennas and antenna structures, if in the reasonable discretion of the City,
+modifications are necessary to comply with federal law.
+(3)
+Government-owned facilities. City-owned communications WCFs located on City-owned
+property and/or public rights-of-way, and any government-owned WCF installed upon
+the declaration of a state of emergency by the federal, state or local government,
+or a written determination of public necessity by the City.
+(4)
+Over the Air Reception Devices (OTARD) antennas and associated masts. The Director
+may approve modifications to the height restriction related to OTARD antennas and
+OTARD antenna structures, if in the reasonable discretion of the Engineer, modifications
+are necessary to comply with federal law.
+(5)
+A facility entirely enclosed within a permitted building where the installation does
+not require a modification of the exterior of the building; nor a device attached
+to a building, used for serving that building only and that is otherwise permitted
+under other provisions of this Code.
+(B)
+Location . Subject to the requirements of paragraph (3) of this Section, WCFs may be attached
+to or mounted on any existing building or structure (or substantially similar replacement
+structure) located in any zone district of the City. With the exception of OTARD,
+and associated masts, WCFs shall not be permitted to be attached to or mounted on
+any residential building containing four (4) or fewer dwelling units.
+(C)
+Cooperative Collocation . No WCF or equipment owner or lessee or employee thereof shall act to exclude or
+attempt to exclude any other wireless communication provider from using the same building,
+structure or location. WCF or equipment owners or lessees or employees thereof, and
+applicants for the approval of plans for the installation of such facilities or equipment,
+shall cooperate in good faith to achieve co-location of WCFs and equipment. Any application
+for the approval of a plan for the installation of WCFs or equipment shall include
+documentation of the applicant's good faith efforts toward such cooperation.
+(D)
+Standards.
+(1)
+Setbacks . With respect to a WCF that is a tower or a monopole, the setback of the facility
+from the property lines shall be one (1) foot for every foot of height. However, to
+the extent that it can be demonstrated that the structure will collapse rather than
+topple, this requirement can be waived by the Director. In addition, the setbacks
+for ground-mounted wireless communication equipment shall be governed by the setback
+criteria established in this Code.
+Collocated WCFs in the R-U-L zone district shall be setback from the center line I-25
+of Carpenter Road a distance of at least one thousand three hundred twenty (1,320)
+feet (one-quarter (¼) mile).
+(2)
+WCFs. All WCFs shall be consistent with the architectural style of the surrounding architectural
+environment (planned or existing) considering exterior materials, roof form, scale,
+mass, color, texture and character. Such facilities shall also be compatible with
+the surrounding natural environment considering land forms, topography, and other
+natural features. If such facility is an accessory use to an existing use, the facility
+shall be constructed out of materials that are equal to or better than the materials
+of the principal use.
+(3)
+WCFs in Residential Zone Districts . Non-collocated WCFs permitted in the following zone districts: U-E, R-L, L-M-N,
+M-M-N, and H-M-N, as specified in Article 4 - Districts must be located on a non-residential parcel and installation must be
+mitigated by use of concealment design techniques and compatibility standards.
+(4)
+Collocated or attached WCFs. Collocated or attached WCFs shall be of the same color as the building or structure
+to which or on which such equipment is mounted.
+Whenever a wireless telecommunication antenna is attached to a building roof, the
+height of the antenna shall not be more than fifteen (15) feet over the height of
+the building. All WCF equipment shall be located as far from the edge of the roof
+as is feasible. Even if the building is constructed at or above the building height
+limitations contained in other sections of this Code, the additional fifteen (15)
+feet is permissible.
+Whenever WCFs are mounted to the wall of a building or structure, the equipment shall
+be mounted in a configuration as flush to the wall as feasible and shall not project
+above the wall on which it is mounted. Such equipment shall, to the extent feasible,
+also feature the smallest and most discreet components that the technology will allow
+so as to have the least possible impact on the architectural character and overall
+aesthetics of the building or structure.
+Roof- and ground-mounted WCFs shall be screened by parapet walls or screen walls in
+a manner compatible with the building's design, color and material.
+(5)
+Landscaping. WCFs and related transmission equipment may need to be landscaped with landscaping
+materials that exceed the levels established in Section 3.2.1 , due to the unique nature of such facilities. Landscaping may therefore be required
+to achieve a total screening effect at the base of such facilities or equipment to
+screen the mechanical characteristics. A heavy emphasis on coniferous plants for year-round
+screening may be required.
+If a WCF and related transmission equipment has frontage on a public street, street
+trees shall be planted along the roadway in accordance with the policies of the City
+Forester.
+(6)
+Fencing. Chain link fencing shall be unacceptable to screen facilities. Fencing material shall
+consist of wood, masonry, stucco or other acceptable materials and be opaque. Fencing
+shall not exceed six (6) feet in height.
+(7)
+Berming. Berms shall be considered as an acceptable screening device. Berms shall feature
+slopes that allow mowing, irrigation and maintenance.
+(8)
+Irrigation . Landscaping and berming shall be equipped with automatic irrigation systems meeting
+the water conservation standards of the City.
+(9)
+Color. All WCFs and related transmission equipment shall be painted to match to the extent
+feasible the color and texture of the wall, building or surrounding built environment.
+Muted colors, earth tones and subdued colors shall be used.
+(10)
+Lighting. The light source for security lighting shall comply with the requirements of Subsection 3.2.4 . Light fixtures, whether freestanding or tower-mounted, shall not exceed twenty-two
+(22) feet in height.
+(11)
+Interference. Wireless telecommunication facilities and equipment shall operate in such a manner
+so as not to cause interference with other electronics such as radios, televisions
+or computers, and otherwise in compliance with applicable federal standards for avoiding
+signal interference. An applicant shall provide a written statement ("Signal Interference
+Letter") from a qualified radio frequency engineer, certifying that a technical evaluation
+of existing and proposed facilities indicates no potential interference problems.
+(12)
+Radio frequency standards. All WCFs shall comply with federal standards for radio frequency emissions. An applicant
+shall provide a written statement ("Emission Standards Letter") from a qualified radio
+frequency engineer, certifying that a technical evaluation of existing and proposed
+facilities indicates no potential emissions in excess of federal radio frequency standards.
+(13)
+Access Roadways. Access roads must be capable of supporting all of the emergency response equipment
+of the Poudre Fire Authority.
+(14)
+Foothills and Hogbacks. Applicants for WCFs and related transmission equipment in or near the foothills bear
+a special responsibility for mitigating visual disruption. If such a location is selected,
+the applicant shall provide computerized, three-dimensional, visual simulation of
+the facility or equipment and other appropriate graphics to demonstrate the visual
+impact on the view of the City's foothills and hogbacks.
+(15)
+Airports and Flight Paths . WCFs and related transmission equipment shall comply with Federal Aviation Administration
+(FAA) requirements and obtain the necessary approvals from the FAA.
+(16)
+Historic Sites and Structures . WCFs and related transmission equipment shall not be located on any historic site
+or structure unless permission is first obtained from the City's Historic Preservation
+Commission as required by Chapter 14 of the City Code.
+(17)
+Concealment Required. All WCFs shall, to the extent feasible, use concealment design techniques, and when
+not feasible utilize camouflage design techniques.
+(18)
+Compatibility Required .
+(a)
+Purpose. The purpose of this Section is to ensure that proposed WCFs are compatible
+with the surrounding context by ensuring that:
+1.
+New or existing WCFs do not adversely impact the visual character* of the community
+within the area of adjacency; and
+2.
+The design of WCFs are compatible and contextually appropriate with the built or natural
+environment surrounding a proposed wireless communication site.
+(b)
+To accomplish its purpose, this Section provides the standards for design compatibility
+of WCFs with the existing context within the delineated area of adjacency surrounding
+a proposed WCF site.
+* For the purposes of this Section, character is defined as special physical characteristics
+of a structure or area that set it apart from its surroundings and contribute to its
+individuality. This can include but is not limited to the built environment, landscaping,
+natural features and open space, and types and styles of building architecture.
+(c)
+WCF Site and Area of Adjacency.
+As used in this Section, the area of adjacency shall mean an area measured radially from the center point of the WCF. Any element
+of a lot or parcel of property shall be considered within the area of adjacency if
+any portion of such lot or parcel is within the boundary. The limits of the boundary
+shall be based on the following calculation:
+The overall height (from grade to highest point of the proposed facility) of the proposed
+WCF multiplied by five (5).
+In the event that the area of adjacency is absent of an established visual character
+the WCF shall be designed in such a way that most closely relates to the landscape,
+historic, or future potential use of land.
+(d)
+Design Standards for a Proposed WCF.
+Proposed WCFs and equipment shall mimic the height and appearance of structures or
+natural elements appropriate to the context in a way that protects and enhances the
+character of the area both on the development site and within the area of adjacency.
+The Table 1 requirements shall apply to the development of facilities on the development
+site as follows:
+Table 1 - Standards for Compatibility on the Development Site and Within the Area
+of Adjacency
+
+Purpose | Standards for Compatibility on the Development Site and Within the Area of Adjacency
+Height and Mass of WCFs | New or modified WCFs shall use concealment, and when not feasible, camouflage that
+reflects the character of the area of adjacency. The overall height and mass of a
+facility or equipment established under these standards are the maximum height that
+if any greater, would otherwise defeat concealment. 1. Height. New or modified WCFs shall not exceed fifteen (15) feet or fifteen percent
+(15%), whichever is less, of the average height of buildings or landscape within the
+area of adjacency. If a lot containing a residential land use falls within or abuts
+the area of adjacency, the maximum height of the facility shall not exceed forty-five
+(45) feet. 2. Massing. All WCFs shall mimic the mass (height and width) in a way that is subordinate
+to the natural environment or built environment found within the area of adjacency.
+Materials for WCFs | Create visual and contextual connection between WCFs colors and materials with those
+found in the surrounding area. New or modified WCFs shall utilize, to the extent feasible, the following elements
+found within the area of adjacency to inform their concealment techniques: a) Architectural style b) Building materiality c) Color d) Tree species e) Structures that are related to the primary use of the site
+Technology for Facilities | To the extent feasible, new WCFs and related transmission equipment shall utilize
+industry best practices and the latest technology available to achieve concealment
+and compatibility with the context. Such facilities or shall feature the smallest and most discreet components that the
+technology will allow so as to have the least possible impact on the character and
+overall aesthetics of the area of adjacency.
+
+(E)
+The regulations contained in this Section shall not apply to the installation, operation,
+maintenance, or upgrade of a small cell facility by a telecommunications provider
+principally located within a public highway. The regulation of such activities is
+addressed in Chapter 23 of the Code of the City of Fort Collins, and design standards
+for small cell facilities are addressed in the City's Small Cell Handbook as may be
+amended from time to time.
+(F)
+Review Procedures and Requirements.
+(1)
+General. No new WCF shall be constructed and no collocation or modification to any
+WCF may occur except after a written request from an applicant, reviewed and approved
+by the City in accordance with this Section. All WCFs shall comply with the zone district
+use standards and land use application processes identified in Article 4 .
+(2)
+Application Requirements. All applications for WCFs shall include:
+(a)
+Application form as provided by the Director.
+(b)
+If the applicant is not the owner of the property or structure to which the WCF is
+to be attached, an executed Letter of Authorization from the landowner.
+(c)
+A report, signed and sealed by a professional engineer in the State of Colorado, or
+a verified statement from a qualified radio frequency engineer, demonstrating or assuring
+that the site will be in full compliance with federal radio-frequency emissions standards
+for WCFs.
+(d)
+A signal interference certification bearing the seal and signature of a professional
+engineer in the State of Colorado, representing that all WCFs covered by the application
+shall be designed, sited and operated in accordance with applicable federal signal
+interference requirements.
+(e)
+Submittal fees.
+(f)
+Scaled site plan, photo simulation, scaled elevation view and supporting drawings,
+calculations, showing the location and dimension of all improvements, including information
+concerning topography, tower and where applicable, structure height, setbacks, drives,
+parking, street trees, adjacent uses, drainage.
+(g)
+Narrative detailing the rationale for the proposed location.
+(h)
+Other information reasonably deemed by the Director to be necessary to assess compliance
+with this Section. Documents requiring signatures and seals by appropriate qualified
+professionals shall be provided by applicant prior to issuance of a permit under this
+Section.
+(3)
+Structural Assessment. Prior to issuance of a WCF permit for any WCF proposing a new
+pole or attachment to a non-City-owned structure, the applicant shall submit a stamped
+and signed structural assessment for each new proposed WCF host support structure
+conducted by a professional engineer, licensed in the State of Colorado.
+(a)
+When the structural assessment indicates a need for a stronger structure to address
+issues such as wind load factor, applicant shall provide a replacement structure at
+applicant's cost satisfactory to the Director in consultation with Fort Collins Utilities,
+as applicable.
+(b)
+All costs for conducting an assessment under this subsection (3) shall be borne by
+the applicant, and shall be paid by the applicant prior to issuance of a permit under
+this Section.
+(4)
+New Structures. All applications for new vertical structures associated with a WCF
+shall demonstrate that other alternative siting options, including collocations, are
+not feasible. Notwithstanding anything in this Section to the contrary, all WCFs and
+associated vertical structures located within the City shall satisfy the location
+and design criteria set forth in subsections (B)-(D) above.
+(G)
+Timeframes for Review.
+(1)
+Application types. All WCFs, other than those specified below in subsection (c) shall
+be reviewed according to the following timeframes:
+(a)
+Review of a completed application to collocate a facility other than a small cell
+facility on an existing tower or base station: ninety (90) days.
+(b)
+Review of an application to deploy a WCF other than a small cell facility on a new
+structure: one hundred fifty (150) days.
+(c)
+Review of an application for a new tower, base station, or alternative tower structure
+that does not qualify as a small cell facility: one hundred fifty (150) days.
+(2)
+Tolling the Timeframe for Review. The relevant review timeframe begins to run when
+the application is filed with the City, and may be tolled only by mutual agreement
+or where the City determines that an application is incomplete.
+(a)
+To toll the timeframe for incompleteness, the City shall provide written notice to
+the applicant within thirty (30) calendar days of receipt of the application, specifically
+delineating all missing documents or information required in the application;
+(b)
+Upon providing the notice of incompleteness to the applicant, the timeframe for review
+pauses. The timeframe for review begins running again when the applicant makes a supplemental
+written submission in response to the City's notice of incompleteness; and
+(c)
+Following a supplemental submission, the City will notify the applicant within ten
+(10) business days whether the supplemental submission did not provide the information
+identified in the original notice delineating missing information. The timeframe is
+tolled in the case of second or subsequent notices pursuant to the procedures identified
+in subparagraphs (a) and (b) of this subsection. In the case of a second or subsequent
+notice of incompleteness, the City may not specify missing documents or information
+that were not delineated in the original notice of incompleteness.
+(3)
+Specific Review Procedures for Eligible Facility Requests.
+(a)
+EFR standards. The City shall prepare, and from time to time revise and make available,
+an application form requiring the information necessary for the City to consider whether
+the project covered by an application would:
+1.
+result in a Substantial Change to the physical dimensions of the site; and
+2.
+violate a generally applicable law, regulation, or other rule reasonably related to
+public health and safety.
+The application shall not require an applicant to demonstrate a need or business case
+for the proposed modification or collocation.
+(b)
+Timeframe for EFR review. Subject to the tolling provisions below, an eligible facility
+request shall be approved within sixty (60) days of the date of the request unless
+it the City determines that it does not qualify as an eligible facilities request.
+Upon receipt of an application for an eligible facility request pursuant to this subsection,
+the City shall review such application to determine whether the application so qualifies.
+(c)
+Tolling the timeframe for EFR review.
+1.
+The sixty (60) calendar day review period begins to run when the application is filed
+with the City, and may be tolled only by mutual agreement or where the City determines
+that an application is incomplete:
+a.
+To toll the timeframe for incompleteness, the City must provide written notice to
+the applicant within thirty (30) calendar days of receipt of the application, specifically
+delineating all missing documents or information required in the application;
+b.
+Upon notice of incompleteness to the applicant, the timeframe for review pauses. The
+timeframe for review begins running again when the applicant makes a supplemental
+written submission in response to the City's notice of incompleteness; and
+c.
+Following a supplemental submission, the City will notify the applicant within ten
+(10) business days whether the supplemental submission did not provide the information
+identified in the original notice delineating missing information. The timeframe is
+tolled in the case of second or subsequent notices pursuant to the procedures identified
+in subparagraphs (A) and (B) of this subsection. In the case of a second or subsequent
+notice of incompleteness, the City may not specify missing documents or information
+that were not delineated in the original notice of incompleteness.
+2.
+If the City fails to approve or deny an eligible facility request within the time
+frame for review (accounting for any tolling), the request shall be deemed granted;
+provided that this approval shall become effective only upon the City's receipt of
+written notification from the applicant after the review period has expired (accounting
+for any tolling) indicating that the application has been deemed granted.
+(d)
+Interaction with Telecommunications Act 47 U.S.C. Section 332(c)(7). If the City determines
+that the applicant's request is not an eligible facilities request as delineated in
+this subsection, the applicant shall be advised as to the relevant provisions of the
+City Code that govern the process to consider the request, and whether the Code requires
+any additional information to be submitted in order for the request to be considered
+complete. If the applicant subsequently indicates an intent for the proposal to be
+considered under the relevant section of the City Code and submits all required information,
+the presumptively reasonable timeframe under Section 332(c)(7), as set forth in applicable
+federal and state law will begin to run from submittal of the required information
+under the applicable provision of this Code.
+(Ord. No. 59, 2000 §26, 6/6/00; Ord. No. 107, 2001 §34, 6/19/01; Ord. No. 204, 2001
+§24, 12/18/01; Ord. No. 144, 2017 , §2, 12/5/17; Ord. No. 063, 2018 , §19, 6/5/18; Ord. No. 011, 2023 , §3, 2/7/23)
+Any use that is not permitted under the provisions of Article 4 , but that must be allowed because of preemption by a sovereign jurisdiction or because
+of a court order, shall be processed as a Planning and Zoning Board Review (Type 2
+review) and shall be approved, with or without conditions, as necessary to ensure
+that such use complies with all general standards as set forth in Article 3 and zone district standards as set forth in Article 4 as are or may reasonably be interpreted to be applicable to such use, provided that
+such standards are not preempted or ordered by a court not to be applied.
+An applicant for a Building Permit for a single-family or two-family dwelling shall
+affirm and certify in the application that the dwelling which is the subject of the
+Building Permit does not adjoin a lot with the same housing model, if on the same
+block face. This requirement shall not apply to single-family or two-family dwellings
+on lots created pursuant to the zone district and land use regulations in effect on
+March 27, 1997.
+(Ord. No. 228, 1998 §30, 12/15/98)
+(A)
+Except as provided in Subsection (B) below, or pursuant to a certificate of occupancy
+issued by the city to the owner of the property, the maximum occupancy allowed per
+dwelling unit in a single-family, two-family or multi-family dwelling shall be either:
+(1)
+one (1) family as defined in Section 5.1.2 and not more than one (1) additional person; or
+(2)
+two (2) adults and their dependents, if any, and not more than one (1) additional
+person.
+(B)
+Exceptions. The following shall be exempt from the maximum occupancy limit established in Subsection
+(A) above:
+(1)
+dwellings regularly inspected or licensed by the state or federal government, including,
+but not limited to, group homes; and
+(2)
+dwellings owned or operated by a nonprofit organization incorporated under the laws
+of this state for the purpose of providing housing to victims of domestic violence
+as such is defined in Section 18-6-800.03, C.R.S.
+(C)
+A violation of this Section shall be proven by a preponderance of the evidence. A
+person shall be liable for allowing occupancy in excess of this Section if he or she
+knew, or through reasonable diligence should have known, that a violation of this
+Section was occurring.
+(D)
+Definitions . The following words, terms and phrases, when used in this Section, shall have the
+meanings ascribed to them below:
+(1)
+Adult shall mean any person eighteen (18) years of age or older who is not a dependent.
+(2)
+Dependent shall mean the biological child of an adult occupying a dwelling unit, or a person
+related to an adult by reason of adoption, guardianship or other duly authorized custodial
+relationship, who receives financial support from the adult and who resides with the
+adult in the dwelling unit at least three (3) calendar months in a calendar year.
+(3)
+Occupancy or occupy shall mean the use of a dwelling unit or any portion thereof for living and sleeping
+purposes by a person acting in any of the following capacities:
+(a)
+as an owner of the unit;
+(b)
+as a tenant under an express or implied lease or sublease of the unit or of any portion
+thereof; or
+(c)
+as a guest or invitee of the owner, property manager, lessee or sublessee of the unit,
+if such guest or invitee stays overnight at the unit for a total of thirty (30) or
+more days within any twelve-month period of time.
+(4)
+Occupant shall mean a person who occupies a dwelling unit or any portion thereof for living
+and sleeping purposes.
+(E)
+Increasing the Occupancy Limit .
+(1)
+With respect to single-family and two-family dwellings, the number of persons allowed
+under this Section may be increased by the issuance of a certificate of occupancy
+allowing extra occupancy in zones allowing such use.
+(2)
+With respect to multiple-family and single family attached dwellings, the decision
+maker (depending on the type of review, Type 1 or Type 2) may, upon receipt of a written
+request from the applicant and upon a finding that all applicable criteria of this
+Code have been satisfied, increase the number of unrelated persons who may reside
+in individual dwelling units. The decision maker shall not increase said number unless
+satisfied that the applicant has provided sufficient amenities, either public or private,
+to sustain the activities associated with multi-family residential development, to
+adequately serve the occupants of the development and to protect the adjacent neighborhood.
+Such amenities may include, without limitation, passive open space, buffer yards,
+on-site management, recreational areas, plazas, courtyards, outdoor cafes, neighborhood
+centers, limited mixed-use restaurants, parking areas, sidewalks, bikeways, bus shelters,
+shuttle services or other facilities and services.
+(3)
+With respect to single-family, owner occupied dwellings, the number of persons allowed
+under paragraph 3.8.16(A)(1) may be increased to allow one (1) additional person by
+the issuance of a "host family permit," provided that the following conditions are
+met:
+(a)
+Adequate off-street parking is available to accommodate the additional occupant;
+(b)
+There have been no violations of Chapter 17 or 20 of the City Code or Section 3.18.16
+of this Code at the premises for which the permit is sought within the twelve (12)
+months immediately preceding the date of the application for the permit; and
+(c)
+At least two (2) months have elapsed since the issuance of any previous host family
+permit for the same premises.
+(4)
+Host family permits shall be valid for ten (10) months from the date of issuance;
+provided, however, that in the event that the Municipal Judge or Municipal Court Referee
+determines, during the term of any such permit, that a violation of Chapter 17 or
+20 of the City Code or Section 3.8.16 of this Code has occurred at the premises for which the permit was issued, the permit
+may be revoked. The City may charge a twenty-five-dollar permit fee, or any greater
+amount not to exceed the costs of processing the application, which shall be payable
+at the time of application for the host family permit.
+(Ord No. 123, 2005 §6, 11/15/05; Ord No. 33, 2006, 3/7/06; Ord. No. 104, 2006 §12,
+7/18/06; Ord. No. 041, 2010 §1, 4/20/10; Ord. No. 041, 2013 §7, 3/19/13; Ord. No. 019, 2019 , § 5, 2/19/19; Ord. No. 161, 2020 , §14, 1/5/21)
+(A)
+Measuring Building Height.
+(1)
+Building Height Measured in Feet. When measured in feet, building height shall be measured from the average of the
+finished ground level at the center of all walls of a building or structure to the
+highest point of the roof surface or structure.
+(2)
+Building Height Measured in Stories. In measuring the height of a building in stories the following measurement rules
+shall apply:
+(a)
+A balcony or mezzanine shall be counted as a full story when its floor area is in
+excess of one-third ( 1 /3) of the total area of the nearest full floor directly below it.
+(b)
+Half (1/2) story shall mean a space under a sloping roof which has the line of intersection
+of the roof and wall face not more than three (3) feet above the floor level, and
+in which space the possible floor area with head room of five (5) feet or less occupies
+at least forty (40) percent of the total floor area of the story directly beneath.
+(c)
+No story of a commercial or industrial building shall have more than twenty-five (25)
+feet from average ground level at the center of all walls to the eave/wall intersection
+or wall plate height if there is no eave, or from floor to floor, or from floor to
+eave/wall intersection or wall plate height as applicable.
+(d)
+A maximum vertical height of twelve (12) feet eight (8) inches shall be permitted
+for each residential story measured from average ground level at the center of all
+walls to the eave/wall intersection or wall plate height if there is no eave, or from
+floor to floor, or from floor to eave/wall intersection or wall plate height as applicable.
+This maximum vertical height shall apply only in the following zone districts: U-E;
+R-F; R-L; L-M-N; M-M-N; N-C-L; N-C-M; N-C-B; R-C; C-C-N; N-C; H-C; and M-H.
+(3)
+Transitional Height. Regardless of the maximum building height limit imposed by the zone district standards
+of this Land Use Code, applicants shall be allowed to use a "transitional" height
+limit. The allowed "transitional" height may fall at or below the midpoint between
+the zone district maximum height limit and the height, in feet, of a building that
+exists on a lot that abuts the subject lot and faces the same street as the building
+on the subject lot. This provision shall not be interpreted as requiring greater minimum
+heights or lower maximum heights than imposed by the underlying zone district.
+(B)
+Building Height Regulations.
+(1)
+All dwellings shall be constructed with at least seventy-five (75) percent of the
+roof surface higher than seven (7) feet from grade.
+(2)
+It shall be unlawful to construct, build or establish any building, trees, smokestack,
+chimney, flagpole, wire, tower or other structure or appurtenance thereto which may
+constitute a hazard or obstruction to the safe navigation, landing and takeoff of
+aircraft at a publicly used airport.
+(3)
+No detached accessory building may exceed eight (8) feet in height unless such building
+complies with all of the yard setbacks for the district in which such building is
+located.
+(C)
+Exemptions From Building Height Regulations. The following structures and features shall be exempt from the height requirements
+of this Land Use Code:
+(1)
+chimneys, smokestacks or flues that cover no more than five (5) percent of the horizontal
+surface area of the roof;
+(2)
+cooling towers, ventilators and other similar equipment that cover no more than five
+(5) percent of the horizontal surface area of the roof;
+(3)
+elevator bulkheads and stairway enclosures that cover no more than five (5) percent
+of the horizontal surface area of the roof;
+(4)
+fire towers;
+(5)
+utility poles and support structures;
+(6)
+belfries, spires and steeples;
+(7)
+monuments and ornamental towers;
+(8)
+solar energy systems.
+(9)
+structures associated with occupied roofs where the parapet wall does not exceed four
+(4) feet above the roof deck. If such roofs include enclosed space, such space such
+as shade structures, storage closets, and other installations, shall cover no more
+than twenty-five (25) percent of the horizontal surface area of the roof and shall
+be set back at a thirty-five (35) degree angle measured at the intersection of the
+floor plane of the story below the roof.
+(Ord. No. 59, 2000 §27, 6/6/00; Ord. No. 177, 2002 §17, 12/17/02; Ord. No. 091, 2004
+§22, 6/15/04; Ord. No. 070, 2005 §11, 7/5/05; Ord. No. 073, 2008 §8, 7/1/08; Ord.
+No. 063, 2018 , §20, 6/5/18; Ord. No. 077, 2019 , §14, 7/16/19; Ord. No. 100, 2020 , §6, 8/18/20; Ord. No. 161, 2020 , §15, 1/5/21)
+(A)
+Calculation of the gross residential density shall be performed (and included on the
+development plan) in the following manner:
+(1)
+Determining the gross acreage. The gross acreage of all the land within the boundaries
+of the development shall be included in the density calculation except:
+(a)
+any interest in land which has been deeded or dedicated to any governmental agency
+for public use prior to the date of approval of the development plan; provided, however,
+that this exception shall not apply to any such acquisition of an interest in land
+solely for open space, parkland or stormwater purposes; and
+(b)
+land devoted to nonresidential uses such as commercial, office, industrial or civic
+uses.
+(2)
+The foregoing gross acreage calculation shall be shown in a table format on the development
+plan and shall form the basis for calculating the gross residential density.
+(3)
+The total number of dwelling units shall be divided by the gross residential acreage.
+The resulting gross residential density shall also be shown in a table format on the
+development plan.
+(B)
+Calculation of the net residential density shall be performed (and included on the
+development plan) in the following manner:
+(1)
+Determining the net residential acreage. The net residential acreage shall be calculated
+by subtracting the following from the gross acreage, as determined in subsection (A)
+above:
+(a)
+land to be dedicated for arterial streets;
+(b)
+land containing natural areas or features that are to be protected from development
+and disturbance in accordance with the requirements of Section 3.4.1 , "Natural Habitats and Features";
+(c)
+land set aside from development due to a geologic hazard in accordance with the requirements
+of Section 3.3.4 , "Hazards";
+(d)
+land containing outdoor spaces that are to be dedicated to the public or deeded to
+the homeowner's association and preserved for a park or central green, but only if
+the total area of land does not exceed twenty-five (25) percent of the gross acreage
+of the project development plan and the outdoor space meets the following criteria:
+1.
+At least thirty-five (35) percent of the boundary of the outdoor space is formed by
+nonarterial, public streets, and the rear facades and rear yards of houses abut not
+more than two (2) sides or more than fifty (50) percent of the boundary frontage of
+the outdoor space.
+2.
+At a minimum, the outdoor space consists of maintained turf. In addition, such outdoor
+spaces may include features such as: buildings containing recreation or meeting rooms,
+playgrounds, plazas, pavilions, picnic tables, benches, orchards, walkways or other
+similar features.
+3.
+The outdoor space is no less than ten thousand (10,000) square feet in area.
+4.
+The outdoor space does not consist of a greenbelt or linear strip but has a minimum
+dimension of fifty (50) feet in all directions in any nonrectangular area, or seventy-five
+(75) feet in any rectangular area.
+5.
+The outdoor space is located and designed to allow direct, safe and convenient access
+to the residents of surrounding blocks.
+6.
+Storm drainage functions that are integrated into outdoor spaces allow adequate space
+for active recreation purposes and do not result in slopes or gradients that conflict
+with active recreation. Stormwater retention areas (which have no outlet) shall not
+be allowed. No more than ten (10) percent of an outdoor space shall consist of gradients
+greater than four (4) percent.
+(e)
+land dedicated to public alleys.
+(f)
+land dedicated to pedestrian/bicycle path connections when required pursuant to subsection 3.2.2 (C)(6) or subsection 4.5 (E)(1)(b), or when provided voluntarily by the applicant to connect cul-de-sacs to
+nearby streets, provided that such connections do not exceed two hundred fifty (250)
+feet in length.
+(g)
+land dedicated to landscaped traffic circles, squares, islands and boulevard strips
+separating the travel lanes of collector or local streets, provided that such features
+have the following minimum width dimensions:
+1.
+boulevard strips: twenty-five (25) feet at any point.
+2.
+traffic circles, squares, or islands: forty (40) feet at any point.
+(2)
+The foregoing net acreage calculation shall be shown in a table format on the development
+plan and shall form the basis for calculating the net residential density.
+(3)
+The total number of dwelling units shall be divided by the net residential acreage.
+The resulting density shall also be shown in a table format on the development plan.
+(Ord. No. 90, 1998, 5/19/98; Ord. No. 228, 1998 §31, 12/15/98; Ord. No. 99, 1999 §15,
+6/15/99; Ord. No. 198, 2004 §17, 12/21/04; Ord. No. 131, 2006 §3, 9/19/06)
+(A)
+Features Allowed Within Setbacks . The following structures and features may be located within required setbacks:
+(1)
+trees, shrubbery or other features of natural growth;
+(2)
+fences or walls, subject to permit approval, that do not exceed the standards established
+in Section 3.8.11 ;
+(3)
+driveways and sidewalks;
+(4)
+signs, if permitted by the sign regulations of this Land Use Code;
+(5)
+bay windows and similar sized cantilevered floor areas, and architectural design embellishments
+of dwellings that do not project more than two (2) feet into the required setback,
+basement egress windows including the foundation that forms the window well, as long
+as the window foundation does not exceed the elevation or height of the house foundation,
+provided none of the foregoing elements shall encroach upon any public easements;
+(6)
+eaves that do not project more than two and one-half (2½) feet into the required setback;
+(7)
+open outside stairways, entrance hoods, terraces, canopies and balconies that do not
+project more than five (5) feet into a required front or rear setback and/or not more
+than two (2) feet into a required side setback, provided they do not encroach on public
+easements;
+(8)
+chimneys, flues and residential ventilating ducts that do not project more than two
+(2) feet into a required setback and when placed so as not to obstruct light and ventilation,
+provided they do not encroach on public easements;
+(9)
+utility lines, wires and associated structures, such as power poles.
+(10)
+decks which are not more than thirty (30) inches above ground.
+(B)
+Contextual Setbacks . Regardless of the minimum front setback requirement imposed by the zone district
+standards of this Land Use Code, applicants shall be allowed to use a "contextual"
+front setback. A "contextual" front setback may fall at any point between the front
+setback required in the zone district and the front setback that exists on a lot that
+abuts, and is oriented to, the same street as the subject lot. If the subject lot
+is a corner lot, the "contextual" setback may fall at any point between the zone district
+required front setback and the front setback that exists on the lot that is abutting
+and oriented to the same street as the subject lot. If lots on either side of the
+subject lot are vacant, the setback shall be interpreted as the minimum required front
+setback that applies to the vacant lot. This provision shall not be construed as requiring
+a greater front setback than that imposed by the underlying zone district, and it
+shall not be construed as allowing setbacks to be reduced to a level that results
+in right-of-way widths below established minimums.
+(C)
+Front Setbacks on Corner Lots . In the case of corner lots, only one (1) street line shall be considered as a front
+line, and the street to which the primary entrance of the principal building faces
+or to which the building is addressed shall be considered the front line for purposes
+of determining the front setback.
+(D)
+Setbacks Reduced for Public Purpose . When an existing setback is reduced as a result of conveyance for a public use and
+the remaining setback is at least seventy-five (75) percent of the required minimum
+setback for the district in which it is located, then that remaining setback shall
+be deemed to be in compliance with the minimum setback standards of this Land Use
+Code.
+(Ord. No. 183, 2000 §18, 12/19/00; Ord. No. 204, 2001 §25, 12/18/01; Ord. No. 177,
+2002 §18, 12/17/02; Ord. No. 091, 2004 §23, 6/15/04; Ord. No. 066, 2009 §13, 7/7/09; Ord. No. 155, 2015 §6, 12/15/15 )
+(A)
+Expansions of Large Retail Establishments. No addition to an existing large retail establishment which would increase the gross
+square feet of floor area of such establishment by fifty (50) percent or more, and
+no addition to a building which would create a large retail establishment and which
+would increase the gross square footage of floor area of such building by fifty (50)
+percent or more, shall be approved for construction or occupancy unless the entire
+large retail establishment affected by the new construction has been determined by
+the Planning and Zoning Board to be in compliance with the "Building Standards for
+Large Retail Establishments" contained in Section 3.5.4 , the applicable general development standards contained in Article 3 , and the applicable district standards contained in Article 4 , whether the existing large retail establishment or building was approved under prior
+law or under this Land Use Code.
+(B)
+Expansions and Enlargements of Other Nonresidential Buildings and of Multi-Family
+Dwellings . Any proposal for the enlargement or expansion of a nonresidential building that
+was constructed pursuant to a basic development review, or use-by-right review under
+prior law, and that is not otherwise regulated by subparagraph 3.8.20 (A) of this Section, and any proposal for the enlargement or expansion of a multi-family
+dwelling that was constructed pursuant to a basic development review, or use-by-right
+review under prior law, must comply with the requirements contained in Section 1.6.5 , the applicable general development standards contained in Article 3 , and the applicable district standards contained in Article 4 .
+(C)
+Expansions and Enlargements of Single-Family Dwellings, Two-Family Dwellings and Accessory
+Buildings . Any proposal for the enlargement or expansion of a single-family dwelling, two-family
+dwelling or accessory building shall be subject to Building Permit review in accordance
+with Division 2.7 and shall comply with the applicable general development standards contained in Article 3 and the applicable district standards contained in Article 4 .
+(Ord. No. 177, 1998 §4, 10/20/98; Ord. No. 204, 2001 §1, 12/18/01)
+For any development project, prior to installation of any plant materials, including
+but not limited to grass, seed, flowers, shrubs or trees, the soil in the area to
+be planted shall be loosened and amended in a manner consistent with the requirements
+of City Code Section 12-132(a), regardless of whether a building permit is required
+for the specific lot, tract or parcel in which the area is located. A certification
+consistent with the requirements of City Code Section 12-132(b) shall be required
+for the area to be planted. This requirement may be temporarily suspended or waived
+for the reasons and in the manner set forth in City Code Sections 12-132(c) and (d).
+(Ord. No. 90, 1998, 5/19/98; Ord. No. 228, 1998 §32, 12/15/98; Ord. No. 084, 2003
+§3, 6/3/03)
+(A)
+All services provided by a dog day-care facility shall be conducted within a completely
+enclosed, soundproof building.
+(B)
+All dog day-care facilities shall be designed and constructed in a manner that eliminates
+any emission of odor offensive to persons owning, occupying or patronizing properties
+adjacent to such facilities.
+(Ord. No. 228, 1998 §33, 12/15/98)
+Manufactured Housing Communities shall be developed in accordance with the applicable
+general development standards contained in Article 3 , the applicable district standards contained in Article 4 , and the regulations contained in Chapter 18 of the City Code.
+(Ord. No. 228, 1998 §34, 12/15/98; Ord. No. 100, 2020 , §7, 8/18/20)
+(A)
+Composting facilities shall be located at least six hundred sixty (660) feet from
+any land located in the r-l, l-m-n or m-m-n zone districts and/or any residential
+use (except a residential use occupied by the owner, operator or any employee of such
+composting facility) as such zone districts or residential uses exist at the time
+of the establishment of such composting facility.
+(B)
+Composting facilities shall contain and treat on-site, all water run-off that comes
+into contact with the feedstocks or compost, in such manner that the run-off will
+not contaminate surface or ground water.
+(C)
+Composting facilities shall not be located in any floodway.
+(D)
+No composting facility shall commence operation until a nuisance condition control
+plan, specifying all measures to be taken to control nuisance conditions (such as
+odor, noise, scattered solid waste, dust or vectors) has been approved by the Director.
+(Ord. No. 228, 1998 §35, 12/15/98)
+(A)
+If, after June 25, 1999 (the effective date of the ordinance adopting this Section),
+active operations are not carried on in a permitted use during a period of twenty-four
+(24) consecutive months, or with respect to seasonal overflow shelters sixty (60)
+consecutive months, the building, other structure or tract of land where such permitted
+use previously existed shall thereafter be re-occupied and used only after the building
+or other structure, as well as the tract of land upon which such building or other
+structure is located, have, to the extent reasonably feasible, been brought into compliance
+with the applicable general development standards contained in Article 3 and the applicable district standards contained Article 4 of this Code as determined by the Director. This requirement shall not apply to any
+permitted use conducted in a building that was less than ten (10) years old at the
+time that active operations ceased. Intent to resume active operations shall not affect
+the foregoing.
+(B)
+A building or structure containing a permitted use which has been damaged by fire
+or other accidental cause or natural catastrophe may be reconstructed to its previous
+condition, provided that such work is started within twelve (12) months of the date
+of the occurrence of such damage. In the event such work is started later than twelve
+(12) months from the date of the occurrence, then the building or structure may be
+reconstructed, provided that, to the extent reasonably feasible, such reconstruction
+complies with the applicable standards of Article 3 and Article 4 of this Code as determined by the Director.
+(C)
+Any determination of the Director under this Section shall constitute a building permit
+decision and as such shall be appealable as a building permit under Section 2.11 (B)(9).
+(Ord. No. 99, 1999 §16, 6/15/99; Ord. No. 173, 2003 §19, 12/16/03; Ord. No. 086, 2014 §37, 7/1/14; Ord. No. 065, 2015 §7, 7-7-15 ; Ord. No. 110, 2015 §1, 9/15/15 ; Ord. No. 059, 2017 , § 11, 5/2/17)
+(A)
+Applicability. These standards apply only to applications that include residential uses proposed
+to be located in proximity to existing industrial uses. Buffering between buildings
+containing occupiable space and oil and gas facilities is addressed in Section 3.8.36 .
+(B)
+Purpose. The purpose of this Section is to provide standards to separate residential land
+uses from existing industrial uses in order to eliminate or minimize potential nuisances
+such as dirt, litter, noise, glare of lights and unsightly buildings or parking areas,
+or to provide spacing to reduce adverse impacts of noise, odor, air pollutants, hazardous
+materials or site contamination, or danger from fires or explosions.
+(C)
+Buffer standards. Buffer yards shall be located on the outer perimeter of a lot or parcel and may be
+required along all property lines for buffering purposes and shall meet the standards
+as provided in this Section.
+(1)
+Only those structures used for buffering and/or screening purposes shall be located
+within a buffer yard. The buffer yard shall not include any paved area, except for
+pedestrian sidewalks or paths or vehicular access drives which may intersect the buffer
+yard at a point which is perpendicular to the buffer yard and which shall be the minimum
+width necessary to provide vehicular or pedestrian access. Fencing and/or walls used
+for buffer yard purposes shall be solid, with at least seventy-five (75) percent opacity.
+(2)
+There are four (4) types of buffer yards which are established according to land use
+intensity as described in Chart 1 below. Buffer yard distances are established in
+Chart 2 below and specify deciduous or coniferous plants required per one hundred
+(100) linear feet along the affected property line, on an average basis.
+(3)
+The buffer yard requirements shall not apply to temporary or seasonal uses or to properties
+that are separated by a major collector street, arterial street, or highway.
+Chart 1 Land Use Intensity Categories
+
+Land Use | Intensity Category | Buffer Yard
+Airports/airstrips | Very High | C
+Composting facilities | High | B
+Dry cleaning plants | Very High | C
+Feedlots | Very High | C
+Heavy industrial uses | Very High | C
+Light industrial uses | High | B
+Junkyards | High | B
+Outdoor storage facilities | High | B
+Recreation vehicle, boat, truck storage | Medium | A
+Recycling facilities | High | B
+Agricultural research laboratories | High | B
+Resource extraction | Very High | C
+Transportation terminals (truck, container storage) | High | B
+Warehouse & distribution facilities | High | B
+Workshops and custom small industry | Medium | A
+
+Chart 2 Buffer Yard Types
+
+Type - Base Standard (plants per 100 linear feet along affected property line) * | Option Width | Plant Multiplier ** | Option: Add 6' Wall | Option: Add 3' Berm or 6' Fence
+Buffer Yard A: | 15 feet | 1.00 | | 
+| 20 feet | .90 | | 
+3 Shade Trees | 25 feet | .80 | | 
+2 Ornamental Trees or Type 2 Shrubs*** | 30 feet | .70 | .65 | .80
+3 Evergreen Trees | 35 feet | .60 | | 
+15 Shrubs (33% Type 1, 67% Type 2) | 40 feet | .50 | | 
+Buffer Yard B: | 15 feet | 1.25 | | 
+| 20 feet | 1.00 | | 
+| 25 feet | .90 | | 
+4 Shade Trees | 30 feet | .80 | .75 | .85
+4 Ornamental Trees or Type 2 Shrubs*** | 35 feet | .70 | | 
+3 Evergreen Trees | 40 feet | .60 | | 
+25 Shrubs (Type 2) | 45 feet | .50 | | 
+Buffer Yard C: | 20 feet | 1.25 | | 
+| 25 feet | 1.00 | | 
+| 30 feet | .90 | | 
+5 Shade Trees | 35 feet | .80 | .75 | .85
+6 Ornamental Trees or Type 2 Shrubs*** | 40 feet | .70 | | 
+4 Evergreen Trees | 45 feet | .60 | | 
+30 Shrubs (Type 2) | 50 feet | .50 | | 
+
+* "Base standard" for each type of buffer yard is that width which has a plant multiplier.
+** "Plant multipliers" are used to increase or decrease the amount of required plants
+based on providing a buffer yard of reduced or greater width or by the addition of
+a wall, berm or fence.
+*** Shrub types: Type 1: 4' - 8' High Type 2: Over 8' High
+(Ord. No. 173, 2003 §20, 12/16/03; Ord. No. 108, 2013 §§1—4, 8/20/13; Ord. No. 114, 2018 , §2, 9/4/18; Ord. No. 116, 2023 , § 2, 9/19/23)
+(A)
+Lot Size. Minimum lot size shall be seven (7) acres.
+(B)
+Building Size. The total floor area of any new building shall not exceed seven thousand five hundred
+(7,500) square feet and the total aggregate floor area of new and existing buildings
+shall not exceed fifteen thousand (15,000) square feet.
+(C)
+Building Location and Separation From Residential Areas. All buildings shall be located a minimum of three hundred (300) feet from the nearest
+dwelling on any abutting property, except that in cases where there are no dwellings
+on such abutting property, all buildings shall be located a minimum of two hundred
+fifty (250) feet from the nearest property line of such abutting property.
+(D)
+Outdoor Spaces, Location and Separation From Residential Areas. All outdoor spaces such as lawns, plazas, gazebos and/or terraces used for social
+gatherings or ceremonies associated with the reception center shall be located within
+one hundred (100) feet of the primary building and shall be located a minimum of three
+hundred (300) feet from the nearest dwelling on any abutting property, except that
+in cases where there are no dwellings on such abutting property, all outdoor spaces,
+as described above, shall be located a minimum of two hundred fifty (250) feet from
+the nearest property line of such abutting property.
+(E)
+Nonresidential Abutment. At least one-sixth ( 1 / 6 ) of the reception center's property boundary must be contiguous to property which
+is zoned in one (1) or more of the following nonresidential zone districts within
+the City:
+D, Downtown; R-D-R, River Downtown Redevelopment; C-C, Community Commercial; C-C-N, Community Commercial - North College; C-C-R, Community Commercial - Poudre River; C-G, General Commercial; C-S, Service Commercial; N-C, Neighborhood Commercial; C-L, Limited Commercial; H-C, Harmony Commercial; E, Employment; I, Industrial.
+(F)
+Access. Vehicular access to the reception center shall be only directly from an arterial
+street so as to not add traffic to existing local neighborhood streets.
+(G)
+Buffering. If the reception center abuts a single-family dwelling or property zoned for such
+activity, buffering shall be established between the two (2) land uses sufficient
+to screen the building, parking, outdoor lighting and associated outdoor activity
+from view. A combination of setbacks, landscaping, building placement, fences or walls
+and elevation changes and/or berming shall be utilized to achieve appropriate buffering.
+(H)
+Hours of Operation. Hours of operation shall be limited to 8:00 a.m. to 10:00 p.m. Sunday through Thursday
+and 8:00 a.m. to 12:00 a.m. on Friday and Saturday.
+(I)
+Noise. No noise will be permitted in violation of Chapter 20, Article II of the City Code,
+and the following limitations will also apply:
+(1)
+Music that is not amplified (such as stringed quartets or acoustic guitars) will be
+allowed out of doors, but shall end no later than 8:00 p.m. Sunday through Thursday,
+and 9:00 p.m. on Friday and Saturday.
+(2)
+Except during wedding ceremonies, sound-amplifying equipment used out of doors shall
+be limited to speakers with a maximum power rating of fifty (50) watts permanently
+installed as part of the design of outdoor spaces such as lawns, plazas, gazebos and/or
+terraces.
+(J)
+On-Site Caretaker. There shall be a manager or owner on site during all hours of operation.
+(K)
+Parking Lot Lighting. Parking lot lighting, if used at all, shall conform to the requirements contained
+in Section 3.2.4 , and shall be further restricted such that (a) the lighting is of high pressure sodium
+only and does not exceed seventy (70) watts and one hundred twenty (120) volts; and
+(b) the fixture does not exceed a height of fourteen (14) feet above ground level.
+(Ord. No. 056, 2004 §2, 4/20/04; Ord. No. 070, 2005 §12, 7/5/05; Ord. No. 028, 2009
+§2, 3/24/09; Ord. No. 036, 2001 §1, 3/22/11)
+(A)
+Extra occupancy, not including multiple family and single family attached dwellings
+which shall be governed by Section 3.8.16 (E)(2), shall conform to the occupancy limits and separation requirements specified
+in the following table:
+
+Zone | Maximum number of permissible residents, excluding occupant family | Maximum percentage of parcels per block face that may be used for extra occupancy
+houses
+L-M-N | One (1) occupant per three hundred fifty (350) square feet of habitable floor space,
+in addition to a minimum of four hundred (400) square feet of habitable floor space
+if owner-occupied | No more than twenty-five (25) percent of parcels on a block face may be approved for
+extra occupancy use.
+M-M-N, H-M-N, N-C-B | One (1) occupant per three hundred fifty (350) square feet of habitable floor space,
+in addition to a minimum of four hundred (400) square feet of habitable floor space
+if owner-occupied. | No limit.
+D, R-D-R, C-C, C-C-N, C-C-R, C-G, C-N, N-C, C-L-E, I | One (1) occupant per three hundred fifty (350) square feet of habitable floor space,
+in addition to a minimum of four hundred (400) square feet of habitable floor space
+if owner-occupied. | No limit.
+R-L, N-C-L, R-F, U-E, N-C-M, H-C, P-O-L, R-C | n/a | Extra occupancy not allowed.
+
+(B)
+In all zone districts allowing extra occupancy except L-M-N, an application for extra
+occupancy use for five (5) or fewer occupants shall be subject to basic development
+review.
+(C)
+In all zone districts allowing extra occupancy except L-M-N, an application for extra
+occupancy use for more than five (5) occupants shall be subject to Type 1 administrative
+review.
+(D)
+In the L-M-N zone district, an application for extra occupancy use for more than four
+(4) occupants shall be subject to Type 1 administrative review.
+(Ord. No. 123, 2005 §7, 11/15/05; Ord. No. 104, 2006 §12, 7/18/06; Ord. No. 036, 2001
+§1, 3/22/11; Ord. No. 155, 2015 §7, 12/15/15 ; Ord. No. 019, 2019 , § 6, 2/19/19; Ord. No. 100, 2020 , §8, 8/18/20; Ord. No. 161, 2020 , §16, 1/5/21)
+(A)
+Outdoor vendors shall be prohibited on undeveloped lots.
+(B)
+Outdoor vendors shall be considered as accessory uses in the zone districts in which
+they are permitted, provided they are on lots that contain a principal building wherein
+active operations are being conducted. Outdoor vendors that qualify as accessory uses
+shall not be subject to change-of-use regulations which would otherwise require the
+properties on which they are located to be brought into compliance with the standards
+of this Code.
+(C)
+Outdoor vendors located on lots wherein active operations in the principal building
+have ceased shall be considered principal uses and shall be subject to change-of-use
+regulations requiring that the properties upon which they are located be brought into
+compliance with the applicable standards of this Code.
+(D)
+Signage for outdoor vendors shall be limited to signs placed directly onto the vehicle
+or cart used in connection with the business.
+(E)
+Outdoor vendors shall comply with all outdoor vendor regulations and standards contained
+in Chapter 15 of the City Code.
+(F)
+An outdoor vendor shall be situated on a lot in such a manner that no aspect of its
+operation shall impede vehicular, pedestrian or bicycle circulation.
+(G)
+The owner of a private parcel or lot, or owner of the principal business thereon,
+upon which an outdoor vendor, or outdoor vendors, vend from mobile food trucks, pushcarts,
+or any other vehicles, as such terms are defined in Section 15-381 of the City Code,
+shall not allow such outdoor vendor, or outdoor vendors, to operate on such private
+parcel or lot for more than three (3) consecutive calendar days, or for more than
+three (3) total calendar days within any calendar week, defined for purposes of this
+Section 3.8.29 as Sunday through Saturday, unless stationary vending is an approved use thereon.
+(H)
+The owner of a private parcel or lot upon which stationary vending will occur shall
+comply with the following additional requirements:
+(1)
+Obtain an approved minor amendment to allow stationary vending on the private parcel
+or lot as an accessory use.
+(a)
+A property owner may apply for a minor amendment to allow stationary vending only
+for private parcels or lots within non-neighborhood zone districts. Non-neighborhood
+zone districts solely for purposes of eligible stationary vendor locations shall be
+defined as: D, RDR, CC, CCN, CCR, CG, NC, CL, HC, E, and I.
+(b)
+Stationary vending shall not be permitted on parcels or lots within any neighborhood
+zone district. Neighborhood zone districts solely for purposes of non-eligible stationary
+vendor locations shall be defined as: RUL, UE, RF, RL, LMN, MMN, NCL, NCM, NCB, HMN.
+(2)
+Stationary vending shall not be allowed to occur for more than twelve (12) hours per
+calendar day on the private parcel or lot for which a minor amendment has been granted
+to allow such use; and
+(3)
+After the completion of each period of vending operations, a stationary vendor shall
+not be allowed to leave outdoors overnight (3:00 a.m. to 7:00 a.m.) on any private
+parcel or lot where stationary vending is allowed any food truck, push cart, or vehicle,
+as such terms are defined in Section 15-381 of the City Code, from which the vendor
+vends.
+(Ord. No. 057, 2012 §1, 7/17/12; Ord. No. 080, 2016 , §2, 11/15/16)
+(A)
+Purpose/Applicability . The following standards apply to all:
+(1)
+multi-family developments that contain at least four (4) dwelling units; and
+(2)
+single-family attached developments that contain at least four (4) dwelling units
+where there is no reasonably sufficient area for outdoor activities and useable outdoor
+space on an individual per lot basis.
+These standards are intended to promote variety in building form and product, visual
+interest, access to parks, pedestrian-oriented streets and compatibility with surrounding
+neighborhoods.
+(B)
+Mix of Housing Types . A complete range of the permitted housing types is encouraged in a neighborhood
+and within any individual development plan, to the extent reasonably feasible, depending
+on the size of the parcel. The following minimum standards are intended to promote
+such variety:
+(1)
+A minimum of two (2) housing types shall be required on any development parcel sixteen
+(16) acres or larger, including parcels that are part of a phased development. A minimum
+of three (3) housing types shall be required on any development parcels thirty (30)
+acres or larger.
+(2)
+Lot sizes and dimensions shall be varied for different housing types to avoid monotonous
+streetscapes. For example, larger housing types on larger lots are encouraged on corners.
+Smaller lots abutting common open spaces are encouraged.
+(3)
+The following list of housing types shall be used to satisfy this requirement:
+(a)
+Small lot single-family detached dwellings on lots containing less than six thousand
+(6,000) square feet.
+(b)
+Two-family dwellings.
+(c)
+Single-family attached dwellings.
+(d)
+Mixed-use dwelling units.
+(e)
+Group homes.
+(f)
+Multi-family dwellings containing three (3) to four (4) units per building.
+(g)
+Multi-family dwellings containing five (5) to seven (7) units per building.
+(h)
+Multi-family dwellings containing more than seven (7) units per building.
+(4)
+Lot pattern . The lot size and layout pattern shall be designed to allow buildings to face toward
+the street.
+(C)
+Access to a Park, Central Feature or Gathering Place. At least ninety (90) percent of the dwellings in all development projects containing
+two (2) or more acres shall be located within one thousand three hundred twenty (1,320)
+feet (one-quarter (¼) mile) of either a neighborhood park, a privately owned park
+or a central feature or gathering place that is located either within the project
+or within adjacent development, which distance shall be measured along street frontage
+without crossing an arterial street. Such parks, central features or gathering places
+shall contain one (1) or more of the following uses:
+(1)
+Public parks, recreation areas or other open lands.
+(2)
+Privately owned parks, meeting the following criteria:
+(a)
+For projects between two (2) and five (5) acres, the development is required to provide
+sufficient outdoor gathering areas or site amenities, either public or private, to
+sustain the activities associated with single-family attached and multi-family residential
+development, to adequately serve the occupants of the development as set forth below.
+Such outdoor gathering areas may include, without limitation, small parks, playgrounds,
+pools, sports courts, picnic facilities, passive open space, recreational areas, plazas,
+courtyards, or naturalistic features.
+For projects greater than five (5) acres and less than ten (10) acres, the private
+park must be a minimum of five thousand (5,000) square feet.
+For projects greater than ten (10) acres, the private park must be a minimum of ten
+thousand (10,000) square feet.
+(b)
+Location. Such parks shall be highly visible, secure settings formed by the street
+layout and pattern of lots and easily observed from streets. Rear facades and rear
+yards of dwellings shall not abut more than two (2) sides or more than fifty (50)
+percent of the perimeter frontage of the park.
+(c)
+Accessibility. All parts of such parks shall be safely and easily accessible by pedestrians
+and open to the public.
+(d)
+Facilities. Such parks shall consist of multiple-use turf areas, walking paths, plazas,
+pavilions, picnic tables, benches or other features for various age groups to utilize.
+(e)
+Ownership and Maintenance. Such parks may, in the discretion of the City, be acquired
+by the City (through dedication or purchase) or be privately owned and maintained
+by the developer or property owners' association.
+(f)
+Storm Drainage. When integrating storm drainage and detention functions to satisfy
+this requirement, the design of such facilities shall not result in slopes or gradients
+that conflict with other recreational and civic purposes of the park.
+(3)
+Community facilities or neighborhood support/recreation facilities (which are permitted
+as an accessory use to housing). If such facility is smaller than the required minimum
+size for privately owned parks as required in subparagraph (2)(a) above, then the
+facility shall be physically integrated with such park space as needed to meet the
+required minimum size.
+(D)
+Block Requirements . All development shall comply with the applicable standards set forth below, unless
+the decision maker determines that compliance with a specific element of the standard
+is infeasible due to unusual topographic features, existing development, safety factors
+or a natural area or feature:
+(1)
+Block Structure. Each multi-family project shall be developed as a series of complete blocks bounded
+by streets (public or private). (See Figures 16A through 16F below). Natural areas,
+irrigation ditches, high-voltage power lines, operating railroad tracks and other
+similar substantial physical features may form up to two (2) sides of a block.
+(2)
+Block Size. All blocks shall be limited to a maximum size of seven (7) acres.
+(3)
+Minimum Building Frontage. Forty (40) percent of each block side or fifty (50) percent of the block faces of
+the total block shall consist of either building frontage, plazas or other functional
+open space.
+(E)
+Buildings .
+(1)
+The portion of a building located within a radius of seventy-five (75) feet of the
+right-of-way of an intersection of two (2) arterial streets may contain an additional
+fourth story.
+(2)
+The portion of a building within a radius of fifty (50) feet of the right-of-way of
+any street intersection (except an arterial/arterial intersection) may contain an
+additional fourth story.
+(3)
+Minimum setback from the right-of-way along an arterial street shall be fifteen (15)
+feet and along a nonarterial street shall be nine (9) feet.
+(a)
+Exceptions to the setback standards are permitted if one (1) of the following is met:
+1.
+Each unit side that faces the street has a porch and/or balcony that has a minimum
+depth of six (6) feet (as measured from the building facade to the far side posts,
+railings/spindles) and a minimum length of eight (8) feet. If more than one (1) side
+of a unit faces the street, then only one (1) side is required to comply.
+2.
+An outdoor space such as a plaza, courtyard, patio or garden is located between a
+building and the sidewalk, provided that such space shall have landscaping, low walls,
+fencing or railings, a tree canopy and/or other similar site improvements along the
+sidewalk designed for pedestrian interest, comfort and visual continuity.
+3.
+All ground units that face a street are ADA compliant units that have street-facing
+porches that are directly and individually accessed from the public sidewalk by a
+connecting walkway that is at least six (6) feet in width.
+4.
+All ground units that face a street with a transit stop that fronts the building are
+affordable housing units, each having a street-facing stoop that directly accesses
+the public sidewalk by a connecting walkway.
+5.
+A project is within an area in the Downtown that is designated in the Downtown Plan
+as allowing "main street storefront" buildings with zero or minimal setback.
+Figure 16A
+Example of Shopping Center on One Block
+Figure 16B
+Example of Park/Civic Block
+Figure 16C
+Example of Garden Apartment Block
+Figure 16D
+Example of Townhouses and Small Lot Houses
+Figure 16E
+Example of Bungalow Block
+Figure 16F
+Example of Office Block
+(F)
+Design Standards for Multi-Family Dwellings .
+(1)
+Yards Along Single- and Two-Family Residential Development. Buffer yards shall be provided along the property line of abutting existing single-
+and two-family dwellings. Minimum depth shall be twenty-five (25) feet. This provision
+shall not apply the Neighborhood Conservation Buffer (NCB) district and the Neighborhood
+Conservation Medium Density (NCM) district.
+(2)
+Variation Among Buildings . For any development containing at least three (3) and not more than five (5) buildings
+(excluding clubhouses/leasing offices), there shall be at least two (2) distinctly
+different building designs. For any such development containing more than five (5)
+buildings (excluding clubhouses/leasing offices), there shall be at least three (3)
+distinctly different building designs. For all developments, there shall be no similar
+buildings placed next to each other along a street, street-like private drive or major
+walkway spine. Building designs shall be considered similar unless they vary significantly
+in footprint size and shape. Building designs shall be further distinguished by including
+unique architectural elevations and unique entrance features within a coordinated
+overall theme of roof forms, massing proportions and other characteristics. Such variation
+among buildings shall not consist solely of different combinations of the same building
+features.
+(3)
+Variation of Color . Each multi-family building shall feature a palette of muted colors, earth tone colors,
+natural colors found in surrounding landscape or colors consistent with the adjacent
+neighborhood. For a multiple structure development containing at least forty (40)
+and not more than fifty-six (56) dwelling units, there shall be at least two (2) distinct
+color schemes used on structures throughout the development. For any such development
+containing more than fifty-six (56) dwelling units, there shall be at least three
+(3) distinct color schemes used on structures throughout the development. For all
+developments, there shall be no more than two (2) similarly colored structures placed
+next to each other along a street or major walkway spine.
+(4)
+Entrances . Entrances shall be made clearly visible from the streets and public areas through
+the use of architectural elements and landscaping.
+(5)
+Roofs . Roof lines may be either sloped, flat or curved, but must include at least two (2)
+of the following elements:
+(a)
+The primary roof line shall be articulated through a variation or terracing in height,
+detailing and/or change in massing.
+(b)
+Secondary roofs shall transition over entrances, porches, garages, dormers, towers
+or other architectural projections.
+(c)
+Offsets in roof planes shall be a minimum of two (2) feet in the vertical plane.
+(d)
+Termination at the top of flat roof parapets shall be articulated by design details
+and/or changes in materials and color.
+(e)
+Rooftop equipment shall be hidden from view by incorporating equipment screens of
+compatible design and materials.
+(6)
+Facades and Walls . Each multi-family dwelling shall be articulated with projections, recesses, covered
+doorways, balconies, covered box or bay windows and/or other similar features, dividing
+large facades and walls into human-scaled proportions similar to the adjacent single-
+or two-family dwellings, and shall not have repetitive, undifferentiated wall planes.
+Building facades shall be articulated with horizontal and/or vertical elements that
+break up blank walls of forty (40) feet or longer. Facade articulation may be accomplished
+by offsetting the floor plan, recessing or projection of design elements, change in
+materials and/or change in contrasting colors. Projections shall fall within setback
+requirements.
+(7)
+Colors and Materials . Colors of nonmasonry materials shall be varied from structure to structure to differentiate
+between buildings and provide variety and individuality. Colors and materials shall
+be integrated to visually reduce the scale of the buildings by contrasting trim, by
+contrasting shades or by distinguishing one (1) section or architectural element from
+another. Bright colors, if used, shall be reserved for accent and trim.
+(Ord. No. 092, 2012 §1, 9/18/12; Ord. No. 041, 2013 §8, 3/19/13; Ord. No. 092, 2013 §§14—16, 7/16/13; Ord. No. 086, 2014 §38, 7/1/14; Ord. No. 065, 2015 § 8, 7/7/15 ; Ord. No. 059, 2017 , § 12, 5/2/17; Ord. No. 063, 2018 , §§21, 22, 6/5/18)
+(A)
+Applicability . These standards apply to all urban agriculture land uses, except those urban agriculture
+land uses that are approved as a part of a site-specific development plan.
+(B)
+Purpose . The intent of these urban agriculture supplementary regulations is to allow for
+a range of urban agricultural activities at a level and intensity that is compatible
+with the City's neighborhoods.
+(C)
+Standards .
+(1)
+License required . Urban agriculture land uses shall be permitted only after the owner or applicant
+for the proposed use has obtained an urban agriculture license from the City. The
+fee for such a license shall be the fee established in the Development Review Fee
+Schedule. If active operations have not been carried on for a period of twenty-four
+(24) consecutive months, the license shall be deemed to have been abandoned regardless
+of intent to resume active operations. The Director may revoke any urban agriculture
+license issued by the City if the holder of such license is in violation of any of
+the provisions contained in paragraph (2) below, provided that the holder of the license
+shall be entitled to the administrative review of any such revocation under the provisions
+contained in Chapter 2, Article VI of the City Code.
+(2)
+General Standards . Urban agriculture shall be allowed as a permitted use, provided that all of the
+following conditions are met:
+(a)
+Mechanized Equipment. All mechanized equipment used in the urban agriculture land
+use must be in compliance with Chapter 20, Article II of the City Code regarding noise
+levels.
+(b)
+Parking. Urban agriculture land uses shall provide additional off-street vehicular
+and bicycle parking areas adequate to accommodate parking demands created by the use.
+(c)
+Chemicals and Fertilizers. Synthetic pesticides or herbicides may be applied only
+in accordance with state and federal regulations. All chemicals shall be stored in
+an enclosed, locked structure when the site is unattended. No synthetic pesticides
+or herbicides may be applied within a Natural Habitat Buffer Zone.
+(d)
+Trash/Compost. Trash and compost receptacles shall be screened from adjacent properties
+by utilizing landscaping, fencing or storage within structures and all trash shall
+be removed from the site weekly. Compost piles and containers shall be set back at
+least ten (10) feet from any property line when urban agriculture abuts a residential
+land use.
+(e)
+Maintenance. All urban agriculture land uses shall be maintained in an orderly manner,
+including necessary watering, pruning, pest control and removal of dead or diseased
+plant materials, and shall be maintained in compliance with the provisions of Chapter
+20 of the City Code.
+(f)
+Water Conservation and Conveyance. To the extent reasonably feasible, the use of sprinkler
+irrigation between the hours of 10:00 a.m. and 6:00 p.m. shall be minimized. Drip
+irrigation or watering by hand may be done at any time. The site must be designed
+and maintained so that any water runoff is conveyed off-site into a City right-of-way
+or drainage system without adversely affecting downstream property.
+(g)
+Identification/Contact Information. A clearly visible sign shall be posted near the
+public right-of-way adjacent to all urban agriculture land uses, which sign shall
+contain the name and contact information of the manager or coordinator of the agricultural
+land use. If a synthetic pesticide or herbicide is used in connection with such use,
+the sign shall also include the name of the chemical and the frequency of application.
+The contact information for the manager or coordinator shall be kept on file with
+the City. All urban agriculture signs must comport with Section 3.8.7 of this Code.
+(h)
+If produce from an urban agriculture land use is proposed to be distributed throughout
+the City, the applicant must provide a list of proposed Food Membership Distribution
+Sites in the application.
+(i)
+Floodplains. If urban agriculture is proposed within a floodplain, then a Floodplain
+Use Permit is required in accordance with Chapter 14 of the City Code.
+(j)
+Hoop Houses. If an urban agriculture land use contains a hoop house, then the hoop
+house shall be set back a minimum of five (5) feet from any property line and shall
+also be located in such a manner that the hoop house does not generate potential adverse
+impacts on adjacent uses, such as shading or glare.
+(k)
+Additional Impact Mitigation. Measures such as landscaping, fencing or setbacks to
+mitigate potential visual, noise or odor impacts on adjoining property may be required
+by the Director. There shall be no offensive noise, vibration, smoke, dust, odors,
+heat or glare noticeable at or beyond the property line of the parcel where the urban
+agriculture land use is conducted. Where an urban agriculture land use abuts a residential
+use, there shall be a minimum setback of five (5) feet between the operation and the
+property line.
+(3)
+Notice . At the time of an initial application for an urban agriculture land use within a
+residential zone (N-C-L, N-C-M, U-E, R-F, R-L, L-M-N, M-M-N, H-M-N, N-C-B, M-H, R-C
+and P-O-L) or if the urban agriculture land use exceeds one-half (0.5) acre in size,
+the Director shall determine whether the proposed urban agriculture land use presents
+a significant impact on the affected neighborhood, and, if so, the Director shall
+schedule a neighborhood meeting and provide mailed and posted notice for such meeting.
+Such notice and neighborhood meeting shall be conducted in accordance with Sections 2.2.2 and 2.2.6 of this Code.
+(Ord. No. 096, 2013 §1, 7/16/13; Ord. No. 034, 2014 §2, 3/18/14; Ord. No. 100, 2020 , §9, 8/18/20)
+(A)
+Applicability . These standards shall apply to all solar energy systems.
+(B)
+Purpose . The purposes of these solar energy system supplementary regulations are to promote
+reduced dependence on nonrenewable energy sources, to design solar energy systems
+in a manner that minimizes impacts on adjacent properties and to promote systems that
+are visually compatible with the character of the areas in which they are located
+and that are not detrimental to public health, safety and welfare.
+(C)
+General Design Standards :
+(1)
+To the maximum extent feasible, ancillary solar equipment shall be located inside
+the building or screened from public view.
+(2)
+The applicant shall demonstrate that the height, location, setback or base elevation
+of a solar energy system minimizes potential glare and visual impacts of the system
+on adjacent properties.
+(3)
+Support structures for ground-mounted solar facilities shall, to the extent reasonably
+feasible, use materials, colors and textures that complement the site context.
+(4)
+All solar energy system appurtenances, including, but not limited to, plumbing, water
+tanks and support equipment, shall be of a color that is complementary to the site
+location, and shall be screened to the extent reasonably feasible without compromising
+the effectiveness of the solar collectors. Solar panels/collectors are exempt from
+the screening requirements of this Section and Paragraph 3.5.1 (I)(6).
+(5)
+To the maximum extent feasible, solar energy systems shall complement the visual characteristics
+of the site and the adjacent area.
+(6)
+Building-mounted solar energy systems are exempt from the height requirements of this
+Code, except that they must comply with the height limitations of this Section 3.8.32 , including the following:
+Table C: Height limitations on roof- and building-mounted solar energy systems for principal and accessory buildings, as measured above the roofline.
+
+Nonresidential and residential buildings (excluding single-family or duplex dwellings)
+< 2:12 pitch | 8 feet, as measured on a vertical axis to the roof below, to which it is installed
+(see Figure 16.3 below)
+2:12 to 6:12 pitch | 4 feet, as measured on a vertical axis to the roofline below, to which it is installed.
+> 6:12 pitch | 2 feet, as measured on a vertical axis to the roofline below, to which it is installed.
+Single-family and duplex dwellings (principal and accessory buildings)
+No taller than 1 foot, as measured on a vertical axis to the roof below, to which
+it is installed, unless roof pitch is 2:12 or less, in such case 2 feet is permitted.
+No portion of a solar energy system shall project above the maximum projection line
+depicted within Figures 16.3 and 16.4 below.
+All buildings
+Building-mounted solar energy systems shall not extend horizontally beyond any roof
+overhang.
+Building-mounted solar energy systems
+Solar panels installed on the sides of buildings as awnings or attached to buildings
+as shade elements are permitted so long as the provisions of this and other applicable
+requirements are met.
+
+Figure 16.3 Maximum Height for Roof-mounted Systems (Principal Buildings [Excluding Single-family or Duplex Dwellings])
+Figure 16.4: Maximum Height for Roof-mounted Systems (Single-family and Duplexes)
+(D)
+Standards for Small, Medium and Large-scale Solar Energy Systems . Solar energy systems shall conform to the applicable size-based regulations as set
+out in this subsection (D):
+(1)
+Small-Scale Solar Energy Systems .
+(a)
+Covering less than one-half (0.5) acre.
+(b)
+Maximum Height. All ground-mounted small-scale solar energy systems shall comply with
+the accessory building height limits within the zone district, except for light poles
+with integrated solar panels, which are subject to the standards of Section 3.2.4 .
+(c)
+Setbacks. Ground-mounted, small-scale solar energy systems shall not be located within
+the front, side or rear building setbacks, or the front yard area. If necessary for
+the system's effectiveness, ground-mounted solar energy collectors may be located
+within the minimum setbacks for the zone district, provided that the solar energy
+collector is located no less than fifteen (15) feet from rights-of-way and five (5)
+feet from all other property lines.
+(d)
+Parking. No minimum parking requirements shall apply. Parking spaces located beneath
+covered parking solar energy systems are exempt from maximum parking limits.
+(2)
+Medium-Scale Solar Energy Systems .
+(a)
+Covering between one-half (0.5) acre and five (5) acres.
+(b)
+Maximum Height. All ground-mounted medium-scale solar energy systems shall comply
+with the accessory building height limits within the zone district, except for light
+poles with integrated solar panels, which are subject to the standards of Section 3.2.4 .
+(c)
+Setbacks. Ground-mounted, medium-scale solar energy systems shall not be located within
+the front, side or rear building setbacks, or the front yard area.
+(d)
+Fencing/Access. Ground-mounted medium-scale solar energy systems shall be enclosed
+with a perimeter fence with a minimum height of five (5) feet and a maximum height
+of seven (7) feet. Knox boxes and keys shall be provided at locked entrances for emergency
+personnel access. Warning signage shall be placed at the entrance and perimeter of
+the facility.
+(e)
+Visual Appearance. Buildings and accessory structures shall, to the extent reasonably
+feasible, use materials, colors and textures that blend the facility into the existing
+environment.
+1.
+Landscaping. Landscaping and/or screening materials shall be provided to assist in
+screening the facility from public rights-of-way and neighboring residences.
+2.
+Lighting. Lighting shall be limited to the minimum necessary for security and shall
+incorporate shielded full cut-off light fixtures.
+3.
+Electrical Interconnections. All electrical interconnection and distribution lines
+within the project boundary shall be underground, except for power lines that extend
+beyond the project site or are within a substation.
+(3)
+Large-Scale Solar Energy Systems .
+(a)
+Covering more than five (5) acres.
+(b)
+Maximum Height. All ground-mounted large-scale solar energy systems shall comply with
+the accessory building height limits within the zone district, except for light poles
+integrating solar panels, which are subject to the standards of Section 3.2.4 .
+(c)
+Setbacks. Large-scale solar energy systems shall be set back from all property lines
+a minimum of thirty (30) feet, and shall be located at least one hundred (100) feet
+from all residentially zoned land. Additional setbacks may be required to mitigate
+visual and functional impacts.
+(d)
+Fencing/Access. Ground-mounted large-scale solar energy systems shall be enclosed
+with a perimeter fence with a minimum height of five (5) feet and a maximum height
+of seven (7) feet. Knox boxes and keys shall be provided at locked entrances for emergency
+personnel access. Warning signage shall be placed at the entrance and perimeter of
+the facility.
+(e)
+Visual Appearance. Buildings and accessory structures shall, to the extent reasonably
+feasible, use materials, colors and textures that blend the facility into the existing
+environment.
+1.
+Landscaping. Landscaping and/or screening materials shall be provided to assist in
+screening the facility from public rights-of-way and neighboring residences.
+2.
+Lighting. Lighting shall be limited to the minimum extent necessary for security and
+shall incorporate shielded full cut-off light fixtures.
+3.
+Electrical Interconnections. All electrical interconnection and distribution lines
+within the project boundary shall be underground, except for power lines that extend
+beyond the project site or are within a substation.
+(E)
+Maintenance . Any solar energy system that has not been in working condition for a period of one
+(1) year shall be subject to Section 115 (Unsafe Structures and Equipment) of the
+International Building Code, which may require the panels and associated equipment
+to be removed, or the unsafe condition otherwise mitigated if it is determined to
+be unsafe. If so determined by the Building Official, the panels and associated equipment
+shall be promptly removed from the property to a place of safe and legal disposal,
+after which the site and/or building, as applicable, must be returned to its preexisting
+condition.
+(F)
+Use Restrictions in Established Residential Areas . Notwithstanding the use review criteria contained in the various zone districts
+set out in Article 4 (Type 1/Type 2 review), if either a small-scale solar energy system or a medium-scale
+solar energy system is located on an existing platted lot and within an established
+residential neighborhood, then such system must be processed as a permitted use subject
+to review by the Planning and Zoning Board.
+(G)
+Allocation of Energy . Energy derived from solar collectors may be allocated to the lot where the system
+is located or may be distributed to other locations.
+(Ord. No. 086, 2014 §39, 7/1/14; Ord. No. 019, 2019 , § 7, 2/19/19)
+(A)
+Applicability. These standards shall apply to all seasonal overflow shelters.
+(B)
+Purpose. The purpose of this Section is to allow for the siting and approval of seasonal overflow
+shelters while helping to ensure that such shelters are compatible with the adjacent
+neighborhoods.
+(C)
+Standards.
+(1)
+General Standards. Seasonal overflow shelters shall be allowed as a permitted use, provided that all
+of the following conditions are met:
+(a)
+Occupancy Limit. No more than fifty (50) persons may be housed at any one (1) seasonal overflow shelter.
+(b)
+Operations. An organization with prior homeless shelter management experience must be designated
+as the operator responsible for managing the seasonal overflow shelter.
+(c)
+Operating Agreement. An operating agreement must be completed between the City, the operator and the owner
+of the real property upon which the seasonal overflow shelter is located, delineating
+the roles of the parties, and, without limitation, shall include provisions pertaining
+to parking, hours of operation, site cleanup, loitering, number of staff and designated
+contact persons for each party. The operating agreement shall be executed by all parties
+prior to the approval of a seasonal overflow shelter and must be executed preceding
+each operating season that the shelter is functioning.
+(d)
+Transportation. If the seasonal overflow shelter is more than two (2) miles from a homeless shelter,
+then transit to and from the seasonal overflow shelter and the homeless shelter (or
+other locations designated in the operating agreement) shall be provided by the operator
+of the seasonal overflow shelter.
+(e)
+Neighborhood Meeting. The City shall require a neighborhood meeting for each application for approval of
+a seasonal overflow shelter and preceding each operating season that the shelter is
+functioning.
+(f)
+Limit. There shall be no more than three (3) seasonal overflow shelters operating in the
+City at any given time.
+(g)
+Compliance with Other Standards. The property upon which the seasonal overflow shelter is located must continue to
+comply with the standards of this Code, at least to the extent of its original compliance
+(so as to preclude any greater deviation from the standards of this Code by reason
+of a seasonal overflow shelter being located thereon).
+( Ord. No. 110, 2015 §2, 9/15/15 )
+(A)
+Applicability. These standards apply to short term primary rentals and short term non-primary rentals.
+(B)
+Purpose. The purposes of these standards are to mitigate the impacts of short term rentals
+on the neighborhoods in which they are located, to maintain and enhance neighborhood
+livability, to ensure the health and safety of renters of short term rentals, and
+to ensure the compatibility of short term rentals with the allowed uses in the applicable
+zone districts.
+(C)
+Location. Subject to subsection (F) below, the allowable locations of short term primary and
+non-primary rentals are determined by the zone districts and their respective list
+of permitted uses as described in Article 4 .
+(D)
+Off-street Parking . Refer to § 3.2.2 (K)(1)(k) for minimum off-street parking space requirements.
+(E)
+Licensing. The licensing of short term rentals is governed by the Code of the City of Fort Collins
+Chapter 15, Article XVIII. No dwelling unit shall be used as a short term primary
+rental or short term non-primary rental unless a license is first obtained pursuant
+to Chapter 15, Article XVIII.
+(F)
+Nonconforming Use. A dwelling unit utilized as a short term primary or non-primary rental that is located
+in a zone district where such use is prohibited, and such short term rental was a
+lawfully established use as defined in (3) below, is deemed to be a nonconforming
+use. Such nonconforming use shall correspond to the type (either primary or non-primary)
+of short term rental conducted prior to March 31, 2017.
+(1)
+In addition to complying with the nonconforming use regulations in Land Use Code Division 1.5 , the owner of the dwelling unit must obtain a license pursuant to the Code of the
+City of Fort Collins § 15-646 and continuously maintain such license to maintain nonconforming
+use status. Failure to apply for such license by October 31, 2017, shall be considered
+abandonment of the nonconforming use. Should such license be revoked, not be renewed,
+or lapse for any period of time, the nonconforming short term rental use shall be
+considered abandoned or otherwise terminated.
+(2)
+Should ownership of a dwelling unit licensed pursuant to § 15-646 be transferred,
+and such license was continuously valid until the transfer of ownership, the new owner
+must comply with the following in order to continue the nonconforming use: (1) apply
+for a license pursuant to § 15-646 within thirty (30) days of the transfer of ownership;
+(2) comply with the parking requirements contained in § 3.2.2 (K)(1)(k) of this Code; and (3) continuously maintain any license issued pursuant
+to § 15-646. Should any license issued to the new owner be revoked, not be renewed,
+or lapse for any period of time, the nonconforming short term rental use shall be
+considered abandoned or otherwise terminated.
+(3)
+To be deemed a lawful use, a dwelling unit must have been actually utilized as a short
+term primary or non-primary rental prior to March 31, 2017, and valid sales and use
+and lodging tax licenses for such dwelling unit must have been obtained prior to October
+31, 2017, in accordance with Chapter 25, Art. IV, of the Code of the City of Fort
+Collins.
+(Ord. No. 044, 2017 , §6, 3/21/17; Ord. No. 128, 2017 , § 4, 9/19/17)
+(A)
+Applicability. Use of any parcel for off-site construction staging shall be permitted only in accordance
+with the provisions of an off-site construction staging license issued pursuant to
+this Section 3.8.35 .
+(B)
+Purpose. The purpose of requiring an off-site construction staging licensed under this Section 3.8.35 is to address the compatibility of off-site construction staging with the zone districts
+in which they are located, mitigate the impact off-site construction staging on adjacent
+parcels, the neighborhoods and environment, and ensure the health and safety of off-site
+construction staging.
+(C)
+Location. Subject to issuance of and compliance with an off-site construction staging license
+under subsection (D) below, off-site construction staging shall be permitted in specified
+zone districts as listed in Article 4 .
+(D)
+Off-site construction staging license.
+(1)
+An application for an off-site construction staging license shall be accompanied by
+a site and grading plan that shows the following for the site on which the off-site
+construction staging is to occur:
+(a)
+Existing grade contours of the site and of adjoining properties;
+(b)
+Locations of different activities to be located on the site;
+(c)
+List of materials and equipment to be stored on the site, including the means and
+methods to safely store any hazardous material or dangerous equipment;
+(d)
+Any proposed grading necessary to stabilize the site;
+(e)
+Proposed erosion control measures and storm drainage control measures to prevent wind
+and water erosion, drainage impacts and tracking mud onto streets;
+(f)
+Flood ways and flood plains;
+(g)
+Natural habitat and features;
+(h)
+Fences;
+(i)
+Restrooms;
+(j)
+Existing trees;
+(k)
+Existing easements and rights-of-way;
+(l)
+Existing underground utilities;
+(m)
+Other information necessary to describe the site;
+(n)
+Traffic control plan reflecting means of ingress and egress to be used;
+(o)
+Mitigation plan to address any adverse impacts to the site, or adjacent parcels, caused
+by the off-site construction staging during and after the staging; and
+(p)
+Restoration and final site condition plan.
+(2)
+An off-site construction staging license shall be issued, with or without conditions,
+if the Director finds that the off-site construction staging:
+(a)
+is not detrimental to the public good; and
+(b)
+will not cause substantial adverse impacts to the parcel on which it is located or
+adjacent parcels or the environment, with or without mitigation; and
+(c)
+is located within a quarter (.25) of a mile of the construction or development site
+to be served by the off-site construction staging.
+(3)
+An off-site construction staging license issued hereunder shall expire eighteen (18)
+months after the date of issuance unless an extension is granted.
+(a)
+A six (6) month extension may be granted by the Director upon a finding that the conditions
+specified in Section 3.8.35 (D)(2), including any conditions to mitigate adverse impacts, have been and continue
+to be satisfied.
+(b)
+The Director may further extend the license up to an additional twelve (12) months
+beyond the first six (6) month extension, for a maximum total of not more than thirty-six
+(36) months, if a neighborhood meeting for which the neighborhood is notified in compliance
+with Section 2.2.6 (D) is conducted and the Director determines: the extension is not detrimental to
+the public good; and that the license conditions specified in Section 3.8.35 (D)(2), including any conditions to mitigate adverse impacts, have been and continue
+to be satisfied.
+(4)
+After expiration of an off-site construction staging license, at least four (4) consecutive
+months shall lapse before a new license is issued for the same parcel.
+(5)
+The Director may modify or revoke any off-site construction staging license issued
+by the City for any of the following:
+(a)
+After issuance of the license, the site or activities thereon are found to be out
+of compliance with the approved application or license, including any conditions to
+mitigate adverse impacts; or
+(b)
+An adverse impact not previously anticipated at the time the license or license extension
+was issued is identified and such adverse impact cannot be adequately mitigated and/or
+is detrimental to the public good.
+The Director shall inform the license holder in writing of the decision to modify
+or revoke the license and the reasons for same.
+(6)
+The license holder may appeal any decision denying, modifying or revoking an off-site
+construction staging license to the Zoning Board of Appeals pursuant to Section 2.11 .
+(E)
+Restoration of Site. Within fifteen (15) days after expiration of the license, the license holder must
+have completed restoration of the site consistent with the approved restoration or
+final site condition plan included in the application.
+(Ord. No. 129, 2017 , § 4, 10/3/17)
+(A)
+Applicability. These standards apply to all applications to construct buildings containing occupiable
+space and existing buildings containing occupiable space within the oil and gas buffer
+of an existing oil and gas facility regardless of whether such oil and gas facility
+is located within or outside of the City limits. These standards also apply to common
+outdoor areas within an oil and gas buffer.
+(1)
+Any applicant that submitted an application prior to September 29, 2023, to construct
+a building containing occupiable space may construct such building within an oil and
+gas buffer upon satisfying all applicable Code requirements for approval. However,
+any lot upon which such building is placed is subject to the restriction described
+in Subsection (E)(3) and disclosures in Subsection (F).
+(2)
+Any building containing occupiable space already constructed within an oil and gas
+buffer prior to September 29, 2023, is exempt from the restriction on such building
+in an oil and gas buffer. However, any lot upon which the building is placed is subject
+to the restriction described in Subsection (E)(3) and disclosures in Subsection (F).
+(B)
+Purpose. The purpose of this Section is to protect public health and safety by providing spacing
+and regulating certain uses within oil and gas buffers to reduce adverse impacts of
+noise, odor, air pollutants, soil-gas contaminants, groundwater contaminants, hazardous
+materials, or danger from fires or explosions.
+(C)
+General Standard. Proposed development shall ensure that the risk to public health and safety is sufficiently
+mitigated from all extended exposure to the main pollutants resulting from oil and
+gas production, including but not limited to heavy metals, salts, oil and grease (O&G),
+benzene, toluene, ethylbenzene and xylene (BTEX), total petroleum hydrocarbon (TPH),
+and polycyclic aromatic hydrocarbon (PAHs). Proposed development must ensure that
+any potential contaminants associated with existing oil and gas facilities and located
+on the development site are within the acceptable limits of applicable local, state
+and federal soil-gas, groundwater, and air quality regulations and standards, including,
+but not limited to, those regulating odor, dust, fumes, or gases which are noxious,
+toxic or corrosive, and suspended solid or liquid particles.
+(D)
+Oil and Gas Buffers. This Subsection establishes oil and gas buffers for different oil and gas facilities,
+and applicable development standards within such buffers are set forth in Subsection
+(E).
+(1)
+Oil and Gas Buffer—Well Not Abandoned. The oil and gas buffer for an oil and gas facility whose well is not abandoned shall
+extend from the outer edge of the oil and gas location for two thousand (2,000) feet
+in all directions. The Planning and Zoning Commission may grant a modification of
+standards pursuant to Division 2.8 to reduce the two thousand (2,000) foot distance to no less than five hundred (500)
+feet provided the applicant provides a Phase II Environmental Site Assessment as part of the modification request showing that levels of oil and gas contaminants,
+if any, are within Federal Environmental Protection Agency or State health department
+standards, whichever ensures greater public health protections. Any approved modification
+shall require as a condition that the applicant annually provide a Phase II Environmental Site Assessment for five (5) years from the issuance of a development construction permit. Initial
+baseline samples and subsequent monitoring samples shall be collected within one-half
+(½) mile radius of the existing well location. If the main pollutants resulting from
+oil and gas production described in Subsection (C) are identified at the time of assessment,
+such pollutants must be remediated by the development applicant per Federal Environmental
+Protection Agency or State health department standards, whichever ensures greater
+public health protections.
+(2)
+Oil and Gas Buffer—Abandoned Well, Not Reclaimed. For oil and gas facilities consisting of an abandoned well that have not been reclaimed
+pursuant to Section 3.12.6 , the oil and gas buffer shall extend five hundred (500) feet in all directions as
+measured from the center of the well bore. Development plans that include an abandoned
+well that has not been reclaimed must provide a Phase II Environmental Site Assessment as part of the application showing that levels of oil and gas contaminants, if any,
+are within Federal Environmental Protection Agency or State health department standards,
+whichever ensures greater public health protections. The approved application shall
+require as a condition that the applicant annually provide a Phase II Environmental Site Assessment for five (5) years from the issuance of a development construction permit. Initial
+baseline samples and subsequent monitoring samples shall be collected within one-half
+(½) mile radius of the existing well location. If the main pollutants resulting from
+oil and gas production described in Subsection (C) are identified at the time of assessment,
+such pollutant must be remediated by the development applicant per Federal Environmental
+Protection Agency or State health department standards, whichever ensures greater
+public health protections. This buffer is not subject to the modification of standards
+process.
+(3)
+Oil and Gas Buffer—Abandoned Well, Reclaimed. For oil and gas facilities consisting of abandoned wells that have been reclaimed
+pursuant to Section 3.12.6 , the oil and gas buffer shall extend one hundred and fifty (150) feet in all directions
+as measured from the center of the well bore. Development plans that include an abandoned
+well that has been reclaimed must provide a Phase II Environmental Site Assessment as part of the application and a second Phase II Environmental Site Assessment must
+be provided five (5) years after a Development Construction Permit is issued. If the
+main pollutants resulting from oil and gas production described in Subsection (C)
+are identified at the time of assessment, such pollutants must be remediated by the
+development applicant per Federal Environmental Protection Agency or State health
+department standards, whichever ensures greater public health protections. This buffer
+is not subject to the modification of standards process.
+(E)
+Oil and Gas Buffer Standards.
+(1)
+Except as stated in (E)(3) below, no portion of a building that contains occupiable
+space may be located within an oil and gas buffer.
+(2)
+After September 29, 2023, permanent playgrounds, play structures, recreational fields,
+or permanent community gathering spaces may not be placed within any portion of a
+homeowner's association owned or maintained common area located within an oil and
+gas buffer.
+(3)
+Exceptions to Restriction on Buildings Containing Occupiable Space Within an Oil and
+Gas Buffer.
+(a)
+Any applicant that submitted an application prior to September 29, 2023, to construct
+a building containing occupiable space may construct such building within an oil and
+gas buffer upon satisfying all applicable Code requirements for approval. However,
+no additional building containing occupiable space for which an application was submitted
+after September 29, 2023, may be constructed on any portion of the same lot located
+within an oil and gas buffer.
+(b)
+Any building containing occupiable space already constructed within an oil and gas
+buffer prior to September 29, 2023, is exempt from the restriction on such building
+within an oil and gas buffer. However, no additional building containing occupiable
+space for which an application was submitted after September 29, 2023, may be constructed
+on any portion of the same lot located within an oil and gas buffer.
+(F)
+Disclosure. The following disclosure requirements shall apply to any real property upon which
+a building containing occupiable space is or may be located within any oil and gas
+buffer described in Subsection (D):
+(1)
+At such time as the real property to be developed is platted or replatted, the plat
+shall show the oil and gas buffer on the property and shall contain a note informing
+subsequent property owners that certain lots shown on the plat are within an oil and
+gas buffer.
+(2)
+For residential developments requiring a declaration pursuant to the Colorado Common
+Interest Ownership Act, a statement shall be included in such declaration specifying
+the lots within an oil and gas buffer upon which buildings containing occupiable space
+may be constructed. The approved plat for such development shall be attached to the
+recorded declaration. Where no such declaration is required, the property owner shall
+record a statement on the property where the dwelling is located indicating that such
+property is located within an oil and gas buffer.
+(3)
+Sellers and lessors of any real property within an oil and gas buffer must provide
+the following written notice of material facts related to oil and gas facilities identified
+by environmental site assessments the disclosure notice must be provided in at least
+fourteen (14) point font to any potential purchaser who intends to resell, occupy
+and/or lease the property prior to or as part of the purchase or rental agreement:
+As required by 3.8.36 of the Fort Collins Land Use Code, notice is hereby given that [insert description
+of lot] is within [insert buffer standard set forth in Subsection (D) including well
+status and distance from well]. At the time of [sale or lease], environmental assessments,
+studies or reports done involving the physical condition of the Property impacted
+by oil and gas production are within the acceptable Environmental Protection Agency
+limits. For more information contact the City of Fort Collins Environmental Planner
+or the Energy and Colorado Carbon Management Commission formerly known as the Colorado
+Oil and Gas Conservation Commission.
+The above notice shall be provided by the prospective seller or lessor to the prospective
+buyer or lessee of real property no less than thirty (30) days before closing or such
+shorter time period agreed to by the parties and shall be provided before the signing
+of any purchase, sale, or rental agreement for the subject property.
+( Ord. No. 116, 2023 , § 3, 9/19/23)

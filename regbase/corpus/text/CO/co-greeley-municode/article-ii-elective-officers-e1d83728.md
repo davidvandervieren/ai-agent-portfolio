@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER CITY OF GREELEY, COLORADO > ARTICLE II. - ELECTIVE OFFICERS
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTICHGRCO_ARTIIELOF"
 sha256: 0513c59a6f13abe6b442982404538aa5dd1cc135ed245ec775114ac2e0cb9b54
-fetched_at: "2026-09-17T04:51:13+00:00"
+fetched_at: "2026-09-21T06:29:43+00:00"
 ---
 
 The Elective Officers of the City of Greeley, Colorado, shall be six (6) Councilmembers

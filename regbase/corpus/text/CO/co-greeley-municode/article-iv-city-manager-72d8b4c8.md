@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER CITY OF GREELEY, COLORADO > ARTICLE IV. - CITY MANAGER
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTICHGRCO_ARTIVCIMA"
 sha256: cb92cd8a1a104e77a0e2673347fe64d31d6ce634fc14f2fb47452151428dd13f
-fetched_at: "2026-09-17T04:51:17+00:00"
+fetched_at: "2026-09-21T06:29:47+00:00"
 ---
 
 The City Council shall appoint a City Manager as administrative head of the Municipal

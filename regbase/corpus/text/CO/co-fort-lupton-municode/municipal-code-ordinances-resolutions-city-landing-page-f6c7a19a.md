@@ -8,8 +8,8 @@ agency: City of Fort Lupton
 title: Municipal Code, Ordinances, & Resolutions (city landing page)
 doc_type: guidance
 url: "https://www.fortluptonco.gov/164/Municipal-Code-Ordinances-Resolutions"
-sha256: d570f8fba6ade156f89d54456848f2bce87cc28b78667bf985d260db0b72ae22
-fetched_at: "2026-09-10T04:33:39+00:00"
+sha256: 080bd7c2abbcffe501763dafd527f8d9aafe41ecda39c4ab59f9cf57d158a9ea
+fetched_at: "2026-09-18T07:43:25+00:00"
 ---
 
 <!-- heading-path: Municipal Code, Ordinances, & Resolutions -->
@@ -23,4 +23,4 @@ Click here to view the Service Plan for Metropolitan Districts
 
 <!-- heading-path: Municipal Code, Ordinances, & Resolutions > Newly Adopted Ordinances -->
 ## Newly Adopted Ordinances
-The most recent ordinances amending the Fort Lupton Municipal Code can be found here and may also be found in the office of the City Clerk .
+The most recent ordinances amending the Fort Lupton Municipal Code can be found here Newly Adopted Ordinances and may also be found in the office of the City Clerk .

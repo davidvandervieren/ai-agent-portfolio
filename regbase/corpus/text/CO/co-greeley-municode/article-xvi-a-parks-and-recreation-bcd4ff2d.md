@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER CITY OF GREELEY, COLORADO > ARTICLE XVI-A. - PARKS AND RECREATION
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTICHGRCO_ARTXVI-APARE"
 sha256: 7bec587df013c0dd3b4ee025c74bc025dc0122fb9ae6f79cb9de0840117ab00d
-fetched_at: "2026-09-17T04:51:36+00:00"
+fetched_at: "2026-09-21T06:30:09+00:00"
 ---
 
 [Editor's History] Note—Article added to Charter by vote of citizens on November 6, 1973.

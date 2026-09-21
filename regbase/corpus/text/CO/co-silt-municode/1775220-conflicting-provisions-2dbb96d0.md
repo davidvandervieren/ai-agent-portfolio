@@ -1,0 +1,581 @@
+---
+source_id: co-silt-municode
+jurisdiction: Silt, CO
+state: CO
+county: Garfield
+municipality: Silt
+agency: Town of Silt
+title: 17.75.220 - Conflicting provisions.
+doc_type: code
+citation_root: Title 17 - ZONING > Chapter 17.75 - LAND USE REGULATION OF OIL AND GAS DEVELOPMENT > 17.75.220 - Conflicting provisions.
+url: "https://library.municode.com/co/silt?nodeId=TIT17ZO_CH17.75LAUSREOIGADE_17.75.220COPR"
+sha256: dc81128cb701743d52c2846dc827845709a2aeb9c6c83a689abd2946edee134f
+fetched_at: "2026-09-18T16:17:33+00:00"
+---
+
+This chapter is enacted to protect and promote the health, safety, morals, convenience,
+order, prosperity, or general welfare of the present and future residents of the town.
+It is the intent of the town board of trustees by enacting these regulations to facilitate
+the development of oil and gas resources within the town while mitigating potential
+land use conflicts between such development and existing, as well as planned, land
+uses. It is recognized that under state law the surface and mineral estates are separate
+and distinct interests in land and that one may be severed from the other. Owners
+of subsurface mineral interests have certain legal rights and privileges, including
+the right to use that portion of the surface estate reasonably necessary to extract
+and develop their subsurface mineral rights. The state has a recognized interest in
+fostering the efficient development, production, and utilization of oil and gas resources,
+and particularly in the prevention of waste and protection of the correlative rights
+of mineral interest owners and producers to a fair and equitable share of production
+profits Similarly, owners of the surface estate have certain legal rights and privileges,
+including the right to be accommodated by the mineral lessee, including the right
+to require the lessee to use reasonably available alternatives, if the lessee's operation
+would impair or preclude uses by the surface estate owner. Municipal governments have
+a statutory and judicially recognized authority and responsibility to regulate land
+use within their jurisdiction. These regulations are intended to be an exercise of
+that the land use authority of the town in a manner that upholds the balance between
+municipal and state interests. Nothing in this chapter shall be construed as giving
+the town authority to enforce state or federal laws, rules, or regulations.
+(Ord. 7-07 § 1 (part))
+All terms used in this chapter that are defined in the Act or in Commission regulations
+and are not otherwise defined in this section, are defined as provided in the Act
+or in such regulations as of the effective date of this chapter. All other words used
+in this chapter are given their usual customary and accepted meaning, and all words
+of a technical nature, or peculiar to the oil and gas industry, shall be given that
+meaning which is generally accepted in said oil and gas industry. When not clearly
+otherwise indicated by the context, the following words and phrases used in this chapter
+have the following meanings:
+A.
+"Act" means the Oil and Gas Conservation Act of the State of Colorado.
+B.
+"Applicant" means that person, corporation or other legal entity possessing the legal
+right to develop the mineral resource or any other use proposed in connection thereof
+for the site in question; generally, the applicant will be the owner or lessee of
+the mineral estate.
+C.
+"Building units" means a building or structure intended for human occupancy. Every
+guest room in a hotel/motel or bed and breakfast facility is equal to one building
+unit, and every five thousand square feet of building floor area in commercial facilities
+is equal to one building permit.
+D.
+"Commission" or "OGCC" means the Oil and Gas Conservation Commission of the State
+of Colorado.
+E.
+"Compressor station" means a turbine centrifugal compressor that is gas or electrically
+motivated, and which may or may not contain a fan that compresses and pumps natural
+gas through the pipeline. Compressor stations may also provide a liquid separator
+to dehydrate the natural gas during the compressor process.
+F.
+"Day" means a period of twenty-four consecutive hours.
+G.
+"Director" means the director of the Oil and Gas Conservation Commission of the State
+of Colorado.
+H.
+"Injection well" means any hole drilled into the earth into which fluids are injected
+for the purposes of secondary recovery, storage, or disposal, pursuant to authorizations
+granted by the Commission.
+I.
+"Inspector" means any person designated by the chief building official, or designee
+thereof, who shall have the authority to inspect a well site to determine compliance
+with this chapter and other applicable ordinances of the town.
+J.
+"Metering stations" means those measuring devices placed periodically along natural
+gas pipelines, that allow for the monitoring and management of natural gas within
+the pipeline.
+K.
+"Oil and gas well" means any hole drilled into the earth for the purpose of exploring
+for or extracting oil, gas, or other hydrocarbon substances, including but not limited
+to directionally drilled wells.
+L.
+"Operating plan" means a general description of a facility identifying purpose, use,
+typical staffing pattern, seasonal or periodic considerations, routine hours of operating,
+source of services, infrastructure, and any other information related to regular functioning
+of such facility.
+M.
+"Operator" means the person designated by the working interest owners as operator
+and named in Commission Form 2 or a subsequently filed Commission Form 10.
+N.
+"Owner" means any person with a working interest ownership in the oil and gas or leasehold
+interest therein.
+O.
+"Pig" means a robotic device that are propelled down pipelines in order to check for
+structural stability, thickness, roundness, signs of corrosion, leaks, or any potential
+safety risk to the operation of the pipeline.
+P.
+"Pipeline" means that below-grade pipe used for the conveyance of natural gas from
+one location to another.
+Q.
+"Production site" means the area surrounding proposed or existing production pits
+or other accessory equipment required for oil and gas production, at which may also
+be located tanks and tank batteries, exclusive of transmission and gathering pipelines.
+R.
+"Re-entering" means accessing an existing well bore for either the original or amended
+purpose, provided that such well has not been abandoned.
+S.
+"Sidetracking" means entering the same well head from the surface, but not necessarily
+following the same well bore, throughout its subsurface extent when deviation from
+such well bore is necessary to reach the objective depth because of an engineering
+problem.
+T.
+"Tank battery" means a series of tanks that are adjacent to the gas wells that are
+used for storing fracturing fluids and/or other by-products of the gas extraction
+process.
+U.
+"Twinning" means the drilling of a well within a radius of fifty feet from an existing
+well bore when the well cannot be drilled to the objective depth or produced because
+of an engineering problem, such as a collapsed casing or formation damage.
+V.
+"Use tax" means the tax paid by a consumer for using, storing, distributing, or otherwise
+consuming tangible personal property or taxable services inside the town.
+W.
+"Valves" means the mechanic devices placed on the well and/or the pipeline in order
+to restrict natural gas movement or to allow natural gas movement.
+X.
+"Well" means an oil and gas well or an injection well, including but not limited to
+directional drilling wells (for example, any well hole drilled into the ground)
+Y.
+"Well head" means the equipment attaching the surface equipment to wellbore equipment
+at the well.
+Z.
+"Well site" means that area surrounding a proposed or existing well or wells and accessory
+structures and equipment necessary for drilling, completion, re-completion, work over,
+development, and production activities.
+(Ord. 7-07 § 1 (part))
+For all parcels within the town, including planned unit developments (PUDs), the following
+provisions apply:
+A.
+Proposed New Wells, Redrilling Certain Wells and Other Specific Enhancements.
+1.
+It shall be unlawful for any person to drill a well that has not been previously permitted
+under this chapter, reactivate a plugged or abandoned well or perform initial installation
+of accessory equipment or pumping systems (in cases where a well is not being drilled)
+unless a special use permit has first been granted by the town in accordance with
+the procedures defined in this article.
+2.
+The granting of such special use permit shall not relieve the operator from complying
+with all applicable regulatory requirements of the town, the state and the United
+States.
+3.
+When a special use permit has been granted for a well, reentry of such well for purposes
+of sidetracking, twinning, deepening, recompleting or reworking shall not require
+a separate special use permit.
+4.
+The special use permit is limited to the current proposed facilities as shown in the
+approved plan. To the extent the applicant desires, after initial completion of a
+well, to place additional equipment on a tank battery or wellhead location which was
+not shown in the approved plan, the applicant must, except in a situation where additional
+equipment is necessary for a period of fourteen days or less, notify the town of installation
+of such additional equipment.
+5.
+Within thirty days after completion of operations, the applicant shall provide to
+the town "as-built" drawings showing all facilities, pipelines, flow lines and gathering
+lines which the applicant has placed on the land subject to this permit.
+(Ord. 7-07 § 1 (part))
+A.
+In recognition of the potential safety and health impacts associated with oil and
+gas drilling and well operation in an urban setting, all wells, well sites, potential
+well sites and accessory equipment and structures shall be inspected annually by the
+inspectors of the town.
+B.
+The operator shall pay an inspection fee for each separate well (as defined herein),
+well site and potential well site, annually or as often as the board of trustees determines
+is reasonable. The board of trustees shall set the fee for oil and gas drilling and
+well operation inspection per this chapter annually by resolution, or as often as
+necessary, in the board's sole discretion. This fee is in addition to any other applicable
+fee by the code or by resolution. The applicant for oil and gas drilling and well
+operation inspection per this chapter shall be responsible for all fees and charges
+incurred by the town in connection with such application, including, but not limited
+to, legal fees, planning fees, outside consultant fees and engineering fees, plus
+appropriate administrative fees, if any.
+C.
+In addition, all wells, well sites, potential well sites and accessory equipment and
+structures may be inspected by the inspectors of the town at other reasonable times
+to determine compliance with applicable provisions of this chapter, the 2003 International
+Fire Code, the 2003 International Building Code, or other building code as adopted
+by the town, and all other applicable standards in this title.
+D.
+For the purpose of implementing and enforcing the provisions of this chapter, town
+personnel have the right to enter upon private property after reasonable notification
+to the operator, which provides the operator an opportunity to be present. The operator
+shall provide the telephone number of a contact person who may be reached twenty-four
+hours a day for purposes of being notified of any proposed town inspection under this
+section.
+E.
+Notwithstanding the above, in the event of an emergency, all wells and accessory equipment
+and structures may be inspected by the inspectors of the town without such notice,
+provided that the operator is notified of the emergency inspection within a reasonable
+amount of time thereafter.
+F.
+If the operator fails to pay the inspection fee imposed by this chapter when due,
+a penalty of ten percent shall be added to the amount of the fee due, together with
+interest on the amount due at the rate of one percent for each month or portion thereof
+for which the fee is unpaid.
+G.
+The town may recover in an action at law the amount of the inspection or other fees
+and cost imposed by the provisions of this chapter and penalty and interest due and
+unpaid under this chapter, as well as all costs, including attorney fees, incurred
+by the town if it prevails in the enforcement of this chapter.
+(Ord. 7-07 § 1 (part))
+(Ord. No. 8-2012, § 4, 4-23-2012)
+The site plans for a well site submitted with an application for an oil and gas well
+special use permit shall be submitted on one or more plats or maps, at a scale not
+less than 1″ = 50′, showing the following information:
+A.
+The proposed location of well site facilities associated with the well in the event
+production is established, if applicable. Future development of the resource shall
+be considered in the location of the tank battery. Existing tank batteries and transmission
+and gathering pipelines within six hundred and sixty feet of the well site shall be
+shown.
+B.
+The location of layout, including, without limitation, the position of the drilling
+equipment and related facilities and structures, if applicable.
+C.
+True north arrow.
+D.
+Existing improvements, if any.
+E.
+Existing utility easements and other rights-of-way of record, if any.
+F.
+Existing irrigation or drainage ditches within four hundred feet of the well site,
+if any.
+G.
+Drainage and erosion control plans for the well site and the area immediately adjacent
+to the well site, if applicable.
+H.
+Location of access roads.
+I.
+Well site and existing lease boundaries.
+J.
+The names of abutting subdivisions or the names of owners of abutting, unplatted property
+within four hundred feet of the well site or production site.
+K.
+The names, addresses and phone number(s) of the operator and the signature and seal
+of a professional land surveyor.
+(Ord. 7-07 § 1 (part))
+The vicinity maps for a well site submitted with an application for an oil and gas
+well special use permit shall be submitted on one or more plats or maps showing the
+following information:
+A.
+Location of all existing water bodies and watercourses, including direction of water
+flow. This information shall be submitted on USGS 7.5 minute series or assessor base
+maps which indicate topographic detail and show all existing water bodies and watercourses
+with a physically defined channel within a four hundred-foot radius of the proposed
+well.
+B.
+Location of existing oil and gas wells or injection wells as reflected in OGCC records.
+This information shall be submitted on a map and shall include any and all wells within
+a one thousand-foot radius of the proposed location for the well.
+C.
+Location of all building units within a one thousand foot radius from the wellhead
+or production facility.
+D.
+Location of drill site. The information to be submitted shall be on Commission Form
+2 and shall include the parcel tax identification number.
+(Ord. 7-07 § 1 (part))
+In addition to the site plans and the vicinity maps required in Sections 17.75.050 and 17.75.060 above, the application shall also include the following:
+A.
+The operator's and surface owner's names and addresses, OGCC Form 2, and designation
+of agent, if applicable.
+B.
+An operating plan, including the method of and schedule for the drilling, completion,
+production, abandonment and reclamation of the operation.
+C.
+A list of all permits or approvals obtained or to be obtained from local, state, or
+federal agencies other than OGCC.
+D.
+An emergency response plan that is mutually acceptable to the operator and the appropriate
+emergency response network that includes but is not limited to a list of local telephone
+numbers of public and private entities and individuals to be notified in the event
+of an emergency, the location of the well, and provisions for access by emergency
+response entities.
+E.
+A plan for weed control at the well site.
+F.
+A fire protection plan that is mutually acceptable to the operator and the appropriate
+fire district that includes planned actions for possible emergency events and other
+pertinent information. Prior to application to the town, a proposed fire protection
+and emergency response plan shall be submitted to and reviewed by the fire district.
+G.
+To the extent applicable, sources of water to be used in drilling operations of a
+proposed well, including the legal basis for the right to use such water.
+H.
+Proposed sanitary facilities that must comply with section 602(g) of the OGCC rules.
+I.
+A noise, odor, and dust abatement plan, if applicable, to control impacts on adjacent
+properties.
+J.
+An access and transportation route plan, including the numbers, frequencies, and types
+of all vehicles entering and exiting the site during the course of the drilling and
+completion of the well(s), including but not limited to the weight, number of axles
+and length of each vehicle.
+(Ord. 7-07 § 1 (part))
+The planning and zoning commission, at a regularly scheduled meeting, shall review
+the application for an oil and gas well special use permit and, based on conformance
+of the application with the requirements set forth below, recommend to the board of
+trustees approval, approval with conditions or denial. The board of trustees shall
+approve an application for an oil and gas well special use permit for a well site
+if the application submitted by the applicant conforms to the following requirements:
+A.
+The site plans for a well site application comply with the requirements of Section 17.75.050 .
+B.
+The vicinity maps for a well site application comply with the requirements of Section 17.75.060 .
+C.
+The narrative for a well site application complies with the requirements of Section 17.75.070
+D.
+The oil and gas facilities comply with the noise mitigation measures set forth in
+Section 17.75.130 .
+E.
+The well location and setbacks comply with Section 17.75.110 , unless such setback requirements have been waived by the OGCC.
+F.
+When applicable, compliance with the provisions for geologic hazards, flood plains,
+or floodway required in Section 17.75.190 .
+G.
+When applicable, compliance with the provisions for wildlife mitigation procedures
+required in Section 17.75.210 .
+(Ord. 7-07 § 1 (part))
+Prior to commencement of operations for which an oil and gas well special use permit
+has been approved, a "notice to proceed" shall be obtained from the town community
+development department. The following documentation must be submitted and approved
+prior to the issuance of the notice to proceed:
+A.
+A copy of the board of trustees resolution approving a use permitted by special review
+for a well or wells.
+B.
+A copy of the approved site plan.
+C.
+Copies of any necessary state or federal permits issued for the operation, if not
+previously submitted.
+D.
+A copy of an approved extra legal vehicle or load permit issued by the town pursuant
+to this code, if applicable.
+(Ord. 7-07 § 1 (part))
+Building permits must be obtained for all above ground structures to which the Uniform
+Building Code applies, in accordance with section 34-60-106(15), C.R.S.
+(Ord. 7-07 § 1 (part))
+In all areas of the town, unless such requirements are otherwise waived by the OGCC,
+in accordance with OGCC Rule 603(e)(6), the following apply:
+A.
+A well site shall be setback not less than three hundred and fifty feet from any occupied
+building or occupied building permitted for construction, in accordance with OGCC
+Rule 603(e)(2), and shall be setback not less than one hundred and fifty feet from
+any public right-of-way, in accordance with OGCC Rule 603(a)(1).
+B.
+Production sites shall be setback not less than three hundred and fifty feet from
+any occupied building or occupied building permitted for construction, and not less
+than five hundred feet from an educational facility, assembly building, hospital,
+nursing home, board and care facility, or jail, in accordance with OGCC Rule 603(e)(3),
+and shall be setback not less than one hundred and fifty feet from any public right-of-way,
+in accordance with OGCC Rule 603(a)(1).
+(Ord. 7-07 § 1 (part))
+The approval of an oil and gas well special use permit shall not relieve the operator
+from complying with all current applicable state and federal regulations and standards
+concerning air quality, water quality, and waste disposal.
+(Ord. 7-07 § 1 (part))
+Any equipment used in the drilling, completion, or production of a well, which is
+the subject of an oil or gas well special use permit, in accordance with OGCC Rule
+802(a), shall comply with section 25-12-103, C.R.S., (Maximum Permissible Noise Levels).
+Any operation for such well involving the use of a drilling rig, work over rig, cementing
+or fracing equipment, is subject to the maximum permissible noise levels in section
+25-12-103(5), C.R.S., provided however, that where eighteen or more building units
+are within a one thousand foot radius of the wellhead, all operations within four
+hundred feet of an occupied building with engines or motors which are not electrically
+operated shall be equipped with quiet design mufflers or equivalent, in accordance
+with OGCC Rule 802(c). All other oil and gas operations shall comply with the maximum
+permissible noise levels established by statute, if any, for the particular land use
+existing in the zone in which the operation occurs; provided that the town shall grant
+relief from these noise level requirements to the extent granted by the commission.
+To the extent practicable, exhaust from all engines, motors, coolers, and other mechanized
+equipment associated with such operations shall be vented in a direction away from
+occupied buildings, in accordance with OGCC Rule 802(b).
+(Ord. 7-07 § 1 (part))
+A.
+In accordance with OGCC Rule 804, facilities shall be painted as follows:
+1.
+Uniform, non-contrasting, non-reflective color tones.
+2.
+Color matched to land, not sky, slightly darker than adjacent landscape.
+3.
+Exposed concrete colored to match soil color.
+B.
+All oil and gas facilities shall comply with the maximum height requirements for the
+applicable zone district set forth in section 17.44.040 of this code.
+C.
+To the maximum extent practicable, exterior lighting shall be directed away from residential
+areas, or shielded from said areas to eliminate glare, in accordance with OGCC Rule
+803.
+(Ord. 7-07 § 1 (part))
+The approval of an oil and gas well special use permit shall not relieve the operator
+from complying with all commission rules with respect to abandonment and plugging
+of wells. At no time shall abandonment or plugging of wells occur without prior notification
+to the town.
+(Ord. 7-07 § 1 (part))
+The approval of an oil and gas well special use permit shall not relieve the operator
+from complying with all commission rules with respect to seismic operations.
+(Ord. 7-07 § 1 (part))
+The approval of an oil and gas well special use permit shall not relieve the operator
+from complying with all commission rules with respect to signs. In addition, the owner
+or operator shall maintain in good, readable condition all signs required by such
+commission regulations.
+(Ord. 7-07 § 1 (part))
+The approval of an oil and gas well special use permit shall not relieve the operator
+from complying with all commission rules with respect to site reclamation.
+(Ord. 7-07 § 1 (part))
+All equipment at oil or gas well drilling and production sites in geological hazard
+and floodplain areas shall be anchored to the extent necessary to resist flotation,
+collapse, lateral movement or subsidence and to the extent necessary to comply with
+the Federal Emergency Management Act.
+(Ord. 7-07 § 1 (part))
+All private roads used to access the tank batteries and the well head shall be improved
+and maintained according to the following standards:
+A.
+Access roads to tank batteries shall be subject to review by the town engineer in
+accordance with the following minimum standards:
+1.
+A graded gravel roadway having a prepared subgrade and an aggregate base course surface
+a minimum of six inches thick compacted to a minimum density of ninety-five percent
+of the maximum density determined in accordance with generally accepted engineering
+sampling and testing procedures. The aggregate material, at a minimum, shall meet
+the requirements for Class 3, Aggregate Base Course, as specified for aggregate base
+course materials in the Colorado Department of Transportation's "Standard Specifications
+for Road and Bridge Construction," latest edition;
+2.
+Graded so as to provide drainage from the roadway surface and constructed to allow
+for cross drainage of waterways (such as roadside swales, gulches, rivers, creeks,
+and the like) by means of an adequate culvert pipe. Adequacy of the pipe is subject
+to approval of the town engineer: and
+3.
+Maintained so as to provide a passable roadway reasonably free of ruts at all times.
+B.
+Access roads to the well head shall be subject to review by the town engineer in accordance
+with the following minimum standards:
+1.
+A graded roadway approved by the town engineer;
+2.
+Graded so as to provide drainage from the roadway surface and constructed to allow
+for cross drainage of waterways by means of an adequate culvert pipe. Adequacy of
+the pipe shall be subject to approval of the town engineer; and
+3.
+Maintained so as to provide a passable roadway generally free of ruts.
+C.
+An extra-legal vehicle or load permit shall be required for all extra-legal vehicles
+or loads as defined in sections 42-4-501 through 42-4-512, C.R.S., which use town
+streets. Said permit, if required, shall be obtained from the town prior to such use.
+(Ord. 7-07 § 1 (part))
+The approval of an oil and gas well special use permit shall not relieve the operator
+from complying with all current applicable state and federal regulations and standards
+concerning wildlife and endangered species. The applicant, upon the town's request,
+shall provide a wildlife study, prepared by a qualified wildlife biologist, to be
+reviewed and approved by the town. Such report shall be submitted to the town no fewer
+than thirty days prior to the first public hearing before the planning and zoning
+commission.
+(Ord. 7-07 § 1 (part))
+In the event of a conflict between the provisions of this chapter and any other provision
+of this title, the provisions of this chapter shall control.
+(Ord. 7-07 § 1 (part))
+The operator shall reimburse the town or the fire district for any emergency response
+costs incurred by the town or the fire district in connection with activity at the
+well site or production site.
+(Ord. 7-07 § 1 (part))
+Except as otherwise provided in this chapter, it is unlawful to construct, install,
+or cause to be constructed or installed, any oil and gas facility within the town
+unless approval has been granted by the town. The unlawful drilling or re-drilling
+of any well or the production therefrom is a violation of this chapter.
+(Ord. 7-07 § 1 (part))
+It is hereby unlawful to construct or install unapproved oil and gas facilities, including
+compressor stations. Except as otherwise provided in this chapter, it is unlawful
+to construct, install or cause to be constructed or installed any oil and gas facility
+within the town unless approval has been granted by the board of trustees. The unlawful
+drilling or redrilling of any well or the production therefrom is a violation of this
+chapter.
+A.
+Except as set forth in subsection B of this section below, any person who constructs,
+installs, or uses, or who causes to be constructed, installed, or used, any oil, gas,
+or injection well, production site, or well site in violation of any provision of
+this chapter or of the conditions and requirements of the oil and gas special use
+permit, may be punished by a fine of not more than one thousand dollars or by imprisonment
+for not more than one year, or by both such fine and imprisonment. Each day of such
+unlawful operation constitutes a separate violation.
+B.
+Certain requirements and standards set forth in this chapter mirror those promulgated
+by the OGCC. The town acknowledges that the OGCC has authority to regulate certain
+technical aspects of oil and gas well drilling and operation, and those requirements
+and standards set forth herein that are also set forth in the OGCC rules shall be
+enforceable solely by the OGCC, in accordance with OGCC Rule 523(a), subject to the
+following:
+1.
+The town may monitor compliance with the requirements and standards set forth herein
+and with the OGCC rules. In the event of a violation of the OGCC rules, including
+those portions of the OGCC rules set forth herein, the town, in accordance with C.R.S.
+Section 34-60-114, may (a) file a written report of such violation with the OGCC and
+request the OGCC to sue, and (b) following such report, and in the event of the failure
+by the OGCC thereafter to enjoin such reported violation, may bring suit to enforce
+such rules in the district court of the appropriate jurisdiction.
+2.
+Special exceptions to the requirements and standards set forth herein may be granted
+where the requirements of this chapter actually conflict in operation with the requirements
+of the act or its implementing regulations. All applications for an oil or gas well
+special use permit where a special exception due to operational conflicts is requested
+shall be heard in a noticed public hearing by the board of trustees. The applicant
+shall have the burden of pleading and proving an actual, material, irreconcilable
+operational conflict between the requirements of this chapter and those of the OGCC
+in the context of a specific application. An operational conflict may occur where
+the municipal ordinance prohibits an activity which the OGCC, or its valid regulations,
+has clearly authorized, or authorizes an activity which OGCC, or its valid regulations,
+has clearly prohibited. Additional municipal requirements in areas regulated by the
+OGCC, which also fall within municipal land use powers and which are necessary to
+protect the public health, safety and welfare under the facts of the specific application
+presented, and which do not impose unreasonable burdens on the applicant, shall be
+presumed not to present an operational conflict. If the board of trustees finds, based
+upon competent evidence in the record, that compliance with the requirements of this
+chapter shall result in an operational conflict with the state statutory and regulatory
+scheme, a special exception to this chapter may be granted, in whole or in part, but
+only to that extent. The board of trustees may condition the approval of a special
+exception as necessary to protect the public health, safety and welfare by mitigating
+any adverse impacts arising from the grant of approval.
+(Ord. 7-07 § 1 (part))
+In case any building or structure is or is proposed to be erected, constructed, reconstructed,
+altered, or used, or any land is or is proposed to be used, in violation of any provision
+of this article or the conditions and requirements of the oil and gas special use
+permit, the town attorney, in addition to the other remedies provided by law, ordinance,
+or resolution, may institute an injunction, mandamus, abatement, or other appropriate
+action or proceeding to prevent, enjoin, abate, or remove such unlawful erection,
+construction, reconstruction, alteration, or use. (
+(Ord. 7-07 § 1 (part))
+The board of trustees may revoke approval of an oil or gas well if it is determined
+after a public meeting, held on at least ten days notice to the applicant, that the
+applicant provided information or documentation upon which approval was based, which
+the applicant, its agents, servants, and employees, knew, or reasonably should have
+known, was materially false, misleading, deceptive, or inaccurate.
+(Ord. 7-07 § 1 (part))
+If any provision of this chapter is found by a court of competent jurisdiction to
+be invalid, the remaining provisions of this chapter will remain valid, it being the
+intent of the board of trustees that the provisions of this chapter are severable.
+(Ord. 7-07 § 1 (part))
+Unless specifically provided otherwise, this chapter shall apply only to wells that
+are drilled in the town on and after the date this chapter is adopted. The reentering
+of a well in existence prior to the date of adoption of this chapter, for purposes
+of deepening, re-completing or reworking, shall not require approval of an oil and
+gas well special use permit as required by this chapter.
+(Ord. 7-07 § 1 (part))
+A.
+When an application is submitted to the town for oil and gas well special use permit
+under this chapter, the applicant shall pay to the town an oil and gas application
+fee for each separate well or well site shown on the site plan. The board of Trustees
+shall set the fee for oil and gas well special use permit per this chapter annually
+by resolution, or as often as necessary, in the board's sole discretion. This fee
+is in addition to the special use permit fee as delineated in Chapter 17.78 of this code and any other applicable fee by the code or by resolution.
+B.
+In addition to the above, the applicant for an oil and gas well special use permit
+shall be responsible for all fees and charges incurred by the town in connection with
+such application, including, but not limited to, legal fees, planning fees, engineering
+fees and filing or recording fees. In addition, the applicant shall submit a fifteen
+percent administrative fee based on the total of all consultant charges for the review
+of the oil and gas well special use permit.
+C.
+Nothing herein constitutes a waiver by the town of any ordinances or general applicability,
+including road impact fees.
+(Ord. 7-07 § 1 (part))
+(Ord. No. 8-2012, § 5, 4-23-2012)
+The town shall be entitled to recover from any party that violates or fails to comply
+with any provision of this chapter all costs, expenses and attorney fees incurred
+by the town for enforcement of the provisions of this chapter.
+(Ord. 7-07 § 1 (part))

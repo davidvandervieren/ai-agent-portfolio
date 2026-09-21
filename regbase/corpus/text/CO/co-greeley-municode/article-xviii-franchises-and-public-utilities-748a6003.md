@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER CITY OF GREELEY, COLORADO > ARTICLE XVIII. - FRANCHISES AND PUBLIC UTILITIES
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTICHGRCO_ARTXVIIIFRPUUT"
 sha256: 986788f6a1e0e59f047b33ee8c1b20a737195862e2f90396b0d0be86aed85588
-fetched_at: "2026-09-17T04:51:40+00:00"
+fetched_at: "2026-09-21T06:30:13+00:00"
 ---
 
 The term "Public Utility" or "Public Utility Corporation," when used in this Charter,

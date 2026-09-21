@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 24 - DEVELOPMENT CODE > CHAPTER 21. - APPENDICES
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTIICOOR_TIT24DECO_CH21AP"
 sha256: 25d17013a3fe508208fe3405321d795cf846fcc595653d5b4cd0acc81eca6590
-fetched_at: "2026-09-17T04:52:07+00:00"
+fetched_at: "2026-09-21T06:34:36+00:00"
 ---
 
 Appendix 24-A: Redevelopment Map

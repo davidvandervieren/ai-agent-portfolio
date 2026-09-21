@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER CITY OF GREELEY, COLORADO > ARTICLE X. - RECALL
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTICHGRCO_ARTXRE"
 sha256: 76a9abbf1768235ea3473f3c73fe28cd08ba27289d12637949db5f17f18224a3
-fetched_at: "2026-09-17T04:51:28+00:00"
+fetched_at: "2026-09-21T06:29:57+00:00"
 ---
 
 Every Elective City Officer of the City of Greeley, Colorado, may be recalled from

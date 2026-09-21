@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER CITY OF GREELEY, COLORADO > ARTICLE XVI. - CULTURE
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTICHGRCO_ARTXVICU"
 sha256: e2df6a670b5ae24516e8a831a6cf92bc59e6d0c6d10dcc572722897459992352
-fetched_at: "2026-09-17T04:51:34+00:00"
+fetched_at: "2026-09-21T06:30:07+00:00"
 ---
 
 [Editor's History] Note—Human Resources added to Department of Culture by vote of citizens to amend Charter

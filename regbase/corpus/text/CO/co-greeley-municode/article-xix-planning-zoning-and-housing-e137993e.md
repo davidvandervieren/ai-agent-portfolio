@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER CITY OF GREELEY, COLORADO > ARTICLE XIX. - PLANNING, ZONING AND HOUSING
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTICHGRCO_ARTXIXPLZOHO"
 sha256: e42e7cc41ff243dd16421844cef6609553d9eef8e799b4eca559959081ac4306
-fetched_at: "2026-09-17T04:51:42+00:00"
+fetched_at: "2026-09-21T06:30:15+00:00"
 ---
 
 [Editor's History] Note—Article repealed and reenacted by vote of citizens on November 4, 1997.

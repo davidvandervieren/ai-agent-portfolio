@@ -1,0 +1,989 @@
+---
+source_id: co-silt-municode
+jurisdiction: Silt, CO
+state: CO
+county: Garfield
+municipality: Silt
+agency: Town of Silt
+title: 17.42.180 - Warranty for live plant materials.
+doc_type: code
+citation_root: Title 17 - ZONING > Chapter 17.42 - DESIGN REVIEW CRITERIA FOR COMMERCIAL AND MULTIFAMILY STRUCTURES > 17.42.180 - Warranty for live plant materials.
+url: "https://library.municode.com/co/silt?nodeId=TIT17ZO_CH17.42DERECRCOMUST_17.42.180WALIPLMA"
+sha256: 3abf12f406e71bc41109b9d93758b13a46a91beb30061c7357a6dfe11e079552
+fetched_at: "2026-09-18T16:12:23+00:00"
+---
+
+Unless otherwise specified in this chapter, all new and substantially altered commercial
+and multifamily (three or more units within a building or upon one lot) development
+shall comply with all applicable standards within this code and within the town's
+adopted building code.
+A.
+The town shall evaluate the design and location of structures, landscaping, parking,
+utilities and other development features of those applications involving commercial
+and multifamily structures and/or improvements, according to the following standards
+of this chapter.
+B.
+The development standards set forth in this chapter are intended for the following
+purposes:
+1.
+To assist in planning an organized, thoughtful and harmonious pattern of commercial
+and residential multifamily uses reflective of a small town atmosphere which maintains
+a pedestrian friendly community for all ages, avoids traffic congestion, centralizes
+major commercial and civic centers, and scales development appropriately;
+2.
+To encourage important site layout and planning of new business and multifamily residential
+developments which will impact the shape, nature and character of the town's community
+for years to come;
+3.
+To allow for the preservation and enhancement of the natural, scenic and historic
+characteristics of the community by:
+a.
+Encouraging a western architectural and development theme reflecting the town's ranching,
+mining, agricultural and natural heritage;
+b.
+Restricting development in important natural, scenic, riparian or wildlife areas;
+c.
+Requiring development impacts to be mitigated through landscaping, including planted
+streetscapes and parking lots;
+d.
+Requiring thoughtful site layout of developments;
+e.
+Encouraging environmentally sensitive development and building practices;
+4.
+To assist with the consistent application of all pertinent town codes for signs, lighting,
+streets, parking, utilities, building placement, landscaping, etc.
+(Ord. 18-01 § 1 (part))
+(Ord. No. 2-2013, § 1, 2-11-2013)
+This chapter governs all new development of property on or after the effective date
+of the ordinance codified in this chapter.
+(Ord. 18-01 § 1 (part))
+The board of trustees shall set the fee for site plan review per this chapter annually
+by resolution, or as often as necessary, in the board's sole discretion. This fee
+is in addition to any other applicable fee by the code or by resolution. The applicant
+for a site plan review shall be responsible for all fees and charges incurred by the
+town in connection with such application, including, but not limited to, legal fees,
+planning fees, outside consultant fees and engineering fees, plus appropriate administrative
+fees, if any.
+(Ord. 18-01 § 1 (part))
+(Ord. No. 8-2012, § 1, 4-23-2012)
+Examples of criteria used in categorizing permitted uses and their associated planned
+activities are listed below:
+A.
+Building characteristics and site arrangement;
+B.
+Relative amount of floor space, equipment, or site area dedicated to the planned activity;
+C.
+Similarity of actual or projected characteristics of the planned activity to the characteristics
+of each use category cited in the town's codes;
+D.
+Relative amount of sales expected from each planned activity;
+E.
+Type of customer or product associated with each planned activity;
+F.
+Relative number of employees associated with each activity;
+G.
+Hours of operation;
+H.
+Types of vehicles and intensity of vehicle usage associated with each planned activity;
+I.
+Degree of separation or isolation of the planned activity from other activities at
+the proposed location and from adjacent property activity;
+J.
+Type and magnitude of impact on the community's environment.
+(Ord. 18-01 § 1 (part))
+All new construction for commercial and multifamily (defined as three or more units
+within one building or upon one lot) permitted uses as described in this code require
+a site plan review.
+(Ord. 4-03 § 1 (part))
+(Ord. No. 2-2013, § 1, 2-11-2013)
+A.
+An applicant for commercial or multifamily site plan review shall provide such written
+information on the land use application form and on forms provided by the town, plus
+any other supplemental information needed to convey information to the commission,
+including the following:
+1.
+A description of the proposed land use(s);
+2.
+A statement of the planning objective(s);
+3.
+A description of adjoining land use(s) and zoning;
+4.
+Existing zoning of the subject property;
+5.
+A statement regarding the proposal's conformance with the comprehensive plan and zoning;
+and
+6.
+A site plan map(s) depicting all proposed land use, including utilities, landscaping,
+structures, parking, and other development of any kind.
+B.
+Following the town's review of an applicant's commercial and/or multifamily site plan
+application, the town staff shall determine whether application for site plan review
+is complete, and if it is, he shall refer the application to the planning and zoning
+commission within 30 days of such determination of completeness.
+C.
+The planning and zoning commission shall review the application for code compliance
+at a public hearing held at a regularly scheduled meeting and shall approve, approve
+with conditions or deny the application.
+D.
+If the planning and zoning commission approves such application, applicant may submit
+to the town a building permit application.
+E.
+If the planning and zoning commission approves such application with conditions, applicant
+may either submit to the town a revised site plan with a building permit application,
+or conversely, if applicant does not agree to such conditions, applicant may appeal
+such conditions to the board at a regularly scheduled meeting, as determined by the
+town administrator or his designee.
+F.
+If the planning and zoning commission denies the application, applicant may appeal
+such decision to the board at a regularly scheduled meeting, as determined by the
+town administrator or his designee.
+G.
+Approval. An approval for any commercial or multi-family site plan review is good
+for one calendar year from date of approval. An applicant must obtain a building permit
+within that one-year time frame. Two six-month extensions may be granted. An extension
+may be obtained upon delivery of a formal letter of request to the director of community
+development or a staff member designated by the town manager. The letter of request
+must be submitted prior to the lapse and approval. If a building permit is not issued
+within two years, the approval shall be considered lapsed and null and void. An applicant
+will have to reapply for a site to plan review application.
+(Ord. No. 2-2013, § 1, 2-11-2013; Ord. No. 7-2022, § 1, 5-23-2022)
+A.
+All new construction for commercial and multifamily (defined as three or more dwelling
+units within one building or upon one lot) special uses as described in this code
+shall also require a site plan review.
+B.
+Any use not specifically described in Title 17 of this code as a permitted use, special use or prohibited use shall be designated
+a special use for purposes of this chapter. In addition, specifically the following
+uses require a special use permit and a site plan review, which may occur concurrently:
+1.
+Buildings over three stories in height;
+2.
+Buildings over 35,000 square feet in gross floor area;
+3.
+Site plan proposals that include more than two accessory buildings on a lot; and
+4.
+Site plan proposals that have more than one land use on the property.
+C.
+Any landscaping greater than 150 square feet within any public right-of-way that is
+located within or abuts any zone district that permits commercial or multi-family
+residential uses shall require a landscaping plan review in accordance with Section 17.42.110 .
+(Ord. 4-03 § 1 (part))
+(Ord. No. 2-2013, § 1, 2-11-2013; Ord. No. 17-2020, § 1, 1-11-2021)
+All new commercial and multifamily (three or more dwelling units within a building
+or upon one lot) development occurring within the town, whether constructed at one
+time or in phases, shall be done in strict accordance with all requirements established
+by the town, including, but not limited to, these standards:
+A.
+Maximum lot coverage for all buildings on a lot, including above grade parking structures,
+shall not exceed 80 percent;
+B.
+Streets shall be constructed in conformance with the town's design standards within Title 16 of this code relative to type and location, and subject to town's review and approval.
+All streets shall be identified on the site plan as local streets, collector streets,
+sub-arterial streets, or arterial streets for the purposes of establishing street
+and sidewalk (trail) parameters, appropriate setbacks, screening requirements, signage,
+etc.
+C.
+Notwithstanding those building setbacks related to commercial and multifamily zone
+districts in this code, residential multifamily structures shall adhere to the following:
+1.
+Street yard setback from property line to structure—20 feet;
+2.
+Front yard setback from property line to structure—20 feet;
+3.
+Right-of-way or parkland setback from property line to structure—20 feet;
+4.
+Side yard setback from property line to structure—ten feet;
+5.
+Rear yard setback from property line to structure—20 feet.
+D.
+Underground Setbacks from Property Line to Structure. All underground parking or other
+structures related to underground parking shall have a minimum 15-foot setback from
+property line to structure.
+E.
+Utility and Access Easements. In order to ensure that adequate space is reserved for
+the installation and maintenance of all utility services and public sidewalks, utility
+and pedestrian access easements of no less than 15 feet in width shall be provided
+within all yards that abut a street right-of-way, unless:
+1.
+The required yard abuts a local street, as defined in this code, that has adequate
+area within the street right-of-way to accommodate all utilities and public sidewalks;
+2.
+Provision for a utility and pedestrian access easement at least 15 feet in width,
+or a width as determined by the town that accomplishes the same purpose has been otherwise
+established; or
+3.
+Said utility and pedestrian access easements are already located on private property,
+parallel to, and abutting the street right-of-way line and fully extend across each
+property in order to create a contiguous utility easement along the entire length
+of the street right-of-way.
+F.
+Public Sidewalks and Pathways. All site plans shall graphically demonstrate consistency
+with the provisions of the comprehensive plan relative to public pathways or indicate
+in writing why the development site should not be obligated to provide such pathways.
+Additionally, the following provisions apply:
+1.
+Public Sidewalks. Applicant shall provide public concrete sidewalks in conformance
+with town standards in Title 16 of this code, and such construction of sidewalks shall be in conjunction with any
+street construction, including improvements to existing streets. Public sidewalks
+shall be located within street rights-of-way or within utility and pedestrian access
+easements as required herein. Installation of public sidewalks on private property
+otherwise may be permitted, provided the necessary public access easements are secured
+and subject to the approval of the town. Generally, concrete sidewalks shall be six
+feet wide on residential properties and ten feet wide on B-1, B-2 and B-3 commercial
+properties, unless the town determines another width is more desirable. Further, the
+town, in its sole discretion, shall determine if a sidewalk or a pathway is more desirable
+for B-industrial zoned properties.
+2.
+Public Pathway. Applicant shall install public pathways suitable for joint pedestrian
+and bicycle use as determined by the town. At a minimum, any development in proximity
+to (within 100 feet of) the Colorado River shall not preclude access to and around
+the existing river channel via public pathways suitable for joint pedestrian and bicycle
+use.
+(Ord. 18-01 § 1 (part))
+(Ord. No. 2-2013, § 1, 2-11-2013)
+A.
+An applicant for commercial development in a commercial PUD, B-1, B-2 or B-3 zone
+district shall select building materials and shall design structures in order to achieve
+and maintain high architectural standards by avoiding boxy or monotonous industrial
+appearances. An applicant can achieve this effect by adding thoughtful architectural
+design elements into each building that may include some or all of the following:
+1.
+Varying and/or intersecting rooflines;
+2.
+Dormers, porches, cantilevers, covered walkways;
+3.
+Architectural stone work or stucco; or
+4.
+Trim detail around lighting, windows, doors, soffit and fascia.
+B.
+An applicant for commercial development in a commercial PUD, B-1, B-2 and B-3 zone
+district shall provide exterior treatments as follows:
+1.
+Applicants who propose building bays wider than 60 feet shall include such architectural
+features as columns, ribs, pilasters or the like;
+2.
+An applicant shall avoid building facades that have blank, uninterrupted lengths of
+more than 60 feet without containing at least two of the following: change in plane,
+change in texture or masonry pattern, large windows, columns, ribs, pilasters or the
+like;
+3.
+An applicant shall include consistent architectural materials and design characteristics
+on all sides of a proposed building, and may not use inferior or substandard quality
+materials for side or rear facades;
+4.
+An applicant utilizing lower exterior wainscoting shall conform to the following:
+a.
+Integrally textured materials such as stone or other masonry;
+b.
+Variously textured material combinations such as stone/wood, stone/stucco, wood/stucco,
+brick/wood or any such combination;
+c.
+Integrally colored and patterned materials such as smooth rock, granite or tiles;
+d.
+Variously colored and/or pattered materials such as mullions, panels or planters;
+and
+e.
+Design patterns such as ledges, sills, headers, parapets or other wall variations.
+5.
+An applicant utilizing exterior facade treatments on or near the top of the building
+must be recognizable from any street, parking lot or open space and consist of one
+of the following:
+a.
+Cornice treatments, other than just colored "stripes" or "bands," with integrally
+textured materials such as stone or other masonry, or differently colored materials;
+b.
+Sloping roof with overhangs or brackets;
+c.
+Stepped parapets;
+d.
+Clerestory windows or other window accents.
+6.
+An applicant shall utilize exterior building materials that are high-quality, including
+but not limited to brick, sandstone or other native stone, treated wood siding (may
+include reclaimed barn wood, if adequately integrated into facade), stucco or tinted/textured
+concrete masonry unit.
+C.
+An applicant for commercial development in the B-industrial zone district shall select
+exterior siding that is long lasting, non-fading and can withstand the elements, but
+may not include solely metal siding on all sides of the building, unless applicant
+proposes such landscaping improvements as to mitigate the effect of such boxy or monotonous
+industrial appearance.
+(Ord. 18-01 § 1 (part))
+(Ord. No. 2-2013, § 1, 2-11-2013)
+A.
+An applicant for multifamily residential development in any PUD or residential zone
+district shall select building materials and shall design structures in order to achieve
+and maintain high architectural standards that avoid boxy or monotonous appearances
+by using the following combination of two or more of the following elements:
+1.
+Varying and/or intersecting rooflines;
+2.
+Dormers, porches, cantilevers, covered walkways;
+3.
+Architectural stone work or stucco;
+4.
+Trim detail around lighting, windows, doors, soffit and fascia; or
+5.
+Other architectural enhancements reviewed and approved by town.
+B.
+An applicant shall include consistent architectural materials and design characteristics
+on all sides of a proposed building, and may not use inferior or substandard quality
+materials for side or rear facades.
+C.
+An applicant utilizing lower exterior wainscoting shall use a combination of the following:
+1.
+Integrally textured materials such as stone or other masonry;
+2.
+Variously textured material combinations such as stone/wood, stone/stucco, wood/stucco,
+brick/wood or any such combination;
+3.
+Integrally colored and patterned materials such as smooth rock, granite or tiles;
+4.
+Variously colored and/or pattered materials such as mullions, panels or planters;
+and
+5.
+Design patterns such as ledges, sills, headers, parapets or other wall variations.
+D.
+An applicant proposing exterior facade treatments on or near the top of the building
+shall design such treatments so that they are recognizable from any street, parking
+lot or open space and consist of at least one of the following:
+1.
+Cornice treatments, other than just colored "stripes" or "bands," with integrally
+textured materials such as stone or other masonry, or differently colored materials;
+2.
+Stepped parapets;
+3.
+Sloped roof elements;
+4.
+Clerestory windows or other decorative window accents.
+E.
+An applicant shall utilize exterior building materials that are high-quality, including
+but not limited to brick, sandstone or other native stone, treated new wood siding,
+stucco or tinted/textured concrete masonry unit.
+F.
+An applicant shall not utilize corrugated metal unless it is used as an accent on
+the building (less than ten percent of total facade), or is treated to rust.
+G.
+An applicant shall not utilize untreated wood siding, with the exception of reclaimed
+barn wood, inspected and approved by the town.
+H.
+An applicant shall not utilize less than a 4:12 pitched roof with minimum one-foot
+wide eave overhangs.
+(Ord. No. 2-2013, § 1, 2-11-2013)
+A.
+Definitions:
+1.
+"Berm" means an earthen mound designed to provide visual interest, screen undesirable
+views and/or decrease noise.
+2.
+"Buffer/perimeter" means a combination of physical space and vertical elements, such
+as plants, berms, fences or walls, primarily on the perimeter of the property or parking
+lot, the purpose of which is to separate and screen incompatible land uses from each
+other.
+3.
+"Building envelopes" shall be designated by lines enclosing an area in which a building
+is to be constructed. These lines indicate the maximum exterior dimensions of the
+proposed building but do not necessarily depict the shape of the exterior walls of
+the building.
+4.
+"Caliper" means the diameter of a tree trunk measured in inches at a height of four
+inches from the top of the root ball unplanted, or four and one-half inches from ground
+level if planted.
+5.
+"Deciduous plant" means a plant with foliage that is shed annually.
+6.
+"Ecosystem" means a system made up of a community of animals, plants and bacteria
+and the physical and chemical environment with which it is interrelated.
+7.
+"Evergreen" means a plant with foliage that persists and remains green year-round.
+8.
+"Existing vegetation" means plant materials that are already established onsite of
+a number, size and species that accomplish the same general function as new plantings.
+This vegetation is of considerable value and may reduce the required amount of proposed
+landscaping.
+9.
+"Ground cover" means plants that grow near the ground densely, and spread out, such
+as buffalo grass, creeping thyme, mat daisy, ice plant, creeping juniper, etc. Ground
+covers are highly recommended for steep slopes where mowing is difficult.
+10.
+"Landscaping" means any combination of living plants such as trees, shrubs, plants,
+vegetative ground cover and turf grasses, and may include natural non-living elements
+such as rock, stone, bark, as well as structural features, including, but not limited
+to walks, fences, benches, works of art, reflective pools and fountains. Landscaped
+areas shall consist of at least 75 percent organic plant materials. The remaining
+25 percent of the landscaped areas may consist of inorganic materials.
+11.
+"Ornamental plant" means a deciduous woody plant planted primarily for its ornamental
+value or for screening purposes, which tends to be smaller at maturity than a shade
+tree.
+12.
+"Landscape professional" means a landscape architect, draftsperson, surveyor, architect
+or landscape designer who has been trained and educated in the field of landscaping
+and earns a living preparing landscape site plans.
+13.
+"Screening" means a method of reducing the impact of noise and unsightly visual intrusions
+with less offensive or more harmonious elements, such as plants, berms, fences, walls
+or any appropriate or allowed combination thereof. Evergreen plant material provides
+a denser screen throughout the entire year. Vines soften the harsh effect of fencing.
+Any such screening and landscaping shall be subject to the provisions of this code.
+14.
+"Shade/street tree" usually means a deciduous tree (rarely an evergreen), planted
+primarily for its high crown of foliage or overhead canopy, which provides shade and
+cooling properties.
+15.
+"Shrub" means a woody plant, smaller than a tree, which consists of several small
+stems from the ground or small branches near the ground, and which may be deciduous
+or evergreen. All shrubs as required by this code must be a minimum size of five gallons.
+16.
+"Specimen" means a particularly impressive or unusual example of a species of tree
+due to its size, shade, age or any other trait that epitomizes the character of the
+species.
+17.
+"Tree" means a large, woody plant having one or several self-supporting stems or trunks
+and numerous branches (may be classified as deciduous or evergreen).
+(Ord. 18-01 § 1 (part))
+The town landscape design guidelines have been created in order to enhance the town's
+unique character, to preserve the natural beauty and balance of the surroundings and
+to mitigate possible negative effects from growth. The town shall evaluate all applications
+in light of the following goals of this ordinance:
+A.
+Protect the natural ecosystem and strive toward the preservation of healthy plant
+materials;
+B.
+Minimize the visual impact of site development and restore areas subject to cuts and
+scarring, particularly hillsides;
+C.
+Preserve existing character of the area;
+D.
+Preserve visual corridors;
+E.
+Provide for well-designed development as well as natural landscapes within the town.
+(Ord. 18-01 § 1 (part))
+A.
+An applicant for commercial or multifamily site plan review shall submit to the town
+at the time of site plan application submittal a landscape plan drawn to a scale that
+adequately depicts all required landscaping elements required by this title.
+B.
+An applicant for a large project that includes 20 commercial and/or residential units
+or more, or includes more than 30,000 square feet of gross commercial floor area shall
+submit to the town a landscape plan prepared by a landscape architect or other landscape
+professional.
+C.
+Landscape Plan Review. An applicant for commercial or multifamily site plan review
+shall include the following in any landscape plan submittal at the time of commercial
+or multifamily site plan:
+1.
+Certified survey with two-foot contours and with a scale not to exceed one inch equals
+20 feet that indicates the following:
+a.
+Boundaries of lot or parcel proposed for development, including adjacent rights-of-way;
+b.
+Location of existing and proposed improvements (curb, gutter, sidewalk, structures);
+c.
+Proposed grading at a two-foot contour interval for all areas;
+d.
+Existing and proposed vegetation;
+e.
+Key that indicates the size and species of trees, shrubs and ground cover, which includes
+scientific and general names;
+f.
+Existing and/or proposed automatic irrigation system, with rain-off sensor;
+g.
+Written statement that lists lot coverage of buildings, parking lot area (sf), landscaping
+area (sf), etc.;
+h.
+Proposed entry gates, signage plan and elevation drawings;
+i.
+Phasing plan, if applicable;
+j.
+Method of reclamation for the repair of cut/fill areas and other landscape disruptions
+caused by construction;
+k.
+Vicinity map at a scale of one inch equals 500 feet, that shows at a minimum three
+blocks around the subject site.
+D.
+The town may not issue a certificate of occupancy prior to landscaping installation,
+unless applicant submits a landscaping bond in an amount equal to the proposed cost
+of landscaping improvements.
+E.
+The town shall verify compliance with the approved landscape plan, prior to issuance
+of certificate of occupancy or prior to release of landscaping bond.
+(Ord. 18-01 § 1 (part))
+(Ord. No. 2-2013, § 1, 2-11-2013)
+The following design guidelines apply to all commercial projects and all multi-family
+projects with three or more dwelling units within one building or upon one lot:
+A.
+Critical wildlife areas as determined by the Colorado Division of Wildlife (CDOW),
+and natural open space, as determined by the town, shall be preserved. No construction,
+development or improvements within these areas shall occur other than those developments
+approved by the town, with recommendations from the CDOW.
+B.
+Driveways/access roads, due to impact on the site, require good planning and design.
+The approved access drives generally follow the natural contours of the site, around
+trees and significant landforms. Each access road plan shall address the following
+points:
+1.
+Cut slopes and fill embankments shall not exceed 2:1 (horizontal to vertical) without
+an engineered earth retention system. Soil surfaces should be covered with a layer
+of topsoil and appropriate vegetation. Slope stability should be addressed in the
+geotechnical (soils) investigation report. Grading plans and retention systems should
+be designed by the applicant's engineer(s) based on the recommendations of the geotechnical
+study.
+2.
+All efforts shall be made by the applicant to minimize the overall impact of access
+drive construction.
+3.
+Plant materials may not exceed 30 inches in height within the sight distance triangle,
+as defined elsewhere in this code, at intersections and at driveways or access points.
+4.
+Existing farm roads should be incorporated into subdivision design, if practical.
+C.
+Parking Lot Standards. All parking lots with 15 spaces or more, or 4,500 square feet
+or more, shall comply with this section. The requirements of this section are intended
+to reduce glare from car headlights, to separate pedestrians from automobile fumes
+and dust, to modify the rate of storm water runoff, to provide shade and noise attenuation,
+and to distribute plantings evenly in and around parking areas to prevent two lots,
+held in separate ownership, from becoming one large expanse of paving.
+1.
+Whenever a requirement for plantings is made based on square footage or linear footage,
+the requirement will always be rounded up to the next number of items required. For
+instance, if one tree for every 35 linear feet is required, two trees are required
+for 38 linear feet.
+2.
+Provisions must be made for permanent irrigation of all plant material in parking
+lots. The property owner shall be responsible to maintain any vehicular use area in
+good condition and free of refuse and debris. All landscaping must be kept in a green
+and growing condition.
+(Ord. 18-01 § 1 (part))
+Any grading shall be planned and accomplished to minimize disruption to the existing
+ecosystem and to minimize alteration of the topography. All new development, as defined
+by this chapter, shall adhere to the following guidelines:
+A.
+No grading shall occur outside the building envelope, except for erosion repair, access
+or drainage structures as approved by the town.
+B.
+Cut slopes and fill embankments shall be a maximum of 2:1 slope, unless engineered
+earth retention walls are reviewed and approved by the town. Cut slopes and fill embankments
+need to be re-vegetated as soon as possible. No exposed cuts or fills shall be allowed
+within the building envelope, including exposed drainage ditches. Areas requiring
+significant grade changes shall be accomplished with earth retaining systems, which
+may include architectural extensions of the building.
+C.
+All disturbed areas on a lot shall be re-vegetated with appropriate plant materials
+from the recommended plant list in this chapter.
+D.
+All natural drainages shall be maintained in their original configuration, as much
+as practical, with stabilization and re-vegetation of eroding segments. Retention
+and detention ponds and low-flow structures shall be designed in a natural fashion
+with curvilinear shapes, gentle slopes and vegetation.
+(Ord. 18-01 § 1 (part))
+The landscape strip standards are flexible, but an applicant must fulfill one of the
+next four options adjacent to the public right-of-way:
+A.
+Provide a berm on the property that is at least two and one-half feet higher than
+the finished floor elevation of the parking lot, to include one shade tree and five
+shrubs for every 35 linear feet of frontage. Berm shall be designed to achieve a 2:1
+slope.
+B.
+Provide a six-foot wide landscaped strip between the right-of-way and the parking
+lot. One shade tree and five shrubs are required for every 35 linear feet of frontage.
+C.
+Provide a three-foot high fence of brick, stone or architectural concrete to screen
+the lot from the right-of-way. In addition, a four foot buffer strip must be provided,
+planted with one shade tree per 35 linear feet of frontage.
+D.
+Preserve a 25-foot wide strip the length of the property, in lieu of the landscaping
+requirement. This option may be appropriate along the Colorado River corridor.
+(Ord. 18-01 § 1 (part))
+Requiring perimeter landscaping between adjacent parking lots does not preclude the
+need to provide vehicular access between the lots. In addition, land-scape screening
+must be provided where a commercial lot is contiguous to a residentially zoned lot.
+A.
+If the parking lot is 5,000 square feet or smaller, the landscaped perimeter strip
+must be at least four feet wide. One tree and three shrubs are required for each 35
+linear feet of perimeter.
+B.
+For parking lots larger than 5,000 square feet, the landscaped perimeter strip must
+be at least five feet wide. One tree and three shrubs are required for each 35 linear
+feet of perimeter.
+C.
+The owner may preserve at least 25 feet of existing approved vegetation along the
+parking lot perimeter. One tree and three shrubs are required for each 35 linear feet
+of perimeter.
+D.
+In addition, all sidewalks shall be separated from the back edge of curb by a minimum
+distance of four feet to accommodate a planting strip.
+E.
+All planting strips shall include street trees, shrubs and grasses. Plant materials
+may not impede sight lines or maintenance of the roadway or sidewalk. Up to 25 percent
+(including driveways and walkways) of the planting strip may be hard-surfaced with
+concrete, brick and composite pavers.
+(Ord. 18-01 § 1 (part))
+Interior parking lot landscaping adds shade, serves as a windbreak and assists with
+vehicular circulation. Landscaping also reduces heat and glare and screens cars from
+adjacent properties. The interior of all parking lots shall be landscaped as follows:
+A.
+One landscaped island, parallel to parking spaces, is required for each ten parking
+spaces.
+B.
+Landscape islands must be at least 80 square feet in area, and a minimum of 40 square
+feet of continuous pervious land area.
+C.
+One landscaped divider island, parallel to the parking lot drive aisles, designed
+to prevent diagonal movement across the parking lot, shall be located for every three
+parking lot drive aisles.
+D.
+A landscape island with raised concrete curbs is required at the end of every row
+of parking spaces, regardless of length or number of spaces.
+E.
+Barrier curbing on all sides adjacent to the parking lot surface is required to protect
+each landscape island from vehicles.
+F.
+A corner area (where it is not feasible to park a vehicle) may be considered an end
+island for the rows of parking on the perimeter of the parking lot.
+G.
+Landscaping of the interior of parking lot shall include trees and shrubs.
+H.
+Permanent irrigation systems must be installed to serve all vegetative material.
+(Ord. 18-01 § 1 (part))
+An applicant for commercial or multifamily site plan review shall adhere to the following
+landscaping installation guidelines:
+A.
+Applicant shall not plant or remove vegetation in native areas, except in the following
+instances, for purposes of: construction within building envelope, weed eradication,
+landscape restoration, wildlife enhancement, agricultural improvement and/or trail
+installation.
+B.
+Applicant shall, where possible, utilize plant materials that are not waterintensive,
+exclusive of initial planting and establishment.
+C.
+Applicant shall use new plant material that meets the following specifications:
+1.
+Deciduous trees shall be a minimum 2.5″ caliper;
+2.
+Ornamental trees shall be a minimum 2.5″ caliper or six-inch clump; and
+3.
+Shrubs shall be a minimum five-gallon container.
+D.
+Applicant may receive credit towards landscaping requirements for existing evergreen
+trees, as reviewed and approved by the town.
+(Ord. 18-01 § 1 (part))
+(Ord. No. 2-2013, § 1, 2-11-2013)
+The applicant and subsequent property owner shall guaranty that all plants remain
+in a healthy condition, and shall make any and all necessary replacements at his expense.
+(Ord. 18-01 § 1 (part))
+(Ord. No. 2-2013, § 1, 2-11-2013)
+An applicant for commercial or multifamily site plan review shall provide adequate
+offstreet parking pursuant to this code to adequately provide for all anticipated
+users.
+A.
+Staged Parking Plan. An applicant for commercial or multifamily site plan review may
+request and the town may grant, upon its review, a staged development plan when the
+off-street parking spaces required are not immediately needed for a particular use.
+However, notwithstanding the foregoing, in no event shall the applicant initially
+pave fewer than 65 percent of the required spaces.
+1.
+Applicant shall submit a staged parking plan that clearly indicates both that portion
+of the parking area to be paved initially and that portion of the parking area proposed
+for future improvement, in compliance with code requirements regarding the total number
+of parking spaces. The applicant shall also provide a date by which the future improvements
+are to be completed, subject to the town's review and approval.
+2.
+Applicant shall submit a staged parking plan that includes a drainage plan that addresses
+and mitigates storm water (100-year event) without degradation to structure, landscaping
+or other improvements due to phasing of construction of parking lot, subject to the
+town's review and approval.
+3.
+Applicant shall apply ground cover to that area of the parking lot proposed for future
+construction, in order to prevent erosion and as a dust control measure, all subject
+to the town's review and approval.
+B.
+Applicant for commercial or multifamily site plan review shall propose off-street
+parking spaces constructed of an improved hard surface of concrete, asphalt or other
+town approved materials, constructed in accordance with the town's engineering standards.
+C.
+Applicant for commercial (B-1, B-2, B-3 and commercial PUD zone districts) or multifamily
+(residential zone districts) site plan review shall provide for bicycle parking situated
+in such areas as to minimize vehicular and pedestrian congestion, and provided such
+that two bicycle spaces are provided for every ten required off-street parking spaces.
+D.
+Applicant for commercial site plan on a B-industrial zoned parcel may request, and
+the town may grant, approval of a portion of the parking area that is improved with
+gravel and/or road base instead of a permanent surface. Applicant shall indicate within
+the application the reasons for such request and the method(s) by which parking and
+vehicular travel shall occur.
+(Ord. 18-01 § 1 (part))
+(Ord. No. 2-2013, § 1, 2-11-2013)
+Adequate area shall be provided for on-site loading and receiving operations such
+that maneuvering of trucks and other vehicles do not encroach upon any street. The
+parking, storage, loading, unloading or staging of trucks or truck trailers on any
+street is strictly prohibited.
+A.
+Loading Doors Placement. The orientation of loading doors shall be governed as follows:
+1.
+Major Street. No loading doors shall face the street.
+2.
+Secondary Streets. Loading doors may face the street provided that the building is
+set back a minimum of 85 feet from the street right-of-way line and the loading and
+receiving area is screened from view of all public streets and street rights-of-way
+in accordance with the landscaping and screening requirements established herein.
+3.
+Truck Loading Berth Requirements. At a minimum, all uses shall provide and maintain
+on-site truck loading berths in the quantities stated below:
+a.
+Office use:
+i.
+0 to 20,000 GSF (Gross Square Feet of structure(s)): none required;
+ii.
+Over 20,000 GSF to 50,000 GSF: one additional space;
+iii.
+Over 50,000 GSF to 100,000 GSF: one additional space;
+iv.
+For each additional 100,000 GSF: one additional space:
+b.
+Commercial and industrial uses:
+i.
+0 to 10,000 GSF: none required;
+ii.
+Over 10,000 GSF to 20,000 GSF: one space required;
+iii.
+Each additional 20,000 GSF up to 60,000 GSF: one additional space;
+iv.
+Over 60,000 GSF to 100,000 GSF: one additional space;
+v.
+Each additional 50,000 GSF: one additional space.
+c.
+Warehousing, distribution and related uses: As approved on the site plan;
+d.
+Hotel use: One space per each 100,000 GSF;
+e.
+Restaurant use:
+i.
+0 to 10,000 GSF: none required;
+ii.
+Over 10,000 GSF to 50,000 GSF: one additional space;
+iii.
+Each additional 100,000 GSF: one additional space.
+f.
+The town shall determine the number of on-site truck loading berths required for uses
+not specified, based on the most similar use listed above.
+g.
+A structure containing more than one use must meet the truck loading berth requirements
+of each use unless one use occupies ninety percent or more of the gross building area,
+in which case the truck loading berth requirement is calculated as if that use occupied
+the entire structure.
+h.
+Truck Loading Berth Dimensions. All truck loading berths shall measure no less than
+12 feet in width and 60 feet in length.
+(Ord. 18-01 § 1 (part))
+Pedestrian crossing areas shall be provided for each building egress or for every
+125 feet of building which fronts a part of the parking area. Pedestrian crossing
+areas in parking lots shall be constructed of surface payers, such as brick, stone
+blocks, interlocking brick pavers, stamped concrete or other materials as may be approved
+by the town which form a smooth surface but contrast with asphalt.
+(Ord. 18-01 § 1 (part))
+All parking, truck loading and receiving areas, outdoor storage, refuse containers
+and mechanical equipment shall be screened from view of adjacent properties, street
+rights-of-way, and the existing I-70/river corridor, as follows:
+A.
+Automobile-parking areas facing a public street or street right-of-way shall be screened
+in accordance with the requirements set forth in the landscaping section of these
+standards.
+B.
+Loading and Receiving Areas. Truck loading and receiving areas facing a public street
+or street right-of-way shall be screened in accordance with the requirements set forth
+in the landscaping section of these standards.
+C.
+Outside Storage. Outdoor storage of any kind, if permitted within a zone district,
+shall be permitted strictly as an accessory use to a principal use on the same property.
+Outdoor storage shall not be permitted in front of a building facing a street or within
+one hundred feet of the flood control easement boundary line surrounding the existing
+Colorado River channel.
+1.
+All permitted outdoor storage shall be fully screened on all sides from view of adjacent
+properties, street rights-of-way and the Colorado River channel. No materials, supplies,
+equipment, products, goods or articles of any kind stored outdoors shall extend above
+the height of the required screening wall or berm.
+2.
+All permitted outdoor storage areas that face street rights-of-way shall be screened
+from view by a free-formed landscaped earthen berm averaging five feet in height.
+Said berm shall be located within a landscaped area adjacent to the street right-of-way
+and shall be at least 25 feet in depth from the street right-of-way line. Tree and
+berm design requirements as set forth in the landscaping section of these standards
+shall likewise be applicable.
+3.
+All permitted outdoor storage areas that do not face street rights-of-way shall be
+screened from adjoining properties by a solid, opaque screening fence or wall comprised
+of materials architecturally consistent with the main structure, and no less than
+six feet in height.
+D.
+1-70/River Corridor Adjacency. All allowed outdoor storage areas and loading and receiving
+areas on any lot adjacent to the existing 1-70/river corridor, shall be screened from
+view by a free-formed landscaped earthen berm averaging five feet in height. Said
+berm shall be located within a landscaped area adjacent to the property line facing
+the existing I-70/river corridor and shall be at least 25 feet in depth from the property
+line. Tree and berm design requirements as set forth in the landscaping section of
+these standards shall likewise be applicable to ensure adequate and compatible screening
+of outdoor storage and loading and receiving areas facing the existing river path.
+E.
+Mechanical Equipment. All mechanical equipment associated with the main building or
+accessory building(s), not located inside the building, roof mounted or otherwise,
+shall be screened from view of all adjacent properties, street rights-of-way and the
+existing 1-70/river corridor.
+F.
+Refuse Containers. Each building site shall have a minimum of one commercial refuse
+container. Each refuse container shall be screened from view from all adjacent properties
+and street rights-of-way by a solid, opaque screening fence or wall, which may include
+a gate on one side, all of which shall be comprised of materials architecturally consistent
+with the main structure, and of a height equal to, or greater than the height of the
+refuse container, and in conformance with this code regarding fences.
+(Ord. 18-01 § 1 (part))
+All domestic water treatment and distribution systems, whether private or public,
+shall comply with all codes, regulations and specifications of the state and county
+health departments, as well as all town codes and regulations. All buildings must
+be served by an adequately sized water line, as determined by this code and the town
+after its careful calculation of proposed water usage (EQRs).
+(Ord. 18-01 § 1 (part))
+All sanitary sewer systems, whether private or public, shall comply with all codes,
+regulations and specifications of the state and county health departments, as well
+as all town codes and regulations. All buildings must be served by an adequately sized
+sanitary sewer line, as determined by the town engineer or public works director after
+careful calculation of proposed water usage (EQRs).
+(Ord. 18-01 § 1 (part))
+A.
+Applicant shall provide drainage improvements designed to meet the criteria of this
+section, as well as the town engineering and construction specifications for streets,
+water and sewer.
+B.
+All developments must provide for on-site runoff collection and conveyance in accordance
+with the town's codes and regulations and as approved by the town. Every development
+plan shall include a drainage plan that shall:
+1.
+Be produced and certified by a licensed engineer;
+2.
+Be subject to the approval of the town engineer;
+3.
+Be designed to restrict site drainage to a rate no greater than the historical rate,
+before development, for the twenty-five year storm, or include development of a storm
+drainage system to convey run-off water to an acceptable site;
+4.
+Identify existing channels, dry washes and streambeds with their twenty-five year
+storm calculations;
+5.
+Include calculations and quantities of flow at points of concentration;
+6.
+Identify possible breach points where irrigation ditches and dry washes intersect;
+7.
+Depict the above information for the entire drainage basin unless the town engineer
+determines other boundaries for the plan; and,
+8.
+Include a vicinity map locating the development and its drainage basin.
+C.
+Drainage easements shall be designed to meet the criteria of this section. The minimum
+width for a drainage easement shall be ten feet. Fifteen feet shall be required where
+needed, as determined by the town engineer, for vehicular access to maintain the system.
+No permanent structure shall be located within the easement.
+(Ord. 18-01 § 1 (part))
+At the discretion of the town engineer, a development plan shall include plans for
+erosion and sediment control and for slope stabilization and revegetation. The town
+engineer shall base any decision to require such plans on the size and slope of the
+subject property, the amount of soil and vegetation to be disturbed, the extent to
+which natural topography will be altered and the likelihood of adverse impacts on
+neighboring properties and on the community as a whole.
+A.
+The plan for erosion and sediment control shall be designed to ensure:
+1.
+That natural drainage patterns are preserved, if practical, in a manner that will
+minimize disturbance of natural vegetation and soil cover;
+2.
+That natural drainage patterns are preserved and protected, if practical, from increased
+water flows that may otherwise tend to alter such patterns or subject existing channels
+and adjacent areas to increased erosion;
+3.
+That appropriate consideration of soil types is made in the design of cuts and fills,
+building sites and other land uses; and
+4.
+That drainage structures (for example: retention ponds or detention ponds) are provided
+as necessary to prevent or minimize sedimentation of rivers, streams and drainage
+structures.
+B.
+The following practices shall be incorporated into the plan for erosion and sediment
+control:
+1.
+Minimize "cut" and/or "fill" operations so as to create the least erosion potential;
+2.
+Retain and protect natural vegetation whenever feasible;
+3.
+Minimize the exposed ground area and the duration of exposure;
+4.
+Protect exposed critical areas with temporary vegetation and/or mulching during development;
+5.
+Trap sediment in runoff water by use of debris basins, sediment basins, silt traps
+or similar measures until any disturbed area is stabilized;
+6.
+Prevent surface water from damaging cut and fill slopes;
+7.
+Locate cuts and fills so as not to endanger adjoining property;
+8.
+Avoid fills on natural water courses or constructed channels;
+9.
+Develop the grading plan so that water is not diverted onto the property of another
+landowner unless a written agreement allowing such drainage is received from the other
+landowner; and
+10.
+Exercise measures for dust control during earthwork operations.
+C.
+A plan for slope stabilization and revegetation shall be designed to ensure:
+1.
+That adequate provision is made for revegetation and soil stabilization during and
+after development of the site; and
+2.
+That all cuts and fills are adequately designed, engineered and vegetated to control
+erosion as well as stability of the entire mass.
+D.
+The following practices shall be incorporated into the plan for slope stabilization
+and revegetation:
+1.
+Stabilize disturbed soils as quickly as practicable;
+2.
+Establish and install permanent vegetation and structural erosion control measures
+as soon as practicable;
+3.
+Where cut and fill slopes are to be stabilized with vegetation, design the cut and
+fill to 2:1 grade or less
+4.
+Place and compact fills according to geotechnical engineering recommendations so as
+to minimize sliding or erosion of soil and to provide a stable surface for establishment
+of vegetation; and
+5.
+Reserve topsoil from site and reuse it after final site grading on slopes and other
+critical areas to be stabilized with vegetation.
+E.
+Construction equipment, temporary structures or materials shall be kept out of watercourses
+and drainage features, unless approved by the town and/or any other appropriate agencies;
+F.
+Excavation shall be constructed so that a safe situation for site workers and passers-by
+is maintained at all times;
+G.
+Vegetation, topsoil and other unsuitable materials (as determined by the town administrator
+or his designee) shall be removed from the ground surface prior to fill placement;
+H.
+Adjacent structures and rights-of-way shall be protected against effects of the site
+grading operation;
+I.
+Temporary erosion protection shall be installed prior to grading activities, to the
+extent practical;
+J.
+Dust emissions (wind erosion) shall be controlled at all times;
+K.
+All erosion control devices shall be maintained to function as designed;
+L.
+All topsoil shall be conserved and redistributed on the site, to the extent practical;
+M.
+Storm water drainage shall be discharged from the site in quantities and at velocities
+not to exceed historic levels; and,
+N.
+Should earth material leave the site for any reason, and enter a public right-of-way,
+the lot owner shall clean up such material within seventy-two hours notice to owner
+by the town.
+(Ord. 4-03 § 1 (part); Ord. 18-01 § 1 (part))

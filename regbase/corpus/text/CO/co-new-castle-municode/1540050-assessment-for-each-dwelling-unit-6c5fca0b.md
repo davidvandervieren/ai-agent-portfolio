@@ -1,0 +1,63 @@
+---
+source_id: co-new-castle-municode
+jurisdiction: New Castle, CO
+state: CO
+county: Garfield
+municipality: New Castle
+agency: Town of New Castle
+title: 15.40.050 - Assessment for each dwelling unit.
+doc_type: code
+citation_root: Title 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.40 - RECREATIONAL FACILITIES DEVELOPMENT FEE > 15.40.050 - Assessment for each dwelling unit.
+url: "https://library.municode.com/co/new_castle?nodeId=TIT15BUCO_CH15.40REFADEFE_15.40.050ASEADWUN"
+sha256: 46337085e82bcb14f3cb6ed76b0a0bdee3ace57a0630b312d7c0657b535fca0c
+fetched_at: "2026-09-18T17:30:07+00:00"
+---
+
+The purpose of this chapter is to obtain funding for the development of parks and
+recreational facilities by imposing a recreational facilities development fee, to
+be assessed by the town, upon each new residential dwelling unit constructed in or
+approximate to the town.
+(Prior code § 10-14-010)
+This chapter applies to all residential dwelling units constructed within the corporate
+limits of the town now and hereafter established, as well as to any residential dwelling
+unit constructed outside the corporate limits to which the town agrees, after the
+effective date of the ordinance codified in this chapter, to extend municipal water
+and/or sewer service.
+(Prior code § 10-14-020)
+All funds received under this chapter shall be used solely for the purpose of developing
+and equipping recreational facilities of the town, which purpose shall not include
+the operation and maintenance of such facilities.
+(Prior code § 10-14-030)
+Prior to the issuance of a building permit for any residential structure within the
+corporate limits of the town, or the issuance of a utility connection permit for any
+residential structure outside the corporate limits of the town, the town shall assess
+and collect a recreational facilities development fee for each dwelling unit to be
+constructed. The fee for each dwelling unit shall be set by the town's fee schedule.
+(Ord. 2007-11 § B(20))
+The assessed fee shall be paid by the lot owner at the time of issuance of a building
+permit or utility connection permit, based upon the number of residential dwelling
+units to be constructed on the lot or parcel pursuant to the building permit or the
+number of residential dwelling units to be served with municipal water and/or sewer
+service pursuant to the utility connection permit. No building permit or utility connection
+permit shall be issued for any structure which shall contain one or more dwelling
+units on any lot or parcel unless such fee has been paid for each residential dwelling
+unit.
+(Prior code § 10-14-050)
+The recreational facilities development fee shall be assessed and paid in accordance
+with this chapter regardless of a subdivider's prior dedication of land for public
+purposes, or cash payment in lieu thereof, in connection with the subdivision of the
+lot or parcel upon which the dwelling unit or units are to be constructed, as required
+by the town subdivision regulations set forth in Title 16 .
+(Ord. 2004-3 § 13; prior code § 10-14-060)
+The amount of the recreational facilities development fee may be reviewed by the town
+council upon written recommendation by the town recreation director that the fee be
+increased or decreased based upon the director's determination that the demand for
+recreational facilities or the development costs associated therewith has substantially
+changed. Upon a finding by the town council that a change in the recreational facilities
+development fee is necessary, the fee may be increased or decreased by resolution
+to approximate the costs associated with the development of recreational facilities
+required to meet the needs of the citizens of the town. The town council shall review
+the recreational facilities development fee annually; provided, however, the recreational
+facilities development fee established herein shall remain in effect from year to
+year until revised by town resolution.
+(Ord. 2007-11 § B(20); prior code § 10-14-070)

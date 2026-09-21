@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 20 - PUBLIC WORKS AND UTILITIES > CHAPTER 10. - SOLID WASTE
 url: "https://library.municode.com/co/greeley/codes/municipal_code/330765?nodeId=PTIICOOR_TIT20PUWOUT_CH10SOWA"
 sha256: 4976e5f0988a5890424201f914d2a59fb47fdf8666b6129f7ce904e02e656b08
-fetched_at: "2026-09-17T04:52:00+00:00"
+fetched_at: "2026-09-21T06:33:29+00:00"
 ---
 
 This chapter shall be known as the environmental sanitation code, may be cited as

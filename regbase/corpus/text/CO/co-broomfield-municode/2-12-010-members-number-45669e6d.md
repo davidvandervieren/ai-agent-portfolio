@@ -1,0 +1,53 @@
+---
+source_id: co-broomfield-municode
+jurisdiction: Broomfield County, CO
+state: CO
+county: Broomfield
+agency: City and County of Broomfield Planning & Development Services
+title: 2-12-010 - Members; number.
+doc_type: code
+citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-12 - Personnel Merit Commission > 2-12-010 - Members; number.
+url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-12PEMECO_2-12-010MENU"
+sha256: 30cf2bd1ce78317f716ddfc5c465477a6b16e3476fcb4c100dd7271d83174fc0
+fetched_at: "2026-09-17T15:13:00+00:00"
+---
+
+The personnel merit commission shall be comprised of three regular members and three
+alternate members appointed by the city council.
+(Ord. 264 Art. 1 §1, 1975; Ord. 809 §1, 1989; Ord. No. 2082 , § 1, 12-4-2018)
+( Ord. No. 2211 , § 10, 2-13-2024)
+Editor's note— Ord. No. 2211 , § 11, adopted February 13, 2024, repealed §§ 2-12-020—2-12-040, which pertained
+to personnel merit commission - members, qualifications, term of office, and vacancies,
+and derived from Ord. 264 Art. 1 §§2—4, 1975; Ord. 809 §2, 1989; Ord. 1302 §6, 1998;
+Ord. 1386 §1, 1998; Ord. 1882 §1, 2007; Ord. No. 2064, § 1, 2-13-18; Ord. No. 2082 , § 2, 12-4-2018.
+The commission shall elect a chairman from among its members, whose term shall be
+one year, with eligibility for reelection. The commission shall meet at least once
+annually, at which time a chairman shall be selected. Other meetings shall be called
+by the chairman as often as needed to conduct official business, as identified in
+this chapter. The commission shall also have authority to promulgate rules and regulations,
+as it deems necessary, in order to carry out its stated function, so long as said
+rules and regulations conform to the scope and intent of this chapter.
+(Ord. 264 Art. 2, 1975; Ord. No. 2064, § 1, 2-13-18; Ord. No. 2211 , § 12, 2-13-2024)
+The personnel merit commission may expend such funds as it deems necessary in carrying
+out its functions, as stated in this chapter. The expenditures of the commission shall
+be within the amounts appropriated by the city council on an annual basis, such appropriation
+to provide for the equipment, staff support, and space accommodations as deemed necessary
+by the council. Staff support as to recordkeeping, scheduling of meeting space, and
+provision of necessary supplies shall be coordinated and administered by the city
+manager or his or her designated representative.
+(Ord. 264 Art. 3, 1975)
+The personnel merit commission shall have jurisdiction and final authority to hear
+and determine appeals by any aggrieved employee who has been subject to disciplinary
+action of any kind, as contained within the rules and regulations of the personnel
+merit system.
+(Ord. 264 Art. 4 §1, 1975)
+The commission, in carrying out its function of conducting appellate hearings, shall
+have access to all city documents it deems necessary as well as the authority to compel
+the appearance of and to question witnesses. The commission, upon conclusion of hearings,
+shall issue findings of fact, and shall sustain, mitigate, or reverse the disciplinary
+action in question.
+(Ord. 264 Art. 4 §2, 1975)
+Commissioners shall be subject to removal from office, by a majority vote of the city
+council, for failure to act in a manner so as to fulfill their duties as specified
+in this chapter.
+(Ord. 264 Art. 5, 1975)

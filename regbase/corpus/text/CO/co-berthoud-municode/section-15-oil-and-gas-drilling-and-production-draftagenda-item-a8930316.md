@@ -9,7 +9,7 @@ title: Section 15 - Oil and Gas Drilling and Production (draft/agenda item)
 doc_type: ordinance
 url: "https://www.berthoud.org/AgendaCenter/ViewFile/Item/2067?fileID=4564"
 sha256: a5f62d0de3c99524689ddaf84ec654ed2f89362fc0e0b2d19231998d67e449b0
-fetched_at: "2026-09-10T04:33:56+00:00"
+fetched_at: "2026-09-18T11:38:26+00:00"
 ---
 
 <!-- page: 1 -->

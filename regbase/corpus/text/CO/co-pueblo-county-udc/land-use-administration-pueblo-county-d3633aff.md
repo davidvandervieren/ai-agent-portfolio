@@ -7,8 +7,8 @@ agency: Pueblo County Planning and Development Department
 title: Land Use Administration | Pueblo County
 doc_type: guidance
 url: "https://county.pueblo.org/planning-and-development/land-use-administration"
-sha256: 5ec6104934c1c7f9946cb91d3c6a23b49a8517355f3dab6ca55cd7dee802cbf9
-fetched_at: "2026-09-10T04:33:26+00:00"
+sha256: 6ab89c6123d008142f90f149db90f383f50c625539950a6d02a4be14de643049
+fetched_at: "2026-09-17T16:30:45+00:00"
 ---
 
 <!-- heading-path: Land Use Administration -->

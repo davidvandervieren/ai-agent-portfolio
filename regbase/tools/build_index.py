@@ -605,6 +605,7 @@ def index_documents(con: sqlite3.Connection, sources: list[common.Source],
     stats = {"documents": 0, "with_text": 0, "chunked": 0, "skipped_unchanged": 0,
              "chunks": 0, "missing_text": 0}
     seen_keys: set[tuple[str, str]] = set()
+    seen_bodies: set[tuple[str, str]] = set()
 
     for s in sources:
         for d in s.docs():
@@ -687,6 +688,16 @@ def index_documents(con: sqlite3.Connection, sources: list[common.Source],
                     print(f"  ! skipping {text_p.name}: only {len(body_only)} chars "
                           f"of body - not indexable content", file=sys.stderr)
                 continue
+
+            # Two documents of one source with identical text are the same
+            # chapter reached by two nodes; index it once.
+            body_sha = sha256_file(text_p)
+            dup_key = (s.id, body_sha)
+            if dup_key in seen_bodies:
+                stats["dup_body"] = stats.get("dup_body", 0) + 1
+                con.execute("DELETE FROM chunks WHERE document_id=?", (doc_id,))
+                continue
+            seen_bodies.add(dup_key)
 
             pieces = chunk_document(text)
             con.execute("DELETE FROM chunks WHERE document_id=?", (doc_id,))
@@ -793,6 +804,7 @@ def main(argv: Optional[list[str]] = None) -> int:
     print(f"  text files found  : {stats['with_text']}  "
           f"(re-chunked {stats['chunked']}, unchanged {stats['skipped_unchanged']}"
           + (f", SKIPPED AS TOO THIN {stats['too_thin']}" if stats.get("too_thin") else "")
+          + (f", DUPLICATE BODIES SKIPPED {stats['dup_body']}" if stats.get("dup_body") else "")
           + ")")
     print(f"  chunks            : {q('SELECT COUNT(*) FROM chunks')}"
           f"  (fts rows: {q('SELECT COUNT(*) FROM chunks_fts')})")

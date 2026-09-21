@@ -1,0 +1,135 @@
+---
+source_id: co-loveland-municode
+jurisdiction: Loveland, CO
+state: CO
+county: Larimer
+municipality: Loveland
+agency: City of Loveland
+title: 3.20.020 - Definitions.
+doc_type: code
+citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 3 - REVENUE AND FINANCE > CHAPTER 3.20. - OCCUPATIONAL TAX ON LIQUOR AND BEER > 3.20.020 - Definitions.
+url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT3REFI_CH3.20OCTALIBE_3.20.020DE"
+sha256: a518df2095fe4d11c310dfc4ddeac887a5590c6c413eb6303c209dfc36faaf9e
+fetched_at: "2026-09-18T10:10:58+00:00"
+---
+
+The city council finds, determines and declares that considering the nature of the
+business of selling at retail 3.2% beer, malt, vinous and spirituous liquors for beverage
+purposes, and the relation of such business to the municipal welfare, as well as the
+relation thereof to the expenditures required of the city and a proper, just and equitable
+distribution of tax burdens within the city, and all other matters proper to be considered
+in relation thereto, that the classification of the business as a separate occupation
+is reasonable, proper, uniform and nondiscriminatory and that the amount of tax imposed
+is reasonable, proper, uniform and nondiscriminatory and necessary for a just and
+proper distribution of tax burdens within the city.
+(Prior code § 27.2-3)
+As used in this chapter, the following words or phrases shall have the following meanings:
+Malt liquors includes beer and means any beverage obtained by the alcoholic fermentation of any
+infusion or decoction of barley, malt, hops or any other similar products or any combination
+thereof in water, containing more than 3.2% of alcohol by weight.
+Medicinal liquors means any liquor sold by a duly licensed pharmacist or drug store solely on bona
+fide doctor's prescription.
+Operator means a person licensed by law to sell malt, vinous or spirituous liquors, other
+than medicinal liquors, for beverage purposes at retail and who is engaged at any
+time during the calendar year in such operation within the city.
+Spirituous liquors means any alcoholic beverage obtained by distillation, mixed with water and other
+substances in solution, and includes among other things brandy, rum, whiskey, gin,
+and every liquid or solid, patented or not, containing alcohol and which are fit for
+use for beverage purposes. Any liquid or solid containing beer or wine in combination
+with any other liquor except as above provided shall not be construed to be malt or
+vinous liquors but shall be construed to be spirituous liquor.
+Three and two-tenths percent beer means malt liquor, as herein defined, containing not more than 3.2% of alcohol by
+weight.
+Vinous liquors includes wine and fortified wines not exceeding 21 percent of alcohol by volume and
+means alcoholic beverages obtained by the fermentation of the natural sugar contents
+of fruits or other agricultural produce containing sugar.
+(Prior code § 27.2-1)
+The business of selling at retail, any malt, vinous or spirituous liquor other than
+medicinal liquors, or 3.2% beer, for beverage purposes is defined and separately classified
+as such occupation for the purposes of this chapter as follows:
+A.
+Class "A" Operators. All operators who are licensed to sell beer, wine and spirituous liquors for consumption
+on the premises either as hotels or restaurants are class "A" operators.
+B.
+Class "B" Operators. All operators who are licensed to sell beer, wine and spirituous liquors for consumption
+on the premises as a tavern are class "B" operators.
+C.
+Class "C" Operators. All operators who are licensed to sell malt or vinous liquors only by the drink for
+consumption on the premises are class "C" operators.
+D.
+Class "D" Operators. All operators who are licensed as retail liquor stores to sell in original containers
+malt, vinous or spirituous liquor for consumption off the premises are class "D" operators.
+E.
+Class "E" Operators. All operators licensed as drug stores to sell malt, vinous or spirituous liquors
+in original containers for consumption off the premises, are class "E" operators.
+F.
+Class "F" Operators. All operators licensed to sell malt, vinous or spirituous liquors as clubs are class
+"F" operators.
+G.
+Class "G-1" Operators. All operators licensed to sell only 3.2% beer and who sell the same for consumption
+on the premises are class "G-1" operators.
+H.
+Class "G-2" Operators. All operators licensed to sell only 3.2% beer and who sell the same solely in the
+original package or container for consumption off the premises are class "G-2" operators.
+I.
+Class "G-3" Operators. All operators licensed to sell 3.2% beer and who sell the same for consumption on
+or off the premises are class "G-3" operators.
+J.
+Class "H" Operators. All operators who are licensed as optional premises to sell malt, vinous or spirituous
+liquor by the drink for on-premises consumption.
+(Ord. 3862 § 1, 1992; Ord. 1525 § 1, 1976; prior code § 27.2-2)
+There is levied and assessed upon each person licensed to engage in the business of
+selling 3.2% beer, malt, vinous or spirituous liquor (except medicinal liquors), for
+each license held, an occupation tax in the amount provided by resolution of city
+council.
+(Ord. 3862 § 2, 1992; Ord. 3780 § 1, 1991; Ord. 3691 § 1, 1990; Ord. 1525 § 2, 1976;
+prior code § 27.2-4)
+A.
+Such tax shall be due and payable to the City Clerk on the same date as the liquor
+license renewal fee is due for each license held by an operator, and shall be deemed
+delinquent 30 days after the liquor license renewal date appears in the City's liquor
+license records. Prepayment of said tax may be made in the month preceding the liquor
+license renewal due date.
+B.
+Upon receipt of the tax payment, it shall be the duty of the city clerk to issue an
+occupational tax license or include the name of the operator paying the tax, the date
+of payment, the annual period for which the tax is paid, and the place at which the
+operator conducts business upon a liquor license issued by the Loveland Liquor Licensing
+Authority.
+C.
+The operator shall, at all times during each year, keep the current license posted
+in a conspicuous place in his place of business.
+D.
+No refund shall be made to any person or operator who discontinues business under
+a license before the expiration of the period covered by the tax. In the event the
+ownership of an existing license is transferred to a new licensee or operator during
+any year, the transferred license shall not be considered a new license and no additional
+occupational license tax shall be required in connection with such transfer. Operators
+shall pay the tax for the year 2019 corresponding with the operator's renewal date,
+as specified in Subsection A of this section, in addition to a prorated tax amount,
+as determined by the City Clerk, for each day subsequent to January 1, 2019 until,
+and including, December 31, 2019. All taxes provided for in this Chapter shall be
+due as provided above, except that all taxes provided for in this subsection shall
+be due and payable upon the acquisition and approval of a new liquor license and shall
+be delinquent ten days thereafter. Interest shall accrue on all delinquent taxes from
+the day of delinquency until paid and shall accrue at the rate of one percent per
+month.
+(Ord. No. 6338 , § 1, 9-17-2019; Ord. 6241 § 1, 10-16-2018; Ord. 1525 § 3, 1976; prior code § 27.2-5)
+No delinquency in payment of the tax provided for in this chapter shall be grounds
+for suspension or revocation of any license granted to any such operator by any licensing
+authority pursuant to the statutes enacted by the General Assembly of Colorado, and
+in performance of any duties imposed upon the city council as a licensing authority
+by the statutes, the council shall exclude from consideration any delinquency in payment
+of the tax provided for in this chapter.
+(Prior code § 27.2-6)
+The city has the right to recover all sums due by the terms of this chapter, by judgment
+and execution thereon in a civil action in any court of competent jurisdiction. Such
+remedy shall be cumulative with all other remedies provided in this chapter for the
+enforcement of such payment.
+(Prior code § 27.2-7)
+Failure to comply with the terms of this chapter by payment of taxes, securing and
+posting a receipt therefore, and to otherwise comply with the terms of this chapter,
+constitutes an offense and violation of this Code. A violation for each calendar month
+constitutes a separate offense. But no conviction for such violation shall work a
+revocation of the license of the defendant issued under the laws of the state.
+(Prior code § 27.2-8)

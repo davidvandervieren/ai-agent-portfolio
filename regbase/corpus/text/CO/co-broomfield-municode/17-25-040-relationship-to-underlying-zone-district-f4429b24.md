@@ -1,0 +1,102 @@
+---
+source_id: co-broomfield-municode
+jurisdiction: Broomfield County, CO
+state: CO
+county: Broomfield
+agency: City and County of Broomfield Planning & Development Services
+title: 17-25-040 - Relationship to underlying zone district.
+doc_type: code
+citation_root: TITLE 17 - ZONING > Chapter 17-25 - Neighborhood Overlay Area > 17-25-040 - Relationship to underlying zone district.
+url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-25NEOVAR_17-25-040REUNZODI"
+sha256: 72f567ab4c0a0bc8f69ccefc32cf40f99dac20638204dabfc27e8ff32ee9d1ac
+fetched_at: "2026-09-17T16:05:41+00:00"
+---
+
+It is intended that the neighborhood overlay area be applied primarily to neighborhoods
+which may be subject to development that may not be compatible with the character
+of the existing neighborhood. Within these neighborhoods it is desirable that new
+development complement and enhance the existing neighborhood. It is further intended
+that said designation will encourage and foster development that is compatible with
+the existing neighborhood.
+(Ord. 1548 §1, 2002)
+The reviews, procedures, submission requirements, recording requirements, and other
+requirements of this title 17 shall apply to all properties designated as lying within a neighborhood overlay area,
+except as modified herein.
+(Ord. 1548 §1, 2002)
+(A)
+The following described land is hereby declared to be within a neighborhood overlay
+area:
+The area of land located within the Broomfield Heights Filing No. 1, Amended, Subdivision
+(Recorded June 10, 1955); the Replat of Block 39, Broomfield Heights Filing No. 1,
+Amended; the Broomfield Heights Filing No. 2, Lot 40 Replat; the Broomfield Gardens
+Subdivision; the Broomfield Retail Center, a resubdivision of a portion of Broomfield
+Heights Filing No. 1 as Amended; Broomfield Retail Center Filing No. 3, a resubdivision
+of Broomfield Retail Center Minor Subdivision - Lot 2; Midway Plaza, a replat of Tract
+3, a replat of Block 39-38, Broomfield Heights Filing No. 1 Amended; Nickel Centre
+Subdivision, a Replat of Lot 10 of a Replat of Block 39, Broomfield Heights Filing
+No. 1 Amended; Purslow Subdivision, a Resubdivision of a portion of lots 6 and 8 and
+all of Lot 7, Block 20, Broomfield Heights Filing No. 1 Amended; Oreo Subdivision,
+a Resubdivision of Lots 18 and 19, Block 20, Broomfield Heights Filing No. 1 Amended;
+Main Street Exchange Plat, a Replat of Main Street Exchange.
+(B)
+The land described in subsection (A) above shall be designated as a neighborhood overlay
+area on the zoning map in addition to its underlying zone district.
+(C)
+Other land within the city may be designated as neighborhood overlay area.
+(Ord. 1548 §1, 2002)
+The provisions of the neighborhood overlay area are in addition to the requirements
+of the underlying zone district of a subject property and supersede the zone district
+requirements.
+(Ord. 1548 §1, 2002)
+The following development requirements apply to all proposed residential and commercial
+development within the neighborhood overlay area:
+(A)
+Residential .
+(1)
+Lot coverage for single-family uses. Total lot coverage for all built structures,
+including accessory buildings, attached and detached garages, and the principal residence,
+excluding decks, shall not exceed 2,500 square feet, maximum total footprint, on any
+lot up to 7,000 square feet. On lots greater than 7,000 square feet, lot coverage
+for all built structures, including accessory buildings, attached and detached garages,
+and the principal residence, excluding decks, shall not exceed 35% of the total lot
+area.
+(2)
+Building height principal structure for single-family dwellings and duplexes. The
+height of new construction and/or additions shall not exceed eight feet higher than
+the average building height of the front elevation of the ten closest existing residences
+on the same side of the street, as determined by the side on which the front door
+is located, or twenty-five feet, whichever is less. In establishing the average height
+of the front elevation of the ten closest homes, the height of existing homes shall
+be measured as defined in section 17-04-045 , B.M.C. In administering this provision the building department may establish heights
+for prototypical house types.
+(3)
+Building height accessory structure. New accessory structures or additions to existing
+accessory structures within the building setback for the principal residence shall
+not exceed the height of the existing principal residence, or twenty-five feet, whichever
+is less. New accessory structures or additions to existing accessory structures outside
+of the setback of the principal residence shall not exceed the height of the existing
+residence or eighteen feet, whichever is less.
+(4)
+Roof framing. Roof framing (hip, gable, gambrel, flat) on new construction and/or
+additions shall be of a type found on another residence on either side of the block
+on which the structure is located.
+(5)
+Building materials. The combined exterior wall surfaces on residences and attached
+or detached garages shall not be less than 50% masonry for the entire structure, excluding
+doors and windows. Walls facing the street must be at least 50% masonry. Masonry materials
+credited towards this requirement are brick, stucco, flagstone and river rock/cobble.
+Second story additions to existing residences and gable ends are exempt from this
+requirement and not included when calculating the fifty percent minimum requirement.
+(6)
+Landscaping. Any addition to an existing residence below the redevelopment threshold
+defined in section 17-70-020 shall include the installation of at least one tree to be located in the front yard.
+If feasible, based on slope, existing vegetation, or other conditions, said tree shall
+be located adjacent to the sidewalk. If the existing tree canopy, as determined by
+the planning director, will not allow an additional tree, no such tree shall be required.
+(B)
+Commercial .
+Four-sided architecture. Facades for all new commercial and office buildings visible
+from adjacent properties and/or adjacent public rights-of-way shall integrate architectural
+details into the facade to enhance the appearance of exterior wall surfaces.
+(Ord. 1548 §1, 2002)
+( Ord. No. 2215 , § 6, 8-22-23)

@@ -1,0 +1,115 @@
+---
+source_id: co-thornton-municode
+jurisdiction: Thornton, CO
+state: CO
+county: Adams
+municipality: Thornton
+agency: City of Thornton
+title: Sec. 10-4. - Interpretation of Building Code; conflicts.
+doc_type: code
+citation_root: Chapter 10 - BUILDING CODE > ARTICLE I. - IN GENERAL > Sec. 10-4. - Interpretation of Building Code; conflicts.
+url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CO_CH10BUCO_ARTIINGE_S10-4INBUCOCO"
+sha256: fa149c00ce6335055e31182a662e2dc1b5e4360c927895bc7e1060dd20960212
+fetched_at: "2026-09-18T13:27:58+00:00"
+---
+
+This Building Code shall extend to and govern the following:
+(1)
+The construction, addition, alteration, repair, demolition, conversion, removal, moving,
+occupancy and maintenance of any building, structure or private utility hereafter
+erected.
+(2)
+The alteration, addition, repair, demolition, removal, moving, change of occupancy
+and maintenance of any existing building, structure or private utility heretofore
+erected.
+(Code 1975, § 44-10; Ord. No. 1530, 2-10-86; Ord. No. 2384, § 3, 11-27-95)
+For the purpose of this chapter, words, phrases and terms defined in this section
+shall be given the defined meanings and shall be applicable for this Chapter 10 . Words, phrases and terms defined neither in this section nor in this Building Code
+shall be given their usual and customary meanings. Words, phrases and terms shown
+in italics in the body of a paragraph are defined in the building codes. The text
+of the Building Code shall control captions, titles and maps.
+Abandon or abandoned means the desertion of a building, structure or utility and when all utilities are
+disconnected and/or the building, structure or utility is left to the mercy of vandalism,
+dilapidation and deterioration and creates a fire hazard, an unsafe condition or a
+nuisance.
+Building code means the total content of this chapter, together with the contents of the primary
+and secondary codes adopted by this chapter.
+Building department means one and the same in all respects as the building inspection division as used
+in this chapter and elsewhere in city communications and documents, and the two phrases
+shall be used interchangeably.
+Building official means the city's designated chief building official or designee.
+Building permit means the official city document authorizing construction activity under the primary
+and secondary codes.
+Dangerous Building Code when used herein, refers to the latest edition of the Uniform Code for the Abatement
+of Dangerous Buildings, as published by the International Code Council, and as adopted
+in Section 10-159 , and amended in Section 10-159.1 .
+Deterioration, as applied to buildings, structures, equipment and materials, includes corrosion,
+decay, wear and tear through abuse, obsolescence, effects of the elements, fire damage,
+lack of maintenance or by any other cause and also includes fatigue due to overstressing,
+disintegration of the component parts of a building, structure and equipment and the
+separation of materials and structural parts.
+Fire department means the Thornton Fire Department as used in this chapter.
+Homeowner shall mean the individual shown as having record title of any building or structure
+as shown in the official records of the Adams County Clerk and Recorder.
+IBC means the latest edition of the International Building Code, as published by the
+International Code Council, and as adopted in Section 10-151 and amended in Section 10-152 .
+IEBC means the latest edition of the International Existing Building Code, as published
+by the International Code Council, and as adopted in Section 10-176 and amended in Section 10-177 .
+IECC means the latest edition of the International Energy Conservation Code, as published
+by the International Code Council, and as adopted in Section 10-174 and amended in Section 10-175 .
+IFC means the latest edition of the International Fire Code, as published by the International
+Code Council, and as adopted in Section 10-160 and amended in section 10-161 .
+IFGC means the latest edition of the International Fuel Gas Code, as published by the
+International Code Council, and as adopted in Section 10-157 and amended in Section 10-158 .
+IMC means the latest edition of the International Mechanical Code, as published by the
+International Code Council, and as adopted in Section 10-155 and amended in Section 10-156 .
+IPC means the latest edition of the International Plumbing Code, as published by the
+International Code Council, and as adopted in Section 10-153 and amended in Section 10-154 .
+IRC means the latest edition of the International Residential Code, as published by the
+International Code Council, and as adopted in Section 10-164 and amended in Section 10-165 .
+ISPSC means the latest edition of the International Swimming Pool and Spa Code, as published
+by the International Code Council, and as adopted in Section 10-179 and amended in Section 10-180 .
+Local health department means as defined in Section 1-2 .
+NEC means the latest edition of the National Electric Code, as published by the National
+Fire Protection Association, and as adopted in Section 10-162 and amended in Section 10-163 .
+Premises shall mean the building together with its grounds and other appurtenances and improvements.
+Principal residence shall mean, for an individual, the residence as determined by the address given by
+the individual and shall be the location where the individual(s) habitation is fixed
+and to which that individual, whenever absent, has the present intention of returning
+after departure or absence regardless of the duration of such absence. In determining
+principle residence, the following circumstances shall be considered: voter registration
+address, motor vehicle registration address (as applicable), and or the address given
+for state income tax purposes.
+Structure means an assembly of materials forming a construction for occupancy and includes,
+but is not limited to, buildings, stadiums, tents, reviewing stands, platforms, stagings,
+observation towers, radio and television towers, water tanks, swimming and wading
+pools, retaining walls, open sheds, coal bins, shelters, fences and display signs.
+This definition shall not include utilities.
+Utility, private includes, but is not limited to, streets, drainage, water, sewer, electricity, and/or
+gas, which is not an approved franchise, or not a city, county, state, or federally
+owned utility.
+Utility, public means one which is authorized to be franchised by an affirmative vote of the people
+as is necessary to fulfill the obligations as indicated by such authorization or franchise,
+or any city, county or federally owned utility.
+(Code 1975, § 44-4(b); Ord. No. 1530, 2-10-86; Ord. No. 2203, §§ 2, 3, 10-12-92; Ord.
+No. 2384, § 2, 11-27-95; Ord. No. 2731, § 1, 10-8-02; Ord. No. 3136, § 1, 7-13-10;
+Ord. No. 3252, § 1, 7-23-13; Ord. No. 3398, § 1, 8-23-16; Ord. No. 3666, § 3, 9-26-23)
+Cross reference— Definitions generally, § 1-2 .
+Pursuant to the authority conferred by Section 2-55 (b) of the Code, this Building Code is enacted for the preservation and promotion
+of the public peace and for the preservation and promotion of the convenience, good
+order, tranquility, prosperity, happiness, morals, best interests and general welfare
+of the people and to establish minimum standards of design, materials and workmanship
+for all buildings and structures erected, altered or repaired and to establish methods
+of moving or wrecking of buildings within the city limits.
+The primary and secondary codes and referenced standards or regulations contained
+therein, as adopted in Article IV of this Building Code shall be considered part of
+this Building Code and the provisions of Articles I, II and III of this Building Code
+shall be applicable to all primary and secondary codes adopted by reference in Article
+IV.
+(Code 1975, § 44-1; Ord. No. 1530, 2-10-86; Ord. No. 3136, § 1, 7-13-10)
+If there are any conflicts between the provisions of any of the sections of this Building
+Code, the more restrictive of the several provisions or requirements shall govern.
+(Code 1975, § 44-3; Ord. No. 1530, 2-10-86; Ord. No. 3136, § 1, 7-13-10)
+Editor's note— Ord. No. 3136, § 1, adopted July 13, 2010, repealed § 10-5 which pertained to suspension
+or revocation of privileges not considered penalty and derived from § 44-48 of the
+1975 Code, and Ord. No. 1530, adopted Feb. 10, 1986.
