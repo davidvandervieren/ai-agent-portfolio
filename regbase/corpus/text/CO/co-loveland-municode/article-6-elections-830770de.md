@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE 6. - ELECTIONS
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTICH_ART6EL"
 sha256: d7283d3a6fce2b4bff8f03fbb7f77de40ff150bbe0a704d0ddb95bcd485e6eb7
-fetched_at: "2026-09-18T10:01:47+00:00"
+fetched_at: "2026-09-23T00:38:48+00:00"
 ---
 
 City elections shall be governed by the State statutes contained in the Colorado Municipal

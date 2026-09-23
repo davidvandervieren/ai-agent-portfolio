@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15-16 - International Fire Code > 15-16-010 - Amendments to the International Fire Code.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT15BUCO_CH15-16INFICO_15-16-010AMINFICO"
 sha256: 8306482f2d91bc6ca300163ab45bf16e7123867b03309fdaa1d1111a47e903df
-fetched_at: "2026-09-17T15:54:16+00:00"
+fetched_at: "2026-09-21T20:02:52+00:00"
 ---
 
 The following amendments are hereby made to the 2024 International Fire Code which

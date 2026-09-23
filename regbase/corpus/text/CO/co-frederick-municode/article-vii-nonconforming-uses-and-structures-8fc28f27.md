@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE VII - Nonconforming Uses and Structures
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTVIINOUSST"
 sha256: fdcbc0934b2c84ad75d0cf113178063e6d68f251223af43ba132114a1092412d
-fetched_at: "2026-09-18T05:56:01+00:00"
+fetched_at: "2026-09-22T02:29:53+00:00"
 ---
 
 Editor's note— Weld County Code Ordinance 2019-02 , adopted July 10, 2019, amended article VII in its entirety to read as herein set

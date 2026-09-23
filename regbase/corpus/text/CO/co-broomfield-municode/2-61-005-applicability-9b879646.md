@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-61 - Boards and Commission General Rules > 2-61-005 - Applicability.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-61BOCOGERU_2-61-005AP"
 sha256: bfca5e3ee10604765327677741dc9ecbfdd57a81d5d961b83f40d61ed103fec2
-fetched_at: "2026-09-17T15:21:25+00:00"
+fetched_at: "2026-09-21T19:30:04+00:00"
 ---
 
 Editor's note— Ord. No. 2211 , § 1, adopted February 13, 2024, amended the title of ch. 2-61 to read as herein

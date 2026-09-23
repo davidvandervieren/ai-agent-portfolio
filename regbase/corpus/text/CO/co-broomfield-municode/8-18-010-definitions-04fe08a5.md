@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8-18 - Open Burning Restrictions > 8-18-010 - Definitions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT8HESA_CH8-18OPBURE_8-18-010DE"
 sha256: 250fb87736432aba00fa23fcc4d48875f70a27ceffcbbf6f20c70f24f93ed0be
-fetched_at: "2026-09-17T15:39:58+00:00"
+fetched_at: "2026-09-21T19:48:43+00:00"
 ---
 
 (A)

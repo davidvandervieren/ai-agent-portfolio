@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > Article 13 - Town Finances and Borrowing > 13.01 - Fiscal Year.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=HORUCH_ART13TOFIBO_13.01FIYE"
 sha256: bf16b5ffb164d52c8ee578cb7ae3a0f8fe39eaa251424e5f21c9827791a518a9
-fetched_at: "2026-09-18T03:52:28+00:00"
+fetched_at: "2026-09-22T00:28:42+00:00"
 ---
 
 The fiscal year of the Town, and all of its agencies, shall begin on the first (1 st ) day of January and end on the thirty-first (31 st ) day of December of each year.

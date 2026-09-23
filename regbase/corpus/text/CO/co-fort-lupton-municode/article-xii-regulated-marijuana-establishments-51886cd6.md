@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE XII - Regulated Marijuana Establishments
 url: "https://library.municode.com/co/fort_lupton/codes/municipal_code?nodeId=CH6BULIRE_ARTXIIREMAES"
 sha256: e80d16342cad5244e072f3d0088436731311cd41f421ce258db94c60cb908213
-fetched_at: "2026-09-18T07:03:47+00:00"
+fetched_at: "2026-09-22T03:07:02+00:00"
 ---
 
 (a)

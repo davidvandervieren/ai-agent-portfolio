@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration > ARTICLE XVI - Emergency Management
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH2AD_ARTXVIEMMA"
 sha256: beea36f8b8770da925d23bcde2fb99a4623133d7e418864bba58db9f95d723c6
-fetched_at: "2026-09-17T13:27:48+00:00"
+fetched_at: "2026-09-21T17:39:03+00:00"
 ---
 
 For the purposes of this Article, certain terms or words used herein shall be interpreted

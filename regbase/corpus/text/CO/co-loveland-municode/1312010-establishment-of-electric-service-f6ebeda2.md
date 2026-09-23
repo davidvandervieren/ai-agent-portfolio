@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 13 - UTILITIES > CHAPTER 13.12. - ELECTRICITY > 13.12.010 - Establishment of electric service.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT13UT_CH13.12EL_13.12.010ESELSE"
 sha256: 6e9b7bb0d997784be6b20bfb0bea823d7f9261dfcb74609e30d419d2b139e4bc
-fetched_at: "2026-09-18T10:33:00+00:00"
+fetched_at: "2026-09-23T01:09:52+00:00"
 ---
 
 Note— All cross-references to such sections in the Loveland Municipal Code shall be updated

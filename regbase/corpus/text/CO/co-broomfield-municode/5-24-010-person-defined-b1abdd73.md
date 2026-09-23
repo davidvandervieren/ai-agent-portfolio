@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5-24 - Residential Route Deliveries Tax > 5-24-010 - Person defined.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5-24RERODETA_5-24-010PEDE"
 sha256: 988c498eb004b03b44591036e172b6d25ae3732f4a1d6636af329e4826b19f58
-fetched_at: "2026-09-17T15:29:36+00:00"
+fetched_at: "2026-09-21T19:38:19+00:00"
 ---
 
 Person , as used in this chapter, means domestic and foreign corporations, associations,

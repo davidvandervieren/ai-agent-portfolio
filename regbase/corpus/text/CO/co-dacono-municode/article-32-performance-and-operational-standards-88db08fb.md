@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Zoning > ARTICLE 32 - Performance and Operational Standards
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CH16ZO_ART32PEOPST"
 sha256: c031fa4f5d6db26ce495e20a039b84f56a9beb2048f5551ec250a65f795ee31e
-fetched_at: "2026-09-18T06:13:50+00:00"
+fetched_at: "2026-09-22T02:50:34+00:00"
 ---
 
 The purpose of the performance and operational standards set forth in this Article

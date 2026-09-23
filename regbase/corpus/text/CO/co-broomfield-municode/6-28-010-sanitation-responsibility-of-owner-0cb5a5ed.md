@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 6 - ANIMALS > Chapter 6-28 - Sanitation > 6-28-010 - Sanitation; responsibility of owner.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT6AN_CH6-28SA_6-28-010SAREOW"
 sha256: e634cebf8ffe096a37d329bc29d4a209f17ce86913f922d981ee0f1a4266757a
-fetched_at: "2026-09-17T15:36:08+00:00"
+fetched_at: "2026-09-21T19:44:53+00:00"
 ---
 
 (A)

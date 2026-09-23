@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration > ARTICLE III - Planning and Zoning Matters
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH2AD_ARTIIIPLZOMA"
 sha256: b0d10d9b5eebe0c4cacfded49294bc10a24d9b6049023b84a360c856b37912ab
-fetched_at: "2026-09-17T13:27:22+00:00"
+fetched_at: "2026-09-21T17:38:36+00:00"
 ---
 
 A.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF DACONO HOME RULE CHARTER > ARTICLE XIV - Definitions
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CIDAHORUCH_ARTXIVDE"
 sha256: 168c12b509b601814f32121aefd25f28a4538d6799292e53b3ed5a4d4e37f5ef
-fetched_at: "2026-09-18T06:13:14+00:00"
+fetched_at: "2026-09-22T02:46:34+00:00"
 ---
 
 As used in this Charter, the following terms shall have the following meanings, except

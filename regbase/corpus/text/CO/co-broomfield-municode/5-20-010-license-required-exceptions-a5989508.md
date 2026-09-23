@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5-20 - Solicitors > 5-20-010 - License; required; exceptions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5-20SO_5-20-010LIREEX"
 sha256: 79bb10a408814d9006f4ecf45bca3bfc186676c1e6cd4ab269f77b07c4f2998b
-fetched_at: "2026-09-17T15:29:07+00:00"
+fetched_at: "2026-09-21T19:37:51+00:00"
 ---
 
 Editor's note— Ord. No. 2087, § 1, adopted June 11, 2019 renamed ch. 5-20 as herein set out. Previously

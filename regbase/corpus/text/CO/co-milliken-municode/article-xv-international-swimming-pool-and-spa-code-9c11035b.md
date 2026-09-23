@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE XV - International Swimming Pool and Spa Code
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH18BURE_ARTXVINSWPOSPCO"
 sha256: 07ac732a758c4f61ffb046f5e0f6e0197a8411626745c573511a2e04a71fee01
-fetched_at: "2026-09-18T11:10:29+00:00"
+fetched_at: "2026-09-23T01:47:54+00:00"
 ---
 
 Pursuant to Title 31, Article 16, Part 2, C.R.S., The International Swimming Pool

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 22 - Comprehensive Plan > ARTICLE II - Principles, Goals, and Objectives
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH22COPL_ARTIIPRGOOB"
 sha256: a460f57b1cae2bcb933a3464aec25834ae1947186fd34e74dc8bf299e72ac99d
-fetched_at: "2026-09-18T05:55:44+00:00"
+fetched_at: "2026-09-22T02:29:43+00:00"
 ---
 
 Editor's note— Weld County Code Ordinance 2020-13 , adopted November 9, 2020, repealed the former Ch. 22, §§ 22-1-10, 22-1-20, 22-1-100—22-1-150,

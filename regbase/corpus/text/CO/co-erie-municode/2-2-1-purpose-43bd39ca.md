@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 2 - REVENUE AND FINANCE > Chapter 2. - BUSINESS AND OCCUPATION LICENSES > 2-2-1 - Purpose.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT2REFI_CH2BUOCLI_2-2-1PU"
 sha256: 7bdb63f08086e41d4881c65b97bcb3037be99a7fab95267b66b5810b725b9090
-fetched_at: "2026-09-18T03:56:57+00:00"
+fetched_at: "2026-09-22T00:33:10+00:00"
 ---
 
 The purpose of this chapter is to provide for the regulation and licensing of all

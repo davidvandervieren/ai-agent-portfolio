@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO > ARTICLE XVI - GENERAL PROVISIONS
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO_ARTXVIGEPR"
 sha256: ab06f259c96b4e7596c1d9af35b24ca273fda0aefc0e6b18b5671b78aa24723f
-fetched_at: "2026-09-18T05:48:56+00:00"
+fetched_at: "2026-09-22T02:25:46+00:00"
 ---
 
 The Board shall provide for continuity of government in the event of a disaster. It

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE VI - Gas Franchise
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH5FRCOSY_ARTVIGAFR"
 sha256: 43f80fe6cbe40b3736f7f0d8493120d47e315bdbef2b9448d02cd2f2f369d860
-fetched_at: "2026-09-18T11:08:34+00:00"
+fetched_at: "2026-09-23T01:45:59+00:00"
 ---
 
 For the purpose of this Article, the following words and phrases shall have the meanings

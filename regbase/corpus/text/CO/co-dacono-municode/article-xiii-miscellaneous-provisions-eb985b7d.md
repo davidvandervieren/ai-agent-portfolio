@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF DACONO HOME RULE CHARTER > ARTICLE XIII - Miscellaneous Provisions
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CIDAHORUCH_ARTXIIIMIPR"
 sha256: 3edc10878b82980438ad5dd3eda4a897cea303fc922461f3c9c8ca1494af22b1
-fetched_at: "2026-09-18T06:13:12+00:00"
+fetched_at: "2026-09-22T02:46:32+00:00"
 ---
 
 (a)

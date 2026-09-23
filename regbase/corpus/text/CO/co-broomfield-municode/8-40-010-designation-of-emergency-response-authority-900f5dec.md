@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8-40 - Emergency Response Authority > 8-40-010 - Designation of emergency response authority.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT8HESA_CH8-40EMREAU_8-40-010DEEMREAU"
 sha256: 354b243623e9379f14c32971f11a1c9a8fe332063e85e76e750c0334e1944393
-fetched_at: "2026-09-17T15:40:59+00:00"
+fetched_at: "2026-09-21T19:49:49+00:00"
 ---
 
 The North Metro Fire Rescue District is hereby designated as the emergency response

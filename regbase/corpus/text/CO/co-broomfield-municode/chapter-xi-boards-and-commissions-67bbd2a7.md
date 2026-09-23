@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER XI - BOARDS AND COMMISSIONS
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHXIBOCO"
 sha256: 7f73094290351e802f80df3ecd43061c501d17b86c054fd141eb886f87284370
-fetched_at: "2026-09-17T15:10:24+00:00"
+fetched_at: "2026-09-21T19:18:40+00:00"
 ---
 
 All existing Boards and Commissions shall continue as established by ordinance, except

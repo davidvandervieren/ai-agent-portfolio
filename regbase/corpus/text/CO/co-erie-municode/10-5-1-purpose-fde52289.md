@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 10 - UNIFIED DEVELOPMENT CODE > Chapter 5. - SUBDIVISION STANDARDS, DESIGN, AND IMPROVEMENTS > 10-5-1 - Purpose.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT10UNDECO_CH5SUSTDEIM_10-5-1PU"
 sha256: e99346259d0e7acd442aa3868f3bff307f7a1eeb9c649592546e89919e9a7860
-fetched_at: "2026-09-18T04:13:27+00:00"
+fetched_at: "2026-09-22T00:49:32+00:00"
 ---
 
 Editor's note— Ord. No. 03-2022 , § 1(Attch.), adopted Jan. 11, 2022, repealed ch. 5, §§ 10-5-1—10-5-6, and reenacted

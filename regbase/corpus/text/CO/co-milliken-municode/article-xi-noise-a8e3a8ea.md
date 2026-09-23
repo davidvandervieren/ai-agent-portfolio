@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE XI - Noise
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH10GEOF_ARTXINO"
 sha256: b8495af1020bf2bb3b37cdd120bd774177d6923a9d10c65ef6e69a0e335358a0
-fetched_at: "2026-09-18T11:09:28+00:00"
+fetched_at: "2026-09-23T01:46:53+00:00"
 ---
 
 No person shall make, continue or cause to be made any excessive or unusually loud

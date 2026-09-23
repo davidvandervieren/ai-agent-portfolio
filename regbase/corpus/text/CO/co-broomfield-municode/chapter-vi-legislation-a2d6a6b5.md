@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER VI - LEGISLATION
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHVILE"
 sha256: 5866d5b5dc9a607e7ae21eab3ba0f75ee007787d34e2a162f2f601cd8da0681f
-fetched_at: "2026-09-17T15:10:14+00:00"
+fetched_at: "2026-09-21T19:18:30+00:00"
 ---
 
 (a)

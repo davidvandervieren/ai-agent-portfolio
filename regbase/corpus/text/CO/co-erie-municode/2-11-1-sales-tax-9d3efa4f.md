@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 2 - REVENUE AND FINANCE > Chapter 11. - SALES AND USE TAX > 2-11-1 - Sales tax.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT2REFI_CH11SAUSTA_2-11-1SATA"
 sha256: 40243cb39deca947eee65061b8187c9807bfa5dd848cde928e62a131323e63e4
-fetched_at: "2026-09-18T03:58:07+00:00"
+fetched_at: "2026-09-22T00:34:21+00:00"
 ---
 
 A.

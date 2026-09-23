@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.170 - Audit of franchise fee payments.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.170AUFRFEPA"
 sha256: f4d521a4f51b1e4059f0a4d5511c9beaf7be9c3985a9c86d80ca7c3ddcb519b7
-fetched_at: "2026-09-18T05:20:17+00:00"
+fetched_at: "2026-09-22T01:56:52+00:00"
 ---
 
 A.

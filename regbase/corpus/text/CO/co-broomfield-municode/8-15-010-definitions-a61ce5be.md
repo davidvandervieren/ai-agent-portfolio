@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8-15 - Burning Restrictions > 8-15-010 - Definitions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT8HESA_CH8-15BURE_8-15-010DE"
 sha256: 7197adfbc90952cdb8921bfe54fb66ea8ed7019d3d7b5c27cb3ceb40942bf8f8
-fetched_at: "2026-09-17T15:38:57+00:00"
+fetched_at: "2026-09-21T19:47:42+00:00"
 ---
 
 The following words and phrases shall have the indicated meanings:

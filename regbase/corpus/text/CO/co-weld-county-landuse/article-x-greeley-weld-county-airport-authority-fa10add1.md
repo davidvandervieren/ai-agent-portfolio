@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration > ARTICLE X - Greeley-Weld County Airport Authority
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH2AD_ARTXGRLDCOAIAU"
 sha256: 14b16ad403febd7a66cf21348357e4010b15856378b754e2869246f28a4ab9e5
-fetched_at: "2026-09-17T13:27:36+00:00"
+fetched_at: "2026-09-21T17:38:50+00:00"
 ---
 
 A.

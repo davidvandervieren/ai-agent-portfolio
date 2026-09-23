@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5-29 - Tobacco Product Licensing > 5-29-010 - Legislative intent.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5-29TOPRLI_5-29-010LEIN"
 sha256: 50888ea752da3da0c989adc2b1fa1b0c3a958965191217b5433aecd529139296
-fetched_at: "2026-09-17T15:30:41+00:00"
+fetched_at: "2026-09-21T19:39:25+00:00"
 ---
 
 The purpose of this chapter is to protect the health, safety, and welfare of Broomfield

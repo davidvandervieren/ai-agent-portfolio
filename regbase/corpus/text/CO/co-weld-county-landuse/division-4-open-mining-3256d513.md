@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IV - Supplementary District Regulations and Zoning Permits > Division 4 - Open Mining
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIVSUDIREZOPE_DIV4OPMI"
 sha256: 0081fd1326b07513c15d51a7ebca8bdec50e29e0280a6b9e46ad1cc267e7bf3e
-fetched_at: "2026-09-17T13:38:39+00:00"
+fetched_at: "2026-09-21T17:46:11+00:00"
 ---
 
 The applicant shall submit three (3) paper copies of the plat for preliminary approval

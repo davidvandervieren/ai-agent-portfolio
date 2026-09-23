@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5.20 - Contractors, Subcontractors, and Tradesmen > 5.20.010 - License required.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5.20COSUTR_5.20.010LIRE"
 sha256: e66dbeb7d7ba1463da08709cb262d68260fb488efe3f4b0ff6b101339f1b5ec6
-fetched_at: "2026-09-18T05:05:52+00:00"
+fetched_at: "2026-09-22T01:42:15+00:00"
 ---
 
 It is unlawful for any person, partnership, association, firm, corporation, or other

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.1040 - Accrued liabilities.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.1040ACLI"
 sha256: 8fe7fb48d1a89bf11175fcbff56d0a42b9740e86a75d50d9ca29296b914c085f
-fetched_at: "2026-09-18T05:23:14+00:00"
+fetched_at: "2026-09-22T01:59:53+00:00"
 ---
 
 The repeal or of any provision of the Firestone Municipal Code of the Town of Firestone

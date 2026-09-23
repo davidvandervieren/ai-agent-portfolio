@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO > ARTICLE VIII - COUNTY CLERK
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO_ARTVIIICOCL"
 sha256: cb30e41ec464c675ec967d434f6e4592bdd4ac3cb15c74059eef94adfec1d2b6
-fetched_at: "2026-09-17T13:26:45+00:00"
+fetched_at: "2026-09-21T17:38:01+00:00"
 ---
 
 The County Clerk shall execute to the people of the State of Colorado, and file in

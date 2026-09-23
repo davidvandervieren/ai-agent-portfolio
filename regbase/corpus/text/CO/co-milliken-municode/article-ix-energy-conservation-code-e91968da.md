@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE IX - Energy Conservation Code
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH18BURE_ARTIXENCOCO"
 sha256: 047a75d6bd40fa54b84a2bd7ac34252253c9c847ce8888a61058a163e68dcf2f
-fetched_at: "2026-09-18T11:10:17+00:00"
+fetched_at: "2026-09-23T01:47:42+00:00"
 ---
 
 Pursuant to Title 31, Article 16, Part 2, C.R.S., the International Energy Conservation

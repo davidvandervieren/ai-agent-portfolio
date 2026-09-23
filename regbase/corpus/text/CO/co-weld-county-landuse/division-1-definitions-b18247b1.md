@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 14 - Health and Animals > ARTICLE VI - Domestic Septage > Division 1 - Definitions
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH14HEAN_ARTVIDOSE_DIV1DE"
 sha256: f4efa827e4b9767894d0e0ac36f3625656fd0e8d18f4bdc8eb9f1c8870da4bd4
-fetched_at: "2026-09-17T13:36:42+00:00"
+fetched_at: "2026-09-21T17:44:24+00:00"
 ---
 
 As used herein, the following words have the following meanings:

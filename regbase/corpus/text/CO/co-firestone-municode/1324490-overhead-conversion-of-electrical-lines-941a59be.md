@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.490 - Overhead conversion of electrical lines.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.490OVCOELLI"
 sha256: e756e9193678bbcc1f022ca50b7157a0771a39b51eaf9569e2aba87526fde069
-fetched_at: "2026-09-18T05:21:22+00:00"
+fetched_at: "2026-09-22T01:57:57+00:00"
 ---
 
 United Power agrees to allocate an annual amount, equivalent to one and one-half percent

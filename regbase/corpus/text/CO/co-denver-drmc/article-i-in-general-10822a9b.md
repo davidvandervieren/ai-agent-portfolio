@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 13 - COUNCIL—LEGISLATION > ARTICLE I. - IN GENERAL
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH13COEG_ARTIINGE"
 sha256: c6fa4d6bba443b56e68c144875418305236f6aa8648f3f112a0726faace0c141
-fetched_at: "2026-09-17T23:28:52+00:00"
+fetched_at: "2026-09-21T21:31:26+00:00"
 ---
 
 Editor's note— Ord. No. 572-21, § 6, adopted July 19, 2021, repealed ch. 13, arts. I—IV, §§ 13-1—13-15,

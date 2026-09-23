@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER III - ELECTIONS
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHIIIEL"
 sha256: d70f3f6ef540c347325bd988a36b87521eae324783c952f330e2461dbcd05269
-fetched_at: "2026-09-17T15:10:08+00:00"
+fetched_at: "2026-09-21T19:18:24+00:00"
 ---
 
 All elections shall be governed by the Title 1 of the Colorado Revised Statutes as

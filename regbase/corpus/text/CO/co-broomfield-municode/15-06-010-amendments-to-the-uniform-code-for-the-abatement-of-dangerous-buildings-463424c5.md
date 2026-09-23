@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15-06 - Uniform Code for the Abatement of Dangerous Buildings > 15-06-010 - Amendments to the Uniform Code for the Abatement of Dangerous Buildings.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT15BUCO_CH15-06UNCOABDABU_15-06-010AMUNCOABDABU"
 sha256: f317bda74dd9bb71d0c536178791724dd9ff86a74ec876a75df92b06e265635f
-fetched_at: "2026-09-17T15:53:44+00:00"
+fetched_at: "2026-09-21T20:02:20+00:00"
 ---
 
 The following amendments are hereby made to the Uniform Code for the Abatement of

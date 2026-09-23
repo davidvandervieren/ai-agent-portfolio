@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.08 - National Electric Code > 15.08.010 - Adoption of the National Electrical Code.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT15BUCO_CH15.08NAELCO_15.08.010ADNAELCO"
 sha256: 5157e09a66ec072b88cf2288e2d598d03fd1b43f171ab78cc47a4491ab85ea0c
-fetched_at: "2026-09-18T05:25:52+00:00"
+fetched_at: "2026-09-22T02:02:31+00:00"
 ---
 
 Sections

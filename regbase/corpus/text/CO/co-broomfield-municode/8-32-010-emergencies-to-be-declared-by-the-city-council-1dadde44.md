@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8-32 - Water Emergencies > 8-32-010 - Emergencies to be declared by the city council.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT8HESA_CH8-32WAEM_8-32-010EMBEDECO"
 sha256: 248e38cfa530a5fa0b5110993fa2a1af2aa92b2b575833393309257616a9c036
-fetched_at: "2026-09-17T15:40:41+00:00"
+fetched_at: "2026-09-21T19:49:28+00:00"
 ---
 
 Whenever, in the judgment of city council, there exists a serious water shortage of

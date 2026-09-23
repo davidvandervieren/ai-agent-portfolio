@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15-07 - Colorado Low Energy and Carbon Code > 15-07-010 - Amendments to the Colorado Low Energy and Carbon Code.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT15BUCO_CH15-07COLOENCACO_15-07-010AMCOLOENCACO"
 sha256: 0534e34cb23e2bd64df0360cddcac9312b099a2642d6ce49620672b108fc27a3
-fetched_at: "2026-09-17T15:53:46+00:00"
+fetched_at: "2026-09-21T20:02:22+00:00"
 ---
 
 Editor's note— Ord. No. 2295 , § 4, adopted February 24, 2026, repealed the former Ch. 15-07, § 15-07-010, and

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IV - Supplementary District Regulations and Zoning Permits > Division 10 - Antennas and Towers
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIVSUDIREZOPE_DIV10ANTO"
 sha256: 9e3a1ef84d8337c40d4ad3e0cf3ed220b87192505ae374441613daae357d5f6c
-fetched_at: "2026-09-17T13:38:51+00:00"
+fetched_at: "2026-09-21T17:46:22+00:00"
 ---
 
 The purpose of this Division is to accommodate the increasing wireless communication

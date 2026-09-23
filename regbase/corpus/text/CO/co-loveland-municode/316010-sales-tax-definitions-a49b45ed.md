@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 3 - REVENUE AND FINANCE > CHAPTER 3.16. - SALES AND USE TAX > 3.16.010 - Sales tax definitions.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT3REFI_CH3.16SAUSTA_3.16.010SATADE"
 sha256: b32dae6c62c272fa5c3367491681bc9da9313824d53d7734061e67111371d0cb
-fetched_at: "2026-09-18T10:08:50+00:00"
+fetched_at: "2026-09-23T00:45:42+00:00"
 ---
 
 For the purposes of this Chapter 3.16 , the words contained herein shall have the meanings set forth in C.R.S. § 39-26-102,

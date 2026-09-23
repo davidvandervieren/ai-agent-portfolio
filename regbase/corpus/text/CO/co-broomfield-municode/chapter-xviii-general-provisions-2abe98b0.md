@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER XVIII - GENERAL PROVISIONS
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHXVIIIGEPR"
 sha256: c2396cf392f93e2016cb327a506b7b1a502e37ffbd5be3f01b525fc1d3770bbf
-fetched_at: "2026-09-17T15:10:38+00:00"
+fetched_at: "2026-09-21T19:18:54+00:00"
 ---
 
 The City and County shall have the right of eminent domain within or without its corporate

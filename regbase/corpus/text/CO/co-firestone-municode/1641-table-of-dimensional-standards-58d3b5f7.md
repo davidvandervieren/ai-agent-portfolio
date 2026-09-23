@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 16 - FIRESTONE DEVELOPMENT CODE > Chapter 4 - Dimensional Standards > 16.4.1 - Table of dimensional standards.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT16FIDECO_CH4DIST_16.4.1TADIST"
 sha256: 24993c3d958d0f4b771986a861fdfd406393411c6dcef250cfffccf59b2b1f36
-fetched_at: "2026-09-18T05:30:01+00:00"
+fetched_at: "2026-09-22T02:06:48+00:00"
 ---
 
 Sections:

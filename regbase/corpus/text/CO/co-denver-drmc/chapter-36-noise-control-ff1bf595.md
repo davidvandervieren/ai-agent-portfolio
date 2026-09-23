@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 36 - NOISE CONTROL
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH36NOCO"
 sha256: 5981c0fc699ee030c1c6d5eb06c5942bd02246e7020f26bbe227804f4363fb1f
-fetched_at: "2026-09-17T23:28:10+00:00"
+fetched_at: "2026-09-21T21:29:02+00:00"
 ---
 
 Cross reference— Barking dogs, § 8-46; health and sanitation, Ch. 24; nuisances generally, Ch. 37; mufflers and prevention of noise on motor vehicles, § 54-74; loud sirens, whistles, etc., prohibited on bicycles, § 54-579.

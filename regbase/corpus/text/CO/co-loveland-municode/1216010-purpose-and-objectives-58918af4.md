@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 12 - STREETS, SIDEWALKS AND PUBLIC PLACES > CHAPTER 12.16. - USE OF CITY RIGHTS-OF-WAY > 12.16.010 - Purpose and objectives.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT12STSIPUPL_CH12.16USRI-W_12.16.010PUOB"
 sha256: a2eaf3d50494c39e536f869c120dd8f4e87499b88ee5a8b0c199c2dc887ede2a
-fetched_at: "2026-09-18T10:24:24+00:00"
+fetched_at: "2026-09-23T01:01:14+00:00"
 ---
 
 A.

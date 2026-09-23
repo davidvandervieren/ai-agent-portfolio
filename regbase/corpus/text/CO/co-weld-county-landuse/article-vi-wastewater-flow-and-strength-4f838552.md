@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 30 - Weld County Department of Public Health and Environment On-Site Wastewater Treatment System Regulations > ARTICLE VI - Wastewater Flow and Strength
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH30WECODEPUHEENTEWATRSYRE_ARTVIWAFLST"
 sha256: cb78fa5b87d5b29ae2a8d2808b13528c8d737047910eef4052d4f04de36e41cb
-fetched_at: "2026-09-17T13:35:44+00:00"
+fetched_at: "2026-09-21T17:43:40+00:00"
 ---
 
 A.

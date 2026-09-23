@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 3 - Human Resources > ARTICLE VIII - Health and Safety
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH3HURE_ARTVIIIHESA"
 sha256: 402994c70ec124611fe229e31b2d8a472d09a69a958423a18acd2708e5851de2
-fetched_at: "2026-09-18T05:50:10+00:00"
+fetched_at: "2026-09-22T02:26:51+00:00"
 ---
 
 Employees are required to comply with all safety rules and regulations. Failure to

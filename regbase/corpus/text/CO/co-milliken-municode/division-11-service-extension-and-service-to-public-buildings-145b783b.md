@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE I - Cable Television Franchise > Division 11 - Service Extension and Service to Public Buildings
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH5FRCOSY_ARTICATEFR_DIV11SEEXSEPUBU"
 sha256: 6d167c609a9d3b222ecab90035278efe2d02ca892785d5e3305285b59fb0a040
-fetched_at: "2026-09-18T11:10:56+00:00"
+fetched_at: "2026-09-23T01:48:23+00:00"
 ---
 
 (a)

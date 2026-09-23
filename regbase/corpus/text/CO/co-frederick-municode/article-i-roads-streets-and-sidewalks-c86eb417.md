@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 17 - Public Places > ARTICLE I - Roads, Streets and Sidewalks
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH17PUPL_ARTIROSTSI"
 sha256: 2a4b2188e254bdde955e149de6fdf08a613fe75b0ec3e92ce9d443e85685a513
-fetched_at: "2026-09-18T05:54:03+00:00"
+fetched_at: "2026-09-22T02:28:44+00:00"
 ---
 
 It is the purpose of this Article to regulate the partial or complete closure of County

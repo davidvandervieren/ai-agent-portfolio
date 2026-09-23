@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE V - Overlay Districts > Division 1 - A-P (Airport) Overlay District
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTVOVDI_DIV1AIOVDI"
 sha256: 5b202436be90d717b52126c4d4f26e288206f4de01ad18fe4b1df087200a46f0
-fetched_at: "2026-09-17T13:39:11+00:00"
+fetched_at: "2026-09-21T17:46:36+00:00"
 ---
 
 For the purposes of this Article V, certain terms or words used herein shall be interpreted

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IV - Supplementary District Regulations and Zoning Permits > Division 2 - Signs
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIVSUDIREZOPE_DIV2SI"
 sha256: 7b8cf3174158e108cf6e9de2de77b9e0c370283f1d914acbff389cc168216989
-fetched_at: "2026-09-18T06:00:43+00:00"
+fetched_at: "2026-09-22T02:33:24+00:00"
 ---
 
 A.

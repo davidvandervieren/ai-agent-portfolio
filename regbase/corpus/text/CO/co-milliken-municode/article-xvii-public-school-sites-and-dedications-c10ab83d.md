@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE XVII - Public School Sites and Dedications
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH18BURE_ARTXVIIPUSCSIDE"
 sha256: 06a3fb7ada161a49ed839fb1e8bd50567c9fca055a352ff9cc42175d58dd88f8
-fetched_at: "2026-09-18T11:10:32+00:00"
+fetched_at: "2026-09-23T01:47:59+00:00"
 ---
 
 (a)

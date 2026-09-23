@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE 16. - TRANSITIONAL PROVISIONS
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTICH_ART16TRPR"
 sha256: 26cf8699e327381e94eb392ce6f91d1f95ad14f60ef1321e0ecd8e06089a0e38
-fetched_at: "2026-09-18T10:02:07+00:00"
+fetched_at: "2026-09-23T00:39:08+00:00"
 ---
 
 This Charter shall become effective immediately upon filing and recording with the

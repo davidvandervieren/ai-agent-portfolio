@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 10 - VEHICLES AND TRAFFIC > Chapter 10-13 - Truck Routes > 10-13-010 - Definitions; generally.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT10VETR_CH10-13TRRO_10-13-010DEGE"
 sha256: e41f0da47aa8dd0127d4880f8aac0246ca53f19274e915bf025129f842a593d9
-fetched_at: "2026-09-17T15:42:45+00:00"
+fetched_at: "2026-09-21T19:51:33+00:00"
 ---
 
 (A)

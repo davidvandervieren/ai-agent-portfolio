@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.36. - DEPARTMENTAL ORGANIZATION AND RESPONSIBILITY > 2.36.010 - Responsibilities of department heads.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT2ADPE_CH2.36DEORRE_2.36.010REDEHE"
 sha256: 1a13916235d2dcaeff4fc8436cbb40d8abc4a1bf9cf15964f654909610cf40a8
-fetched_at: "2026-09-18T10:05:19+00:00"
+fetched_at: "2026-09-23T00:42:10+00:00"
 ---
 
 State Law reference— Authorizing manager form cities to establish administrative departments of city administrations,

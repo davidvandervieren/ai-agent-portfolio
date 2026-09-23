@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 6 - ANIMALS > Chapter 6-32 - Cruelty to Animals > 6-32-010 - Cruel treatment prohibited.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT6AN_CH6-32CRAN_6-32-010CRTRPR"
 sha256: 5133145bd47f94f707bead6a6e73602b7d184f10c210096d3c7c457d3bd0e170
-fetched_at: "2026-09-17T15:36:10+00:00"
+fetched_at: "2026-09-21T19:44:55+00:00"
 ---
 
 It is unlawful for any person to beat, cruelly treat, torment, overload, overwork,

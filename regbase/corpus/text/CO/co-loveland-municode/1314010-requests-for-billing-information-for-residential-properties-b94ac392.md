@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 13 - UTILITIES > CHAPTER 13.14. - PUBLIC RECORDS > 13.14.010 - Requests for billing information for residential properties.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT13UT_CH13.14PURE_13.14.010REBIINREPR"
 sha256: d1b17277320bd2b19b97197a16f15a973de54eeda14d583f64232ed95b07073b
-fetched_at: "2026-09-18T10:33:40+00:00"
+fetched_at: "2026-09-23T01:10:33+00:00"
 ---
 
 The Department will release actual billing records for a residential property only

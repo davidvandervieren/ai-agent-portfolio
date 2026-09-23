@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 13 - PUBLIC SERVICES > Chapter 13-40 - Stormwater Regulations > 13-40-010 - Purpose.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT13PUSE_CH13-40STRE_13-40-010PU"
 sha256: 9b664bedb658177fb1f7ea9ad24b13a8ce293081eedab1e38a43ec8be0714f5e
-fetched_at: "2026-09-17T15:50:10+00:00"
+fetched_at: "2026-09-21T19:58:52+00:00"
 ---
 
 The city council finds, declares, and determines it necessary for the health, safety,

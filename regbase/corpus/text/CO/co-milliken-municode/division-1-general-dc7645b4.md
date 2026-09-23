@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE V - Subdivision Regulations > Division 1 - General
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH16LAUSCO_ARTVSURE_DIV1GE"
 sha256: 9375e98e0518feaf85d8f19db16f008970c3a3ecba82a0741f2d3c568bdbc499
-fetched_at: "2026-09-18T11:12:11+00:00"
+fetched_at: "2026-09-23T01:49:37+00:00"
 ---
 
 (a)

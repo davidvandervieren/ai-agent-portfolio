@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 30 - Weld County Department of Public Health and Environment On-Site Wastewater Treatment System Regulations > ARTICLE XII - Design Criteria - Other Facilities
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH30WECODEPUHEENTEWATRSYRE_ARTXIIDECRTHFA"
 sha256: 900547f3acb0082eb578275e478e7c3d8dbc955316bea1c7342b88212c3fde8e
-fetched_at: "2026-09-18T05:58:05+00:00"
+fetched_at: "2026-09-22T02:31:13+00:00"
 ---
 
 Editor's note— Ord. No. 2017-10 , adopted January 29, 2018, amended §§ 30-12-10—30-12-60 in its entirety to read as

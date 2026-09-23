@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 15 - BUILDINGS AND CONSTRUCTION > CHAPTER 15.28. - FIRE CODE > 15.28.010 - International Fire Code, 2024 Edition—Adopted.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT15BUCO_CH15.28FICO_15.28.010INFICO2024EDDO"
 sha256: 1ed08ac276027d55f1997588f4822808e1f8c18910ee8531e99d66af80ceb8e9
-fetched_at: "2026-09-18T10:37:45+00:00"
+fetched_at: "2026-09-23T01:14:47+00:00"
 ---
 
 Editor's note— Ord. No. 6787 , § 1, adopted Sept. 16, 2025, repealed the former Ch. 15.28, §§ 15.28.010—15.28.030,

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE VI - Windsor Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTVIWIPL"
 sha256: 4ba6e86579eade4af98b6cd37d90bf228856237fc0459013f4488667ff5baf05
-fetched_at: "2026-09-17T13:32:14+00:00"
+fetched_at: "2026-09-21T17:41:57+00:00"
 ---
 
 This Coordinated Planning Agreement ("CPA") is made and entered into effective as

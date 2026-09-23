@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 13 - UTILITIES > CHAPTER 13.22. - MUNICIPAL FIBER FACILITIES > 13.22.010 - Terms and conditions of city municipal fiber service; rules and regulations.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT13UT_CH13.22MUFIFA_13.22.010TECOMUFISERURE"
 sha256: c818e92feb311a7309aa19749a39602eeb94dffb06b7da1a99059a3337841348
-fetched_at: "2026-09-18T10:34:43+00:00"
+fetched_at: "2026-09-23T01:11:42+00:00"
 ---
 
 A.

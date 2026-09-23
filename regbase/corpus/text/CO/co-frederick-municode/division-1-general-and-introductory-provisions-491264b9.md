@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 21 - Areas and Activities of State Interest > ARTICLE VII - Site Selection and Construction of 1041 Solar Energy Facilities (as Major Facilities of a Public Utility) > Division 1 - General and Introductory Provisions
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH21ARACSTIN_ARTVIISISECO1041SOENFAMAFAPUUT_DIV1GEINPR"
 sha256: bcdc6d6cf4035137ada5dd03dd0280ade5c4d6f48a866a311a3cc5009e8b54e5
-fetched_at: "2026-09-18T05:59:54+00:00"
+fetched_at: "2026-09-22T02:32:41+00:00"
 ---
 
 The regulations (referred to herein as "1041 SEF Regulations") set forth in this Article

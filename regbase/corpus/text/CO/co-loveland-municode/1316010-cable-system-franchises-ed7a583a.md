@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 13 - UTILITIES > CHAPTER 13.16. - CABLE SYSTEMS > 13.16.010 - Cable system franchises.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT13UT_CH13.16CASY_13.16.010CASYFR"
 sha256: 7baa7ddee84c7d5e74702dc2b299c082d496f16112ac77eb7165b60e176ce8b3
-fetched_at: "2026-09-18T10:33:44+00:00"
+fetched_at: "2026-09-23T01:10:38+00:00"
 ---
 
 Note— Prior history: Ords. 1787, 3814, 3845 and 4577.

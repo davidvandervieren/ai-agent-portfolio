@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE XV - Hudson Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTXVHUPL"
 sha256: d60d1e7e848b7aed8dd90909234b098c28505db6b8592c09135880e68c5acafd
-fetched_at: "2026-09-18T05:54:43+00:00"
+fetched_at: "2026-09-22T02:29:27+00:00"
 ---
 
 This Coordinated Planning Agreement is made and entered into effective as of the 25th

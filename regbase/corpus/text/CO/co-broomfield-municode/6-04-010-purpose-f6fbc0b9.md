@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 6 - ANIMALS > Chapter 6-04 - General Provisions > 6-04-010 - Purpose.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT6AN_CH6-04GEPR_6-04-010PU"
 sha256: e3a0799ba7029115866f0c0ec2702959ed0f812fa64111cadc7676c07e2e2ce5
-fetched_at: "2026-09-17T15:33:58+00:00"
+fetched_at: "2026-09-21T19:42:47+00:00"
 ---
 
 The city council declares that the purpose of this title is to provide for the control

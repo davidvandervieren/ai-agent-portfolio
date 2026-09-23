@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE 5 - Special Districts
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CH4REFI_ART5SPDI"
 sha256: 3e382e6c571fd2f3cf538b29af09c3f040d63214c04c97ff3dd0b496ac19a5ea
-fetched_at: "2026-09-18T06:13:30+00:00"
+fetched_at: "2026-09-22T02:47:39+00:00"
 ---
 
 (a)

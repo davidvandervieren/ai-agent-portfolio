@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 6 - ANIMALS > Chapter 6-40 - Pet Shops > 6-40-010 - License; required.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT6AN_CH6-40PESH_6-40-010LIRE"
 sha256: c4f4759f3768bc6d39e358233b4f3f62bc2e2fe2ca432d2839786b8958359182
-fetched_at: "2026-09-17T15:36:44+00:00"
+fetched_at: "2026-09-21T19:45:31+00:00"
 ---
 
 It is unlawful for any person to maintain or to operate any pet shop within the city

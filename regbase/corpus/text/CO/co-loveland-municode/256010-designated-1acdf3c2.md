@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.56. - LIBRARY DEPARTMENT > 2.56.010 - Designated.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT2ADPE_CH2.56LIDE_2.56.010DE"
 sha256: 70ca05c5f3a29a994c7efdb3673c13766f7832913af74b96b68cc602da2ce117
-fetched_at: "2026-09-18T10:05:53+00:00"
+fetched_at: "2026-09-23T00:42:44+00:00"
 ---
 
 Note— Prior history: Prior code § 4.15. Ords. 1337 and 877.

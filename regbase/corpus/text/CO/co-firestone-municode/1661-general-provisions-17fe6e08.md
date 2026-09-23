@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 16 - FIRESTONE DEVELOPMENT CODE > Chapter 6 - Development and Design Standards > 16.6.1 - General provisions.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT16FIDECO_CH6DEDEST_16.6.1GEPR"
 sha256: 1b99a763cf98849410a18fc80c24cc78237da92aa96652729cca47bbd81568a3
-fetched_at: "2026-09-18T05:30:18+00:00"
+fetched_at: "2026-09-22T02:07:04+00:00"
 ---
 
 Sections:

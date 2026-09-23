@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-32 - Building Official > 2-32-010 - Office created; appointment.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-32BUOF_2-32-010OFCRAP"
 sha256: 303261c92c29806df59bd8e99a7b228a361fad5959cf8f06a08b74ac35a21b58
-fetched_at: "2026-09-17T15:18:59+00:00"
+fetched_at: "2026-09-21T19:27:37+00:00"
 ---
 
 There is created and established an office of building official as an administrative

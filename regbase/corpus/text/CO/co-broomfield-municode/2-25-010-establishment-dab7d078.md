@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-25 - Money Purchase Plan for Peace Officers > 2-25-010 - Establishment.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-25MOPUPLPEOF_2-25-010ES"
 sha256: 6e6d518ec26622b8cf582e3aa082443c1e80c7019398c979baab3eb67df4eb8a
-fetched_at: "2026-09-17T15:17:31+00:00"
+fetched_at: "2026-09-21T19:26:07+00:00"
 ---
 
 The city hereby establishes the money purchase plan and trust as set forth in this

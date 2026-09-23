@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE 1 - Sales and Use Tax > General Provisions
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CH4REFI_ART1SAUSTA_GEPR"
 sha256: 591aa74ce4e53c056a6f7d100a9a580c935b88da39f4998b64dae0e36d309013
-fetched_at: "2026-09-18T06:14:45+00:00"
+fetched_at: "2026-09-22T02:51:19+00:00"
 ---
 
 Editor's note— Ord. No. 795 , § 1, adopted April 27, 2015, effective July 1, 2015, repealed the former Art. 1,

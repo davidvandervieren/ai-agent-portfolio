@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 9 - PUBLIC PEACE, MORALS AND WELFARE > IX. Open Containers > Chapter 9-80 - Open Container of Alcohol Beverages > 9-80-010 - Definitions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT9PUPEMOWE_IXOPCO_CH9-80OPCOALBE_9-80-010DE"
 sha256: 482abd33803491a763ac64c500f5eb0f973569bd2ff7941619e487190e078261
-fetched_at: "2026-09-17T16:25:51+00:00"
+fetched_at: "2026-09-21T20:34:25+00:00"
 ---
 
 Editor's note— Ord. No. 2212 , § 13, adopted May 9, 2023, amended the title of ch. 9-80 to read as herein set out.

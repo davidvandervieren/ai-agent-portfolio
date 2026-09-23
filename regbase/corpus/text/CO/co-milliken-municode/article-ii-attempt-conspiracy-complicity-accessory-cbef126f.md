@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE II - Attempt, Conspiracy, Complicity, Accessory
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH10GEOF_ARTIIATCOCOAC"
 sha256: 94649eaccd9324c297efdc8ae25a0252df80e4b8d83e557e8c06ebcc0e8477f9
-fetched_at: "2026-09-18T11:09:10+00:00"
+fetched_at: "2026-09-23T01:46:35+00:00"
 ---
 
 (a)

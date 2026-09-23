@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 3 - REVENUE AND FINANCE > CHAPTER 3.20. - OCCUPATIONAL TAX ON LIQUOR AND BEER > 3.20.010 - Purpose.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT3REFI_CH3.20OCTALIBE_3.20.010PU"
 sha256: a518df2095fe4d11c310dfc4ddeac887a5590c6c413eb6303c209dfc36faaf9e
-fetched_at: "2026-09-18T10:10:56+00:00"
+fetched_at: "2026-09-23T00:47:52+00:00"
 ---
 
 The city council finds, determines and declares that considering the nature of the

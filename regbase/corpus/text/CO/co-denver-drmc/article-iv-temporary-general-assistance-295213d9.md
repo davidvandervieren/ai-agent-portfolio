@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 29 - HUMAN SERVICES > ARTICLE IV. - TEMPORARY GENERAL ASSISTANCE
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH29HUSE_ARTIVTEGEAS"
 sha256: f40a96bb3a29b244128de4d7a5f835c962f1d33f26d420e49bcb9b06f1fe11e1
-fetched_at: "2026-09-17T23:29:42+00:00"
+fetched_at: "2026-09-21T21:33:47+00:00"
 ---
 
 It is the intent in the enactment of this article to establish by ordinance a temporary

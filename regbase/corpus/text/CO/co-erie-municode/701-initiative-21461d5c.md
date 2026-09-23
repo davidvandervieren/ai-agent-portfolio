@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > Article 7 - Initiative, Referendum, and Recall > 7.01 - Initiative.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=HORUCH_ART7INRERE_7.01IN"
 sha256: 90a2a8f2b8816778d683fccf0f06f926ca31ac8c385a9009b20462846cdfafa1
-fetched_at: "2026-09-18T03:51:30+00:00"
+fetched_at: "2026-09-22T00:27:44+00:00"
 ---
 
 (1)

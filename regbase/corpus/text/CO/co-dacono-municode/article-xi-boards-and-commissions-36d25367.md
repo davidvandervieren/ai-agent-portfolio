@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF DACONO HOME RULE CHARTER > ARTICLE XI - Boards and Commissions
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CIDAHORUCH_ARTXIBOCO"
 sha256: 5cce377b340b0659f74a751f0c0d8421ec65456df081da2b344e7cf95634b552
-fetched_at: "2026-09-18T06:13:08+00:00"
+fetched_at: "2026-09-22T02:46:28+00:00"
 ---
 
 Editor's note— Section 11-1, which pertained to the Personnel Board, was repealed by vote of the

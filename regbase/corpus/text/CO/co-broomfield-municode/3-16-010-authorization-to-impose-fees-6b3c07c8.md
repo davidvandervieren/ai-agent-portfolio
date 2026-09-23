@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3-16 - Emergency Telephone Charge > 3-16-010 - Authorization to impose fees.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT3REFI_CH3-16EMTECH_3-16-010AUIMFE"
 sha256: f9d5a2ecbb83babdeb8d50bea9a7c43bacd73ca071bde7c8151d8d4f582151f3
-fetched_at: "2026-09-17T15:25:24+00:00"
+fetched_at: "2026-09-21T19:34:06+00:00"
 ---
 
 There is hereby imposed, pursuant to section 29-11-101, C.R.S., et seq., upon all

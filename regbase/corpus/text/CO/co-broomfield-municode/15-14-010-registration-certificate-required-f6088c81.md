@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15-14 - Electrical Contractor's Registration > 15-14-010 - Registration certificate; required.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT15BUCO_CH15-14ELCORE_15-14-010RECERE"
 sha256: f491b32c0c5dee0b4e21880c4b1c6590c00f3265bf04e107e2eb71af18328442
-fetched_at: "2026-09-17T15:53:58+00:00"
+fetched_at: "2026-09-21T20:02:34+00:00"
 ---
 
 It shall be unlawful for any person to conduct, carry on, or engage in the business,

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 6 - POLICE AND TRAFFIC REGULATIONS > Chapter 9. - OFFENSES RELATED TO ALCOHOL > 6-9-1 - Definitions.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT6POTRRE_CH9OFREAL_6-9-1DE"
 sha256: 6a93112adb98e46d6c3c6dca11dd251a186412c1e4094e6aee0f88a21bed755a
-fetched_at: "2026-09-18T04:04:50+00:00"
+fetched_at: "2026-09-22T00:41:07+00:00"
 ---
 
 Alcohol beverages: Fermented malt beverage or malt, vinous, or spirituous liquors; except "alcohol beverages"

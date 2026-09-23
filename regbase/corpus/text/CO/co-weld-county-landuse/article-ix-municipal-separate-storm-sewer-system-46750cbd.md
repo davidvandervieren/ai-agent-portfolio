@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 8 - Public Works > ARTICLE IX - Municipal Separate Storm Sewer System
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH8PUWO_ARTIXMUSESTSESY"
 sha256: fef49383aee2f9b385a65cd477fb90eee7fcf52d8640e77f63577407e975e4c8
-fetched_at: "2026-09-17T13:30:16+00:00"
+fetched_at: "2026-09-21T17:40:41+00:00"
 ---
 
 Editor's note— Ord. No. 2019-05 , adopted June 17, 2019, amended article IX title and §§ 8-9-10—8-9-150 to read as

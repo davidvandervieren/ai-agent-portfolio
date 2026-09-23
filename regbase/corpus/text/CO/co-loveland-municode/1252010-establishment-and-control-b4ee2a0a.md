@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 12 - STREETS, SIDEWALKS AND PUBLIC PLACES > CHAPTER 12.52. - CEMETERIES > 12.52.010 - Establishment and control.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT12STSIPUPL_CH12.52CE_12.52.010ESCO"
 sha256: aed618b0bfb28412776e73d9791864ad2ed72082e5b014da9c2d754c4e8b0792
-fetched_at: "2026-09-18T10:28:32+00:00"
+fetched_at: "2026-09-23T01:05:27+00:00"
 ---
 
 State Law reference— Municipal cemeteries, C.R.S. § 31-25-701 et seq.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5.24 - Concerts > 5.24.010 - Operating an amplified sound system—Permit required.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5.24CO_5.24.010OPAMSOSYERRE"
 sha256: 26993f46a06bec493a9ea709da69c0c59691ac20b6404cc0755b1f6f094e571a
-fetched_at: "2026-09-18T05:06:05+00:00"
+fetched_at: "2026-09-22T01:42:29+00:00"
 ---
 
 Editor's note— Ord. No. 1051 , § 1, adopted Oct. 9, 2024, repealed Ch. 5.24 §§ 5.24.010—5.24.080, which pertained

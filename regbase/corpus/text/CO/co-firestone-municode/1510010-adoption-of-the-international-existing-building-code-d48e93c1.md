@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.10 - International Existing Building Code > 15.10.010 - Adoption of the International Existing Building Code.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT15BUCO_CH15.10INEXBUCO_15.10.010ADINEXBUCO"
 sha256: ffd574cd1e9289c0d67a1c0589895b85d039ca2580f1bd6ddbe8a18a98d8d828
-fetched_at: "2026-09-18T05:25:56+00:00"
+fetched_at: "2026-09-22T02:02:35+00:00"
 ---
 
 Sections

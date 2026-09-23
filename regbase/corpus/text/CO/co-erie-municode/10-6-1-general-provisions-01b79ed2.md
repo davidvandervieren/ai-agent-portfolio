@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 10 - UNIFIED DEVELOPMENT CODE > Chapter 6. - DEVELOPMENT AND DESIGN STANDARDS > 10-6-1 - General provisions.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT10UNDECO_CH6DEDEST_10-6-1GEPR"
 sha256: e60051af8b9591d2bacaf37ffcbf9590440953f659b534158a29fbca02c3a095
-fetched_at: "2026-09-18T04:13:39+00:00"
+fetched_at: "2026-09-22T00:49:44+00:00"
 ---
 
 Editor's note— Ord. No. 03-2022 , § 1(Attch.), adopted Jan. 11, 2022, repealed ch. 6, §§ 10-6-1—10-6-14, and reenacted

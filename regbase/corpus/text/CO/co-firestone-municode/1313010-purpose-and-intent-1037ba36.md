@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.13 - Stormwater Quality > 13.13.010 - Purpose and intent.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.13STQU_13.13.010PUIN"
 sha256: d2d41f1ec51d8ef52e6a4b4bf01f25763b116b3c6e5d33801d5e218a752293b2
-fetched_at: "2026-09-18T05:18:28+00:00"
+fetched_at: "2026-09-22T01:55:03+00:00"
 ---
 
 The purpose of this chapter is to regulate non-stormwater discharges to the municipal

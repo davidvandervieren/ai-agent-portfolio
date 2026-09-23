@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Communication > ARTICLE I - County Social Media Policy
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH4CO_ARTICOSOMEPO"
 sha256: af9b8e6f85911c5b6efc18acf6399b0d8c951579dc555952a55305277fcec8ec
-fetched_at: "2026-09-18T05:50:32+00:00"
+fetched_at: "2026-09-22T02:27:07+00:00"
 ---
 
 A.

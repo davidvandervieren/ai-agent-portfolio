@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO > ARTICLE V - DEPARTMENT OF LAW
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO_ARTVDELA"
 sha256: c1ff886b10654ace59a191ab8805fac4c33d99b8e7f0c87a411da4877100e1d2
-fetched_at: "2026-09-17T13:26:39+00:00"
+fetched_at: "2026-09-21T17:37:52+00:00"
 ---
 
 (1)

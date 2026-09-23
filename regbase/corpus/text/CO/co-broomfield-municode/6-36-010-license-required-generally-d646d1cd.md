@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 6 - ANIMALS > Chapter 6-36 - Kennels > 6-36-010 - License; required; generally.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT6AN_CH6-36KE_6-36-010LIREGE"
 sha256: ccfaf16cde07c1d8c5ab1b16235517125c161131556c1a577be805e54b789f6d
-fetched_at: "2026-09-17T15:36:18+00:00"
+fetched_at: "2026-09-21T19:45:03+00:00"
 ---
 
 It is unlawful for any person to maintain or to operate any commercial kennel within

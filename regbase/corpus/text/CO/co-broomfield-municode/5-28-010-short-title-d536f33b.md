@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5-28 - Alcohol Beverages > 5-28-010 - Short title.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5-28ALBE_5-28-010SHTI"
 sha256: 6d5a15a3101b3e2cd4df4090bf2a3d31753b27251a9f6dd94041305475cb2098
-fetched_at: "2026-09-17T15:29:52+00:00"
+fetched_at: "2026-09-21T19:38:36+00:00"
 ---
 
 Editor's note— Ord. No. 2210 , § 1, adopted May 9, 2023, amended the title of ch. 5-28 to read as herein set out.

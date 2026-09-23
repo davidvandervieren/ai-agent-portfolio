@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 2 - REVENUE AND FINANCE > Chapter 5. - IMPACT FEES AND FUNDS > 2-5-1 - Purpose and intent.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT2REFI_CH5IMFEFU_2-5-1PUIN"
 sha256: f34d146e050baa4347b5a8bc4867e272adf6c35784c44280666313fee656fa65
-fetched_at: "2026-09-18T03:57:33+00:00"
+fetched_at: "2026-09-22T00:33:47+00:00"
 ---
 
 The purpose and intent of these impact fee procedures are:

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.12 - International Fuel Gas Code > 15.12.010 - Adoption of the International Fuel Gas Code.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT15BUCO_CH15.12INFUGACO_15.12.010ADINFUGACO"
 sha256: d7f701dedf5734278835d0309c7525ea65920c8356ea0a229713d4552d9b1868
-fetched_at: "2026-09-18T05:26:01+00:00"
+fetched_at: "2026-09-22T02:02:41+00:00"
 ---
 
 Sections

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER XV - IMPROVEMENT DISTRICTS
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHXVIMDI"
 sha256: a4464faba1ef6a2fdfb6223978645717055509bbc3a9f4d9bea88d0267255ce5
-fetched_at: "2026-09-17T15:10:32+00:00"
+fetched_at: "2026-09-21T19:18:48+00:00"
 ---
 
 (a)

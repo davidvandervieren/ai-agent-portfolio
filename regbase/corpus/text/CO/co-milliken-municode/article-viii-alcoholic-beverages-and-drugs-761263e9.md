@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE VIII - Alcoholic Beverages and Drugs
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH10GEOF_ARTVIIIALBEDR"
 sha256: a53c0ba8e4a331241707420edd2a03e5dc8a1e8cd86f158673a9627d3445e0ce
-fetched_at: "2026-09-18T11:09:22+00:00"
+fetched_at: "2026-09-23T01:46:47+00:00"
 ---
 
 For purposes of this Code, the following words shall have the meanings ascribed hereafter:

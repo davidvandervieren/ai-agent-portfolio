@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 15 - Vegetation > ARTICLE I - Noxious Weed Management Enforcement Policy
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH15VE_ARTINOWEMAENPO"
 sha256: c1b2e9d3c10acca6e90c8676b5d5af44915326efefd5aaf6e3d1e6bb0725faef
-fetched_at: "2026-09-17T13:31:41+00:00"
+fetched_at: "2026-09-21T17:41:29+00:00"
 ---
 
 This policy shall be known, and referred to as, the Weld County Noxious Weed Management Enforcement Policy, and shall be in effect throughout the unincorporated areas of Weld County.

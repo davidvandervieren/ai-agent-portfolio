@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 3 - REVENUE AND FINANCE > CHAPTER 3.12. - PROCUREMENT > 3.12.010 - Application.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT3REFI_CH3.12PR_3.12.010AP"
 sha256: 52e05a7829827d5388d0b0ca3c09e34f08adf10d496bb22ea53d9754c48b2dda
-fetched_at: "2026-09-18T10:08:08+00:00"
+fetched_at: "2026-09-23T00:44:58+00:00"
 ---
 
 A.

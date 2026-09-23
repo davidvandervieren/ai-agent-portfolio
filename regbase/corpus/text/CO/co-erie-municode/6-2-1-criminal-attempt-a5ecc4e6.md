@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 6 - POLICE AND TRAFFIC REGULATIONS > Chapter 2. - ATTEMPT, CONSPIRACY, COMPLICITY AND ACCESSORY > 6-2-1 - Criminal attempt.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT6POTRRE_CH2ATCOCOAC_6-2-1CRAT"
 sha256: fde2e8ac3f71639c49ff594bd58e5a224ce47d10782ba3b6ad4a3da90a6d8ff2
-fetched_at: "2026-09-18T04:02:48+00:00"
+fetched_at: "2026-09-22T00:39:03+00:00"
 ---
 
 A.

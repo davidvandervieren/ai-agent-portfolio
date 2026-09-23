@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 8 - NUISANCES AND ENVIRONMENT > Chapter 8.06 - Camping Restrictions
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT8NUEN_CH8.06CARE"
 sha256: 61c40eaef964ed1a059f34438708fdf57c8db9ed19de7f9f8e9bcd50ff1adfbb
-fetched_at: "2026-09-18T04:58:30+00:00"
+fetched_at: "2026-09-22T01:34:46+00:00"
 ---
 
 Editor's note— Ord. No. 1012 , § 2 adopted June 8, 2022, repealed the former Title 8, and enacted a new Title 8

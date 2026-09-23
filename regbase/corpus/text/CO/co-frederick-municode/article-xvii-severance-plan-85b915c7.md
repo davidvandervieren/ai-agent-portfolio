@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE XVII - Severance Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTXVIISEPL"
 sha256: 46ec2ba29b7fc74a0e0523b15c634c6631ef1f3f314fa333758cadebfb4d9664
-fetched_at: "2026-09-18T05:54:47+00:00"
+fetched_at: "2026-09-22T02:29:31+00:00"
 ---
 
 This Coordinated Planning Agreement ("CPA") is made and entered into effective as

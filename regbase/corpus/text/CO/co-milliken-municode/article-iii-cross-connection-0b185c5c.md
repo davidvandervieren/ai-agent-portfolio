@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 13 - Municipal Utilities > ARTICLE III - Cross Connection
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH13MUUT_ARTIIICRCO"
 sha256: 3a90218782d6ee8db0d2cc359380a5878c54e94bf1a11c865cb24994932e8444
-fetched_at: "2026-09-18T11:09:46+00:00"
+fetched_at: "2026-09-23T01:47:11+00:00"
 ---
 
 Editor's note— Ord. No. 716 , §1, adopted Sept. 23, 2015, repealed former Art. III, §§ 13-3-10—13-3-40, and enacted

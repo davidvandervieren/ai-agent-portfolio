@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.1000 - Reserved rights.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.1000RERI"
 sha256: 857faefffe377374e001991f719b86405d4a3c9d7efc184858fa3ac5e0977cf7
-fetched_at: "2026-09-18T05:23:05+00:00"
+fetched_at: "2026-09-22T01:59:45+00:00"
 ---
 
 The right is hereby reserved by the Town to adopt, from time to time, in addition

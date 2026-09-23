@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE 5. - CODE OF ETHICS
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTICH_ART5COET"
 sha256: 22c1a8d21c9c9c4112d837198b1b7bd1e3b3a8bfddf530dcb8badfdc3dcc89b8
-fetched_at: "2026-09-18T10:01:45+00:00"
+fetched_at: "2026-09-23T00:38:46+00:00"
 ---
 
 (a)

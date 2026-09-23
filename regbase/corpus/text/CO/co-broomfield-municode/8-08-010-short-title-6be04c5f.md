@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8-08 - Weeds and Rubbish > 8-08-010 - Short title.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT8HESA_CH8-08WERU_8-08-010SHTI"
 sha256: 8e25daf2c0a813dce302661bade00660b3ef39386e7a3f9fadea78d2e88a3b34
-fetched_at: "2026-09-17T15:38:21+00:00"
+fetched_at: "2026-09-21T19:47:08+00:00"
 ---
 
 This chapter is known and may be cited as the "Broomfield Weed and Rubbish Ordinance."

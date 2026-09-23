@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE I - HOME RULE > SUBTITLE B - CHARTER > ARTICLE X. - BOARD OF WATER COMMISSIONERS
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIHORU_SUBTITLE_BCH_ARTXBOWACO"
 sha256: 1087ff6f5a0d4d071db844edd1361546b933807abf5e854c59da17e5873d926d
-fetched_at: "2026-09-17T23:30:30+00:00"
+fetched_at: "2026-09-21T21:36:55+00:00"
 ---
 
 There shall be and hereby is continued and created a non-political Board of Water

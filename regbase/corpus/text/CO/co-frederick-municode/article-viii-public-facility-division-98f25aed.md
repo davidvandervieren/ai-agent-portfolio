@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 24 - Subdivisions > ARTICLE VIII - Public Facility Division
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTVIIIPUFADI"
 sha256: c9b5d95652b71159049e501d9dbfcf08727dd231ea9204dd0e594b805c63aea1
-fetched_at: "2026-09-18T05:56:59+00:00"
+fetched_at: "2026-09-22T02:30:16+00:00"
 ---
 
 The Public Facility Division shall be for the purpose of creating a permanent, legal lot for utilities and infrastructure including, but not limited to, public telecommunication

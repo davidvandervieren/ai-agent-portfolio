@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 14 - Health and Animals > ARTICLE II - Water Testing
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH14HEAN_ARTIIWATE"
 sha256: 4aa48becfbe61f3b62f891365251fe0515e2d5fa7c1832e8a1c15046a9883cec
-fetched_at: "2026-09-17T13:31:24+00:00"
+fetched_at: "2026-09-21T17:41:15+00:00"
 ---
 
 As used in this Article, the following words have the meanings ascribed to them:

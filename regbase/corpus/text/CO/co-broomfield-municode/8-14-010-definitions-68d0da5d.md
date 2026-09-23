@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8-14 - Vehicle Emission Control Standards > 8-14-010 - Definitions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT8HESA_CH8-14VEEMCOST_8-14-010DE"
 sha256: 56de8baac2efd1de176ff549b90d758080cbca320da942aedb0ccd18e219c61f
-fetched_at: "2026-09-17T15:38:44+00:00"
+fetched_at: "2026-09-21T19:47:28+00:00"
 ---
 
 The following definitions shall apply to the interpretation and enforcement of this

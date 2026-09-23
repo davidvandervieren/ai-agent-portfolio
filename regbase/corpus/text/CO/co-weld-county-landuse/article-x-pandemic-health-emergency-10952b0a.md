@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 14 - Health and Animals > ARTICLE X - Pandemic Health Emergency
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH14HEAN_ARTXPAHEEM"
 sha256: be63290086d45043f7d4e0fe95c0d7ac9d4e9119d8c6fc99bb535ce40923e84f
-fetched_at: "2026-09-17T13:31:37+00:00"
+fetched_at: "2026-09-21T17:41:27+00:00"
 ---
 
 In addition to the authorities granted the County Health Officer by and through the

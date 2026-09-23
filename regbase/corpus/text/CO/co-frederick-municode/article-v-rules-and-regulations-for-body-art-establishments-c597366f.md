@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 14 - Health and Animals > ARTICLE V - Rules and Regulations for Body Art Establishments
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH14HEAN_ARTVRUREBOARES"
 sha256: 59b7bde55a2673ab4a72b0126703acf639d803fb5f71137dbfc6df45c7f1f60d
-fetched_at: "2026-09-18T05:53:43+00:00"
+fetched_at: "2026-09-22T02:28:28+00:00"
 ---
 
 Editor's note— Weld County Code Ordinance 2025-14 , adopted November 3, 2025, repealed the former Art. V, §§ 14-5-20—14-5-140, and enacted

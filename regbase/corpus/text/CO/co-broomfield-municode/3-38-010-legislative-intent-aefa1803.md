@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3-38 - Lodging Tax > 3-38-010 - Legislative intent.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT3REFI_CH3-38LOTA_3-38-010LEIN"
 sha256: c0826f89c6cb35a99f34b669e7184d10d2b7041c280c3be7e0174bea19e89da9
-fetched_at: "2026-09-17T15:26:55+00:00"
+fetched_at: "2026-09-21T19:35:40+00:00"
 ---
 
 The city council intends that every person who, for consideration, leases or rents

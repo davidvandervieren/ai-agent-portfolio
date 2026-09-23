@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 13 - UTILITIES > CHAPTER 13.06. - CROSS-CONNECTION CONTROL > 13.06.010 - Definitions.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT13UT_CH13.06CRNNCO_13.06.010DE"
 sha256: 7c6137fd2e2cc6b8468f407738d3ea31bee00ed11486a55abdc199562b3c5058
-fetched_at: "2026-09-18T10:31:13+00:00"
+fetched_at: "2026-09-23T01:08:06+00:00"
 ---
 
 Except where specifically designated in this section, all words used in this Chapter 13.06 shall carry their customary meanings. Any word, term, or phrase not found in this

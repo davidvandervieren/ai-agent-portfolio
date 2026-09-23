@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 8 - Public Works > ARTICLE IV - Use of Borrow or Roadside Ditches
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH8PUWO_ARTIVUSBORODI"
 sha256: 4cc6dc3afe4a9eb3f6862e408fe39abdbd81b31da73bc91f3cb057918c3ec985
-fetched_at: "2026-09-17T13:29:59+00:00"
+fetched_at: "2026-09-21T17:40:31+00:00"
 ---
 
 Borrow or roadside ditches are intended to intercept surface water from agricultural

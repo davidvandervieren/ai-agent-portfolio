@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO > ARTICLE XI - COUNTY TREASURER
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO_ARTXICOTR"
 sha256: a51299b6197e8e9eca160857a0d7bc95a507683e7052ae666061c340671580c0
-fetched_at: "2026-09-17T13:26:51+00:00"
+fetched_at: "2026-09-21T17:38:07+00:00"
 ---
 
 The County Treasurer shall execute to the people of the State of Colorado, and file

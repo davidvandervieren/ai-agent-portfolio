@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 4 - BUSINESS REGULATIONS > Chapter 1. - SOLICITATION PERMITS > 4-1-1 - Definitions.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT4BURE_CH1SOPE_4-1-1DE"
 sha256: df595515e8b75b8c33509f6c0d82616c3fa54210e734808d99444062a8d658c9
-fetched_at: "2026-09-18T03:58:51+00:00"
+fetched_at: "2026-09-22T00:35:06+00:00"
 ---
 
 For purposes of this chapter, the following terms shall have the following meanings:

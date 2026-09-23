@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 6 - ANIMALS > Chapter 6-12 - Animals Running at Large; Strays; Impoundment; Disturbing the Peace > 6-12-010 - Running at large prohibited.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT6AN_CH6-12ANRULASTIMDIPE_6-12-010RULAPR"
 sha256: 462b783df84e9e2bd705db8dce61613e5ec8dd5ba1ef79ee168112a3e326da0b
-fetched_at: "2026-09-17T15:34:42+00:00"
+fetched_at: "2026-09-21T19:43:29+00:00"
 ---
 
 It is unlawful for any person owning or having charge of any animal, except an ordinary

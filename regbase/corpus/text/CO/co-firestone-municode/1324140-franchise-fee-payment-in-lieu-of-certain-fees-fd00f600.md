@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.140 - Franchise fee payment in lieu of certain fees.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.140FRFEPALICEFE"
 sha256: c90fd90a477412fa421542b7548f37bd90179af956c9ee6d75fa3acec73cc6c2
-fetched_at: "2026-09-18T05:20:11+00:00"
+fetched_at: "2026-09-22T01:56:46+00:00"
 ---
 
 The Town accepts payment of the franchise fee by United Power in lieu of any occupation

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 24 - Subdivisions > ARTICLE X - Lot Line Adjustment
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTXLOLIAD"
 sha256: 0a267ff31fa02a285f060d6fee41b0f519b822696e2062a8c6d31d0185340dcb
-fetched_at: "2026-09-18T05:57:03+00:00"
+fetched_at: "2026-09-22T02:30:20+00:00"
 ---
 
 A.

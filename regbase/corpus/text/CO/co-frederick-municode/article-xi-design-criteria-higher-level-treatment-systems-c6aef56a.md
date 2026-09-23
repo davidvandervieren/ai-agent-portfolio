@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 30 - Weld County Department of Public Health and Environment On-Site Wastewater Treatment System Regulations > ARTICLE XI - Design Criteria - Higher Level Treatment Systems
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH30WECODEPUHEENTEWATRSYRE_ARTXIDECRIGLETRSY"
 sha256: eb61f7507afa1461286c6cec605638c31d9131c98bb326e2a5ff44e0cc3dbbdd
-fetched_at: "2026-09-18T05:58:03+00:00"
+fetched_at: "2026-09-22T02:31:02+00:00"
 ---
 
 A.

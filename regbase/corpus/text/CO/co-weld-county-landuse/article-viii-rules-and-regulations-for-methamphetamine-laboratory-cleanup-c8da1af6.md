@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 14 - Health and Animals > ARTICLE VIII - Rules and Regulations for Methamphetamine Laboratory Cleanup
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH14HEAN_ARTVIIIRUREMELACL"
 sha256: 8dafc81c9df61455eb58f36cfdd384c2f2da553f35ac9db08e433bb532352d87
-fetched_at: "2026-09-17T13:31:33+00:00"
+fetched_at: "2026-09-21T17:41:23+00:00"
 ---
 
 Pursuant to Subsections 25-1-507(1)(h) and (j), C.R.S., the Weld County Department

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 15 - BUILDINGS AND CONSTRUCTION > CHAPTER 15.08. - BUILDING CODE > 15.08.010 - International Building Code, 2021 Edition—Adopted.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT15BUCO_CH15.08BUCO_15.08.010INBUCO2021EDDO"
 sha256: 1fe2e8284c8500e26cc34b8ff6cad38b498ba35ef97577e4db6758afd397ea81
-fetched_at: "2026-09-18T10:36:39+00:00"
+fetched_at: "2026-09-23T01:13:40+00:00"
 ---
 
 The International Building Code, 2021 Edition, issued and published by the International

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > Article 10 - Boards and Commissions > 10.01 - Right to Establish, Amend, and Abolish.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=HORUCH_ART10BOCO_10.01RIESAMAB"
 sha256: a2d585a759b6d110e751e62a2a5388f7f03cb8c5beb093129dd87c70492fb404
-fetched_at: "2026-09-18T03:52:06+00:00"
+fetched_at: "2026-09-22T00:28:20+00:00"
 ---
 
 (1)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 16 - FIRESTONE DEVELOPMENT CODE > Chapter 3 - Use Regulations > 16.3.1 - Table of permitted uses.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT16FIDECO_CH3USRE_16.3.1TAPEUS"
 sha256: 74bd4f1a1c075b4eb15b94429755b947548252b9579d695307f5a41304a6de69
-fetched_at: "2026-09-18T05:29:53+00:00"
+fetched_at: "2026-09-22T02:06:40+00:00"
 ---
 
 Sections:

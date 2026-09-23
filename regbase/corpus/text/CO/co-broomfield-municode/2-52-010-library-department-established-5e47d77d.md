@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-52 - Public Library > 2-52-010 - Library department established.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-52PULI_2-52-010LIDEES"
 sha256: dcceee495fb82b212e9869d61e560f55f01bb0749f86045dcf8d60d21d6cac05
-fetched_at: "2026-09-17T15:20:10+00:00"
+fetched_at: "2026-09-21T19:28:49+00:00"
 ---
 
 A library department and library fund are hereby established within the general governmental

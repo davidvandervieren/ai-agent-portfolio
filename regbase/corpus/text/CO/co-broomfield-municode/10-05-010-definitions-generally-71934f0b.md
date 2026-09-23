@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 10 - VEHICLES AND TRAFFIC > Chapter 10-05 - Decriminalization > 10-05-010 - Definitions; generally.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT10VETR_CH10-05DE_10-05-010DEGE"
 sha256: 3385ae3ca221cd7a5314168ffbda46cb6cd1f6f5313d50ed65dcb8f64c5b0b8f
-fetched_at: "2026-09-17T15:41:48+00:00"
+fetched_at: "2026-09-21T19:50:37+00:00"
 ---
 
 (A)

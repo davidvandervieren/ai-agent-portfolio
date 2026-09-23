@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5.46 - Sexually Oriented Businesses > 5.46.010 - Purpose and intent.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5.46SEORBU_5.46.010PUIN"
 sha256: a36abf4cab313bc43ed064a17ed42e4ec5a51350a7bce2fa44cc71cb0234ec73
-fetched_at: "2026-09-18T05:06:55+00:00"
+fetched_at: "2026-09-22T01:43:20+00:00"
 ---
 
 The purpose and intent of this chapter is to regulate sexually oriented businesses

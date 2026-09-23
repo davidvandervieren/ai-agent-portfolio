@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > Article 6 - Ordinances > 6.01 - Action by Ordinance Required.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=HORUCH_ART6OR_6.01ACORRE"
 sha256: 511434d99ddfd324203cea7812647787361390d5ed9bb67870f46aa7dfb0186e
-fetched_at: "2026-09-18T03:51:14+00:00"
+fetched_at: "2026-09-22T00:27:28+00:00"
 ---
 
 In addition to such acts of the Town Council that are required by other provisions

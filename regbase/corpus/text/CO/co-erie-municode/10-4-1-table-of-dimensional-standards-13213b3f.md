@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 10 - UNIFIED DEVELOPMENT CODE > Chapter 4. - DIMENSIONAL STANDARDS > 10-4-1 - Table of dimensional standards.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT10UNDECO_CH4DIST_10-4-1TADIST"
 sha256: 18885a969dc0e8d0ffeca45b6ce147d90a6870b4e0ff6ceec47c84e393ddc004
-fetched_at: "2026-09-18T04:13:23+00:00"
+fetched_at: "2026-09-22T00:49:28+00:00"
 ---
 
 Editor's note— Ord. No. 03-2022 , § 1(Attch.), adopted Jan. 11, 2022, repealed ch. 4, §§ 10-4-1 and 10-4-2, and reenacted

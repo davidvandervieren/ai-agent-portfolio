@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3-32 - Sewer Enterprise > 3-32-010 - Sewer activity enterprise created.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT3REFI_CH3-32SEEN_3-32-010SEACENCR"
 sha256: ba695582ded1eca4ed3dace9e9c72e74e202af38652dcb7b7ab58bbde003aa55
-fetched_at: "2026-09-17T15:26:19+00:00"
+fetched_at: "2026-09-21T19:35:04+00:00"
 ---
 
 There is hereby created a sewer activity enterprise denominated the city of Broomfield

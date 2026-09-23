@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 1 - ADMINISTRATION AND PERSONNEL > Chapter 1. - OFFICIAL MUNICIPAL CODE > 1-1-1 - Title.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT1ADPE_CH1OFMUCO_1-1-1TI"
 sha256: a270dd0b402d8ba7f30c6da659e81dd852c5909deb51598ccd36f7adc0630fd0
-fetched_at: "2026-09-18T03:54:03+00:00"
+fetched_at: "2026-09-22T00:30:21+00:00"
 ---
 
 Upon the adoption by the town council, this municipal code is hereby declared to be

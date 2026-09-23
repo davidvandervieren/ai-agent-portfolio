@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration > ARTICLE IV - Hearings
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH2AD_ARTIVHE"
 sha256: ca84a6f4d21c59edec594d57814855392304149b2fd78a0fb3affe31e4cd4fc9
-fetched_at: "2026-09-18T05:49:17+00:00"
+fetched_at: "2026-09-22T02:26:09+00:00"
 ---
 
 The Board of County Commissioners shall act as a board of appeals to hear appeals

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5-03 - Partial Assignment of Electricity Franchise > I. Definitions > 5-03-010 - Definitions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5-03PAASELFR_I.DE_5-03-010DE"
 sha256: 04e78966cadda9fd31c3263810c798e4788a1df03a2c7e8d6de23df97b3b879d
-fetched_at: "2026-09-17T16:15:53+00:00"
+fetched_at: "2026-09-21T20:24:10+00:00"
 ---
 
 For the purpose of this franchise, the following words and phrases shall have the

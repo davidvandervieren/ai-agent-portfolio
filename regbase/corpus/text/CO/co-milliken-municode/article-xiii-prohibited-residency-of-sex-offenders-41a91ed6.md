@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE XIII - Prohibited Residency of Sex Offenders
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH10GEOF_ARTXIIIPRRESEOF"
 sha256: 42ad96cbc2374b41b4d701b1cc4e8c0f5e81b607cdf3e4cb826232246ddcf42d
-fetched_at: "2026-09-18T11:09:33+00:00"
+fetched_at: "2026-09-23T01:46:57+00:00"
 ---
 
 The following words, terms and phrases, when used in this Article, shall have the

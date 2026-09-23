@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8-44 - Regulation of Retail Food Establishments > 8-44-010 - Violations of the Food Protection Act.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT8HESA_CH8-44REREFOES_8-44-010VIFOPRAC"
 sha256: 3da9ba0b4636d6b0fce526472f278cd3b606697b2bb92fee017dd10a868114ac
-fetched_at: "2026-09-17T15:41:06+00:00"
+fetched_at: "2026-09-21T19:49:55+00:00"
 ---
 
 Editor's note— Ord. No. 2258 , § 1, adopted December 3, 2024, amended Chapter 8-44 in its entirety to read as herein

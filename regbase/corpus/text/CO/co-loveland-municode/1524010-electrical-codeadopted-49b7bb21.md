@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 15 - BUILDINGS AND CONSTRUCTION > CHAPTER 15.24. - ELECTRICAL CODE > 15.24.010 - Electrical code—Adopted.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT15BUCO_CH15.24ELCO_15.24.010ELCODO"
 sha256: 5ae1e1cb80876c2de72a4bb15e07e7d19012fbd7ba20dd82e29b3a4ceef44f6b
-fetched_at: "2026-09-18T10:37:39+00:00"
+fetched_at: "2026-09-23T01:14:40+00:00"
 ---
 
 The National Electrical Code, 2023 edition, issued and published by the National Fire

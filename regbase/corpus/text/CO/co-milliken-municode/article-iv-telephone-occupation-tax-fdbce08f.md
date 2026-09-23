@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE IV - Telephone Occupation Tax
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH5FRCOSY_ARTIVTEOCTA"
 sha256: 26fb1e8400de2995792501de16dab058d30c6459d7688db479a0090ca11d2ea2
-fetched_at: "2026-09-18T11:08:30+00:00"
+fetched_at: "2026-09-23T01:45:55+00:00"
 ---
 
 There is hereby levied on and against each telephone utility company operating within

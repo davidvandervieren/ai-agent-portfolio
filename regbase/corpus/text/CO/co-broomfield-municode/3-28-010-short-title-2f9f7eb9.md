@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3-28 - Services Expansion Fee > 3-28-010 - Short title.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT3REFI_CH3-28SEEXFE_3-28-010SHTI"
 sha256: 3cdce67fc71ce9a6f628fe048d54ecbbce474215212a53a539ce3a2c5adcb4f7
-fetched_at: "2026-09-17T15:25:54+00:00"
+fetched_at: "2026-09-21T19:34:41+00:00"
 ---
 
 This chapter is known and may be cited as the "Broomfield Services Expansion Fee Ordinance."

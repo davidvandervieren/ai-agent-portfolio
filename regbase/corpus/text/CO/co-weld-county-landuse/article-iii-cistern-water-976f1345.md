@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 14 - Health and Animals > ARTICLE III - Cistern Water
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH14HEAN_ARTIIICIWA"
 sha256: cb8b25bc1050862ebd43b7d9e9e7ada6ae6a5f3f44dc5c9ff93db8b917f98d64
-fetched_at: "2026-09-17T13:31:28+00:00"
+fetched_at: "2026-09-21T17:41:17+00:00"
 ---
 
 The Board of County Commissioners, sitting as the Board of Health, has declared the

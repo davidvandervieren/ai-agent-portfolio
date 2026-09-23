@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17-66 - Disconnection of Land From the City > 17-66-010 - Legislative intent.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-66DILACI_17-66-010LEIN"
 sha256: f905358f71e38fd21e030e42b7f8815e979bf87b8116cd362eb62e49efa49a15
-fetched_at: "2026-09-17T16:12:36+00:00"
+fetched_at: "2026-09-21T20:21:03+00:00"
 ---
 
 It is the intent of the city council to exercise the powers granted to home rule municipal

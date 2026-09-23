@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 9 - PUBLIC PEACE, MORALS AND WELFARE > Chapter 9.04 - General Provisions > 9.04.010 - Definitions.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT9PUPEMOWE_CH9.04GEPR_9.04.010DE"
 sha256: 37e894ab1f0197ae1915d182479b6d920655e700de40a8fb582db429c7645e48
-fetched_at: "2026-09-18T05:10:18+00:00"
+fetched_at: "2026-09-22T01:46:42+00:00"
 ---
 
 Editor's note— Ord. No. 1009 , § 1, adopted May 11, 2022, repealed the former Title 9, and enacted a new Title

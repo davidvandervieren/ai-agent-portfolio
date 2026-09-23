@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.58. - DEPARTMENT OF CULTURAL SERVICES > 2.58.010 - Designated.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT2ADPE_CH2.58DECUSE_2.58.010DE"
 sha256: 07134d0342b5d61f2dd376bb83925b9c9d2f96dcfdc0c50f45eaf072f1e91a0b
-fetched_at: "2026-09-18T10:05:55+00:00"
+fetched_at: "2026-09-23T00:42:46+00:00"
 ---
 
 There is created a department of cultural services which shall be under the direction

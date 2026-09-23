@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 10 - UNIFIED DEVELOPMENT CODE > Chapter 11. - DEFINITIONS > 10-11-1 - General rules of construction.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT10UNDECO_CH11DE_10-11-1GERUCO"
 sha256: c1282a0f618030e540ddfdf067656668c4888cd3aefa52654da9f47118df5373
-fetched_at: "2026-09-18T04:15:05+00:00"
+fetched_at: "2026-09-22T00:51:14+00:00"
 ---
 
 Editor's note— Ord. 03-2022 , § 1(Attch.), adopted January 11, 2022, repealed ch. 11, §§ 10-11-1—10-11-3, and

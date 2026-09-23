@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 11 - Streets, Sidewalks and Public Property > ARTICLE I - Streets and Sidewalks
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH11STSIPUPR_ARTISTSI"
 sha256: 517b28813f65e0f0c266761b9e89d67dbc64a3faa3a5d7396c5eb85ba7803ad0
-fetched_at: "2026-09-18T11:09:34+00:00"
+fetched_at: "2026-09-23T01:46:59+00:00"
 ---
 
 The owner, occupant, lessee or person in possession or control of any premises or

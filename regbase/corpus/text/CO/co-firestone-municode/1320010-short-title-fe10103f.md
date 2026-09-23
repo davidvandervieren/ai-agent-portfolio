@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.20 - Gas Franchise > 13.20.010 - Short title.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.20GAFR_13.20.010SHTI"
 sha256: b229499afebdad6a6fca96c7ef302acbe811fc49fc0378a1ea6dc678cee9b105
-fetched_at: "2026-09-18T05:19:00+00:00"
+fetched_at: "2026-09-22T01:55:35+00:00"
 ---
 
 This chapter shall be known and may be cited as the "SourceGas Distribution Franchise

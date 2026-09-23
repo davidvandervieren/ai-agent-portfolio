@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 6 - ANIMALS > Chapter 6-24 - Livestock, Horses, and Prohibited Animals > 6-24-010 - Animals prohibited within city designated; exceptions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT6AN_CH6-24LIHOPRAN_6-24-010ANPRWIDEEX"
 sha256: 48a613726ee65055945379bec046be595b17c973264ed9ded151d62b6f167a69
-fetched_at: "2026-09-17T15:35:57+00:00"
+fetched_at: "2026-09-21T19:44:42+00:00"
 ---
 
 (A)

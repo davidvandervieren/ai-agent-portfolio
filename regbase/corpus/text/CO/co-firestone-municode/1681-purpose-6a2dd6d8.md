@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 16 - FIRESTONE DEVELOPMENT CODE > Chapter 8 - Review and Decision-Making Entities > 16.8.1 - Purpose.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT16FIDECO_CH8REDEKIEN_16.8.1PU"
 sha256: b1b65e3605ae0cce23a974afaf2b9f7f13c5dcb9f11777a6318719899bb41703
-fetched_at: "2026-09-18T05:31:32+00:00"
+fetched_at: "2026-09-22T02:08:22+00:00"
 ---
 
 Sections:

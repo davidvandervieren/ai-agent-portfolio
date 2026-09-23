@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.570 - Use of United Power land.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.570USUNPOLA"
 sha256: 697a05f637a7cbbea2de8117b0434e18305c8fb1a75b083e9d2df4f2ac5ccfef
-fetched_at: "2026-09-18T05:21:38+00:00"
+fetched_at: "2026-09-22T01:58:14+00:00"
 ---
 
 United Power shall grant to the Town use of distribution and transmission rights-of-way

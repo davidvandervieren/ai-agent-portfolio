@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Revenue and Finance > ARTICLE III - Solid Waste Management Surcharge
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH5REFI_ARTIIISOWAMASU"
 sha256: 4bdbb70db20b457910618296de9aa6ad8d63a0f2a7f5930be5f586df0926c963
-fetched_at: "2026-09-18T05:50:38+00:00"
+fetched_at: "2026-09-22T02:27:13+00:00"
 ---
 
 There is, hereby established a Weld County Solid Wastes Disposal Sites and Facilities

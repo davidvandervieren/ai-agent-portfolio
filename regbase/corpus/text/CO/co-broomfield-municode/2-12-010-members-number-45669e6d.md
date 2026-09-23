@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-12 - Personnel Merit Commission > 2-12-010 - Members; number.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-12PEMECO_2-12-010MENU"
 sha256: 30cf2bd1ce78317f716ddfc5c465477a6b16e3476fcb4c100dd7271d83174fc0
-fetched_at: "2026-09-17T15:13:00+00:00"
+fetched_at: "2026-09-21T19:21:18+00:00"
 ---
 
 The personnel merit commission shall be comprised of three regular members and three

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > Article 1 - General Provisions > 1.01 - Name and Boundaries.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=HORUCH_ART1GEPR_1.01NABO"
 sha256: 487eb3dcacfb3d8f69c25ec32297261fcf2ab3dc59359b472f823db98ed82fd3
-fetched_at: "2026-09-18T03:50:28+00:00"
+fetched_at: "2026-09-22T00:26:41+00:00"
 ---
 
 The municipal corporation heretofore existing as the Town of Erie, located in Boulder

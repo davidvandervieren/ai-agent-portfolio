@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 9 - HEALTH AND SAFETY > CHAPTER 9.04. - NUISANCES
 url: "https://library.municode.com/co/longmont/codes/code_of_ordinances?nodeId=PTIICOOR_TIT9HESA_CH9.04NU"
 sha256: 727507a6970d337a1deeba3c3ad334a8495cbf39a63481c9354e788ce1534c6f
-fetched_at: "2026-09-18T08:27:38+00:00"
+fetched_at: "2026-09-22T03:56:25+00:00"
 ---
 
 State Law reference— Public nuisance abatement, C.R.S. § 16-13-301 et seq.

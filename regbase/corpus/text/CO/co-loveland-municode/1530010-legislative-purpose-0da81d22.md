@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 15 - BUILDINGS AND CONSTRUCTION > CHAPTER 15.30. - BUILDING CONTRACTORS LICENSE > 15.30.010 - Legislative purpose.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT15BUCO_CH15.30BUCOLI_15.30.010LEPU"
 sha256: 1a1700f91bf7531eb14c1abf6315949f868f225900fd6d4344b29da57b5884b4
-fetched_at: "2026-09-18T10:37:49+00:00"
+fetched_at: "2026-09-23T01:14:51+00:00"
 ---
 
 The purpose of this chapter is to promote the public health, safety and welfare by

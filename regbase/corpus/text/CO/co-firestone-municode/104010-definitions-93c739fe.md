@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 1 - GENERAL PROVISIONS > Chapter 1.04 - General Provisions > 1.04.010 - Definitions.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT1GEPR_CH1.04GEPR_1.04.010DE"
 sha256: 6bd34061e073dba1e7163e41a59768c7848b0d9b06ed29c1d8e7e9b5961e4991
-fetched_at: "2026-09-18T04:58:31+00:00"
+fetched_at: "2026-09-22T01:34:58+00:00"
 ---
 
 In the construction of this code and of all ordinances of the Town, the following

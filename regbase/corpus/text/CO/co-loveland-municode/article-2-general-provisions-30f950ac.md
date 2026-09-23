@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE 2. - GENERAL PROVISIONS
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTICH_ART2GEPR"
 sha256: 5e9b8423b88124ecbc7137455597b93960889834492c09680e8883e01a6221fa
-fetched_at: "2026-09-18T10:01:40+00:00"
+fetched_at: "2026-09-23T00:38:40+00:00"
 ---
 
 The Colorado municipal corporation now existing as the "City of Loveland" shall remain

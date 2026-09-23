@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 13 - PUBLIC SERVICES > Chapter 13-06 - Water Taps, and Tap and Meter Fees > 13-06-010 - Requirements for water taps and service connection.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT13PUSE_CH13-06WATATAMEFE_13-06-010REWATASECO"
 sha256: ed152c0840b1fce1cfa39359170dd322e1c2370d879f62a37ee8f6b21bf707ef
-fetched_at: "2026-09-17T15:46:58+00:00"
+fetched_at: "2026-09-21T19:55:46+00:00"
 ---
 
 (A)

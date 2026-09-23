@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 6 - ANIMALS > Chapter 6-44 - Guard Dogs > 6-44-010 - Registration and rabies inoculation required.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT6AN_CH6-44GUDO_6-44-010RERAINRE"
 sha256: 8a1aa37a7bea914d265801c8d3f134761ff7f64ae7aed413df8a9e28157d75a9
-fetched_at: "2026-09-17T15:36:56+00:00"
+fetched_at: "2026-09-21T19:45:43+00:00"
 ---
 
 All guard dogs within the city shall be registered with the city, and inoculated against

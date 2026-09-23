@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 6 - ANIMALS > CHAPTER 6.04. - GENERAL PROVISIONS > 6.04.010 - Definitions.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT6AN_CH6.04GEPR_6.04.010DE"
 sha256: c98202a0f7c70c2a8c406f573a685cd2ffd2cca3359fe47ed43870e08a87b971
-fetched_at: "2026-09-18T10:16:23+00:00"
+fetched_at: "2026-09-23T00:53:32+00:00"
 ---
 
 For the purpose of this title the following words and phrases shall be defined as

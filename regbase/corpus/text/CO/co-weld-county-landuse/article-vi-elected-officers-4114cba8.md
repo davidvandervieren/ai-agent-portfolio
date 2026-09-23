@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO > ARTICLE VI - ELECTED OFFICERS
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO_ARTVIELOF"
 sha256: b65ae44b114e5d5201c64d363de2b562b11b9f74cfdb5945aa2c9a8aba5a5641
-fetched_at: "2026-09-17T13:26:41+00:00"
+fetched_at: "2026-09-21T17:37:55+00:00"
 ---
 
 The Elected Officers of the County of Weld, Colorado, shall be five County Commissioners;

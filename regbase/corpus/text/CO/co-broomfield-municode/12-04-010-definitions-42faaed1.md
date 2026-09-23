@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 12 - STREETS, SIDEWALKS AND OTHER PUBLIC PLACES > Chapter 12-04 - General Provisions > 12-04-010 - Definitions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT12STSIOTPUPL_CH12-04GEPR_12-04-010DE"
 sha256: 5880ab2a2bed1ee6c19bfe8fa47dd4b896cda646ffc97f834539fdc2da25417e
-fetched_at: "2026-09-17T15:44:26+00:00"
+fetched_at: "2026-09-21T19:53:14+00:00"
 ---
 
 (A)

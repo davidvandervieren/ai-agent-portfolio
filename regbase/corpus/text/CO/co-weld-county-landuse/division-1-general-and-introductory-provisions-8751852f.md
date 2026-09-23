@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 21 - Areas and Activities of State Interest > ARTICLE III - Site Selection and Construction of Major Facilities of a Public Utility > Division 1 - General and Introductory Provisions
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH21ARACSTIN_ARTIIISISECOMAFAPUUT_DIV1GEINPR"
 sha256: 15df81e9e0ad426a68ebd8a3f71f996d65a8716c7b3bd7cb6851f3f9862719fb
-fetched_at: "2026-09-17T13:37:24+00:00"
+fetched_at: "2026-09-21T17:45:05+00:00"
 ---
 
 The purpose and intent of the regulations contained in this Article III are:

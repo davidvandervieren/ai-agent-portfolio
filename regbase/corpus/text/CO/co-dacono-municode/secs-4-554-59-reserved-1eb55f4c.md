@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE 2 - Reserved > Secs. 4-55—4-59. - Reserved.
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CH4REFI_ART2RE_SS4-55--4-59RE"
 sha256: d0a26ee8c4823034148aa756e2fe400eb77b4aafe9932983184db0469ebd892a
-fetched_at: "2026-09-18T06:15:00+00:00"
+fetched_at: "2026-09-22T02:52:23+00:00"
 ---
 
 Editor's note— Ord. No. 795 , § 2, adopted April 27, 2015, effective July 1, 2015, repealed the former Art. 2,

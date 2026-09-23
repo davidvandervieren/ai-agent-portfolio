@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 14 - PUBLIC IMPROVEMENTS > Chapter 14-04 - Standards and Specifications > 14-04-010 - Standards and specifications adopted.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT14PUIM_CH14-04STSP_14-04-010STSPAD"
 sha256: e09239f1571c41466cb6d18476cae6bb1fdc1b794b3e0df8977330495e9103a2
-fetched_at: "2026-09-17T15:51:05+00:00"
+fetched_at: "2026-09-21T19:59:46+00:00"
 ---
 
 There is adopted, by reference, a code entitled the Broomfield Standards and Specifications,

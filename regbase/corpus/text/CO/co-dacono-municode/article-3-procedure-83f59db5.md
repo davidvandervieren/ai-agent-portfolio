@@ -1,0 +1,115 @@
+---
+source_id: co-dacono-municode
+jurisdiction: Dacono, CO
+state: CO
+county: Weld
+municipality: Dacono
+agency: City of Dacono
+title: ARTICLE 3 - Procedure
+doc_type: code
+citation_root: CHAPTER 17 - Subdivisions > ARTICLE 3 - Procedure
+url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CH17SU_ART3PR"
+sha256: 35fb1492743fa2795138cc7a12cbf4cc295f52ea5853eacc221d1633915a5443
+fetched_at: "2026-09-22T02:50:39+00:00"
+---
+
+(a)
+Prior to the filing of application for approval of a preliminary plat, the subdivider
+may, at its option, submit to the Planning Commission an outline development plan
+as specified in Section 17-70 . This procedure shall not require formal application, fee or filing of plat with
+the Planning Commission.
+(b)
+The Planning Commission shall review the outline development plan to determine its
+general acceptability and compliance with the objectives and standards of these regulations,
+and shall hold conference with the subdivider to discuss desirable modifications of
+the plan.
+(Prior code 16.12.010)
+(a)
+Upon formal application, the subdivider shall submit to the Community Development
+Director or their designee the proposed preliminary plat, together with supplementary
+material as specified in Section 17-71 .
+(b)
+Upon receipt of the preliminary plat, the Community Development Director or their
+designee shall transmit copies to public agencies having jurisdiction and utility
+companies, who shall examine the plat and report their recommendations thereon to the City.
+(c)
+City staff shall review the preliminary plat for compliance with the regulations set
+forth in this Chapter and negotiate with the subdivider on the type and extent of
+improvements to be installed and on modifications deemed advisable.
+(d)
+Within forty-five (45) days following the applicant responding to any comments of
+City staff, the Planning Commission shall hold a public hearing on the preliminary
+plat and supporting documents and shall recommend the City Council approve, approve
+with conditions, or deny the application. The City Council shall thereafter hold a
+public hearing on the preliminary plat and approve, approve with conditions, or deny
+the application. Notice of public hearings before the Planning Commission and City
+Council shall be provided pursuant to Section 17-8 of this Code.
+(e)
+Conditional approval of the preliminary plat shall be deemed a tentative expression
+of approval of the general layout as submitted or modified pending approval of the
+final plat. Any conditions must be met before submittal of a final plat application.
+(Prior code 16.12.020; Ord. 468 §1, 1995; Ord. 937 , §23, 2023)
+(a)
+A final plat, containing the information specified in Section 17-72 , shall be submitted together with a written application for approval. Said final
+plat shall be submitted within twelve (12) months after approval of the preliminary
+plat; otherwise, such preliminary plat approval shall become null and void unless
+an extension of time is applied for and granted by the Planning Commission.
+(b)
+The final plat as submitted shall conform substantially with the preliminary plat
+as approved, and may constitute only that portion of the approved preliminary plat
+which the subdivider proposes to record and develop at the time. In the case of partial
+submission, the approval of the remaining portion of the preliminary plat shall automatically
+gain an extension of twelve (12) months before another phase of the plat must be submitted
+in final form.
+(c)
+Following review at a public hearing, the Planning Commission shall recommend the
+City Council approve, approve with conditions, or deny the final plat application.
+The City Council shall thereafter hold a public hearing on the final plat and approve,
+approve with conditions, or deny the application. Notice of public hearings before
+the Planning Commission and City Council shall be provided pursuant to Section 17-8 of this Code. If the request for approval of the final plat is denied, the reasons
+therefor shall be stated in writing and a copy furnished to the subdivider.
+(d)
+Within six (6) months of the effective date of the City Council resolution approving
+a final plat, final plat mylars and an executed subdivision agreement must be submitted
+to the City for recording and the Improvement Guarantee required by Chapter 17 , Article 15 of this Code must be provided to the City. If timely submission of all
+items is not made, a public hearing will be scheduled before the City Council, at
+which hearing the City Council will reconsider its approval of the final plat. Written
+notice of such hearing shall be provided to the applicant and published as required
+by the Dacono Municipal Code. No extension of the time period set forth in this subsection
+(d) may be granted except by resolution adopted by the City Council.
+(e)
+In the event of the phased development of a subdivision, the subdivider shall identify
+on the final plat all improvements proposed to be constructed with each proposed phase
+of the subdivision. Such improvements for each phase shall provide a proportionate
+share of all public improvements for the subdivision and shall provide for the adequate
+access and service to each individual phase. The Improvement Guarantee provided pursuant
+to Chapter 17 , Article 15 of this Code shall include all improvements for all phases of the subdivision
+included within the final plat.
+(Prior code 16.12.030; Ord. 468 §1, 1995; Ord. 904 §1, 2021; Ord. 937 , §24, 2023)
+(a)
+Insignificant deviations from the approved plat are permissible and the Community
+Development Director may authorize such insignificant deviations. A deviation is insignificant
+if it has no discernible impact on the conditions of a permit, plans, the approved
+use, the neighboring properties, the general public or those intended to occupy or
+use the proposed development, and it does not exceed the applicable zoning limits.
+Major modifications requiring formal amendments to the plat are any changes that exceed
+the limits of the zoning district, increase or decrease the density of the development
+or increase the number of platted lots. The Community Development Director will notify
+the Planning Commission and the City Council of insignificant deviations authorized.
+A determination by the Community Development Director of insignificance may be called
+up by the Planning Commission and the City Council.
+(b)
+All other requests for changes to an approved plat will be processed as formal amendments.
+If such requests are required to be acted upon by the Planning Commission or City
+Council, new conditions may be imposed, but the applicant retains the right to reject
+such additional conditions by withdrawing his or her request for an amendment.
+(c)
+The Community Development Director shall determine whether amendments to and modifications
+of the final plat fall within the categories set forth above and shall advise the
+Planning Commission and City Council. Both the Planning Commission and the City Council
+reserve the right to call any amendment up for review.
+(d)
+An applicant requesting approval of changes shall submit a written request for such
+approval to the Community Development Director, and that request shall identify the
+changes. Approval of all changes must be given in writing.
+(Ord. 614 §1, 2003; Ord. No. 844 , § 1, 4-9-2018)

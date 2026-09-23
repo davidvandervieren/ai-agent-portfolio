@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 3 - REVENUE AND FINANCE > CHAPTER 3.40. - PASSENGER FACILITY CHARGES > 3.40.010 - Definitions.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT3REFI_CH3.40PAFACH_3.40.010DE"
 sha256: e91318f48c460a963c6ea00b1d95ba518d9fe64dff6819d69088744b4c45323e
-fetched_at: "2026-09-18T10:13:29+00:00"
+fetched_at: "2026-09-23T00:50:26+00:00"
 ---
 
 As used in this chapter, the following words and phrases are defined as follows:

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE I - Cable Television Franchise > Division 3 - Franchise Fees and Financial Controls
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH5FRCOSY_ARTICATEFR_DIV3FRFEFICO"
 sha256: 421deb9459f4fcd6601d0a735336731265bd2a438696b8e4835d48750631c783
-fetched_at: "2026-09-18T11:10:41+00:00"
+fetched_at: "2026-09-23T01:48:07+00:00"
 ---
 
 As compensation for the use of the Town's Rights-of-Way, Grantee shall pay as a Franchise

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.180 - Change of franchise fee and other franchise terms.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.180CHFRFEOTFRTE"
 sha256: 405accce0d0aae3044a0848ca686c5320763d3fe47042b28db1077bf41b68520
-fetched_at: "2026-09-18T05:20:19+00:00"
+fetched_at: "2026-09-22T01:56:54+00:00"
 ---
 
 The Town Board, upon giving ninety days' notice to United Power, may request that

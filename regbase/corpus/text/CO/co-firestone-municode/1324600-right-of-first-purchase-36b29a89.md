@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.600 - Right of first purchase.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.600RIFIPU"
 sha256: 2efbffd9bc272e9b964648b7bd75486a234198bb247c30c08b44fdbfa9cad5e5
-fetched_at: "2026-09-18T05:21:44+00:00"
+fetched_at: "2026-09-22T01:58:20+00:00"
 ---
 
 If at any time during the term of this Franchise United Power proposes to sell or

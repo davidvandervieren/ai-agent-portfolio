@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.68. - SALARIES—PAY GRADES > 2.68.010 - Generally.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT2ADPE_CH2.68SAAYGR_2.68.010GE"
 sha256: 669eac177a305433eefefd579c22f976dbfa082fc29c30c0364a8ce4a1eab21e
-fetched_at: "2026-09-18T10:06:56+00:00"
+fetched_at: "2026-09-23T00:43:46+00:00"
 ---
 
 State Law reference— Salaries of city and town officials, C.R.S. § 31-4-109.

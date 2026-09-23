@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.210 - Payment of taxes and fees.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.210PATAFE"
 sha256: 467473a0a8063170a2f395750ce0fb8fc8c59cd472ba9b6779f33e9b608e2550
-fetched_at: "2026-09-18T05:20:25+00:00"
+fetched_at: "2026-09-22T01:57:00+00:00"
 ---
 
 United Power shall pay and discharge as they become due, promptly and before delinquency,

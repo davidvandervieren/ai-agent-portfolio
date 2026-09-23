@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.20 - International Swimming Pool and Spa Code > 15.20.010 - Adoption of the International Swimming Pool and Spa Code.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT15BUCO_CH15.20INSWPOSPCO_15.20.010ADINSWPOSPCO"
 sha256: 2b5300c58a3d6714b964619c2f835c627df016a5c659930a8791de1e67a28823
-fetched_at: "2026-09-18T05:26:45+00:00"
+fetched_at: "2026-09-22T02:03:24+00:00"
 ---
 
 Sections

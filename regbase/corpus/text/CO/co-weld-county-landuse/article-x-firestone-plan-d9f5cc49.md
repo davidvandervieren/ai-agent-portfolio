@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE X - Firestone Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTXFIPL"
 sha256: 4f4cc1a6b8406d939e350770dc4bf1024d523c61d161057eefa9637c24dd5529
-fetched_at: "2026-09-17T13:32:22+00:00"
+fetched_at: "2026-09-21T17:42:05+00:00"
 ---
 
 This Coordinated Planning Agreement ("CPA") is made and entered into effective as

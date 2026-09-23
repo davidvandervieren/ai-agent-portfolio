@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE XI - Fuel Gas Code
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH18BURE_ARTXIFUGACO"
 sha256: 144ac693a537a21279c18e443f3a692d95bec19ab1b1a3dd75b23aacb0e14ec2
-fetched_at: "2026-09-18T11:10:21+00:00"
+fetched_at: "2026-09-23T01:47:46+00:00"
 ---
 
 (a)

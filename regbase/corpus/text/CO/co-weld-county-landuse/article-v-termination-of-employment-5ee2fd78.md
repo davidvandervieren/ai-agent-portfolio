@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 3 - Human Resources > ARTICLE V - Termination of Employment
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH3HURE_ARTVTEEM"
 sha256: ae17496b679d997ec48ecb990c3a544dd21cb99a1dd5e8eeb19717e04a6a8134
-fetched_at: "2026-09-17T13:28:09+00:00"
+fetched_at: "2026-09-21T17:39:15+00:00"
 ---
 
 A.

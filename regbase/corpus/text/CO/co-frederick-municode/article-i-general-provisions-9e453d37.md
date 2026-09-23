@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 27 - Planned Unit Development > ARTICLE I. - General Provisions
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH27PLUNDE_ARTIGEPR"
 sha256: 6c474617d0171f4e2e3fde04b0cbbbdd0f7aad20d65167da657d2cdfb32a1e8c
-fetched_at: "2026-09-18T05:57:32+00:00"
+fetched_at: "2026-09-22T02:30:33+00:00"
 ---
 
 Editor's note— Weld County Code Ordinance 2023-18 , adopted July 17, 2024, repealed the former Ch. 27, §§ 27-1-10, 27-2-10—27-2-220,

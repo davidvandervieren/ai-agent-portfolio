@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE I - HOME RULE > SUBTITLE B - CHARTER > ARTICLE II. - MAYOR AND EXECUTIVE DEPARTMENTS > PART 1. - ELECTION AND SUCCESSION
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIHORU_SUBTITLE_BCH_ARTIIMAEXDE_PT1ELSU"
 sha256: 155d9cb90e3fcb9c748123bfb78922682da18f36a6f1b8221ccde76b725f155d
-fetched_at: "2026-09-17T23:40:33+00:00"
+fetched_at: "2026-09-21T22:55:10+00:00"
 ---
 
 The Mayor shall be elected for a term of four (4) years, and until a successor is

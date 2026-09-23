@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE V - Plumbing Code
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH18BURE_ARTVPLCO"
 sha256: 829d6ab0bf1df4618657e09e57c25afd1b33ffd25b235156d1efa8a2895a1038
-fetched_at: "2026-09-18T11:10:09+00:00"
+fetched_at: "2026-09-23T01:47:34+00:00"
 ---
 
 Pursuant to Title 31, Article 16, Part 2, C.R.S., the International Plumbing Code,

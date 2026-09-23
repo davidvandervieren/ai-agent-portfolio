@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE I - Cable Television Franchise > Division 12 - Franchise Violations
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH5FRCOSY_ARTICATEFR_DIV12FRVI"
 sha256: c53dd3ed5497cc450c4b56aab7ad29163bece07167e404d8fb5fd41dadff4f18
-fetched_at: "2026-09-18T11:10:58+00:00"
+fetched_at: "2026-09-23T01:48:25+00:00"
 ---
 
 (a)

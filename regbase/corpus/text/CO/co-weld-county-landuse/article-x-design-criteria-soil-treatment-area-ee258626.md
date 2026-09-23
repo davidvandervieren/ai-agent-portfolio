@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 30 - Weld County Department of Public Health and Environment On-Site Wastewater Treatment System Regulations > ARTICLE X - Design Criteria - Soil Treatment Area
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH30WECODEPUHEENTEWATRSYRE_ARTXDECROITRAR"
 sha256: 93c55a45e19f48e44edfe4fff1a5d67e12ddff56d7dece39b52bb1f5771815d6
-fetched_at: "2026-09-17T13:35:52+00:00"
+fetched_at: "2026-09-21T17:43:48+00:00"
 ---
 
 Editor's note— Ord. No. 2017-10 , adopted January 29, 2017, amended article X in its entirety to read as herein set

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE XXI - Johnstown Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTXXIJOPL"
 sha256: f28b7ea004c59517847d7da23186773f0383d05cd8ea89b86c3c775bcc2e2841
-fetched_at: "2026-09-18T05:54:55+00:00"
+fetched_at: "2026-09-22T02:29:39+00:00"
 ---
 
 This Coordinated Planning Agreement ("CPA") is made and entered into effective as

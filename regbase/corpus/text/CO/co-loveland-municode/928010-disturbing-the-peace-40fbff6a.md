@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 9 - PUBLIC PEACE, ORDER AND MORALS > IV. OFFENSES AGAINST PUBLIC PEACE > CHAPTER 9.28. - DISTURBING THE PEACE—LOITERING—MOLESTING > 9.28.010 - Disturbing the peace.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT9PUPEORMO_IVOFAGPUPE_CH9.28DIPEOIOL_9.28.010DIPE"
 sha256: 261d47a98543da969e24dba7602171632855ebb2c1c92df7f79400a79de39f00
-fetched_at: "2026-09-18T10:43:31+00:00"
+fetched_at: "2026-09-23T01:20:28+00:00"
 ---
 
 State Law reference— Authorizing cities and towns to prevent and suppress riots, affrays and disturbances,

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 2 - REVENUE AND FINANCE > Chapter 8. - FRANCHISES AND FEES > ARTICLE A. - ELECTRIC AND GAS UTILITY FRANCHISE FEE > 2-8A-1 - Short title.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT2REFI_CH8FRFE_ARTAELGAUTFRFE_2-8A-1SHTI"
 sha256: fe4bf76e2097e9f669c5fd0edfa1ec054cbe64fbf6600007d562f0b9806b6f08
-fetched_at: "2026-09-18T04:16:22+00:00"
+fetched_at: "2026-09-22T00:52:30+00:00"
 ---
 
 This article shall be known and may be cited as the Erie Electric and Gas Utility

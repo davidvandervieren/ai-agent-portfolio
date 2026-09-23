@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-45 - County Board of Health > 2-45-010 - Members; term of office.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-45COBOHE_2-45-010METEOF"
 sha256: 606e77d21b92b9c562aa8844eb9bd5f2cd96b83c98b5b8497439afa8f55ea2df
-fetched_at: "2026-09-17T15:19:45+00:00"
+fetched_at: "2026-09-21T19:28:24+00:00"
 ---
 
 (A)

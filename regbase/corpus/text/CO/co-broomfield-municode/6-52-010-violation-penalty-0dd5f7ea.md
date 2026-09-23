@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 6 - ANIMALS > Chapter 6-52 - Enforcement > 6-52-010 - Violation; penalty.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT6AN_CH6-52EN_6-52-010VIPE"
 sha256: 55a2472d8abb3764de7cd657d43ae15031de9215e4b0040b93fc11c54bfbd2d4
-fetched_at: "2026-09-17T15:37:24+00:00"
+fetched_at: "2026-09-21T19:46:12+00:00"
 ---
 
 (A)

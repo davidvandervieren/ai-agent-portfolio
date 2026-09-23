@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-26 - City and County of Broomfield Employees' Medical Care Expense Plan > 2-26-010 - Establishment of trust fund.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-26CICOBREMMECAEXPL_2-26-010ESTRFU"
 sha256: 18ba8f429c99222ce0e84b02f57084611d8cf2704f9bd18ed5ea8195a050c704
-fetched_at: "2026-09-17T15:18:03+00:00"
+fetched_at: "2026-09-21T19:26:39+00:00"
 ---
 
 There is created and established the City and County of Broomfield Employees' Medical

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-44 - Parks, Recreation and Senior Services Advisory Committee > 2-44-010 - Committee established.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-44PARESESEADCO_2-44-010COES"
 sha256: 490380821df4d64d8f9aa1bf4e619fe8755bb94bf08585d1a6e8ea1d1e1d5745
-fetched_at: "2026-09-17T15:19:37+00:00"
+fetched_at: "2026-09-21T19:28:16+00:00"
 ---
 
 There is hereby established a parks, recreation and senior services advisory committee,

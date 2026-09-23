@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 10 - UNIFIED DEVELOPMENT CODE > Chapter 1. - GENERAL PROVISIONS > 10-1-1 - Title and effective date.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT10UNDECO_CH1GEPR_10-1-1TIEFDA"
 sha256: f0cdf9ce664ab85a1d655d6106aa7e244345a370ea18a40196d791c8c74c9555
-fetched_at: "2026-09-18T04:12:28+00:00"
+fetched_at: "2026-09-22T00:48:50+00:00"
 ---
 
 Editor's note— Ord. 47-2020 , § 1(Attch.), adopted Nov. 10, 2020, repealed ch. 1, §§ 10-1-1—10-1-10, and reenacted

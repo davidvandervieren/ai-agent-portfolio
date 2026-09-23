@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.340 - Compliance with Town requirements.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.340COTORE"
 sha256: 7cc2fda667bfb75cc5f97c84c0c30c171a6af3724ae32583f9456830100ac340
-fetched_at: "2026-09-18T05:20:51+00:00"
+fetched_at: "2026-09-22T01:57:27+00:00"
 ---
 
 Representatives of the Town and United Power shall meet annually to discuss annual

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE I - Cable Television Franchise > Division 14 - Franchise Transfer
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH5FRCOSY_ARTICATEFR_DIV14FRTR"
 sha256: 75e36fbc58b402fdc8f331654fecda8a6878505482c35e457ea8be562d206798
-fetched_at: "2026-09-18T11:11:03+00:00"
+fetched_at: "2026-09-23T01:48:29+00:00"
 ---
 
 (a)

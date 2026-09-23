@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE I - HOME RULE > SUBTITLE B - CHARTER > ARTICLE V. - AUDITOR > PART 1. - ELECTION AND SUCCESSION
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIHORU_SUBTITLE_BCH_ARTVAU_PT1ELSU"
 sha256: 9438e8c9b80ebd816600b291a7d0937bc27467bee89ecccc32a843d534a4013d
-fetched_at: "2026-09-17T23:41:14+00:00"
+fetched_at: "2026-09-21T22:55:50+00:00"
 ---
 
 When any Auditor is unable, by reason of resignation, death, or moving from the City

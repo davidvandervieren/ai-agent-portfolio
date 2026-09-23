@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IV - Supplementary District Regulations and Zoning Permits > Division 16 - Cargo Containers
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIVSUDIREZOPE_DIV16CACO"
 sha256: f3d51b379ac65d4adcb336889ffc5e91404aba3cc1bb7df3ba307050c4fb562f
-fetched_at: "2026-09-18T06:01:11+00:00"
+fetched_at: "2026-09-22T02:33:44+00:00"
 ---
 
 Where permitted in Article III of this Chapter, a CARGO CONTAINER shall comply with

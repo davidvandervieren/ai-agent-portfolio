@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 3 - Human Resources > ARTICLE XV - HIPAA Policies and Procedures
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH3HURE_ARTXVHIPOPR"
 sha256: e8995a91372918c0cbb7818028f062ec1af1886b5c24c0c1ccd8ddb364cd9391
-fetched_at: "2026-09-18T05:50:24+00:00"
+fetched_at: "2026-09-22T02:27:06+00:00"
 ---
 
 A.

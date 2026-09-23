@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 10 - VEHICLES AND TRAFFIC > Chapter 10-27 - Vehicular Public Nuisances > 10-27-010 - Purpose and strict liability.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT10VETR_CH10-27VEPUNU_10-27-010PUSTLI"
 sha256: 613a71055fe2fab0cc3b7cd10dcbcac70dd6504748a4db588780cf1a2318483c
-fetched_at: "2026-09-17T15:43:50+00:00"
+fetched_at: "2026-09-21T19:52:38+00:00"
 ---
 
 (A)

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17-76 - Inclusionary Housing > 17-76-010 - Purpose and objectives.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-76INHO_17-76-010PUOB"
 sha256: 938d4d3eee26b0e5c1a3961b6fbd72df1f4e6b335d121edb2b105e2e61f62aa8
-fetched_at: "2026-09-17T16:14:26+00:00"
+fetched_at: "2026-09-21T20:22:45+00:00"
 ---
 
 Editor's note— ( Ord. No. 2187 , § 1, adopted October 25, 2022, repealed the former ch. 17-76, §§ 17-76-010—17-76-060,

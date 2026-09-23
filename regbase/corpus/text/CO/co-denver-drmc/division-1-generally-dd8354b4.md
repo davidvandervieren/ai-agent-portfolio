@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 26 - BOARDING HOMES, PERSONAL CARE BOARDING HOMES, AND NONGOVERNMENTAL RESIDENTIAL FACILITIES FOR THE TREATMENT OR SUPERVISION OF OFFENDERS > ARTICLE I. - IN GENERAL > DIVISION 1. - GENERALLY
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH26BOHOPECABOHONOREFATRSUOF_ARTIINGE_DIV1GE"
 sha256: b39999a93ee8917f6c6b3f3d484946810248882b86e4935dd2257ac7ba58c045
-fetched_at: "2026-09-17T23:35:48+00:00"
+fetched_at: "2026-09-21T22:49:34+00:00"
 ---
 
 Editor's note— Ord. No. 376-97, § 1, adopted June 16, 1997, amended the substantive provisions of

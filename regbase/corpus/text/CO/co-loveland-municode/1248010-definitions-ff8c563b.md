@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 12 - STREETS, SIDEWALKS AND PUBLIC PLACES > CHAPTER 12.48. - AIRPORT > 12.48.010 - Definitions.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT12STSIPUPL_CH12.48AI_12.48.010DE"
 sha256: 749dcd77fc9ac41ae1fcd14839f16aaf9da5d14868e07cf44369365b135c027f
-fetched_at: "2026-09-18T10:28:28+00:00"
+fetched_at: "2026-09-23T01:05:23+00:00"
 ---
 
 As used in this chapter, the following words shall have the following meanings:

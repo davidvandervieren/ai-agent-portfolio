@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-42 - Open Space and Trails Advisory Committee > 2-42-010 - Committee established.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-42OPSPTRADCO_2-42-010COES"
 sha256: 0d7008341a02e53bb857af60f77608bf47e03f6d3a937161080478bd1b033fe9
-fetched_at: "2026-09-17T15:19:29+00:00"
+fetched_at: "2026-09-21T19:28:08+00:00"
 ---
 
 There is hereby established an open space and trails advisory committee, which will

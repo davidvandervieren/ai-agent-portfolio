@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE XII - Fort Lupton Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTXIIFOLUPL"
 sha256: 48641ca2617d8f349b93e0a440f6b7842f3ec201fd4a66adec267f7cca115817
-fetched_at: "2026-09-17T13:32:26+00:00"
+fetched_at: "2026-09-21T17:42:09+00:00"
 ---
 
 Editor's note— Ord. No. 2014-10 , adopted September 29, 2014, repealed the former Art. XII, §§ 19-12-10—19-12-90,

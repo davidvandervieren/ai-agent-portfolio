@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 58 - WAGES AND WORKER PROTECTIONS > ARTICLE II. - WORKER RETENTION
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH58WAWOPR_ARTIIWORE"
 sha256: 59d9e807798c4f62e67f208269a2a0eec595d8af843d1d8bcf1018132f432a96
-fetched_at: "2026-09-17T23:30:24+00:00"
+fetched_at: "2026-09-21T21:36:49+00:00"
 ---
 
 Editor's note— Ord. No. 1614-22, §§ 1—3, adopted January 9, 2023, repealed arts. I, II, §§ 58-16—58-18

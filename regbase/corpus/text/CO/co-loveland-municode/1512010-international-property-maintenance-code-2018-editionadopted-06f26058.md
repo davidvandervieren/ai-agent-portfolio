@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 15 - BUILDINGS AND CONSTRUCTION > CHAPTER 15.12. - PROPERTY MAINTENANCE CODE > 15.12.010 - International Property Maintenance Code, 2018 Edition—Adopted.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT15BUCO_CH15.12PRMACO_15.12.010INPRMACO2018EDDO"
 sha256: 49c30b03ada58e958bdc8c7dd116ef8972db014968ede0b6b6831342ebd6d343
-fetched_at: "2026-09-18T10:36:51+00:00"
+fetched_at: "2026-09-23T01:13:52+00:00"
 ---
 
 The International Property Maintenance Code, 2018 Edition, issued and published by

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE III - Refuse Collection > Division 1 - License Regulations
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH6BULIRE_ARTIIIRECO_DIV1LIRE"
 sha256: 390c844124c4e1e03b19ce186e97d3d2e82b98173fb3b8143fff9764f8138eee
-fetched_at: "2026-09-18T11:11:16+00:00"
+fetched_at: "2026-09-23T01:48:41+00:00"
 ---
 
 Every person, for hire or reward, proposing to or providing refuse removal service

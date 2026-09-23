@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 3 - REVENUE AND FINANCE > CHAPTER 3.24. - LODGING TAX > 3.24.005 - Purpose.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT3REFI_CH3.24LOTA_3.24.005PU"
 sha256: a9f4ccef832514815670d89a2370150085cfef408649b8b726d3a27341224335
-fetched_at: "2026-09-18T10:11:12+00:00"
+fetched_at: "2026-09-23T00:48:08+00:00"
 ---
 
 The city council declares that the purpose of the levy of the tax imposed by this

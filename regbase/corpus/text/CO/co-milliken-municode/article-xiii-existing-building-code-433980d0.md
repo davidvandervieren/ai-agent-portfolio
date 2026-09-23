@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE XIII - Existing Building Code
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH18BURE_ARTXIIIEXBUCO"
 sha256: 7815c59e2ea7551390a686f9a32d08afa4d9359cb380a29c6ea50ffcf6f87998
-fetched_at: "2026-09-18T11:10:24+00:00"
+fetched_at: "2026-09-23T01:47:50+00:00"
 ---
 
 Pursuant to Title 31, Article 16, Part 2, C.R.S., The International Existing Building

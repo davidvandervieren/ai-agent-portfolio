@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE III - Electrical Code
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH18BURE_ARTIIIELCO"
 sha256: 99e87d38d12c3eb11f01b1b6cdff5bc6d6cdc14b0b4f2892129798858e37ae77
-fetched_at: "2026-09-18T11:10:04+00:00"
+fetched_at: "2026-09-23T01:47:30+00:00"
 ---
 
 The 2020 Edition of NFPA 70, National Electrical Code, ("NEC") published by the National

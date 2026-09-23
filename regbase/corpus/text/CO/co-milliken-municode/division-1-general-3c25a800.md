@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE III - General Standards Applicable to all Districts > Division 1 - General
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH16LAUSCO_ARTIIIGESTAPALDI_DIV1GE"
 sha256: e4562eb97d663f66692c2a2f4dd41a694d7ee4d83d5cefe3dca2a15561cf7e81
-fetched_at: "2026-09-18T11:11:44+00:00"
+fetched_at: "2026-09-23T01:49:11+00:00"
 ---
 
 (a)

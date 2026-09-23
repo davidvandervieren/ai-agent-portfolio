@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3-08 - Use Tax > 3-08-010 - Purpose.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT3REFI_CH3-08USTA_3-08-010PU"
 sha256: 043bd33e468cc8157c51d727e2500bef178858614577c0eaa8c0c4fb69b9cb98
-fetched_at: "2026-09-17T15:24:23+00:00"
+fetched_at: "2026-09-21T19:33:05+00:00"
 ---
 
 The purpose of this act is to raise revenue. The tax imposed herein is a use tax on

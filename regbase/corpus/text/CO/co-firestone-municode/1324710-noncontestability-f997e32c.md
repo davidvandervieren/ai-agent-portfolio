@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.710 - Noncontestability.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.710NO"
 sha256: 269ca2013295a6155e3bc149832b32167157bea58b883610d8837b4b967ca797
-fetched_at: "2026-09-18T05:22:06+00:00"
+fetched_at: "2026-09-22T01:58:42+00:00"
 ---
 
 The Town and United Power agree to take all reasonable and necessary actions to assure

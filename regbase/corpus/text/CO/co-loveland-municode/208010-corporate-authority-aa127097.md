@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.08. - CITY COUNCIL > 2.08.010 - Corporate authority.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT2ADPE_CH2.08CICO_2.08.010COAU"
 sha256: 1d8e58e5df965fb01f05736aea7f60c12be881954f6332de549918601e6e577f
-fetched_at: "2026-09-18T10:04:31+00:00"
+fetched_at: "2026-09-23T00:41:21+00:00"
 ---
 
 The corporate authority of the city shall be vested in the city council, together

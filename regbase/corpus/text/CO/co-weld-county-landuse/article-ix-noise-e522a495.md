@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 14 - Health and Animals > ARTICLE IX - Noise
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH14HEAN_ARTIXNO"
 sha256: 4bb18bdf2d56d98d4c60047d44cabf578693eb559a93dbe82c48155558d948c4
-fetched_at: "2026-09-17T13:31:35+00:00"
+fetched_at: "2026-09-21T17:41:25+00:00"
 ---
 
 A.

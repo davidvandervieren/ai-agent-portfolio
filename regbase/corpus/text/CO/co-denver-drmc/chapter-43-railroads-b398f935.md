@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 43 - RAILROADS
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH43RA"
 sha256: d4fb3e933d5130b94e435e6e5b0a96fb08f10c64659c8ef2b4b752cad6d6d702
-fetched_at: "2026-09-17T23:28:14+00:00"
+fetched_at: "2026-09-21T21:29:06+00:00"
 ---
 
 Cross reference— Offenses related to railroads, § 38-191 et seq.; streets, sidewalks and other public ways, Ch. 49; traffic regulations, Ch. 54; operation of vehicles near railroad crossings, § 54-278 et seq.; transportation and motor vehicles, Ch. 55; utilities, Ch. 56.

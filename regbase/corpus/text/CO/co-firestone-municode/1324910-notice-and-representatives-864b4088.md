@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.910 - Notice and representatives.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.910NORE"
 sha256: 4738d733fbc00699409a12736b927c5da54eb9e447bda81c442856564e64f069
-fetched_at: "2026-09-18T05:22:47+00:00"
+fetched_at: "2026-09-22T01:59:26+00:00"
 ---
 
 Both parties shall designate from time to time, in writing, representatives for United

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 2 - REVENUE AND FINANCE > Chapter 12. - SOLID WASTE MANAGEMENT SERVICE CHARGE > 2-12-1 - Service charge established.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT2REFI_CH12SOWAMASECH_2-12-1SECHES"
 sha256: 6075bac96d04c05e639609923b5708af8568cd26ff6146157ca986557520ccb3
-fetched_at: "2026-09-18T03:58:17+00:00"
+fetched_at: "2026-09-22T00:34:31+00:00"
 ---
 
 There is hereby fixed and established a service charge in the amount of ten percent

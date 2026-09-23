@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.04. - ELECTIONS—TERMS OF OFFICERS—VACANCIES > 2.04.015 - Write-in candidates and cancellation of elections.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT2ADPE_CH2.04ELEROFAC_2.04.015WRCACAEL"
 sha256: dfc7f0f40e9f3fc642cfdd0813b9fcb74d5479256ca33fbf7a466790213cc779
-fetched_at: "2026-09-18T10:04:26+00:00"
+fetched_at: "2026-09-23T00:41:16+00:00"
 ---
 
 A.

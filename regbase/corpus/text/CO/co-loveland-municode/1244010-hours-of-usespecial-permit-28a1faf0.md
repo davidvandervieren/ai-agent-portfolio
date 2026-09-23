@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 12 - STREETS, SIDEWALKS AND PUBLIC PLACES > CHAPTER 12.44. - PARKS > 12.44.010 - Hours of use—Special permit.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT12STSIPUPL_CH12.44PA_12.44.010HOUPEPE"
 sha256: b2c1d974d22aef705df2466c98b5ced681b83abd55ceaccda490aa21ea024e3c
-fetched_at: "2026-09-18T10:28:18+00:00"
+fetched_at: "2026-09-23T01:05:13+00:00"
 ---
 
 State Law reference— Cities to acquire lands for park purposes, C.R.S. § 31-25-201 et seq.

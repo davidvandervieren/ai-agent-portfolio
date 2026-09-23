@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.530 - Audit of underground fund.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.530AUUNFU"
 sha256: 4792907fde0c8e39b7eeefa3ec5fa96afd8982573ce2e9f3d4702d1866e0132e
-fetched_at: "2026-09-18T05:21:30+00:00"
+fetched_at: "2026-09-22T01:58:06+00:00"
 ---
 
 Upon written request of the Town, but no more frequently than once every three years,

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > Article 14 - Public Utilities, Franchises, and Use of Public Property > 14.01 - Town Authority.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=HORUCH_ART14PUUTFRUSPUPR_14.01TOAU"
 sha256: 7b2d626a9f385a885a13628ec389949485b4eff3eecb3ae005dd703e5b17c6e0
-fetched_at: "2026-09-18T03:53:04+00:00"
+fetched_at: "2026-09-22T00:29:20+00:00"
 ---
 
 (1)

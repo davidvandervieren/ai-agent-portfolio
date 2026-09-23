@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IV - Supplementary District Regulations and Zoning Permits > Division 9 - Miscellaneous Regulations
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIVSUDIREZOPE_DIV9MIRE"
 sha256: 99d0629e1100012b36ee19d47ffd3430ff8ca4be4f334f7e28f5443e41d6eff2
-fetched_at: "2026-09-18T06:00:57+00:00"
+fetched_at: "2026-09-22T02:33:36+00:00"
 ---
 
 No BUILDING containing OCCUPIABLE SPACE shall be constructed within two hundred fifty

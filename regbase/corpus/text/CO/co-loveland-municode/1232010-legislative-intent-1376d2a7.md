@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 12 - STREETS, SIDEWALKS AND PUBLIC PLACES > CHAPTER 12.32. - TREES AND SHRUBS > 12.32.010 - Legislative intent.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT12STSIPUPL_CH12.32TRSH_12.32.010LEIN"
 sha256: 07381305e507c6099ddbe207cba208cc9d08dec3821320ba6471d9132d2ac78e
-fetched_at: "2026-09-18T10:27:30+00:00"
+fetched_at: "2026-09-23T01:04:23+00:00"
 ---
 
 Editor's note— Ord. No. 6597 , § 1, adopted Dec. 6, 2022, amended Ch. 12.32 in its entirety to read as herein set

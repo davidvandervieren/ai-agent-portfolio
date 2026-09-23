@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 10 - VEHICLES AND TRAFFIC > Chapter 10-04 - Traffic Code > 10-04-010 - Legislative declaration.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT10VETR_CH10-04TRCO_10-04-010LEDE"
 sha256: b397bce48c01a6575fe1624b5245e8eb1e1c063a792eec0d6de167e1de4d7115
-fetched_at: "2026-09-17T15:41:18+00:00"
+fetched_at: "2026-09-21T19:50:07+00:00"
 ---
 
 The city council declares that the purpose of this chapter is to provide a system

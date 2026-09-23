@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 16 - FIRESTONE DEVELOPMENT CODE > Chapter 11 - Definitions > 16.11.1 - General rules of construction.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT16FIDECO_CH11DE_16.11.1GERUCO"
 sha256: 8c00de3fc7d076bed408aa0bc9ce51369a3876dfd26a746c9d6fe5509f72fcce
-fetched_at: "2026-09-18T05:32:01+00:00"
+fetched_at: "2026-09-22T02:08:50+00:00"
 ---
 
 Sections:

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.06 - International Residential Code > 15.06.010 - Adoption of the International Residential Code.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT15BUCO_CH15.06INRECO_15.06.010ADINRECO"
 sha256: cd479174f7c5f6a99ce12516d74323a2060e3b1c3af7155701ab583afae4a0a3
-fetched_at: "2026-09-18T05:24:27+00:00"
+fetched_at: "2026-09-22T02:01:07+00:00"
 ---
 
 Sections

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15-12 - National Electrical Code > 15-12-010 - Amendments to the National Electrical Code.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT15BUCO_CH15-12NAELCO_15-12-010AMNAELCO"
 sha256: 8d3938a9616aa59115b238a13851b54d736ecfd2c9a99465a80ceb14307dcf05
-fetched_at: "2026-09-17T15:53:56+00:00"
+fetched_at: "2026-09-21T20:02:32+00:00"
 ---
 
 The following amendments are hereby made to the National Electrical Code. The following

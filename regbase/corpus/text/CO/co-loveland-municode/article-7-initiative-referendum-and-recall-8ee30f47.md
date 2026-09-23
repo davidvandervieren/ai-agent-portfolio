@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE 7. - INITIATIVE, REFERENDUM, AND RECALL
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTICH_ART7INRERE"
 sha256: d28ee9ba780aa8200c9c6eb3e2cdf47270b49a69b379453757f41d57297aa7ee
-fetched_at: "2026-09-18T10:01:49+00:00"
+fetched_at: "2026-09-23T00:38:50+00:00"
 ---
 
 (a)

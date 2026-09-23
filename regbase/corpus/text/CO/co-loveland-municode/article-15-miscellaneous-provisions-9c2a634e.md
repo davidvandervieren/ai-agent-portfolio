@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE 15. - MISCELLANEOUS PROVISIONS
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTICH_ART15MIPR"
 sha256: 1033e66240ff7a3b26d675b253b75bde6fff8d298a6e5e1d15fca283e424bbbd
-fetched_at: "2026-09-18T10:02:05+00:00"
+fetched_at: "2026-09-23T00:39:06+00:00"
 ---
 
 (a)

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 8 - Public Works > ARTICLE I - Snow and Ice Policy
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH8PUWO_ARTISNICPO"
 sha256: ccbed1a9b7d5e03b1a4c8a6815145eaa0a792cea481bd396aa9d5e6bf831689b
-fetched_at: "2026-09-17T13:29:53+00:00"
+fetched_at: "2026-09-21T17:40:25+00:00"
 ---
 
 A.

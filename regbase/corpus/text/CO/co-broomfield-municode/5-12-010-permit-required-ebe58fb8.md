@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5-12 - Community Antenna Television System > 5-12-010 - Permit; required.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5-12COANTESY_5-12-010PERE"
 sha256: 8ed148c64ee83bf75a23d9af228667ec0cca64b1821b4de2454b5903b0daca5f
-fetched_at: "2026-09-17T15:28:15+00:00"
+fetched_at: "2026-09-21T19:37:01+00:00"
 ---
 
 No person, firm, corporation, or organization shall install, operate, and maintain

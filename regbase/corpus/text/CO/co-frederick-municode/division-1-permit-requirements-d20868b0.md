@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 21 - Areas and Activities of State Interest > ARTICLE II - Permit Regulations > Division 1 - Permit Requirements
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH21ARACSTIN_ARTIIPERE_DIV1PERE"
 sha256: 4bc648e2deb69a8fdbca4de131acea10b4a66dd75e4f8875a5a8fff139f57e4a
-fetched_at: "2026-09-18T05:59:23+00:00"
+fetched_at: "2026-09-22T02:32:17+00:00"
 ---
 
 The permit regulations set forth in this Article II shall not apply to the regulations

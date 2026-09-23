@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO > ARTICLE XVII - AMENDMENTS TO CHARTER
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO_ARTXVIIAMCH"
 sha256: 7ae99d723c48269edb7b5c4ae8638155789e358b55a141326766039d01dad861
-fetched_at: "2026-09-17T13:27:03+00:00"
+fetched_at: "2026-09-21T17:38:20+00:00"
 ---
 
 (1)

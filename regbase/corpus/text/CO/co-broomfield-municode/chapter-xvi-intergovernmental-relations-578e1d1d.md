@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER XVI - INTERGOVERNMENTAL RELATIONS
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHXVIINRE"
 sha256: b5c1ff425eb6b065de2f9f2f59d7ddc1ddcb6a5aceef69ed61e5829cb7275e9f
-fetched_at: "2026-09-17T15:10:34+00:00"
+fetched_at: "2026-09-21T19:18:50+00:00"
 ---
 
 In the interest of governmental services provided on a regional or area-wide basis

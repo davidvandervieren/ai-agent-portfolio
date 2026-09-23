@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15-09 - International Existing Building Code > 15-09-010 - Amendments to the International Existing Building Code.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT15BUCO_CH15-09INEXBUCO_15-09-010AMINEXBUCO"
 sha256: 8f2cdc08f070c2dea739af00cf532f488a1a64757477c791df2fa79e468b4921
-fetched_at: "2026-09-17T15:53:50+00:00"
+fetched_at: "2026-09-21T20:02:26+00:00"
 ---
 
 The following amendments are hereby made to the 2024 International Existing Building

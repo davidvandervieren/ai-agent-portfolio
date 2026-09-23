@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 24 - Subdivisions > ARTICLE I - General Provisions
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTIGEPR"
 sha256: 22ed9a8907235a5e289b0fb7153326bbb03e353aa24e69e0d832e5aeb65140f6
-fetched_at: "2026-09-18T05:56:45+00:00"
+fetched_at: "2026-09-22T02:30:02+00:00"
 ---
 
 This Chapter shall be known and may be cited as the Weld County Subdivision Ordinance.

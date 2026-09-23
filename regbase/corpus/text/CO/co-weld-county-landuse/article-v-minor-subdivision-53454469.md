@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 24 - Subdivisions > ARTICLE V - Minor Subdivision
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTVMISU"
 sha256: a96ee210235bb9923c2003a9da63a20f9dcdfe39bc6f2bae8469996f9df670ff
-fetched_at: "2026-09-17T13:34:46+00:00"
+fetched_at: "2026-09-21T17:42:57+00:00"
 ---
 
 A.

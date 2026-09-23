@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 9 - PUBLIC PEACE, ORDER AND MORALS > V. OFFENSES AGAINST PROPERTY > CHAPTER 9.44. - OBSTRUCTING, DEFACING OR INJURING PROPERTY > 9.44.010 - Damaging city property.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT9PUPEORMO_V.OFAGPR_CH9.44OBDEINPR_9.44.010DAPR"
 sha256: 3c79850653e1ef12f025259c8a3a020e3a304c46678d3f1ff4ac2a98b0475909
-fetched_at: "2026-09-18T10:44:38+00:00"
+fetched_at: "2026-09-23T01:21:35+00:00"
 ---
 
 It is unlawful for any person to willfully, maliciously, wantonly, negligently, or

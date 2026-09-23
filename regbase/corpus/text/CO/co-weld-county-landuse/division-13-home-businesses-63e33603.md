@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IV - Supplementary District Regulations and Zoning Permits > Division 13 - Home Businesses
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIVSUDIREZOPE_DIV13HOBU"
 sha256: 6a2e48dd0c612a66df39b0535bc33ff2679f95f40fa5d895dab5960a84a45940
-fetched_at: "2026-09-17T13:38:57+00:00"
+fetched_at: "2026-09-21T17:46:24+00:00"
 ---
 
 A.

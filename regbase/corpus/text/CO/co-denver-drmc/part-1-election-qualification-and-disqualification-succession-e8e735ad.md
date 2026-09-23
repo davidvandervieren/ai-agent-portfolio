@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE I - HOME RULE > SUBTITLE B - CHARTER > ARTICLE III. - CITY COUNCIL > PART 1. - ELECTION, QUALIFICATION AND DISQUALIFICATION, SUCCESSION
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIHORU_SUBTITLE_BCH_ARTIIICICO_PT1ELQUDISU"
 sha256: a0e25da944b779ecb7c9b3afa2239c340e89f664c6dc34d56c6642db5344ac6d
-fetched_at: "2026-09-17T23:41:02+00:00"
+fetched_at: "2026-09-21T22:55:36+00:00"
 ---
 
 There shall be elected one Councilmember by the voters of each of the eleven Council

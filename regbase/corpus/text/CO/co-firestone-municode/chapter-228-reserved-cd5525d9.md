@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.28 - Reserved
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT2ADPE_CH2.28RE"
 sha256: bf13748108ebdc7147210d3482b535000e86797a1f8b51cf4f44adba60fb789c
-fetched_at: "2026-09-18T04:58:20+00:00"
+fetched_at: "2026-09-22T01:34:48+00:00"
 ---
 
 Editor's note— Ord. No. 994 , § 1, adopted April 28, 2021, repealed the former Ch. 2.04, §§ 2.04.010—2.04.280,

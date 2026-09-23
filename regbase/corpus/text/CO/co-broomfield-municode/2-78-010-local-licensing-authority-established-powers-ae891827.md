@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-78 - Local Licensing Authority > 2-78-010 - Local licensing authority; established; powers.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-78LOLIAU_2-78-010LOLIAUESPO"
 sha256: 4e74aca68f15a169a84a78998ffa62b5fd56ed611107b3dfc43ee96f9205afd2
-fetched_at: "2026-09-17T15:22:26+00:00"
+fetched_at: "2026-09-21T19:31:07+00:00"
 ---
 
 Editor's note— Ord. No. 2226 , § 1, adopted February 13, 2024, repealed the former ch. 2-78, §§ 2-78-010, 2-78-020,

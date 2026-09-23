@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE VI - Board of Adjustment
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTVIBOAD"
 sha256: 61d9bd0469ca7cbeb5c8c062412f3266f1edeaccb1309d7083c4975b2a45f2a1
-fetched_at: "2026-09-18T05:55:59+00:00"
+fetched_at: "2026-09-22T02:29:51+00:00"
 ---
 
 A.

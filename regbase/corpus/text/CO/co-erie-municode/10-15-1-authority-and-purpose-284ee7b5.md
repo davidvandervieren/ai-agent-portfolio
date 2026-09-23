@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 10 - UNIFIED DEVELOPMENT CODE > Chapter 15. - NATURAL MEDICINE BUSINESSES > 10-15-1 - Authority and purpose.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT10UNDECO_CH15NAMEBU_10-15-1AUPU"
 sha256: 462d928eee3d64d10ecd2403071225d24b37a54a36238f5982464e3b41b91dc6
-fetched_at: "2026-09-18T04:15:59+00:00"
+fetched_at: "2026-09-22T00:52:08+00:00"
 ---
 
 A.

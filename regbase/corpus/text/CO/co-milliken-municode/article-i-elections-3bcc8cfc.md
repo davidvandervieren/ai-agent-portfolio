@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration and Personnel > ARTICLE I - Elections
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH2ADPE_ARTIEL"
 sha256: 10c7638a7a7646b1af863a38cb9cb9f2469a663bfb4f8c3a571560b7c6c7e95a
-fetched_at: "2026-09-18T11:07:48+00:00"
+fetched_at: "2026-09-23T01:45:15+00:00"
 ---
 
 Municipal elections shall be held and conducted in accordance with the Colorado Municipal

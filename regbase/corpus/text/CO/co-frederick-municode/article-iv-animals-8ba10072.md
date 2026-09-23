@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 14 - Health and Animals > ARTICLE IV - Animals
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH14HEAN_ARTIVAN"
 sha256: dd31029aef3d711555d9bf07941ff2da8098ce263146705c78cf3d4e5f7cc79d
-fetched_at: "2026-09-18T05:53:41+00:00"
+fetched_at: "2026-09-22T02:28:26+00:00"
 ---
 
 As used in this Article, the following words have the following meanings:

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.540 - Environmental leadership.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.540ENLE"
 sha256: 2fa56f168a6228d9861f4de0928eaa3ce054cc0576175df221c82c6154e31a47
-fetched_at: "2026-09-18T05:21:32+00:00"
+fetched_at: "2026-09-22T01:58:08+00:00"
 ---
 
 United Power is committed to using the earth's resources wisely; supporting the advancement

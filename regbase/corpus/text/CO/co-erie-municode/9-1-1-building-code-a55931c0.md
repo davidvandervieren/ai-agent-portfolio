@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 9 - BUILDING REGULATIONS > Chapter 1. - BUILDING CODES > 9-1-1 - Building code.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT9BURE_CH1BUCO_9-1-1BUCO"
 sha256: 7385619e73b62fa467813b1d62cc09f99e836884f0ad8d146c7a462471732550
-fetched_at: "2026-09-18T04:11:08+00:00"
+fetched_at: "2026-09-22T00:47:30+00:00"
 ---
 
 Editor's note— Ord. No. 46-2019, § 1, adopted December 10, 2019, repealed the former chapter 1, §§

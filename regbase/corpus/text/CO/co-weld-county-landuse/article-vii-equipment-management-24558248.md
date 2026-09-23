@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration > ARTICLE VII - Equipment Management
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH2AD_ARTVIIEQMA"
 sha256: ed463358a68b46780ab59d0d7319b5e118b7aa70208e9cdf009673eeac27e2d3
-fetched_at: "2026-09-17T13:27:30+00:00"
+fetched_at: "2026-09-21T17:38:44+00:00"
 ---
 
 In accordance with the Board of County Commissioners' policy, adopted December 17,

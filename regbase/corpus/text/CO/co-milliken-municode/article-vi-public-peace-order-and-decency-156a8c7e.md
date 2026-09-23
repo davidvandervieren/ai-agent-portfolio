@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE VI - Public Peace, Order and Decency
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH10GEOF_ARTVIPUPEORDE"
 sha256: 1ce89050546506903e0dfc432c8f14263f47b3fef6018262cf38074692ea0144
-fetched_at: "2026-09-18T11:09:18+00:00"
+fetched_at: "2026-09-23T01:46:43+00:00"
 ---
 
 (a)

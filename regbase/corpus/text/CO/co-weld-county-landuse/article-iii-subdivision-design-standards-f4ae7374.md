@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 24 - Subdivisions > ARTICLE III - Subdivision Design Standards
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTIIISUDEST"
 sha256: 900e66ba7a12ad266ba084f39b01cacea5ff0f00bae22414401ea733ea9cf2f8
-fetched_at: "2026-09-17T13:34:43+00:00"
+fetched_at: "2026-09-21T17:42:54+00:00"
 ---
 
 All subdivisions approved by the Board of County Commissioners or appointed representatives shall

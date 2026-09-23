@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15-05 - International Residential Code > 15-05-010 - Amendments to the International Residential Code.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT15BUCO_CH15-05INRECO_15-05-010AMINRECO"
 sha256: c4d8c1d1d55dd7403cc2527ef1256d6b1b5a31b4965d8cfc374ed4faed1889ee
-fetched_at: "2026-09-17T15:53:42+00:00"
+fetched_at: "2026-09-21T20:02:18+00:00"
 ---
 
 The following amendments are hereby made to the 2024 International Residential Code,

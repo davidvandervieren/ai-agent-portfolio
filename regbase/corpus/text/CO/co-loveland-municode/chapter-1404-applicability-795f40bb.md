@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 14 - Wireless Communications Code > Chapter 14.04 - Applicability.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT14WICOCO_CH14.04AP"
 sha256: 56991ddf76221af0cd146f2aeeb480bdbcd6b4e039bd95ff0d9749a5c4bfb9f2
-fetched_at: "2026-09-18T10:02:35+00:00"
+fetched_at: "2026-09-23T00:39:29+00:00"
 ---
 
 This chapter applies to the installation, construction, and modification of wireless

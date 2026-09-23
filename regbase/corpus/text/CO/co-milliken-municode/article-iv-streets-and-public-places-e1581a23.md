@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE IV - Streets and Public Places
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH10GEOF_ARTIVSTPUPL"
 sha256: 52396d78126b1ca24692f4479fc8b2da5a35d312e7ae251724c8b16b50b40279
-fetched_at: "2026-09-18T11:09:14+00:00"
+fetched_at: "2026-09-23T01:46:39+00:00"
 ---
 
 (a)

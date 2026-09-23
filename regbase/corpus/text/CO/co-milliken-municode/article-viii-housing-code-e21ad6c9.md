@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE VIII - Housing Code
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH18BURE_ARTVIIIHOCO"
 sha256: fc84df3d4d132114c02ccf6f1fb71af0e412aec2685cd204df8b956fcdb6f8b7
-fetched_at: "2026-09-18T11:10:15+00:00"
+fetched_at: "2026-09-23T01:47:40+00:00"
 ---
 
 Pursuant to Title 31, Article 16, Part 2, C.R.S., there is adopted as the housing

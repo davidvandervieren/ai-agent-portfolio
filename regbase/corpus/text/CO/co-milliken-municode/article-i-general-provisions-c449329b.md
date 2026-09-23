@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE I - General Provisions
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH10GEOF_ARTIGEPR"
 sha256: 2df19bdb8e6d44145f139fa1b622a8df06b7228ffd57b624b1d45f6f291ff9b9
-fetched_at: "2026-09-18T11:09:09+00:00"
+fetched_at: "2026-09-23T01:46:33+00:00"
 ---
 
 Pursuant to Part 2 of Article 16 of Title 31, C.R.S., there is adopted by reference,

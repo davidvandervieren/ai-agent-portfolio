@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 15 - BUILDINGS AND CONSTRUCTION > CHAPTER 15.20. - PLUMBING CODE > 15.20.010 - International Plumbing Code, 2021 Edition—Adopted.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT15BUCO_CH15.20PLCO_15.20.010INPLCO2021EDDO"
 sha256: 4e2470fb3617ed0f82a0b3b94bcba23288c98b449d8a56cafc79cf23db552e88
-fetched_at: "2026-09-18T10:37:34+00:00"
+fetched_at: "2026-09-23T01:14:34+00:00"
 ---
 
 The International Plumbing Code, 2021 Edition (the "2021 IPC"), issued and published

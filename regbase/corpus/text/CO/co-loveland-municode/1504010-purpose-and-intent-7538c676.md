@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 15 - BUILDINGS AND CONSTRUCTION > CHAPTER 15.04. - BUILDINGS AND CONSTRUCTION—ADMINISTRATION AND ENFORCEMENT > 15.04.010 - Purpose and intent.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT15BUCO_CH15.04BUCODMEN_15.04.010PUIN"
 sha256: 241d38565883dfaf4ca49055275e9dd9f8f326eb2ae7520e2b03c0f4d3af258c
-fetched_at: "2026-09-18T10:35:53+00:00"
+fetched_at: "2026-09-23T01:12:54+00:00"
 ---
 
 Editor's note— Ord. No. 6370 , § 1, adopted Dec. 15, 2020, repealed the former Ch. 15.04, §§ 15.04.010—15.04.200,

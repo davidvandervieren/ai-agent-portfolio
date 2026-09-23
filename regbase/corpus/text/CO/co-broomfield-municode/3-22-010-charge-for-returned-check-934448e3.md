@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3-22 - Returned Check Charge > 3-22-010 - Charge for returned check.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT3REFI_CH3-22RECHCH_3-22-010CHRECH"
 sha256: 0e946509bf5449348562febe53f43b93270c4e92493411ace664b4ff0baabb7a
-fetched_at: "2026-09-17T15:25:46+00:00"
+fetched_at: "2026-09-21T19:34:30+00:00"
 ---
 
 (A)

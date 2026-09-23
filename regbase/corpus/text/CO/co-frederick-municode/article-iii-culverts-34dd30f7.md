@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 8 - Public Works > ARTICLE III - Culverts
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH8PUWO_ARTIIICU"
 sha256: 8d6c08a2e359982ca9af7abbb5d5a59781b9d9119cd8d7b7ef3d8642c3c7c69d
-fetched_at: "2026-09-18T05:51:53+00:00"
+fetched_at: "2026-09-22T02:27:33+00:00"
 ---
 
 For the purpose of this Article, culverts may refer to, road culverts, driveway/access

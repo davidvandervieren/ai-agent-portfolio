@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15-04 - International Building Code > 15-04-010 - Amendments to the International Building Code.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT15BUCO_CH15-04INBUCO_15-04-010AMINBUCO"
 sha256: 4241565abfad3a0ebd9489c48925f82fda33d6b4e47091c1903866cea53e7d48
-fetched_at: "2026-09-17T15:53:40+00:00"
+fetched_at: "2026-09-21T20:02:16+00:00"
 ---
 
 The following amendments are hereby made to the 2024 International Building Code which

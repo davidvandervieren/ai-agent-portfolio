@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 24 - Subdivisions > ARTICLE XIII - Land Division Procedure
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTXIIILADIPR"
 sha256: 5454739e79ed4d5237ee764bd934f6a45c387d4489049f35623b5c0d5d60f9ac
-fetched_at: "2026-09-18T05:57:09+00:00"
+fetched_at: "2026-09-22T02:30:27+00:00"
 ---
 
 The process in this section shall be applicable only for those land division case

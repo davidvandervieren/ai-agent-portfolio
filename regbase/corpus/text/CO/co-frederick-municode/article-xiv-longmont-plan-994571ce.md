@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE XIV - Longmont Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTXIVLOPL"
 sha256: 865b4608341fdeaa312a86715df25b5564519383d29659f1465e9c354eb8753f
-fetched_at: "2026-09-18T05:54:41+00:00"
+fetched_at: "2026-09-22T02:29:25+00:00"
 ---
 
 This Coordinated Planning Agreement is made and entered into effective as of the 21st

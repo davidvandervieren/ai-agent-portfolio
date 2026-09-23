@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > Article 15 - Miscellaneous Provisions > 15.01 - Purchase, Sale, or Lease of Real Property.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=HORUCH_ART15MIPR_15.01PUSALEREPR"
 sha256: 25048c745e244c6eddd7a9b8c5b9b4619e35596091be845ddd0f1041ffd075a5
-fetched_at: "2026-09-18T03:53:20+00:00"
+fetched_at: "2026-09-22T00:29:38+00:00"
 ---
 
 Except as otherwise expressly provided herein, the Town Council by ordinance may purchase,

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 13 - Municipal Utilities > ARTICLE I - Legislative Purpose
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH13MUUT_ARTILEPU"
 sha256: ae222b68792f9b2f2bdc617a2fffc2719a8ca34ca2f7f882b843d0176165b896
-fetched_at: "2026-09-18T11:09:45+00:00"
+fetched_at: "2026-09-23T01:47:09+00:00"
 ---
 
 (a)

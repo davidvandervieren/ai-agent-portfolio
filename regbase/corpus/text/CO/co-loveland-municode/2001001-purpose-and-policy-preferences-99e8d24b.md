@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 20 - METROPOLITAN DISTRICTS > CHAPTER 20.01. - GENERAL PROVISIONS > 20.01.001 - Purpose and policy preferences.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT20MEDI_CH20.01GEPR_20.01.001PUPOPR"
 sha256: 3801ec22b40dace119aaeebccaa2e4480cd64d6663ec0799f7bb41f8a72404ef
-fetched_at: "2026-09-18T10:42:32+00:00"
+fetched_at: "2026-09-23T01:19:27+00:00"
 ---
 
 A.

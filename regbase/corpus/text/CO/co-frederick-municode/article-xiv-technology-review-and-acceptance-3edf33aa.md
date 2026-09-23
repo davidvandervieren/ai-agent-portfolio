@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 30 - Weld County Department of Public Health and Environment On-Site Wastewater Treatment System Regulations > ARTICLE XIV - Technology Review and Acceptance
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH30WECODEPUHEENTEWATRSYRE_ARTXIVTEREAC"
 sha256: 7f7a55e0e79f1d1d8e11a848a3d3f166c1412ffdce110fe3ed57e6a0c579f6e5
-fetched_at: "2026-09-18T05:58:09+00:00"
+fetched_at: "2026-09-22T02:31:16+00:00"
 ---
 
 A.

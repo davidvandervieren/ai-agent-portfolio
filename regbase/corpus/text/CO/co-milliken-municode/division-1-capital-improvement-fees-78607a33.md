@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE I - Development Fees > Division 1 - Capital Improvement Fees
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH18BURE_ARTIDEFE_DIV1CAIMFE"
 sha256: 657fc34a172a54c5c4441ec7adf5981d91d2a45b4d915d6b3df574bd9492781c
-fetched_at: "2026-09-18T11:12:32+00:00"
+fetched_at: "2026-09-23T01:50:00+00:00"
 ---
 
 Editor's note— Ord. 759 , § 1, adopted Dec. 2, 2017, repealed the former Div. 1, §§ 18-1-10—18-1-50, and enacted

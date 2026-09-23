@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.52 - Floodplain Regulations > 15.52.010 - Authorization.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT15BUCO_CH15.52FLRE_15.52.010AU"
 sha256: ab321e1095b6afb6c84b9b75019a58594716ee653ecd97b7073d55a32fe8f75c
-fetched_at: "2026-09-18T05:28:45+00:00"
+fetched_at: "2026-09-22T02:05:30+00:00"
 ---
 
 Sections

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO > ARTICLE VII - COUNTY ASSESSOR
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO_ARTVIICOAS"
 sha256: 660c5ccbda08899f74ad2ebf591f944ada3343b77aef5806158936becceb20a0
-fetched_at: "2026-09-18T05:48:38+00:00"
+fetched_at: "2026-09-22T02:25:28+00:00"
 ---
 
 The County Assessor shall execute to the people of the State of Colorado, and file

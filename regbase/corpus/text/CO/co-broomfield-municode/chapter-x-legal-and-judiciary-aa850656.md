@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER X - LEGAL AND JUDICIARY
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHXLEJU"
 sha256: d33c5d8f60b1c5d043bc8e773aaed3c6bd28050a46feed4a51a92bda25045a8a
-fetched_at: "2026-09-17T15:10:22+00:00"
+fetched_at: "2026-09-21T19:18:38+00:00"
 ---
 
 The Council shall appoint a City and County Attorney to serve at the pleasure of Council.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.44 - Installation of Pipelines, Conduits, Transmission Lines and Cables > 15.44.010 - Permit required.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT15BUCO_CH15.44INPICOTRLICA_15.44.010PERE"
 sha256: 6661aec1ced608c57a9a56786bd1ce29ad4c491d00c22ababf47f569508f497c
-fetched_at: "2026-09-18T05:27:33+00:00"
+fetched_at: "2026-09-22T02:04:15+00:00"
 ---
 
 Sections

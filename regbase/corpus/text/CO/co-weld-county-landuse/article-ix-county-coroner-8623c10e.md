@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO > ARTICLE IX - COUNTY CORONER
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO_ARTIXCOCO"
 sha256: 8f1f360abf233824e107aca54ac3569ad09b5d9d87ae6f48914e21729dc10ecf
-fetched_at: "2026-09-17T13:26:47+00:00"
+fetched_at: "2026-09-21T17:38:03+00:00"
 ---
 
 (1)

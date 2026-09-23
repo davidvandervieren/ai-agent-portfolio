@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15-18 - Elevator and Escalator Codes > 15-18-010 - Amendments to the Elevator and Escalator Codes.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT15BUCO_CH15-18ELESCO_15-18-010AMELESCO"
 sha256: d7debf144eeb352f6604e7e2669dbc22085f1bf525bce747d6413bb8a4d06f2b
-fetched_at: "2026-09-17T15:54:18+00:00"
+fetched_at: "2026-09-21T20:02:54+00:00"
 ---
 
 The following amendments are hereby made to the Elevator and Escalator Codes:

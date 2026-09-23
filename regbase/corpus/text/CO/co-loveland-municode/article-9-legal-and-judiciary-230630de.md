@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE 9. - LEGAL AND JUDICIARY
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTICH_ART9LEJU"
 sha256: 06e69e9b4d428662de0138f7f0c19ea5e42f1943c51824b74cb5ac3d1bc62a2e
-fetched_at: "2026-09-18T10:01:53+00:00"
+fetched_at: "2026-09-23T00:38:55+00:00"
 ---
 
 (a)

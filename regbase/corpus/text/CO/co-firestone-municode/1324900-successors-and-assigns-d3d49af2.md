@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.900 - Successors and assigns.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.900SUAS"
 sha256: 97e6e31ea69d2a970851c5c410ae1077b2458295ac65b70b3f619c1aea2ff815
-fetched_at: "2026-09-18T05:22:44+00:00"
+fetched_at: "2026-09-22T01:59:24+00:00"
 ---
 
 The rights, privileges, franchises and obligations granted and contained in this Agreement

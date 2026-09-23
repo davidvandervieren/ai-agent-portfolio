@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 8 - Public Works > ARTICLE XI. - Storm Drainage Criteria > Division 1 - General Provisions
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH8PUWO_ARTXISTDRCR_DIV1GEPR"
 sha256: d69cb07552a49ac028bbb36b0869a6546ef0b5111517a31e4ccd3f4d10fc29b5
-fetched_at: "2026-09-18T05:58:28+00:00"
+fetched_at: "2026-09-22T02:31:23+00:00"
 ---
 
 A.

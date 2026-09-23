@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 1 - GENERAL PROVISIONS > Chapter 1-01 - Code Adoption > 1-01-010 - Adoption.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT1GEPR_CH1-01COAD_1-01-010AD"
 sha256: 4543db8aeb9a7736c30732a2c2dd1a01b3feba880072156b1fc448a0172996bb
-fetched_at: "2026-09-17T15:10:46+00:00"
+fetched_at: "2026-09-21T19:19:02+00:00"
 ---
 
 Pursuant to the provisions of sections 6.10 and 6.11 of the Charter and Sections 31-16-201 through 31-16-208, C.R.S., there is hereby

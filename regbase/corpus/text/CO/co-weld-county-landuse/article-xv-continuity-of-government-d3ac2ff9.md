@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration > ARTICLE XV - Continuity of Government
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH2AD_ARTXVCOGO"
 sha256: f261c82e747d7fe3724796e5e7949ecc2222d5a48f8ae793f25893930f5be5e6
-fetched_at: "2026-09-17T13:27:46+00:00"
+fetched_at: "2026-09-21T17:39:01+00:00"
 ---
 
 For the purposes of this Article, certain terms or words used herein shall be interpreted

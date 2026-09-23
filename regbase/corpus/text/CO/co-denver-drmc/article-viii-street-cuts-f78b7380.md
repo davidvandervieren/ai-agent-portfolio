@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 49 - STREETS, SIDEWALKS AND OTHER PUBLIC WAYS > ARTICLE VIII. - STREET CUTS
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH49STSIOTPUWA_ARTVIIISTCU"
 sha256: 525e3c2f336195f4dd03d424f8c6b02fe34e09be163d3ba21aff3cbb7349fa7c
-fetched_at: "2026-09-17T23:30:08+00:00"
+fetched_at: "2026-09-21T21:35:28+00:00"
 ---
 
 Editor's note— Ord. No. 492-91, § 1, adopted July 1, 1991, amended this article in its entirety,

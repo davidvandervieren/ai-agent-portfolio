@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 30 - Weld County Department of Public Health and Environment On-Site Wastewater Treatment System Regulations > ARTICLE II - Scope and Purpose
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH30WECODEPUHEENTEWATRSYRE_ARTIISCPU"
 sha256: cf6faeb45cb2f878edc9263abe4b0499920d63ad2c9e5b8d5cca85558bee815d
-fetched_at: "2026-09-17T13:35:36+00:00"
+fetched_at: "2026-09-21T17:43:32+00:00"
 ---
 
 A.

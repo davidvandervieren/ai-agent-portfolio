@@ -7,8 +7,8 @@ agency: El Paso County Planning & Community Development
 title: "LDC Modules 1 & 2: Zoning Districts, Uses, and Development Standards"
 doc_type: code
 url: "https://elpasocountyldc.konveio.com/ldc-modules-1-2-zoning-districts-uses-and-development-standards"
-sha256: d6f2f1b4315c04ed312b6d1c29fe7e46a7e1370a05a20d0ce161c4258ef600bc
-fetched_at: "2026-09-17T16:38:16+00:00"
+sha256: cd5b8ec437d8113ff033e0a2bc9253126600ac3bd2f2304b1911e95b7f9a0bec
+fetched_at: "2026-09-21T20:45:14+00:00"
 ---
 
 <!-- heading-path: LDC Modules 1 & 2: Zoning Districts, Uses, and Development Standards -->

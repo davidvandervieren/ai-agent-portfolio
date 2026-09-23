@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - STREETS, SIDEWALKS AND PUBLIC PLACES > CHAPTER 13.04. - WORK IN CITY PROPERTY
 url: "https://library.municode.com/co/longmont/codes/code_of_ordinances?nodeId=PTIICOOR_TIT13STSIPUPL_CH13.04WOPR"
 sha256: 4a658890efbf1fc990bc92198cb0cddc4e19a4f3267391760540dfd75c2cb9c8
-fetched_at: "2026-09-18T08:28:53+00:00"
+fetched_at: "2026-09-22T03:57:35+00:00"
 ---
 
 The purposes of this chapter are to:

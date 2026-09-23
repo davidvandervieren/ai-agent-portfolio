@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Revenue and Finance > ARTICLE I - General and Special Funds
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH5REFI_ARTIGESPFU"
 sha256: 5b90723d226a4c334d14d08a6f87f11919a6a50f39d706629332980956a910ab
-fetched_at: "2026-09-17T13:28:39+00:00"
+fetched_at: "2026-09-21T17:40:03+00:00"
 ---
 
 Moneys in the funds described in this Chapter shall be in the custody of and managed

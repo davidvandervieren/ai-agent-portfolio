@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF DACONO HOME RULE CHARTER > ARTICLE VIII - Finance and Budget
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CIDAHORUCH_ARTVIIIFIBU"
 sha256: 50c620d10872d62ad05f8af0e2d2ad70495a3e9b90a8865b9405f016b05a71b8
-fetched_at: "2026-09-18T06:13:02+00:00"
+fetched_at: "2026-09-22T02:46:22+00:00"
 ---
 
 Unless otherwise provided by ordinance, the fiscal year of the City shall begin on

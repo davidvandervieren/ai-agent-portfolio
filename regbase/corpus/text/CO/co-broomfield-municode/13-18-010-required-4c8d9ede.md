@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 13 - PUBLIC SERVICES > Chapter 13-18 - Temporary Sewer Permits > 13-18-010 - Required.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT13PUSE_CH13-18TESEPE_13-18-010RE"
 sha256: bd378032b40fb06fbabd9a7821fcc01505b8596b6c0016145d0ba578bc06eb98
-fetched_at: "2026-09-17T15:48:19+00:00"
+fetched_at: "2026-09-21T19:57:06+00:00"
 ---
 
 A temporary permit is required whenever a temporary service connection is made to

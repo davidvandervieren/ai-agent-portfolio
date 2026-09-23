@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration > ARTICLE IX - Winter Storm Emergency Operation Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH2AD_ARTIXWISTEMOPPL"
 sha256: c82bd8958672b917778f14bd2c6eb3698f7dee6cca8f40da4bccce1ec5f6a6ba
-fetched_at: "2026-09-17T13:27:34+00:00"
+fetched_at: "2026-09-21T17:38:49+00:00"
 ---
 
 Weld County and Northeast Colorado are as susceptible to major winter storms as the

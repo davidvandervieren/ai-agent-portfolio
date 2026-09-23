@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.110 - Franchise fee.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.110FRFE"
 sha256: 630aaad2d673341f189f1979d3b15d4e6c82c938acc0dd7a875016c64a8563c3
-fetched_at: "2026-09-18T05:20:05+00:00"
+fetched_at: "2026-09-22T01:56:40+00:00"
 ---
 
 In consideration for the grant of this Franchise, United Power shall pay the Town

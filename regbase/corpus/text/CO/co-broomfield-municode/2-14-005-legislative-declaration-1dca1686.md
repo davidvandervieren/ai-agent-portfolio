@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-14 - Personnel Merit System > 2-14-005 - Legislative declaration.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-14PEMESY_2-14-005LEDE"
 sha256: 372b7322b8462da5d5c4706310cbd1be152b1fea98038cad1756ede5b5684968
-fetched_at: "2026-09-17T15:13:15+00:00"
+fetched_at: "2026-09-21T19:21:33+00:00"
 ---
 
 The personnel merit system is established pursuant to the provisions of section 9.1 of the Charter. The personnel merit system does not establish or create a contract

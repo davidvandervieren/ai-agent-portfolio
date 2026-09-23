@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 6 - POLICE AND TRAFFIC REGULATIONS > Chapter 1. - DEFINITIONS > 6-1-1 - Definitions.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT6POTRRE_CH1DE_6-1-1DE"
 sha256: 303d2b54453e854fc7cdc5377a40bbcfab097fa6281c603b3f21d7de29d716fc
-fetched_at: "2026-09-18T04:02:46+00:00"
+fetched_at: "2026-09-22T00:39:01+00:00"
 ---
 
 As used in this title, the following definitions shall apply:

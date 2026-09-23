@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 13 - UTILITIES > CHAPTER 13.08. - SEWER SYSTEM > 13.08.010 - Connections to city sanitary sewer system.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT13UT_CH13.08SESY_13.08.010COSASESY"
 sha256: a042f8e38d7ed8f37d080c49749864d46db9983b1a482e32534478956682c302
-fetched_at: "2026-09-18T10:32:18+00:00"
+fetched_at: "2026-09-23T01:09:11+00:00"
 ---
 
 A.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO > ARTICLE III - BOARD OF COUNTY COMMISSIONERS
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO_ARTIIIBOCOCO"
 sha256: ace6c1dfbd4de95e9ffe0eabcba5ad09b317f33aa06e4b76c5b3f96212ba1701
-fetched_at: "2026-09-18T05:48:30+00:00"
+fetched_at: "2026-09-22T02:25:20+00:00"
 ---
 
 The Board of County Commissioners shall consist of five members elected as follows:

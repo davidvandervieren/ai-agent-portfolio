@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 12 - STREETS, SIDEWALKS AND PUBLIC PLACES > CHAPTER 12.24. - STREET AND SIDEWALK MAINTENANCE > 12.24.010 - Dangerous places fenced.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT12STSIPUPL_CH12.24STSIMA_12.24.010DAPLFE"
 sha256: 57c0b47e6a3fde1388428ff7a1e63edb93845269ad69fceabc88184777a95ede
-fetched_at: "2026-09-18T10:25:37+00:00"
+fetched_at: "2026-09-23T01:02:29+00:00"
 ---
 
 All holes, depressions, excavations or other dangerous places within the city that

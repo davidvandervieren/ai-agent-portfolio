@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.40. - DEPARTMENT OF ADMINISTRATIVE SERVICES > 2.40.010 - Designated.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT2ADPE_CH2.40DEADSE_2.40.010DE"
 sha256: c5e7729a67883cd514f0573bdac852d6ffb3b899e86be3de8feabd6d12eb53bb
-fetched_at: "2026-09-18T10:05:27+00:00"
+fetched_at: "2026-09-23T00:42:19+00:00"
 ---
 
 There is created a department of administrative services, which shall be under the

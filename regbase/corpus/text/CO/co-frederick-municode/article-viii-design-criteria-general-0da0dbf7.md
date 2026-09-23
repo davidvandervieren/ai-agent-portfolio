@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 30 - Weld County Department of Public Health and Environment On-Site Wastewater Treatment System Regulations > ARTICLE VIII - Design Criteria - General
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH30WECODEPUHEENTEWATRSYRE_ARTVIIIDECREN"
 sha256: 56bcae8f6e66d5aeb5057cf998cc160c16a755617572a2460f2b04627c79dd7d
-fetched_at: "2026-09-18T05:57:58+00:00"
+fetched_at: "2026-09-22T02:30:56+00:00"
 ---
 
 A.

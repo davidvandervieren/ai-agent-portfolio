@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.260 - Reports of United Power operations.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.260REUNPOOP"
 sha256: fea78f1c08e6bde76882082ae0924e2e55304ac60764ca5fe326f600f3788e59
-fetched_at: "2026-09-18T05:20:35+00:00"
+fetched_at: "2026-09-22T01:57:10+00:00"
 ---
 
 United Power shall submit reasonable financial and operating reports containing or

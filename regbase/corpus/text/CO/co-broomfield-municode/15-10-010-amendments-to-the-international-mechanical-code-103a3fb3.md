@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15-10 - International Mechanical Code > 15-10-010 - Amendments to the International Mechanical Code.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT15BUCO_CH15-10INMECO_15-10-010AMINMECO"
 sha256: 55000ca05c58fb1640dc126eab2c181ca4b164a2c4ae5c1863022431b21eb215
-fetched_at: "2026-09-17T15:53:52+00:00"
+fetched_at: "2026-09-21T20:02:28+00:00"
 ---
 
 The following amendments are hereby made to the 2024 International Mechanical Code:

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Zoning > ARTICLE 1 - General Provisions
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CH16ZO_ART1GEPR"
 sha256: d5f5741a894b8dba0788756e17d8de8beea3bf20be92749599be458687e7f6e9
-fetched_at: "2026-09-18T06:13:46+00:00"
+fetched_at: "2026-09-22T02:49:20+00:00"
 ---
 
 This title shall be known as the Zoning Ordinance of the City of Dacono and may be

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: APPENDIX B - GUIDELINES AND REGULATIONS FOR AREAS AND ACTIVITIES OF STATE INTEREST > CHAPTER 1 - ADMINISTRATIVE REGULATIONS > Article 1. - Introductory and General Provisions
 url: "https://library.municode.com/co/el_paso_county/codes/land_development_code?nodeId=APXBGUREARACSTIN_CH1ADRE_ART1INGEPR"
 sha256: 88cf7c0693b1be7830def606816893957edbabc8aa89f98c60bc153d4146870f
-fetched_at: "2026-09-17T16:37:20+00:00"
+fetched_at: "2026-09-21T20:44:19+00:00"
 ---
 
 ADOPTED: June 6, 2013

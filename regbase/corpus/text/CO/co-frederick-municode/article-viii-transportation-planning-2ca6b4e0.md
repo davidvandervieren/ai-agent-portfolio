@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 8 - Public Works > ARTICLE VIII - Transportation Planning
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH8PUWO_ARTVIIITRPL"
 sha256: 4c39ab815ee45da9ffd0fcbd20d282f0f9fc3d947533b46a5e9c4e59c8b590d0
-fetched_at: "2026-09-18T05:52:03+00:00"
+fetched_at: "2026-09-22T02:27:43+00:00"
 ---
 
 Editor's note— Weld County Code Ordinance 2023-16, adopted January 8, 2024, amended article VIII

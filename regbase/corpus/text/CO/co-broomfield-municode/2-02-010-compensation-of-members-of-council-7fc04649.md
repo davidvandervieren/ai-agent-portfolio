@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-02 - City Council Compensation > 2-02-010 - Compensation of members of council.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-02CICOCO_2-02-010COMECO"
 sha256: 884542fb117f141c0d1acb64e9ddfee556de21caf0573ea71e92f3c020bfc671
-fetched_at: "2026-09-17T15:12:10+00:00"
+fetched_at: "2026-09-21T19:20:24+00:00"
 ---
 
 (A)

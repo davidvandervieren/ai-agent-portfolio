@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Revenue and Finance > ARTICLE II - Development Revenue Bond Policy
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH5REFI_ARTIIDEREBOPO"
 sha256: 3de7e34b4c2964d6f199436a27505d1decfd5f9fc49cce447185c58626c37e52
-fetched_at: "2026-09-18T05:50:36+00:00"
+fetched_at: "2026-09-22T02:27:11+00:00"
 ---
 
 A.

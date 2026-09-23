@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE VII - Annexation
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH16LAUSCO_ARTVIIAN"
 sha256: 0e052c66184440497a788a04f0726f2753e8858f7a3c1be783a1cc268a1afcb0
-fetched_at: "2026-09-18T11:09:58+00:00"
+fetched_at: "2026-09-23T01:47:24+00:00"
 ---
 
 The purpose of this Article is to establish a procedure to bring land under the jurisdiction

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17-44 - Sign Code > 17-44-010 - Short title.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-44SICO_17-44-010SHTI"
 sha256: 627b45d52e6a5d5d18eb1dde75f4a71752348a8939126d75f8518e7e96312e0c
-fetched_at: "2026-09-17T16:11:00+00:00"
+fetched_at: "2026-09-21T20:19:25+00:00"
 ---
 
 Editor's note— Ord. No. 2209 , § 4, adopted July 11, 2023, effective January 1, 2024, repealed the former ch. 17-44,

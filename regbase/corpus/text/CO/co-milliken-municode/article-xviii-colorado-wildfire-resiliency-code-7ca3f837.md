@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > Article XVIII - Colorado Wildfire Resiliency Code
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH18BURE_ARTXVIIICOWIRECO"
 sha256: 763d64d78c685e13b491461040bac57fa3bc24472b73b4ccf2d471b1e77d567b
-fetched_at: "2026-09-18T11:10:34+00:00"
+fetched_at: "2026-09-23T01:48:01+00:00"
 ---
 
 Editor's note— Ord. 834 , §§ 27—30, adopted Dec. 22, 2025, set out provisions intended for use as §§ 18-15-10—18-15-30.

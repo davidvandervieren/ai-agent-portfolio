@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8-04 - Garbage > 8-04-010 - Definitions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT8HESA_CH8-04GA_8-04-010DE"
 sha256: 1b6de513200aac1ab6296e42d93eb60b639e5529dd15e8671a90085d12c4edde
-fetched_at: "2026-09-17T15:37:40+00:00"
+fetched_at: "2026-09-21T19:46:28+00:00"
 ---
 
 For the purposes of this chapter, the following words shall have the following meanings:

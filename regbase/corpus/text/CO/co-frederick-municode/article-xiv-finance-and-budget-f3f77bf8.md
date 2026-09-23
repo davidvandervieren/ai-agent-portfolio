@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO > ARTICLE XIV - FINANCE AND BUDGET
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO_ARTXIVFIBU"
 sha256: 8ed9268a9bb0a8a07b2ab1c7f7f968e07522e2553e5a53dd6e656848c4fccca5
-fetched_at: "2026-09-18T05:48:52+00:00"
+fetched_at: "2026-09-22T02:25:42+00:00"
 ---
 
 The fiscal year of the County shall commence on January 1 and end on December 31 of

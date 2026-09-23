@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > Article 16 - Transition Provisions > 16.01 - Effective Date of Charter.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=HORUCH_ART16TRPR_16.01EFDACH"
 sha256: 28ebb546bef9863c1305fd32fb61fed0b89dfe43928f7d34ae5aca1d71ab9e44
-fetched_at: "2026-09-18T03:53:44+00:00"
+fetched_at: "2026-09-22T00:30:03+00:00"
 ---
 
 This Charter shall become effective immediately upon certification of the election

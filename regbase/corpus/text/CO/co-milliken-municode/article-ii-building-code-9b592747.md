@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE II - Building Code
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH18BURE_ARTIIBUCO"
 sha256: 258c4a34fdd0107917e6c45277f8794afc0d2b20a2ac9c1e8bcc843e4690f364
-fetched_at: "2026-09-18T11:10:03+00:00"
+fetched_at: "2026-09-23T01:47:28+00:00"
 ---
 
 (a)

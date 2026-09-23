@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 5 - BUSINESS LICENSES AND REGULATIONS > CHAPTER 5.45. - RESERVED
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT5BULIRE_CH5.45RE"
 sha256: d80693e664cf263b8a180e3ad8694294f8e16fa2e51f819d4ce876ad1ceb85ea
-fetched_at: "2026-09-18T10:02:17+00:00"
+fetched_at: "2026-09-23T00:39:13+00:00"
 ---
 
 The application for every license required by and issued under authority of the city

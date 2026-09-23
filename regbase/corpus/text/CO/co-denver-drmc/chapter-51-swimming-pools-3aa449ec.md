@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 51 - SWIMMING POOLS
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH51SWPO"
 sha256: 193d3f2783c98d67615b0a80e71cbdea0f999d4e021f7134413a4b440888c045
-fetched_at: "2026-09-17T23:28:18+00:00"
+fetched_at: "2026-09-21T21:29:09+00:00"
 ---
 
 Editor's note— Ord. No. 212-97, § 1, adopted Apr. 7, 1997, amended this chapter by the enactment

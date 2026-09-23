@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration > ARTICLE XIII - Weld County Addressing System
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH2AD_ARTXIIIWECOADSY"
 sha256: 73b7a34561ce636492190386ee92e27be2a3128d63bcf0af1abc30c37db17bcf
-fetched_at: "2026-09-18T05:49:35+00:00"
+fetched_at: "2026-09-22T02:26:29+00:00"
 ---
 
 A.

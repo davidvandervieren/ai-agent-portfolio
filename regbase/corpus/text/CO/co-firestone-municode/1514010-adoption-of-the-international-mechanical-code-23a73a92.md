@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.14 - International Mechanical Code > 15.14.010 - Adoption of the International Mechanical Code.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT15BUCO_CH15.14INMECO_15.14.010ADINMECO"
 sha256: d6721b695cfa5833581b6169207d8e0e4a0428ac6e25a2c1915c60faf5ead22f
-fetched_at: "2026-09-18T05:26:14+00:00"
+fetched_at: "2026-09-22T02:02:53+00:00"
 ---
 
 Sections

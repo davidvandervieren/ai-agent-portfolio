@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17-07.1 - OS Open Space District > 17-07.1-010 - Intent.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-07.1OSOPSPDI_17-07.1-010IN"
 sha256: 77130b04fd6f2e4b45190fccd75fb6e6aa5df51635c81f7f0c00e59cd3a4dd8f
-fetched_at: "2026-09-17T16:02:02+00:00"
+fetched_at: "2026-09-21T20:10:32+00:00"
 ---
 
 The OS Open Space district is intended for land intentionally protected from development

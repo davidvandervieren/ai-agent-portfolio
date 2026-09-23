@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IV - Supplementary District Regulations and Zoning Permits > Division 5 - Supplementary Regulations for Certain Uses
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIVSUDIREZOPE_DIV5SURECEUS"
 sha256: 97c1ef2f18a282423fbf1571aec449ef6f402d9f1c1bd3ad7fbe8755135f731c
-fetched_at: "2026-09-18T06:00:49+00:00"
+fetched_at: "2026-09-22T02:33:30+00:00"
 ---
 
 A.

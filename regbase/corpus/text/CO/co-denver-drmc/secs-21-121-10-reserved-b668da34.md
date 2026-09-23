@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 21 - FINANCIAL SERVICES > ARTICLE I. - IN GENERAL > Secs. 21-1—21-10. - Reserved.
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH21FISE_ARTIINGE_SS21-1--21-10RE"
 sha256: 4e9d6d12a879927040ef59fac7e9063b0f02a9a6905299611eb32973b8f1154a
-fetched_at: "2026-09-17T23:34:57+00:00"
+fetched_at: "2026-09-21T23:00:16+00:00"
 ---
 
 Editor's note— Ord. No. 186-92, § 1, adopted Mar. 30, 1992, repealed Art. II of this chapter, which

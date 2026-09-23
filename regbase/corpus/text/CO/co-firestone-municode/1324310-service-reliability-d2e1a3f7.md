@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.310 - Service reliability.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.310SERE"
 sha256: 4792559eca3cf1139a4bb8a3337936fc5bc586561abfc4b32b4597dde003c747
-fetched_at: "2026-09-18T05:20:45+00:00"
+fetched_at: "2026-09-22T01:57:20+00:00"
 ---
 
 A.

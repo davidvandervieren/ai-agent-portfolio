@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IV - Supplementary District Regulations and Zoning Permits > Division 3 - Manufactured Homes, Manufactured Structures, and Occupied Recreational Vehicles
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIVSUDIREZOPE_DIV3MAHOMASTOCREVE"
 sha256: 7d4af5bf58228acc89f0627165bf95e313c64512e3f9475db3e6f4c6cecf42f4
-fetched_at: "2026-09-18T06:00:45+00:00"
+fetched_at: "2026-09-22T02:33:26+00:00"
 ---
 
 Where a MANUFACTURED HOME, MANUFACTURED STRUCTURE, or occupied RECREATIONAL VEHICLE

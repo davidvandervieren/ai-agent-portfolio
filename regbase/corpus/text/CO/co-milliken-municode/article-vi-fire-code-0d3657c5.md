@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE VI - Fire Code
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH18BURE_ARTVIFICO"
 sha256: 4466f06a6128370a2b272aab65da127301ddd4189e5fbccd2f680cc2928de186
-fetched_at: "2026-09-18T11:10:11+00:00"
+fetched_at: "2026-09-23T01:47:37+00:00"
 ---
 
 Editor's note— Ord. No. 692 , §1, adopted March 12, 2014, repealed former §§ 18-6-10—18-6-40, and enacted new

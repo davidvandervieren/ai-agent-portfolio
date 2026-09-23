@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17-58 - Master Plan > 17-58-010 - Master plan preparation.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-58MAPL_17-58-010MAPLPR"
 sha256: 845c68f78e3bd244a0fd83433625994e27bf7a1dc7103aa1754472f72aade2d0
-fetched_at: "2026-09-17T16:12:26+00:00"
+fetched_at: "2026-09-21T20:20:53+00:00"
 ---
 
 (A)

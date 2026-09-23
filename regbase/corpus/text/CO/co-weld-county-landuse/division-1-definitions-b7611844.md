@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 14 - Health and Animals > ARTICLE VII - Biosolids > Division 1 - Definitions
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH14HEAN_ARTVIIBI_DIV1DE"
 sha256: 4cc19d4ef5cf05ba2733810809a5dd9d57eff92e290b33996e1d6fd544c2dc80
-fetched_at: "2026-09-17T13:36:48+00:00"
+fetched_at: "2026-09-21T17:44:30+00:00"
 ---
 
 As used herein, the following words have the following meanings:

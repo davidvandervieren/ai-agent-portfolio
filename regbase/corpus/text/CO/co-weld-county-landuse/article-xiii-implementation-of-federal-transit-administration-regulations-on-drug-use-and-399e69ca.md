@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 3 - Human Resources > ARTICLE XIII - Implementation of Federal Transit Administration Regulations on Drug Use and Alcohol Misuse
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH3HURE_ARTXIIIIMFETRADREDRUSALMI"
 sha256: 022f1584eadfaef2758e618a804d1ecfdd4b7dbc04bbf173fdc781023d855bfa
-fetched_at: "2026-09-17T13:28:25+00:00"
+fetched_at: "2026-09-21T17:39:56+00:00"
 ---
 
 A.

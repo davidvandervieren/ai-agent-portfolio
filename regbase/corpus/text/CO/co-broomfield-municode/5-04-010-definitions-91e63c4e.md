@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5-04 - Gas and Electric Franchise > I. Definitions > 5-04-010 - Definitions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5-04GAELFR_I.DE_5-04-010DE"
 sha256: 61b7fe5133c91c0a78b185592ea29da7278721c549ef0db9577ff4b3fc66f7cc
-fetched_at: "2026-09-17T16:18:14+00:00"
+fetched_at: "2026-09-21T20:26:35+00:00"
 ---
 
 For the purpose of this franchise, the following words and phrases shall have the

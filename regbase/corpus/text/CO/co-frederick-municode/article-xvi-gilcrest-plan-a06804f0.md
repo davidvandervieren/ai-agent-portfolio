@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE XVI - Gilcrest Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTXVIGIPL"
 sha256: 5cb18fad7e25a3e383ff378a4eaae2423a133ee1e687bf71752162c67be57578
-fetched_at: "2026-09-18T05:54:45+00:00"
+fetched_at: "2026-09-22T02:29:29+00:00"
 ---
 
 Editor's note— Weld County Code Ordinance 2023-05 , adopted June 5, 2023, repealed the former Art. XVI, §§ 19-16-10—19-16-80, and enacted

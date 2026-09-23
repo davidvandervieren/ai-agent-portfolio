@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.670 - Negotiated purchase price or condemnation award.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.670NEPUPRCOAW"
 sha256: bdea685e260d493a21843d930cab284ebe340a3677bc16d07dcc676bc7735233
-fetched_at: "2026-09-18T05:21:58+00:00"
+fetched_at: "2026-09-22T01:58:34+00:00"
 ---
 
 Upon the exercise of the Town's option to purchase, the parties shall negotiate in

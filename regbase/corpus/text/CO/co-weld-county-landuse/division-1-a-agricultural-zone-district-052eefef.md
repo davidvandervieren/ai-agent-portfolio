@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE III - Zone Districts > Division 1 - A (Agricultural) Zone District
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIIIZODI_DIV1AAGZODI"
 sha256: c50aee521367d2951d482e074ca2e3ad64ac81a05dd6b10cdc31751fc0da54a5
-fetched_at: "2026-09-17T13:38:21+00:00"
+fetched_at: "2026-09-21T17:45:54+00:00"
 ---
 
 Agriculture in the COUNTY is considered a valuable resource which must be protected

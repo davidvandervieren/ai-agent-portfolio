@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IV - Supplementary District Regulations and Zoning Permits > Division 14 - Cultivation, Manufacture, Distribution and Sale of Medical or Recreational Marijuana or Marijuana-Infused Products
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIVSUDIREZOPE_DIV14CUMADISAMEREMAMAFUPR"
 sha256: b82839f1b016837401ac229d7defc7d46884638c05686860bad4744c7a7ae859
-fetched_at: "2026-09-17T13:38:59+00:00"
+fetched_at: "2026-09-21T17:47:30+00:00"
 ---
 
 A.

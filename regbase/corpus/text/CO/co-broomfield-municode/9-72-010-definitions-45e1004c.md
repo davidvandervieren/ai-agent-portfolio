@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 9 - PUBLIC PEACE, MORALS AND WELFARE > VIII. Weapons > Chapter 9-72 - Weapons > 9-72-010 - Definitions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT9PUPEMOWE_VIWE_CH9-72WE_9-72-010DE"
 sha256: 68c5d95d04b1f42d05f1958319dcdf95ff101f687f1e040d3427633004aaf6ef
-fetched_at: "2026-09-17T16:24:45+00:00"
+fetched_at: "2026-09-21T20:33:21+00:00"
 ---
 
 In this chapter, unless the context otherwise requires, the following words and phrases

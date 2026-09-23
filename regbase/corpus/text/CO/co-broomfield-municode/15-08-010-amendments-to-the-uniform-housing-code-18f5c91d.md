@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15-08 - Uniform Housing Code > 15-08-010 - Amendments to the Uniform Housing Code.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT15BUCO_CH15-08UNHOCO_15-08-010AMUNHOCO"
 sha256: 7a906282b1bd1ce3aa50bf907ecd53431ee10b67e3b5e0ab4bb7191128c7a7fc
-fetched_at: "2026-09-17T15:53:48+00:00"
+fetched_at: "2026-09-21T20:02:24+00:00"
 ---
 
 The following amendments are hereby made to the 1997 Uniform Housing Code:

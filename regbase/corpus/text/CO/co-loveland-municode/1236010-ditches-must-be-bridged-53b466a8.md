@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 12 - STREETS, SIDEWALKS AND PUBLIC PLACES > CHAPTER 12.36. - DITCHES AND CANALS > 12.36.010 - Ditches must be bridged.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT12STSIPUPL_CH12.36DICA_12.36.010DIMUBEBR"
 sha256: 0882d4870f8ab580e71f0cba8efbe086959fcc43683fcb09f35ce72927f26adb
-fetched_at: "2026-09-18T10:28:08+00:00"
+fetched_at: "2026-09-23T01:05:03+00:00"
 ---
 
 Any person owning or constructing any ditch, race, drain or flume in, upon or across

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE 13. - CITY-OWNED UTILITIES
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTICH_ART13CINEUT"
 sha256: b5ac09a2a921af497c273b189a7388a730c7f6d315943bcdc2f1ce4a5c3e08c5
-fetched_at: "2026-09-18T10:02:01+00:00"
+fetched_at: "2026-09-23T00:39:02+00:00"
 ---
 
 The City shall have and exercise, in any matter pertaining to City-owned utilities,

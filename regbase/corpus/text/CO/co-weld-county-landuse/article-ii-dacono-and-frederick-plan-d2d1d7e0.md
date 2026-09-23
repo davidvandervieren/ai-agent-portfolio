@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE II - Dacono and Frederick Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTIIDAFRPL"
 sha256: aa2eba5e124a0d4528461225d11dba02301120b6dafa0d20c1f991bd0b6a96b7
-fetched_at: "2026-09-17T13:32:08+00:00"
+fetched_at: "2026-09-21T17:41:51+00:00"
 ---
 
 This Interim Coordinated Planning Agreement is made and entered into between the BOARD

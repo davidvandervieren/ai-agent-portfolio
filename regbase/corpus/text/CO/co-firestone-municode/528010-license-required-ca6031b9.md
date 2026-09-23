@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5.28 - Games > 5.28.010 - License required.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5.28GA_5.28.010LIRE"
 sha256: 1bff47becacfa12312b253d7958e6bdb680db139cf0a01aaca28f6ed54175d68
-fetched_at: "2026-09-18T05:06:07+00:00"
+fetched_at: "2026-09-22T01:42:31+00:00"
 ---
 
 It is unlawful for any person to carry on the business of keeper, for gain or hire

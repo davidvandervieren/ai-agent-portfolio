@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3-36 - Stormwater Enterprise > 3-36-010 - Stormwater activity enterprise created.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT3REFI_CH3-36STEN_3-36-010STACENCR"
 sha256: 268d2a96d8468611052892b620180741a5fa68e21d6f33335c05be6572528688
-fetched_at: "2026-09-17T15:26:43+00:00"
+fetched_at: "2026-09-21T19:35:28+00:00"
 ---
 
 There is hereby created a stormwater activity enterprise denominated the City of Broomfield

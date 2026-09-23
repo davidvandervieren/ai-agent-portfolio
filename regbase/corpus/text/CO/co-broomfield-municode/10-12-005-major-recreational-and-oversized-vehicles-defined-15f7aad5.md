@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 10 - VEHICLES AND TRAFFIC > Chapter 10-12 - Oversized and Commercial Vehicles > 10-12-005 - Major recreational and oversized vehicles defined.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT10VETR_CH10-12OVCOVE_10-12-005MAREOVVEDE"
 sha256: 1e5ddf57f1b1ce8d95f154e67b494a17767bd643b12148169207bbd8cd2c7412
-fetched_at: "2026-09-17T15:42:25+00:00"
+fetched_at: "2026-09-21T19:51:13+00:00"
 ---
 
 (A)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 3 - PERSONNEL > CHAPTER 3.04. - PERSONNEL RULES > I. - IN GENERAL
 url: "https://library.municode.com/co/longmont/codes/code_of_ordinances?nodeId=PTIICOOR_TIT3PE_CH3.04PERU_IINGE"
 sha256: 82da37e5dcd9185c5c2bcf77f96ea52f5d315970d78fd6633593dca1d37be0a9
-fetched_at: "2026-09-18T08:36:22+00:00"
+fetched_at: "2026-09-22T03:59:55+00:00"
 ---
 
 This chapter shall constitute and be referred to as the official "personnel rules"

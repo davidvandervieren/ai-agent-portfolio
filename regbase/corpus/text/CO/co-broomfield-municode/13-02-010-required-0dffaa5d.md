@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 13 - PUBLIC SERVICES > Chapter 13-02 - Water Licenses > 13-02-010 - Required.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT13PUSE_CH13-02WALI_13-02-010RE"
 sha256: f08f40f6de0553fffca3f585ea21bd5f8f31f7387c76413dd44f9c40140bfe80
-fetched_at: "2026-09-17T15:46:34+00:00"
+fetched_at: "2026-09-21T19:55:21+00:00"
 ---
 
 It shall be unlawful to make a service connection to the city's water system without

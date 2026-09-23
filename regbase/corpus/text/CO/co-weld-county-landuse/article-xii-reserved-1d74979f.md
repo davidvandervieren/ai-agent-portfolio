@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE XII - Reserved
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTXIIRE"
 sha256: 4fd78a12b35e6812045336543809eb7d17b97fcc5bf5c1c2e793ff5e522c7e70
-fetched_at: "2026-09-17T13:33:57+00:00"
+fetched_at: "2026-09-21T17:47:08+00:00"
 ---
 
 Editor's note— Weld County Code Ordinance 2019-12 , adopted July 22, 2019, repealed §§ 23-12-10—23-12-150, which pertained to storm

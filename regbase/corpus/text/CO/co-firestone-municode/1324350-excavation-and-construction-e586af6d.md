@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.350 - Excavation and construction.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.350EXCO"
 sha256: 58afb21d8ab554cc43574d6f124567019d6b26a71d628c35a94e116fd672da62
-fetched_at: "2026-09-18T05:20:53+00:00"
+fetched_at: "2026-09-22T01:57:29+00:00"
 ---
 
 United Power shall be responsible for obtaining, paying for and complying with all

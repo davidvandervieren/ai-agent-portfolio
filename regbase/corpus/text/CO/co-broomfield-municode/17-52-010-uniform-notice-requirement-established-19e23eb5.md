@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17-52 - Public Notice Requirements > 17-52-010 - Uniform notice requirement established.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-52PUNORE_17-52-010UNNOREES"
 sha256: edb68fb5f28b7077be1fd26a83d61d93f75f9282a793d9db4a42664a09004480
-fetched_at: "2026-09-17T16:12:02+00:00"
+fetched_at: "2026-09-21T20:20:27+00:00"
 ---
 
 Whenever, pursuant to this title 17 or pursuant to title 16 , B.M.C., a public hearing before the city council or the land use review commission

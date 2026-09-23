@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE XI - LaSalle Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTXILAPL"
 sha256: 0d0e2f6b53f8737e38b7624db18596c22eb5a1a2f3b1beabd81ceb6c3f77b054
-fetched_at: "2026-09-18T05:54:35+00:00"
+fetched_at: "2026-09-22T02:29:19+00:00"
 ---
 
 This Coordinated Planning Agreement is made and entered into effective as of the 14th

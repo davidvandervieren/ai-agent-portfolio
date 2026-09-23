@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF DACONO HOME RULE CHARTER > ARTICLE X - Municipal Taxes, Borrowing, Payment Obligations, and Spending
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CIDAHORUCH_ARTXMUTABOPAOBSP"
 sha256: f1e1444dd715ebefbddcbca5ea9e09ae2c75cc95534a9c141186324f80269ada
-fetched_at: "2026-09-18T06:13:06+00:00"
+fetched_at: "2026-09-22T02:46:26+00:00"
 ---
 
 The people hereby declare their intention that the City shall at all times comply

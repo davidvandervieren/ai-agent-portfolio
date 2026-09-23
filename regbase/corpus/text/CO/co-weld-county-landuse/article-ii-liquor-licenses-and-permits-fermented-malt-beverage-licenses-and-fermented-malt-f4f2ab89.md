@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 12 - Licenses and Permits > ARTICLE II - Liquor Licenses and Permits, Fermented Malt Beverage Licenses, and Fermented Malt Beverage and Wine Licenses
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH12LIPE_ARTIILILIPEFEMABELIFEMABEWILI"
 sha256: 25d7c32f74c4499c86b2c57dd2145514a921e888b53f9372d3c5bd1a6e3e066b
-fetched_at: "2026-09-17T13:31:06+00:00"
+fetched_at: "2026-09-21T17:41:05+00:00"
 ---
 
 The purpose of this Chapter is to set forth the requirements for the inspection, licensure,

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 6 - POLICE AND TRAFFIC REGULATIONS > Chapter 10. - MISCELLANEOUS OFFENSES > 6-10-1 - Fireworks.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT6POTRRE_CH10MIOF_6-10-1FI"
 sha256: 488892056b5bd113d10185c5e7255d04a4ee192b6f340b327cebcb07acac1882
-fetched_at: "2026-09-18T04:05:06+00:00"
+fetched_at: "2026-09-22T00:41:23+00:00"
 ---
 
 A.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 9 - PUBLIC PEACE, ORDER AND MORALS > VI. CONSUMER PROTECTION > CHAPTER 9.50. - KEG IDENTIFICATION TAGS > 9.50.010 - Definitions.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT9PUPEORMO_VICOPR_CH9.50KEIDTA_9.50.010DE"
 sha256: 1ee43e6b7b1b15f7929ff03f595f2e6de1e41a5bb16446d67d44dddf227a4389
-fetched_at: "2026-09-18T10:45:19+00:00"
+fetched_at: "2026-09-23T01:22:14+00:00"
 ---
 
 Keg means any brewery-sealed, individual container of malt beverage having a liquid capacity

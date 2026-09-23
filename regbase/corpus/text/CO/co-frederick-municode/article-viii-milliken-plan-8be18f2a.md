@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE VIII - Milliken Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTVIIIMIPL"
 sha256: 1740ae0f0cf9fc0d2fcf0b1df92b22d599d0b5397448bccecb11f618a8395e99
-fetched_at: "2026-09-18T05:54:29+00:00"
+fetched_at: "2026-09-22T02:29:13+00:00"
 ---
 
 This Coordinated Planning Agreement ("CPA") is made and entered into effective as

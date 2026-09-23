@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 15 - BUILDINGS AND CONSTRUCTION > CHAPTER 15.16. - INTERNATIONAL MECHANICAL CODE > 15.16.010 - International Mechanical Code, 2021 Edition—Adopted.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT15BUCO_CH15.16INMECO_15.16.010INMECO2021EDDO"
 sha256: 6ba3e0a17b81a5affa3858be9bb1dbc664a6581a8deaaaa705c92ddb0b92a298
-fetched_at: "2026-09-18T10:37:21+00:00"
+fetched_at: "2026-09-23T01:14:23+00:00"
 ---
 
 The International Mechanical Code, 2021 Edition (the "2021 IMC"), issued and published

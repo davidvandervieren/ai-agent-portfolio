@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > CHAPTER 5.08 - Alcoholic Beverages > 5.08.010 - Definitions.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5.08ALBE_5.08.010DE"
 sha256: 68764821cac741f11c6c0bce17d8cda232262430ab97faacba806350fd4f2c39
-fetched_at: "2026-09-18T05:05:03+00:00"
+fetched_at: "2026-09-22T01:41:27+00:00"
 ---
 
 Editor's note— Ord. No. 1037 , § 1, 11-8-2023, § 1, adopted Nov. 8, 2023, repealed the former Ch. 5.08, §§ 5.08.010-5.08.050,

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3-10 - Sales and Use Tax Capital Improvement Fund > 3-10-010 - Created.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT3REFI_CH3-10SAUSTACAIMFU_3-10-010CR"
 sha256: 7aca998ec01f96bae6515943083c91e546333428105b7e37eb2d2236cb110f71
-fetched_at: "2026-09-17T15:25:03+00:00"
+fetched_at: "2026-09-21T19:33:45+00:00"
 ---
 
 A sales and use tax capital improvement fund is hereby created. The fund shall consist

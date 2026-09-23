@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.18 - International Property Maintenance Code > 15.18.010 - Adoption of the International Property Maintenance Code.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT15BUCO_CH15.18INPRMACO_15.18.010ADINPRMACO"
 sha256: a28630723407d0521de2a1eea424fa0f7fb8e834954d7994e33354bfd50f2516
-fetched_at: "2026-09-18T05:26:35+00:00"
+fetched_at: "2026-09-22T02:03:14+00:00"
 ---
 
 Sections

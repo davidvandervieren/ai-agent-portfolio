@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > Article 2 - Elective Offices; Vacancies > 2.01 - Town Council and Mayor.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=HORUCH_ART2ELOFVA_2.01TOCOMA"
 sha256: 9837f612930598c4f0599c04d2bf3fe6fe3c79492a6409712a1cd25f92080aba
-fetched_at: "2026-09-18T03:50:36+00:00"
+fetched_at: "2026-09-22T00:26:50+00:00"
 ---
 
 (1)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IX - Adult Business, Service or Entertainment Establishment
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIXADBUSEENES"
 sha256: 03fe45c965606b2c65ae1da760893df107dbf828b7ac7b78e50a137fd200e65d
-fetched_at: "2026-09-18T05:56:05+00:00"
+fetched_at: "2026-09-22T02:29:57+00:00"
 ---
 
 No one under twenty-one (21) years of age shall be admitted to an ADULT BUSINESS,

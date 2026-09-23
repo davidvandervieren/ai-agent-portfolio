@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE I - Cable Television Franchise > Division 10 - System Upgrade/Technical Standards
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH5FRCOSY_ARTICATEFR_DIV10SYUPTEST"
 sha256: 282013ae6467970848578cc755a629b00b2e09021e103490bd1b8f09deb1d2aa
-fetched_at: "2026-09-18T11:10:55+00:00"
+fetched_at: "2026-09-23T01:48:21+00:00"
 ---
 
 (a)

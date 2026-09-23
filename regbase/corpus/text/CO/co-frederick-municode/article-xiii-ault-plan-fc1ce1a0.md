@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE XIII - Ault Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTXIIIAUPL"
 sha256: ed7d9b9309c74682f8de2a863d8bd0338b5d8d870db1113c9b66d00ba129eee2
-fetched_at: "2026-09-18T05:54:39+00:00"
+fetched_at: "2026-09-22T02:29:23+00:00"
 ---
 
 Editor's note— Ord. No. 2016-4 , adopted June 13, 2016, repealed the former Art. XIII, §§ 19-13-10—19-13-80, and

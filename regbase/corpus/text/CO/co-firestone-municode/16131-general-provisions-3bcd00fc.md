@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 16 - FIRESTONE DEVELOPMENT CODE > Chapter 13 - Sex Offender Residency Restrictions > 16.13.1 - General provisions.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT16FIDECO_CH13SEOFRERE_16.13.1GEPR"
 sha256: ad035b405c5a1f3bc6f7afd6662c7f3b5cf8b9f0cd5e3bcc1ff106e648a759fb
-fetched_at: "2026-09-18T05:32:20+00:00"
+fetched_at: "2026-09-22T02:09:12+00:00"
 ---
 
 Sections:

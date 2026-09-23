@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE II - Alcoholic Beverages > Division 1 - License Requirements
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH6BULIRE_ARTIIALBE_DIV1LIRE"
 sha256: 3751109953bad6d428207cd9ca292e9eeebaaf54a3de4b2b184181cb649da19e
-fetched_at: "2026-09-18T11:11:07+00:00"
+fetched_at: "2026-09-23T01:48:33+00:00"
 ---
 
 (a)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.560 - Town use of United Power facilities.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.560TOUSUNPOFA"
 sha256: 636e648969f0b7d38e23e28ead9bef140d51177ac0b829bbb94b928a8ad26c30
-fetched_at: "2026-09-18T05:21:36+00:00"
+fetched_at: "2026-09-22T01:58:12+00:00"
 ---
 
 The Town shall be permitted to make use of United Power's distribution facilities

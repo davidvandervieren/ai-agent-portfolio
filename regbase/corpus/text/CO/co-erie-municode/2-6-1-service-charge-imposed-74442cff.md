@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 2 - REVENUE AND FINANCE > Chapter 6. - EMERGENCY TELEPHONE SERVICE CHARGE > 2-6-1 - Service charge imposed.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT2REFI_CH6EMTESECH_2-6-1SECHIM"
 sha256: 6887d94ef1b979ab5009d9d5fff3a1f81a14131f3ffe0ebec8a76c36d9fb3eaa
-fetched_at: "2026-09-18T03:57:57+00:00"
+fetched_at: "2026-09-22T00:34:11+00:00"
 ---
 
 There is hereby imposed, pursuant to C.R.S. § 29-11-100.2, et seq., as amended (the

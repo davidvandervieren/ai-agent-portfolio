@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 9 - PUBLIC PEACE, MORALS AND WELFARE > I. Offenses Against Public Officers and Government > Chapter 9-02 - Obstructing Justice > 9-02-010 - Impeding police, firemen, or other officials by vehicle prohibited when.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT9PUPEMOWE_I.OFAGPUOFGO_CH9-02OBJU_9-02-010IMPOFIOTOFVEPRWH"
 sha256: d6e66cc09c2cfdd1114054bf9c9fd81c8d6e3731c30c345339c0c318f5284575
-fetched_at: "2026-09-17T16:20:36+00:00"
+fetched_at: "2026-09-21T20:29:08+00:00"
 ---
 
 It is unlawful for any person to drive a vehicle or to park close by the scene of

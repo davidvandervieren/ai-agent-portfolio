@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Revenue and Finance > ARTICLE V - Accounting Policy
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH5REFI_ARTVACPO"
 sha256: 40a53446b181fdf13dbbabc8e90c2309a548e35e3bad1d830135d8fa78d6b9b1
-fetched_at: "2026-09-18T05:50:42+00:00"
+fetched_at: "2026-09-22T02:27:17+00:00"
 ---
 
 The accounting and reporting policies of the County conform to generally accepted

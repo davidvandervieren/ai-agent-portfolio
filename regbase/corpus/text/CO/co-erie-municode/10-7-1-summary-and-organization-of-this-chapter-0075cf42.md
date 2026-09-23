@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 10 - UNIFIED DEVELOPMENT CODE > Chapter 7. - REVIEW AND APPROVAL PROCEDURES > 10-7-1 - Summary and organization of this chapter.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT10UNDECO_CH7REAPPR_10-7-1SUORCH"
 sha256: 542e7e969c1b91314c2a2174d9c7ff28b83c6efb5861f56d9eac9e0934b07ff2
-fetched_at: "2026-09-18T04:14:09+00:00"
+fetched_at: "2026-09-22T00:50:15+00:00"
 ---
 
 Editor's note— Ord. No. 03-2022 , § 1(Attch.), adopted Jan. 11, 2022, repealed ch. 7, §§ 10-7-1—10-7-23, and reenacted

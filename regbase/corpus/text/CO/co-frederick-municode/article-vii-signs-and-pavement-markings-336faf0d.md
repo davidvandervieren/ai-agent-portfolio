@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 8 - Public Works > ARTICLE VII - Signs and Pavement Markings
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH8PUWO_ARTVIISIPAMA"
 sha256: d36ff54d97250d1453715df1a09de27762f7a134d2b5ac8e786405a13328a6b3
-fetched_at: "2026-09-18T05:52:01+00:00"
+fetched_at: "2026-09-22T02:27:41+00:00"
 ---
 
 The County's roads require certain pavement markings and signs per the Manual on Uniform

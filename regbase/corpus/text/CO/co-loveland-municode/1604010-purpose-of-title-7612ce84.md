@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 16 - NUISANCES > CHAPTER 16.04. - GENERAL PROVISIONS > 16.04.010 - Purpose of title.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT16NU_CH16.04GEPR_16.04.010PUTI"
 sha256: bfb1a7fddcc1d38f06b63e9adc270b06eb6186d8ec268965e27cb195cca40bf6
-fetched_at: "2026-09-18T10:39:29+00:00"
+fetched_at: "2026-09-23T01:16:32+00:00"
 ---
 
 The purpose of this Title 16 is to promote the health, safety, order, prosperity and welfare of the present and

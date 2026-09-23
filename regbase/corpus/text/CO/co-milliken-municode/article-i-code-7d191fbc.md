@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 1 - General Provisions > ARTICLE I - Code
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH1GEPR_ARTICO"
 sha256: a187059b35bda83a775ce276eaf9ba4d2ce187712c29a4a9e609ed217a50fdb3
-fetched_at: "2026-09-18T11:07:36+00:00"
+fetched_at: "2026-09-23T01:45:03+00:00"
 ---
 
 The published Code known as the Milliken Municipal Code, published by Colorado Code

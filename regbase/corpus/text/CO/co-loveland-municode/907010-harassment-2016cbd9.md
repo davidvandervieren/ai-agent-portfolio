@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 9 - PUBLIC PEACE, ORDER AND MORALS > II. OFFENSES AGAINST THE PERSON > CHAPTER 9.07. - HARASSMENT > 9.07.010 - Harassment.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT9PUPEORMO_IIOFAGPE_CH9.07HA_9.07.010HA"
 sha256: 1fda5419b0311e6b702eb9ec5877d4fc47bde06feaf375e2944b8daa1c44233a
-fetched_at: "2026-09-18T10:43:07+00:00"
+fetched_at: "2026-09-23T01:20:04+00:00"
 ---
 
 A.

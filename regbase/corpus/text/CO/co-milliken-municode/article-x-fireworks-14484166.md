@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE X - Fireworks
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH10GEOF_ARTXFI"
 sha256: 1d9f7031f016b3a2dec9f1225fc1962f384a809f845180c319af32c1267cc0c1
-fetched_at: "2026-09-18T11:09:26+00:00"
+fetched_at: "2026-09-23T01:46:51+00:00"
 ---
 
 Except as provided in Sections 24-33.5-2003, 24-33.5-2004 and 24-33.5-2006, C.R.S.,

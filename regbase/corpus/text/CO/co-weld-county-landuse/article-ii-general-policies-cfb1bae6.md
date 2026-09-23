@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration > ARTICLE II - General Policies
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH2AD_ARTIIGEPO"
 sha256: d73214e3f9429679e7cd9143096ce74b7c7326dff9218e97b69f8829e00e4684
-fetched_at: "2026-09-17T13:27:20+00:00"
+fetched_at: "2026-09-21T17:38:34+00:00"
 ---
 
 A.

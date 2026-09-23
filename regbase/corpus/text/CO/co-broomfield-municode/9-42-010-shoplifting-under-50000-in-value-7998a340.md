@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 9 - PUBLIC PEACE, MORALS AND WELFARE > V. Offenses Against Property > Chapter 9-42 - Shoplifting and Price Switching > 9-42-010 - Shoplifting under $500.00 in value.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT9PUPEMOWE_V.OFAGPR_CH9-42SHPRSW_9-42-010SHUN500.00VA"
 sha256: 147f6eb241f0a9efd16dc8923a8a56a9a151d64144b5e97cfabb9a2f79f62aaa
-fetched_at: "2026-09-17T16:22:49+00:00"
+fetched_at: "2026-09-21T20:31:23+00:00"
 ---
 
 (A)

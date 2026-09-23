@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 3 - Human Resources > ARTICLE X - Pay Practices
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH3HURE_ARTXPAPR"
 sha256: 595f1cfe4ccc65db2dc7cf9a8729af734b08f9b7da31f864740b31024ffe30e1
-fetched_at: "2026-09-18T05:50:14+00:00"
+fetched_at: "2026-09-22T02:26:55+00:00"
 ---
 
 Weld County is committed to maintaining an objective, transparent, and competitive

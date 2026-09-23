@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.680 - Continued cooperation by United Power.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.680COCOUNPO"
 sha256: bdb5f2265bbbdb2558bc4ac8f51ac3743b3b7114f02e2d88e8cfdf829c1e7baf
-fetched_at: "2026-09-18T05:22:00+00:00"
+fetched_at: "2026-09-22T01:58:36+00:00"
 ---
 
 A.

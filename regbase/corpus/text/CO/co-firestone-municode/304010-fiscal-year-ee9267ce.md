@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 3 - REVENUE AND FINANCE > Chapter 3.04 - General Financial Provisions > 3.04.010 - Fiscal year.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT3REFI_CH3.04GEFIPR_3.04.010FIYE"
 sha256: bc4e2e8ff6e97986c7842232a954f720a76a4e039409c844b4e675864ecdc29c
-fetched_at: "2026-09-18T05:01:51+00:00"
+fetched_at: "2026-09-22T01:38:14+00:00"
 ---
 
 The fiscal year of the town shall commence on the first day of January in each year.

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15-24 - International Plumbing Code > 15-24-010 - Amendments to the International Plumbing Code.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT15BUCO_CH15-24INPLCO_15-24-010AMINPLCO"
 sha256: a8ec39b22afbf8880dbc6ec27d90d7b313103a871989dfcad2bcd3caf959a653
-fetched_at: "2026-09-17T15:54:38+00:00"
+fetched_at: "2026-09-21T20:03:15+00:00"
 ---
 
 The following amendments are hereby made to the 2024 International Plumbing Code:

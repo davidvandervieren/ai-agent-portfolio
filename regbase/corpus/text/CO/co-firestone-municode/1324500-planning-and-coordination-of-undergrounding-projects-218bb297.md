@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.500 - Planning and coordination of undergrounding projects.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.500PLCOUNPR"
 sha256: 0d3b1ebb632247ad27abcd302565a2937f760060f34082c59873c178c44e8a84
-fetched_at: "2026-09-18T05:21:24+00:00"
+fetched_at: "2026-09-22T01:57:59+00:00"
 ---
 
 The Town and United Power shall mutually plan in advance the scheduling of undergrounding

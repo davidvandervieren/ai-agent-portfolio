@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 7 - PUBLIC WAYS AND PROPERTY > Chapter 1. - STREETS, SIDEWALKS AND PUBLIC WAYS > 7-1-1 - Adoption of street development policies, standards and specifications.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT7PUWAPR_CH1STSIPUWA_7-1-1ADSTDEPOSTSP"
 sha256: f8fa37b5824f659d0ce03b5751dc240807257eea9d4b7271424e847719652298
-fetched_at: "2026-09-18T04:07:05+00:00"
+fetched_at: "2026-09-22T00:43:18+00:00"
 ---
 
 The street development policies, standards and specifications for the town, which

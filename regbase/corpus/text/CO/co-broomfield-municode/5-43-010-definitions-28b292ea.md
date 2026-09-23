@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5-43 - Secure Transportation Services > 5-43-010 - Definitions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5-43SETRSE_5-43-010DE"
 sha256: 1c29290dbb0a17fcce9ecbb83239727b017c0fc9cb69f8c19c4c661a62824b00
-fetched_at: "2026-09-17T15:33:44+00:00"
+fetched_at: "2026-09-21T19:42:32+00:00"
 ---
 
 (A)

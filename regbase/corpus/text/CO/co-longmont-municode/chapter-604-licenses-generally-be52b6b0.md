@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 6 - BUSINESS TAXES, LICENSES AND REGULATIONS > CHAPTER 6.04. - LICENSES GENERALLY
 url: "https://library.municode.com/co/longmont/codes/code_of_ordinances?nodeId=PTIICOOR_TIT6BUTALIRE_CH6.04LIGE"
 sha256: bbbff7ec4a417064ce4e7d1ef13125537968f6cce3b3c6baa4675d853904c657
-fetched_at: "2026-09-18T08:26:59+00:00"
+fetched_at: "2026-09-22T03:55:50+00:00"
 ---
 
 All licenses which may be issued under any provisions of this Code shall be subject

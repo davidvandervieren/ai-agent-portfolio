@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 29 - Building Regulations > ARTICLE I - General Provisions
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH29BURE_ARTIGEPR"
 sha256: 15784729fa38af9a330f78d027b8d3ad97de8fedddd931cc3c28517a65a6eb56
-fetched_at: "2026-09-17T13:35:30+00:00"
+fetched_at: "2026-09-21T17:43:26+00:00"
 ---
 
 A.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 30 - Weld County Department of Public Health and Environment On-Site Wastewater Treatment System Regulations > ARTICLE I - Authority
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH30WECODEPUHEENTEWATRSYRE_ARTIAU"
 sha256: 2e68989d7260dae851df1d4894b571b52b6d2128acd18f05637cf413d0716e28
-fetched_at: "2026-09-18T05:57:44+00:00"
+fetched_at: "2026-09-22T02:30:42+00:00"
 ---
 
 The regulations contained herein shall be known as the On-site Wastewater Treatment

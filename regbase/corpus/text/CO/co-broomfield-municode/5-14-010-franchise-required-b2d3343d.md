@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5-14 - Cable Television System > 5-14-010 - Franchise; required.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5-14CATESY_5-14-010FRRE"
 sha256: f34f5ec5540fe8eb2fc70f2bbe84c118513db681cc687547a03de6577dffe8ae
-fetched_at: "2026-09-17T15:28:28+00:00"
+fetched_at: "2026-09-21T19:37:13+00:00"
 ---
 
 After the effective date of the ordinance codified herein, no person, firm, corporation,

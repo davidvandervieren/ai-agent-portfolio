@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO > ARTICLE XVIII - TRANSITIONAL PROVISIONS
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO_ARTXVIIITRPR"
 sha256: 5870f3d09801f3fcaacd4e6c53af2c3137d7b32f2e2eea8a6bfa53a3958e09fd
-fetched_at: "2026-09-18T05:49:00+00:00"
+fetched_at: "2026-09-22T02:25:50+00:00"
 ---
 
 The provisions of this Article relate to the transition from the existing form of

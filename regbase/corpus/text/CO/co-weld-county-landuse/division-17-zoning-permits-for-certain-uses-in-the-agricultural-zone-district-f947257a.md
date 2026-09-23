@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IV - Supplementary District Regulations and Zoning Permits > Division 17 - Zoning Permits for Certain Uses in the Agricultural Zone District
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIVSUDIREZOPE_DIV17ZOPECEUSAGZODI"
 sha256: e43f9be5e692ba302e849f49755786d5731d7541eb20d60ae2d87284ca9cdae9
-fetched_at: "2026-09-17T13:39:05+00:00"
+fetched_at: "2026-09-21T17:46:30+00:00"
 ---
 
 A.

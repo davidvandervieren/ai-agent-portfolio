@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Revenue and Finance > ARTICLE VI - Fixed Assets
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH5REFI_ARTVIFIAS"
 sha256: cf832a403fe8a2fdd4d857b2fe2dc065d478aad4f5bde653a282bd587fbcfb27
-fetched_at: "2026-09-18T05:50:44+00:00"
+fetched_at: "2026-09-22T02:27:19+00:00"
 ---
 
 A.

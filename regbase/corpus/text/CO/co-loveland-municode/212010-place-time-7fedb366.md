@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.12. - COUNCIL MEETINGS—ORDINANCES > 2.12.010 - Place, time.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT2ADPE_CH2.12COMERD_2.12.010PLTI"
 sha256: f1322cf7d227d15e71908f9384bb23c6f2a9a1ce53a3ff992f0c1327e9ced190
-fetched_at: "2026-09-18T10:04:37+00:00"
+fetched_at: "2026-09-23T00:41:28+00:00"
 ---
 
 State Law reference— Provisions relating to ordinances, C.R.S. §§ 31-16-101 to 31-16-208.

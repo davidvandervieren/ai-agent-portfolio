@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > Article VIII - Definitions
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH16LAUSCO_ARTVIIIDE"
 sha256: bc1bf4fcac6f9dabfd8e70fb172fb9ae27ac63e7754da70fa6d40ff5e30327b5
-fetched_at: "2026-09-18T11:10:01+00:00"
+fetched_at: "2026-09-23T01:47:27+00:00"
 ---
 
 (a)

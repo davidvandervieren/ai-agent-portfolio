@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 30 - Weld County Department of Public Health and Environment On-Site Wastewater Treatment System Regulations > ARTICLE IV - Administration and Enforcement
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH30WECODEPUHEENTEWATRSYRE_ARTIVADEN"
 sha256: 121fa435dbccba40a90d7acb81859bc8a148994328d085f2a899ee3af1d358b5
-fetched_at: "2026-09-17T13:35:40+00:00"
+fetched_at: "2026-09-21T17:43:36+00:00"
 ---
 
 The owner of any structure where people live, work or congregate shall ensure that

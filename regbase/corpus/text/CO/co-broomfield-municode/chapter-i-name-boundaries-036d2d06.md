@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER I - NAME - BOUNDARIES
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHINAOU"
 sha256: 7962c553744a0ea9abb74cac5e882e214f78eb0415e2822ba2520c4b887bafc0
-fetched_at: "2026-09-17T15:10:04+00:00"
+fetched_at: "2026-09-21T19:18:20+00:00"
 ---
 
 As provided for in Article XX, section 10 of the Constitution of the State of Colorado,

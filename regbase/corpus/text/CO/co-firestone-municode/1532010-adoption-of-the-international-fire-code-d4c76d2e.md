@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.32 - International Fire Code > 15.32.010 - Adoption of the International Fire Code.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT15BUCO_CH15.32INFICO_15.32.010ADINFICO"
 sha256: 6f3eea07ea103f97ebc38283b00c3929ede9daf91805efd1852be92f4cfcd1b6
-fetched_at: "2026-09-18T05:26:49+00:00"
+fetched_at: "2026-09-22T02:03:28+00:00"
 ---
 
 Sections

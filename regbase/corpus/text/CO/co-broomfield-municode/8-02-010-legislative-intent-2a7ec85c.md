@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8-02 - Smoking in Public Places > 8-02-010 - Legislative intent.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT8HESA_CH8-02SMPUPL_8-02-010LEIN"
 sha256: a094493af862f33dc9e28039f364f1c8b0dd66a41d6e7409f2fa8f6ad5afece6
-fetched_at: "2026-09-17T15:37:28+00:00"
+fetched_at: "2026-09-21T19:46:16+00:00"
 ---
 
 The purpose of this chapter is to protect the public health by prohibiting smoking

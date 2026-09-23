@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.640 - Municipally produced utility service.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.640MUPRUTSE"
 sha256: 1f1c74c5936812b9e619a0b467b2c60c2aca19a2b64fa65293515d37e0583daa
-fetched_at: "2026-09-18T05:21:52+00:00"
+fetched_at: "2026-09-22T01:58:28+00:00"
 ---
 
 A.

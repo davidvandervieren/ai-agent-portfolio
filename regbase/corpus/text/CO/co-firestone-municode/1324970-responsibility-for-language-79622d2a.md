@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.970 - Responsibility for language.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.970RELA"
 sha256: e36c48f33992498de29e3e41b382c02f569d274fbb11aa6ac379cce17aede485
-fetched_at: "2026-09-18T05:22:58+00:00"
+fetched_at: "2026-09-22T01:59:40+00:00"
 ---
 
 The parties hereby acknowledge during the drafting of this document each has been

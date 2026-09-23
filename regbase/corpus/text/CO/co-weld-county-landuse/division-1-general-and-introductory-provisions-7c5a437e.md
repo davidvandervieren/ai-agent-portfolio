@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 21 - Areas and Activities of State Interest > ARTICLE V - Guidelines and Regulations for Oil and Gas Exploration and Production in the Unincorporated Area of Weld County (Designated as Mineral Resource Area of State Interest) > Division 1 - General and Introductory Provisions
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH21ARACSTIN_ARTVGUREOIGAEXPRUNARWECODEMIREARSTIN_DIV1GEINPR"
 sha256: 20fe78aa926be4b92889880f4c48dd1af180b8f5b5307a93168ded7f7967d36f
-fetched_at: "2026-09-17T13:37:30+00:00"
+fetched_at: "2026-09-21T17:45:12+00:00"
 ---
 
 Editor's note— Weld County Code Ordinance 2020-12 , adopted August 3, 2020, repealed the former Art. V, §§ 21-5-10—21-5-40, 21-5-200—21-5-230,

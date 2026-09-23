@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 8 - Public Works > ARTICLE XIV - Road Access Policy
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH8PUWO_ARTXIVROACPO"
 sha256: 983f642eae19414542be8e59850731eeacedfe325952ab06885e5b07aed9e836
-fetched_at: "2026-09-17T13:30:23+00:00"
+fetched_at: "2026-09-21T17:40:49+00:00"
 ---
 
 This Article XIV is established for the safe and efficient movement of traffic while

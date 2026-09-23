@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.610 - Town held harmless.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.610TOHEHA"
 sha256: edd95b13c3b1de9d3548d5aaec1c757faf93185a8221507aa872ef757d7cbc95
-fetched_at: "2026-09-18T05:21:46+00:00"
+fetched_at: "2026-09-22T01:58:22+00:00"
 ---
 
 United Power shall indemnify, defend and hold the Town harmless from and against claims,

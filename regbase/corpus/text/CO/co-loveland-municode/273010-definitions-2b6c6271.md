@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.73. - PROHIBITED GIFTS TO CITY OFFICIALS > 2.73.010 - Definitions.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT2ADPE_CH2.73PRGIOF_2.73.010DE"
 sha256: 8037fdafa6652347b89a4fbdde989a7f88d57eecdde82787f7b76e9b8bcf3e03
-fetched_at: "2026-09-18T10:07:25+00:00"
+fetched_at: "2026-09-23T00:44:12+00:00"
 ---
 
 As used in this Chapter, the following words, terms and phrases shall have the following

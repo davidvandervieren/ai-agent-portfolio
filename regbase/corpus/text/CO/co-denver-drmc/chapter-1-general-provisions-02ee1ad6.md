@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 1 - GENERAL PROVISIONS
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH1GEPR"
 sha256: 925840b27c1a5ab4d8437f5ea7fcd4ccf69a8ce33bcef976b3a7ed3cdb364542
-fetched_at: "2026-09-17T23:28:02+00:00"
+fetched_at: "2026-09-21T21:28:55+00:00"
 ---
 
 The ordinances embraced in this and the following chapters and sections shall constitute

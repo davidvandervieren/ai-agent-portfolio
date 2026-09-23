@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 4 - BUSINESS REGULATIONS > Chapter 5. - CONTRACTOR LICENSING > 4-5-1 - Applicability.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT4BURE_CH5COLI_4-5-1AP"
 sha256: 2dd999ce7b16575aa215c2ff7c3d842c59a4154b78e4f952e19b76a0eccc7960
-fetched_at: "2026-09-18T03:59:29+00:00"
+fetched_at: "2026-09-22T00:35:46+00:00"
 ---
 
 Editor's note— Ord. No. 044-2024 , § 1, adopted Dec. 10, 2024, repealed the former Tit. 4, Ch. 5, §§ 4-5-1—4-5-13,

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.730 - Termination of Franchise by Town.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.730TEFRTO"
 sha256: 67df0d11f59a01a7b52cde86ba8f69275ba795280d4aa842f96da89ec1f79b59
-fetched_at: "2026-09-18T05:22:10+00:00"
+fetched_at: "2026-09-22T01:58:46+00:00"
 ---
 
 In addition to the foregoing remedies, if United Power fails or refuses to perform

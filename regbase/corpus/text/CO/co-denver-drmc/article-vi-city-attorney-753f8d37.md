@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE I - HOME RULE > SUBTITLE B - CHARTER > ARTICLE VI. - CITY ATTORNEY
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIHORU_SUBTITLE_BCH_ARTVICIAT"
 sha256: a6bf01d0e5b41d1aa2ed520c9f31ea79ac36451f46463cb5a87a87cd4855f9b8
-fetched_at: "2026-09-17T23:30:28+00:00"
+fetched_at: "2026-09-21T21:36:54+00:00"
 ---
 
 The Attorney of the City and County of Denver shall be the officer in full charge

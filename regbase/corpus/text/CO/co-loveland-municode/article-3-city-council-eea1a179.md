@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE 3. - CITY COUNCIL
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTICH_ART3CICO"
 sha256: 8d9e73610019549c699aba4bfd1ea9bc5522a91158fca8106552645021ac7ff4
-fetched_at: "2026-09-18T10:01:41+00:00"
+fetched_at: "2026-09-23T00:38:42+00:00"
 ---
 
 (a)

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-56 - Fees for Research and Copying of Criminal Justice Records > 2-56-010 - Fees for research and copying.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-56FERECOCRJURE_2-56-010FERECO"
 sha256: 574b56aca5231e73bc0f5a6dca97c27c72c48f8de3739996bf43f4a635fd00c7
-fetched_at: "2026-09-17T15:20:28+00:00"
+fetched_at: "2026-09-21T19:29:07+00:00"
 ---
 
 (A)

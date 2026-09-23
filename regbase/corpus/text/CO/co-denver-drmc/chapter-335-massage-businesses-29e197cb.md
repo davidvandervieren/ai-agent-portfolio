@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 33.5 - MASSAGE BUSINESSES
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH33.5MABU"
 sha256: 1f3650b2ef37c86860cf936f23bbd46eaf8c2e8641666649ed1faacf37c57f30
-fetched_at: "2026-09-17T23:28:08+00:00"
+fetched_at: "2026-09-21T21:29:00+00:00"
 ---
 
 Editor's note— Ord. No. 712-21, § 1, adopted July 19, 2021, repealed ch. 33.5, arts. I—III, §§ 33.5-1—33.5-5,

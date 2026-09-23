@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO > ARTICLE IV - DEPARTMENTS OF COUNTY GOVERNMENT
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO_ARTIVDECOGO"
 sha256: b14d29782ff3d5f607bf85c68b6776dc8ee559e6f9aebddb64494acba6422b04
-fetched_at: "2026-09-18T05:48:32+00:00"
+fetched_at: "2026-09-22T02:25:22+00:00"
 ---
 
 (1)

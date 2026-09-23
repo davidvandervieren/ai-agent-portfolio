@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 9 - PUBLIC PEACE, ORDER AND MORALS > III. OFFENSES AGAINST PUBLIC DECENCY > CHAPTER 9.16. - INDECENCY—IMMORALITY > 9.16.010 - Prostitution.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT9PUPEORMO_IIOFAGPUDE_CH9.16INMM_9.16.010PR"
 sha256: 95842feab64a67290a4aa0f9dea096266ab595dfeedf3161110316042f7d14a1
-fetched_at: "2026-09-18T10:43:19+00:00"
+fetched_at: "2026-09-23T01:20:17+00:00"
 ---
 
 It is unlawful for any person to keep or maintain a bawdy house, house of assignation,

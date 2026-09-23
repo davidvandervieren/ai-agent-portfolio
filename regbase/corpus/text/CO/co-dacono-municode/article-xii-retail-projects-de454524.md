@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF DACONO HOME RULE CHARTER > ARTICLE XII - Retail Projects
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CIDAHORUCH_ARTXIIREPR"
 sha256: 7195a36e6538e5e9bda80d80295363c9a5ae6bf9633a93c77b2f829ed3b4d41c
-fetched_at: "2026-09-18T06:13:10+00:00"
+fetched_at: "2026-09-22T02:46:29+00:00"
 ---
 
 (a)

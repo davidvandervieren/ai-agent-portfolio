@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF DACONO HOME RULE CHARTER > ARTICLE I - General Provisions
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CIDAHORUCH_ARTIGEPR"
 sha256: 39903029c7a4aab9b3d369dc960716d71001c0cb4f35bdd6e955ffed121b32e4
-fetched_at: "2026-09-18T06:12:48+00:00"
+fetched_at: "2026-09-22T02:46:06+00:00"
 ---
 
 The municipal corporation now existing as the "City of Dacono" in the County of Weld,

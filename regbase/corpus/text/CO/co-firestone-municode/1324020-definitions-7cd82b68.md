@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.020 - Definitions.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.020DE"
 sha256: f43444f7fccea69614d1aa26ba6ae6419438fd1c7e524038c5922e84d2297107
-fetched_at: "2026-09-18T05:19:47+00:00"
+fetched_at: "2026-09-22T01:56:22+00:00"
 ---
 
 For the purpose of this Franchise Agreement, the following words and phrases shall

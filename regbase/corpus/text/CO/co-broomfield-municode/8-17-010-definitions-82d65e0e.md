@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8-17 - Property Nuisances > 8-17-010 - Definitions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT8HESA_CH8-17PRNU_8-17-010DE"
 sha256: 463aca95b7e438d024d3a3233f0e988d7db50368039c78b56f7e41a2af654aac
-fetched_at: "2026-09-17T15:39:48+00:00"
+fetched_at: "2026-09-21T19:48:33+00:00"
 ---
 
 The following definitions shall apply in the interpretation and enforcement of this

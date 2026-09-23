@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 16 - FIRESTONE DEVELOPMENT CODE > Chapter 2 - Zoning Districts > 16.2.1 - General provisions.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT16FIDECO_CH2ZODI_16.2.1GEPR"
 sha256: 55a3a78fb52f9a88a4f8d3b9d66f06d5e6a5144351f34026a64757cb1644be8e
-fetched_at: "2026-09-18T05:29:43+00:00"
+fetched_at: "2026-09-22T02:06:29+00:00"
 ---
 
 Sections:

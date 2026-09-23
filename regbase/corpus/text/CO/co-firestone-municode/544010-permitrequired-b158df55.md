@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5.44 - Animal Industries > 5.44.010 - Permit—Required.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5.44ANIN_5.44.010PEEQ"
 sha256: 58031b1b7f16a73341da745a1740b1535f0fad0c6363a26b5c01507cb39a0487
-fetched_at: "2026-09-18T05:06:43+00:00"
+fetched_at: "2026-09-22T01:43:08+00:00"
 ---
 
 No person shall locate or manage any slaughterhouse, packing house, rendery, tallow

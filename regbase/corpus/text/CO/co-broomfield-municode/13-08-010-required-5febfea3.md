@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 13 - PUBLIC SERVICES > Chapter 13-08 - Sewer Licenses > 13-08-010 - Required.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT13PUSE_CH13-08SELI_13-08-010RE"
 sha256: 76226c3de91af105b426b506c7f2967e09a13a3a74d409f48879a42c79f0842f
-fetched_at: "2026-09-17T15:47:25+00:00"
+fetched_at: "2026-09-21T19:56:12+00:00"
 ---
 
 It shall be unlawful to make a service connection to the city's sewer system without

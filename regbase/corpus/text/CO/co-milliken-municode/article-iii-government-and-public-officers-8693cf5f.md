@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE III - Government and Public Officers
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH10GEOF_ARTIIIGOPUOF"
 sha256: b139314c1aa8075de441dc82a169822ae0107ace6cfcf523eb6a573e519850ba
-fetched_at: "2026-09-18T11:09:12+00:00"
+fetched_at: "2026-09-23T01:46:37+00:00"
 ---
 
 (a)

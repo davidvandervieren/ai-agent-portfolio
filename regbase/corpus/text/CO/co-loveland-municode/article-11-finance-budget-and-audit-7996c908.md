@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE 11. - FINANCE, BUDGET, AND AUDIT
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTICH_ART11FIBUAU"
 sha256: 2f7bd1bd564b630f078a26cc1b6e1a542739ec447b16cfb2f2d8fb694f9a0660
-fetched_at: "2026-09-18T10:01:57+00:00"
+fetched_at: "2026-09-23T00:38:58+00:00"
 ---
 
 The fiscal year shall be the same as the calendar year.

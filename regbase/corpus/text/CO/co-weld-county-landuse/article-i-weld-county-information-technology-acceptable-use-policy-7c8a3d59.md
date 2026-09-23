@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 9 - Information Technology > ARTICLE I - Weld County Information Technology Acceptable Use Policy
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH9INTE_ARTIWECOINTEACUSPO"
 sha256: 963aadefa6eed7ebd6a8971c26f3a7b48a4892881f3d51c944c5738656e2eaf8
-fetched_at: "2026-09-17T13:30:56+00:00"
+fetched_at: "2026-09-21T17:40:55+00:00"
 ---
 
 Editor's note— Weld County Code Ordinance 2018-06 , adopted August 13, 2018, amended chapter 9 title to read as herein set out. Formerly,

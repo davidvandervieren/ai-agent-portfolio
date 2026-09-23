@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE VII - Eaton Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTVIIEAPL"
 sha256: 797457f4cf5c165547d91d8d6a11b4a81bf891c28a3f7a733f42334b624e8b9f
-fetched_at: "2026-09-18T05:54:27+00:00"
+fetched_at: "2026-09-22T02:29:12+00:00"
 ---
 
 This Coordinated Planning Agreement is made and entered into effective as of the 20th

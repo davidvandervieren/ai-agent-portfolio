@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 7 - HEALTH, SAFETY AND WELFARE > CHAPTER 7.12. - RESERVED
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT7HESAWE_CH7.12RE"
 sha256: ffa882c8dd1fc24b1f5f2fe9eb18b2fb4291ef0c829b71a8ff9fb1417ff5e157
-fetched_at: "2026-09-18T10:02:19+00:00"
+fetched_at: "2026-09-23T00:39:15+00:00"
 ---
 
 The City Manager or his or her designee shall have the supervision and control of

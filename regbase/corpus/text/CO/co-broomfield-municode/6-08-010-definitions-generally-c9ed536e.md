@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 6 - ANIMALS > Chapter 6-08 - Definitions > 6-08-010 - Definitions generally.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT6AN_CH6-08DE_6-08-010DEGE"
 sha256: 1f9d50353559bc1436ad31b8c526e2cdf9872b74a18fed80a6e761f95c92dd90
-fetched_at: "2026-09-17T15:34:06+00:00"
+fetched_at: "2026-09-21T19:42:54+00:00"
 ---
 
 For the purposes of this title, unless the context clearly indicates otherwise, the

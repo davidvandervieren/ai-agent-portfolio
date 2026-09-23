@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17-04 - Definitions > 17-04-005 - Rules of construction.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-04DE_17-04-005RUCO"
 sha256: 264cfeaeb74ec99f0f19d788d9841c6b32dbbd2544757a8dd576ca2844e70fdd
-fetched_at: "2026-09-17T15:58:41+00:00"
+fetched_at: "2026-09-21T20:07:13+00:00"
 ---
 
 Editor's note— Ord. No. 2209 , § 2, adopted July 11, 2023, repealed §§ 17-04-055, 17-04-065, 17-04-085, 17-04-105,

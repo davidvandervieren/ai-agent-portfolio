@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.160 - Payment schedule.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.160PASC"
 sha256: a03b74257f167f97a9c4d2f50be30e151eb2e0a78e45d56c787ddeafd86156ec
-fetched_at: "2026-09-18T05:20:15+00:00"
+fetched_at: "2026-09-22T01:56:50+00:00"
 ---
 
 Unless otherwise specifically provided herein, payment of the franchise fee accruing

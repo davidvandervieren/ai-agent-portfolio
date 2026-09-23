@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.630 - Consent of Town required.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.630COTORE"
 sha256: 79873649e3916968282fd0e2c5235103363eaf460597bd45b399e7681a8d4cfa
-fetched_at: "2026-09-18T05:21:50+00:00"
+fetched_at: "2026-09-22T01:58:26+00:00"
 ---
 
 A.

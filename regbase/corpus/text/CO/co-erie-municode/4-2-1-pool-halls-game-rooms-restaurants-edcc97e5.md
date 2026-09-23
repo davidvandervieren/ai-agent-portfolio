@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 4 - BUSINESS REGULATIONS > Chapter 2. - AMUSEMENTS > 4-2-1 - Pool halls; game rooms; restaurants.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT4BURE_CH2AM_4-2-1POHAGARORE"
 sha256: 9d9d0d87ff53a39862beb83a56b02a358370a25cdd1953ee90fb5d4f20fd8f94
-fetched_at: "2026-09-18T03:59:10+00:00"
+fetched_at: "2026-09-22T00:35:26+00:00"
 ---
 
 A.

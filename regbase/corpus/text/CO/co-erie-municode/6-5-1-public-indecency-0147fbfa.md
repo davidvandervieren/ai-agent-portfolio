@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 6 - POLICE AND TRAFFIC REGULATIONS > Chapter 5. - OFFENSES INVOLVING MORALS AND DECENCY > 6-5-1 - Public indecency.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT6POTRRE_CH5OFINMODE_6-5-1PUIN"
 sha256: b04c14ec4f3c0c724337f1ecd6fdc844ac59d0dd1ef96a51541202dae673c55d
-fetched_at: "2026-09-18T04:03:25+00:00"
+fetched_at: "2026-09-22T00:39:38+00:00"
 ---
 
 Any person who performs any of the following in a public place or where the conduct

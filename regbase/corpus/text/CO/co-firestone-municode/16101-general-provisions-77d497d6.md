@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 16 - FIRESTONE DEVELOPMENT CODE > Chapter 10 - Enforcement > 16.10.1 - General provisions.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT16FIDECO_CH10EN_16.10.1GEPR"
 sha256: feadb531b67cc47448aadca30c026f5d6f4b9d64baab65c03e77e962282fe842
-fetched_at: "2026-09-18T05:31:52+00:00"
+fetched_at: "2026-09-22T02:08:42+00:00"
 ---
 
 Sections:

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 21 - Areas and Activities of State Interest > ARTICLE IV - RESERVED
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH21ARACSTIN_ARTIVRE"
 sha256: 40898aadbc692b8e7e8a9f0b6632f6f27600d1f9c700bcffe76c5a81df29b8d2
-fetched_at: "2026-09-17T13:33:22+00:00"
+fetched_at: "2026-09-21T17:47:06+00:00"
 ---
 
 Editor's note— Weld County Code Ordinance 2025-07 , adopted June 16, 2025, repealed article IV, §§ 21-4-10—21-4-40, 21-4-200—21-4-320,

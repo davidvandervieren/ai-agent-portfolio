@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.520 - Town requirement to underground.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.520TOREUN"
 sha256: c3724c012ab34b7b4770b16b6bcfa95ce959f5aac07efbf45f1c21e3c0279887
-fetched_at: "2026-09-18T05:21:28+00:00"
+fetched_at: "2026-09-22T01:58:05+00:00"
 ---
 
 In addition to the provisions of Sections 13.24.480 — 13.24.530 of this Chapter, the Town may require any above ground United Power facilities to

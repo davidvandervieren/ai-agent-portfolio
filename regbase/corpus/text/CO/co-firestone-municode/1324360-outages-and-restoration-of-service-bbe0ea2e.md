@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.360 - Outages and restoration of service.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.360OURESE"
 sha256: 79ef7a88cd92da0031286f91d7be154b6cdfd8c3b6674705c4e9b780843a761a
-fetched_at: "2026-09-18T05:20:55+00:00"
+fetched_at: "2026-09-22T01:57:31+00:00"
 ---
 
 A.

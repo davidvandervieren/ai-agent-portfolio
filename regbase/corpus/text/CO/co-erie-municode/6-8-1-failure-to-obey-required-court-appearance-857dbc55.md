@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 6 - POLICE AND TRAFFIC REGULATIONS > Chapter 8. - OFFENSES RELATING TO GOVERNMENT > 6-8-1 - Failure to obey required court appearance.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT6POTRRE_CH8OFREGO_6-8-1FAOBRECOAP"
 sha256: 193b58797f74fe5ba1b9a51b37e209aa713abe8a768f25a3b78cc629d8eb078b
-fetched_at: "2026-09-18T04:04:24+00:00"
+fetched_at: "2026-09-22T00:40:41+00:00"
 ---
 
 It is unlawful for any person accused or convicted of any violation of this Code to

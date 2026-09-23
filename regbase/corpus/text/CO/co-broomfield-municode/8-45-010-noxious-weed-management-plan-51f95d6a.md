@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8-45 - Noxious Weed Management Plan > 8-45-010 - Noxious Weed Management Plan.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT8HESA_CH8-45NOWEMAPL_8-45-010NOWEMAPL"
 sha256: d114f355745b666811be7332b949174390f5e328084a86153c51d9f9a748775c
-fetched_at: "2026-09-17T15:41:12+00:00"
+fetched_at: "2026-09-21T19:50:01+00:00"
 ---
 
 (A)

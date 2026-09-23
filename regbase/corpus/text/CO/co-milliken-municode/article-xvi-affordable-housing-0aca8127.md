@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE XVI - Affordable Housing
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH18BURE_ARTXVIAFHO"
 sha256: 34b77830b0e7b0f5682c34df5ffbee5689184efd5491f3214a438a5877c8c945
-fetched_at: "2026-09-18T11:10:31+00:00"
+fetched_at: "2026-09-23T01:47:56+00:00"
 ---
 
 Editor's note— Ord. No. 774 , §§ 1—12, adopted August, 14, 2019, did not specify manner of inclusion, hence, codification

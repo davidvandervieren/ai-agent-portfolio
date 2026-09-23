@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE II - Procedures and Permits > Division 1 - Amendments to Zoning Map
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIIPRPE_DIV1AMZOMA"
 sha256: a6b372cb46bb7ae22b801264a43d7ee2930f3754c6c4a1df50dfd56feabaca3e
-fetched_at: "2026-09-17T13:37:59+00:00"
+fetched_at: "2026-09-21T17:45:37+00:00"
 ---
 
 A.

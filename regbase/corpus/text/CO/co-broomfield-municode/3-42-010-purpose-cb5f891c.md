@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3-42 - Senior Citizen Property Tax Refund > 3-42-010 - Purpose.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT3REFI_CH3-42SECIPRTARE_3-42-010PU"
 sha256: f948419568eb6448c981db2bf784cc3808ea6f2c488b2fece411b302559f2a12
-fetched_at: "2026-09-17T15:27:25+00:00"
+fetched_at: "2026-09-21T19:36:10+00:00"
 ---
 
 (A)

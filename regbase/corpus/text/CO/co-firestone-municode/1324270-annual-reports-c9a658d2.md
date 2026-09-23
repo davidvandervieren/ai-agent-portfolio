@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.270 - Annual reports.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.270ANRE"
 sha256: 40d3358debb6059befe9d239f58774d84be5bbb047c8805423717cbd60a116b7
-fetched_at: "2026-09-18T05:20:38+00:00"
+fetched_at: "2026-09-22T01:57:12+00:00"
 ---
 
 United Power shall provide the Town on or before May 1 of each year beginning after

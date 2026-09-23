@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 13 - UTILITIES > CHAPTER 13.20. - STORMWATER QUALITY > 13.20.010 - Interpretation.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT13UT_CH13.20STQU_13.20.010IN"
 sha256: a7623fd0cbf46c3a86fccb7ba2387778e1b59abeee8f664f7b2bfd6c729d537f
-fetched_at: "2026-09-18T10:34:12+00:00"
+fetched_at: "2026-09-23T01:11:10+00:00"
 ---
 
 Editor's note— Ord. No. 6281 , § 1, adopted February 19, 2019, amended Chapter 13.20 in its entirety to read as

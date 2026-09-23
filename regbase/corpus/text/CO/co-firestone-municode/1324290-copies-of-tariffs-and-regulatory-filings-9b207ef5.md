@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.290 - Copies of tariffs and regulatory filings.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.290COTAREFI"
 sha256: 525b6551db4b9e36c34699efde75beb5558711f2c8b14419cdf8817275724454
-fetched_at: "2026-09-18T05:20:41+00:00"
+fetched_at: "2026-09-22T01:57:16+00:00"
 ---
 
 United Power shall notify the Town of all proposals to change rates relating to service

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE I - HOME RULE > SUBTITLE B - CHARTER > ARTICLE IV. - COUNTY COURT > PART 1. - APPOINTMENT, RETENTION AND SUCCESSION OF JUDGES
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIHORU_SUBTITLE_BCH_ARTIVCOCO_PT1APRESUJU"
 sha256: 78e09a0b167d08bee222e2f9dfcf8554fadba5de756b7f545c48cdfcaa55e1f4
-fetched_at: "2026-09-17T23:41:08+00:00"
+fetched_at: "2026-09-21T22:55:42+00:00"
 ---
 
 The County Court of the City and County of Denver shall be presided over by such number

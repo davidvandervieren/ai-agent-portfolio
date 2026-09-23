@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Development Code > ARTICLE I. - General Provisions
 url: "https://library.municode.com/co/fort_lupton/codes/municipal_code?nodeId=CH16DECO_ARTIGEPR"
 sha256: beafc5775976f806b5b598ae74f5ca82b02fd7e5699a7d10e1448178c65b2362
-fetched_at: "2026-09-18T07:03:49+00:00"
+fetched_at: "2026-09-22T03:08:25+00:00"
 ---
 
 Editor's note— Ord. No. 2022-1143 , §§ 1, 2, adopted June 7, 2022, repealed the former Ch. 16, and enacted a new Ch.

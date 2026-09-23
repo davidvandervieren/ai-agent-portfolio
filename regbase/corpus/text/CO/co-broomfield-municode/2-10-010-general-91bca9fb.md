@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-10 - Employees' Review Committee > 2-10-010 - General.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-10EMRECO_2-10-010GE"
 sha256: 4dabc70ac4770e258aef2bbbc67b8b9085574fed7de9f3cd860172a786f7a9f0
-fetched_at: "2026-09-17T15:12:47+00:00"
+fetched_at: "2026-09-21T19:21:02+00:00"
 ---
 
 Full-time part-time, seasonal and temporary city employees select fellow employees

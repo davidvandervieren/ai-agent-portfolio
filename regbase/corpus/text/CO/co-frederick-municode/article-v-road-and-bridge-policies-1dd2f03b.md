@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration > ARTICLE V - Road and Bridge Policies
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH2AD_ARTVROBRPO"
 sha256: 23414caa5a87e57fe9d79a8b0479dc461380ea235433f18883d4b94884f05796
-fetched_at: "2026-09-18T05:49:19+00:00"
+fetched_at: "2026-09-22T02:26:12+00:00"
 ---
 
 The Public Works policies contained in Chapter 8 of this Code replace all previous road and bridge policies, fugitive dust control

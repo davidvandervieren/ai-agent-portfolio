@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 16 - BUILDINGS AND CONSTRUCTION > CHAPTER 16.02. - FINDINGS
 url: "https://library.municode.com/co/longmont/codes/code_of_ordinances?nodeId=PTIICOOR_TIT16BUCO_CH16.02FI"
 sha256: e2e58cf25086c8fccc7cfaa5af66b0d55441c69c5c666ddeb706bc2fd2660cab
-fetched_at: "2026-09-18T08:30:37+00:00"
+fetched_at: "2026-09-22T03:59:07+00:00"
 ---
 
 The city council finds:

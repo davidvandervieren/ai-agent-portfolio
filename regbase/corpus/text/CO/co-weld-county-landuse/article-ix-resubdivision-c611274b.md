@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 24 - Subdivisions > ARTICLE IX - Resubdivision
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTIXRE"
 sha256: d96001def94b6216ce42c694265bf44eb4d5abc3adc767d4210278b1579c9aba
-fetched_at: "2026-09-17T13:34:54+00:00"
+fetched_at: "2026-09-21T17:43:06+00:00"
 ---
 
 A.

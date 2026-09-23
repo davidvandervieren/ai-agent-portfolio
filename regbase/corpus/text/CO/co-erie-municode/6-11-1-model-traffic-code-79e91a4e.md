@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 6 - POLICE AND TRAFFIC REGULATIONS > Chapter 11. - MOTOR VEHICLES AND TRAFFIC > 6-11-1 - Model Traffic Code.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT6POTRRE_CH11MOVETR_6-11-1MOTRCO"
 sha256: c5419a7d85025ffe86738f4ad81fa1bb3262e89f14f6200d498faf11ea50afc1
-fetched_at: "2026-09-18T04:05:40+00:00"
+fetched_at: "2026-09-22T00:41:57+00:00"
 ---
 
 A.

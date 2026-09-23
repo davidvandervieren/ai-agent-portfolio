@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5-39 - Short Term Rentals > 5-39-010 - Definitions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5-39SHTERE_5-39-010DE"
 sha256: afb809092dad08a70db6ebe3e12d96580d4738de636f63346ecd1c1965cfa1c4
-fetched_at: "2026-09-17T15:32:14+00:00"
+fetched_at: "2026-09-21T19:41:02+00:00"
 ---
 
 As used in this chapter, unless the context clearly indicates otherwise, certain words,

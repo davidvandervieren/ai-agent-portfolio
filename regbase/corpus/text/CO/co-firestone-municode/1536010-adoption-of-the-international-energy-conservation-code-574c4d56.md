@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.36 - International Energy Conservation Code > 15.36.010 - Adoption of the International Energy Conservation Code.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT15BUCO_CH15.36INENCOCO_15.36.010ADINENCOCO"
 sha256: 4847c301d8b3d276f2f621b9375156edb680a90823194aa001d10589935814ca
-fetched_at: "2026-09-18T05:27:09+00:00"
+fetched_at: "2026-09-22T02:03:50+00:00"
 ---
 
 Sections

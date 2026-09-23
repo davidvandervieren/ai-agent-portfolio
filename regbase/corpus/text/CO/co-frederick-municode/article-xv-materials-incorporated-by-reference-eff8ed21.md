@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 30 - Weld County Department of Public Health and Environment On-Site Wastewater Treatment System Regulations > ARTICLE XV - Materials Incorporated by Reference
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH30WECODEPUHEENTEWATRSYRE_ARTXVMAINRE"
 sha256: f3ca0a46e2d196630cf8b5e77d8b145d371897722d32e16ae416aba4094e1b42
-fetched_at: "2026-09-18T05:58:13+00:00"
+fetched_at: "2026-09-22T02:31:18+00:00"
 ---
 
 Throughout these regulations, standards and requirements by outside organizations

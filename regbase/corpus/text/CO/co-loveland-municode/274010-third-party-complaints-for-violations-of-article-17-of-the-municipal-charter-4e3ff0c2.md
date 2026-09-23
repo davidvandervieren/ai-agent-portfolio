@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.74. - THIRD PARTY COMPLAINTS FOR VIOLATIONS OF ARTICLE 17 OF THE MUNICIPAL CHARTER > 2.74.010 - Third party complaints for violations of Article 17 of the Municipal Charter.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT2ADPE_CH2.74THPACOVIAR17MUCH_2.74.010THPACOVIAR17MUCH"
 sha256: c3d587049217e17bf67c1727347913370dd5bc7dd1a339163731343964ad06f9
-fetched_at: "2026-09-18T10:07:32+00:00"
+fetched_at: "2026-09-23T00:44:20+00:00"
 ---
 
 A.

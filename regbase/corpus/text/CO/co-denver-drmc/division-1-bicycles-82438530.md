@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 54 - TRAFFIC REGULATIONS > ARTICLE IX. - BICYCLES, ELECTRIC PERSONAL ASSISTIVE MOBILITY DEVICES, AND ELECTRIC SCOOTERS > DIVISION 1. - BICYCLES
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH54TRRE_ARTIXBIELPEASMODEELSC_DIV1BI"
 sha256: b89a51f7a2782f21d0d4eea0a66907c4c53ebb761d2b061cd38eeb42c0213b3e
-fetched_at: "2026-09-17T23:39:39+00:00"
+fetched_at: "2026-09-21T22:53:50+00:00"
 ---
 
 The provisions of this article applicable to bicycles shall apply whenever a bicycle

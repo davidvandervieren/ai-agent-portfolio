@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8-16 - Health Nuisances > 8-16-010 - Nuisances designated.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT8HESA_CH8-16HENU_8-16-010NUDE"
 sha256: bf4c4693aada1ed4d17a538218b4d162b35debd3f054777f0b6a2cf738184839
-fetched_at: "2026-09-17T15:39:09+00:00"
+fetched_at: "2026-09-21T19:47:55+00:00"
 ---
 
 Anything which is injurious to the health or morals, or indecent or offensive to the

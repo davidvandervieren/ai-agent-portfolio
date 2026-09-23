@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 3 - Human Resources > ARTICLE VII - Wages and Hours
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH3HURE_ARTVIIWAHO"
 sha256: 12a245d08bdb67fa35fd8f9541953a1d0057c871934c701755a8d73848be6831
-fetched_at: "2026-09-17T13:28:13+00:00"
+fetched_at: "2026-09-21T17:39:41+00:00"
 ---
 
 All regular County employees will normally be scheduled to work a forty-hour week.

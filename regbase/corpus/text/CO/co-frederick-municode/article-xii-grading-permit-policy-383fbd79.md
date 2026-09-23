@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 8 - Public Works > ARTICLE XII - Grading Permit Policy
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH8PUWO_ARTXIIGRPEPO"
 sha256: 234097b78b803769edb12047b954e275466e2b41712f95a48da5926f7037b3a7
-fetched_at: "2026-09-18T05:52:09+00:00"
+fetched_at: "2026-09-22T02:27:49+00:00"
 ---
 
 The Grading Permit is a tool to ensure that the County has reviewed proposed grading

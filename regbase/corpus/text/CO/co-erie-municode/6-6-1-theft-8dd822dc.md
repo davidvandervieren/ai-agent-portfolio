@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 6 - POLICE AND TRAFFIC REGULATIONS > Chapter 6. - OFFENSES INVOLVING PROPERTY > 6-6-1 - Theft.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT6POTRRE_CH6OFINPR_6-6-1TH"
 sha256: 3792bf146c42cbf08a4faf33c10ae353afbcca939bf1411e864b95d3b933fd0d
-fetched_at: "2026-09-18T04:03:26+00:00"
+fetched_at: "2026-09-22T00:39:40+00:00"
 ---
 
 A.

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE I - HOME RULE > SUBTITLE B - CHARTER > ARTICLE XI. - LIBRARY COMMISSION
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIHORU_SUBTITLE_BCH_ARTXILICO"
 sha256: c278f5ad03b019b6cc47f057623acfd262872477c9507ae7ab3e323de8d226d7
-fetched_at: "2026-09-17T23:30:32+00:00"
+fetched_at: "2026-09-21T21:36:57+00:00"
 ---
 
 There shall be a Library Commission, consisting of eight members, who shall serve

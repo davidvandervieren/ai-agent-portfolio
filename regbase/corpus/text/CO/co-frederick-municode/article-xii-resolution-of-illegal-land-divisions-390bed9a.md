@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 24 - Subdivisions > ARTICLE XII - Resolution of Illegal Land Divisions
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTXIIREILLADI"
 sha256: c82658c8ac693a1bed551d5dda5ee742a6f6d8e98697bea1ac56868673ee6b71
-fetched_at: "2026-09-18T05:57:07+00:00"
+fetched_at: "2026-09-22T02:30:24+00:00"
 ---
 
 A.

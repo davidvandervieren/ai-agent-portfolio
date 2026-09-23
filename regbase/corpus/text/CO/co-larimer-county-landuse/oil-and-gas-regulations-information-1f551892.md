@@ -7,8 +7,8 @@ agency: Larimer County Community Development
 title: Oil and Gas Regulations & Information
 doc_type: guidance
 url: "https://www.larimer.gov/planning/oil-and-gas-regulations"
-sha256: 2325020fbd6a6cfe335a4b5b90e3e7bdf00f96d8ba24286fb0b9f9b40e07745f
-fetched_at: "2026-09-17T16:30:08+00:00"
+sha256: c532c1f48ee99b05b41c6f4526385b2d03080362cf5af9f6a61125ac7205a895
+fetched_at: "2026-09-21T20:39:32+00:00"
 ---
 
 Oil and Gas Regulations & Information | Larimer County

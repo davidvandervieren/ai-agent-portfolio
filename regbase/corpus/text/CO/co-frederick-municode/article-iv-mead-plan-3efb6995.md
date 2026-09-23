@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE IV - Mead Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTIVMEPL"
 sha256: 6f8f63ceacc9252aaaa65cb0cdaf870e7a234b182954af189787bdbf56423a92
-fetched_at: "2026-09-18T05:54:21+00:00"
+fetched_at: "2026-09-22T02:29:05+00:00"
 ---
 
 This Coordinated Planning Agreement ("CPA") is made and entered into effective as

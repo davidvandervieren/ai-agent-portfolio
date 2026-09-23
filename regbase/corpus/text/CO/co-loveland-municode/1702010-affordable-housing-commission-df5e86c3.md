@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 17 - AFFORDABLE HOUSING CODE > CHAPTER 17.02. - AFFORDABLE HOUSING COMMISSION > 17.02.010 - Affordable housing commission.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT17AFHOCO_CH17.02AFHOCO_17.02.010AFHOCO"
 sha256: 34ec5a67ecd1b0e7ff19ac3014e93099347044def86d6871e39c89def755035b
-fetched_at: "2026-09-18T10:41:17+00:00"
+fetched_at: "2026-09-23T01:18:12+00:00"
 ---
 
 A.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.250 - Examination of records.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.250EXRE"
 sha256: 1d0b3ac23a03c2205069dc0b78e8b1030675b108490fdee3d9a51acfca08ccd9
-fetched_at: "2026-09-18T05:20:33+00:00"
+fetched_at: "2026-09-22T01:57:08+00:00"
 ---
 
 The parties agree that any duly authorized representative of the Town and United Power

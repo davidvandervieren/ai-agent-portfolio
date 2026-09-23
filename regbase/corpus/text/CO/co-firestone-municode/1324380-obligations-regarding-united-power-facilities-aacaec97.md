@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.380 - Obligations regarding United Power facilities.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.380OBREUNPOFA"
 sha256: f515136c20dd6c31942cb474e754b22e08b2129dc0e73fb0315badef683a6786
-fetched_at: "2026-09-18T05:20:59+00:00"
+fetched_at: "2026-09-22T01:57:35+00:00"
 ---
 
 A.

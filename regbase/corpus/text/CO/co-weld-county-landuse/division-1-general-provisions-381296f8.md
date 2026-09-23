@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE XI - Floodplain Management Ordinance > Division 1 - General Provisions
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTXIFLMAOR_DIV1GEPR"
 sha256: e3525f3ebf381f3609408dbd13eed5506ca088c565724d324cae20cb2c53e8ad
-fetched_at: "2026-09-17T13:39:25+00:00"
+fetched_at: "2026-09-21T17:46:47+00:00"
 ---
 
 Pursuant to the authority granted to the Board of County Commissioners by the Legislature

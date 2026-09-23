@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > Article 9 - Municipal Court > 9.01 - Created.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=HORUCH_ART9MUCO_9.01CR"
 sha256: 4ca861636dd78932fabfb4fe5114dc4e5b615b820466c07e18d75cd73df74c3c
-fetched_at: "2026-09-18T03:52:02+00:00"
+fetched_at: "2026-09-22T00:28:16+00:00"
 ---
 
 (1)

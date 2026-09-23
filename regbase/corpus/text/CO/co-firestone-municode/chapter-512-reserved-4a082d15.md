@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5.12 - Reserved
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5.12RE"
 sha256: 7ddf27d4280970eb1483feecd3b7478edc267d64541f71ffc9ede28d2d1c2b1d
-fetched_at: "2026-09-18T04:58:27+00:00"
+fetched_at: "2026-09-22T01:34:55+00:00"
 ---
 
 Editor's note— Ord. No. 1054 , § 1, adopted Oct. 9, 2024, repealed Ch. 5.12 §§ 5.12.010—5.12.030, which pertained

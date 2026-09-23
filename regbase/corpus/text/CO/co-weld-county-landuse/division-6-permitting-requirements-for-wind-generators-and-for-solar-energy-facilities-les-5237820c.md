@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IV - Supplementary District Regulations and Zoning Permits > Division 6 - Permitting Requirements for Wind Generators and for Solar Energy Facilities Less than Five (5) Acres (5 ACRE SEF)
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIVSUDIREZOPE_DIV6PEREWIGESOENFALEFI5AC5ACSE"
 sha256: e9f7c077dda05ca3425e665db11e5b4fe5f9d8104a73b1f9cc6f07080b80aa5f
-fetched_at: "2026-09-17T13:38:43+00:00"
+fetched_at: "2026-09-21T17:46:16+00:00"
 ---
 
 WIND GENERATORS are allowed in certain zone districts as either ACCESSORY USES, as

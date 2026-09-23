@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE VII - Consolidated Medical and Retail Marijuana Business Regulations and Licensing
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH6BULIRE_ARTVIICOMEREMABURELI"
 sha256: 6909cf9156a354229df2df04c2980793f0ea6724d7deb7689fabeb0a05dc8d11
-fetched_at: "2026-09-18T11:08:40+00:00"
+fetched_at: "2026-09-23T01:46:05+00:00"
 ---
 
 (a)

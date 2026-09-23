@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8-36 - Hazardous Substances > 8-36-010 - Federal and state regulations to be complied with.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT8HESA_CH8-36HASU_8-36-010FESTREBECOWI"
 sha256: ba52d06faea548059b4d1f7cb888dd96dbb84fae80b2386802749a5ee31a7298
-fetched_at: "2026-09-17T15:40:49+00:00"
+fetched_at: "2026-09-21T19:49:36+00:00"
 ---
 
 It shall be unlawful for any person to use, store, or transport any hazardous substance,

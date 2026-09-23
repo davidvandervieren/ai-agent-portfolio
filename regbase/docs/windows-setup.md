@@ -45,6 +45,33 @@ To choose a different location:
 .\regbase\tools\setup-windows.ps1 -RawCorpus "D:\RegBaseCorpus\raw"
 ```
 
+## Keeping the project in Google Drive
+
+The same sync hazard applies to Google Drive's desktop folder, so harvests
+never write there directly. After a run, mirror the whole project:
+
+```powershell
+.\regbase\tools\sync-drive.ps1
+```
+
+That fills `<Destination>\RegBase\` with the project (tools, registry, docs,
+web, people, `corpus\text`, manifest and index) and `<Destination>\RegBase\raw\`
+with the raw downloads from `REGBASE_RAW`, keeping the state/jurisdiction
+folders and removing files a re-harvest replaced. The default destination is
+`G:\My Drive\Datum Power\Repos\Regulations`; pass `-Destination` for another,
+`-RawOnly` to skip the project half. The script touches nothing in the
+destination outside `RegBase\`, so it sits safely beside other material.
+
+With Drive holding a complete copy, GitHub is optional. Local commits still
+give you history; `git push` only matters if you want that history off the
+machine too.
+
+Update packages arrive in `<Destination>\RegBase\_updates\`. To apply one:
+
+```powershell
+Expand-Archive -Path "G:\My Drive\Datum Power\Repos\Regulations\RegBase\_updates\<name>.zip" -DestinationPath "C:\RegBase" -Force
+```
+
 ## Commands
 
 Windows uses `py` rather than `python3`. Everywhere the docs say `python3`,

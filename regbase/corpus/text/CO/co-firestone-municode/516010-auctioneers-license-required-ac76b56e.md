@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5.16 - Auctions and Auctioneers > 5.16.010 - Auctioneer's license required.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5.16AUAU_5.16.010AULIRE"
 sha256: d5c8c400d8b28a9eeb72ad564133c766d6dca423b3b6c62ebe4dd3420e64e702
-fetched_at: "2026-09-18T05:05:41+00:00"
+fetched_at: "2026-09-22T01:42:05+00:00"
 ---
 
 It is unlawful for any person to sell any property, goods, wares or merchandise at

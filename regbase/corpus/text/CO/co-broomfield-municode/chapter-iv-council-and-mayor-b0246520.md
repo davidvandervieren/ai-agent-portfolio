@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER IV - COUNCIL AND MAYOR
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHIVCOMA"
 sha256: 4a3c538929b498e67d9cbb584f185ed28688564f985a3720014f307a189ba37e
-fetched_at: "2026-09-17T15:10:10+00:00"
+fetched_at: "2026-09-21T19:18:26+00:00"
 ---
 
 (a)

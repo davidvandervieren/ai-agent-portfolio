@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE XII - Property Maintenance Code
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH18BURE_ARTXIIPRMACO"
 sha256: c717c69028906a345c30c21e9b17c825ffcd570504f2078268d4417bb3a91bee
-fetched_at: "2026-09-18T11:10:22+00:00"
+fetched_at: "2026-09-23T01:47:48+00:00"
 ---
 
 Pursuant to Title 31, Article 16, Part 2, C.R.S., The International Property Maintenance

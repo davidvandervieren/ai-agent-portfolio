@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 6 - ANIMALS > Chapter 6-20 - Unlawful Attacks > 6-20-010 - Unlawful attacks prohibited.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT6AN_CH6-20UNAT_6-20-010UNATPR"
 sha256: 6b8762504429c572026ea62b5ecb227bf5ffb3bd05e1d5328839a3cb00d3c6a5
-fetched_at: "2026-09-17T15:35:48+00:00"
+fetched_at: "2026-09-21T19:44:36+00:00"
 ---
 
 (A)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.080 - Police powers.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.080POPO"
 sha256: 233cdc693104a5fa37e3bc2d8d5e9c3cd15aba81ac635de69ffcf7a1d4bddb10
-fetched_at: "2026-09-18T05:19:59+00:00"
+fetched_at: "2026-09-22T01:56:34+00:00"
 ---
 
 A.

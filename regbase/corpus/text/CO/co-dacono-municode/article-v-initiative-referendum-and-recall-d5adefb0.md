@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF DACONO HOME RULE CHARTER > ARTICLE V - Initiative, Referendum, and Recall
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CIDAHORUCH_ARTVINRERE"
 sha256: aafd4fc4069cb5dc4f55ebb4e9cbca79be7e5ffeb538fc27aa1576b5390091ba
-fetched_at: "2026-09-18T06:12:56+00:00"
+fetched_at: "2026-09-22T02:46:14+00:00"
 ---
 
 (a)

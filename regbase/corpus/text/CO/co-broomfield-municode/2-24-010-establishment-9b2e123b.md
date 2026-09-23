@@ -9,7 +9,7 @@ doc_type: code
 citation_root: "TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-24 - Police Pension Plan for "Old Hire" Police Officers > 2-24-010 - Establishment."
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-24POPEPLOLHIPOOF_2-24-010ES"
 sha256: 365df4de8ae210edca295b743f92041b83237ff73a298bb3e59c885c8e7c2858
-fetched_at: "2026-09-17T15:16:38+00:00"
+fetched_at: "2026-09-21T19:25:15+00:00"
 ---
 
 There is hereby established a pension plan for police department employees employed

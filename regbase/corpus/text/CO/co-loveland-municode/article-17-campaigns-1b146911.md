@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE 17. - CAMPAIGNS
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTICH_ART17CA"
 sha256: c665af9a3a258c871109991c10a2db88d0aca39890f262c7186fc6b14be76e45
-fetched_at: "2026-09-18T10:02:09+00:00"
+fetched_at: "2026-09-23T00:39:10+00:00"
 ---
 
 The citizens of the City of Loveland hereby find and declare that large campaign contributions

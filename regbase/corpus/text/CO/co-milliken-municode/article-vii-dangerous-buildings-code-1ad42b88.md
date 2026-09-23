@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE VII - Dangerous Buildings Code
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH18BURE_ARTVIIDABUCO"
 sha256: 7823aaff68e662fcccf5e54fbe3cc67f108ec0029449130bf83df4846f8c8172
-fetched_at: "2026-09-18T11:10:12+00:00"
+fetched_at: "2026-09-23T01:47:38+00:00"
 ---
 
 Pursuant to Title 31, Article 16, Part 2, C.R.S., there is adopted as the dangerous

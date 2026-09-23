@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 15 - BUILDINGS AND CONSTRUCTION > CHAPTER 15.18. - FUEL GAS CODE > 15.18.010 - International Fuel Gas Code—Adopted.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT15BUCO_CH15.18FUGACO_15.18.010INFUGACODO"
 sha256: c0012c4fa1a4f7e9aeee2afa966aa6fe5fcd4e7bb08e8cd702cbd0d731e53d40
-fetched_at: "2026-09-18T10:37:27+00:00"
+fetched_at: "2026-09-23T01:14:29+00:00"
 ---
 
 The International Fuel Gas Code, 2021 Edition ("2021 IFCG"), issued and published

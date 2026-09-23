@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 3 - Human Resources > ARTICLE XII - Payroll
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH3HURE_ARTXIIPA"
 sha256: d465c4b5010adbc7ba460dac5b0f5096e71e4f631b59e4707404dd8ff6dae4f1
-fetched_at: "2026-09-17T13:28:23+00:00"
+fetched_at: "2026-09-21T17:39:53+00:00"
 ---
 
 A.

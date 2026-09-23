@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 30 - Weld County Department of Public Health and Environment On-Site Wastewater Treatment System Regulations > ARTICLE XIII - Operation and Maintenance
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH30WECODEPUHEENTEWATRSYRE_ARTXIIIOPMA"
 sha256: 87df4d4556352fed4dfe580b71b0091b34f7e3d40c098cdba3dfa56e16dd50f4
-fetched_at: "2026-09-17T13:35:58+00:00"
+fetched_at: "2026-09-21T17:43:54+00:00"
 ---
 
 The owner must be responsible for maintenance of an OWTS unless the responsibility

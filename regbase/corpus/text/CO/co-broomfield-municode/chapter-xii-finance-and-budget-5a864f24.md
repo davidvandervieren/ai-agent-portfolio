@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER XII - FINANCE AND BUDGET
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHXIIFIBU"
 sha256: 481039761a5604a12cb5b00f8cc9dca3ce01d9424ab7b4bca63fcab83fc87207
-fetched_at: "2026-09-17T15:10:26+00:00"
+fetched_at: "2026-09-21T19:18:42+00:00"
 ---
 
 The fiscal year of the City and County and all of its agencies shall begin on the

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.100 - Continuation of utility service.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.100COUTSE"
 sha256: 166a6ffa726ba69c7d72c486e589e314ae34ea74dfc4fcc6a6d43eaa39ad1707
-fetched_at: "2026-09-18T05:20:03+00:00"
+fetched_at: "2026-09-22T01:56:38+00:00"
 ---
 
 In the event this Franchise is not renewed at the expiration of its term or is terminated

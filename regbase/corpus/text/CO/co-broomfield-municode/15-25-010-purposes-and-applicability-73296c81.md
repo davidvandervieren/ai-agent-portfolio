@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15-25 - Repair of Construction Defects > 15-25-010 - Purposes and applicability.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT15BUCO_CH15-25RECODE_15-25-010PUAP"
 sha256: 111e6fb9387fd529ecd23b63543be2a640fe39f314a862268ba50b38d913abd7
-fetched_at: "2026-09-17T15:54:41+00:00"
+fetched_at: "2026-09-21T20:03:16+00:00"
 ---
 
 (A)

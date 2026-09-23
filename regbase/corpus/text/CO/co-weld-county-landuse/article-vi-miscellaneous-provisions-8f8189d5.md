@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 8 - Public Works > ARTICLE VI - Miscellaneous Provisions
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH8PUWO_ARTVIMIPR"
 sha256: 60b14795a11db3a96407e154ad5b6619d93bc17b4998c62d3fe50586e9e212a3
-fetched_at: "2026-09-17T13:30:06+00:00"
+fetched_at: "2026-09-21T17:40:35+00:00"
 ---
 
 The County shall obtain all required state and federal permits for Public Works operations.

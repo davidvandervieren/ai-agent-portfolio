@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 4 - BUSINESS REGULATIONS > Chapter 14. - COMMERCIAL WASTE HAULERS > 4-14-1 - Purpose and applicability.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT4BURE_CH14COWAHA_4-14-1PUAP"
 sha256: 53efdc3a048d74c6321ad25deb5c36c9129656c19f6c878fb14068cdda2ac2da
-fetched_at: "2026-09-18T04:01:09+00:00"
+fetched_at: "2026-09-22T00:37:26+00:00"
 ---
 
 Editor's note— Ord. 15-2020 , § 1, adopted March 10, 2020, added provisions designated as ch. 4.13, §§ 4-13-1—4-13-3.

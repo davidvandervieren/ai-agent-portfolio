@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.330 - Town participation.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.330TOPA"
 sha256: d59234a5e2649b301fc9fa194f997a70edf5eb2946cb89f615f83682888fbd13
-fetched_at: "2026-09-18T05:20:49+00:00"
+fetched_at: "2026-09-22T01:57:24+00:00"
 ---
 
 The Town shall have the right to approve major facility site plans within the Town.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.420 - Adjustments to United Power facilities.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.420ADUNPOFA"
 sha256: 6a40b81acc3916aad1759450d32290a39902f35a5b5849912e3d2da150f7fbe9
-fetched_at: "2026-09-18T05:21:07+00:00"
+fetched_at: "2026-09-22T01:57:43+00:00"
 ---
 
 United Power shall perform adjustments to United Power facilities, including manholes

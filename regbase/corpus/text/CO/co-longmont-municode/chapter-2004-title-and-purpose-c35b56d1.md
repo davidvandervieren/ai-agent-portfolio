@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 20 - FLOODPLAIN REGULATIONS > CHAPTER 20.04. - TITLE AND PURPOSE
 url: "https://library.municode.com/co/longmont/codes/code_of_ordinances?nodeId=PTIICOOR_TIT20FLRE_CH20.04TIPU"
 sha256: ef267554a7d20bc00bcafea7fc3b65327959d6ee3f896143a062369ebd30d6b9
-fetched_at: "2026-09-18T08:31:12+00:00"
+fetched_at: "2026-09-22T03:59:45+00:00"
 ---
 
 The legislature of the state has, in C.R.S. title 29, art. 20, delegated the responsibility

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IV - Supplementary District Regulations and Zoning Permits > Division 18 - Limited Event Permits
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIVSUDIREZOPE_DIV18LIEVPE"
 sha256: 008b8cb00efb92cf61f44a4d83e8722e814b7785e66af2942a2d0cb73c63f164
-fetched_at: "2026-09-18T06:01:15+00:00"
+fetched_at: "2026-09-22T02:33:48+00:00"
 ---
 
 Editor's note— Weld County Code Ordinance 2023-09 , set out provisions intended for use as §§ 23-18-10—23-18-100, however, said provisions

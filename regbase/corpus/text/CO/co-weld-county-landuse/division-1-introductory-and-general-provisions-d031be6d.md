@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 21 - Areas and Activities of State Interest > ARTICLE I - Administrative Regulations > Division 1 - Introductory and General Provisions
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH21ARACSTIN_ARTIADRE_DIV1INGEPR"
 sha256: 2f5f197d93d3cdfd162ceb1cfb4d80348d23084342c74512c20db6667b10b7f8
-fetched_at: "2026-09-17T13:37:10+00:00"
+fetched_at: "2026-09-21T17:44:54+00:00"
 ---
 
 The regulations found in this Chapter 21 may be referred to generally as the 1041 Regulations, unless the specific regulations

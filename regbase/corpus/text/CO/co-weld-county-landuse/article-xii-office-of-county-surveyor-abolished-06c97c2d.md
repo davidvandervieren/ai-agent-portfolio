@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO > ARTICLE XII - OFFICE OF COUNTY SURVEYOR ABOLISHED
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO_ARTXIIOFCOSUAB"
 sha256: f8a912ed1600a1efc4bc1dd1ebc17678e919afc91cea2e5cb3a515ae4d78e65d
-fetched_at: "2026-09-17T13:26:53+00:00"
+fetched_at: "2026-09-21T17:38:10+00:00"
 ---
 
 Upon adoption of this Charter, the office of County Surveyor shall be abolished, effective

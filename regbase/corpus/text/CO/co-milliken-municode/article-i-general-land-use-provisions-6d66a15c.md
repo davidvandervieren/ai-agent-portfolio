@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE I - General Land Use Provisions
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH16LAUSCO_ARTIGELAUSPR"
 sha256: 0e88653c80c7c7922e21cdc8a0e95697e780ea8ab54649a7dda50af599060d3a
-fetched_at: "2026-09-18T11:09:54+00:00"
+fetched_at: "2026-09-23T01:47:20+00:00"
 ---
 
 This Chapter shall be known and may be cited as the Milliken Land Use Code as it may

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 9 - PUBLIC PEACE, MORALS AND WELFARE > III. Offenses Against Public Decency > Chapter 9-14 - Gambling > 9-14-010 - Gambling prohibited generally.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT9PUPEMOWE_IIOFAGPUDE_CH9-14GA_9-14-010GAPRGE"
 sha256: 46d5aef75c0cbdbce36b553ccec6b8d101911c99f97cc39c8627f7c152d82a03
-fetched_at: "2026-09-17T16:21:12+00:00"
+fetched_at: "2026-09-21T20:29:44+00:00"
 ---
 
 It is unlawful for any person to participate in gambling. Gambling means risking any money, credit, deposit, or other thing of value for gain contingent

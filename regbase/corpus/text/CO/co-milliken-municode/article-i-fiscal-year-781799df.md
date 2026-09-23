@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE I - Fiscal Year
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH4REFI_ARTIFIYE"
 sha256: 3ed9731d36d6a3c43a1dc791fab64ee6fadd91a783b3d63317f29a881f9f5a0e
-fetched_at: "2026-09-18T11:08:12+00:00"
+fetched_at: "2026-09-23T01:45:39+00:00"
 ---
 
 The fiscal year of the Town shall commence on January 1 of each year and shall extend

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 4 - BUSINESS REGULATIONS > Chapter 4. - JUNK DEALERS > 4-4-1 - License required.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT4BURE_CH4JUDE_4-4-1LIRE"
 sha256: 03bbcdd15cceb3fdcf9bf031056679a9d4d303e3158bc9a204460a2861df6053
-fetched_at: "2026-09-18T03:59:22+00:00"
+fetched_at: "2026-09-22T00:35:38+00:00"
 ---
 
 Every person engaged or engaging in the business of purchasing or selling old iron,

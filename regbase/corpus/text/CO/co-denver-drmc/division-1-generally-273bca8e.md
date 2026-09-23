@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 49 - STREETS, SIDEWALKS AND OTHER PUBLIC WAYS > ARTICLE XVI. - STREET SALES > DIVISION 1. - GENERALLY
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH49STSIOTPUWA_ARTXVISTSA_DIV1GE"
 sha256: fd9dc57102aa61092cc32f35a03b222bf1bba7cae2579eea0ae685fa24e7f93d
-fetched_at: "2026-09-17T23:39:01+00:00"
+fetched_at: "2026-09-21T22:52:24+00:00"
 ---
 
 Editor's note— Ord. No. 292 of 1988, § 1, adopted May 16, 1988, amended Article XVI in its entirety

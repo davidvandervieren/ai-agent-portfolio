@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE IX - Kersey Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTIXKEPL"
 sha256: 4e6a36881c0617dd39701dc006c75e2aca1c592543059aa400abf46e9a023fc1
-fetched_at: "2026-09-17T13:32:20+00:00"
+fetched_at: "2026-09-21T17:42:03+00:00"
 ---
 
 Editor's note— Ord. No. 2016-2 , adopted May 9, 2016, repealed the former Art. IV, §§ 19-9-10—19-9-80, and enacted

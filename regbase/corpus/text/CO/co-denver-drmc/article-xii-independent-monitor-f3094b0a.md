@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE I - HOME RULE > SUBTITLE B - CHARTER > ARTICLE XII. - INDEPENDENT MONITOR
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIHORU_SUBTITLE_BCH_ARTXIIINMO"
 sha256: f99bcbc38d3eee95d71649147e831595689d750c6ea33ea2eb86ee5cd13d81ed
-fetched_at: "2026-09-17T23:30:34+00:00"
+fetched_at: "2026-09-21T21:36:59+00:00"
 ---
 
 (A)

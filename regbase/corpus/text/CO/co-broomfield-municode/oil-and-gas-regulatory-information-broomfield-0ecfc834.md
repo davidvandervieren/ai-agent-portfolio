@@ -7,8 +7,8 @@ agency: City and County of Broomfield Planning & Development Services
 title: Oil and Gas Regulatory Information | Broomfield
 doc_type: guidance
 url: "https://www.broomfield.org/2832/Oil-and-Gas-Regulatory-Information"
-sha256: ea29266228a983c09a14e29468c3bb1ea2070125c9601ac7619dea1f9dc7e856
-fetched_at: "2026-09-17T16:29:19+00:00"
+sha256: 6b8683798d254166b1aa7b09aecf9b356f435817cd85a9cfde0a51a53b358d9b
+fetched_at: "2026-09-21T20:38:51+00:00"
 ---
 
 <!-- heading-path: Oil and Gas Regulatory Information -->

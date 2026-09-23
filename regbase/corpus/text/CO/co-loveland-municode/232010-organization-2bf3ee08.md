@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.32. - ADMINISTRATIVE PLAN > 2.32.010 - Organization.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT2ADPE_CH2.32ADPL_2.32.010OR"
 sha256: 687b05ae467b33b01a8309866e131e1bab53a6458856a8bf522a76841876d334
-fetched_at: "2026-09-18T10:05:15+00:00"
+fetched_at: "2026-09-23T00:42:07+00:00"
 ---
 
 State Law reference— Authorizing manager form cities to establish administrative organization plans, C.R.S.

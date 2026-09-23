@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 9 - PUBLIC PEACE, ORDER AND MORALS > I. OFFENSES BY OR AGAINST PUBLIC OFFICERS AND GOVERNMENT > CHAPTER 9.04. - OBSTRUCTING JUSTICE > 9.04.010 - Resisting or obstructing an officer.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT9PUPEORMO_I.OFAGPUOFGO_CH9.04OBJU_9.04.010REOBOF"
 sha256: 49527e02ba55fe22d4780f8f23789ab4b86cd7f3416e6c7d5de43741e5d50577
-fetched_at: "2026-09-18T10:42:49+00:00"
+fetched_at: "2026-09-23T01:19:45+00:00"
 ---
 
 A.

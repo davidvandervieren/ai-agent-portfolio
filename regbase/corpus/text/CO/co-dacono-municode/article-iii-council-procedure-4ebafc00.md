@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF DACONO HOME RULE CHARTER > ARTICLE III - Council Procedure
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CIDAHORUCH_ARTIIICOPR"
 sha256: 2354c4273bd02414076ab90142aed62c9f652ce51e0a340acfef8e306387a96b
-fetched_at: "2026-09-18T06:12:52+00:00"
+fetched_at: "2026-09-22T02:46:10+00:00"
 ---
 
 (a)

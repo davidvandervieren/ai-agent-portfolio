@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.510 - Cooperation with other utilities.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.510COOTUT"
 sha256: cda0b1ad1584dce5bb7a3489a4a778a1681f8724d4d7bdbdb0a3a9d79c48cf7f
-fetched_at: "2026-09-18T05:21:26+00:00"
+fetched_at: "2026-09-22T01:58:01+00:00"
 ---
 
 When undertaking a project of undergrounding, the Town and United Power shall work

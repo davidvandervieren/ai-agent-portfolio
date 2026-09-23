@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > Article 11 - Open Space and Trails > 11.01 - Purpose.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=HORUCH_ART11OPSPTR_11.01PU"
 sha256: 67374f1053917bac4b408d8de64a0e5ccd8e47f5f9d0326fca19b942b9ad6f92
-fetched_at: "2026-09-18T03:52:15+00:00"
+fetched_at: "2026-09-22T00:28:28+00:00"
 ---
 
 The Open Space and Trails Advisory Board has the duty to advise the Town Council on

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.14. - PUBLIC OFFICIALS' FINANCIAL DISCLOSURE AND OPEN PUBLIC MEETINGS > 2.14.010 - Disclosure of conflicts of interest and finances.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT2ADPE_CH2.14PUOFFIDIOPPUME_2.14.010DICOINFI"
 sha256: 6e383abd654d8b0183a34073c3f2b5a894656e16990c6a31e444b796f985dd40
-fetched_at: "2026-09-18T10:04:44+00:00"
+fetched_at: "2026-09-23T00:41:35+00:00"
 ---
 
 A.

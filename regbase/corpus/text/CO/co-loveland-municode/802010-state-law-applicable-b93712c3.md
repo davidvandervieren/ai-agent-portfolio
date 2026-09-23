@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 8 - LOCAL LICENSING CODE > CHAPTER 8.02. - GENERAL PROVISIONS > 8.02.010 - State law applicable.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT8LOLICO_CH8.02GEPR_8.02.010STLAAP"
 sha256: db8e0f4ab504d90f63e5e4cba2b066ff8c9c1ab7f3942802b354b1fe2055aae8
-fetched_at: "2026-09-18T10:20:31+00:00"
+fetched_at: "2026-09-23T00:57:35+00:00"
 ---
 
 Editor's note— Ord. No. 6804 , § 10, adopted Dec. 16, 2025, amended Title 8 in its entirety to read as herein set

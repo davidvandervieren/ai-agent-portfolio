@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE 6 - Lodging Tax
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CH4REFI_ART6LOTA"
 sha256: 636800d8c1c0279e26f269ed03d309019614192e69250f016bae857e09f89791
-fetched_at: "2026-09-18T06:13:32+00:00"
+fetched_at: "2026-09-22T02:47:41+00:00"
 ---
 
 The legislative intent of the City Council in enacting this Article is that every

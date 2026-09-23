@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE IV - Building Contractor Licenses
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH6BULIRE_ARTIVBUCOLI"
 sha256: 970e727531707a89221c545659380d1586ae3372574211cdbf04a2c134337ffc
-fetched_at: "2026-09-18T11:08:38+00:00"
+fetched_at: "2026-09-23T01:46:03+00:00"
 ---
 
 (a)

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE I - HOME RULE > SUBTITLE B - CHARTER > ARTICLE I. - GENERAL PROVISIONS > PART 1. - CORPORATE MATTERS
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIHORU_SUBTITLE_BCH_ARTIGEPR_PT1COMA"
 sha256: a0af7a9f48d21de3c5b40208c291c56f65fc6a85066892e65e597e810ef09211
-fetched_at: "2026-09-17T23:40:29+00:00"
+fetched_at: "2026-09-21T22:55:06+00:00"
 ---
 
 The boundaries of the City and County, with the powers of annexation, shall be as

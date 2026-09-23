@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.05 - Cross-Connections > 13.05.010 - Authority and applicability.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.05CRNN_13.05.010AUAP"
 sha256: 42f8f3d183026d1bbdf98bf0454c0846e5f0db21568f14b6c8fab04967b5f85d
-fetched_at: "2026-09-18T05:17:28+00:00"
+fetched_at: "2026-09-22T01:54:01+00:00"
 ---
 
 A.

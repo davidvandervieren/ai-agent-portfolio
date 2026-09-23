@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 6 - POLICE AND TRAFFIC REGULATIONS > Chapter 13. - LAWN GRASSES, WEEDS AND BRUSH > 6-13-1 - Purpose.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT6POTRRE_CH13LAGRWEBR_6-13-1PU"
 sha256: c0849aec7eb5f1ff2f845afd0efd739caf8978ab55055a34059d0033a144a8af
-fetched_at: "2026-09-18T04:06:51+00:00"
+fetched_at: "2026-09-22T00:43:04+00:00"
 ---
 
 The purpose of this chapter is to protect the public health, safety and welfare, and

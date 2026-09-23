@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17-06 - Districts and Map > 17-06-010 - Districts; established.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-06DIMA_17-06-010DIES"
 sha256: 6b098fd0856423c20268bf0314bb77d28cca1aa2cf9c48c08434b92b915cee05
-fetched_at: "2026-09-17T16:01:39+00:00"
+fetched_at: "2026-09-21T20:10:10+00:00"
 ---
 
 (A)

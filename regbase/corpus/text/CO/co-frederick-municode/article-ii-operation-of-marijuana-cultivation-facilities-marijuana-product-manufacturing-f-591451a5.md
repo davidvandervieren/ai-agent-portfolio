@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Law Enforcement > ARTICLE II - Operation of Marijuana Cultivation Facilities, Marijuana Product Manufacturing Facilities, Marijuana Testing Facilities and Retail Marijuana Stores Prohibited
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH6LAEN_ARTIIOPMACUFAMAPRMAFAMATEFAREMASTPR"
 sha256: cb81a54b3d392410e1ce8e6ec9c5668c12db2475ac3d391f43cb586dce063f55
-fetched_at: "2026-09-18T05:51:39+00:00"
+fetched_at: "2026-09-22T02:27:24+00:00"
 ---
 
 Pursuant to Part 4 of Article 15 of Title 30, and Part 1 of Article 4 of Title 42,

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 24 - Subdivisions > ARTICLE II - Conformance Standards
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTIICOST"
 sha256: ccb2d60f1f8eb62303f56fff9b46245eff33a13ca9fac10bc58ddfc2948385a2
-fetched_at: "2026-09-18T05:56:47+00:00"
+fetched_at: "2026-09-22T02:30:04+00:00"
 ---
 
 Land being subdivided shall conform with Chapters 22 and 23 of this Code and other ordinances, resolutions and regulations in effect in

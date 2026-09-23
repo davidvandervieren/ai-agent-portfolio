@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IV - Supplementary District Regulations and Zoning Permits > Division 15 - Solar Facility
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIVSUDIREZOPE_DIV15SOFA"
 sha256: a91c8e14c4dbbaefefb0a49719727fd32282c8216fc478dda5312f38f7e50bdc
-fetched_at: "2026-09-18T06:01:09+00:00"
+fetched_at: "2026-09-22T02:33:42+00:00"
 ---
 
 A.

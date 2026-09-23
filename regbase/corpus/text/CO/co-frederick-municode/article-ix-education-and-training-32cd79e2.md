@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 3 - Human Resources > ARTICLE IX - Education and Training
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH3HURE_ARTIXEDTR"
 sha256: c0d828d7e4399f42408c681a0015557d80dc6fcaec034157fc31d8ebab1eb4db
-fetched_at: "2026-09-18T05:50:12+00:00"
+fetched_at: "2026-09-22T02:26:54+00:00"
 ---
 
 A.

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 17 - MEDICAL VEHICLES AND SECURE TRANSPORTATION SERVICES > ARTICLE IV. - SECURE TRANSPORTATION BUSINESSES, PROVIDERS, AND VEHICLES
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH17MEVESETRSE_ARTIVSETRBUPRVE"
 sha256: 9a95c2ef4c8cc2ce755bef6b62310d7837483021a02f305cb7106c2f34cbc0b6
-fetched_at: "2026-09-17T23:29:04+00:00"
+fetched_at: "2026-09-21T21:32:11+00:00"
 ---
 
 Editor's note— Ord. No. 552-23, § 1, adopted June 5, 2023, renamed ch. 17 from "emergency vehicles"

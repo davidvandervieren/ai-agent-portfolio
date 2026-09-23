@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE V - Keenesburg Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTVKEPL"
 sha256: e7773075e8d2fd22636a0be32527b6e721de293065d104fd7f15cf4af45329ba
-fetched_at: "2026-09-18T05:54:23+00:00"
+fetched_at: "2026-09-22T02:29:07+00:00"
 ---
 
 Editor's note—

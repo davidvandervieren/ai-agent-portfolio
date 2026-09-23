@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 4 - BUSINESS REGULATIONS > Chapter 12. - UNIT OWNERS' ASSOCIATIONS > 4-12-1 - Applicability.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT4BURE_CH12UNOWAS_4-12-1AP"
 sha256: 4b0f2984de0e0a94dc02bbd796a849b928c552af0011792a5d52fb81681cb1e6
-fetched_at: "2026-09-18T04:00:43+00:00"
+fetched_at: "2026-09-22T00:36:59+00:00"
 ---
 
 This chapter shall apply to every unit owners' association organized under C.R.S.

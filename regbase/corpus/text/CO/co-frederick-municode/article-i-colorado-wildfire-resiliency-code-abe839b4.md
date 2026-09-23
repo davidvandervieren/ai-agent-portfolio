@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 7 - Adoption of Miscellaneous Standard Codes > ARTICLE I - Colorado Wildfire Resiliency Code
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH7ADMISTCO_ARTICOWIRECO"
 sha256: bd4f64ebc54e119b7b23f836d3eaa2778a1d40b9685ac1b7f318307bcfcc39a2
-fetched_at: "2026-09-18T05:51:47+00:00"
+fetched_at: "2026-09-22T02:27:27+00:00"
 ---
 
 As required by C.R.S. Section 24-33.5-1237, the Board of County Commissioners hereby

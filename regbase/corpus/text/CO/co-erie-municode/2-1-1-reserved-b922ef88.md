@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 2 - REVENUE AND FINANCE > Chapter 1. - GENERAL REVENUE AND FINANCE PROVISIONS > 2-1-1 - Reserved.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT2REFI_CH1GEREFIPR_2-1-1RE"
 sha256: 2c5bfce5321ce16c5c37116eba22eb7319eafc1eb6bb4b527633f199c9e6793e
-fetched_at: "2026-09-18T03:56:48+00:00"
+fetched_at: "2026-09-22T00:33:00+00:00"
 ---
 
 Editor's note— Ord. No. 023-2024 , § 1, adopted May 14, 2024, repealed § 2-1-1, which pertained to Fiscal year; annual

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE I - Cable Television Franchise > Division 13 - Franchise Renewal
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH5FRCOSY_ARTICATEFR_DIV13FRRE"
 sha256: ddae28549eb18a3b58b0d439886237f406a75a876477860c7b7bde003eb8546f
-fetched_at: "2026-09-18T11:11:01+00:00"
+fetched_at: "2026-09-23T01:48:27+00:00"
 ---
 
 (a)

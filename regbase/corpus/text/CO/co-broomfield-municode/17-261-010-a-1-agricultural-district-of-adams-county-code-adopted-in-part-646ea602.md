@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17-26.1 - A-1 District > 17-26.1-010 - A-1 Agricultural District of Adams County Code adopted in part.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-26.1DI_17-26.1-010AGDIADCOCOADPA"
 sha256: 01a15f50351151be4dead6ac9ec2ebe73dda3c1a9044b9fb4fccb56ecac4cba0
-fetched_at: "2026-09-17T16:06:20+00:00"
+fetched_at: "2026-09-21T20:14:48+00:00"
 ---
 
 The zoning and use requirements of the A-1 Agricultural District of Adams County,

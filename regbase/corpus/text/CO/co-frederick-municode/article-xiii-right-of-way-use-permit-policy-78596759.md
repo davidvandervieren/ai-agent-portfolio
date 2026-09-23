@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 8 - Public Works > ARTICLE XIII - Right-of-Way Use Permit Policy
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH8PUWO_ARTXIIIRI-WUSPEPO"
 sha256: 3e8ba7e52ab5b32dba990157bab28a6c45732f56eab0ab359e79882a6dd00474
-fetched_at: "2026-09-18T05:52:11+00:00"
+fetched_at: "2026-09-22T02:27:52+00:00"
 ---
 
 The County strives to keep its road right-of-way in a state of good repair and free

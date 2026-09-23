@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.11 - Stormwater Activity Enterprise and Stormwater Utility Service Fees > 13.11.010 - General purpose and policy.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.11STACENSTUTSEFE_13.11.010GEPUPO"
 sha256: a8b6d51012b61dea7e375db7647fd42c1a1f887c18f40517b63825f129c69674
-fetched_at: "2026-09-18T05:18:08+00:00"
+fetched_at: "2026-09-22T01:54:42+00:00"
 ---
 
 A.

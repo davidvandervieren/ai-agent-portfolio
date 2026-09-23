@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE VIII - Vested Property Rights
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTVIIIVEPRRI"
 sha256: 7a1700a3496b321ce3e30ba4cc6512e2e95a3229ea82b5faab7a14f990f4218f
-fetched_at: "2026-09-17T13:33:51+00:00"
+fetched_at: "2026-09-21T17:42:43+00:00"
 ---
 
 The purpose of this Article is to provide the procedures necessary to implement the

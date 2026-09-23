@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.040 - Effective date and term of franchise.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.040EFDATEFR"
 sha256: ce8c966d152aecc4eca8f8de1e40e4160682a5e6513ea8baec2a81b939beac74
-fetched_at: "2026-09-18T05:19:51+00:00"
+fetched_at: "2026-09-22T01:56:26+00:00"
 ---
 
 This Franchise Agreement shall be effective as of the effective date of the ordinance

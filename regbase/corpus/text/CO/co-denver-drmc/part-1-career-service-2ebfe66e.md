@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE I - HOME RULE > SUBTITLE B - CHARTER > ARTICLE IX. - EMPLOYMENT > PART 1. - CAREER SERVICE
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIHORU_SUBTITLE_BCH_ARTIXEM_PT1CASE"
 sha256: c2d5d094aafe277363a116787cdf346d3665a513c5d65220d2c5b37517d0462d
-fetched_at: "2026-09-17T23:41:36+00:00"
+fetched_at: "2026-09-21T22:56:13+00:00"
 ---
 
 Editor's note— Ord. No. 665-03, § 1, adopted Aug. 25, 2003 and passed at election Nov. 4, 2003, repealed

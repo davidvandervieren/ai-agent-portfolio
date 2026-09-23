@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration > ARTICLE VI - Use of Motor Vehicles by County Officers and Employees
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH2AD_ARTVIUSMOVECOOFEM"
 sha256: bfc7c5e18261c9fac02934c53ce93765851fadb75f207310df318d24f2c95322
-fetched_at: "2026-09-17T13:27:28+00:00"
+fetched_at: "2026-09-21T17:38:42+00:00"
 ---
 
 Editor's note— Weld County Code Ordinance 2015-17 , adopted October 26, 2015, repealed the former Art. VI, §§ 2-6-10—2-6-180, and enacted

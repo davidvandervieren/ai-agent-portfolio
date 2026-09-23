@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 13 - PUBLIC SERVICES > Chapter 13-24 - Misuse of Treated Water > 13-24-010 - Misuse prohibited.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT13PUSE_CH13-24MITRWA_13-24-010MIPR"
 sha256: a59bbeba34eb73fb082cd392393fbf125a6213bdee7a67e9f3698d3e4ae73552
-fetched_at: "2026-09-17T15:48:46+00:00"
+fetched_at: "2026-09-21T19:57:32+00:00"
 ---
 
 It shall be unlawful for any person to flagrantly or wantonly misuse or waste, or

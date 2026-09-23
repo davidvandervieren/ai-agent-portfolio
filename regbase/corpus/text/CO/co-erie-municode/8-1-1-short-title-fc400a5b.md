@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 8 - WATER AND WASTEWATER > Chapter 1. - WATER USE AND SERVICE > 8-1-1 - Short title.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT8WAWA_CH1WAUSSE_8-1-1SHTI"
 sha256: 6d550892b660d9287a6f04b70e9cbbe882a8927cf0bb0e6c3bf6de440b5281db
-fetched_at: "2026-09-18T04:09:04+00:00"
+fetched_at: "2026-09-22T00:45:16+00:00"
 ---
 
 This chapter shall be known as the Town of Erie Water Ordinance.

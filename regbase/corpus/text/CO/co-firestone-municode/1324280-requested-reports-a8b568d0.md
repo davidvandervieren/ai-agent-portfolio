@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.280 - Requested reports.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.280RERE"
 sha256: 7a1e8f67f108d6d5cb308c2e3e0a65e714b562243fbd26a5e411016d0396c39e
-fetched_at: "2026-09-18T05:20:39+00:00"
+fetched_at: "2026-09-22T01:57:14+00:00"
 ---
 
 Upon request by the Town, United Power shall provide the Town:

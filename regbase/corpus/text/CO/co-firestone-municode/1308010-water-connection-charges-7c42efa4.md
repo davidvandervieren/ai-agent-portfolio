@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.08 - Water Charges and Rates > 13.08.010 - Water connection charges.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.08WACHRA_13.08.010WACOCH"
 sha256: 6b90b72f1a97fb70c5d5841bb271399fa4a78f44ebb8658ec0a6d59ba01df483
-fetched_at: "2026-09-18T05:17:36+00:00"
+fetched_at: "2026-09-22T01:54:09+00:00"
 ---
 
 A.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 12 - STREETS, SIDEWALKS AND PUBLIC PLACES > CHAPTER 12.08. - NAMING AND NUMBERING OF STREETS > I. NUMBERING > 12.08.010 - Lots and buildings running north and south.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT12STSIPUPL_CH12.08NANUST_I.NU_12.08.010LOBURUNOSO"
 sha256: b4fb04dee5d9289e564d83e0f355b9d2eaf0fe2873c4bfd4bc7da3648f95608f
-fetched_at: "2026-09-18T10:45:41+00:00"
+fetched_at: "2026-09-23T01:22:35+00:00"
 ---
 
 State Law reference— Cities and towns authorized to name and change the name of any street, alley, avenue

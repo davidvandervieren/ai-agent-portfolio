@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 30 - Weld County Department of Public Health and Environment On-Site Wastewater Treatment System Regulations > ARTICLE VII - Minimum Distances Between Components of an On-Site Wastewater Treatment System and Physical Features
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH30WECODEPUHEENTEWATRSYRE_ARTVIIMIDIBECOTEWATRSYPHFE"
 sha256: 7907aaec7baf390f3ce02f362d7cbcc69ebd0cb1cd559f06c5dad8dc497d7eed
-fetched_at: "2026-09-17T13:35:46+00:00"
+fetched_at: "2026-09-21T17:43:42+00:00"
 ---
 
 Horizontal distances from the various components of an OWTS to pertinent terrain features,

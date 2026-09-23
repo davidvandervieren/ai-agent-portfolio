@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8-24 - Lost, Abandoned, Stolen, and Confiscated Property > 8-24-010 - Custodian of property.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT8HESA_CH8-24LOABSTCOPR_8-24-010CUPR"
 sha256: f8953996e4b09167f02c7ef4a83ff626075d95a0684949ee182fd809f6be01c9
-fetched_at: "2026-09-17T15:40:18+00:00"
+fetched_at: "2026-09-21T19:49:05+00:00"
 ---
 
 The chief of police shall designate an employee of the police department to act as

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Special District Policy
 url: "https://library.municode.com/co/fort_lupton/codes/municipal_code?nodeId=CH19SPDIPO"
 sha256: 68dd709033d8c92c5307241157f53d48f706801445592028aa7e7f1c41d40d69
-fetched_at: "2026-09-18T07:03:38+00:00"
+fetched_at: "2026-09-22T03:05:48+00:00"
 ---
 
 Editor's note— Ord. No. 2024-1168 , § 1(Exh. A), adopted Aug. 6, 2024, amended the title of Ch. 19 to read as herein

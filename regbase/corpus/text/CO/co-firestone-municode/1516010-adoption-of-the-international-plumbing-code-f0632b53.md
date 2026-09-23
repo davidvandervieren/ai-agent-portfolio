@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.16 - International Plumbing Code > 15.16.010 - Adoption of the International Plumbing Code.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT15BUCO_CH15.16INPLCO_15.16.010ADINPLCO"
 sha256: 377d07189f5a450ce8bec30beff78eea5d063f538942eeeef5968145d4d9df47
-fetched_at: "2026-09-18T05:26:18+00:00"
+fetched_at: "2026-09-22T02:02:57+00:00"
 ---
 
 Sections

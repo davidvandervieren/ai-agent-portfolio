@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 30 - Weld County Department of Public Health and Environment On-Site Wastewater Treatment System Regulations > ARTICLE V - Site and Soil Evaluation
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH30WECODEPUHEENTEWATRSYRE_ARTVSISOEV"
 sha256: 4b8b49210726144367b5cb32de2dcff5d657c0cc8c6336b0a8ef2fb4c19e1f29
-fetched_at: "2026-09-17T13:35:42+00:00"
+fetched_at: "2026-09-21T17:43:38+00:00"
 ---
 
 A.

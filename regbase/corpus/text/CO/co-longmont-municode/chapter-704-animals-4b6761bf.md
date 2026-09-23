@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 7 - ANIMALS > CHAPTER 7.04. - ANIMALS
 url: "https://library.municode.com/co/longmont/codes/code_of_ordinances?nodeId=PTIICOOR_TIT7AN_CH7.04AN"
 sha256: 1d4f11aac727ef5aaa94ab8fb1a4d110658b99713bd32893f04d34f6e939cd86
-fetched_at: "2026-09-18T08:27:34+00:00"
+fetched_at: "2026-09-22T03:56:21+00:00"
 ---
 
 The purpose of this chapter is to protect the health, safety, and welfare of the general

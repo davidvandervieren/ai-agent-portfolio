@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 24 - Subdivisions > ARTICLE VI - Rural Land Division
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTVIRULADI"
 sha256: af9f49df95629eca9e34d973a39bc1091c754ffd5edcdb0cec903a6ba0087dd1
-fetched_at: "2026-09-17T13:34:48+00:00"
+fetched_at: "2026-09-21T17:42:59+00:00"
 ---
 
 A.

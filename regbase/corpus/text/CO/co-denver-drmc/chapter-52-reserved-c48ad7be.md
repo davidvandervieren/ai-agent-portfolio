@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 52 - RESERVED
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH52RE"
 sha256: 52a1124ad4bd939d9451e0c0eaa0ed55d815252e0961adc014940d272c5ac701
-fetched_at: "2026-09-17T23:28:20+00:00"
+fetched_at: "2026-09-21T22:56:54+00:00"
 ---
 
 Editor's note— Ord. No. 886-98, § 1, adopted Dec. 14, 1998, repealed Ch. 52, tattoo establishments,

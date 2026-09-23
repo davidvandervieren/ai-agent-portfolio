@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IV - Supplementary District Regulations and Zoning Permits > Division 19 - Licensed Premises Pursuant to the Colorado Natural Medicine Code
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIVSUDIREZOPE_DIV19LIPRPUCONAMECO"
 sha256: ea96e94ccf0e5d69e647d9ae7671cb6c0b69b9a623a86d15386a4d50e1dd60c2
-fetched_at: "2026-09-17T13:39:10+00:00"
+fetched_at: "2026-09-21T17:46:35+00:00"
 ---
 
 All LICENSED PREMISES PURSUANT TO THE COLORADO NATURAL MEDICINE CODE shall comply

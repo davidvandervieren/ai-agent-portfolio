@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 13 - Municipal Utilities > ARTICLE 1 - Water Service
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CH13MUUT_ART1WASE"
 sha256: d8c40fbbaa68fdbbefac38ae84c52a5ed19794f3e760b4aa635c8fa97d2135ef
-fetched_at: "2026-09-18T06:13:40+00:00"
+fetched_at: "2026-09-22T02:49:10+00:00"
 ---
 
 Editor's note— Ord. 935 §1, adopted Nov. 28, 2022, repealed the former Art. 1, §§ 13-1—13-12, and enacted

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE I - HOME RULE > SUBTITLE B - CHARTER > ARTICLE VII. - BUDGET AND FINANCE > PART 1. - BUDGET
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIHORU_SUBTITLE_BCH_ARTVIIBUFI_PT1BU"
 sha256: bf9277edce6f7380260da26995a13ee32c53c994b4d6d8b3a9a6274cb9b3e74c
-fetched_at: "2026-09-17T23:41:16+00:00"
+fetched_at: "2026-09-21T22:55:54+00:00"
 ---
 
 The fiscal year of the City and County shall commence on the first day of January

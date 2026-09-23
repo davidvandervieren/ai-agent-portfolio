@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 11 - TRAFFIC > CHAPTER 11.04. - MODEL TRAFFIC CODE
 url: "https://library.municode.com/co/longmont/codes/code_of_ordinances?nodeId=PTIICOOR_TIT11TR_CH11.04MOTRCO"
 sha256: 753ecca0c24e7c7215669dabce16f1ffc7db736d6a3d35b3c137546aab2172ea
-fetched_at: "2026-09-18T08:28:31+00:00"
+fetched_at: "2026-09-22T03:57:13+00:00"
 ---
 
 State Law reference— Vehicles and traffic, C.R.S. § 42-1-101 et seq.

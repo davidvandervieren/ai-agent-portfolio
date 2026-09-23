@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 15 - BUILDINGS AND CONSTRUCTION > CHAPTER 15.48. - INTERNATIONAL ENERGY CONSERVATION CODE > 15.48.010 - International Energy Conservation Code, 2021 Edition—Adopted.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT15BUCO_CH15.48INENCOCO_15.48.010INENCOCO2021EDDO"
 sha256: dcd42ac19651020e46e3641ecf3a1cbbfe3978f3378afa7e90c186e2828af8e3
-fetched_at: "2026-09-18T10:38:11+00:00"
+fetched_at: "2026-09-23T01:15:13+00:00"
 ---
 
 The International Energy Conservation Code, 2021 Edition (the "2021 IECC"), issued

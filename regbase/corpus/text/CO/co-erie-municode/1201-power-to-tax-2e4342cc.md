@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > Article 12 - Taxation > 12.01 - Power to Tax.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=HORUCH_ART12TA_12.01POTA"
 sha256: 8c78d8149e2d32f82bfd35d2470f696c3e801403eee259d9ba97e4702e96a218
-fetched_at: "2026-09-18T03:52:22+00:00"
+fetched_at: "2026-09-22T00:28:36+00:00"
 ---
 
 The Town shall have all powers of taxation available to municipalities in the Constitution

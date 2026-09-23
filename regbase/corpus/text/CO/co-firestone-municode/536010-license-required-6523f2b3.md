@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5.36 - Refuse Haulers > 5.36.010 - License required.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5.36REHA_5.36.010LIRE"
 sha256: 2a90ce3428e75135e70074cd1ece8f32ae3c794e2de0b37e6bcb45036597bcd3
-fetched_at: "2026-09-18T05:06:23+00:00"
+fetched_at: "2026-09-22T01:42:48+00:00"
 ---
 
 No person shall act as a refuse hauler without first applying for and obtaining a

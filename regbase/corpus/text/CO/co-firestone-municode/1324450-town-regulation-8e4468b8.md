@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.450 - Town regulation.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.450TORE"
 sha256: f728ff0b7932baa4b87e8fb801e751579f081186d96197997e1fb9d97b95b4f7
-fetched_at: "2026-09-18T05:21:15+00:00"
+fetched_at: "2026-09-22T01:57:49+00:00"
 ---
 
 The Town expressly reserves, and United Power expressly recognizes, the Town's right

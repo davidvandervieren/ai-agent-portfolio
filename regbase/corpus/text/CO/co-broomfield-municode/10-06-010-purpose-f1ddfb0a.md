@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 10 - VEHICLES AND TRAFFIC > Chapter 10-06 - Residential Parking Permits > 10-06-010 - Purpose.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT10VETR_CH10-06REPAPE_10-06-010PU"
 sha256: 88a1f257e3e69c45dc605ede396b10cd6e0df7b1e975d0be83e40f8da59f9f26
-fetched_at: "2026-09-17T15:42:03+00:00"
+fetched_at: "2026-09-21T19:50:51+00:00"
 ---
 
 It is the intent and purpose of this chapter to address the findings by the city council

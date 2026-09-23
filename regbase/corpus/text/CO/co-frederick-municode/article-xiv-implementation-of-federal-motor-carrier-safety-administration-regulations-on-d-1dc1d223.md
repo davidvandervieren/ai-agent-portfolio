@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 3 - Human Resources > ARTICLE XIV - Implementation of Federal Motor Carrier Safety Administration Regulations on Drug Use and Alcohol Misuse
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH3HURE_ARTXIVIMFEMOCASAADREDRUSALMI"
 sha256: 93a09f4a808f51649566e44381a9a913273c811a3d5f12e100a717eb26bd0fc8
-fetched_at: "2026-09-18T05:50:22+00:00"
+fetched_at: "2026-09-22T02:27:03+00:00"
 ---
 
 A.

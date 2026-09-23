@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 9 - PUBLIC PEACE, ORDER AND MORALS > VIII. WEAPONS > CHAPTER 9.60. - POSSESSION OR USE OF WEAPONS > 9.60.020 - Discharging—Permit—Exceptions.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT9PUPEORMO_VIWE_CH9.60POUSWE_9.60.020DIERXC"
 sha256: e241dc07417fbb58d73ebfbdf514a86a67cc2b836d96556aba54c16ea62df7f5
-fetched_at: "2026-09-18T10:45:29+00:00"
+fetched_at: "2026-09-23T01:22:24+00:00"
 ---
 
 It is unlawful for any person, except a law enforcement officer in the performance

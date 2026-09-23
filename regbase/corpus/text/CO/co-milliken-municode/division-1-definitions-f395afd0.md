@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE I - Cable Television Franchise > Division 1 - Definitions
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH5FRCOSY_ARTICATEFR_DIV1DE"
 sha256: 1295c729e0abbd5731c678b81e387ac5d3c2366e3dea4ae6ce6a822e2fc934fc
-fetched_at: "2026-09-18T11:10:37+00:00"
+fetched_at: "2026-09-23T01:48:03+00:00"
 ---
 
 For the purposes of this franchise and the exhibits attached hereto, the following

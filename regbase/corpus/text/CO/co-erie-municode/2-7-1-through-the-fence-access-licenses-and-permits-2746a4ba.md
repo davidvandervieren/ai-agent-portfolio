@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 2 - REVENUE AND FINANCE > Chapter 7. - ERIE MUNICIPAL AIRPORT > 2-7-1 - Through the fence access licenses and permits.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT2REFI_CH7ERMUAI_2-7-1THFEACLIPE"
 sha256: 399b39cdcbcb9acbc6d62d0ea51558b9fc33ac9d5f6140ab9d694d152a179393
-fetched_at: "2026-09-18T03:58:01+00:00"
+fetched_at: "2026-09-22T00:34:15+00:00"
 ---
 
 A.

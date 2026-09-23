@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 3 - REVENUE AND FINANCE > CHAPTER 3.08. - FUNDS > 3.08.010 - Capital improvement fund.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT3REFI_CH3.08FU_3.08.010CAIMFU"
 sha256: 85faa996f3da060718f2dd12b2f343e33513144da9c63536de882f77be6eafb2
-fetched_at: "2026-09-18T10:08:04+00:00"
+fetched_at: "2026-09-23T00:44:54+00:00"
 ---
 
 State Law reference— Deposits and investments of city funds, C.R.S. § 31-20-303.

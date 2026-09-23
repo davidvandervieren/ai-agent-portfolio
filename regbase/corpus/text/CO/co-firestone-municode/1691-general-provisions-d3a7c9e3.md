@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 16 - FIRESTONE DEVELOPMENT CODE > Chapter 9 - Nonconformities > 16.9.1 - General provisions.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT16FIDECO_CH9NO_16.9.1GEPR"
 sha256: 579a398d56116b0849da68fa65f348986a27dfa805670bf10635823f855f711a
-fetched_at: "2026-09-18T05:31:41+00:00"
+fetched_at: "2026-09-22T02:08:30+00:00"
 ---
 
 Sections:

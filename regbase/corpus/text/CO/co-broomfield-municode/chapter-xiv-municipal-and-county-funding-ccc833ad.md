@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER XIV - MUNICIPAL AND COUNTY FUNDING
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHXIVMUCOFU"
 sha256: a57faddd124e095111f1bb5e5462a57781349c11480114778df96c565c5a80bb
-fetched_at: "2026-09-17T15:10:30+00:00"
+fetched_at: "2026-09-21T19:18:46+00:00"
 ---
 
 The City and County may borrow money for any municipal and county purpose as provided

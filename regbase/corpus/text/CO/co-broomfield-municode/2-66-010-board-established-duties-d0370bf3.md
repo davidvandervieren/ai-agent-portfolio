@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-66 - Board of Equalization > 2-66-010 - Board established; duties.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-66BOEQ_2-66-010BOESDU"
 sha256: 8d823060602caa64d3781b5851805f1e86895948c86c4bef1aac2d3d74a6c92b
-fetched_at: "2026-09-17T15:21:51+00:00"
+fetched_at: "2026-09-21T19:30:31+00:00"
 ---
 
 Editor's note— Ord. No. 2225 , § 1, adopted February 13, 2024, amended ch. 2-66 in its entirety to read as herein

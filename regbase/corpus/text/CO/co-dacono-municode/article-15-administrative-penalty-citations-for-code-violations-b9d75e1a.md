@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration and Personnel > ARTICLE 15 - Administrative Penalty Citations for Code Violations
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CH2ADPE_ART15ADPECICOVI"
 sha256: 9b28f2d183904a8a476ca9333ffecfd779a28f969430478c4dbc4423e4200c87
-fetched_at: "2026-09-18T06:13:23+00:00"
+fetched_at: "2026-09-22T02:47:27+00:00"
 ---
 
 (a)

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 46 - SIGNS
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH46SI"
 sha256: c1fe88d463a97ed4be5420b2de75e1247d6027a2bffb40879c7cfbea38202001
-fetched_at: "2026-09-17T23:28:16+00:00"
+fetched_at: "2026-09-21T21:29:07+00:00"
 ---
 
 Cross reference— Advertising, Ch. 3; buildings and building regulations, Ch. 10; planning, Ch. 41; streets, sidewalks and other public ways, Ch. 49; regulations for signs permanently occupying public right-of-way, § 49-436 et seq.; zoning, Ch. 59; zoning regulations for signs, § 59-536 et seq.

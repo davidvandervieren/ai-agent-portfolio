@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 13 - PUBLIC SERVICES > Chapter 13-38 - Stormwater Service Charges > 13-38-010 - Monthly stormwater service charges.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT13PUSE_CH13-38STSECH_13-38-010MOSTSECH"
 sha256: bf6f5fa7bab74a22b819c807d7d5c2cfbb00ea7a43e6dc8e456d1e9acbd1c8cb
-fetched_at: "2026-09-17T15:50:08+00:00"
+fetched_at: "2026-09-21T19:58:50+00:00"
 ---
 
 (A)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF DACONO HOME RULE CHARTER > ARTICLE II - City Council
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CIDAHORUCH_ARTIICICO"
 sha256: 36fce4db08fdc5620600e5b2d2c6d0848223c96d42fde313fd1146ab9e6058b3
-fetched_at: "2026-09-18T06:12:50+00:00"
+fetched_at: "2026-09-22T02:46:08+00:00"
 ---
 
 Subject to the limitations of this Charter, the governing body of the City shall consist

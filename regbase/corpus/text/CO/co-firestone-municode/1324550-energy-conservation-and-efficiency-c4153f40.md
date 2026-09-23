@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.550 - Energy conservation and efficiency.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.550ENCOEF"
 sha256: f96ba4e417fc05227d3b548fc866e268e63b2562c9eaf453c3e1a50abe924eeb
-fetched_at: "2026-09-18T05:21:34+00:00"
+fetched_at: "2026-09-22T01:58:10+00:00"
 ---
 
 A.

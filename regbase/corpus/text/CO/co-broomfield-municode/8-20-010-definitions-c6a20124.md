@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8-20 - Junk Vehicles, Repair of Vehicles > 8-20-010 - Definitions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT8HESA_CH8-20JUVEREVE_8-20-010DE"
 sha256: b82efb914fa02311fdeacc7de378662be8ffd8744f1f138c45539511da1d1ff5
-fetched_at: "2026-09-17T15:40:04+00:00"
+fetched_at: "2026-09-21T19:48:49+00:00"
 ---
 
 The following definitions shall apply in the interpretation and enforcement of this

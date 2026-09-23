@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 15 - BUILDINGS AND CONSTRUCTION > CHAPTER 15.10. - RESIDENTIAL CODE > 15.10.010 - International Residential Code, 2021 Edition—Adopted.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT15BUCO_CH15.10RECO_15.10.010INRECO2021EDDO"
 sha256: e5995e2d46e1a27a1dcd84d27163ab2348edd09e36d3c4eb130949957b45e0a3
-fetched_at: "2026-09-18T10:36:45+00:00"
+fetched_at: "2026-09-23T01:13:46+00:00"
 ---
 
 The International Residential Code, 2021 Edition, issued and published by the International

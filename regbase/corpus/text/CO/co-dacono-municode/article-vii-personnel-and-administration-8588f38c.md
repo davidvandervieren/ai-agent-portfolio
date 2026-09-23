@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF DACONO HOME RULE CHARTER > ARTICLE VII - Personnel and Administration
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CIDAHORUCH_ARTVIIPEAD"
 sha256: 9b7982aea21046448b74c028091786ef77fe26a77b480a39a2d088240971de6e
-fetched_at: "2026-09-18T06:13:00+00:00"
+fetched_at: "2026-09-22T02:46:18+00:00"
 ---
 
 (a)

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER XX - PROHIBITION ON HYDRAULIC FRACTURING
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHXXPRHYFR"
 sha256: 3444af49408fe60d5f814a09e4ccefd22d718eedc8900fa61c2056024896e341
-fetched_at: "2026-09-17T15:10:42+00:00"
+fetched_at: "2026-09-21T19:18:56+00:00"
 ---
 
 To protect property, property values, public safety and welfare, and the environment

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.20. - OFFICIALS OF CITY—EMPLOYEES > 2.20.010 - City attorney, city manager—Appointment.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT2ADPE_CH2.20OFCIMP_2.20.010CIATMAPP"
 sha256: dd0f6f73b3f1fd16a07d0422d927b4b341e67a247e5c024ddd72e0a8d0a70f57
-fetched_at: "2026-09-18T10:04:52+00:00"
+fetched_at: "2026-09-23T00:41:43+00:00"
 ---
 
 The city council shall elect a city attorney who shall be an attorney-at-law and who

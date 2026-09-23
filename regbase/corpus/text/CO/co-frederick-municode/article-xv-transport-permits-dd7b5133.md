@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 8 - Public Works > ARTICLE XV - Transport Permits
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH8PUWO_ARTXVTRPE"
 sha256: 43c8ca677a23a3c9db487d108d33b67ad8c8982c2fe86d2f2e71d0ff535ea872
-fetched_at: "2026-09-18T05:52:15+00:00"
+fetched_at: "2026-09-22T02:27:55+00:00"
 ---
 
 Weld County strives to keep its roadways and bridges safe and in a state of good repair

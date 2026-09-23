@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17-31 - Temporary Sales Stands > 17-31-010 - Approval required.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-31TESAST_17-31-010APRE"
 sha256: 7e1fe9c10dae6caf18e075ec1e95e76f411d7587faeea87fd7d984e10833cc4e
-fetched_at: "2026-09-17T16:07:23+00:00"
+fetched_at: "2026-09-21T20:15:50+00:00"
 ---
 
 Temporary retail sales uses and structures, except flea markets, are allowed in the

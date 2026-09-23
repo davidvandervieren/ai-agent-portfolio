@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.030 - Grant of franchise.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.030GRFR"
 sha256: b7059ea0b7f5f5a52ba8b7d3cc11cd088b2589c948d36e7bf96f9810532734c2
-fetched_at: "2026-09-18T05:19:49+00:00"
+fetched_at: "2026-09-22T01:56:24+00:00"
 ---
 
 The Town hereby grants to United Power, for the period specified herein, and subject

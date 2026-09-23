@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-04 - County Powers > 2-04-010 - Powers generally.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-04COPO_2-04-010POGE"
 sha256: 254a69a3d7d263479fa8031e4dd8a567d82fd8270a994f8bb0b60bf530f4634f
-fetched_at: "2026-09-17T15:12:20+00:00"
+fetched_at: "2026-09-21T19:20:34+00:00"
 ---
 
 The city council shall exercise the powers of the board of county commissioners as

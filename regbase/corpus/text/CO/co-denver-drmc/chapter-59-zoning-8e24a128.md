@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 59 - ZONING
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH59ZO"
 sha256: 9d2813865db68cc5a5b4e9575689e17717eaf8c50f96b751e5267e5bc6eb8866
-fetched_at: "2026-09-17T23:28:23+00:00"
+fetched_at: "2026-09-21T21:29:12+00:00"
 ---
 
 Editor's note— Ord. No. 333-10, effective June 25, 2010, amended Chapter 59 in its entirety to read

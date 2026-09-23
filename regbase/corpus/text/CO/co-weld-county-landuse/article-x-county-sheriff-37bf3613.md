@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO > ARTICLE X - COUNTY SHERIFF
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO_ARTXCOSH"
 sha256: a6f8a6ff0b7ea3c22b0834878f57cd3e71e935d9ad49ddd1a309537b43753b56
-fetched_at: "2026-09-17T13:26:49+00:00"
+fetched_at: "2026-09-21T17:38:05+00:00"
 ---
 
 The County Sheriff shall be a graduate of a certified law enforcement academy or institution

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 24 - Subdivisions > ARTICLE XV - Fees, Violations and Penalties
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTXVFEVIPE"
 sha256: 61add23880ef9fc7e33a7c9bee74f729e8f396e5fb6e78d1464108de7b1901fe
-fetched_at: "2026-09-18T05:57:13+00:00"
+fetched_at: "2026-09-22T02:30:30+00:00"
 ---
 
 A.

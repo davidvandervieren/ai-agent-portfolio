@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 10 - UNIFIED DEVELOPMENT CODE > Chapter 9. - LEGAL NONCONFORMING USES STRUCTURES AND LOTS > 10-9-1 - General provisions.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT10UNDECO_CH9LENOUSSTLO_10-9-1GEPR"
 sha256: fc422e124db8a43ea9d476efa9da4006cf7758f787ae390a89394b123e0af375
-fetched_at: "2026-09-18T04:14:51+00:00"
+fetched_at: "2026-09-22T00:51:00+00:00"
 ---
 
 Editor's note— Ord. No. 03-2022 , § 1(Attch.), adopted Jan. 11, 2022, repealed ch. 9, §§ 10-9-1—10-9-6, and reenacted

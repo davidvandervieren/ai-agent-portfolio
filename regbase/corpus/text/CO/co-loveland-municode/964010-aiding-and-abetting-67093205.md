@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 9 - PUBLIC PEACE, ORDER AND MORALS > IX. MISCELLANEOUS PROVISIONS > CHAPTER 9.64. - AIDING AND ABETTING > 9.64.010 - Aiding and abetting.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT9PUPEORMO_IXMIPR_CH9.64AIAB_9.64.010AIAB"
 sha256: 02ecafc653b50aff82ef94f0289853f48670b884fe205a3431a7f8e2955529cb
-fetched_at: "2026-09-18T10:45:33+00:00"
+fetched_at: "2026-09-23T01:22:27+00:00"
 ---
 
 Every person who commits, attempts to commit, conspires to commit, or aids or abets

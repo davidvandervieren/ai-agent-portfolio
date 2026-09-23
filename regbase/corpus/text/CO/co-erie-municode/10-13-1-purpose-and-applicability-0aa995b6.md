@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 10 - UNIFIED DEVELOPMENT CODE > Chapter 13. - WIRELESS COMMUNICATION FACILITIES > 10-13-1 - Purpose and applicability.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT10UNDECO_CH13WICOFA_10-13-1PUAP"
 sha256: 51dd797034e5d2652f568e2a462931c5bb0c81f38c53f9b19e5b7530953d2298
-fetched_at: "2026-09-18T04:15:25+00:00"
+fetched_at: "2026-09-22T00:51:34+00:00"
 ---
 
 A.

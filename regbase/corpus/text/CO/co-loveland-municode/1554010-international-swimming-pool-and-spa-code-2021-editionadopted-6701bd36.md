@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 15 - BUILDINGS AND CONSTRUCTION > CHAPTER 15.54. - INTERNATIONAL SWIMMING POOL AND SPA CODE > 15.54.010 - International Swimming Pool and Spa Code, 2021 Edition—Adopted.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT15BUCO_CH15.54INSWPOSPCO_15.54.010INSWPOSPCO2021EDDO"
 sha256: 41c9bce118f271b053695568bf5c66fb6e1e1f98307cbdd24ad6159627e3ef81
-fetched_at: "2026-09-18T10:38:24+00:00"
+fetched_at: "2026-09-23T01:15:25+00:00"
 ---
 
 The International Swimming Pool and Spa Code, 2021 Edition (the "2021 ISPSC"), issued

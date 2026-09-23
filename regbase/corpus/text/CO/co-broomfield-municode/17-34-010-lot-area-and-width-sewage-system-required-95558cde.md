@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17-34 - Supplementary Regulations > 17-34-010 - Lot area and width; sewage system required.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-34SURE_17-34-010LOARWISESYRE"
 sha256: 948b23bf3f8b2f767cc754fc501f26a6dcad73f554fc163a7fdddc5e5d7036c4
-fetched_at: "2026-09-17T16:08:15+00:00"
+fetched_at: "2026-09-21T20:16:42+00:00"
 ---
 
 (A)

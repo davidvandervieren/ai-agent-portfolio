@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER VIII - CITY AND COUNTY ADMINISTRATION
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHVIIICICOAD"
 sha256: f9a4957de323930f412d73b2c6962323c94f01c3fdbf36d592c3f904941fb319
-fetched_at: "2026-09-17T15:10:18+00:00"
+fetched_at: "2026-09-21T19:18:34+00:00"
 ---
 
 The City and County Manager shall be the chief executive and administrative officer

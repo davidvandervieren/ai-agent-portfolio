@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 24 - Subdivisions > ARTICLE XIV - Improvements
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTXIVIM"
 sha256: c7774224cb32cad14a526c6759a18d50b4d47f34d78c84d8d07a36517e9cde8e
-fetched_at: "2026-09-18T05:57:11+00:00"
+fetched_at: "2026-09-22T02:30:28+00:00"
 ---
 
 The following site improvements and infrastructure shall be constructed at the expense

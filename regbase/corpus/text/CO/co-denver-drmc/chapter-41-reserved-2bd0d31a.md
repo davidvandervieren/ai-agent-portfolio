@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 41 - RESERVED
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH41RE"
 sha256: d9b8a2bef971c8f00d67828fcb7b8167d9fdbcd7b90c7ab41ae553b1cb50085c
-fetched_at: "2026-09-17T23:28:12+00:00"
+fetched_at: "2026-09-21T22:56:52+00:00"
 ---
 
 Editor's note— Ord. No. 634-00, § 2, adopted Aug. 14, 2000, repealed chapter 41, sections 41-1, 41-15—41-20,

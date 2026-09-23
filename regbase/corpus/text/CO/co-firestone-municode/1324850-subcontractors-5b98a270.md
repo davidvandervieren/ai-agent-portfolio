@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.850 - Subcontractors.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.850SU"
 sha256: 498fb1619a538045696bbac997c8d508e8b9cf3a186c0274b5f3068ebfc6d64c
-fetched_at: "2026-09-18T05:22:34+00:00"
+fetched_at: "2026-09-22T01:59:14+00:00"
 ---
 
 A.

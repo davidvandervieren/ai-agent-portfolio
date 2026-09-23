@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5-36 - Sexually Oriented Businesses > 5-36-010 - Legislative declaration.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5-36SEORBU_5-36-010LEDE"
 sha256: 4fd16f0314f860b2b92b3d3d50d38d3b5250752b18d7d3a8c0bc12c517503bcc
-fetched_at: "2026-09-17T15:31:05+00:00"
+fetched_at: "2026-09-21T19:39:49+00:00"
 ---
 
 (A)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE I - General Provisions
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIGEPR"
 sha256: 08d7beb2a1c834be1f624720ec9ec6e6d9ddbaed81ab2ae0df8c02deafc56f60
-fetched_at: "2026-09-18T05:55:58+00:00"
+fetched_at: "2026-09-22T02:29:50+00:00"
 ---
 
 The regulations contained herein shall be known and cited as the Weld County Zoning Ordinance .

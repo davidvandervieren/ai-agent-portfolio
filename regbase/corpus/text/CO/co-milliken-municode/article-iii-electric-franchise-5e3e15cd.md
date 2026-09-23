@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE III - Electric Franchise
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH5FRCOSY_ARTIIIELFR"
 sha256: fb00fd480c8cd6c730a409cf4a4c22ea425fff789be7eae54b0c544e5c855daa
-fetched_at: "2026-09-18T11:08:28+00:00"
+fetched_at: "2026-09-23T01:45:53+00:00"
 ---
 
 For the purpose of this franchise, the following words and phrases shall have the

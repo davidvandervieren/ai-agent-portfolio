@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration > ARTICLE I - Board Procedures
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH2AD_ARTIBOPR"
 sha256: 6c1ac384ff9816001372514ac8e907dd58fd6b72545f83b4f3225c334d8b9c86
-fetched_at: "2026-09-18T05:49:11+00:00"
+fetched_at: "2026-09-22T02:26:01+00:00"
 ---
 
 A.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5.11 - Retail Marijuana Establishments > 5.11.010 - Intent, authority and applicability.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5.11REMAES_5.11.010INAUAP"
 sha256: f5e8442cef3cc219e00ecd5d490cb3cfc56f28b6a4e0eb87dce5cb422174c179
-fetched_at: "2026-09-18T05:05:31+00:00"
+fetched_at: "2026-09-22T01:41:54+00:00"
 ---
 
 Editor's note— Ord. 896 , § 1, adopted Sept. 28, 2016, repealed the former Ch. 5.11, §§ 5.11.010—5.11.040,

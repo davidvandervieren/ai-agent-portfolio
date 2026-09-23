@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15-22 - International Fuel Gas Code > 15-22-010 - Amendments to the International Fuel Gas Code.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT15BUCO_CH15-22INFUGACO_15-22-010AMINFUGACO"
 sha256: 666083343944ef49380a2a80062389a701f3b037a73c0530f80e3da63d55d033
-fetched_at: "2026-09-17T15:54:36+00:00"
+fetched_at: "2026-09-21T20:03:12+00:00"
 ---
 
 The following amendments are hereby made to the 2024 International Fuel Gas Code:

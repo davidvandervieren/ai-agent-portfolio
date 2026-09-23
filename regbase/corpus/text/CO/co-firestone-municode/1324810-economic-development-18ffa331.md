@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.810 - Economic development.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.810ECDE"
 sha256: 3f411548af90111c9a3c0e430ef28bf843ac933a1baa168f1190cdd5f8009bdc
-fetched_at: "2026-09-18T05:22:26+00:00"
+fetched_at: "2026-09-22T01:59:02+00:00"
 ---
 
 The parties agree that promoting economic development with the Town is in the best

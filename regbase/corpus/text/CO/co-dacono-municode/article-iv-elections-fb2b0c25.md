@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF DACONO HOME RULE CHARTER > ARTICLE IV - Elections
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CIDAHORUCH_ARTIVEL"
 sha256: 5d43915d44503fa906ba8788614dad0437b0bbc942f694c695671f5311b52e62
-fetched_at: "2026-09-18T06:12:54+00:00"
+fetched_at: "2026-09-22T02:46:12+00:00"
 ---
 
 City elections shall be governed by the State statutes contained in the Colorado Municipal

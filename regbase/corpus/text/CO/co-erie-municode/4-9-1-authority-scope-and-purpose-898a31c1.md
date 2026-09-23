@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 4 - BUSINESS REGULATIONS > Chapter 9. - MARIJUANA BUSINESSES > 4-9-1 - Authority, scope, and purpose.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT4BURE_CH9MABU_4-9-1AUSCPU"
 sha256: 5b13ad1482bb0536576b243a8c8ed85d0272fe600329c0afea625f7765f97612
-fetched_at: "2026-09-18T04:00:18+00:00"
+fetched_at: "2026-09-22T00:36:34+00:00"
 ---
 
 Editor's note— Ord. No. 031-2024 , § 3, adopted Sept. 24, 2024, repealed the former Title 4, Ch. 9, §§ 4-9-1—4-9-6,

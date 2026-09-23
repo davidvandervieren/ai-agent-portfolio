@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 10 - UNIFIED DEVELOPMENT CODE > Chapter 12. - REGULATIONS FOR OIL AND GAS OPERATIONS > 10-12-1 - General provisions.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT10UNDECO_CH12REOIGAOP_10-12-1GEPR"
 sha256: 332d696c70615f46236c258d3bcce797d3356ee6a48e9b8e32075c18739e6c12
-fetched_at: "2026-09-18T04:15:11+00:00"
+fetched_at: "2026-09-22T00:51:20+00:00"
 ---
 
 Editor's note— Ord. 44-2020 , § 1(Attch.), adopted Nov. 10, 2020, repealed ch. 12, §§ 10-12-1—10-12-6, and reenacted

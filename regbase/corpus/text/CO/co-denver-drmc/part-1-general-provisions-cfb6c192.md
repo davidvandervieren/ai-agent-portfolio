@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE I - HOME RULE > SUBTITLE B - CHARTER > ARTICLE VIII. - CLERK AND RECORDER > PART 1. - GENERAL PROVISIONS
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIHORU_SUBTITLE_BCH_ARTVIIICLRE_PT1GEPR"
 sha256: d9b07c9cff84f05d5f89fadd8730a754f2ebab374a6457748881a41085b5d615
-fetched_at: "2026-09-17T23:41:28+00:00"
+fetched_at: "2026-09-21T22:56:06+00:00"
 ---
 
 Editor's note— Ord. No. 851-06, § 1, adopted Dec. 26, 2006, and passed at election Jan. 30, 2007,

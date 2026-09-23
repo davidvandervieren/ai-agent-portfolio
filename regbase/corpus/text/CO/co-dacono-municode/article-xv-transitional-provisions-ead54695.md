@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF DACONO HOME RULE CHARTER > ARTICLE XV - Transitional Provisions
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CIDAHORUCH_ARTXVTRPR"
 sha256: b822cad5ebb4f45183dc1f4dbce9d93a25d395d0b9074b7f73d66011905119ce
-fetched_at: "2026-09-18T06:13:16+00:00"
+fetched_at: "2026-09-22T02:46:38+00:00"
 ---
 
 This Charter shall become effective immediately upon filing and recording with the

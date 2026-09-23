@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO > ARTICLE II - COUNTY POWERS
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO_ARTIICOPO"
 sha256: 5aab70193caa0c0cb838adc3ef5093df4c512d76c1d81bb5d5ddc1e175c37e8a
-fetched_at: "2026-09-17T13:26:34+00:00"
+fetched_at: "2026-09-21T17:37:46+00:00"
 ---
 
 Except as this Charter provides to the contrary, Weld County shall exercise and provide

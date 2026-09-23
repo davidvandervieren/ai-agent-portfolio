@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 10 - VEHICLES AND TRAFFIC > Chapter 10-16 - Operation of Off-Road Motorized Vehicles > 10-16-010 - Definition of recreational vehicles.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT10VETR_CH10-16OPOADMOVE_10-16-010DEREVE"
 sha256: 7d6ac634bd06a708cd16689d3058fb5a424a806a40c94089330fe83849be4310
-fetched_at: "2026-09-17T15:43:03+00:00"
+fetched_at: "2026-09-21T19:51:51+00:00"
 ---
 
 A self-propelled wheeled or tracked vehicle primarily designed to be operated for

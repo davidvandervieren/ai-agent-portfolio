@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE IV - Special Requirements > Division 1 - Floodplain Areas
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH16LAUSCO_ARTIVSPRE_DIV1FLAR"
 sha256: 036245ed03348c54676cd66567a2287a944290eff1e09f088f0b7fce1bc0bf80
-fetched_at: "2026-09-18T11:11:56+00:00"
+fetched_at: "2026-09-23T01:49:24+00:00"
 ---
 
 Editor's note— Ord. 809 , § 1, adopted Oct. 25, 2023, repealed the former Div. 1, §§ 16-4-10—16-4-135, and

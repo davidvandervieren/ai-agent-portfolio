@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE III - Dacono, Firestone and Frederick Procedures and Design Standards > Division 1 - Uniform Baseline Design Standards
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTIIIDAFIFRPRDEST_DIV1UNBADEST"
 sha256: 61b78a4d126144c0d64ab15b4f3af07dcc6d6cefd8e1be870c6116410ebbfcae
-fetched_at: "2026-09-18T05:59:02+00:00"
+fetched_at: "2026-09-22T02:31:57+00:00"
 ---
 
 A.

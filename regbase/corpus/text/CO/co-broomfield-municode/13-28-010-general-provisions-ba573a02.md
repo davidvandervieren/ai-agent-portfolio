@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 13 - PUBLIC SERVICES > Chapter 13-28 - Wastewater > 13-28-010 - General provisions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT13PUSE_CH13-28WA_13-28-010GEPR"
 sha256: 87ca9db9dffc0c9a22f125613d8b3c39daf1ecdf17681e0b6cfc649987f02b03
-fetched_at: "2026-09-17T15:48:51+00:00"
+fetched_at: "2026-09-21T19:57:36+00:00"
 ---
 
 (A)

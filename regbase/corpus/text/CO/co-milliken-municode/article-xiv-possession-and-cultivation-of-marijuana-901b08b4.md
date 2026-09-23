@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE XIV - Possession and Cultivation of Marijuana
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH18BURE_ARTXIVPOCUMA"
 sha256: 2b69bcfcfee0954f5cb5695ec48b5a5b7b217a6fa6aaa7ed984d447fd28d58f4
-fetched_at: "2026-09-18T11:10:27+00:00"
+fetched_at: "2026-09-23T01:47:52+00:00"
 ---
 
 Contiguous , in terms of determining the area devoted to the growing, cultivating, manufacturing,

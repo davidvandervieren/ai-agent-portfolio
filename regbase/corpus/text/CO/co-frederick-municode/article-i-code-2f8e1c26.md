@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 1 - General Provisions > ARTICLE I - Code
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH1GEPR_ARTICO"
 sha256: 8d5c75e52369d304b431de2b010e2ad8b22262ce173cf80d44d36ea0ff9c4680
-fetched_at: "2026-09-18T05:49:02+00:00"
+fetched_at: "2026-09-22T02:25:53+00:00"
 ---
 
 This Code constitutes a compilation, revision and codification of ordinances and resolutions

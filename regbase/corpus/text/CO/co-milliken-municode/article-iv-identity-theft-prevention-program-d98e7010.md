@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 13 - Municipal Utilities > ARTICLE IV - Identity Theft Prevention Program
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH13MUUT_ARTIVIDTHPRPR"
 sha256: c1d569b2778ccaf48fb4df790835e1287fd04720176a30a86961ad93f53fd5e8
-fetched_at: "2026-09-18T11:09:49+00:00"
+fetched_at: "2026-09-23T01:47:15+00:00"
 ---
 
 This Article shall be known as the Identity Theft Prevention Program.

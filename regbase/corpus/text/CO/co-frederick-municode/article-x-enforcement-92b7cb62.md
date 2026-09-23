@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE X - Enforcement
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTXEN"
 sha256: 17732c7f514176db39d5ff28e2e63193572c8a16753c2f3593daf71b25b87c4e
-fetched_at: "2026-09-18T05:56:07+00:00"
+fetched_at: "2026-09-22T02:29:59+00:00"
 ---
 
 The COUNTY, through its Department of Planning Services or other departments so authorized,

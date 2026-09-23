@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE 4. - COUNCIL PROCEDURE
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTICH_ART4COPR"
 sha256: 5e5ffee4e74c045c590998810756fbba52292672638a24a8f07e07e3284c1ec0
-fetched_at: "2026-09-18T10:01:43+00:00"
+fetched_at: "2026-09-23T00:38:44+00:00"
 ---
 
 (a)

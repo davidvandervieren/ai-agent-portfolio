@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE XII - Miscellaneous Offenses
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH10GEOF_ARTXIIMIOF"
 sha256: a8a990e7185ee2db3ba4a81840cb0ddd679af313525a50294137f21d14df6aaa
-fetched_at: "2026-09-18T11:09:30+00:00"
+fetched_at: "2026-09-23T01:46:55+00:00"
 ---
 
 (a)

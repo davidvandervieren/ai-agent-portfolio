@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IV - Supplementary District Regulations and Zoning Permits > Division 11 - Reserved
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIVSUDIREZOPE_DIV11RE"
 sha256: 013d242974d0c6f70c3e40da878b7a431aa5092dd96fd5f89c789fe66ed79adf
-fetched_at: "2026-09-18T06:01:01+00:00"
+fetched_at: "2026-09-22T02:34:42+00:00"
 ---
 
 Editor's note— Weld County Code Ordinance 2025-11 , adopted November 17, 2025, repealed §§ 23-4-900—23-4-930, which pertained to semi-trailers

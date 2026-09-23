@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER XIII - TAXATION
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHXIIITA"
 sha256: ed3498ee1669b2d018ad78707d41fd7405912ea6dfc64b498b3270232e8d5606
-fetched_at: "2026-09-17T15:10:28+00:00"
+fetched_at: "2026-09-21T19:18:44+00:00"
 ---
 
 The Council shall have authority to levy and impose taxes for municipal and county

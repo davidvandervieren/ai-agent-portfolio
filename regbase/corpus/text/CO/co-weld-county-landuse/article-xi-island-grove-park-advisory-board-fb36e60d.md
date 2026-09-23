@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration > ARTICLE XI - Island Grove Park Advisory Board
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH2AD_ARTXIISGRPAADBO"
 sha256: 5233594ac420a8e9e70be0a4d26e878aa9eb4984cb0aa12a5a45e4ba51bab645
-fetched_at: "2026-09-17T13:27:38+00:00"
+fetched_at: "2026-09-21T17:38:53+00:00"
 ---
 
 The purposes for this Article are as follows:

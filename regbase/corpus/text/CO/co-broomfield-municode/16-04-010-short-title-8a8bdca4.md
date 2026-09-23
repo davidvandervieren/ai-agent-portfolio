@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 16 - SUBDIVISIONS > Chapter 16-04 - General Provisions > 16-04-010 - Short title.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT16SU_CH16-04GEPR_16-04-010SHTI"
 sha256: 307309e034f5d44f942d792c3eccdb05647e6e5afcc0fec07164596258372047
-fetched_at: "2026-09-17T15:55:56+00:00"
+fetched_at: "2026-09-21T20:04:30+00:00"
 ---
 
 This title is known and may be cited as the "Broomfield Subdivision Regulations."

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE I - HOME RULE > SUBTITLE A - CONSTITUTION OF COLORADO > ARTICLE XX. - HOME RULE CITIES AND TOWNS
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIHORU_SUBTITLE_ACOCO_ARTXXHORUCITO"
 sha256: 8a40df330c9241063a6b4993778e01afb4841acae1fd6e6cafc0d250c0ca0e73
-fetched_at: "2026-09-17T23:30:26+00:00"
+fetched_at: "2026-09-21T21:36:51+00:00"
 ---
 
 Editor's note— Printed herein is Article XX of the Constitution of Colorado which was added November

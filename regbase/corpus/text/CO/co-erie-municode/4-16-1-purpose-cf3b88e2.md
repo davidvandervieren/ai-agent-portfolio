@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 4 - BUSINESS REGULATIONS > Chapter 16. - HOME CHILDCARE ESTABLISHMENTS > 4-16-1 - Purpose.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT4BURE_CH16HOCHES_4-16-1PU"
 sha256: d11f1b1392399947524b6d032a8272a09e4ee4fab6cd36813996865662fef546
-fetched_at: "2026-09-18T04:01:33+00:00"
+fetched_at: "2026-09-22T00:37:52+00:00"
 ---
 
 This chapter is enacted to protect, preserve, and promote the public health, safety

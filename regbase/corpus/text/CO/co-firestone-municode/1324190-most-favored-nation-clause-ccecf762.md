@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.190 - Most favored nation clause.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.190MOFANACL"
 sha256: 992d98c5f84d28ab144e71eb8ef17bc4a902ebc44946ea704eaa12e897083756
-fetched_at: "2026-09-18T05:20:21+00:00"
+fetched_at: "2026-09-22T01:56:56+00:00"
 ---
 
 United Power shall report to the Town, within sixty days of execution, the terms of

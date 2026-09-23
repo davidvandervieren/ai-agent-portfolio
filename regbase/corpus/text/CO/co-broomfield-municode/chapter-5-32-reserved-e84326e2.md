@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5-32 - Reserved
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5-32RE"
 sha256: 9a2df9a498500082a348737471fcc5755e453bf2488cd62c1c63507e7aa0e0a9
-fetched_at: "2026-09-17T15:09:56+00:00"
+fetched_at: "2026-09-21T19:18:58+00:00"
 ---
 
 Editor's note— Ord. No. 2210 , § 25, adopted May 9, 2023, repealed ch. 5-32, §§ 5-32-010—5-32-210, which pertained

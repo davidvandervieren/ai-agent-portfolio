@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER V - COUNCIL PROCEDURE
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHVCOPR"
 sha256: 9521b0d6ac61430dd06fe3f60063888a35b312475f4c3fdf764557e9f154000e
-fetched_at: "2026-09-17T15:10:12+00:00"
+fetched_at: "2026-09-21T19:18:29+00:00"
 ---
 
 The Council shall meet regularly at least twice each month at a day and hour to be

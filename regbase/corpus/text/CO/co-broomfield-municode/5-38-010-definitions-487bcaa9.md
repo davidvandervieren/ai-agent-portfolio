@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5-38 - Secondhand Dealers and Pawnbrokers > 5-38-010 - Definitions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5-38SEDEPA_5-38-010DE"
 sha256: 65aa059a833fc3a9802a1dff4bf0b7e0cf3b4569fb94a3c0e41c1439e0824b29
-fetched_at: "2026-09-17T15:31:53+00:00"
+fetched_at: "2026-09-21T19:40:42+00:00"
 ---
 
 The following definitions apply for the purposes of this chapter:

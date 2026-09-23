@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Revenue and Finance > ARTICLE IV - Purchasing Policy
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH5REFI_ARTIVPUPO"
 sha256: ba87f67fb69a79cf92c81b5f6aa6d0049162ec4f898765d43a572035aac2951c
-fetched_at: "2026-09-18T05:50:40+00:00"
+fetched_at: "2026-09-22T02:27:16+00:00"
 ---
 
 Editor's note— Ord. No. 2015-2 , adopted March 25, 2015, repealed the former Art. IV, §§ 5-4-10—5-4-190, and enacted

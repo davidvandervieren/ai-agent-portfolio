@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 15 - BUILDINGS AND CONSTRUCTION > CHAPTER 15.58. - REPAIR OF CONSTRUCTION DEFECTS > 15.58.010 - Purposes and applicability.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT15BUCO_CH15.58RECODE_15.58.010PUAP"
 sha256: 107b6fbe11f753ecb47e0e336e7a011b709772fbd097bff50b00b79dd33f2282
-fetched_at: "2026-09-18T10:39:06+00:00"
+fetched_at: "2026-09-23T01:16:09+00:00"
 ---
 
 A.

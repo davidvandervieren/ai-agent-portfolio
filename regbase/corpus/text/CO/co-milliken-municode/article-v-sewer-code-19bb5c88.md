@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 13 - Municipal Utilities > ARTICLE V - Sewer Code
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH13MUUT_ARTVSECO"
 sha256: ad8a4a513f4707da6501193e77151c9578cd670e84145be3a410eb0960511ae3
-fetched_at: "2026-09-18T11:09:50+00:00"
+fetched_at: "2026-09-23T01:47:16+00:00"
 ---
 
 Editor's note— Ord. No. 777 , § 7, adopted Nov. 25, 2019, repealed § 13-5-10, which pertained to adoption and

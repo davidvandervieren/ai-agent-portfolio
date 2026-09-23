@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE II - Electric and Gas Franchise
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH5FRCOSY_ARTIIELGAFR"
 sha256: d5295e4ce761d0bfc6ab56e5ae6b64e56ea5941bbf8fd9a3b912f83c9a1a3bb7
-fetched_at: "2026-09-18T11:08:24+00:00"
+fetched_at: "2026-09-23T01:45:51+00:00"
 ---
 
 For the purpose of this Article, the following words and phrases shall have the meanings

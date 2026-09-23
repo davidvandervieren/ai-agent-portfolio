@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8-10 - Control; Construction Materials and Debris > 8-10-010 - Control of construction materials and debris.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT8HESA_CH8-10COCOMADE_8-10-010COCOMADE"
 sha256: ab2c2e6c7c2afcdf31921a12fc3b631d76e96f5a1a14d9ea31165827fbeba88a
-fetched_at: "2026-09-17T15:38:41+00:00"
+fetched_at: "2026-09-21T19:47:26+00:00"
 ---
 
 It shall be unlawful for any builder, contractor, or person in possession and control

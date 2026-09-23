@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.16 - Cable Television Franchises > 13.16.010 - Grant of franchise—Term.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.16CATEFR_13.16.010GRFRER"
 sha256: f1a38bf969164edc6ba7a07d4bb4d7f6e01bacbe0d653b0691ec0879c805c23d
-fetched_at: "2026-09-18T05:18:58+00:00"
+fetched_at: "2026-09-22T01:55:34+00:00"
 ---
 
 A.

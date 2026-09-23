@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 24 - Subdivisions > ARTICLE XI - Obsolete Land Divisions
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTXIOBLADI"
 sha256: b8b4006a7505aab320fa0859322eb2357612aa00883f2a77c6128aa56e19dde3
-fetched_at: "2026-09-18T05:57:06+00:00"
+fetched_at: "2026-09-22T02:30:22+00:00"
 ---
 
 A.

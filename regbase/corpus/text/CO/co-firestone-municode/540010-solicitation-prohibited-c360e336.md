@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5.40 - Solicitation Prohibited > 5.40.010 - Solicitation prohibited.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5.40SOPR_5.40.010SOPR"
 sha256: 3ba0cc5d734e6517d3788888b1b24e03e92c2d4a846b86ef2a1530aa69a657d7
-fetched_at: "2026-09-18T05:06:41+00:00"
+fetched_at: "2026-09-22T01:43:06+00:00"
 ---
 
 Editor's note— Ord. No. 998 , § 2, adopted July 14, 2021, repealed chapter 5.40 and enacted a new chapter 5.40

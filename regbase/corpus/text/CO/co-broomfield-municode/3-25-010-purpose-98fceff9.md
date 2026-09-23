@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3-25 - Disposition of Unclaimed Intangible Property > 3-25-010 - Purpose.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT3REFI_CH3-25DIUNINPR_3-25-010PU"
 sha256: f91b656e874b9130d0122c5a62aaa460a428e275f690420973b69af09471aec0
-fetched_at: "2026-09-17T15:25:49+00:00"
+fetched_at: "2026-09-21T19:34:32+00:00"
 ---
 
 The purpose of this chapter is to provide for the administration and disposition of

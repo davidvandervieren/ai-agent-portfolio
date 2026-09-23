@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE II - Zoning Districts and Uses
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH16LAUSCO_ARTIIZODIUS"
 sha256: 31fa084caaa88e4a17ccf4c0f7a2d7c07218d43fa34842dfbd6b86656ccf40c2
-fetched_at: "2026-09-18T11:09:57+00:00"
+fetched_at: "2026-09-23T01:47:22+00:00"
 ---
 
 To carry out the provisions of this Code, the Town is divided into the following zoning

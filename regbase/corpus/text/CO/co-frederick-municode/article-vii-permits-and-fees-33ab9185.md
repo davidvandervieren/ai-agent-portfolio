@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Revenue and Finance > ARTICLE VII - Permits and Fees
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH5REFI_ARTVIIPEFE"
 sha256: cfe56bfa945aec183eb4c67f91760d299669b230b2e36636e2537c8ca00163f5
-fetched_at: "2026-09-18T05:50:46+00:00"
+fetched_at: "2026-09-22T02:27:21+00:00"
 ---
 
 The following permits, fees and regulations are determined by the Board of County

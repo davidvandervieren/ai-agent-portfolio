@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17-48 - Amendments > 17-48-010 - Amendments to this title.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-48AM_17-48-010AMTI"
 sha256: 5bfa90181e01e6b30ed3941b19b71cf58c63aa596ca007c1fd1eeabbf7bdc131
-fetched_at: "2026-09-17T16:11:32+00:00"
+fetched_at: "2026-09-21T20:19:57+00:00"
 ---
 
 Amendments to this title may be accomplished by ordinance adopted in accordance with

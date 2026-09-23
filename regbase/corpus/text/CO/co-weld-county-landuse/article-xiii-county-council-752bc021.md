@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO > ARTICLE XIII - COUNTY COUNCIL
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO_ARTXIIICOCO"
 sha256: a8cb959a78dc29131e69d436f317689bf7f2727b771b3a6f5cd2352f07aa9f8a
-fetched_at: "2026-09-17T13:26:55+00:00"
+fetched_at: "2026-09-21T17:38:11+00:00"
 ---
 
 The County Council shall consist of five members elected as follows:

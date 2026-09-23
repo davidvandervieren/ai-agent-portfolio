@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 24 - Subdivisions > ARTICLE VII - Family Farm Division
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH24SU_ARTVIIFAFADI"
 sha256: 7f2ead410125e24a7e59a778a13ba4a8b4864b8f9399c21bcbbe318248f4c854
-fetched_at: "2026-09-17T13:34:50+00:00"
+fetched_at: "2026-09-21T17:43:01+00:00"
 ---
 
 A.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 1 - GENERAL PROVISIONS > CHAPTER 1.01. - CODE ADOPTION > 1.01.010 - Authority enactment.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT1GEPR_CH1.01COAD_1.01.010AUEN"
 sha256: 7661f1bc9ce9c277ec1d29ecafa816cbe76ceed463a6bbc62bd0f3820a41e291
-fetched_at: "2026-09-18T10:02:51+00:00"
+fetched_at: "2026-09-23T00:39:44+00:00"
 ---
 
 State Law reference— Adoption of ordinance codes by municipalities, C.R.S. § 139-34-1 et seq.

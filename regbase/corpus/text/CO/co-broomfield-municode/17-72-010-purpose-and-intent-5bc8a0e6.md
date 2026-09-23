@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17-72 - Historic Preservation > 17-72-010 - Purpose and intent.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-72HIPR_17-72-010PUIN"
 sha256: dea4a196625fed96c28b24be57a643eb26a5b63db5d58c4fc760656854b10aae
-fetched_at: "2026-09-17T16:13:47+00:00"
+fetched_at: "2026-09-21T20:22:11+00:00"
 ---
 
 (A)

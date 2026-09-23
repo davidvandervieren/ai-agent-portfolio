@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 9 - PUBLIC PEACE, MORALS AND WELFARE > VI. Consumer Protection > Chapter 9-58 - Solicitors > 9-58-010 - Door-to-door solicitation; hours permitted.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT9PUPEMOWE_VICOPR_CH9-58SO_9-58-010DO-DSOHOPE"
 sha256: e655639359d7596e44faf912927bcc81004e631dd4d7ac8dd5eac7130d8f8cea
-fetched_at: "2026-09-17T16:24:10+00:00"
+fetched_at: "2026-09-21T20:32:46+00:00"
 ---
 
 No door-to-door solicitation for the purpose of selling goods, wares, merchandise,

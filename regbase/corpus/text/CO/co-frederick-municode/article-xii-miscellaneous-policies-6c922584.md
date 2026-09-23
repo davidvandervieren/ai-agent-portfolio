@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration > ARTICLE XII - Miscellaneous Policies
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH2AD_ARTXIIMIPO"
 sha256: 0746d1b9c8d57868af2c2ec79862249dd6e7add70873b4b320096cbb693f00b4
-fetched_at: "2026-09-18T05:49:33+00:00"
+fetched_at: "2026-09-22T02:26:27+00:00"
 ---
 
 A.

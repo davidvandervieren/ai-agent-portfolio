@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE X - Residential Code
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH18BURE_ARTXRECO"
 sha256: 4aab0ab89768b3a4aa7c50dab84901663dfead909e84135fdee0bfad6b144118
-fetched_at: "2026-09-18T11:10:19+00:00"
+fetched_at: "2026-09-23T01:47:44+00:00"
 ---
 
 Pursuant to Title 31, Article 16, Part 2, C.R.S., The International Residential Code,

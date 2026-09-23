@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 13 - Municipal Utilities > ARTICLE VI - Storm Water Utility
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH13MUUT_ARTVISTWAUT"
 sha256: 13bc973c16d6bef65678f5ff781d1d53630dee88e7833d7363550c1c8b2d8249
-fetched_at: "2026-09-18T11:09:53+00:00"
+fetched_at: "2026-09-23T01:47:18+00:00"
 ---
 
 Editor's note— Ord. No. 727 , § 2, adopted March 30, 2016, set out provisions intended for use as Art. V, §§ 13-5-10—13-5-80.

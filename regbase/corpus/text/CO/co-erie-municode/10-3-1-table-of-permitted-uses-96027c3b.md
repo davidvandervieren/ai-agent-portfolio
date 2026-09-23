@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 10 - UNIFIED DEVELOPMENT CODE > Chapter 3. - USE REGULATIONS > 10-3-1 - Table of permitted uses.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT10UNDECO_CH3USRE_10-3-1TAPEUS"
 sha256: 3728f0763162541caec2ee04862954df9f50c5f2e8e530442acb83439b6c3409
-fetched_at: "2026-09-18T04:12:56+00:00"
+fetched_at: "2026-09-22T00:49:18+00:00"
 ---
 
 Editor's note— Ord. 03-2022 , § 1(Attch.), adopted January 11, 2022, repealed ch. 3, §§ 10-3-1—10-3-4, and reenacted

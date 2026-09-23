@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE VI - Land Use Applications > Division 1 - Review Procedures
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH16LAUSCO_ARTVILAUSAP_DIV1REPR"
 sha256: 392eb38a1f5c353921e555fb95e639dd1f565851af379093a25dca2b7c847ff6
-fetched_at: "2026-09-18T11:12:22+00:00"
+fetched_at: "2026-09-23T01:49:50+00:00"
 ---
 
 All land use activities applications shall conform to this Chapter.

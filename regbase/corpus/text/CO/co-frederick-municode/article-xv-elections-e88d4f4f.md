@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER FOR THE COUNTY OF WELD, COLORADO > ARTICLE XV - ELECTIONS
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=HORUCHCOWECO_ARTXVEL"
 sha256: 4736b0cea14bfbab56089cf02e2905e07c79d1bf8c9f5a9d4c3e4ad017ab09fc
-fetched_at: "2026-09-18T05:48:54+00:00"
+fetched_at: "2026-09-22T02:25:44+00:00"
 ---
 
 Except as otherwise provided in this Charter, elected officers of the County shall

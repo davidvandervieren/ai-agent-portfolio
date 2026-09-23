@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 16 - FIRESTONE DEVELOPMENT CODE > Chapter 1 - General Provisions > 16.1.1 - Title and effective date.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT16FIDECO_CH1GEPR_16.1.1TIEFDA"
 sha256: 23158dc252d9d9bf73e0be6926ed68eb8bd97fb8d1a66e8992cb6ed2f7f3c7ab
-fetched_at: "2026-09-18T05:29:23+00:00"
+fetched_at: "2026-09-22T02:06:09+00:00"
 ---
 
 Sections:

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 12 - STREETS, SIDEWALKS AND PUBLIC PLACES > CHAPTER 12.28. - PROHIBITED USES OF STREETS AND OTHER PUBLIC PLACES > 12.28.010 - Injury to streets or sidewalks.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT12STSIPUPL_CH12.28PRUSSTOTPUPL_12.28.010INSTSI"
 sha256: fc9c4d8b84281d65cd4be034b9e7848dd7a143bda9b7cb682a06238063845843
-fetched_at: "2026-09-18T10:26:34+00:00"
+fetched_at: "2026-09-23T01:03:26+00:00"
 ---
 
 State Law reference— Cities and towns preventing encroachments, etc., on sidewalks, C.R.S. § 31-15-702.

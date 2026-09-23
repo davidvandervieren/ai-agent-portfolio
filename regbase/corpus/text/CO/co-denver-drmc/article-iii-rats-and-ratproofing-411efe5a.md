@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 40 - PEST CONTROL > ARTICLE III. - RATS AND RATPROOFING
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH40PECO_ARTIIIRARA"
 sha256: dac9bfc7b5a94409106b0451cebd1784fdfdbf7e95e9f984c29f324e3bdf5d7e
-fetched_at: "2026-09-17T23:29:58+00:00"
+fetched_at: "2026-09-21T21:34:45+00:00"
 ---
 
 Cross reference— Buildings and building regulations, Ch. 10; food and food handlers, Ch. 23; insect and rodent control in restaurants § 23-62; health and sanitation, Ch. 24; housing, Ch. 27; nuisances generally, Ch. 37; solid waste, Ch. 48.

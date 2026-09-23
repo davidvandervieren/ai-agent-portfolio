@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.690 - Changing conditions.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.690CHCO"
 sha256: d204bb16beecdd700053fdc6a1b555d077b7a4b03f5f01890a34425dfa80293c
-fetched_at: "2026-09-18T05:22:02+00:00"
+fetched_at: "2026-09-22T01:58:38+00:00"
 ---
 
 United Power and the Town recognize that many aspects of the electric utility business

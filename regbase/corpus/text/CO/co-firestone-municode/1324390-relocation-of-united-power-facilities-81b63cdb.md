@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.390 - Relocation of United Power facilities.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.390REUNPOFA"
 sha256: 348b0d63c975b045a70b4e79e296fee2caef8371738dd69c36deb8f8e99f8231
-fetched_at: "2026-09-18T05:21:01+00:00"
+fetched_at: "2026-09-22T01:57:37+00:00"
 ---
 
 A.

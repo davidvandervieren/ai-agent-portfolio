@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration > ARTICLE VIII - Disposition of Recovered Property
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH2AD_ARTVIIIDIREPR"
 sha256: 446283c16b7d4b699e5fed2c23348967bbf7114c338af4183d37ca7cbabbb08a
-fetched_at: "2026-09-18T05:49:25+00:00"
+fetched_at: "2026-09-22T02:26:19+00:00"
 ---
 
 This Article shall apply to all personal property and vehicles acquired or held by

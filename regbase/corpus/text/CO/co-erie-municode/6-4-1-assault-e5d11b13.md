@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 6 - POLICE AND TRAFFIC REGULATIONS > Chapter 4. - OFFENSES AGAINST THE PERSON > 6-4-1 - Assault.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT6POTRRE_CH4OFAGPE_6-4-1AS"
 sha256: bf2ec74f620af0f1d5fb00df676d2ea174a2c8cc39c5f22124296b5d7da55d7d
-fetched_at: "2026-09-18T04:03:08+00:00"
+fetched_at: "2026-09-22T00:39:24+00:00"
 ---
 
 A.

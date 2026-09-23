@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 10 - VEHICLES AND TRAFFIC > Chapter 10-20 - Administering State Highway Access Code and Permit Fees > 10-20-010 - Director of public works to administer state highway access code.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT10VETR_CH10-20ADSTHIACCOPEFE_10-20-010DIPUWOADSTHIACCO"
 sha256: 7bf11fa04043ff90017b4091d33c11ed4f037a87f0cce048cd017e0b913dc1b2
-fetched_at: "2026-09-17T15:43:12+00:00"
+fetched_at: "2026-09-21T19:51:59+00:00"
 ---
 
 The authority, duties, powers, and responsibilities of the issuing authority and of

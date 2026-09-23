@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 20 - Impact Fees > ARTICLE I - Impact Fees
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH20IMFE_ARTIIMFE"
 sha256: 7986990acb89056807c97798d8d771fd8136a683913c1bebf9e3986730aa5b70
-fetched_at: "2026-09-18T05:55:33+00:00"
+fetched_at: "2026-09-22T02:29:41+00:00"
 ---
 
 A.

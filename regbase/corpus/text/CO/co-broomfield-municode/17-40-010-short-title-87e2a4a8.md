@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17-40 - Floodplain > I. General Provisions > 17-40-010 - Short title.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-40FL_I.GEPR_17-40-010SHTI"
 sha256: 670546fa69b7e6705dbb8f3a348e602624f0e5a9f530563a89324b91a5db4985
-fetched_at: "2026-09-17T16:27:15+00:00"
+fetched_at: "2026-09-21T20:35:51+00:00"
 ---
 
 This chapter is known and may be cited as the "Broomfield Floodplain Regulations."

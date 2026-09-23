@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER IX - PERSONNEL
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHIXPE"
 sha256: f25b875eb806c2cb1c3f954b8f116b430c6940bff83493aad193c8d384844aa0
-fetched_at: "2026-09-17T15:10:20+00:00"
+fetched_at: "2026-09-21T19:18:36+00:00"
 ---
 
 (a)

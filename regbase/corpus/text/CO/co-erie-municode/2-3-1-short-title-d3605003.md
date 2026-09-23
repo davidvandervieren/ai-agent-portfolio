@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 2 - REVENUE AND FINANCE > Chapter 3. - LAND USE FEES > 2-3-1 - Short title.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT2REFI_CH3LAUSFE_2-3-1SHTI"
 sha256: cbc460717405d428731ea7a046313cf32b774ccd2400e48ad9368676298f2cc8
-fetched_at: "2026-09-18T03:57:15+00:00"
+fetched_at: "2026-09-22T00:33:29+00:00"
 ---
 
 This chapter is known and may be cited as the Town of Erie Land Use Fee Chapter.

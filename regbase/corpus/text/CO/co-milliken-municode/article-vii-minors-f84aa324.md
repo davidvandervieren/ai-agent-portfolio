@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE VII - Minors
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH10GEOF_ARTVIIMI"
 sha256: 2ff511a6cbdc9744ecdd41233377302ff7c701d2fa8f002063fa31c713cd15fe
-fetched_at: "2026-09-18T11:09:20+00:00"
+fetched_at: "2026-09-23T01:46:45+00:00"
 ---
 
 (a)

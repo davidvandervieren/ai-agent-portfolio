@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IV - Supplementary District Regulations and Zoning Permits > Division 1 - Off-Street Parking and Loading Requirements
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIVSUDIREZOPE_DIV1OREPALORE"
 sha256: 52dd8e72d12e9da123589e26a0d25c5ef0f372aea560253cf96c1800753e9cd0
-fetched_at: "2026-09-18T06:00:41+00:00"
+fetched_at: "2026-09-22T02:33:22+00:00"
 ---
 
 The location, design, construction and number of spaces required for off-street parking

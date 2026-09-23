@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 6 - POLICE AND TRAFFIC REGULATIONS > Chapter 12. - OFFENSES RELATED TO HEALTH AND SANITATION > 6-12-1 - Purpose.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT6POTRRE_CH12OFREHESA_6-12-1PU"
 sha256: 72e1c863f93f53e0862582d18ca0497753a74c15c4ea002078917391f10c15c3
-fetched_at: "2026-09-18T04:06:25+00:00"
+fetched_at: "2026-09-22T00:42:37+00:00"
 ---
 
 The accumulation of garbage, rubbish and junk encourages the infestation of rodents,

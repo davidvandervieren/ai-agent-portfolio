@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE I - Business Licenses
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH6BULIRE_ARTIBULI"
 sha256: 81c1a8303bc3f1fb277cc1623c22fdf843e9aec6d3c0079e3c9c4069893dfdcd
-fetched_at: "2026-09-18T11:08:36+00:00"
+fetched_at: "2026-09-23T01:46:02+00:00"
 ---
 
 As used in this Article, the following terms shall have the meanings indicated:

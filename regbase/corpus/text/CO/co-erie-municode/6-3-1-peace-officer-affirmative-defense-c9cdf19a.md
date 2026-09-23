@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 6 - POLICE AND TRAFFIC REGULATIONS > Chapter 3. - OFFENSES INVOLVING WEAPONS > 6-3-1 - Peace officer affirmative defense.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT6POTRRE_CH3OFINWE_6-3-1PEOFAFDE"
 sha256: 4711448232efa009e2be305da502748ee23c622aec24b413af2c17d3ce5c4b46
-fetched_at: "2026-09-18T04:02:56+00:00"
+fetched_at: "2026-09-22T00:39:11+00:00"
 ---
 
 It shall be an affirmative defense to any provision of this chapter that the act was

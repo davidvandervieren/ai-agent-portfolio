@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 3 - Human Resources > ARTICLE II - Employment Information
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH3HURE_ARTIIEMIN"
 sha256: 8b4cfc8f06974fd5d689dc73887c530048f7accc5ad3453c19865290aca273cf
-fetched_at: "2026-09-18T05:49:56+00:00"
+fetched_at: "2026-09-22T02:26:39+00:00"
 ---
 
 A.

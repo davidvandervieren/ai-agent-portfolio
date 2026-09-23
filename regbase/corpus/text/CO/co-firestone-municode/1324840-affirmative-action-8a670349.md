@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.840 - Affirmative action.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.840AFAC"
 sha256: 21d53b867d65059e2fd3cc1f9fdaad6d00309b3f9550700e8364719b6a76aca7
-fetched_at: "2026-09-18T05:22:32+00:00"
+fetched_at: "2026-09-22T01:59:13+00:00"
 ---
 
 United Power agrees to take affirmative action to ensure that it does not employ or

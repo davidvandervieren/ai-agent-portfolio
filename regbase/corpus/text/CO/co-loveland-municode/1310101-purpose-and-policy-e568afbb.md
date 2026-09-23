@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 13 - UTILITIES > CHAPTER 13.10. - WASTEWATER PRETREATMENT PROGRAM > I. GENERAL PROVISIONS > 13.10.101 - Purpose and policy.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT13UT_CH13.10WAPRPR_I.GEPR_13.10.101PUPO"
 sha256: a07242da4fd678f64a9128bac6b9befcc9f7ff145655246ff27f0ab8d4c989b7
-fetched_at: "2026-09-18T10:46:30+00:00"
+fetched_at: "2026-09-23T01:23:24+00:00"
 ---
 
 A.

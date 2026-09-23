@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF DACONO HOME RULE CHARTER > ARTICLE VI - Legal and Judiciary
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CIDAHORUCH_ARTVILEJU"
 sha256: 4e3903e6588839ab1ced4a029b1f50ac16931d708f86e191b5a31472de4e2ba1
-fetched_at: "2026-09-18T06:12:58+00:00"
+fetched_at: "2026-09-22T02:46:16+00:00"
 ---
 
 (a)

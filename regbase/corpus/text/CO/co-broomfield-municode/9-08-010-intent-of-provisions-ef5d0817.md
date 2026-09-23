@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 9 - PUBLIC PEACE, MORALS AND WELFARE > II. Offenses Against the Person > Chapter 9-08 - Assault and Battery > 9-08-010 - Intent of provisions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT9PUPEMOWE_IIOFAGPE_CH9-08ASBA_9-08-010INPR"
 sha256: 4e67ec5eb062ecf3af4da243fd4648962c31ae4bd7abf6e35b4a0bd9aea8c530
-fetched_at: "2026-09-17T16:20:54+00:00"
+fetched_at: "2026-09-21T20:29:26+00:00"
 ---
 
 It is the intent and purpose of this chapter not to cover and include those offenses

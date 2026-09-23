@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > Article 4 - Meetings, Executive Sessions, and Emergency Powers > 4.01 - Oath of Office.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=HORUCH_ART4MEEXSEEMPO_4.01OAOF"
 sha256: 11b50e34dfe868431c0967e57ae5fae45a2342bace245154e5860fb262d87337
-fetched_at: "2026-09-18T03:50:54+00:00"
+fetched_at: "2026-09-22T00:27:08+00:00"
 ---
 
 Before entering upon the duties of the office of Mayor or Council Member, every person

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 5 - PUBLIC HEALTH AND SAFETY > Chapter 1 - ABATEMENT OF NUISANCE CODE > 5-1-1 - Definitions.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT5PUHESA_CH1ABNUCO_5-1-1DE"
 sha256: bb95c1c0bb6a9e0a3931f78f68d4b66ecd8c0778a2873a71d14ebff328ae3314
-fetched_at: "2026-09-18T04:01:47+00:00"
+fetched_at: "2026-09-22T00:38:06+00:00"
 ---
 
 As used in this chapter, the following definitions shall apply:

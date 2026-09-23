@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.50. - DEPARTMENT OF EMPLOYEE RELATIONS > 2.50.010 - Designated.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT2ADPE_CH2.50DEEMRE_2.50.010DE"
 sha256: d760f9f92d85f0dba66f323a1fb7979ef64274bfe605d89d70b70557112048cd
-fetched_at: "2026-09-18T10:05:49+00:00"
+fetched_at: "2026-09-23T00:42:40+00:00"
 ---
 
 There is created a department of employee relations which shall be under the direction

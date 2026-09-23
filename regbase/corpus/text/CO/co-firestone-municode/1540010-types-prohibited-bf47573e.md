@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.40 - Fences > 15.40.010 - Types prohibited.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT15BUCO_CH15.40FE_15.40.010TYPR"
 sha256: 7e98363242a2a49d609c6ddee7a0f052c63336b65fb98b544c6d3b939187a107
-fetched_at: "2026-09-18T05:27:15+00:00"
+fetched_at: "2026-09-22T02:03:56+00:00"
 ---
 
 Sections

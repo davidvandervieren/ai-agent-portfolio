@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 8 - Public Works > ARTICLE X. - Ag Land Leveling and Ag Reservoir Dredging Permit Policy
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH8PUWO_ARTXAGLALEAGREDRPEPO"
 sha256: 13034da324a55834357977cf56f07567a6b1c7f84c59f205a78afae806c121b0
-fetched_at: "2026-09-18T05:52:07+00:00"
+fetched_at: "2026-09-22T02:27:47+00:00"
 ---
 
 Agricultural lands in Weld County periodically need to be leveled to enhance efficiencies

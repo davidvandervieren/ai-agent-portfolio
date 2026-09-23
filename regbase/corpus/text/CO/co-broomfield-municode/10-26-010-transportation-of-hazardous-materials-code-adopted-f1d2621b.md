@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 10 - VEHICLES AND TRAFFIC > Chapter 10-26 - Regulation of the Transportation of Hazardous Materials > 10-26-010 - Transportation of hazardous materials; code adopted.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT10VETR_CH10-26RETRHAMA_10-26-010TRHAMACOAD"
 sha256: dd3193fecfb7da46a1a5751400540ce950a6ac019adcd844999d9a250066fc86
-fetched_at: "2026-09-17T15:43:32+00:00"
+fetched_at: "2026-09-21T19:52:19+00:00"
 ---
 
 (A)

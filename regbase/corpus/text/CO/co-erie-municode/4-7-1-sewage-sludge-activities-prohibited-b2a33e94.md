@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 4 - BUSINESS REGULATIONS > Chapter 7. - COMMERCIAL DEPOSIT OF SEWAGE SLUDGE > 4-7-1 - Sewage sludge activities prohibited.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT4BURE_CH7CODESESL_4-7-1SESLACPR"
 sha256: f05b456980d60cf28ed7cdc1aa120cd66d994b672cb39ceffc0909e610f0d0fb
-fetched_at: "2026-09-18T03:59:46+00:00"
+fetched_at: "2026-09-22T00:36:02+00:00"
 ---
 
 A.

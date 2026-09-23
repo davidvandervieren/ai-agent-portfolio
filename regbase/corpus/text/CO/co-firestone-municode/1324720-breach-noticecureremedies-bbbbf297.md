@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.720 - Breach - Notice/cure/remedies.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.720BROTCURE"
 sha256: 210978a906434b8a84c5abd39c96455303ef0cd9767ce76f0127890fdb8bbf14
-fetched_at: "2026-09-18T05:22:08+00:00"
+fetched_at: "2026-09-22T01:58:44+00:00"
 ---
 
 Except as otherwise provided in this Franchise, if a party (the "breaching party")

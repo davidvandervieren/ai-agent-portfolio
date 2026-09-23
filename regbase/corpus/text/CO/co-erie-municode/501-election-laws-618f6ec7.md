@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > Article 5 - Elections > 5.01 - Election Laws.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=HORUCH_ART5EL_5.01ELLA"
 sha256: 34897893e87442749d7e5ae8583063d944b902d355f39a086c3c70224c236129
-fetched_at: "2026-09-18T03:51:06+00:00"
+fetched_at: "2026-09-22T00:27:20+00:00"
 ---
 
 Town elections shall be governed by the Colorado Municipal Election Code of 1965,

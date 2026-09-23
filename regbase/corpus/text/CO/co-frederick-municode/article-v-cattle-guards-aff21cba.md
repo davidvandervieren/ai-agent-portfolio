@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 8 - Public Works > ARTICLE V - Cattle Guards
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH8PUWO_ARTVCAGU"
 sha256: 6286f4894842f6bb7a27489b846c415b8ff52a0055f34d28a92c46345f188953
-fetched_at: "2026-09-18T05:51:57+00:00"
+fetched_at: "2026-09-22T02:27:37+00:00"
 ---
 
 Person includes any individual, business or corporation, who is not a landowner, must

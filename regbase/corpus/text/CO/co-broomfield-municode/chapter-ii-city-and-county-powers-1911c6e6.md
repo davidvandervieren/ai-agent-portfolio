@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER II - CITY AND COUNTY POWERS
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHIICICOPO"
 sha256: 7d695b165596083b9ed8f3e9c4d8048c7eb2ef5dcd5bfb5c99999ec25df25604
-fetched_at: "2026-09-17T15:10:06+00:00"
+fetched_at: "2026-09-21T19:18:22+00:00"
 ---
 
 (a)

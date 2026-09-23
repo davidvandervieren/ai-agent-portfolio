@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE 10. - BOARDS AND COMMISSIONS
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTICH_ART10BOCO"
 sha256: adf4c2ed48c4a5ba62357e44c1fc14933ed269e7131bbd7c1d076cfc478ada59
-fetched_at: "2026-09-18T10:01:55+00:00"
+fetched_at: "2026-09-23T00:38:56+00:00"
 ---
 
 Each board and commission existing at the time this Charter is adopted shall continue,

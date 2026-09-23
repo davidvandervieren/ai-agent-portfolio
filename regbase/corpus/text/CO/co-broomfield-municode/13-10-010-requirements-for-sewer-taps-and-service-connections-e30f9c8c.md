@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 13 - PUBLIC SERVICES > Chapter 13-10 - Sewer Taps and Tap Inspection Fees > 13-10-010 - Requirements for sewer taps and service connections.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT13PUSE_CH13-10SETATAINFE_13-10-010RESETASECO"
 sha256: 96a71fd4947a5020ddd533a8a0a2422dd7dea33d49c013cb21cf1293e8b7d4c5
-fetched_at: "2026-09-17T15:47:46+00:00"
+fetched_at: "2026-09-21T19:56:32+00:00"
 ---
 
 (A)

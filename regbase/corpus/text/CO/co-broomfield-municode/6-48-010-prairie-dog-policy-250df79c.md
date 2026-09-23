@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 6 - ANIMALS > Chapter 6-48 - Prairie Dogs > 6-48-010 - Prairie dog policy.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT6AN_CH6-48PRDO_6-48-010PRDOPO"
 sha256: 291fb97a35ad5b98b59548186da8fb5a206c3e91f30ef91be1bdc810278dd33f
-fetched_at: "2026-09-17T15:37:12+00:00"
+fetched_at: "2026-09-21T19:45:59+00:00"
 ---
 
 The policy of the city is to avoid adverse impacts on prairie dogs. If adverse impacts

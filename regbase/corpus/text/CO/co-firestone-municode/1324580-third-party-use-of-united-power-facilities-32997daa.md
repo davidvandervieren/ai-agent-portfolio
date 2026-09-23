@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.580 - Third party use of United Power facilities.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.580THPAUSUNPOFA"
 sha256: 1b904d7dc8512fd015bef3f2da0cbefbe0637be9890d9cea8ef4212832fe9788
-fetched_at: "2026-09-18T05:21:40+00:00"
+fetched_at: "2026-09-22T01:58:16+00:00"
 ---
 
 If requested in writing by the Town, United Power may allow other companies who hold

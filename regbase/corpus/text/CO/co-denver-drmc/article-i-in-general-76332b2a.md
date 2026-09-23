@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 15 - ELECTIONS > ARTICLE I. - IN GENERAL
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH15EL_ARTIINGE"
 sha256: fba37e608afef2ef035edd9b069826ddfa3e21c5d1d54dc66590caca6353eea5
-fetched_at: "2026-09-17T23:28:59+00:00"
+fetched_at: "2026-09-21T21:31:53+00:00"
 ---
 
 Charter reference— Elections, § C1.1 et seq.

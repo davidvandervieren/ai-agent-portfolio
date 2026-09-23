@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration > ARTICLE XIV - Service Plans for Title 32 Special Districts (Including Metropolitan Districts)
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH2AD_ARTXIVSEPLTI32SPDIINMEDI"
 sha256: 19cbf5593c0ab6da955907462d39061b74fdcf4eab87678d57124301fb536ce8
-fetched_at: "2026-09-17T13:27:44+00:00"
+fetched_at: "2026-09-21T17:38:59+00:00"
 ---
 
 A.

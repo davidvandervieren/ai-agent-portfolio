@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15-11 - International Swimming Pool and Spa Code > 15-11-010 - Amendments to the International Swimming Pool and Spa Code.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT15BUCO_CH15-11INSWPOSPCO_15-11-010AMINSWPOSPCO"
 sha256: 81dde40b74d337ba2283b5314ae9f625369d23e602e79f12d962fa9dbe4634c5
-fetched_at: "2026-09-17T15:53:54+00:00"
+fetched_at: "2026-09-21T20:02:30+00:00"
 ---
 
 The following amendments are hereby made to the 2024 International Swimming Pool and

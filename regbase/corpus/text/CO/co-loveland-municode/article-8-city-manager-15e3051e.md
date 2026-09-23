@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE 8. - CITY MANAGER
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTICH_ART8CIMA"
 sha256: 36513ac2ee8ac484809e0c8551c7e6505de428db5119dda92df392d32e2f946f
-fetched_at: "2026-09-18T10:01:52+00:00"
+fetched_at: "2026-09-23T00:38:53+00:00"
 ---
 
 (a)

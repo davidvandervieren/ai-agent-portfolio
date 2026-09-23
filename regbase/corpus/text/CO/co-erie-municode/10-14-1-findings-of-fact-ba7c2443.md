@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 10 - UNIFIED DEVELOPMENT CODE > Chapter 14. - FLOOD DAMAGE PREVENTION > 10-14-1 - Findings of fact.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT10UNDECO_CH14FLDAPR_10-14-1FIFA"
 sha256: c5bfcc5f199479342a37fa58385100c05c53e74bd599d71a40b6ca7ad7bc8d95
-fetched_at: "2026-09-18T04:15:37+00:00"
+fetched_at: "2026-09-22T00:51:46+00:00"
 ---
 
 A.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 12 - STREETS, SIDEWALKS AND PUBLIC PLACES > Chapter 12.04 - General Provisions > 12.04.010 - Definitions.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT12STSIPUPL_CH12.04GEPR_12.04.010DE"
 sha256: 0c5c2adb6bdb86365ad8e5103ae9178d0d418b17e0ad00fb0b0c01a7fa1f7de4
-fetched_at: "2026-09-18T05:14:28+00:00"
+fetched_at: "2026-09-22T01:50:57+00:00"
 ---
 
 As used in this title, the following words have the following meanings:

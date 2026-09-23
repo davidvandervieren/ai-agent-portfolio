@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 3 - Human Resources > ARTICLE VI - Leave Time Benefits
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH3HURE_ARTVILETIBE"
 sha256: cca4e87ffe538768794000c8cf60ce977943e62bb7190478de39f0645d7a5dec
-fetched_at: "2026-09-17T13:28:11+00:00"
+fetched_at: "2026-09-21T17:39:36+00:00"
 ---
 
 Employee Leave Benefits are not an entitlement; they are a privilege to be earned

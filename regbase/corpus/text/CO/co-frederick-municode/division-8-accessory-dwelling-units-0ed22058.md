@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 23 - Zoning > ARTICLE IV - Supplementary District Regulations and Zoning Permits > Division 8 - Accessory Dwelling Units
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH23ZO_ARTIVSUDIREZOPE_DIV8ACDWUN"
 sha256: db8b7ac5e32683ba0c96dffdfba317ad0f98ecd6725258dbf59f0ddf175c31d0
-fetched_at: "2026-09-18T06:00:55+00:00"
+fetched_at: "2026-09-22T02:33:34+00:00"
 ---
 
 Editor's note— Weld County Code Ordinance 2024-04 , repealed the former Div. 8, §§ 23-4-600—23-4-630, and enacted a new Div. 8 as set

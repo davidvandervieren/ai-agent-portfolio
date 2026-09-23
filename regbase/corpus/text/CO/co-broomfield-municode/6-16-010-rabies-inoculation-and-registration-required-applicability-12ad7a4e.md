@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 6 - ANIMALS > Chapter 6-16 - Rabies Control > 6-16-010 - Rabies inoculation and registration required; applicability.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT6AN_CH6-16RACO_6-16-010RAINREREAP"
 sha256: fb46064ff9633265228bdf6fc08b207ceafeb94a2438ad72a8def40c2959b405
-fetched_at: "2026-09-17T15:35:00+00:00"
+fetched_at: "2026-09-21T19:43:47+00:00"
 ---
 
 (A)

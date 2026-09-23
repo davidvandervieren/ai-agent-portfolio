@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 3 - REVENUE AND FINANCE > CHAPTER 3.04. - FINANCE ADMINISTRATION > 3.04.010 - Fiscal year.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT3REFI_CH3.04FIAD_3.04.010FIYE"
 sha256: 4d1b51d848662d0fef5318578fece931beeca14aa6f20ccf7b7f9872e55f2b42
-fetched_at: "2026-09-18T10:07:34+00:00"
+fetched_at: "2026-09-23T00:44:22+00:00"
 ---
 
 State Law reference— Local government budgets, C.R.S. § 29-1-101 et seq.

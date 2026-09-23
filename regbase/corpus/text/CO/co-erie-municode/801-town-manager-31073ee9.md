@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > Article 8 - Town Officers > 8.01 - Town Manager.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=HORUCH_ART8TOOF_8.01TOMA"
 sha256: c87b49a91fa1a51821397289b017b8d3139bba5ffa7f7b08d69ba1693fcbcc25
-fetched_at: "2026-09-18T03:51:52+00:00"
+fetched_at: "2026-09-22T00:28:06+00:00"
 ---
 
 The Town Manager shall be appointed to the position by a majority vote of the Town

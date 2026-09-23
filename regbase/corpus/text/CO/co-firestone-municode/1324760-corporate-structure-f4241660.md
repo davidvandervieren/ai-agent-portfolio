@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.760 - Corporate structure.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.760COST"
 sha256: dcf427f606463a6dfe8a9910bbffcf6495233d5926ca39e3c551be6134900a8b
-fetched_at: "2026-09-18T05:22:16+00:00"
+fetched_at: "2026-09-22T01:58:52+00:00"
 ---
 
 Unless otherwise required by law, United Power shall continue its operations hereunder

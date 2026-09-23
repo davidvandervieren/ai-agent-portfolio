@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-72 - Disposal of Broomfield's Property > 2-72-010 - Property defined.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-72DIBRPR_2-72-010PRDE"
 sha256: dc95ede446d17d2817a67e7a0832dd45828a9d99c5df775dbd3e5cf1b2d19996
-fetched_at: "2026-09-17T15:22:09+00:00"
+fetched_at: "2026-09-21T19:30:51+00:00"
 ---
 
 For purposes of this chapter, Broomfield's property includes any personal property,

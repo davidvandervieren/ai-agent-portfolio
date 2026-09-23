@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 3 - Human Resources > ARTICLE III - Standards of Conduct
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH3HURE_ARTIIISTCO"
 sha256: ac0a8c74083ebaeef8741037b0a028f2526f4f302ca3288a3256631419ad0dcd
-fetched_at: "2026-09-18T05:49:58+00:00"
+fetched_at: "2026-09-22T02:26:41+00:00"
 ---
 
 A.

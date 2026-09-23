@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 6 - ANIMALS > Chapter 6.01 - Definitions > 6.01.010 - Definitions.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT6AN_CH6.01DE_6.01.010DE"
 sha256: 52bcd9944fe342a4a737e3698d50e614dc05383f08b1eb8615395668ca9f2863
-fetched_at: "2026-09-18T05:07:57+00:00"
+fetched_at: "2026-09-22T01:44:22+00:00"
 ---
 
 Editor's note— Ord. No. 1014 , § 1, adopted June 8, 2022, repealed the former Title 6, and enacted a new Title

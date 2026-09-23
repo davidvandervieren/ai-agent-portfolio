@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 16 - FIRESTONE DEVELOPMENT CODE > Chapter 5 - Subdivision Standards, Design, and Improvements > 16.5.1 - Purpose.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT16FIDECO_CH5SUSTDEIM_16.5.1PU"
 sha256: 085c69fd409251e1c70e9c8b5bd781e876cc678a71b4439abda795f19cc93271
-fetched_at: "2026-09-18T05:30:05+00:00"
+fetched_at: "2026-09-22T02:06:52+00:00"
 ---
 
 Sections:

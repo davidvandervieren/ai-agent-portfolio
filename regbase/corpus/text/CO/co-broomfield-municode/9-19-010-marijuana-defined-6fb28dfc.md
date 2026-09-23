@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 9 - PUBLIC PEACE, MORALS AND WELFARE > IV. - Offenses Against the Public Peace > Chapter 9-19 - Marijuana and Drug Paraphernalia > 9-19-010 - Marijuana defined.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT9PUPEMOWE_IVOFAGPUPE_CH9-19MADRPA_9-19-010MADE"
 sha256: e48d1625a57db65bc2ea02b19661eabbd3ea12de46660d8a1f0d572b1bab0cd0
-fetched_at: "2026-09-17T16:21:43+00:00"
+fetched_at: "2026-09-21T20:30:16+00:00"
 ---
 
 As used in this chapter marijuana shall mean all parts of the plant genus Cannabis , whether growing or not, the seeds thereof, the resin extracted from any part of

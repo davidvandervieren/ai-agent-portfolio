@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER XVII - UTILITIES AND FRANCHISES
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHXVIIUTFR"
 sha256: fa86302679ffc933e4e7bd2fec8c58452b45310fb484c55821708e5d6eae66fd
-fetched_at: "2026-09-17T15:10:36+00:00"
+fetched_at: "2026-09-21T19:18:52+00:00"
 ---
 
 The City and County shall have and exercise with regard to all utilities and franchises,

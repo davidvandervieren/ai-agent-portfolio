@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.04 - Water Facilities > 13.04.010 - Water department created.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.04WAFA_13.04.010WADECR"
 sha256: 5861397bacff655b7b42933fec1f23752fa1efe636c0f134dacdca3a26f0737e
-fetched_at: "2026-09-18T05:17:00+00:00"
+fetched_at: "2026-09-22T01:53:34+00:00"
 ---
 
 Editor's note— Ord. 972 , § 1, adopted April 22, 2020, amended the title of Ch. 13.04 to read as herein set

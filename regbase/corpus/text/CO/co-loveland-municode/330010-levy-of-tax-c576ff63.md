@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 3 - REVENUE AND FINANCE > CHAPTER 3.30. - BUSINESS AND OCCUPATION TAX ON TELEPHONE UTILITY COMPANIES > 3.30.010 - Levy of tax.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT3REFI_CH3.30BUOCTATEUTCO_3.30.010LETA"
 sha256: a352f09f102d87e4cb2b504acac101c5175bf5695cf6e7907e5fc597ae663e42
-fetched_at: "2026-09-18T10:13:11+00:00"
+fetched_at: "2026-09-23T00:50:08+00:00"
 ---
 
 There is levied on and against each telephone utility company operating within the

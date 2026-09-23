@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 3 - BOARDS AND COMMISSIONS > Chapter 1. - GENERAL PROVISIONS > 3-1-1 - Definition.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT3BOCO_CH1GEPR_3-1-1DE"
 sha256: 574dae2a5c61f490e324f25ec242a33feee4e2581b344a6235470ee7c61ebe4c
-fetched_at: "2026-09-18T03:58:28+00:00"
+fetched_at: "2026-09-22T00:34:41+00:00"
 ---
 
 Editor's note— Ord. No. 30-2025 , § 2, adopted Nov. 4, 2025, repealed the former Title 3 and enacted a new Title 3

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 3 - Human Resources > ARTICLE I - General Provisions
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH3HURE_ARTIGEPR"
 sha256: 6626cf74866d751701e768c20fe13397392f187ed6e8165b8423e5abede37af2
-fetched_at: "2026-09-18T05:49:54+00:00"
+fetched_at: "2026-09-22T02:26:38+00:00"
 ---
 
 This Chapter contains the Board of County Commissioners' personnel policies, plans

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE V - Emergency Telephone Charge
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH5FRCOSY_ARTVEMTECH"
 sha256: 11d21c0768defd773b78327a3cf015f8f0841c5f62177e1daa43365c44a566e6
-fetched_at: "2026-09-18T11:08:32+00:00"
+fetched_at: "2026-09-23T01:45:57+00:00"
 ---
 
 The Mayor is authorized to sign the intergovernmental agreement creating the Weld

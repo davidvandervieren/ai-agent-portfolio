@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE XIX - Evans Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTXIXEVPL"
 sha256: d55ca141978e446e733a172bc2527949ca4e344185ed2bbb03ab79748a26cd57
-fetched_at: "2026-09-17T13:32:40+00:00"
+fetched_at: "2026-09-21T17:42:23+00:00"
 ---
 
 This Coordinated Planning Agreement ("CPA") is made and entered into effective as

@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17-32 - Accessory Buildings and Uses > 17-32-010 - Accessory building and use defined.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-32ACBUUS_17-32-010ACBUUSDE"
 sha256: 772869788aa5ffcd3c0091d24ad3b3660451f5ca14699419c49234f6d913b6c6
-fetched_at: "2026-09-17T16:07:33+00:00"
+fetched_at: "2026-09-21T20:16:00+00:00"
 ---
 
 (A)

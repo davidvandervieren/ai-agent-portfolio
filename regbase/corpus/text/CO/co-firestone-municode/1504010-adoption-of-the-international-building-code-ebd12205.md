@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.04 - International Building Code > 15.04.010 - Adoption of the International Building Code.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT15BUCO_CH15.04INBUCO_15.04.010ADINBUCO"
 sha256: ed06bff3aefcb457579d8449b81b4b71f465a8704ccdb5b6c9765d6be99b5595
-fetched_at: "2026-09-18T05:23:16+00:00"
+fetched_at: "2026-09-22T01:59:56+00:00"
 ---
 
 Sections

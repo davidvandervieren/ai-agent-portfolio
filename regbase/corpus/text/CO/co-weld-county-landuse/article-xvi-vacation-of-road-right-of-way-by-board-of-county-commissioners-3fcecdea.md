@@ -9,7 +9,7 @@ doc_type: code
 citation_root: CHAPTER 8 - Public Works > ARTICLE XVI - Vacation of Road Right-of-Way by Board of County Commissioners
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH8PUWO_ARTXVIVARORI-WBOCOCO"
 sha256: bccb9942a86aa93d8b7e16c24a134b55732a461a72f4a4e1b961c6d79a139b26
-fetched_at: "2026-09-17T13:30:27+00:00"
+fetched_at: "2026-09-21T17:40:53+00:00"
 ---
 
 The purpose and intent of this Article is to authorize the Board of County Commissioners

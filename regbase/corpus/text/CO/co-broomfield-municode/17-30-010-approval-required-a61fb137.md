@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17-30 - Uses Permitted by Special Review > 17-30-010 - Approval required.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-30USPESPRE_17-30-010APRE"
 sha256: 857ba36fd7c5f1340d959d6646339e3f336b9daaff2f65a839785f2cd7078edd
-fetched_at: "2026-09-17T16:07:00+00:00"
+fetched_at: "2026-09-21T20:15:28+00:00"
 ---
 
 Uses permitted by special review may be allowed in the designated districts upon approval

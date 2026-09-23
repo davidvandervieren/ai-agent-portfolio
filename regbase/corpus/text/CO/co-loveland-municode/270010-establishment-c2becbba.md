@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.70. - EMPLOYEE RETIREMENT PLAN > 2.70.010 - Establishment.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT2ADPE_CH2.70EMREPL_2.70.010ES"
 sha256: bb147d66d07d72fbaf1263758b36fcf77f88582176d1fa59c704ab4cecb88768
-fetched_at: "2026-09-18T10:07:07+00:00"
+fetched_at: "2026-09-23T00:43:54+00:00"
 ---
 
 Editor's note— Ord. No. 6426 , § 1, adopted Oct. 6, 2020, repealed the former Ch. 2.70, §§ 2.70.010—2.70.100, and

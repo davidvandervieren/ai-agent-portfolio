@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE I - Cable Television Franchise > Division 7 - Reports and Records
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH5FRCOSY_ARTICATEFR_DIV7RERE"
 sha256: c0597af069f8546f72f8bebb029001c4561e85434f817a01b198a217700b192f
-fetched_at: "2026-09-18T11:10:48+00:00"
+fetched_at: "2026-09-23T01:48:15+00:00"
 ---
 
 The Town shall have access to, and the right to inspect, any books and records of

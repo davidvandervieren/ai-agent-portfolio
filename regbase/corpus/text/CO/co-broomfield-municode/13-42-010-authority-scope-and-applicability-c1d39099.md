@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 13 - PUBLIC SERVICES > Chapter 13-42 - Graywater Treatment System Regulations > 13-42-010 - Authority, scope, and applicability.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT13PUSE_CH13-42GRTRSYRE_13-42-010AUSCAP"
 sha256: c1e9d9aa90784ad18f3f24af4eb7e710c9f7f0e2be7681ac3a9245eaf7ebe2ec
-fetched_at: "2026-09-17T15:50:44+00:00"
+fetched_at: "2026-09-21T19:59:26+00:00"
 ---
 
 (A)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Coordinated Planning Agreements > ARTICLE I - Platteville Plan
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH19COPLAG_ARTIPLPL"
 sha256: 303ff7c9e6bc72cdb34c168de353ce9ce9b08b608e0d5707f670cd7a3a41c787
-fetched_at: "2026-09-18T05:54:17+00:00"
+fetched_at: "2026-09-22T02:29:01+00:00"
 ---
 
 Editor's note— Ord. No. 2015-13, adopted September 9, 2015, repealed the former Art. I, §§ 19-1-10—19-1-100,

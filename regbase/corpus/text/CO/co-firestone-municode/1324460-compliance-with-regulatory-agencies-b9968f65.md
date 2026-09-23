@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.460 - Compliance with regulatory agencies.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.460COREAG"
 sha256: 237d6a42a0313cec37a2fd7b1dbda993765bf07c2c5c63350162fe1bd7a71708
-fetched_at: "2026-09-18T05:21:16+00:00"
+fetched_at: "2026-09-22T01:57:51+00:00"
 ---
 
 13.24.460 - Compliance with regulatory agencies.

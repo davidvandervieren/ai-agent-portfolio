@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF DACONO HOME RULE CHARTER > ARTICLE IX - Utilities; Franchises and Permits
 url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CIDAHORUCH_ARTIXUTFRPE"
 sha256: 173a428d07446bae80ae3c039ca00b5103184886e7ecaad2a70bb265091e1fbd
-fetched_at: "2026-09-18T06:13:04+00:00"
+fetched_at: "2026-09-22T02:46:23+00:00"
 ---
 
 (a)

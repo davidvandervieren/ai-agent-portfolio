@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5-42 - Marijuana > 5-42-010 - Short title.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5-42MA_5-42-010SHTI"
 sha256: 985ad4f8a05ecd5979dd87245de60d9b4c799fb021582f1c204cb27afec496ee
-fetched_at: "2026-09-17T15:32:37+00:00"
+fetched_at: "2026-09-21T19:41:26+00:00"
 ---
 
 This chapter is known and may be cited as the "Broomfield Marijuana Code." Reference

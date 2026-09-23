@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 4 - BUSINESS REGULATIONS > Chapter 8. - ALCOHOLIC BEVERAGES > 4-8-1 - Local licensing authority procedures established.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT4BURE_CH8ALBE_4-8-1LOLIAUPRES"
 sha256: de35dfaa50d0810c8ac31238d5f670256c874d13dae53737e9843392fe7394fb
-fetched_at: "2026-09-18T03:59:50+00:00"
+fetched_at: "2026-09-22T00:36:06+00:00"
 ---
 
 The local licensing authority procedures are hereby established.

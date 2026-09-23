@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 13 - PUBLIC SERVICES > Chapter 13-22 - Groundwater > 13-22-010 - Appropriation of nontributary groundwater.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT13PUSE_CH13-22GR_13-22-010APNOGR"
 sha256: 4cbfcc8badcc97bc11d420e5b5aa9fa85b93b351afd11b325923203c57d10208
-fetched_at: "2026-09-17T15:48:40+00:00"
+fetched_at: "2026-09-21T19:57:26+00:00"
 ---
 
 Pursuant to the authority granted to the city under Section 37-90-137(8), C.R.S.,

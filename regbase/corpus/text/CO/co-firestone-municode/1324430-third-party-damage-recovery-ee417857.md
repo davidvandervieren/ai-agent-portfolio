@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.430 - Third party damage recovery.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.430THPADARE"
 sha256: 3672976a2b11acf6940e5edd148c64d319e3d1a9a62cdbec24616334d7409877
-fetched_at: "2026-09-18T05:21:09+00:00"
+fetched_at: "2026-09-22T01:57:45+00:00"
 ---
 
 A.

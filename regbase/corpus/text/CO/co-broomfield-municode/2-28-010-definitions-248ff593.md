@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-28 - Municipal Court > 2-28-010 - Definitions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-28MUCO_2-28-010DE"
 sha256: b3561a3c5540c9e732f8f8aec3949f54a9bebaa30a54f4df5e7fb945fbf4e39a
-fetched_at: "2026-09-17T15:18:31+00:00"
+fetched_at: "2026-09-21T19:27:09+00:00"
 ---
 
 As used in this chapter, the following terms shall have the following meanings:

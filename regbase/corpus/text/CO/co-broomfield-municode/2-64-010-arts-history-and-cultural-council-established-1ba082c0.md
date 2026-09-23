@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-64 - Arts, History and Cultural Council > 2-64-010 - Arts, history and cultural council established.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-64ARHICUCO_2-64-010ARHICUCOES"
 sha256: 6b9a2183365c9c49feca96d7a0dd7dc89ce9ccab4e79b79aaa9538c35f9f3fd4
-fetched_at: "2026-09-17T15:21:39+00:00"
+fetched_at: "2026-09-21T19:30:20+00:00"
 ---
 
 Editor's note— Ord. No. 2163 , § 3, adopted October 12, 2021, repealed the former ch. 2-64, §§ 2-64-010—2-64-060,

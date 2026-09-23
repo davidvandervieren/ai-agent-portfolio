@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2-48 - Emergency Management > 2-48-010 - Purpose.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT2ADPE_CH2-48EMMA_2-48-010PU"
 sha256: 14b95d39d1bd51c24152eb0ceccc8023dbe3ababfc9faae693f98d06d4c78b91
-fetched_at: "2026-09-17T15:19:51+00:00"
+fetched_at: "2026-09-21T19:28:30+00:00"
 ---
 
 The purpose of the ordinance codified in this chapter is to declare the emergency

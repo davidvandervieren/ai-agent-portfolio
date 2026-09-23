@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 2 - REVENUE AND FINANCE > Chapter 4. - DRAINAGE AND FLOOD CONTROL FEE AND FUND > 2-4-1 - Public works fund.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT2REFI_CH4DRFLCOFEFU_2-4-1PUWOFU"
 sha256: 4cf9ea9a2a83c12fb3f6b6a5411ec8a29bfae7987dbd4185be9fb4b115e1ec14
-fetched_at: "2026-09-18T03:57:25+00:00"
+fetched_at: "2026-09-22T00:33:39+00:00"
 ---
 
 A.

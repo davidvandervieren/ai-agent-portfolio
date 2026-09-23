@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 5 - BUSINESS TAXES, LICENSES AND REGULATIONS > Chapter 5.04 - Business Licenses Generally > 5.04.010 - Purpose.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT5BUTALIRE_CH5.04BULIGE_5.04.010PU"
 sha256: 2664b8df5f3bced7d83fb607b5ea7d219f118cb68c10af0e746986f35bb282f8
-fetched_at: "2026-09-18T05:04:34+00:00"
+fetched_at: "2026-09-22T01:40:57+00:00"
 ---
 
 Editor's note— Ord. No. 1050 , § 1, adopted Oct. 9, 2024, amended Ch. 5.04 in its entirety to read as herein set

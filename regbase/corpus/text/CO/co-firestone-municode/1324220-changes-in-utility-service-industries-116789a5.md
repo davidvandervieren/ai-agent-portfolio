@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.220 - Changes in utility service industries.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.220CHUTSEIN"
 sha256: 1c16554f013691f62719ac577023d3977b5461e46555b8ef4302c9780d00c9a8
-fetched_at: "2026-09-18T05:20:27+00:00"
+fetched_at: "2026-09-22T01:57:02+00:00"
 ---
 
 The Town and United Power recognize that utility service industries are the subject

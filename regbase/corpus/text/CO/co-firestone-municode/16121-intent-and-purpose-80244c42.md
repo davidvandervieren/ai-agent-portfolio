@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 16 - FIRESTONE DEVELOPMENT CODE > Chapter 12 - Wireless Communication Facilities > 16.12.1 - Intent and purpose.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT16FIDECO_CH12WICOFA_16.12.1INPU"
 sha256: 126f2c5171c7abe2cb5cd13d53e37d85477f22b507a6053fa450e89433c3b898
-fetched_at: "2026-09-18T05:32:07+00:00"
+fetched_at: "2026-09-22T02:08:58+00:00"
 ---
 
 Sections:

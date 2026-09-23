@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 4 - BUSINESS REGULATIONS > Chapter 3. - HANDBILL DISTRIBUTORS > 4-3-1 - License required.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT4BURE_CH3HADI_4-3-1LIRE"
 sha256: 2e7db8bae36c706257375a6179ae22afc16293431d7503c3b6ae1f4871c62709
-fetched_at: "2026-09-18T03:59:15+00:00"
+fetched_at: "2026-09-22T00:35:32+00:00"
 ---
 
 It shall be unlawful for any person not having a regularly established place of business

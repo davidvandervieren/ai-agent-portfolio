@@ -1,0 +1,44 @@
+---
+source_id: co-dacono-municode
+jurisdiction: Dacono, CO
+state: CO
+county: Weld
+municipality: Dacono
+agency: City of Dacono
+title: ARTICLE 10 - City Irrigation System Advisory Committee
+doc_type: code
+citation_root: CHAPTER 2 - Administration and Personnel > ARTICLE 10 - City Irrigation System Advisory Committee
+url: "https://library.municode.com/co/dacono/codes/municipal_code?nodeId=CH2ADPE_ART10CIIRSYADCO"
+sha256: 080b5f17442fae97ec836d79c037af9217ba9a325f543b66a594cc5b17aeb146
+fetched_at: "2026-09-22T02:47:17+00:00"
+---
+
+There is hereby created the City Irrigation System Advisory Committee (referred to
+herein as committee ).
+(Ord. 343 §1, 1987)
+The committee shall consist of five (5) members. Three (3) members shall be users
+of the City irrigation system who have been residents of the City for at least thirty
+(30) continuous days before the date of appointment. Two (2) members shall be City
+Councilmembers.
+(Ord. 343 §2, 1987)
+Appointment of committee members shall be by a vote of a majority of the entire City
+Council. A vacancy on the committee shall be filled by the City Council within thirty
+(30) days after the vacancy occurs.
+(Ord. 343 §3, 1987)
+Committee members shall be appointed by the City Council for an indefinite term, shall
+serve at the pleasure of the City Council, and may be removed by a vote of a majority
+of the entire City Council.
+(Ord. 343 §4, 1987)
+(a)
+The committee shall provide recommendations to the City Council on such issues concerning
+the City irrigation system as referred to the committee by the City Council and in
+the manner directed by the City Council.
+(b)
+The committee shall perform such other duties as directed by ordinance, resolution
+or motion of the City Council.
+(c)
+The recommendations of the committee shall be advisory only and shall not be binding
+on the City Council.
+(Ord. 343 §5, 1987)
+Committee members shall receive no compensation for their services.
+(Ord. 343 §6, 1987)

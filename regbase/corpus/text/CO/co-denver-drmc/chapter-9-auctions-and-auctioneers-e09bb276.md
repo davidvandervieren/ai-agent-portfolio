@@ -9,7 +9,7 @@ doc_type: code
 citation_root: Chapter 9 - AUCTIONS AND AUCTIONEERS
 url: "https://library.municode.com/co/denver/codes/code_of_ordinances?nodeId=TITIIREMUCO_CH9AUAU"
 sha256: 830fd1190923c8864f608f9e65ef24e45890fe1d585e27d35fc574d68eb91eda
-fetched_at: "2026-09-17T23:28:04+00:00"
+fetched_at: "2026-09-21T21:28:58+00:00"
 ---
 
 Editor's note— Ord. No. 10-94, § 1, adopted Jan. 3, 1994, repealed former Ch. 9, auctions and auctioneers,

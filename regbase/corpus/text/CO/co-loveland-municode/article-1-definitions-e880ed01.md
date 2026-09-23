@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE 1. - DEFINITIONS
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTICH_ART1DE"
 sha256: adf1fc9baadd081213a7c8346f439c6ffcf16384176356dea5f4b9882a6f7356
-fetched_at: "2026-09-18T10:01:37+00:00"
+fetched_at: "2026-09-23T00:38:38+00:00"
 ---
 
 As used in this Charter, the following terms shall have the following meanings, except

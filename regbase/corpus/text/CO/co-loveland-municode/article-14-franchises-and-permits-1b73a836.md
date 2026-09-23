@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE 14. - FRANCHISES AND PERMITS
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTICH_ART14FRPE"
 sha256: d4912dff4f93001ef2e6dd00546befc775973b806bf4a0470eb6684767e6411d
-fetched_at: "2026-09-18T10:02:03+00:00"
+fetched_at: "2026-09-23T00:39:04+00:00"
 ---
 
 (a)

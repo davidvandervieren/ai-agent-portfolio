@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE VIII - Electric Franchise > Division 8 - Miscellaneous
 url: "https://library.municode.com/co/fort_lupton/codes/municipal_code?nodeId=CH5FRCOSY_ARTVIIIELFR_DIV8MI"
 sha256: e5c969a2e0603233df0745105609b553988bbff7613171bf6e32fd8dc95e63bc
-fetched_at: "2026-09-18T07:05:07+00:00"
+fetched_at: "2026-09-22T03:09:59+00:00"
 ---
 
 Neither the City nor United Power shall be excused from complying with any of the

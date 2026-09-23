@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 21 - Areas and Activities of State Interest > ARTICLE VI - Regulations for Pipelines - Petroleum Products in the Unincorporated Area of Weld County > Division 1 - General and introductory provisions
 url: "https://library.municode.com/co/weld_county/codes/charter_and_county_code?nodeId=CH21ARACSTIN_ARTVIREPIETPRUNARWECO_DIV1GEINPR"
 sha256: e4f1a0615087b9fc530f15dfad4f7d1aba4895ab2bf0cf9e3b2587bf60f40e6f
-fetched_at: "2026-09-18T05:59:48+00:00"
+fetched_at: "2026-09-22T02:32:39+00:00"
 ---
 
 The regulations in this Article VI are not adopted pursuant to the authority set forth

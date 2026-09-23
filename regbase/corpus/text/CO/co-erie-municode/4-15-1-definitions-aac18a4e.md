@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 4 - BUSINESS REGULATIONS > Chapter 15. - MOBILE VENDORS > 4-15-1 - Definitions.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT4BURE_CH15MOVE_4-15-1DE"
 sha256: 605b9e9ae1774409d0ea4dd93fd13738a516bcbc08da62f204545e033ea71690
-fetched_at: "2026-09-18T04:01:15+00:00"
+fetched_at: "2026-09-22T00:37:34+00:00"
 ---
 
 For purposes of this chapter, the following terms shall have the following meanings:

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE I. - GENERAL PROVISIONS > 1.1. - Name and boundaries.
 url: "https://library.municode.com/co/longmont/codes/code_of_ordinances?nodeId=PTICH_ARTIGEPR_1.1NABO"
 sha256: ed552ae37f480055f41184f04883c5a921763f89e20d9a29c0ded515c6abd953
-fetched_at: "2026-09-18T08:31:22+00:00"
+fetched_at: "2026-09-22T04:01:23+00:00"
 ---
 
 PREAMBLE

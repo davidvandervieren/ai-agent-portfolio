@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17-35 - Wireless Communications Facilities > 17-35-010 - Definitions.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT17ZO_CH17-35WICOFA_17-35-010DE"
 sha256: 9fc17635e7281bae574477344d78dc6df6c305a256463d681e96ca09bb6446a8
-fetched_at: "2026-09-17T16:08:31+00:00"
+fetched_at: "2026-09-21T20:17:01+00:00"
 ---
 
 In addition to those definitions in chapter 17-04 , B.M.C. the following definitions apply for purposes of this chapter:

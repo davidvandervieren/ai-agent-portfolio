@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3-12 - Disposition of Surplus Property > 3-12-010 - Sales agent.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT3REFI_CH3-12DISUPR_3-12-010SAAG"
 sha256: 6d93fb4954d837d63c095a3771a87d132747493e04e8bdefad4428533aa8caa9
-fetched_at: "2026-09-17T15:25:09+00:00"
+fetched_at: "2026-09-21T19:33:51+00:00"
 ---
 
 The city manager shall designate an employee to act as the sales agent for all surplus

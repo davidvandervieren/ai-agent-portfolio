@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART II - LOVELAND COLORADO MUNICIPAL CODE > Title 15 - BUILDINGS AND CONSTRUCTION > CHAPTER 15.52. - INTERNATIONAL EXISTING BUILDING CODE > 15.52.010 - International Existing Building Code, 2021 Edition—Adopted.
 url: "https://library.municode.com/co/loveland/codes/code_of_ordinances?nodeId=PTIILOCOMUCO_TIT15BUCO_CH15.52INEXBUCO_15.52.010INEXBUCO2021EDDO"
 sha256: bdfeccaeeeca94b3feb5f3fd9c6c3885bea3f923447d62473d837669ec2cec21
-fetched_at: "2026-09-18T10:38:17+00:00"
+fetched_at: "2026-09-23T01:15:19+00:00"
 ---
 
 The International Existing Building Code, 2021 Edition (the "2021 IEBC"), issued and

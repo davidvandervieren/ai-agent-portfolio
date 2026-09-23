@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 10 - UNIFIED DEVELOPMENT CODE > Chapter 2. - ZONING DISTRICTS > 10-2-1 - General provisions.
 url: "https://library.municode.com/co/erie/codes/code_of_ordinances?nodeId=TIT10UNDECO_CH2ZODI_10-2-1GEPR"
 sha256: 8d6931ea462fc5739dace6bf929b86865d0dbbf0bb44855aaf536d1bb2786256
-fetched_at: "2026-09-18T04:12:42+00:00"
+fetched_at: "2026-09-22T00:49:04+00:00"
 ---
 
 Editor's note— Ord. No. 03-2022 , § 1(Attch.), adopted Jan. 11, 2022, repealed ch. 2, §§ 10-2-1—10-2-7, and reenacted

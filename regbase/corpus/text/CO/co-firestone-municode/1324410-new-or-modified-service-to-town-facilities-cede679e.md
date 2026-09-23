@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 13 - PUBLIC SERVICES > Chapter 13.24 - Electric Franchise > 13.24.410 - New or modified service to Town facilities.
 url: "https://library.municode.com/co/firestone/codes/municipal_code?nodeId=TIT13PUSE_CH13.24ELFR_13.24.410NEMOSETOFA"
 sha256: 0daeaeb388240b493dfbd4261fadf80405473ea4b1abb17ffcb74d2103b962bc
-fetched_at: "2026-09-18T05:21:05+00:00"
+fetched_at: "2026-09-22T01:57:41+00:00"
 ---
 
 In providing new or modified electric service to Town facilities, United Power agrees

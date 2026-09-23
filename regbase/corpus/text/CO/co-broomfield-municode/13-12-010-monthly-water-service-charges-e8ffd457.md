@@ -9,7 +9,7 @@ doc_type: code
 citation_root: TITLE 13 - PUBLIC SERVICES > Chapter 13-12 - Water and Sewer Service Charges > 13-12-010 - Monthly water service charges.
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=TIT13PUSE_CH13-12WASESECH_13-12-010MOWASECH"
 sha256: 40e82489521cda103982646ad22ec04c84870ed863e15c626c8bc0526ee31149
-fetched_at: "2026-09-17T15:47:49+00:00"
+fetched_at: "2026-09-21T19:56:36+00:00"
 ---
 
 (A)

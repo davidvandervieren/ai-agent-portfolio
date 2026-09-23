@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE V - Public, Personal and Private Property
 url: "https://library.municode.com/co/milliken/codes/municipal_code?nodeId=CH10GEOF_ARTVPUPEPRPR"
 sha256: 311edc97463ee6ba622b874d22a38fd595470a9564318f7e0f0fe47ff3263e83
-fetched_at: "2026-09-18T11:09:16+00:00"
+fetched_at: "2026-09-23T01:46:41+00:00"
 ---
 
 A person who, knowingly or recklessly, starts or maintains a fire or causes an explosion

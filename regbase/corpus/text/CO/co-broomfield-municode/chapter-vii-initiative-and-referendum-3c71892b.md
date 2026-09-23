@@ -9,7 +9,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER for the CITY OF BROOMFIELD, COLORADO > CHAPTER VII - INITIATIVE AND REFERENDUM
 url: "https://library.municode.com/co/broomfield/codes/municipal_code?nodeId=HORUCHBRCO_CHVIIINRE"
 sha256: ebf4e5ca2645b92db0c2c89a9eebc43be0fc7d2efac8abe730109d64ec985dda
-fetched_at: "2026-09-17T15:10:16+00:00"
+fetched_at: "2026-09-21T19:18:32+00:00"
 ---
 
 (a)
