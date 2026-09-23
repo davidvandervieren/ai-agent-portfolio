@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 6 - ANIMALS > Chapter 6.02 - DEFINITIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT6AN_CH6.02DE"
 sha256: a792b922ba04aecb87a8cc8544106a8612949615a598336652b29494d2196e0b
-fetched_at: "2026-09-18T12:49:29+00:00"
+fetched_at: "2026-09-23T05:23:17+00:00"
 ---
 
 Cross reference— Health and safety, tit. 8; rodent control, ch. 8.04; zoning regulations for keeping of animals, § 17.16.160.

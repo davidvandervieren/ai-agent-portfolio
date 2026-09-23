@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE IV - Alarm Systems
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH6BULIRE_ARTIVALSY"
 sha256: 0ae7b86e2e2da68541e438a9332cf78e7c8d2b6dff243ba827273d0dd3e89877
-fetched_at: "2026-09-18T14:26:14+00:00"
+fetched_at: "2026-09-23T06:24:10+00:00"
 ---
 
 Every person maintaining an audible alarm shall post a notice containing the names

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > Article 8 - Oil and Gas Drilling and Production Facilities
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH16LAUSCO_ART8OIGADRPRFA"
 sha256: 91e98791378325d42c6175197d2331777ddeee460d4b261054f584c86649d0e8
-fetched_at: "2026-09-18T22:49:27+00:00"
+fetched_at: "2026-09-23T14:06:17+00:00"
 ---
 
 (a)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 26 - DEVELOPMENT AND ZONING > TABLE 26-C - PARKING STANDARDS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH26DEZO_TABLE_26-CPAST"
 sha256: 93e2ad1f03e0969caa2b6464ed6c3524402a8f61724744532d5ca0b2694b10f8
-fetched_at: "2026-09-18T12:09:18+00:00"
+fetched_at: "2026-09-23T05:08:32+00:00"
 ---
 
 Parking Dimensions:

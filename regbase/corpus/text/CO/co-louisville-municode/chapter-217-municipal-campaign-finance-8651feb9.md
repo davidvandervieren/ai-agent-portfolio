@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.17 - MUNICIPAL CAMPAIGN FINANCE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.17MUCAFI"
 sha256: e31e3731cd078e2befb72859d7ed11b404ee50a9540c7ba43c3cf7eb44ce7109
-fetched_at: "2026-09-18T12:48:12+00:00"
+fetched_at: "2026-09-23T05:21:59+00:00"
 ---
 
 For the purposes of this chapter the following terms, phrases, words, and their derivatives

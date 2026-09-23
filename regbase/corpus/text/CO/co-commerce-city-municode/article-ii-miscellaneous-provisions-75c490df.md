@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 11 - MOTOR VEHICLES AND TRAFFIC > ARTICLE II. - MISCELLANEOUS PROVISIONS
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH11MOVETR_ARTIIMIPR"
 sha256: 1c3f04296cb9cb9959cae2b880ecc48d025137144a1eed731792eceabf5184f0
-fetched_at: "2026-09-18T14:05:44+00:00"
+fetched_at: "2026-09-23T06:07:51+00:00"
 ---
 
 State Law reference— Obstructing highway or other passageway, C.R.S., §§ 18-9-107, 43-5-301; streets and

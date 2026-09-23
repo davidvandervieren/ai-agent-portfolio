@@ -10,7 +10,7 @@ doc_type: code
 citation_root: ARTICLE 4 - DISTRICTS > Division 4.1 - Rural Lands District (R-U-L)
 url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART4DI_DIV4.1RULADIL"
 sha256: 35f98ffa268cb49615f16707001d26826cbb465922f038dad02549db1cbe2664
-fetched_at: "2026-09-18T20:11:05+00:00"
+fetched_at: "2026-09-23T15:09:36+00:00"
 ---
 
 (A)

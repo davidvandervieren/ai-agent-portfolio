@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 120 - WATER > ARTICLE VII. - RESERVED
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH120WA_ARTVIIRE"
 sha256: 9c704d56921a8a0475e5067175f447762f1a18db2fda81206f40e521c61454cb
-fetched_at: "2026-09-18T12:10:20+00:00"
+fetched_at: "2026-09-23T05:08:39+00:00"
 ---
 
 Editor's note— Section 1 of Ord. No. 2003-19, adopted July 1, 2003, repealed Ch. 120, Art. VII, Irrigation

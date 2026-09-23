@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 46 - FALSE FIRE ALARMS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH46FAFIAL"
 sha256: 59870750b6f86e6c6f3b23f345de6e69d7b9b214a2bac2db54203219013570a2
-fetched_at: "2026-09-18T12:07:12+00:00"
+fetched_at: "2026-09-23T05:02:30+00:00"
 ---
 
 The following words, terms and phrases used in this chapter shall have the following

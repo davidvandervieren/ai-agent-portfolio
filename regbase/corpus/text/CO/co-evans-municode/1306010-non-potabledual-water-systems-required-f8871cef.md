@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - Public Services > CHAPTER 13.06 - Non-Potable/Dual Water Systems > 13.06.010 - Non-potable/dual water systems required.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT13PUSE_CH13.06NTADUWASY_13.06.010NTADUWASYRE"
 sha256: 42889559ee15689e204033daa313ab5409c2469e9485d3855af3fa24fe09511c
-fetched_at: "2026-09-18T21:40:03+00:00"
+fetched_at: "2026-09-23T13:12:32+00:00"
 ---
 
 A.

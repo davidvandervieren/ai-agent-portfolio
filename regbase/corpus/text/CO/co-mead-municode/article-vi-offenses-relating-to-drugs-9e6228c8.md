@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE VI - Offenses Relating to Drugs
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH10GEOF_ARTVIOFREDR"
 sha256: 6d467c2dfbda1ebadda1da066ef3b483006699b844645b57d1c0a3c5532bae2f
-fetched_at: "2026-09-18T23:04:47+00:00"
+fetched_at: "2026-09-23T14:18:31+00:00"
 ---
 
 As used in this Article:

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE III. - THE CITY MANAGER
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTICH_ARTIIITHMA"
 sha256: 483d553705e0446f3b6694abaf3180125059ebdfe1e878889789fcabec3f62ec
-fetched_at: "2026-09-18T17:59:21+00:00"
+fetched_at: "2026-09-23T09:57:04+00:00"
 ---
 
 The council shall appoint a city manager, by a majority of the entire council, for

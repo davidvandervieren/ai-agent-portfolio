@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 5 - BUILDINGS AND BUILDING REGULATIONS > ARTICLE XVI. - RESERVED > Secs. 5-241—5-260. - Reserved.
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH5BUBURE_ARTXVIRE_SS5-241--5-260RE"
 sha256: 5044b1ce0fe80f9078814942b1f7d62c5ce4640fe6f2e78d6653dcea4bbe3047
-fetched_at: "2026-09-18T14:07:35+00:00"
+fetched_at: "2026-09-23T06:10:54+00:00"
 ---
 
 Editor's note— Ord. No. 2098 , § 1, adopted June 6, 2016, repealed art. XVI in its entirety. Former art. XVI, §§

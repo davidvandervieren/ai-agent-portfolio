@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 19 - Special Districts > ARTICLE I. - Service Plans for Title 32 Special Districts (Including Metropolitan Districts)
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH19SPDI_ARTISEPLTI32SPDIINMEDI"
 sha256: 14964d339b62a33b7c61cce1f915f8654f1819e1a0d2d73abb7e28a0ee79ace7
-fetched_at: "2026-09-18T22:49:58+00:00"
+fetched_at: "2026-09-23T14:06:47+00:00"
 ---
 
 (a)

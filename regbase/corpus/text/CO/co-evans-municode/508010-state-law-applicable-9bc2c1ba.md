@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - Business Taxes, Licenses and Regulations > CHAPTER 5.08 - Alcoholic Beverages > Article I - Local Licensing Authority Definition > 5.08.010 - State law applicable.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT5BUTALIRE_CH5.08ALBE_ARTILOLIAUDE_5.08.010STLAAP"
 sha256: aee6a6bb920cc179ca01d643589becfd15ca008550c0b57d008e84883a2fe480
-fetched_at: "2026-09-18T21:58:48+00:00"
+fetched_at: "2026-09-23T13:30:53+00:00"
 ---
 
 Title 44, Articles 3, 4 and 5, C.R.S., the rules and regulations of the Executive

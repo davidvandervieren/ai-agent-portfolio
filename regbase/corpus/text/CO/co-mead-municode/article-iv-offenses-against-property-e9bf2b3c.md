@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE IV - Offenses Against Property
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH10GEOF_ARTIVOFAGPR"
 sha256: 1659a93679c7c4ae7a0909e01954235822105613a50af8b456f7d0dc2f9c0ec7
-fetched_at: "2026-09-18T23:04:41+00:00"
+fetched_at: "2026-09-23T14:18:26+00:00"
 ---
 
 A person who knowingly or recklessly starts or maintains a fire or causes an explosion,

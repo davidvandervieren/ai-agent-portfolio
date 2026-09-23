@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.36 - NONCONFORMING USES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.36NOUS"
 sha256: 3b7a5e7545137cecad638bab2ba2b5c4fa78ca89b845e5bf7e043889ea382afa
-fetched_at: "2026-09-18T12:53:23+00:00"
+fetched_at: "2026-09-23T05:27:16+00:00"
 ---
 
 Subject to the provisions of this chapter, a nonconforming structure or use may be

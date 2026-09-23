@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3.20 - SALES AND USE TAX > PART 1. - GENERAL PROVISIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT3REFI_CH3.20SAUSTA_PT1GEPR"
 sha256: 896637a4ae081b3e934126832e53cb2de41f5f944dfe6e9f2228d55d5b1cb79d
-fetched_at: "2026-09-18T12:53:53+00:00"
+fetched_at: "2026-09-23T05:27:44+00:00"
 ---
 
 State Law reference— Sales and use tax, C.R.S. § 29-2-101 et seq.

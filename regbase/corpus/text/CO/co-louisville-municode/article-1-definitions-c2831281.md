@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER - FOR THE CITY OF LOUISVILLE, COLORADO > ARTICLE 1. - DEFINITIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=CHTRFOLOCO_ART1DE"
 sha256: 3686485b699bfc5bf94cee8877d8f9a49935ad0f6d43e912801a81162fedbdce
-fetched_at: "2026-09-18T12:47:04+00:00"
+fetched_at: "2026-09-23T05:20:56+00:00"
 ---
 
 As used in this Charter, the following terms shall have the following meanings, except

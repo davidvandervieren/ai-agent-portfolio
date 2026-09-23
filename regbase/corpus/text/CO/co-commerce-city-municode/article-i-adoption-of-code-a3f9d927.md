@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 1 - GENERAL > ARTICLE I. - ADOPTION OF CODE
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH1GE_ARTIADCO"
 sha256: 7c75f3d4edb7f669b609b9e02fc914b0cb83cfd0ca7fc535a6dd2054e183da9a
-fetched_at: "2026-09-18T14:04:57+00:00"
+fetched_at: "2026-09-23T06:06:55+00:00"
 ---
 
 This Code consists of all the city's regulatory and penal ordinances and certain administrative

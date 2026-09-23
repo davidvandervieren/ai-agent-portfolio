@@ -10,7 +10,7 @@ doc_type: code
 citation_root: VII. OFFENSES BY OR AGAINST MINORS > Chapter 9.70 - CURFEW FOR MINORS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=VIOFAGMI_CH9.70CUMI"
 sha256: 666de990b0c05752dda558634a8f1db7774d43d5c5526932977be472357ebcf5
-fetched_at: "2026-09-18T12:50:47+00:00"
+fetched_at: "2026-09-23T05:24:37+00:00"
 ---
 
 It is unlawful for any parent, guardian, or other person having care or custody of

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: ARTICLE 3 - GENERAL DEVELOPMENT STANDARDS > Division 3.4 - Environmental, Natural Area, Recreational and Cultural Resource Protection Standards > 3.4.1 - Natural Habitats and Features
 url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART3GEDEST_DIV3.4ENNAARRECUREPRST_3.4.1NAHAFE"
 sha256: 9d51addbccfaaa7b65ccf9abcd2621627ea4ca05647cc92abe672e8b264c8529
-fetched_at: "2026-09-18T20:16:10+00:00"
+fetched_at: "2026-09-23T15:14:46+00:00"
 ---
 
 (A)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 87 - COLLECTIVE BARGAINING FOR POLICE OFFICERS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH87COBAPOOF"
 sha256: 331dc96be5eed6d4156396b0fa7e8316419e1818b553a4ea4c567c49de8a5b40
-fetched_at: "2026-09-18T12:07:36+00:00"
+fetched_at: "2026-09-23T05:02:37+00:00"
 ---
 
 The protection of the public health, safety and welfare demands that the city's police

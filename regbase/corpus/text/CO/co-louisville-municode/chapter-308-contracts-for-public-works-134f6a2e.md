@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3.08 - CONTRACTS FOR PUBLIC WORKS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT3REFI_CH3.08COPUWO"
 sha256: 7dabd56ba0131f4ef68ca20f19e4fafdd99dd57bd26793c8badc02c0a07ce4a0
-fetched_at: "2026-09-18T12:48:34+00:00"
+fetched_at: "2026-09-23T05:22:23+00:00"
 ---
 
 State Law reference— Bid required, C.R.S. § 31-15-712; public works contracts, C.R.S. § 24-91-101 et seq.;

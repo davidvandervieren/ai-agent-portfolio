@@ -10,7 +10,7 @@ doc_type: code
 citation_root: "Chapter 120 - WATER > ARTICLE IV. - EXTENSION OF SERVICE RE: ANNEXATION, SUBDIVISION OF LAND, ETC. > DIVISION 1. - GENERALLY"
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH120WA_ARTIVEXSEREANSULAET_DIV1GE"
 sha256: ab47dcd22fbc9a953ddee9e77f42b3394a95f4854c6c08f3efd254a0225b6af1
-fetched_at: "2026-09-18T12:13:38+00:00"
+fetched_at: "2026-09-23T05:07:21+00:00"
 ---
 
 Editor's note— Section 1 of Ord. No. 2003-7, adopted April 7, 2003, amended Art. IV, §§ 120-81—120-133,

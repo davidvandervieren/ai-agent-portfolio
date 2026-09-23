@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE XII - Floodplain Standards
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTXIIFLST"
 sha256: 57169b5277d5327a952625aff1ec83b2a9c6707846cbf8c5bfdabe42e5219d66
-fetched_at: "2026-09-18T14:27:35+00:00"
+fetched_at: "2026-09-23T06:25:35+00:00"
 ---
 
 It is the purpose of this Article to promote the public health, safety and general

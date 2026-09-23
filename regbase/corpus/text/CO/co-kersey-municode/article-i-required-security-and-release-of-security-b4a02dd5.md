@@ -10,7 +10,7 @@ doc_type: code
 citation_root: KERSEY LAND DEVELOPMENT CODE > CHAPTER 23 - FINANCIAL GUARANTEES > ARTICLE I. - REQUIRED SECURITY AND RELEASE OF SECURITY
 url: "https://library.municode.com/co/kersey/codes/municipal_code?nodeId=APXAKELADECO_CH23FIGU_ARTIRESERESE"
 sha256: accd3d9e5115ddc0c2252ef7526be63f69ceda622ec851897cbd762eeba2f05a
-fetched_at: "2026-09-18T22:11:46+00:00"
+fetched_at: "2026-09-23T13:43:18+00:00"
 ---
 
 This article applies to all permits and approvals under this Code for which the Town

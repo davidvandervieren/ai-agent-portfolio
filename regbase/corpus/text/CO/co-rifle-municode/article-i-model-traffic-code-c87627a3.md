@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 8 - Vehicles and Traffic > ARTICLE I - Model Traffic Code
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH8VETR_ARTIMOTRCO"
 sha256: 04da73b7010b5774970beec621ccd7af24b447f81f47ea99ea9aadbae56ef7bb
-fetched_at: "2026-09-18T14:26:40+00:00"
+fetched_at: "2026-09-23T06:24:35+00:00"
 ---
 
 Editor's note— Ord. No. 17 , § 2, adopted Aug. 7, 2024, effective Sept. 1, 2024, repealed the former Art. I,

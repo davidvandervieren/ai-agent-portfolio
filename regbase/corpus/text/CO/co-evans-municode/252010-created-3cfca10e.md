@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.52 - Planning Commission > 2.52.010 - Created.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.52PLCO_2.52.010CR"
 sha256: 707faa26a23140eb068f31a69b3af0815a0bf55921106a9969bb578fe671ea40
-fetched_at: "2026-09-18T21:22:51+00:00"
+fetched_at: "2026-09-23T12:55:41+00:00"
 ---
 
 Editor's note— Ord. 433-08 , § 1, adopted March 18, 2008, repealed Ch. 2.52 in its entirety and enacted new provisions

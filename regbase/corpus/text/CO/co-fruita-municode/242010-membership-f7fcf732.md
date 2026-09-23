@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.42 - PARKS AND RECREATION COMMISSION > 2.42.010 - MEMBERSHIP.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT2ADPE_CH2.42PARECO_2.42.010ME"
 sha256: 3cdb538c22f18da8d05811cfe5ff36b74a1b5e78c4459a9ec71acc59d8c74e92
-fetched_at: "2026-09-18T19:26:11+00:00"
+fetched_at: "2026-09-23T10:59:03+00:00"
 ---
 
 A.

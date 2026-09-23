@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE VII - Offenses Relating to Morals
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH10GEOF_ARTVIIOFREMO"
 sha256: 4a63a1b60f5aeedde25265fd7fb4a2e64f32b9e072a62203bd5541d4519729a4
-fetched_at: "2026-09-18T23:04:48+00:00"
+fetched_at: "2026-09-23T14:18:33+00:00"
 ---
 
 A person commits indecent exposure if he or she knowingly exposes his or her genitals

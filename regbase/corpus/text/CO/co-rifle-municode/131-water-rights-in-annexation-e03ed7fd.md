@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF RIFLE HOME RULE CHARTER > ARTICLE XIII - MISCELLANEOUS LEGAL PROVISIONS > 13.1 - WATER RIGHTS IN ANNEXATION
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CIRIHORUCH_ARTXIIIMILEPR_13.1WARIAN"
 sha256: ac0c5294e229aaf6c29d1032209e269a74f0cc35fd4e39c76548dec3a9b0f6b2
-fetched_at: "2026-09-18T14:31:47+00:00"
+fetched_at: "2026-09-23T06:32:22+00:00"
 ---
 
 The City shall have power to purchase, or obtain, such existing water rights as may

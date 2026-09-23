@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.28 - MUNICIPAL COURT > 2.28.010 - MUNICIPAL COURT ESTABLISHED.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT2ADPE_CH2.28MUCO_2.28.010MUCOES"
 sha256: 3eee424f4f16dca6769b27e0e87f899f9632efd414fc6f3ae01ac9ff99382b27
-fetched_at: "2026-09-18T19:24:35+00:00"
+fetched_at: "2026-09-23T10:57:24+00:00"
 ---
 
 In order to provide a simple and expeditious method for the prosecution of alleged

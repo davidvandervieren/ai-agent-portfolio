@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8.28 - EXPECTORATION
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.28EX"
 sha256: 74ba8565531cd57c8623cc45de0b0078e6c68ab61bbceafbc5cf79359ce5dc54
-fetched_at: "2026-09-18T12:49:56+00:00"
+fetched_at: "2026-09-23T05:23:47+00:00"
 ---
 
 It shall be unlawful for any person within the city to spit upon the sidewalks, or

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE VIII - Retail Marijuana Sales Tax
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH4REFI_ARTVIIIREMASATA"
 sha256: 5596f9b2eccce19b1cf6a3b38f5ce39e4b7caef97c1de9b833b8acb1f428e921
-fetched_at: "2026-09-18T14:26:08+00:00"
+fetched_at: "2026-09-23T06:24:04+00:00"
 ---
 
 Commencing January 1, 2019, there is hereby levied an additional sales tax in the

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHAPTER X. - TAXATION > 10.1. - Collection of taxes.
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHXTA_10.1COTA"
 sha256: d92cfdfc5332644a3cc984875ccc301abf147a2bda407665afc698cae1608612
-fetched_at: "2026-09-18T13:18:25+00:00"
+fetched_at: "2026-09-23T05:54:19+00:00"
 ---
 
 Until the Council shall otherwise provide by ordinance, the County Treasurer shall

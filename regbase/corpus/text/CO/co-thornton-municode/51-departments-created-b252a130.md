@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHAPTER V. - GENERAL ADMINISTRATIVE ORGANIZATION > 5.1. - Departments created.
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHVGEADOR_5.1DECR"
 sha256: e7a4472ed16bb8e7c7cb236c1506574811334bbd3cbc3a5d124265463c7efa64
-fetched_at: "2026-09-18T13:16:58+00:00"
+fetched_at: "2026-09-23T05:52:53+00:00"
 ---
 
 The administrative functions of the City shall be performed by the departments as

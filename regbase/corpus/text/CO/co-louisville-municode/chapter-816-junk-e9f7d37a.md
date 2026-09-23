@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8.16 - JUNK
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.16JU"
 sha256: eec0c8a0975ca52e5f8d6c532fc763b1cf896b9842a335029819788da4f0098d
-fetched_at: "2026-09-18T12:49:50+00:00"
+fetched_at: "2026-09-23T05:23:41+00:00"
 ---
 
 For the purposes of this chapter, "junk" means any old, used, or secondhand materials

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.22 - ADMINISTRATIVE ORGANIZATION
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.22ADOR"
 sha256: 7ce525544097bd8022fdae3f2fa3992c9e2572d7e264485e5957ed4c89e9b23c
-fetched_at: "2026-09-18T12:48:18+00:00"
+fetched_at: "2026-09-23T05:22:07+00:00"
 ---
 
 The city manager shall exercise supervision and control over all city departments,

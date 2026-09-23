@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF RIFLE HOME RULE CHARTER > ARTICLE V - INITIATION, REFERENDUM AND RECALL > 5.1 - INITIATION AND REFERENDUM
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CIRIHORUCH_ARTVINRERE_5.1INRE"
 sha256: 883975befb53e039ec7066cf40931e632b1c0ae8a5b2b63e1a30b6bb357a06cb
-fetched_at: "2026-09-18T14:29:30+00:00"
+fetched_at: "2026-09-23T06:30:11+00:00"
 ---
 
 An ordinance may be initiated by petition, or a referendum on an enacted ordinance

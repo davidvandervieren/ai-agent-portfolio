@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF RIFLE HOME RULE CHARTER > ARTICLE X - BONDED INDEBTEDNESS > 10.1 - GENERAL OBLIGATION BONDS, WATER EXTENSION BONDS, AND SEWER EXTENSION BONDS
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CIRIHORUCH_ARTXBOIN_10.1GEOBBOWAEXBOSEEXBO"
 sha256: 26ee4d6fbd13282515b2fc21a5e3683d1cf6d3daec287eba0358c13b7ac80286
-fetched_at: "2026-09-18T14:30:55+00:00"
+fetched_at: "2026-09-23T06:31:34+00:00"
 ---
 
 Indebtedness and obligations of the City shall be incurred and limited as provided

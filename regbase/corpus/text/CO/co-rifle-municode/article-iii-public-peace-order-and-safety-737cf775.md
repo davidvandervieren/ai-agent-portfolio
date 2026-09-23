@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE III - Public Peace, Order and Safety
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH10GEOF_ARTIIIPUPEORSA"
 sha256: e373a754368be3385ee6175d489774a684c551058ad945d5f9984dda7fb1d1d9
-fetched_at: "2026-09-18T14:26:47+00:00"
+fetched_at: "2026-09-23T06:24:45+00:00"
 ---
 
 (a)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER VII - Planning and Zoning Regulations > SECTION II - Zoning Ordinance > Article I - General Provisions
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHVIIPLZORE_SIIZOOR_ARTIGEPR"
 sha256: 09f3a48e282945ba8f1e33512d55b58460da7350838e99895adbfd11f8a4424c
-fetched_at: "2026-09-18T22:37:30+00:00"
+fetched_at: "2026-09-23T13:54:14+00:00"
 ---
 
 The regulations codified in this Chapter shall be known and may be cited as the Zoning

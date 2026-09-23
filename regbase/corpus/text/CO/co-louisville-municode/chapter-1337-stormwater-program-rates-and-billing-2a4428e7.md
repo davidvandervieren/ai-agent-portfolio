@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - WATER AND SEWERS > Chapter 13.37 - STORMWATER PROGRAM RATES AND BILLING
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT13WASE_CH13.37STPRRABI"
 sha256: 86f8a66a96100ee016f3981d000015471813d98b0bd19149d317a4d26e87ba29
-fetched_at: "2026-09-18T12:51:55+00:00"
+fetched_at: "2026-09-23T05:25:44+00:00"
 ---
 
 A.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > CHAPTER 5.30 - PAWNBROKERS > 5.30.010 - DEFINITIONS.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT5BULIRE_CH5.30PA_5.30.010DE"
 sha256: 1061923b366e1e6bf6636094556424f331000deb0e34fc97cb5d4ccd1cd77ad5
-fetched_at: "2026-09-18T19:32:22+00:00"
+fetched_at: "2026-09-23T11:05:20+00:00"
 ---
 
 As used in this chapter, unless the context otherwise requires:

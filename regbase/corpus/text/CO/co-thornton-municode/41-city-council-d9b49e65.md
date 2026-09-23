@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHAPTER IV. - CITY COUNCIL—MEETINGS > 4.1. - City Council.
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHIVCICOEE_4.1CICO"
 sha256: 1d248e1bd28591707b1218427a65e077ab8df92ad39caf204756741ee4231864
-fetched_at: "2026-09-18T13:16:07+00:00"
+fetched_at: "2026-09-23T05:52:07+00:00"
 ---
 
 The City Council shall consist of nine (9) members, one of whom shall serve as Mayor.

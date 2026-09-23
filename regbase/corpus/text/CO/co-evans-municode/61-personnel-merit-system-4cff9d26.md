@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Home Rule Charter > CHAPTER VI. - Personnel and Career Service > 6.1 -           Personnel merit system.          
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=HORUCH_CHVIPECASE_6.1PEMESY"
 sha256: 5314b634a83e9d9c2517a94e07d2572c307a965c95bd915f73a0d9a2cb73d188
-fetched_at: "2026-09-18T21:15:25+00:00"
+fetched_at: "2026-09-23T12:48:31+00:00"
 ---
 
 Council may establish a system for employment and promotion of City Employees based

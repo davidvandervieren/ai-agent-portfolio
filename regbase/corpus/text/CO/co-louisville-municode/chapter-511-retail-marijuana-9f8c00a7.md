@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > Chapter 5.11 - RETAIL MARIJUANA
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT5BULIRE_CH5.11REMA"
 sha256: 1898ec4370930c6228b72e3a26c6ec41e5092d8f111a1b44fd67869635ce98db
-fetched_at: "2026-09-18T12:49:12+00:00"
+fetched_at: "2026-09-23T05:22:59+00:00"
 ---
 
 A.

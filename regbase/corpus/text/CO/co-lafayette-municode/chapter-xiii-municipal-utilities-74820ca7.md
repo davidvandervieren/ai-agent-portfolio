@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > Chapter XIII MUNICIPAL UTILITIES
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=CH_CHXIMUUT"
 sha256: df20f85fde1014f5adf4c6aaaad3f8f1fbf7ea40abcbc935a2338212b1322b0b
-fetched_at: "2026-09-18T12:08:41+00:00"
+fetched_at: "2026-09-23T05:03:10+00:00"
 ---
 
 All municipally owned or operated utilities shall be administered as a regular department

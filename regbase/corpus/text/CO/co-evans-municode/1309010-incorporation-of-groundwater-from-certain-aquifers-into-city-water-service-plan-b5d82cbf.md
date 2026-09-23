@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - Public Services > CHAPTER 13.09 - Groundwater and Water Service Plan > 13.09.010 - Incorporation of groundwater from certain aquifers into City water service plan.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT13PUSE_CH13.09GRWASEPL_13.09.010INGRCEAQINWASEPL"
 sha256: fe1dbdf2aa0977827ba93f98d98515dfd40ac84f6181dfd3f861a4f1b9b494eb
-fetched_at: "2026-09-18T21:40:31+00:00"
+fetched_at: "2026-09-23T13:12:58+00:00"
 ---
 
 The City hereby incorporates the groundwater from all aquifers, including the Dawson,

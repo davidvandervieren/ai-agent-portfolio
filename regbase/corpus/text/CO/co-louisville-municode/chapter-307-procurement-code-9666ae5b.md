@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3.07 - PROCUREMENT CODE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT3REFI_CH3.07PRCO"
 sha256: 5a3dc80e360babf5c88a6d12adafac1c723340297c2ddff790fca6ab356eab1b
-fetched_at: "2026-09-18T12:48:32+00:00"
+fetched_at: "2026-09-23T05:22:21+00:00"
 ---
 
 This chapter shall apply to the purchase of supplies, materials and equipment and

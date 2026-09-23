@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - LAND USE CODE > CHAPTER 17.21 - SUBDIVISIONS > 17.21.010 - PURPOSE AND AUTHORITY; JURISDICTION; ENFORCEMENT.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT17LAUSCO_CH17.21SU_17.21.010PUAUJUEN"
 sha256: 3d8322dedb6b96c3c45951ce68d63516bb9d71f79e23dcf201476024c15c476d
-fetched_at: "2026-09-18T19:52:39+00:00"
+fetched_at: "2026-09-23T11:25:37+00:00"
 ---
 
 A.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.21 - INTERNATIONAL PROPERTY MAINTENANCE CODE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.21INPRMACO"
 sha256: 23923419d5ac76ff1c94bc5eb7a11fe5ccbd9000edd20976d61eedd25c64b26b
-fetched_at: "2026-09-18T12:52:29+00:00"
+fetched_at: "2026-09-23T05:26:18+00:00"
 ---
 
 Editor's note— Ord. No. 1907-2025 , § 10, adopted November 3, 2025, repealed the former Ch. 15.21, §§ 15.21.010—15.21.040,

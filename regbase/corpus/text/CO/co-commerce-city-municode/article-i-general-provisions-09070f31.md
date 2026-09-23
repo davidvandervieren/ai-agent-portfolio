@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 9 - BUSINESS LICENSES AND REGULATIONS > ARTICLE I. - GENERAL PROVISIONS
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH9BULIRE_ARTIGEPR"
 sha256: ff436357f9ae73b8ab807ab6000e34833f84c53036a81d4be01dfe9fa38a2738
-fetched_at: "2026-09-18T14:05:38+00:00"
+fetched_at: "2026-09-23T06:07:45+00:00"
 ---
 
 The purpose and intent of this chapter is to regulate business activities conducted

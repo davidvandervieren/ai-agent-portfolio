@@ -10,7 +10,7 @@ doc_type: code
 citation_root: ARTICLE 3 - GENERAL DEVELOPMENT STANDARDS > Division 3.1 - General Provisions > 3.1.1 - Applicability
 url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART3GEDEST_DIV3.1GEPR_3.1.1AP"
 sha256: 661ab9fe151eab7a511f23ea570ef577c34f8a8d546736c76a7b9162576d673c
-fetched_at: "2026-09-18T20:15:46+00:00"
+fetched_at: "2026-09-23T15:14:22+00:00"
 ---
 
 All development applications and building permit applications shall comply with the

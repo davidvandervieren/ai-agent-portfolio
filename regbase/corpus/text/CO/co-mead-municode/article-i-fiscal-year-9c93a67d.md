@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE I - Fiscal Year
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH4REFI_ARTIFIYE"
 sha256: 083265267ec392c4ec14d190159c59646cc987a7dab7d790ef6796d950c87a07
-fetched_at: "2026-09-18T23:03:31+00:00"
+fetched_at: "2026-09-23T14:17:17+00:00"
 ---
 
 The fiscal year of the Town shall commence on January 1 of each year and shall extend

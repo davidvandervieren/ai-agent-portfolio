@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - Revenue and Finance > CHAPTER 3.31 - Reserved
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT3REFI_CH3.31RE"
 sha256: 285bc323254b02547f33ac94e4a55b94f9f29ac4dcb77cbc5cc8d8b039961758
-fetched_at: "2026-09-18T21:13:41+00:00"
+fetched_at: "2026-09-23T12:46:44+00:00"
 ---
 
 CHAPTER 3.31 - Reserved

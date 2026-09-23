@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > ARTICLE XII - Miscellaneous Provisions > 12.01 - Purchase, Sale, or Lease of Real Property.
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=HORUCH_ARTXIIMIPR_12.01PUSALEREPR"
 sha256: 66cfad3e2ad1b7961f6cf654f79c88934259c762f78df43d05783b107bdbf4cd
-fetched_at: "2026-09-18T22:52:39+00:00"
+fetched_at: "2026-09-23T14:10:54+00:00"
 ---
 
 Except as otherwise expressly provided herein, the Council by resolution may purchase

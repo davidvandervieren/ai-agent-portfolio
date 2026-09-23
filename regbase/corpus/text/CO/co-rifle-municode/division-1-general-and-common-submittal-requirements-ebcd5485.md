@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE VI - Application Submittal Requirements > Division 1 - General and Common Submittal Requirements
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTVIAPSURE_DIV1GECOSURE"
 sha256: af5173ec4dda3119dbfee19f8a3c3a7510f6cc53bb2dd6700d5dcd35d8b1375b
-fetched_at: "2026-09-18T14:34:49+00:00"
+fetched_at: "2026-09-23T06:28:28+00:00"
 ---
 
 (a)

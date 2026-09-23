@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.10 - Information Technology Department > 2.10.010 - Information Technology Department established - Director.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.10INTEDE_2.10.010INTEDEESIR"
 sha256: 4b8f58c98033a92f1c1acaf49675d121d0669eb7743226523ac5e93933c2a1e0
-fetched_at: "2026-09-18T21:20:51+00:00"
+fetched_at: "2026-09-23T12:53:49+00:00"
 ---
 
 There is established the Department of Information Technology, the director of which

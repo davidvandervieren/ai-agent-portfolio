@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - Business Taxes, Licenses and Regulations > CHAPTER 5.12 - Temporary Vendors > 5.12.010 - Definitions.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT5BUTALIRE_CH5.12TEVE_5.12.010DE"
 sha256: 2c4d04f357c3ce74e4402ebd6f87cf1372884d5a9d13cf1106903b18b7fb61e1
-fetched_at: "2026-09-18T21:25:21+00:00"
+fetched_at: "2026-09-23T12:58:07+00:00"
 ---
 
 [The following words, terms and phrases, when used in this Chapter, shall have the

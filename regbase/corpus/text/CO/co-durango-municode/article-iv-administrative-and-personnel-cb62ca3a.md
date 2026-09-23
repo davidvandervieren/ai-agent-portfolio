@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE IV. - ADMINISTRATIVE AND PERSONNEL
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTICH_ARTIVADPE"
 sha256: d6af9d4b7df51064fd2f212caba183b4f7be18483911a56b144c0892570d2f3f
-fetched_at: "2026-09-18T17:59:23+00:00"
+fetched_at: "2026-09-23T09:57:06+00:00"
 ---
 
 The city council may, by ordinance, create or abolish departments, offices or agencies,

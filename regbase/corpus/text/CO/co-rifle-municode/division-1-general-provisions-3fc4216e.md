@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 13 - Municipal Utilities > ARTICLE II - Watershed District > Division 1 - General Provisions
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH13MUUT_ARTIIWADI_DIV1GEPR"
 sha256: bde9fe6c93a8bd0aeec20edac57b3b1c402f5a95eec889b6cf55e4ec44a855e6
-fetched_at: "2026-09-18T14:33:53+00:00"
+fetched_at: "2026-09-23T06:27:36+00:00"
 ---
 
 There is established by the City a Watershed District ("District"). The District is

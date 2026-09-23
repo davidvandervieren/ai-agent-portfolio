@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 1 - General Provisions > ARTICLE I - Code
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH1GEPR_ARTICO"
 sha256: 23a74ce6e27822e267387fe822974112058b713613b52c5d56045b714f58c509
-fetched_at: "2026-09-18T23:02:35+00:00"
+fetched_at: "2026-09-23T14:16:35+00:00"
 ---
 
 The published code known as the Mead Municipal Code, published by Colorado Code Publishing

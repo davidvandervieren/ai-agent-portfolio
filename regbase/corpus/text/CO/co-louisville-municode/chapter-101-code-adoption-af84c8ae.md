@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 1 - GENERAL PROVISIONS > Chapter 1.01 - CODE ADOPTION
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT1GEPR_CH1.01COAD"
 sha256: 6312e95579503968862d6dfd1ee6e1004393c3bb9cb844920ff457fec91eabea
-fetched_at: "2026-09-18T12:47:41+00:00"
+fetched_at: "2026-09-23T05:21:29+00:00"
 ---
 
 Pursuant to the provisions of C.R.S. §§ 31-16-201—31-16-208, there is adopted the

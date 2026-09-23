@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3.16 - CAPITAL IMPROVEMENTS AND DOWNTOWN PARKING IMPROVEMENT FUNDS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT3REFI_CH3.16CAIMDOPAIMFU"
 sha256: f7d99016f51be93ba2209b21f4da51b1b819d73866be77eab64cd2ba1fcdc758
-fetched_at: "2026-09-18T12:48:36+00:00"
+fetched_at: "2026-09-23T05:22:25+00:00"
 ---
 
 Editor's note— Ord. No. 1506-2006, § 6, adopted Dec. 19, 2006, effective Feb. 11, 2007, amended the

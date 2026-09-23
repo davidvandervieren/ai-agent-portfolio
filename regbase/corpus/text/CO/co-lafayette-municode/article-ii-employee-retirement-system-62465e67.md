@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 85 - PERSONNEL > ARTICLE II. - EMPLOYEE RETIREMENT SYSTEM
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH85PE_ARTIIEMRESY"
 sha256: c1aabb2bff161673860b05dcffd45fea676c537b72e91f304684cff68035bf28
-fetched_at: "2026-09-18T12:10:04+00:00"
+fetched_at: "2026-09-23T05:06:01+00:00"
 ---
 
 Editor's note— Resolution No. 2005-40, passed Oct. 4, 2005, supports the repeal of the personnel

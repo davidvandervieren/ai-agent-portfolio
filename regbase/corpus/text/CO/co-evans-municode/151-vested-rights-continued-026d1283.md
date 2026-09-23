@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Home Rule Charter > CHAPTER XV. - Miscellaneous > 15.1 - Vested rights continued.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=HORUCH_CHXVMI_15.1VERICO"
 sha256: 5f7e7f435ba323d0f76e326811b641bca7ed5bf01c44bfd06f6d1b2d00693430
-fetched_at: "2026-09-18T21:18:24+00:00"
+fetched_at: "2026-09-23T12:51:21+00:00"
 ---
 
 (1)

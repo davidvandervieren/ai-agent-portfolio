@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - Business Taxes, Licenses and Regulations > CHAPTER 5.30 - Emergency Telephone Service > 5.30.010 - Emergency telephone charges.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT5BUTALIRE_CH5.30EMTESE_5.30.010EMTECH"
 sha256: 12455f05dcb88e776bf8d9b18b0609a4250b60d0896d25bd28aaea6d3e1e305c
-fetched_at: "2026-09-18T21:26:48+00:00"
+fetched_at: "2026-09-23T12:59:34+00:00"
 ---
 
 There is imposed, pursuant to Section 29-11-101 et seq., C.R.S., upon all telephone

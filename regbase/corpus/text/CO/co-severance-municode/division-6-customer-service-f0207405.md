@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE 1 - Cable Television Franchise > Division 6 - Customer Service
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH5FRCOSY_ART1CATEFR_DIV6CUSE"
 sha256: 9e0d91b3592b93534760c357feea7f9a9c35e6632b8e5479eada45397f153d94
-fetched_at: "2026-09-18T22:53:27+00:00"
+fetched_at: "2026-09-23T14:07:00+00:00"
 ---
 
 The Grantee shall comply with customer service standards promulgated by the FCC as

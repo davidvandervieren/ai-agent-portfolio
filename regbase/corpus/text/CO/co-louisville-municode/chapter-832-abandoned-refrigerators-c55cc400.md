@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8.32 - ABANDONED REFRIGERATORS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.32ABRE"
 sha256: 68f5ec4268e36018476e33b81c45ca323943e1b897dc3639650e843ef6b16935
-fetched_at: "2026-09-18T12:49:58+00:00"
+fetched_at: "2026-09-23T05:23:49+00:00"
 ---
 
 State Law reference— Abandoned appliances, etc., C.R.S. § 18-13-106.

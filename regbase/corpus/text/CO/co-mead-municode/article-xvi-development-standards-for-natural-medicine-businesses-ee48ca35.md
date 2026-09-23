@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE XVI - Development Standards for Natural Medicine Businesses
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH16LAUSCO_ARTXVIDESTNAMEBU"
 sha256: b415210b1a36ec6538f2bc038387e9e43ffbfe1af06477d7117ae074c2e24a11
-fetched_at: "2026-09-18T23:05:56+00:00"
+fetched_at: "2026-09-23T14:19:39+00:00"
 ---
 
 The following definitions apply for purposes of Chapter 16 of this Code.

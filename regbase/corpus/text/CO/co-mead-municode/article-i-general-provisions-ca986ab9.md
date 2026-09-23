@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE I - General Provisions
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH16LAUSCO_ARTIGEPR"
 sha256: 0d03dce784eca547248c20581975d10b1a6a38fbabb98e90bf569e3422f020f0
-fetched_at: "2026-09-18T23:05:28+00:00"
+fetched_at: "2026-09-23T14:19:11+00:00"
 ---
 
 This Chapter establishes the regulations and standards governing the use and development

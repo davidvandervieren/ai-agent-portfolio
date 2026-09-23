@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE VIII. - PLANNING
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTICH_ARTVIIIPL"
 sha256: f46155f5b2ef360be7566a68c8c8bd8d811d646eabb4c4f4ae958a86eeac75dc
-fetched_at: "2026-09-18T17:59:30+00:00"
+fetched_at: "2026-09-23T09:57:15+00:00"
 ---
 
 (a)

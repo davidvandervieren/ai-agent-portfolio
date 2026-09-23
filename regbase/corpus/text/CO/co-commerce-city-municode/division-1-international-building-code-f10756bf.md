@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 5 - BUILDINGS AND BUILDING REGULATIONS > ARTICLE IV. - INTERNATIONAL CODES > DIVISION 1. - INTERNATIONAL BUILDING CODE
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH5BUBURE_ARTIVINCO_DIV1INBUCO"
 sha256: bec28ad02caed41354c19f8a97cbd229a926d21726771fbc5a05748a8dd0d9f2
-fetched_at: "2026-09-18T14:06:50+00:00"
+fetched_at: "2026-09-23T06:09:07+00:00"
 ---
 
 Editor's note— Ord. No. 1898, § 1, adopted June 4, 2012, repealed Art. IV in its entirety and enacted

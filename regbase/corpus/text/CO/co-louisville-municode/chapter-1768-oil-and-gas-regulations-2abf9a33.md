@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.68 - OIL AND GAS REGULATIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.68OIGARE"
 sha256: c1cbb70e7c1a5517cb66fd04fa9a6c1b5b53122565eb773206656ef9096f134d
-fetched_at: "2026-09-18T12:53:43+00:00"
+fetched_at: "2026-09-23T05:27:36+00:00"
 ---
 
 Cross reference— Mining and drilling, ch. 8.24; zoning regulations for oil and gas exploration and production, § 17.16.250.

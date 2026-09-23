@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHAPTER XII. - IMPROVEMENT DISTRICTS > 12.1. - Power to create improvement districts and to acquire, construct, or install improvements and to issue special assessment securities.
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHXIIIMDI_12.1POCRIMDIACCOINIMISSPASSE"
 sha256: 3288e86a73e827f2238e13c21bb64560502dc07440a12840d2d41ef999bd7f35
-fetched_at: "2026-09-18T13:18:47+00:00"
+fetched_at: "2026-09-23T05:54:41+00:00"
 ---
 
 (a)

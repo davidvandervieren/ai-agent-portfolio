@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration and Personnel > ARTICLE VII - Planning Commission
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH2ADPE_ARTVIIPLCO"
 sha256: d065e9b85a17c4a193f0aae29c886e60ea2a6686cda4a54b1bc18ee6a4033381
-fetched_at: "2026-09-18T23:03:09+00:00"
+fetched_at: "2026-09-23T14:17:05+00:00"
 ---
 
 The Planning Commission for the Town is hereby created in accordance with the provisions

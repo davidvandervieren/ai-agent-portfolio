@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8.01 - NUISANCES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.01NU"
 sha256: e3e488ca21c68b803214d07f78eb353ebafece6af7a9d0c59cd305f401e96930
-fetched_at: "2026-09-18T12:49:42+00:00"
+fetched_at: "2026-09-23T05:23:32+00:00"
 ---
 
 The city council declares that the determination and abatement of local nuisances

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: ARTICLE 3 - GENERAL DEVELOPMENT STANDARDS > Division 3.6 - Transportation and Circulation > 3.6.1 - Master Street Plan
 url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART3GEDEST_DIV3.6TRCI_3.6.1MASTPL"
 sha256: d2afbba4bcfd16c1d94107d22c5b7c41eb8694c19bbdb0c9742f97ec40acc962
-fetched_at: "2026-09-18T20:16:38+00:00"
+fetched_at: "2026-09-23T15:15:17+00:00"
 ---
 
 (A)

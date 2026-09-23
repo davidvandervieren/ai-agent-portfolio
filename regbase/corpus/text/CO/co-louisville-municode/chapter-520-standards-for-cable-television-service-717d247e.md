@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > Chapter 5.20 - STANDARDS FOR CABLE TELEVISION SERVICE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT5BULIRE_CH5.20STCATESE"
 sha256: d4f5bfaec6d812ee0991729e11e7767166c8bd2435b87765c6fc4d5c6c687acc
-fetched_at: "2026-09-18T12:49:19+00:00"
+fetched_at: "2026-09-23T05:23:08+00:00"
 ---
 
 This chapter shall be known and may be cited as "Standards for Louisville Cable Television

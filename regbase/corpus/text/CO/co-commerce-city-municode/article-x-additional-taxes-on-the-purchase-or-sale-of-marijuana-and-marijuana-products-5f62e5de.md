@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 20 - TAXATION > ARTICLE X. - ADDITIONAL TAXES ON THE PURCHASE OR SALE OF MARIJUANA AND MARIJUANA PRODUCTS
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH20TA_ARTXADTAPUSAMAMAPR"
 sha256: e4c56f759729cd797b0ad71008dfed8ff07845d9fa12b8266d4ab66f2efff544
-fetched_at: "2026-09-18T14:06:14+00:00"
+fetched_at: "2026-09-23T06:08:28+00:00"
 ---
 
 The purpose of this article is to impose, in addition to the city's existing four

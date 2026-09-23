@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 14 - PUBLIC SERVICES > CHAPTER 14.04. - WATER UTILITY AND WELLS
 url: "https://library.municode.com/co/longmont/codes/code_of_ordinances?nodeId=PTIICOOR_TIT14PUSE_CH14.04WAUTWE"
 sha256: 839698b2da746292be4f66b044034499656d2c46d87f40c2b3ddf286e21db641
-fetched_at: "2026-09-22T03:57:58+00:00"
+fetched_at: "2026-09-23T04:31:04+00:00"
 ---
 
 All publicly owned and maintained works used to supply the city and users with water

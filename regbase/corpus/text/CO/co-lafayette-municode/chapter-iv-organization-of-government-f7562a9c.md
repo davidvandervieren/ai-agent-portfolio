@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > Chapter IV ORGANIZATION OF GOVERNMENT
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=CH_CHIVORGO"
 sha256: db2372ee1ecd74ead6f91f9a89c0a622d1d97beda449f081ea16f5e9719e3572
-fetched_at: "2026-09-18T12:08:21+00:00"
+fetched_at: "2026-09-23T05:02:53+00:00"
 ---
 
 The City Council shall consist of seven (7) members, one of whom shall serve as Mayor.

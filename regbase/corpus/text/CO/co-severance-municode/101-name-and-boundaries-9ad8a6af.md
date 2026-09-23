@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > ARTICLE I - General Provisions > 1.01 - Name and Boundaries.
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=HORUCH_ARTIGEPR_1.01NABO"
 sha256: 154fbb2c1c6c84b75b42102d7b481dce1ff47494960fa344fc6b57a4f556b609
-fetched_at: "2026-09-18T22:50:00+00:00"
+fetched_at: "2026-09-23T14:08:21+00:00"
 ---
 
 The municipal corporation heretofore existing as the Town of Severance, Weld County,

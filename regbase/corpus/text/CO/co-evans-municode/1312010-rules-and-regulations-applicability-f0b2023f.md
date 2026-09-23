@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - Public Services > CHAPTER 13.12 - Evans Ditch > 13.12.010 - Rules and regulations - applicability.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT13PUSE_CH13.12EVDI_13.12.010RUREPP"
 sha256: 7a35de3982f12a955bc74e369fdf21f59b0ee7eec6286177b82cac78203df1fe
-fetched_at: "2026-09-18T21:40:35+00:00"
+fetched_at: "2026-09-23T13:13:02+00:00"
 ---
 
 The City Council shall have the authority to establish rules and regulations by resolution

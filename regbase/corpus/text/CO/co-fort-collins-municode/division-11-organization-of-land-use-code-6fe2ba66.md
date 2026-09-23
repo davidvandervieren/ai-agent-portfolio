@@ -10,7 +10,7 @@ doc_type: code
 citation_root: ARTICLE 1 - GENERAL PROVISIONS > DIVISION 1.1 - ORGANIZATION OF LAND USE CODE
 url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART1GEPR_DIV1.1ORLAUSCO"
 sha256: ae831b51fa9cd494149532b4a60a81792faffae74319d6075f9547b593aba253
-fetched_at: "2026-09-18T20:10:56+00:00"
+fetched_at: "2026-09-23T15:09:27+00:00"
 ---
 
 The City of Fort Collins Land Use Code is organized into six (6) Articles as follows:

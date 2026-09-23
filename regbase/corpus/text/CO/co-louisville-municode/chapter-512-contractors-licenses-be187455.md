@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > Chapter 5.12 - CONTRACTOR'S LICENSES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT5BULIRE_CH5.12COLI"
 sha256: 795ff508804e317f23607218a5f3facffbf4a0188d4251482234ff30ff3b43f5
-fetched_at: "2026-09-18T12:49:13+00:00"
+fetched_at: "2026-09-23T05:23:02+00:00"
 ---
 
 Editor's note— Ord. No. 1653-2013, § 1, adopted Dec. 17, 2013, repealed the former ch. 5.12., §§

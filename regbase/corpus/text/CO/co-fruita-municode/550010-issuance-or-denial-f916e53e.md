@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > CHAPTER 5.50 - ISSUANCE AND CONDITIONS OF LICENSES > 5.50.010 - ISSUANCE OR DENIAL.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT5BULIRE_CH5.50ISCOLI_5.50.010ISDE"
 sha256: 69742e1f11fb374c163f5edeac062deb0d6e57c7bb124f518cc8225be1fe5017
-fetched_at: "2026-09-18T19:33:18+00:00"
+fetched_at: "2026-09-23T11:06:17+00:00"
 ---
 
 A.

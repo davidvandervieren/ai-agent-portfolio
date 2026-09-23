@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Home Rule Charter > CHAPTER XII. - Zoning > 12.1 -           Planning Commission.          
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=HORUCH_CHXIIZO_12.1PLCO47433631"
 sha256: 843e24939fae6af6d763896da45d9536b0922d67940caefdef526d5ff7272108
-fetched_at: "2026-09-18T21:17:32+00:00"
+fetched_at: "2026-09-23T12:50:29+00:00"
 ---
 
 There shall be a City Planning Commission which shall consist of five members, all

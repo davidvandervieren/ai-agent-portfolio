@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 23 - TAXATION > ARTICLE VI. - OCCUPATIONAL TAX ON GAS UTILITY COMPANIES
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTIICOOR_CH23TA_ARTVIOCTAGAUTCO"
 sha256: 94aacfefab4ab829dc9ce2c1b9138f479c30bfb79117c22c37da93b06b552562
-fetched_at: "2026-09-18T18:00:09+00:00"
+fetched_at: "2026-09-23T09:59:49+00:00"
 ---
 
 This article shall be known and may be cited as the "Durango Gas Company Occupation

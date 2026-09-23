@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3.34 - DISPOSABLE BAG TAX
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT3REFI_CH3.34DIBATA"
 sha256: e088d27e11b228182bad56f0d9c171c1a1b29e11ef667e5a0dcf16d43ca75f40
-fetched_at: "2026-09-18T12:48:52+00:00"
+fetched_at: "2026-09-23T05:22:41+00:00"
 ---
 
 Editor's note— Ord. No. 1797-2020, § 5, adopted July 28, 2020, set out provisions which will take

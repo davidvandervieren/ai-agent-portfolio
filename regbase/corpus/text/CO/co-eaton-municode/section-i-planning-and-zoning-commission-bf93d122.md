@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER VII - Planning and Zoning Regulations > SECTION I - Planning and Zoning Commission
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHVIIPLZORE_SIPLZOCO"
 sha256: 86f38bf311bb469d22daf92745a45e5b3ed838688c931625fad107f8afc603f9
-fetched_at: "2026-09-18T22:35:28+00:00"
+fetched_at: "2026-09-23T13:52:23+00:00"
 ---
 
 Pursuant to the authority conferred by Articles 59 and 60, Chapter 139, Colorado Revised

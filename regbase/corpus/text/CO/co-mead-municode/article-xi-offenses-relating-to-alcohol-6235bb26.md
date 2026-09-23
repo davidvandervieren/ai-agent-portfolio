@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE XI - Offenses Relating to Alcohol
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH10GEOF_ARTXIOFREAL"
 sha256: 9040b4051deeafa85a96eb21e7f4a85fb89a7a92993272935c90e988481c9e50
-fetched_at: "2026-09-18T23:04:56+00:00"
+fetched_at: "2026-09-23T14:18:41+00:00"
 ---
 
 For purposes of this Article:

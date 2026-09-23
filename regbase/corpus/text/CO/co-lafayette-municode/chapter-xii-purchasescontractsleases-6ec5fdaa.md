@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > Chapter XII PURCHASES—CONTRACTS—LEASES
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=CH_CHXIPUONEA"
 sha256: 2d9b28030f853c26ba304fe08fecb767780a7eaca20af303d4e321c830c661b8
-fetched_at: "2026-09-18T12:08:38+00:00"
+fetched_at: "2026-09-23T05:03:08+00:00"
 ---
 
 (a)

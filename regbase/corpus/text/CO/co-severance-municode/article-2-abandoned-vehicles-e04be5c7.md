@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 7 - Health, Sanitation and Animals > ARTICLE 2 - Abandoned Vehicles
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH7HESAAN_ART2ABVE"
 sha256: 889c32cb8621651a69c1a9a54f84522d1c4b99885ca3a29c279ca5cdea84f598
-fetched_at: "2026-09-18T22:48:30+00:00"
+fetched_at: "2026-09-23T14:05:09+00:00"
 ---
 
 Editor's note— Ord. No. 2022-24 , § 1, adopted Oct. 25, 2022, repealed the former Art. 1, §§ 7-1-10—7-1-170, and enacted

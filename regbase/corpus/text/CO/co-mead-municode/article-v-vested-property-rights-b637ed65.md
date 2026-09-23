@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE V - Vested Property Rights
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH16LAUSCO_ARTVVEPRRI"
 sha256: b74eebdec4e7ec4a43343dc7f943f1e600659e47f5ab84ae712791e6f922f705
-fetched_at: "2026-09-18T23:05:36+00:00"
+fetched_at: "2026-09-23T14:19:19+00:00"
 ---
 
 Editor's note— 877 §2, adopted in 2018, repealed the former Article V, § 16-5-10, and enacted a new

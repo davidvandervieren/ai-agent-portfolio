@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > Chapter II MUNICIPAL POWERS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=CH_CHIIMUPO"
 sha256: 01c0cb8daeda4120f6254816d3f16220021d98301a1429c92a928ba692a57973
-fetched_at: "2026-09-18T12:08:17+00:00"
+fetched_at: "2026-09-23T05:02:48+00:00"
 ---
 
 State Law reference— Exercise of municipal powers, C. R. S. § 31-15-101 et seq.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > CHAPTER 5.08 - AMUSEMENTS > 5.08.010 - DEFINITIONS.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT5BULIRE_CH5.08AM_5.08.010DE"
 sha256: 269b290b1ffee92e9b00f1619385c293f7d3e78753cf10db379677fb704d06c1
-fetched_at: "2026-09-18T19:31:07+00:00"
+fetched_at: "2026-09-23T11:04:06+00:00"
 ---
 
 A.

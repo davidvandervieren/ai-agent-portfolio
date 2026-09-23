@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.18 - OPEN MEETINGS, EXECUTIVE SESSIONS AND PUBLIC RECORDS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.18OPMEEXSEPURE"
 sha256: 7ffc891356d2bcef0b50c2c465fb9faf7df2e898b32fbb20a12fe00f847c1715
-fetched_at: "2026-09-18T12:48:14+00:00"
+fetched_at: "2026-09-23T05:22:02+00:00"
 ---
 
 This chapter is intended to foster public trust by defining the parameters of open

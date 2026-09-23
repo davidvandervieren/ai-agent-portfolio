@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER XIII - Local Improvement Districts > SECTION I - Formation of Districts
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHXIIILOIMDI_SIFODI"
 sha256: 84450374ed80eb3260015d7c6ccaaae85ca7fb804a3139eb053cb01f8045d1b8
-fetched_at: "2026-09-18T22:36:41+00:00"
+fetched_at: "2026-09-23T13:53:35+00:00"
 ---
 
 The Board of Trustees shall have the authority to establish improvement districts

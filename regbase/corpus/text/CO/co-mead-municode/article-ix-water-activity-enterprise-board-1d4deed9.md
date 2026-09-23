@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration and Personnel > ARTICLE IX - Water Activity Enterprise Board
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH2ADPE_ARTIXWAACENBO"
 sha256: bae91ce4056328cbe141ec1dedd4ce65241c169208c4f546128688f2d415f8d8
-fetched_at: "2026-09-18T23:03:13+00:00"
+fetched_at: "2026-09-23T14:17:09+00:00"
 ---
 
 The governing body of the respective Water Activity Enterprise (the "Governing Body")

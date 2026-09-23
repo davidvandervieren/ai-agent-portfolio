@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHAPTER XIV. - BOARDS AND COMMISSIONS > 14.1. - General provisions.
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHXIVBOCO_14.1GEPR"
 sha256: 502464205927b841734ffd2989b404877a6471751932a76629c3149275f2b8c4
-fetched_at: "2026-09-18T13:19:01+00:00"
+fetched_at: "2026-09-23T05:54:55+00:00"
 ---
 
 (a)

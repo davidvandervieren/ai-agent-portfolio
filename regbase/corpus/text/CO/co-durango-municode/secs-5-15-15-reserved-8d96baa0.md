@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 5 - BOARDS, COMMISSIONS AND COMMITTEES > ARTICLE I. - IN GENERAL > Secs. 5-1—5-15. - Reserved.
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTIICOOR_CH5BOCOCO_ARTIINGE_SS5-1--5-15RE"
 sha256: 28b42983db67a0db1fb700fc4161260b14b6b3d5b5c04b58ae156edff080abfc
-fetched_at: "2026-09-18T18:00:35+00:00"
+fetched_at: "2026-09-23T10:02:16+00:00"
 ---
 
 Editor's note— The city council has adopted resolution number 490 on Standard Rules and Procedures

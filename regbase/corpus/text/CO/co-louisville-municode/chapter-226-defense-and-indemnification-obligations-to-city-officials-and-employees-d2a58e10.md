@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.26 - DEFENSE AND INDEMNIFICATION OBLIGATIONS TO CITY OFFICIALS AND EMPLOYEES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.26DEINOBOFEM"
 sha256: 7ef70075040489541d0e95562cc0553145cb0adb354c970100eb63c79696c5f1
-fetched_at: "2026-09-18T12:48:22+00:00"
+fetched_at: "2026-09-23T05:22:11+00:00"
 ---
 
 When used in this chapter, the terms public employee and employee shall have the same

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE IX - Offenses Against Public Peace, Order and Decency
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH10GEOF_ARTIXOFAGPUPEORDE"
 sha256: 3dd788a59409691a0e1e185fd5f12599c98a591c547db51322915338a481a946
-fetched_at: "2026-09-18T23:04:52+00:00"
+fetched_at: "2026-09-23T14:18:37+00:00"
 ---
 
 A person commits disorderly conduct if he or she intentionally, knowingly or recklessly:

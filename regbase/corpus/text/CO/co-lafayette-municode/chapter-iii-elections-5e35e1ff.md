@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > Chapter III ELECTIONS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=CH_CHIIEL"
 sha256: ba59ca53a6ddb8d00721fef49c355cc4d852a3266b4ae87e7047381a0aac2c92
-fetched_at: "2026-09-18T12:08:19+00:00"
+fetched_at: "2026-09-23T05:02:49+00:00"
 ---
 
 State Law reference— Municipal Election Code, C. R. S. § 31-10-101 et seq.

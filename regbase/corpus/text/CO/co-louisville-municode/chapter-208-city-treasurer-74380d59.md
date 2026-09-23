@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.08 - CITY TREASURER
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.08CITR"
 sha256: 1232d46434e79d1422f2608e348468b9a3ebd53418a3de8d403b46a185830bdb
-fetched_at: "2026-09-18T12:48:02+00:00"
+fetched_at: "2026-09-23T05:21:49+00:00"
 ---
 
 The city manager shall appoint a qualified person to serve as the city treasurer.

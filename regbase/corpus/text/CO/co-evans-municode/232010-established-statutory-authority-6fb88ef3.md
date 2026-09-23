@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.32 - City Cemetery > 2.32.010 - Established - statutory authority.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.32CICE_2.32.010ESTAAU"
 sha256: 0e8fa833ac642e966442af7d63c252c29267de27c700f2bfc0ffb81f16d193c5
-fetched_at: "2026-09-18T21:21:57+00:00"
+fetched_at: "2026-09-23T12:54:48+00:00"
 ---
 
 The authority for the establishment and regulation of the cemetery is provided in

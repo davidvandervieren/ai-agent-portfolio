@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 11 - Streets, Sidewalks and Public Property > ARTICLE VI - Public Parks and Recreation Areas
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH11STSIPUPR_ARTVIPUPAREAR"
 sha256: 768a89d4753f2eac930c74f1ab937bd3f4f92f1a19ff95128e3e892e004c36d5
-fetched_at: "2026-09-18T14:27:13+00:00"
+fetched_at: "2026-09-23T06:25:12+00:00"
 ---
 
 (a)

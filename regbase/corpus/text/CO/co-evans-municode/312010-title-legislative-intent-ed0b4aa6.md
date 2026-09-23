@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - Revenue and Finance > CHAPTER 3.12 - Telephone Occupation Tax > 3.12.010 - Title - legislative intent.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT3REFI_CH3.12TEOCTA_3.12.010TIEGIN"
 sha256: abd93061be0854134aef12d958991e568b5a7a5e2299432115e644b826531497
-fetched_at: "2026-09-18T21:23:53+00:00"
+fetched_at: "2026-09-23T12:56:45+00:00"
 ---
 
 A.

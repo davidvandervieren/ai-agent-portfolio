@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER - FOR THE CITY OF LOUISVILLE, COLORADO > ARTICLE 4. - CITY GOVERNMENT PROCEDURES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=CHTRFOLOCO_ART4CIGOPR"
 sha256: 7184026baf8bfceca703b3ff1d2831bce21de6aaf173f8156e50ca4a9478eab6
-fetched_at: "2026-09-18T12:47:10+00:00"
+fetched_at: "2026-09-23T05:21:01+00:00"
 ---
 
 (a)

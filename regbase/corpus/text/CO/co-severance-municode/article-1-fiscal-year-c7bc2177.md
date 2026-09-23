@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE 1 - Fiscal Year
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH4REFI_ART1FIYE"
 sha256: 18332dc966e7d03354374626a718ba15f9292ee373df0106b5b4e7cff35065de
-fetched_at: "2026-09-18T22:48:07+00:00"
+fetched_at: "2026-09-23T14:04:48+00:00"
 ---
 
 The fiscal year of the Town shall commence on January 1 of each year and shall extend

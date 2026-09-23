@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 1 - General Provisions > ARTICLE I - Code
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH1GEPR_ARTICO"
 sha256: d40f0f2fac348271589e83b3b0746fa015931559c7ad9b9690738513cd2e50f0
-fetched_at: "2026-09-18T14:25:18+00:00"
+fetched_at: "2026-09-23T06:23:16+00:00"
 ---
 
 The published code known as the Rifle Municipal Code, published by Colorado Code Publishing

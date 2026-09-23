@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 12 - PUBLIC PEACE AND SAFETY > ARTICLE I. - GENERAL PROVISIONS
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH12PUPESA_ARTIGEPR"
 sha256: c112fc579d5ffd9d8f2c079ccc8c880d44b255aa8bfc99724cfcd923f11efc73
-fetched_at: "2026-09-18T14:05:48+00:00"
+fetched_at: "2026-09-23T06:07:54+00:00"
 ---
 
 The provisions of this chapter shall apply to offenses committed within the city.

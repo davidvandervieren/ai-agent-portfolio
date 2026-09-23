@@ -10,7 +10,7 @@ doc_type: code
 citation_root: ARTICLE 3 - GENERAL DEVELOPMENT STANDARDS > DIVISION 3.12 - OIL AND GAS FACILITIES AND PIPELINES > 3.12.1 - Purpose and Applicability
 url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART3GEDEST_DIV3.12OIGAFAPI_3.12.1PUAP"
 sha256: 034a085ec994931a103e85c4c7c435a8e62835ff9f137028ca4ea900205cd2e5
-fetched_at: "2026-09-18T20:19:07+00:00"
+fetched_at: "2026-09-23T15:17:40+00:00"
 ---
 
 (A)

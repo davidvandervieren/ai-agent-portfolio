@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE X. - GENERAL AND MISCELLANEOUS PROVISIONS
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTICH_ARTXGEMIPR"
 sha256: f7c399417f07628376bbe8320cc9f56c29f304f99f17b9fdf33b9b9fd2f5b96d
-fetched_at: "2026-09-18T17:59:35+00:00"
+fetched_at: "2026-09-23T09:57:22+00:00"
 ---
 
 Except as otherwise provided by this Charter, the form of government existing in the

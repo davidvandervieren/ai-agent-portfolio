@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 47 - HISTORIC PRESERVATION
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH47HIPR"
 sha256: 1d03433bc6aba16a7c1e16cce689a0ca06345e826e58311c9c12e206faa34280
-fetched_at: "2026-09-18T12:07:14+00:00"
+fetched_at: "2026-09-23T05:02:31+00:00"
 ---
 
 The purpose of this chapter is to promote the public health, safety and welfare of

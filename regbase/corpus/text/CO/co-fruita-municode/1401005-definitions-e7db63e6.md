@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 14 - STORMWATER MANAGEMENT > CHAPTER 14.01 - DEFINITIONS > 14.01.005 - DEFINITIONS.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT14STMA_CH14.01DE_14.01.005DE"
 sha256: df80daf078f170a2d69a57486adadbac154a7e3ad954da3837b847e48b52ef89
-fetched_at: "2026-09-18T19:44:50+00:00"
+fetched_at: "2026-09-23T11:17:52+00:00"
 ---
 
 The following words, terms and phrases, when used in this title, shall have the meanings

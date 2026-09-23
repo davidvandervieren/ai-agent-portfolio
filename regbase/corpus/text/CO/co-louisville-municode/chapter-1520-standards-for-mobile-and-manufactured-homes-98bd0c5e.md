@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.20 - STANDARDS FOR MOBILE AND MANUFACTURED HOMES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.20STMOMAHO"
 sha256: d650e293098adde8e0884cadb25e7d77d8c2b341523d69690a7996a3e5948efc
-fetched_at: "2026-09-18T12:52:27+00:00"
+fetched_at: "2026-09-23T05:26:16+00:00"
 ---
 
 Editor's note— Ord. No. 1655-2014, § 1, adopted Feb. 2, 2014, repealed the former ch. 15.20, §§ 15.20.010—15.20.150,

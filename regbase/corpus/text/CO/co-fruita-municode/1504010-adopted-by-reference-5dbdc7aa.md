@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDING AND CONSTRUCTION > Chapter 15.04 - INTERNATIONAL BUILDING CODE > 15.04.010 - ADOPTED BY REFERENCE.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT15BUCO_CH15.04INBUCO_15.04.010ADRE"
 sha256: d37e1fa946d5079b7a0785e5f8fea0eeb8b877fde4e8f2d088fab710d5b5bba9
-fetched_at: "2026-09-18T19:48:15+00:00"
+fetched_at: "2026-09-23T11:21:10+00:00"
 ---
 
 Editor's note— Ord. No. 2025-12 , adopted July 15, 2025, amended Tit. 15 in its entirety, with the exception of chapters

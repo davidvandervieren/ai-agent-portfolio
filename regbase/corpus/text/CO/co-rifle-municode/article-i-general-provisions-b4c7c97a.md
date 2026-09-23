@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE I - General Provisions
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH10GEOF_ARTIGEPR"
 sha256: 8089fb02bea0c0dc216808594d3207362126b290c8da8e0a2ef9b0010d5fc1c5
-fetched_at: "2026-09-18T14:26:43+00:00"
+fetched_at: "2026-09-23T06:24:40+00:00"
 ---
 
 The City adopts this Chapter relating to public peace, safety and morals in accordance

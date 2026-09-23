@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - Revenue and Finance > CHAPTER 3.34 - City Revenues > 3.34.010 - Revenue changes.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT3REFI_CH3.34CIRE_3.34.010RECH"
 sha256: feb819f9e690a08f5203672c94cefe90001f049227062433544a2e167731ab9b
-fetched_at: "2026-09-18T21:24:50+00:00"
+fetched_at: "2026-09-23T12:57:37+00:00"
 ---
 
 Pursuant to Article X, Section 20 of the Colorado Constitution, the qualified electors

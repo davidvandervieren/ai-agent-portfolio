@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHAPTER XIII. - LAND USE AND PLANNING > 13.1. - Comprehensive Plan.
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHXIIILAUSPL_13.1COPL"
 sha256: 9a51d4a11dcb4d60b42a66a815af5cc5009dcf1f49b9d35b785541e68db2c421
-fetched_at: "2026-09-18T13:18:57+00:00"
+fetched_at: "2026-09-23T05:54:51+00:00"
 ---
 
 Editor's note— Ord. No. 2564, §§ 1A, 1B, adopted August 23, 1999, and approved at the General Election

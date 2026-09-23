@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > ARTICLE V - Boards and Commissions > 5.01 - Existing Boards and Commissions.
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=HORUCH_ARTVBOCO_5.01EXBOCO"
 sha256: 4a7502707bc7d8d9fa67517ab036261b38adc11d1eadf4fe239c0b34fe4eec82
-fetched_at: "2026-09-18T22:50:52+00:00"
+fetched_at: "2026-09-23T14:09:09+00:00"
 ---
 
 All boards and commissions existing at the time this Charter is adopted shall continue

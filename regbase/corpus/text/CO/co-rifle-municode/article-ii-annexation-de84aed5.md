@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE II - Annexation
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTIIAN"
 sha256: 69e8f206d53b6eeddafcb76a6d8efcafe7a59bcea4f1ae26d84f56f2563db41a
-fetched_at: "2026-09-18T14:27:25+00:00"
+fetched_at: "2026-09-23T06:25:24+00:00"
 ---
 
 (a)

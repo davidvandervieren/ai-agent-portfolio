@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE IX. - FRANCHISES
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTICH_ARTIXFR"
 sha256: 59fef9aa99a6ba09412b4dbc0f253fb06dadda6582322f9425f41cece7e21112
-fetched_at: "2026-09-18T17:59:33+00:00"
+fetched_at: "2026-09-23T09:57:17+00:00"
 ---
 
 No franchise relating to any street, alley or public place of the city shall be granted,

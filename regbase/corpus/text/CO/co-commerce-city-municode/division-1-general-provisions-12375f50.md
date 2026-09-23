@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 8 - ALCOHOLIC BEVERAGE AND MARIJUANA LICENSING > ARTICLE I. - ALCOHOLIC BEVERAGES > DIVISION 1. - GENERAL PROVISIONS
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH8ALBEMALI_ARTIALBE_DIV1GEPR"
 sha256: 51bd58c00cb863f42baafd123b9396fbbdedc581745cf6fe5ffbf23c66bd8706
-fetched_at: "2026-09-18T14:07:37+00:00"
+fetched_at: "2026-09-23T06:09:36+00:00"
 ---
 
 Editor's note— Ord. No. 2526 , § 2, adopted Aug. 14, 2023, amended the title of Ch. 8 to read as herein set out.

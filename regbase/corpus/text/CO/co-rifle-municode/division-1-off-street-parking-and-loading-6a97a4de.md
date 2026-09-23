@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE VII - General Design Standards > Division 1 - Off-Street Parking and Loading
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTVIIGEDEST_DIV1OREPALO"
 sha256: f6a73cb8954729740c2edb26002671874fe1bfa41fe9a2b2f6980372030eadb0
-fetched_at: "2026-09-18T14:34:53+00:00"
+fetched_at: "2026-09-23T06:28:32+00:00"
 ---
 
 (a)

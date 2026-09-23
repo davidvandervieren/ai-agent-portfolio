@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHARTER COMPARATIVE TABLE
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHCOTA"
 sha256: ced3c1fc717ed9b81e6c03571f6f22ff208dc32b7807be5576313a0f6aee79e5
-fetched_at: "2026-09-18T13:15:18+00:00"
+fetched_at: "2026-09-23T05:51:51+00:00"
 ---
 
 This table shows the location of the sections of the basic Charter and any amendments

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8.52 - SMOKING PROHIBITED
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.52SMPR"
 sha256: 075397498d682327ea1bd36d642a45bf29fc7cc2d9d3042cfce4a84ad595acfc
-fetched_at: "2026-09-18T12:50:06+00:00"
+fetched_at: "2026-09-23T05:23:57+00:00"
 ---
 
 Cross reference— Smoking in public places prohibited, ch. 8.56; Uniform Fire Code, ch. 15.12.

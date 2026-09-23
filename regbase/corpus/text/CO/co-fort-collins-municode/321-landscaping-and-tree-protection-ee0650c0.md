@@ -10,7 +10,7 @@ doc_type: code
 citation_root: ARTICLE 3 - GENERAL DEVELOPMENT STANDARDS > Division 3.2 - Site Planning and Design Standards > 3.2.1 - Landscaping and Tree Protection
 url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART3GEDEST_DIV3.2SIPLDEST_3.2.1LATRPR"
 sha256: e09b5a652779e7ecac0a20fecda69c4e638cac33a6f71ac0b2ac1eb75d2dbe94
-fetched_at: "2026-09-18T20:15:50+00:00"
+fetched_at: "2026-09-23T15:14:27+00:00"
 ---
 
 (A)

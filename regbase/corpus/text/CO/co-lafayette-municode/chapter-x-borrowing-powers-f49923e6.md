@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > Chapter X BORROWING POWERS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=CH_CHXBOPO"
 sha256: e9400a80bb1c9e1f7d37fae6b60a157aae9786c033c0dafdbb35e4ac98342aab
-fetched_at: "2026-09-18T12:08:34+00:00"
+fetched_at: "2026-09-23T05:03:04+00:00"
 ---
 
 Editor's note— Ord. No. 1988-25, § 1, adopted Dec. 6, 1988, and approved by the voters at a special

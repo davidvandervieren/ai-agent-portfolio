@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Home Rule Charter > CHAPTER VIII. - General Finance—Budget—Audit > 8.1 - Fiscal year.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=HORUCH_CHVIIIGEFIUDUD_8.1FIYE"
 sha256: bb632388118b01e92555a4e2882080eb6c4590db1d4542a3dbad962334d6d491
-fetched_at: "2026-09-18T21:16:27+00:00"
+fetched_at: "2026-09-23T12:49:29+00:00"
 ---
 
 The fiscal year of the City and of all its agencies shall begin on the first day of

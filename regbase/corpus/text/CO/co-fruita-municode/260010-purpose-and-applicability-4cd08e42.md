@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.60 - RULES GOVERNING ADMINISTRATIVE PROCEEDINGS > 2.60.010 - PURPOSE AND APPLICABILITY.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT2ADPE_CH2.60RUGOADPR_2.60.010PUAP"
 sha256: 38d88536dd50720fba0fe79802964d5870d98e9d403162876243e96fe50f6e69
-fetched_at: "2026-09-18T19:26:33+00:00"
+fetched_at: "2026-09-23T10:59:26+00:00"
 ---
 
 The purpose of the rules of procedure contained herein is to provide a uniform, consistent

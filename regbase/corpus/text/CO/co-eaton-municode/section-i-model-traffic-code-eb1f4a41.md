@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER XV - Traffic > SECTION I - Model Traffic Code
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHXVTR_SIMOTRCO"
 sha256: 5cf61ce02a7534a14925f45a3feb5863e95364fb36935ab272c539ba0a1277b5
-fetched_at: "2026-09-18T22:36:59+00:00"
+fetched_at: "2026-09-23T13:53:53+00:00"
 ---
 
 Pursuant to Parts 1 and 2 of Article 16 of Title 31 and Part 4 of Article 15 of Title

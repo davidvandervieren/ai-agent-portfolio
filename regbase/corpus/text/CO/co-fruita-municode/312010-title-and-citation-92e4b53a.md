@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > CHAPTER 3.12 - SALES TAX > 3.12.010 - TITLE AND CITATION.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT3REFI_CH3.12SATA_3.12.010TICI"
 sha256: 76e346961a96cf44040729e4c6aea26a32005cc69f4d0b25aff1c2cb9e880f5c
-fetched_at: "2026-09-18T19:27:34+00:00"
+fetched_at: "2026-09-23T11:00:27+00:00"
 ---
 
 This chapter shall be known and cited as the "City of Fruita Retail Sales Tax Ordinance."

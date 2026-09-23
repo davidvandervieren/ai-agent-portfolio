@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > Chapter XIV PUBLIC UTILITY FRANCHISES
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=CH_CHXIPUUTFR"
 sha256: 5b73a3a5b89b9c930c552339bea89da95b244d99b5d36d9bdea158db6a43d20d
-fetched_at: "2026-09-18T12:08:42+00:00"
+fetched_at: "2026-09-23T05:03:12+00:00"
 ---
 
 All franchises to which the city is a party when this Charter becomes effective shall

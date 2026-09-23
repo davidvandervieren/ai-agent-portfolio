@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 17 - RESERVED
 url: "https://library.municode.com/co/kersey/codes/municipal_code?nodeId=COOR_CH17RE"
 sha256: 94e306246bad8c0133470a2909ab9000f19888d9b6065a2f4efa668244d0b536
-fetched_at: "2026-09-18T22:08:57+00:00"
+fetched_at: "2026-09-23T13:44:26+00:00"
 ---
 
 Editor's note— Ord. No. 2024-0005 , § 2, adopted Nov. 12, 2024, repealed ch. 17 §§ 17-1—17-248, which pertained to subdivisions

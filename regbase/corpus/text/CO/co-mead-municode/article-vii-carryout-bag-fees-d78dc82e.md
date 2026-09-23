@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE VII - Carryout Bag Fees
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH6BULIRE_ARTVIICABAFE"
 sha256: 9de20a63330e1241c3e1d618e429c6aa5762001f4170e0cc1d91469ca3261640
-fetched_at: "2026-09-18T23:04:03+00:00"
+fetched_at: "2026-09-23T14:17:48+00:00"
 ---
 
 This Article establishes the process of the Town to accept carryout bag fees remitted

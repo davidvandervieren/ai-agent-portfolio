@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Home Rule Charter > CHAPTER I. - General Provisions > 1.1 - Name and boundaries.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=HORUCH_CHIGEPR_1.1NABO"
 sha256: 3bf3b5cd422355826b06e0539d08a59ba7eb5a3f17a1d115bafa39b24708c4f0
-fetched_at: "2026-09-18T21:14:03+00:00"
+fetched_at: "2026-09-23T12:47:04+00:00"
 ---
 
 The municipal corporation heretofore existing as the "City of Evans" in Weld County

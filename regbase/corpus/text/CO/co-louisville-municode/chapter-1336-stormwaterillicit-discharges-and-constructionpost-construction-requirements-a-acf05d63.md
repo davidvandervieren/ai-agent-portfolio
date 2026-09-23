@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - WATER AND SEWERS > Chapter 13.36 - STORMWATER—ILLICIT DISCHARGES AND CONSTRUCTION/POST CONSTRUCTION REQUIREMENTS AND REGULATIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT13WASE_CH13.36STLLDICOPOCORERE"
 sha256: 6349b7410e5bee1ac47814bafa9aa3d6faee425f066e837fa1518d642eab0eb1
-fetched_at: "2026-09-18T12:51:53+00:00"
+fetched_at: "2026-09-23T05:25:42+00:00"
 ---
 
 The intent of this chapter is to protect and enhance the water quality of watercourses,

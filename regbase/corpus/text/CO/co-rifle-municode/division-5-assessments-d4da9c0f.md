@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE IV - Local Improvement Regulations > Division 5 - Assessments
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH4REFI_ARTIVLOIMRE_DIV5AS"
 sha256: f1c4bbf0ec1b1e5ceb40217fa46e0d874ad59d2d1f8787a3a50cc5c66933a650
-fetched_at: "2026-09-18T14:33:06+00:00"
+fetched_at: "2026-09-23T06:26:49+00:00"
 ---
 
 (a)

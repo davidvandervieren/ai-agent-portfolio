@@ -292,12 +292,41 @@ class _ApiResponse:
 
 def _municode_page(source: common.Source) -> str:
     """The library.municode.com page to open a session on, if any."""
-    for d in source.docs():
-        if MUNICODE_HOST in (d.url or ""):
-            return d.url.split("?")[0]
-    if MUNICODE_HOST in (source.landing_url or ""):
-        return source.landing_url.split("?")[0]
-    return ""
+    pages = _municode_pages(source)
+    return pages[0] if pages else ""
+
+
+def _municode_pages(source: common.Source) -> list[str]:
+    """Every distinct Municode code (product) a source lists, in registry order.
+
+    A city can publish more than one product - Fort Collins keeps its Land
+    Use Code and its Municipal Code as separate codes - and each is its own
+    tree behind its own page. One session per product, then. Two URLs that
+    name the same code (case variants, a job id in the path) count once.
+    """
+    pages: list[str] = []
+    seen: set[str] = set()
+    landing = ""
+    candidates = [d.url for d in source.docs()] + [source.landing_url]
+    import municode
+    for url in candidates:
+        if not url or MUNICODE_HOST not in url:
+            continue
+        page = url.split("?")[0]
+        state, client, product = municode.parse_url(page)
+        if not (state and client):
+            continue            # the host's own pages, not a code
+        if not product:
+            # library.municode.com/co/johnstown names the client, not a code;
+            # only a fallback when no code page is listed at all.
+            landing = landing or page
+            continue
+        root = _municode_root(page)
+        if root in seen:
+            continue
+        seen.add(root)
+        pages.append(page)
+    return pages or ([landing] if landing else [])
 
 
 def _municode_root(page: str) -> str:
@@ -312,16 +341,19 @@ def _municode_root(page: str) -> str:
 
 
 def harvest_municode_source(source: common.Source, *, delay: float,
-                            match: str = "", dry_run: bool = False) -> dict:
-    """Pull a jurisdiction's entire code through Municode's own API.
+                            match: str = "", dry_run: bool = False,
+                            page: str = "", clear: bool = True) -> dict:
+    """Pull one of a jurisdiction's codes through Municode's own API.
 
-    One browser session per jurisdiction, then chapter-by-chapter fetches
-    through it. Each chapter becomes a document whose URL is the same
-    ?nodeId= form a person would see in the browser, so citations resolve.
+    One browser session per code, then chapter-by-chapter fetches through
+    it. Each chapter becomes a document whose URL is the same ?nodeId= form
+    a person would see in the browser, so citations resolve. `page` picks
+    the code when a source lists several; `clear` wipes the source's earlier
+    corpus first, which the caller does once per source, not once per code.
     """
     import municode
 
-    page = _municode_page(source)
+    page = page or _municode_page(source)
     stats = {"chapters": 0, "chars": 0, "failed": 0, "skipped": 0, "empty": 0}
     if not page:
         return stats
@@ -345,14 +377,16 @@ def harvest_municode_source(source: common.Source, *, delay: float,
         # shells from earlier per-document fetches and per-section duplicates
         # from an earlier version of this path would otherwise sit beside the
         # fresh chapters and be indexed alongside them.
-        import shutil
-        sub = Path(source.state) / common.slugify(source.id)
-        for d in (common.TEXT_DIR / sub, common.RAW_DIR / sub):
-            if d.exists():
-                shutil.rmtree(d, ignore_errors=True)
-        dropped = common.manifest_drop(source.id)
-        if dropped:
-            print(f"    cleared {dropped} earlier record(s) for a fresh whole-code harvest")
+        if clear:
+            import shutil
+            sub = Path(source.state) / common.slugify(source.id)
+            for d in (common.TEXT_DIR / sub, common.RAW_DIR / sub):
+                if d.exists():
+                    shutil.rmtree(d, ignore_errors=True)
+            dropped = common.manifest_drop(source.id)
+            if dropped:
+                print(f"    cleared {dropped} earlier record(s) for a fresh "
+                      f"whole-code harvest")
         print(f"    api session: job {ref.job_id} product {ref.product_id} "
               f"(headers reused: {', '.join(sorted(t.api_headers)) or 'none'})")
 
@@ -400,14 +434,20 @@ def harvest_documents(sources: list[common.Source], fetcher: common.Fetcher,
         if not docs:
             continue
         use_render = needs_render(src, render_mode)
-        api_page = _municode_page(src) if (municode_api and
-                                           src.code_platform == "municode") else ""
-        tag = "  [municode api]" if api_page else ("  [rendered]" if use_render else "")
+        api_pages = _municode_pages(src) if (municode_api and
+                                             src.code_platform == "municode") else []
+        tag = ("  [municode api]" if api_pages
+               else ("  [rendered]" if use_render else ""))
+        if len(api_pages) > 1:
+            tag = f"  [municode api: {len(api_pages)} codes]"
         print(f"\n[{src.state}] {src.jurisdiction_label} — {src.id} "
               f"({len(docs)} docs){tag}")
-        if api_page:
+        for i, api_page in enumerate(api_pages):
+            if len(api_pages) > 1:
+                print(f"    code {i + 1}/{len(api_pages)}: {api_page}")
             mstats = harvest_municode_source(src, delay=delay_s, match=municode_match,
-                                             dry_run=dry_run)
+                                             dry_run=dry_run, page=api_page,
+                                             clear=(i == 0))
             stats["api_chapters"] = stats.get("api_chapters", 0) + mstats["chapters"]
             stats["api_failed"] = stats.get("api_failed", 0) + mstats["failed"]
             stats["api_empty"] = stats.get("api_empty", 0) + mstats["empty"]
@@ -420,12 +460,13 @@ def harvest_documents(sources: list[common.Source], fetcher: common.Fetcher,
                 print(f"    = {mstats['chapters']} chapter(s), "
                       f"{mstats['chars']:,} chars via API"
                       + (f"  ({', '.join(extra)})" if extra else ""))
-            # The API covered the code page and everything under it; anything
+        if api_pages:
+            # The API covered each code page and everything under it; anything
             # else on this source - a city's own oil & gas page, say - still
             # goes through the normal fetch.
-            root = _municode_root(api_page)
+            roots = tuple(_municode_root(p) for p in api_pages)
             docs = [d for d in docs
-                    if not (d.url or "").lower().startswith(root)]
+                    if not (d.url or "").lower().startswith(roots)]
             if not docs:
                 continue
         for doc in docs:

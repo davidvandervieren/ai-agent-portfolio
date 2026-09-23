@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 13 - METROPOLITAN DISTRICTS > ARTICLE I. - GENERAL PROVISIONS
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH13MEDI_ARTIGEPR"
 sha256: 1a0c868316b711b764d6ece15100034af4d9757b38fed115532636966a7ea6b5
-fetched_at: "2026-09-18T14:06:04+00:00"
+fetched_at: "2026-09-23T06:08:11+00:00"
 ---
 
 (a)

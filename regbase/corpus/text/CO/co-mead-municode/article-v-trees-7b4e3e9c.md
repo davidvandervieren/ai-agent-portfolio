@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 7 - Health, Sanitation and Animals > ARTICLE V - Trees
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH7HESAAN_ARTVTR"
 sha256: 4ef8bdb8c3d4dd36e4a9c3bbf0ea057d6b3501c5d1617c9588df6ddd6d69b925
-fetched_at: "2026-09-18T23:04:13+00:00"
+fetched_at: "2026-09-23T14:17:58+00:00"
 ---
 
 Editor's note— Ord. No. 1032 , §1, adopted 2023, repealed the former Art. V, §§ 7-5-10—7-5-30, and enacted a new

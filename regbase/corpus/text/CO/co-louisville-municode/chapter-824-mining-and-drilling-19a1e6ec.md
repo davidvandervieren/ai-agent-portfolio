@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8.24 - MINING AND DRILLING
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.24MIDR"
 sha256: 76567b024144c155634f4b11667f2b679cc9f0a729607f6d1be54ad3445d8cec
-fetched_at: "2026-09-18T12:49:54+00:00"
+fetched_at: "2026-09-23T05:23:44+00:00"
 ---
 
 Cross reference— Zoning regulations for oil and gas exploration and production, § 17.16.250; oil and gas regulations, ch. 17.68.

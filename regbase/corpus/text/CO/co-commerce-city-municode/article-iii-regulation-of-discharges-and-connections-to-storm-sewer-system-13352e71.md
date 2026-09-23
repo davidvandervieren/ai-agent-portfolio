@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 10 - STREETS, PUBLIC RIGHTS-OF-WAY AND STORM SEWERS > ARTICLE III. - REGULATION OF DISCHARGES AND CONNECTIONS TO STORM SEWER SYSTEM
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH10STPURI-WSTSE_ARTIIIREDICOSTSESY"
 sha256: b8cd0614b315eeeb9572c04280992af34eec0a87f0a999d39a46c0b08ab02969
-fetched_at: "2026-09-18T14:05:42+00:00"
+fetched_at: "2026-09-23T06:07:48+00:00"
 ---
 
 Editor's note— Ord. No. 1848, § 2, adopted Jan. 10, 2011, changed the title of ch. 10 from "Streets

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - LAND USE CODE > CHAPTER 17.55 - ENFORCEMENT > 17.55.010 - PURPOSE AND AUTHORITY.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT17LAUSCO_CH17.55EN_17.55.010PUAU"
 sha256: d61e0ad1a07b30966e8e05bc59644d28e83c87f4cab3cee0982032b058b71466
-fetched_at: "2026-09-18T19:57:10+00:00"
+fetched_at: "2026-09-23T11:30:10+00:00"
 ---
 
 This chapter established procedures by which the City seeks to ensure compliance with

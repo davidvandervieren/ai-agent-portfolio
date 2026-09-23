@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE IV - Subdivisions > Division 1 - General Provisions
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTIVSU_DIV1GEPR"
 sha256: 5968b4bc3539ed7c1674fc098add3e4d4cd03cc7d9ac89612f41af1b2e05258d
-fetched_at: "2026-09-18T14:34:32+00:00"
+fetched_at: "2026-09-23T06:28:12+00:00"
 ---
 
 (a)

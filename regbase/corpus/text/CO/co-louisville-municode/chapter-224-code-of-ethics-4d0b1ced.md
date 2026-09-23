@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.24 - CODE OF ETHICS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.24COET"
 sha256: 2c615dccb72baa30d5714de8c6717010d51a620597894921d7132b931341384f
-fetched_at: "2026-09-18T12:48:20+00:00"
+fetched_at: "2026-09-23T05:22:09+00:00"
 ---
 
 A.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > Chapter 5.04 - REGISTRATION OF BUSINESSES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT5BULIRE_CH5.04REBU"
 sha256: c265548dbd19f8d370b3366dce8e3feb5aba92f981a4307c91145260799e8085
-fetched_at: "2026-09-18T12:49:03+00:00"
+fetched_at: "2026-09-23T05:22:51+00:00"
 ---
 
 Editor's note— Ord. No. 1559, § 1, adopted Oct. 20, 2009 deleted the former Ch. 5.04, §§ 5.04.010—5.04-100,

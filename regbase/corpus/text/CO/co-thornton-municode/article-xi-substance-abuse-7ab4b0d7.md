@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 54 - PERSONNEL CODE > ARTICLE XI. - SUBSTANCE ABUSE
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CO_CH54PECO_ARTXISUAB"
 sha256: 73419d45420a7a94f2eeb1b64ee27192cf2e010e14d7d9573ac25a461ea51125
-fetched_at: "2026-09-18T13:15:44+00:00"
+fetched_at: "2026-09-23T05:47:45+00:00"
 ---
 
 (a)

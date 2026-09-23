@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 1 - GENERAL PROVISIONS
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTIICOOR_CH1GEPR"
 sha256: 1b6061bfb76718943ec4a8373bca914e608ed5f8b565b5b862de1475d7c34f3c
-fetched_at: "2026-09-18T17:59:02+00:00"
+fetched_at: "2026-09-23T09:56:52+00:00"
 ---
 
 The ordinances embraced in the following chapters, articles, divisions and sections

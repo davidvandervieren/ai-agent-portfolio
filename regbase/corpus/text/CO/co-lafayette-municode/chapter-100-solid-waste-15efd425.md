@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 100 - SOLID WASTE
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH100SOWA"
 sha256: d1399aae770f40514fca2a7e7b724495aaa8e48f692a4b75ef7c9fe6dbead7eb
-fetched_at: "2026-09-18T12:07:50+00:00"
+fetched_at: "2026-09-23T05:02:44+00:00"
 ---
 
 Editor's note— Ord. No. 2015-09, adopted March 3, 2015, amended ch. 100 in its entirety to read as

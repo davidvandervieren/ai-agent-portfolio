@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE XIV - Prohibited Residency of Certain Sex Offenders
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH10GEOF_ARTXIVPRRECESEOF"
 sha256: 0c01d6e2a73bfc1dce369a72fc409d8525a134aeaa2de565b72f95ab4f0ea757
-fetched_at: "2026-09-18T23:05:02+00:00"
+fetched_at: "2026-09-23T14:18:47+00:00"
 ---
 
 For the purposes of this Article, the following terms have the following meanings:

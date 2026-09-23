@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - WATER AND SEWERS > Chapter 13.28 - SEWER SERVICE—RATES AND BILLING
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT13WASE_CH13.28SESEATBI"
 sha256: adb2cab98170faff6029d8372cec5c37139371ea8c088e5b557b616b4688e7ca
-fetched_at: "2026-09-18T12:51:49+00:00"
+fetched_at: "2026-09-23T05:25:38+00:00"
 ---
 
 Sewer rates for all residential uses, including single-family dwelling units and multiple-family

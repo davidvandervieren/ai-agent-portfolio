@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapters 96—99 - RESERVED
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CHAPTERS_96--99RE"
 sha256: be9c0545dc3ff6efc12d411d2f63f8c0fab2206637426de2a141f1743edff128
-fetched_at: "2026-09-18T12:07:49+00:00"
+fetched_at: "2026-09-23T05:08:18+00:00"
 ---
 
 Editor's note— Formerly, Ch. 98 had contained the Sign Code, substantive sections thereof being §§

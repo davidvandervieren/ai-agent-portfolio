@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHAPTER VI. - MUNICIPAL COURT > 6.1. - Municipal Court.
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHVIMUCO_6.1MUCO"
 sha256: 65a351ecfeb6fe4c954a2046b2892b2dd1f3bb53d30609bc129068056c22e786
-fetched_at: "2026-09-18T13:17:16+00:00"
+fetched_at: "2026-09-23T05:53:11+00:00"
 ---
 
 There shall be a Municipal Court, which shall be a qualified municipal court of record,

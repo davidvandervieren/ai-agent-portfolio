@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE V. - FINANCIAL PROCEDURES
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTICH_ARTVFIPR"
 sha256: 36c8d1557d1ca9475e2fe0899786009f402563ff841b088a809f73be0fda6af1
-fetched_at: "2026-09-18T17:59:25+00:00"
+fetched_at: "2026-09-23T09:57:09+00:00"
 ---
 
 The fiscal year of the City of Durango and all its agencies shall be determined by

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.18 - Fire Department > 2.18.010 - Provision of emergency services through Evans Fire Protection District.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.18FIDE_2.18.010PREMSETHEVFIPRDI"
 sha256: c603c7b8068ae14f5b268d50ded48f3db62eff8301137aa3bb3049ef45a0c52e
-fetched_at: "2026-09-18T21:21:19+00:00"
+fetched_at: "2026-09-23T12:54:15+00:00"
 ---
 
 In November 2011, the City organized the Evans Fire Protection District ("Fire District")

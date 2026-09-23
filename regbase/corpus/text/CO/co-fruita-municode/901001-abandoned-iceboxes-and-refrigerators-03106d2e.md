@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 9 - PUBLIC PEACE, MORALS AND WELFARE > CHAPTER 9.01 - PUBLIC PEACE, MORALS AND WELFARE > 9.01.001 - ABANDONED ICEBOXES AND REFRIGERATORS.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT9PUPEMOWE_CH9.01PUPEMOWE_9.01.001ABICRE"
 sha256: a62500f248e3be571560b8104046eb0bffc7059b2f1f3d561f92c318c655afb4
-fetched_at: "2026-09-18T19:37:25+00:00"
+fetched_at: "2026-09-23T11:10:23+00:00"
 ---
 
 Any person, firm or corporation who intentionally, knowingly, negligently, or recklessly

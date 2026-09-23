@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.23 - 1997 UNIFORM HOUSING CODE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.231997UNHOCO"
 sha256: 7335c3302cfae003ea2dd762caad29872bd6a68a629eace7ddf3e9913e88a462
-fetched_at: "2026-09-18T12:52:34+00:00"
+fetched_at: "2026-09-23T05:26:22+00:00"
 ---
 
 The 1997 Uniform Housing Code, 1997 Edition, published by the International Code Council,

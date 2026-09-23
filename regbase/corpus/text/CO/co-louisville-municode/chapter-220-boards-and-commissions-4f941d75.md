@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.20 - BOARDS AND COMMISSIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.20BOCO"
 sha256: 6b8790938d754c71d63d4e63a7041b905af4c7d84864f9971c60bde66fdbd3f0
-fetched_at: "2026-09-18T12:48:16+00:00"
+fetched_at: "2026-09-23T05:22:03+00:00"
 ---
 
 A.

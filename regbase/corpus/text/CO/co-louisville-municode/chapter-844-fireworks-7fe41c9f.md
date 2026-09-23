@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8.44 - FIREWORKS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.44FI"
 sha256: 3c72e26e9fdb6574c256e200a5159da0a66f7b2800f9997f0c0b7581d15c5c41
-fetched_at: "2026-09-18T12:50:04+00:00"
+fetched_at: "2026-09-23T05:23:55+00:00"
 ---
 
 Cross reference— Uniform Fire Code, ch. 15.12.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE XIV - Historic Preservation
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTXIVHIPR"
 sha256: 25b3d1fadeaea4d0bcc815c2bc94382655945511f45abbf227b76c70a2bf75d9
-fetched_at: "2026-09-18T14:27:39+00:00"
+fetched_at: "2026-09-23T06:25:38+00:00"
 ---
 
 (a)

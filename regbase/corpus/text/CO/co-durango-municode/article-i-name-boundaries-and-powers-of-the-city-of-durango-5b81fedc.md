@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE I. - NAME, BOUNDARIES AND POWERS OF THE CITY OF DURANGO
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTICH_ARTINABOPODU"
 sha256: 4722e3f2219d6555fdd45de66e8b08b60fdea1107726d33f767b6e4df6397edb
-fetched_at: "2026-09-18T17:59:16+00:00"
+fetched_at: "2026-09-23T09:57:00+00:00"
 ---
 
 The municipal corporation now and heretofore existing and known as The City of Durango,

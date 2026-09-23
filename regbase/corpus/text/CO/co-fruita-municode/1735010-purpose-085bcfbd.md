@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - LAND USE CODE > CHAPTER 17.35 - MINERAL EXTRACTION AND MINING OPERATIONS > 17.35.010 - PURPOSE.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT17LAUSCO_CH17.35MIEXMIOP_17.35.010PU"
 sha256: 8a19c162ed798f0e291d6b2138e095d10046b30d13dd78ac4c4da5084e5fe710
-fetched_at: "2026-09-18T19:54:25+00:00"
+fetched_at: "2026-09-23T11:27:24+00:00"
 ---
 
 The purpose of this chapter is to establish reasonable and uniform limitations, safeguards,

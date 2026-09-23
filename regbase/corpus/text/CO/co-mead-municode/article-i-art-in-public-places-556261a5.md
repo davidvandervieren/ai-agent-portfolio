@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 14 - Arts Program > ARTICLE I - Art in Public Places
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH14ARPR_ARTIARPUPL"
 sha256: 545cfedf4f19240c0d52c8e1f8561ffe039d94ccf7ddae945c7ed78c5dd173c1
-fetched_at: "2026-09-18T23:05:26+00:00"
+fetched_at: "2026-09-23T14:19:09+00:00"
 ---
 
 The purpose of this Chapter is to provide a means to fund the acquisition and maintenance

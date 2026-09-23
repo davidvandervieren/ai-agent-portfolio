@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > Chapter 5.18 - SEXUALLY ORIENTED BUSINESSES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT5BULIRE_CH5.18SEORBU"
 sha256: 985853798b3252d9225a62c856f85a42111440070e653cd6a30569bb5f32d156
-fetched_at: "2026-09-18T12:49:18+00:00"
+fetched_at: "2026-09-23T05:23:06+00:00"
 ---
 
 The purpose and intent of this chapter is to regulate sexually oriented businesses

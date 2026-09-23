@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.72 - PLANNED COMMUNITY ZONE DISTRICT
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.72PLCOZODI"
 sha256: 541ca158eccae83727ce8405094ae52406798158b0b49dbc35449de3ab4da872
-fetched_at: "2026-09-18T12:53:45+00:00"
+fetched_at: "2026-09-23T05:27:38+00:00"
 ---
 
 Cross reference— Planned unit development process, ch. 17.28; Commercial Development Design Standards and Guidelines, ch. 17.28, app. A.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 26 - DEVELOPMENT AND ZONING > TABLE 26-D - SCHEDULE OF SIGN REQUIREMENTS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH26DEZO_TABLE_26-DSCSIRE"
 sha256: 5e09e8161296ce9bc6e31fa1f4f3e7bb11beb0783400a966d47e99fb1520a670
-fetched_at: "2026-09-18T12:09:20+00:00"
+fetched_at: "2026-09-23T05:08:35+00:00"
 ---
 
 Zoning District | Class of Sign Permitted | Type of Sign Permitted | Maximum Sign Area per Lot | Maximum Area per Sign Face | Maximum Number of Signs Permitted | Maximum Height of Freestanding Signs

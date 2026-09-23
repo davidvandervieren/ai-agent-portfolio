@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.10 - CITY COUNCIL AND MAYOR > 2.10.010 - MAYOR AND COUNCIL MEMBERS.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT2ADPE_CH2.10CICOMA_2.10.010MACOME"
 sha256: f1fd9d4a72d2c39f40ca257256c9f3a9e32dc9e666c0185fd9da6645ee4f0072
-fetched_at: "2026-09-18T19:23:57+00:00"
+fetched_at: "2026-09-23T10:56:45+00:00"
 ---
 
 Editor's note— Ord. No. 2025-16 , § 1, adopted Aug. 5, 2025, amended Ch. 2.10 in its entirety to read as herein set

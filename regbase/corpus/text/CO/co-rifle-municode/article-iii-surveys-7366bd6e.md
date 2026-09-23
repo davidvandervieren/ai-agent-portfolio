@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 11 - Streets, Sidewalks and Public Property > ARTICLE III - Surveys
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH11STSIPUPR_ARTIIISU"
 sha256: 2926d82a3978a876fc014a0a037d64d7bacd293e8e21fd293cdfbf7d50667627
-fetched_at: "2026-09-18T14:27:09+00:00"
+fetched_at: "2026-09-23T06:25:09+00:00"
 ---
 
 A horizontal plane of reference is hereby made and established in the City, to which

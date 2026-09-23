@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 7 - Health, Sanitation and Animals > ARTICLE IV - Weeds, Brush and Grasses
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH7HESAAN_ARTIVWEBRGR"
 sha256: 73981afb6e1ab09cda8159570424003bd44a05e9e09f945bdc7608a81187f50a
-fetched_at: "2026-09-18T23:04:11+00:00"
+fetched_at: "2026-09-23T14:17:56+00:00"
 ---
 
 The Board of Trustees is appointed to act as the Undesirable Plant Management Advisory

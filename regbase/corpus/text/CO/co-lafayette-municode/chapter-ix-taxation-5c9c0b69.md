@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > Chapter IX TAXATION
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=CH_CHIXTA"
 sha256: 32e57b9eea2ba51a8feb963d0510d168038ef919c15ba13d16f2d605f46af559
-fetched_at: "2026-09-18T12:08:33+00:00"
+fetched_at: "2026-09-23T05:03:02+00:00"
 ---
 
 Until the Council shall otherwise provide by ordinance, the County Treasurer shall

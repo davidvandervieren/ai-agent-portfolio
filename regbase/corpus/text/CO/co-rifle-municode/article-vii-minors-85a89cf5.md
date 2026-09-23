@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE VII - Minors
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH10GEOF_ARTVIIMI"
 sha256: 35a3765ba2251297166e8124eeacb3e0c2b88a2e5a563c86e4fce9cfe2ae337e
-fetched_at: "2026-09-18T14:26:55+00:00"
+fetched_at: "2026-09-23T06:24:53+00:00"
 ---
 
 (a)

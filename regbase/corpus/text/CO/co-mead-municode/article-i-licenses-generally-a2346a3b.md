@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE I - Licenses Generally
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH6BULIRE_ARTILIGE"
 sha256: 4c74949d1907b5082d4d8240d3ee360af9ff4fc966c488b525e02f30db1d34e1
-fetched_at: "2026-09-18T23:03:51+00:00"
+fetched_at: "2026-09-23T14:17:38+00:00"
 ---
 
 Whenever any person, firm, partnership or corporation engages in the operation or

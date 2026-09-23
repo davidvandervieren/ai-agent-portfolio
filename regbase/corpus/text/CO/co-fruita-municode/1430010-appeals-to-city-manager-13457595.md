@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 14 - STORMWATER MANAGEMENT > CHAPTER 14.30 - APPEALS > 14.30.010 - APPEALS TO CITY MANAGER.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT14STMA_CH14.30AP_14.30.010APMA"
 sha256: a6f33ef22620a6eeb9b6802c2092cbfce51272c5eb568166ac0ad07edfde03e9
-fetched_at: "2026-09-18T19:48:07+00:00"
+fetched_at: "2026-09-23T11:21:02+00:00"
 ---
 
 Any person wishing to appeal any decision, action, administrative order, assessment

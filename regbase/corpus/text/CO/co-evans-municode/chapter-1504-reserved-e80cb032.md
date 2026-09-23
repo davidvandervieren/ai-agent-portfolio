@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - Buildings and Construction > CHAPTER 15.04 - Reserved
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT15BUCO_CH15.04RE"
 sha256: 84f76856c03003d886ed4649e3c8f698d7dc9b1ecf9fe909f00df431331c4464
-fetched_at: "2026-09-18T21:13:56+00:00"
+fetched_at: "2026-09-23T12:46:57+00:00"
 ---
 
 Editor's note— Repealed by Ordinance No. 548-12 §1.

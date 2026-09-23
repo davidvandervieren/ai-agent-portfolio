@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE III - Offenses Against the Person
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH10GEOF_ARTIIIOFAGPE"
 sha256: b431b8e08034f1b862f6c381bacb66ccd001c672a2425d26092f186db49fc486
-fetched_at: "2026-09-18T23:04:39+00:00"
+fetched_at: "2026-09-23T14:18:24+00:00"
 ---
 
 A person commits the crime of menacing if, by any threat or physical action, he or

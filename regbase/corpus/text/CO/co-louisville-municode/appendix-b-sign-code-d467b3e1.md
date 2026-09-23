@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > APPENDIX B - SIGN CODE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_APXBSICO"
 sha256: abd83cc26dcdc32e10ecad666993f4e2cb2c1d7c94ae52216da8bccaa7722d8d
-fetched_at: "2026-09-18T12:53:51+00:00"
+fetched_at: "2026-09-23T05:27:43+00:00"
 ---
 
 Printed herein is the Sign Code of the city, Ordinance No. 1779-2019, as adopted October

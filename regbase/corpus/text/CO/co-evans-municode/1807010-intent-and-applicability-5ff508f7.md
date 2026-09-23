@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 18 - Land Development Code > CHAPTER 18.07 - Access & Parking > 18.07.010 - Intent and applicability.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT18LADECO_CH18.07ACPA_18.07.010INAP"
 sha256: e663c6cfd672bd22b2790b4082e05aa43314f6b0bd5f38d46ca0420d0b762c85
-fetched_at: "2026-09-18T21:50:51+00:00"
+fetched_at: "2026-09-23T13:23:09+00:00"
 ---
 
 Editor's note— Ord. 804-23 , § 2(Exh. A), adopted Oct. 17, 2023, repealed the former Ch. 18.07, §§ 18.07.010—18.07.130,

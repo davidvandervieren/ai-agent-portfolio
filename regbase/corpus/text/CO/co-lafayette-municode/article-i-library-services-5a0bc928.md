@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 50 - LIBRARY > ARTICLE I. - LIBRARY SERVICES
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH50LI_ARTILISE"
 sha256: 4b4704c6b7113b2b8df72560af7c871acc4497e67e9359df4e8e04b6f83b7ffd
-fetched_at: "2026-09-18T12:09:46+00:00"
+fetched_at: "2026-09-23T05:04:42+00:00"
 ---
 
 Editor's note— Section 4 of Ord. No. 2011-33, adopted Sept. 20, 2011, retitled Ch. 50, Community

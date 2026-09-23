@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.28 - Municipal Court > Article I - Establishment and Organization > 2.28.010 - Definitions.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.28MUCO_ARTIESOR_2.28.010DE"
 sha256: 5a1c8b7b5541e5007b6450c85d26937b16665720e3a739f93cd4ec4770de6406
-fetched_at: "2026-09-18T21:55:02+00:00"
+fetched_at: "2026-09-23T13:27:15+00:00"
 ---
 
 As used in this Chapter:

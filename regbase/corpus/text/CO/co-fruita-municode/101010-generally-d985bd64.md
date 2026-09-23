@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 1 - GENERAL PROVISIONS > Chapter 1.01 - CODE ADOPTION > 1.01.010 - GENERALLY.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT1GEPR_CH1.01COAD_1.01.010GE"
 sha256: 7e76bd3952442e06da89a6a860d5770ebae486139e72d3714fae9020047c5dd7
-fetched_at: "2026-09-18T19:23:03+00:00"
+fetched_at: "2026-09-23T10:55:53+00:00"
 ---
 
 The Fruita Municipal Code as promulgated by the City of Fruita, Colorado, is adopted

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.37 - PRIVATE PATROL SYSTEMS > 2.37.010 - DEFINITIONS.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT2ADPE_CH2.37PRPASY_2.37.010DE"
 sha256: 81f400dbd340ff8f366d0f4e8c0058d25ef1754bcb7cf0dc7fcd57ad705a5e17
-fetched_at: "2026-09-18T19:25:23+00:00"
+fetched_at: "2026-09-23T10:58:13+00:00"
 ---
 
 For the purpose of this chapter the words "patrol service" and "patrol system" shall

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 7 - Health, Sanitation and Animals > ARTICLE VII - Farm and Ranch Policy
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH7HESAAN_ARTVIIFARAPO"
 sha256: 94dc42986c5f912cb32751c1def1ff5011c5e1a94a0f4ac1fe182da9932418c0
-fetched_at: "2026-09-18T23:04:17+00:00"
+fetched_at: "2026-09-23T14:18:02+00:00"
 ---
 
 For the purposes of this Article, certain words and phrases shall be defined as follows,

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.44 - AMENDMENTS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.44AM"
 sha256: 6ad7f7e876450ec2c778785613ee5d4cecda53b5960783f928aa5ba95fce532a
-fetched_at: "2026-09-18T12:53:29+00:00"
+fetched_at: "2026-09-23T05:27:22+00:00"
 ---
 
 An amendment to the text or the zoning map of the ordinance codified in this title

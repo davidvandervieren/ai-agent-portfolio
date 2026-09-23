@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 7 - MOTOR VEHICLES AND TRAFFIC
 url: "https://library.municode.com/co/bayfield/codes/code_of_ordinances?nodeId=CO_CH7MOVETR"
 sha256: 7b3731143b4e6fed884133b815080ec0f639991fd9e50498162fde4588ca7f86
-fetched_at: "2026-09-18T18:33:03+00:00"
+fetched_at: "2026-09-23T10:11:26+00:00"
 ---
 
 Cross reference— Animals and fowl, Ch. 3; licenses and business regulations, Ch. 5; mobile homes, Ch. 6; streets and sidewalks, Ch. 13; off-street parking for commercial buildings, § 4-1; parking in mobile home parks and/or subdivisions, § 6-25; sound trucks, § 9-13; obstructing street, § 9-26.

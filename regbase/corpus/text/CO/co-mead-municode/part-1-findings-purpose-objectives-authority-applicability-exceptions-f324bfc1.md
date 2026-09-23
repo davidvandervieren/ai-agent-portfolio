@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE VII - Sign Code > Part 1. - Findings - Purpose - Objectives - Authority - Applicability - Exceptions
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH16LAUSCO_ARTVIISICO_PT1FIURBJUTPPXC"
 sha256: f5fae168dfe1ebd3a8611d30224df14109add0bf552c108d89f3099061c15e35
-fetched_at: "2026-09-18T23:06:39+00:00"
+fetched_at: "2026-09-23T14:20:21+00:00"
 ---
 
 Editor's note— Ord. 933 , §2(Exh. A), adopted in 2020, repealed the former Art. VII, §§ 16-7-10—16-7-130,

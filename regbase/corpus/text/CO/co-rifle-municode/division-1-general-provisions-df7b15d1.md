@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE I - Cable Television System Franchise > Division 1 - General Provisions
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH5FRCOSY_ARTICATESYFR_DIV1GEPR"
 sha256: 5461eab57256c3371e8a0812324dc9b97d2b8bc9936ceebe334e4c002af9b630
-fetched_at: "2026-09-18T14:33:14+00:00"
+fetched_at: "2026-09-23T06:26:58+00:00"
 ---
 
 (a)

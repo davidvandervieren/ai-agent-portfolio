@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3.24 - TAX AND FEE BUSINESS ASSISTANCE PROGRAM
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT3REFI_CH3.24TAFEBUASPR"
 sha256: b8552df084445c1e0e421b0cd200aa87728ff481986a83281e0cccab5631326e
-fetched_at: "2026-09-18T12:48:42+00:00"
+fetched_at: "2026-09-23T05:22:31+00:00"
 ---
 
 There is established within the city a Tax and Fee Business Assistance Program ("BAP").

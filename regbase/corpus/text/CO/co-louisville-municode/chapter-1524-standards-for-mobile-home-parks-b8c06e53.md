@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.24 - STANDARDS FOR MOBILE HOME PARKS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.24STMOHOPA"
 sha256: b5c0c62677403fae8858d8d1aaaeaf476ce2dbdd39602c87e16d47034f3a1e5c
-fetched_at: "2026-09-18T12:52:35+00:00"
+fetched_at: "2026-09-23T05:26:24+00:00"
 ---
 
 Editor's note— Ord. No. 1655-2014, § 2, adopted Feb. 2, 2014, repealed the former ch. 15.24, §§ 15.24.010—15.24.170,

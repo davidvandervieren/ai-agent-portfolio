@@ -10,7 +10,7 @@ doc_type: code
 citation_root: ARTICLE 3 - GENERAL DEVELOPMENT STANDARDS > Division 3.5 - Building Standards > 3.5.1 - Building and Project Compatibility
 url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART3GEDEST_DIV3.5BUST_3.5.1BUPRCO"
 sha256: f6f42203959ebbbb0cedf0edd979a1b781d6db0d1aed242e5ad5a494ad830ee0
-fetched_at: "2026-09-18T20:16:28+00:00"
+fetched_at: "2026-09-23T15:15:04+00:00"
 ---
 
 Note: These building standards should be read in conjunction with the zone district

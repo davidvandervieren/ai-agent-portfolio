@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF RIFLE HOME RULE CHARTER > ARTICLE III - CITY COUNCIL > 3.1 - CITY COUNCIL
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CIRIHORUCH_ARTIIICICO_3.1CICO"
 sha256: 07c9a6430ed035ed08cdf22a68ddc9534f4b39b35708efe46c8a9a934ee451d3
-fetched_at: "2026-09-18T14:28:48+00:00"
+fetched_at: "2026-09-23T06:29:27+00:00"
 ---
 
 All powers of the City not otherwise limited or conferred upon others by this Charter

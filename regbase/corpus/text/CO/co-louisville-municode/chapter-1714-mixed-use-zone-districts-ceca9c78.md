@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.14 - MIXED USE ZONE DISTRICTS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.14MIUSZODI"
 sha256: 047e5674cd9a5271f6f57e8072b770cf46f679f80c8914959909a68082aa2a40
-fetched_at: "2026-09-18T12:53:15+00:00"
+fetched_at: "2026-09-23T05:27:04+00:00"
 ---
 
 Major improvements to State Highway 42 and the potential development of a commuter

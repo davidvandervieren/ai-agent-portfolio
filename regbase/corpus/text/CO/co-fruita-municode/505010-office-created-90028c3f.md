@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > CHAPTER 5.05 - LICENSING OFFICER > 5.05.010 - OFFICE CREATED.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT5BULIRE_CH5.05LIOF_5.05.010OFCR"
 sha256: d6f5a3c16cc2507c30e1bf992067b0b425b44ae50e7237a2758bada046b4511b
-fetched_at: "2026-09-18T19:30:59+00:00"
+fetched_at: "2026-09-23T11:03:58+00:00"
 ---
 
 The office of Licensing Officer is hereby created.

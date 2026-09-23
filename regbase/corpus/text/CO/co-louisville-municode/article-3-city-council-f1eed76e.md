@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER - FOR THE CITY OF LOUISVILLE, COLORADO > ARTICLE 3. - CITY COUNCIL
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=CHTRFOLOCO_ART3CICO"
 sha256: 19788129396915b17bbd6530594c99ae65226341bcf0d0e36da70ed5c93b9c9c
-fetched_at: "2026-09-18T12:47:08+00:00"
+fetched_at: "2026-09-23T05:20:59+00:00"
 ---
 
 (a)

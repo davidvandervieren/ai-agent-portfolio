@@ -10,7 +10,7 @@ doc_type: code
 citation_root: "CHARTER > Chapter VI THE COUNCIL: PROCEDURE AND MISCELLANEOUS POWERS AND DUTIES"
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=CH_CHVICOPRMIPODU"
 sha256: edaa69d4dc2a42495eb5b1be4a3f02a49b7e83e17619bad444a48d364fd830bf
-fetched_at: "2026-09-18T12:08:25+00:00"
+fetched_at: "2026-09-23T05:02:56+00:00"
 ---
 
 The Council shall provide by resolution for the time and place of its regular meetings

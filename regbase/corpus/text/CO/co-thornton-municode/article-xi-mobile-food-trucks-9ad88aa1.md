@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 42 - LICENSES, PERMITS AND BUSINESSES > ARTICLE XI. - MOBILE FOOD TRUCKS
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CO_CH42LIPEBU_ARTXIMOFOTR"
 sha256: bed0c3476ba3243885732638e0298b6846f7418fc3e748ca5cc7f4c25b398873
-fetched_at: "2026-09-18T13:15:42+00:00"
+fetched_at: "2026-09-23T05:47:21+00:00"
 ---
 
 The purpose of this article is to establish operating requirements for mobile food

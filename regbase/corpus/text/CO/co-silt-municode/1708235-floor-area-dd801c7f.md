@@ -1,0 +1,19 @@
+---
+source_id: co-silt-municode
+jurisdiction: Silt, CO
+state: CO
+county: Garfield
+municipality: Silt
+agency: Town of Silt
+title: 17.08.235 - Floor area.
+doc_type: code
+citation_root: Title 17 - ZONING > Chapter 17.08 - DEFINITIONS > 17.08.235 - Floor area.
+url: "https://library.municode.com/co/silt/codes/?nodeId=TIT17ZO_CH17.08DE_17.08.235FLAR"
+sha256: 27642057249597312348f621f1002326520773dcf36454893b71b189b6ea4633
+fetched_at: "2026-09-23T08:05:54+00:00"
+---
+
+17.08.235 - Floor area.
+"Floor area" means the sum of the horizontal area of a structure, measured as described
+in the building code adopted by the town.
+(Ord. 3-05 (part))

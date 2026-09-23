@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER XIV - Public Property > SECTION I - Sidewalks
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHXIVPUPR_SISI"
 sha256: f806cab170278fe962ee3b7f22cfa842c0ff8a66f40049850e6d50d9e816700e
-fetched_at: "2026-09-18T22:36:45+00:00"
+fetched_at: "2026-09-23T13:53:39+00:00"
 ---
 
 From and after the enactment of this Chapter XIV, Section I, it shall be the duty

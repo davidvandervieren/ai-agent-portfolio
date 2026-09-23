@@ -10,7 +10,7 @@ doc_type: code
 citation_root: ARTICLE 3 - GENERAL DEVELOPMENT STANDARDS > Division 3.3 - Engineering Standards > 3.3.1 - Plat and Development Plan Standards
 url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART3GEDEST_DIV3.3ENST_3.3.1PLDEPLST"
 sha256: e787f1c80ff8aebcd6e936a643882b34b3da426c6205f6b6e8ea2a855031f10e
-fetched_at: "2026-09-18T20:16:00+00:00"
+fetched_at: "2026-09-23T15:14:36+00:00"
 ---
 
 Sections:

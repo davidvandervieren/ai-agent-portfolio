@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Home Rule Charter > CHAPTER III. - Council—Mayor > 3.1 - City Council.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=HORUCH_CHIIICOAY_3.1CICO"
 sha256: 7f6ce52d4668c3502cdd339affd0ecd7c189342d8f93f33a8e564ce565594bb1
-fetched_at: "2026-09-18T21:14:25+00:00"
+fetched_at: "2026-09-23T12:47:26+00:00"
 ---
 
 The City Council shall consist of seven members, one of whom shall serve as Mayor.

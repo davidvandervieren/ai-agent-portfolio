@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 11 - POLICE DEPARTMENT
 url: "https://library.municode.com/co/bayfield/codes/code_of_ordinances?nodeId=CO_CH11PODE"
 sha256: 3b4962b5af9c43b8249630a22c2eead1ba023f862e0704626eb3140832c565e5
-fetched_at: "2026-09-18T18:33:05+00:00"
+fetched_at: "2026-09-23T10:11:28+00:00"
 ---
 
 Cross reference— Administration, Ch. 2; municipal court, Ch. 8; offenses—miscellaneous, Ch. 9; resisting officer, § 9-15.

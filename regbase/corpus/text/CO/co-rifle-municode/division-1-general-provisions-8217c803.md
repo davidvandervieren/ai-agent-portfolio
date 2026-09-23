@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE III - Purchasing > Division 1 - General Provisions
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH4REFI_ARTIIIPU_DIV1GEPR"
 sha256: d71612a718d70316c4a540da2a92ca716e7ac97e822281667374c28c5d3f8ff5
-fetched_at: "2026-09-18T14:32:46+00:00"
+fetched_at: "2026-09-23T06:26:30+00:00"
 ---
 
 Editor's note— Ord. No. 7 of 2022 repealed former Art. III, §§ 4-3-10—4-3-130, in its entirety and

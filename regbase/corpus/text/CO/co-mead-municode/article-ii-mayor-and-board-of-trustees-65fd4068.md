@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration and Personnel > ARTICLE II - Mayor and Board of Trustees
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH2ADPE_ARTIIMABOTR"
 sha256: 3fc503df63bdf05377f25e4e42cc21730a99d2774c2621443c1d18c2c497042b
-fetched_at: "2026-09-18T23:02:59+00:00"
+fetched_at: "2026-09-23T14:16:55+00:00"
 ---
 
 The legislative and corporate authority of the Town is by state law vested in a Board

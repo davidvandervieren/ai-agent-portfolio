@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 12 - PUBLIC IMPROVEMENTS > CHAPTER 12.04 - CONSTRUCTION AND REPAIR OF PUBLIC IMPROVEMENTS > 12.04.010 - CONSTRUCTION OF SIDEWALKS AND SEWERS—WHEN CITY PETITIONED.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT12PUIM_CH12.04COREPUIM_12.04.010COSISEHEPE"
 sha256: f5b307e230dd8c859f848e2ba9568bed99ceb80488611bf289c8f679c7031783
-fetched_at: "2026-09-18T19:41:26+00:00"
+fetched_at: "2026-09-23T11:14:27+00:00"
 ---
 
 When the owners of sixty (60) percent of the frontage of the lots or lands adjacent

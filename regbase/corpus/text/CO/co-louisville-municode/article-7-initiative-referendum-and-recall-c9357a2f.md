@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER - FOR THE CITY OF LOUISVILLE, COLORADO > ARTICLE 7. - INITIATIVE, REFERENDUM, AND RECALL
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=CHTRFOLOCO_ART7INRERE"
 sha256: fb955d9f23c507c7094c28922ec5fe985afd33858ec1384d78363adff86a147c
-fetched_at: "2026-09-18T12:47:16+00:00"
+fetched_at: "2026-09-23T05:21:07+00:00"
 ---
 
 (a)

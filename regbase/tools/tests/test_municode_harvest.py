@@ -53,6 +53,20 @@ TREE = {
     "PTIICOOR_TIT24DECO_CH11SUST_ARTIGE": [
         {"Id": "PTIICOOR_TIT24DECO_CH11SUST_ARTIGE_S24-1101PU", "Heading": "Sec. 24-1101. - Purpose."}],
 }
+# A second code the same city publishes as its own product, the way Fort
+# Collins keeps a Land Use Code beside its Municipal Code.
+LU_TREE = {
+    "": [{"Id": "LUCO_ART3GEDEST", "Heading": "ARTICLE 3 - GENERAL DEVELOPMENT STANDARDS"}],
+    "LUCO_ART3GEDEST": [
+        {"Id": "LUCO_ART3GEDEST_DIV312OIGA", "Heading": "DIVISION 3.12 - OIL AND GAS FACILITIES"}],
+    "LUCO_ART3GEDEST_DIV312OIGA": [
+        {"Id": "LUCO_ART3GEDEST_DIV312OIGA_S3121PU", "Heading": "3.12.1 - Purpose"}],
+}
+LU_CONTENT = {
+    "LUCO_ART3GEDEST_DIV312OIGA":
+        "<h2>3.12.1 - Purpose</h2><p>Oil and gas facilities and pipelines shall meet the "
+        "setback and performance standards of this division before a permit issues. " * 3 + "</p>",
+}
 CONTENT = {
     "PTIICOOR_TIT22BUCO_CH16OIGAEXWEDR":
         "<h2>Sec. 22-401. - Purpose</h2><p>This chapter governs oil and gas exploration "
@@ -71,6 +85,7 @@ CONTENT = {
 PAGE = (b"<html><body><h1>Code Library</h1><script>"
         b"fetch('/api/codesToc?jobId=493697&productId=18000',{headers:{'x-csrf':'tok'}});"
         b"</script></body></html>")
+LU_PAGE = PAGE.replace(b"jobId=493697&productId=18000", b"jobId=500001&productId=18001")
 PLAIN = b"<html><body><h1>Oil & Gas | Erie</h1><p>" + b"The Town of Erie regulates oil and gas facilities through its Unified Development Code. " * 6 + b"</p></body></html>"
 
 probed: list[str] = []
@@ -79,9 +94,9 @@ probed: list[str] = []
 fetched: list[str] = []
 
 
-def chapter_of(node: str) -> str:
+def chapter_of(node: str, content: dict = CONTENT) -> str:
     """Municode answers with the enclosing chapter for any node asked."""
-    while node and node not in CONTENT:
+    while node and node not in content:
         node = node.rsplit("_", 1)[0] if "_" in node else ""
     return node
 
@@ -93,17 +108,21 @@ class H(http.server.BaseHTTPRequestHandler):
             if self.headers.get("x-csrf") != "tok":
                 self.send_response(401); self.end_headers(); self.wfile.write(b"unauthorized"); return
             node = q.get("nodeId", [""])[0]
+            second = q.get("productId", [""])[0] == "18001"
+            tree, content = (LU_TREE, LU_CONTENT) if second else (TREE, CONTENT)
             if node.startswith("PTIICOOR_TIT24DECO_CH13BR") and "CodesContent" in u.path:
                 self.send_response(500); self.end_headers(); self.wfile.write(b"boom"); return
             if "codesToc" in u.path:
                 probed.append(node)
-                body = json.dumps({"Children": TREE.get(node, [])}).encode()
+                body = json.dumps({"Children": tree.get(node, [])}).encode()
             else:
                 fetched.append(node)
-                body = json.dumps({"Docs": [{"Html": CONTENT.get(chapter_of(node), "")}]}).encode()
+                body = json.dumps({"Docs": [{"Html": content.get(chapter_of(node, content), "")}]}).encode()
             ctype = "application/json"
         elif u.path.startswith("/plain"):
             body, ctype = PLAIN, "text/html"
+        elif "/codes/land_use" in u.path:
+            body, ctype = LU_PAGE, "text/html"
         else:
             body, ctype = PAGE, "text/html"
         self.send_response(200)
@@ -147,12 +166,28 @@ def main() -> int:
             # the registry sometimes carries the same page in a different case
             {"title": "Chapter 18 - Oil and Gas Operations", "url": f"{base}/CO/Greeley/codes/Code_of_Ordinances?nodeId=PTIICOOR_TIT24DECO_CH11SUST", "doc_type": "code", "format": "html"},
             {"title": "Oil & Gas | Erie-style page", "url": f"{base}/plain", "doc_type": "guidance", "format": "html"},
+            # a second code, published as its own Municode product
+            {"title": "Land Use Code | Greeley (Municode)", "url": f"{base}/co/greeley/codes/land_use", "doc_type": "code", "format": "html"},
         ])
 
     failed = 0
     def check(label, ok):
         nonlocal failed
         print(f"{'PASS' if ok else 'FAIL'}  {label}"); failed += not ok
+
+    # Johnstown lists its code page and a landing page that names only the
+    # client. The landing page is not a second code, and stands in only when
+    # no code page is listed at all.
+    jt = common.Source(id="co-johnstown-municode", jurisdiction_level="municipal", state="CO",
+                       municipality="Johnstown", name="Johnstown Municipal Code",
+                       code_platform="municode", landing_url=f"{base}/co/johnstown",
+                       documents=[{"title": "Ch. 17", "url": f"{base}/co/johnstown/codes/municipal_code?nodeId=CH17SU",
+                                   "doc_type": "code", "format": "html"}])
+    check("a client landing page beside a code page is not a second code",
+          harvest._municode_pages(jt) == [f"{base}/co/johnstown/codes/municipal_code"])
+    jt.documents = []
+    check("the landing page stands in when no code page is listed",
+          harvest._municode_pages(jt) == [f"{base}/co/johnstown"])
 
     stale_dir = common.TEXT_DIR / "CO" / "co-greeley-municode"
     stale_dir.mkdir(parents=True, exist_ok=True)
@@ -174,7 +209,8 @@ def main() -> int:
     files = sorted(text_dir.glob("*.md")) if text_dir.exists() else []
     bodies = {f.name: f.read_text(encoding="utf-8") for f in files}
 
-    check("three units harvested via API (2 chapters + 1 article)", stats.get("api_chapters") == 3)
+    check("four units harvested via API (2 chapters + 1 article + 1 division of the second code)",
+          stats.get("api_chapters") == 4)
     check("no section was ever fetched for content",
           not any(municode.is_section(n) for n in fetched))
     check("stale shell from an earlier fetch was removed", not stale.exists())
@@ -189,7 +225,7 @@ def main() -> int:
           any("CHAPTER 13" in h and "500" in e for _, h, _, e in harvest.MUNICODE_FAILURES))
     check("sections were never probed for children",
           not any(municode.is_section(n) for n in probed))
-    check("chapter text files written", len(files) == 4)   # 2 chapters + article + plain page
+    check("chapter text files written", len(files) == 5)   # 2 chapters + article + division + plain page
     ch16 = next((b for b in bodies.values() if "22-402" in b), "")
     check("chapter 16 content includes its sections", "1,000" in ch16 and "22-401" in ch16)
     check("citation carries the heading path",
@@ -201,6 +237,14 @@ def main() -> int:
           any("Town of Erie regulates" in b for b in bodies.values()))
     check("Municode-hosted documents not fetched twice, whatever their case",
           stats["fetched"] == 1)
+    lu = next((b for b in bodies.values() if "3.12.1" in b), "")
+    check("the second code was harvested through its own session",
+          "setback and performance standards" in lu
+          and "/co/greeley/codes/land_use?nodeId=LUCO_ART3GEDEST_DIV312OIGA" in lu)
+    check("the second code did not wipe the first code's chapters",
+          "22-402" in ch16 and any("24-1102" in b for b in bodies.values()))
+    check("the second code's page was not also fetched as a plain document",
+          not any("Code Library" in b for b in bodies.values()))
 
     # The harvested chapters must reach the index, not just the disk.
     import build_index
@@ -209,8 +253,12 @@ def main() -> int:
     istats = build_index.index_documents(con, [src], common.manifest_read())
     hits = con.execute("SELECT COUNT(*) FROM chunks WHERE text LIKE '%22-402%'").fetchone()[0]
     con.close()
+    # The registry's whole-code entry for the second product (".../codes/land_use")
+    # has no text of its own: the API harvest represents it as chapters. It
+    # counts as the one document without text, as any whole-code entry does.
     check("harvested chapters are indexed beside the registry's documents",
-          istats.get("harvested") == 2 and istats["chunked"] == 4 and istats["missing_text"] == 0)
+          istats.get("harvested") == 3 and istats["chunked"] == 5
+          and istats["missing_text"] == 1)
     check("a chapter the registry never listed is searchable", hits >= 1)
 
     print("\n" + ("whole-code Municode harvest works end to end"

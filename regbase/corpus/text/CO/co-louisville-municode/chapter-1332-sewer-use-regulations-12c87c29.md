@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - WATER AND SEWERS > Chapter 13.32 - SEWER USE REGULATIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT13WASE_CH13.32SEUSRE"
 sha256: 7e41c10fb10e02843cdd8aa6f118af307307e9f81bea04608e5528c2d4126592
-fetched_at: "2026-09-18T12:51:51+00:00"
+fetched_at: "2026-09-23T05:25:40+00:00"
 ---
 
 This chapter sets forth uniform requirements for direct and indirect contributors

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.06 - Board and Commissions - Compensation - Expenses > 2.06.010 - Compensation.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.06BOCOOMXP_2.06.010CO"
 sha256: 3992963cb29521a736ea4e2c8abfe779ff3afc655a3e4aa7c572545c5277ecaf
-fetched_at: "2026-09-18T21:20:35+00:00"
+fetched_at: "2026-09-23T12:53:33+00:00"
 ---
 
 No member of any board or commission of the City shall receive any compensation for

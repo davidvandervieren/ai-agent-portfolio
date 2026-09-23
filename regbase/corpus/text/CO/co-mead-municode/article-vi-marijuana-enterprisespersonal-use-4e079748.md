@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE VI - Marijuana Enterprises—Personal Use
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH6BULIRE_ARTVIMAENERUS"
 sha256: a167fae20b1624a78219df34cd962004346417493a63de42d73bc4fa9bd52678
-fetched_at: "2026-09-18T23:04:01+00:00"
+fetched_at: "2026-09-23T14:17:46+00:00"
 ---
 
 It is the intent of this Article to prohibit certain land uses related to marijuana

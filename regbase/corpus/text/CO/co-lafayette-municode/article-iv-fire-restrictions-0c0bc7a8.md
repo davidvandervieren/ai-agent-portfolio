@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 45 - FIRE PREVENTION AND PROTECTION > ARTICLE IV. - FIRE RESTRICTIONS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH45FIPRPR_ARTIVFIRE"
 sha256: 55e62f8c207ee00474751350bdfe1777307859a57c8bd93f82169d66af736f0f
-fetched_at: "2026-09-18T12:09:44+00:00"
+fetched_at: "2026-09-23T05:04:40+00:00"
 ---
 
 Charter reference— Fire department, § 4.11.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE X - RV and Travel Trailer Parks and Campgrounds
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTXRVTRTRPACA"
 sha256: 42a4583947a161d9e620c20ebf696d0a8e4bc1bb856d0f00443dc2a510364113
-fetched_at: "2026-09-18T14:27:31+00:00"
+fetched_at: "2026-09-23T06:25:30+00:00"
 ---
 
 Recreational vehicle/travel trailer parks and campground standards are intended to

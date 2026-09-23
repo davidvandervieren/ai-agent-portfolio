@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > Chapter 5.06 - SOLICITORS AND VENDORS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT5BULIRE_CH5.06SOVE"
 sha256: 1010be87d2dd9686a5eba7027cdb8ae2120467ba02e64cb5edcd0dd97bf7eed5
-fetched_at: "2026-09-18T12:49:05+00:00"
+fetched_at: "2026-09-23T05:22:53+00:00"
 ---
 
 Editor's note— Ord. No. 1759-2018, § 1, adopted June 5, 2018, repealed the former Ch. 5.06, §§ 5.06.010—5.06.070,

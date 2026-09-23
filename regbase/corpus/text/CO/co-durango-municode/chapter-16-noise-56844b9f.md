@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 16 - NOISE
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTIICOOR_CH16NO"
 sha256: fc60670fcb11f02a5c07b19cc5f0f619397e74b6eba4b4a600e2c1a59416e5e3
-fetched_at: "2026-09-18T17:59:09+00:00"
+fetched_at: "2026-09-23T09:56:58+00:00"
 ---
 
 Editor's note— Ord. No. O-2007-46, § 1, adopted Dec. 18, 2007, repealed the former Ch. 16, §§ 16-1—16-18,

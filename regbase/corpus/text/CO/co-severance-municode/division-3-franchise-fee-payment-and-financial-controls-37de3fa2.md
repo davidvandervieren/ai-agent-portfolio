@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE 1 - Cable Television Franchise > Division 3 - Franchise Fee Payment and Financial Controls
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH5FRCOSY_ART1CATEFR_DIV3FRFEPAFICO"
 sha256: ef79bc0ea4077ce8a8026a7c570281b039b673f8f84615a4542fd3b90d30feae
-fetched_at: "2026-09-18T22:53:21+00:00"
+fetched_at: "2026-09-23T14:06:53+00:00"
 ---
 
 (a)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE V - Telephone Utilities Tax
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH4REFI_ARTVTEUTTA"
 sha256: 39e07c8890982df4097608da28259f8cf30c72d23414e46a96422c41ed979420
-fetched_at: "2026-09-18T14:26:00+00:00"
+fetched_at: "2026-09-23T06:23:58+00:00"
 ---
 
 There is levied on and against each telephone utility company operating within the

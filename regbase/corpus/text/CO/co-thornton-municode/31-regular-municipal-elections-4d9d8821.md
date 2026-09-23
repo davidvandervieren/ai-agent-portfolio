@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHAPTER III. - ELECTIONS > 3.1. - Regular municipal elections.
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHIIIEL_3.1REMUEL"
 sha256: 100f0cf4dad39899ee6a353fb68f0a5d7fcdd9dc4f43370946a92315189a313f
-fetched_at: "2026-09-18T13:15:59+00:00"
+fetched_at: "2026-09-23T05:51:59+00:00"
 ---
 
 Regular municipal elections shall be held on the first Tuesday in November in the

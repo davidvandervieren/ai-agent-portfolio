@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.60 - TEMPORARY USE PERMIT
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.60TEUSPE"
 sha256: dac6380c449b41f1e9f4ee15578f01506a2d93f0c0ac02c3e503924be94500cf
-fetched_at: "2026-09-18T12:53:39+00:00"
+fetched_at: "2026-09-23T05:27:32+00:00"
 ---
 
 Cross reference— General regulations, ch. 17.16; temporary uses, § 17.16.180; administration and enforcement, ch. 17.52.

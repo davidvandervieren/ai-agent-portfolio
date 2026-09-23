@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapters 116—119 - RESERVED
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CHAPTERS_116--119RE"
 sha256: 8948d5d10a866472bfbf4cd7a15eb9f6f2eab73fbc4a9e80f898f73a1dc41799
-fetched_at: "2026-09-18T12:07:58+00:00"
+fetched_at: "2026-09-23T05:08:26+00:00"
 ---
 
 Chapters 116—119 - RESERVED

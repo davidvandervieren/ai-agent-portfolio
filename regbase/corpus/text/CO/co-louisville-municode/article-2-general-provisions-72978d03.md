@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER - FOR THE CITY OF LOUISVILLE, COLORADO > ARTICLE 2. - GENERAL PROVISIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=CHTRFOLOCO_ART2GEPR"
 sha256: 4df4dad5ec1cb84d62d18d12f281efc9318461f716e1e10d9cc2ca7d2040f1cc
-fetched_at: "2026-09-18T12:47:06+00:00"
+fetched_at: "2026-09-23T05:20:57+00:00"
 ---
 
 The Colorado municipal corporation now existing as the "City of Louisville" shall

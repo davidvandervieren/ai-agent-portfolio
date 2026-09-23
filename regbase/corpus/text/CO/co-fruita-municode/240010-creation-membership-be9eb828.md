@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.40 - BOARD OF ADJUSTMENT > 2.40.010 - CREATION; MEMBERSHIP.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT2ADPE_CH2.40BOAD_2.40.010CRME"
 sha256: 3bbdcc0b8124f10fbb66f2f18d410c0f6bd4eeb0a8c893e80fee4f4b6ec5ef4d
-fetched_at: "2026-09-18T19:25:49+00:00"
+fetched_at: "2026-09-23T10:58:41+00:00"
 ---
 
 A.

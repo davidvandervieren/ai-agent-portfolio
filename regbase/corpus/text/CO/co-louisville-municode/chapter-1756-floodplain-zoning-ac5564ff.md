@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.56 - FLOODPLAIN ZONING
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.56FLZO"
 sha256: 1e17d9d5dd6daad150a42e5586252591d333b4daecfd3fa08b065e45db6c8cc0
-fetched_at: "2026-09-18T12:53:37+00:00"
+fetched_at: "2026-09-23T05:27:30+00:00"
 ---
 
 Editor's note— Ord. No. 1625-2012, § 1, adopted Nov. 20, 2012, repealed and replaced Ch. 17.56, §§

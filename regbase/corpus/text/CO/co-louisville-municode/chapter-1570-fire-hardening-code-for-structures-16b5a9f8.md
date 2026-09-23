@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.70 - FIRE HARDENING CODE FOR STRUCTURES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.70FIHACOST"
 sha256: 8b8fb3ac61bded170cd4fe0b380a9d89aec27d60a9f673c13cbd231912555bce
-fetched_at: "2026-09-18T12:52:45+00:00"
+fetched_at: "2026-09-23T05:26:36+00:00"
 ---
 
 This chapter provides minimum city-wide building and construction standards for residential

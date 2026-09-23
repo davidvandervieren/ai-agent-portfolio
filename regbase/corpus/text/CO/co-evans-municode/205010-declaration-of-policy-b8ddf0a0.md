@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.05 - Ethics Code > 2.05.010 - Declaration of policy.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.05ETCO_2.05.010DEPO"
 sha256: 8dcd600b6bdbfb49227f82d2d9d5cc3a9e05246bcdde454107294b252e92af3e
-fetched_at: "2026-09-18T21:20:23+00:00"
+fetched_at: "2026-09-23T12:53:22+00:00"
 ---
 
 The proper operation of government requires that public officials and employees be

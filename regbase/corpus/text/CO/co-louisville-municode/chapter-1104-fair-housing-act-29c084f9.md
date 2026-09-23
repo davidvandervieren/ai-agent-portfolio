@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 11 - FAIR HOUSING > Chapter 11.04 - FAIR HOUSING ACT
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT11FAHO_CH11.04FAHOAC"
 sha256: b398ddca59b9e68b8e12c65e97e284a7b3d868e9ecdc9e7f868e83417a67b3c9
-fetched_at: "2026-09-18T12:51:23+00:00"
+fetched_at: "2026-09-23T05:25:14+00:00"
 ---
 
 State Law reference— Discrimination prohibited, C.R.S. § 24-34-501 et seq.

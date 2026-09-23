@@ -10,7 +10,7 @@ doc_type: code
 citation_root: ARTICLE 3 - GENERAL DEVELOPMENT STANDARDS > Division 3.10 - Development Standards for the Transit-Oriented Development (TOD) Overlay Zone > 3.10.1 - Applicability and Purpose
 url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART3GEDEST_DIV3.10DESTTRIEDETOOVZO_3.10.1APPU"
 sha256: 2be1a5443bc37684ae9ad56d121e2b10236daab99340b1adc39dad5f1955c546
-fetched_at: "2026-09-18T20:18:49+00:00"
+fetched_at: "2026-09-23T15:17:22+00:00"
 ---
 
 (A)

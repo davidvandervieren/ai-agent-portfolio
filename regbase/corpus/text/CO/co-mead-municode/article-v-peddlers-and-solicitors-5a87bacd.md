@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE V - Peddlers and Solicitors
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH6BULIRE_ARTVPESO"
 sha256: 13e2f59e41d992bcc48883182bca5509ca065007d6a78611c66bb7ffbfca5618
-fetched_at: "2026-09-18T23:03:59+00:00"
+fetched_at: "2026-09-23T14:17:44+00:00"
 ---
 
 It is unlawful for any person to engage in the business of peddler, solicitor or canvasser

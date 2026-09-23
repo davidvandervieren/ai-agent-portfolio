@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.39 - PLANNING COMMISSION > 2.39.010 - CREATION; MEMBERSHIP.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT2ADPE_CH2.39PLCO_2.39.010CRME"
 sha256: b68f3b2ed923692c42cefbf2bf5d45af93a19a0d43ff1bb4a91d0aff06f2f5bf
-fetched_at: "2026-09-18T19:25:39+00:00"
+fetched_at: "2026-09-23T10:58:31+00:00"
 ---
 
 A.

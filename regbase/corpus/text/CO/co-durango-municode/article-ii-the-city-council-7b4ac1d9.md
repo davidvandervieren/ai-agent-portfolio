@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE II. - THE CITY COUNCIL
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTICH_ARTIITHCO"
 sha256: 22a691892121b01efc0b07ca82c852ac799063e4537e3d23add4487b323ceb4b
-fetched_at: "2026-09-18T17:59:19+00:00"
+fetched_at: "2026-09-23T09:57:02+00:00"
 ---
 
 There shall be a city council of five (5) members elected at large by the registered

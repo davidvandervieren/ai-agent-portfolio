@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.54 - VESTED PROPERTY RIGHTS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.54VEPRRI"
 sha256: 41ed6cd858b5403018cace87ef3ab467331dc5d709c8a30166824737b0c92607
-fetched_at: "2026-09-18T12:53:35+00:00"
+fetched_at: "2026-09-23T05:27:29+00:00"
 ---
 
 The purpose of this chapter is to provide the procedures necessary to implement the

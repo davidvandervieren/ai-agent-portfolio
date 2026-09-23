@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 110 - TAXATION > ARTICLE III. - SALES AND USE TAX > DIVISION 3. - SALES TAX
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH110TA_ARTIIISAUSTA_DIV3SATA"
 sha256: 33ce0b5f75b06227b40afea31b80b397f1e12eed62d59f3237d2ab60e2e7d8ad
-fetched_at: "2026-09-18T12:13:10+00:00"
+fetched_at: "2026-09-23T05:07:07+00:00"
 ---
 
 Cross reference— Use of tax increase, § 110-39.1.

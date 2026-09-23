@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER XI - Animals > SECTION I - Animal Rules and Regulations
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHXIAN_SIANRURE"
 sha256: 3e8734ba7f91048ab117efcfe47fd2d84f741b3e50ad6e39c1a58b5b499eece8
-fetched_at: "2026-09-18T22:36:35+00:00"
+fetched_at: "2026-09-23T13:53:29+00:00"
 ---
 
 Editor's note— Ord. 648 §1, adopted Sept. 19, 2024, repealed the former Ch. XI, §§ 11-1-1—11-1-25, and enacted

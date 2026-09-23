@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF RIFLE HOME RULE CHARTER > ARTICLE XI - TAXATION > 11.1 - AUTHORITY TO LEVY TAXES
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CIRIHORUCH_ARTXITA_11.1AULETA"
 sha256: f8ff025cf7fe47a3b371cd30815bcbd996d750ffda7703800361f674b4aa0059
-fetched_at: "2026-09-18T14:31:13+00:00"
+fetched_at: "2026-09-23T06:31:48+00:00"
 ---
 
 The Council may levy and collect taxes for municipal purposes, and it may levy and

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 13 - STREETS AND SIDEWALKS
 url: "https://library.municode.com/co/bayfield/codes/code_of_ordinances?nodeId=CO_CH13STSI"
 sha256: 6c0e9245f8eb83e7fcf1890f6c4b813b70aa11a67c6a2452c45a9272b8afe3ba
-fetched_at: "2026-09-18T18:33:09+00:00"
+fetched_at: "2026-09-23T10:11:33+00:00"
 ---
 
 Editor's note— Ord. No. 495, adopted Oct. 3, 2023, repealed the former ch. 13, §§ 13-1—13-4, 13-16—13-25,

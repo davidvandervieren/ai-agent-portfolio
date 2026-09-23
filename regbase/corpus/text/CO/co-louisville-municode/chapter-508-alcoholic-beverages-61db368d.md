@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > Chapter 5.08 - ALCOHOLIC BEVERAGES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT5BULIRE_CH5.08ALBE"
 sha256: 010ee1ac84548cb501ffe65142939a6225a1df50bebaaaeb5f59f105f452e558
-fetched_at: "2026-09-18T12:49:08+00:00"
+fetched_at: "2026-09-23T05:22:55+00:00"
 ---
 
 Cross reference— Offenses relating to alcohol, ch. 9.22; minors and alcohol, ch. 9.72.

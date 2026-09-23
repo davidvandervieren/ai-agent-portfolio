@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > Article 5 - Site Development Standards > Division 1 - Open Space, Buffering, and Pedestrian Connectivity
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH16LAUSCO_ART5SIDEST_DIV1OPSPBUPECO"
 sha256: e18726890556c5bfa874128066c0820a13f1fdd81966e74ff185951ab05ec464
-fetched_at: "2026-09-18T22:54:29+00:00"
+fetched_at: "2026-09-23T14:08:01+00:00"
 ---
 
 (a)

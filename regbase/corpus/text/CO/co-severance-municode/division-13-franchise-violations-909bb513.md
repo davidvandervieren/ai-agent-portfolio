@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE 1 - Cable Television Franchise > Division 13 - Franchise Violations
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH5FRCOSY_ART1CATEFR_DIV13FRVI"
 sha256: 77163092d64ca293d19e79f1c66dae3e98456c83936b91686ff62b2a418c1b62
-fetched_at: "2026-09-18T22:53:41+00:00"
+fetched_at: "2026-09-23T14:07:14+00:00"
 ---
 
 (a)

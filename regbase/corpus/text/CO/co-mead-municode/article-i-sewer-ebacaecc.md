@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 13 - Municipal Utilities > ARTICLE I - Sewer
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH13MUUT_ARTISE"
 sha256: 6b0fb90d4849af56364979a8f8f3a4704a934197a67d1e25f3a029954bc5c1c4
-fetched_at: "2026-09-18T23:05:24+00:00"
+fetched_at: "2026-09-23T14:19:07+00:00"
 ---
 
 There is hereby created and established a wastewater utility for the Town for the

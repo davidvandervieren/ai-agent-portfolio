@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER - FOR THE CITY OF LOUISVILLE, COLORADO > ARTICLE 14. - FRANCHISES AND PERMITS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=CHTRFOLOCO_ART14FRPE"
 sha256: a7042ec0ff1bd1f75eb359d441d89ab52707011c4d318cf287f38b89a0c0c510
-fetched_at: "2026-09-18T12:47:33+00:00"
+fetched_at: "2026-09-23T05:21:21+00:00"
 ---
 
 Any franchise, and any renewal of or amendment to a franchise, shall be granted by

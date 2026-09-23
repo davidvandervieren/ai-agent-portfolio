@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > ARTICLE XIII - Transition Period > 13.01 - Purpose of Transitional Provisions.
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=HORUCH_ARTXIIITRPE_13.01PUTRPR"
 sha256: b797e7f95c17bc348e75dd29692a0e3c8efff7989a5a36b2c73b0fdf8999c753
-fetched_at: "2026-09-18T22:53:01+00:00"
+fetched_at: "2026-09-23T14:11:16+00:00"
 ---
 
 The purpose of this Article is to provide for an orderly transition from the present

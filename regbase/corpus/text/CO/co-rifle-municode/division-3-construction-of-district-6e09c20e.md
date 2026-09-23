@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE IV - Local Improvement Regulations > Division 3 - Construction of District
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH4REFI_ARTIVLOIMRE_DIV3CODI"
 sha256: 1d0bd7534319ac80c3c1a3d4e4f12ecdd19c282dd6b3158a3137cc2af482f3b5
-fetched_at: "2026-09-18T14:33:02+00:00"
+fetched_at: "2026-09-23T06:26:45+00:00"
 ---
 
 (a)

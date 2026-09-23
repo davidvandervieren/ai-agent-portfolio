@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE III - Adult Entertainment Establishments > Division 1 - Licenses
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH6BULIRE_ARTIIIADENES_DIV1LI"
 sha256: 0344adb4afb97efb6893ae7b5e65882b492a384bce8a03ee943262fdb52c43d4
-fetched_at: "2026-09-18T14:33:26+00:00"
+fetched_at: "2026-09-23T06:27:10+00:00"
 ---
 
 Definitions relevant to this Article are incorporated herein as follows:

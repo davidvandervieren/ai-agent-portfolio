@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.43 - HISTORIC PRESERVATION BOARD > 2.43.010 - CREATION; MEMBERSHIP.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT2ADPE_CH2.43HIPRBO_2.43.010CRME"
 sha256: baf45868c690461d8ad84c5ec461bd5bfa4b60c2a37fc1dadc62b2c6d180e538
-fetched_at: "2026-09-18T19:26:21+00:00"
+fetched_at: "2026-09-23T10:59:13+00:00"
 ---
 
 A.

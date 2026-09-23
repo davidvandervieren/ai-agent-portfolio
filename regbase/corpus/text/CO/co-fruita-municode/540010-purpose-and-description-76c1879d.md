@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > Chapter 5.40 - SEXUALLY ORIENTED BUSINESSES > 5.40.010 - PURPOSE AND DESCRIPTION.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT5BULIRE_CH5.40SEORBU_5.40.010PUDE"
 sha256: 2f6a41aeff9a29c701ce45a74376d189b69ee72601455782d004c6f671875f63
-fetched_at: "2026-09-18T19:32:39+00:00"
+fetched_at: "2026-09-23T11:05:37+00:00"
 ---
 
 The purpose of these regulations is to provide for the regulation and licensing of

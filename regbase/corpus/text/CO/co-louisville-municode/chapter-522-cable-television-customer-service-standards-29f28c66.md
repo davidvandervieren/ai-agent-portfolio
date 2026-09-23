@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > Chapter 5.22 - CABLE TELEVISION CUSTOMER SERVICE STANDARDS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT5BULIRE_CH5.22CATECUSEST"
 sha256: 09de1e7de5c1a24bc95f19dee18d4d9121474667444daadb5d749aa7abd97fde
-fetched_at: "2026-09-18T12:49:23+00:00"
+fetched_at: "2026-09-23T05:23:10+00:00"
 ---
 
 Editor's note— Ord. No. 1686-2015, § 1, adopted May 5, 2015, repealed the former Ch. 5.22, §§ 5.22.010—5.22.070,

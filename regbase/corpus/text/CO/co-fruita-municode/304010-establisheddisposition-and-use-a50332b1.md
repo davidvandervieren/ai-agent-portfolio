@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > CHAPTER 3.04 - SEWER FUND > 3.04.010 - ESTABLISHED—DISPOSITION AND USE.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT3REFI_CH3.04SEFU_3.04.010ESISUS"
 sha256: d2a32131023b5a3445ed6ec0b4c44c6d9150a7e9e4b6167200d0b1217bbdb068
-fetched_at: "2026-09-18T19:27:13+00:00"
+fetched_at: "2026-09-23T11:00:07+00:00"
 ---
 
 The funds received from the collection of charges and rentals authorized by this section

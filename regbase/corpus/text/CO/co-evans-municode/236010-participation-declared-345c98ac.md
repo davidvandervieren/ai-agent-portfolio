@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.36 - Social Security > 2.36.010 - Participation declared.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.36SOSE_2.36.010PADE"
 sha256: c0ff425f45b0aa6312be0517c054d3bbc5c0774c0ae6883e052e89d9307ab8b2
-fetched_at: "2026-09-18T21:22:09+00:00"
+fetched_at: "2026-09-23T12:54:59+00:00"
 ---
 
 The City is a participant in the social security system, and the benefits of old-age

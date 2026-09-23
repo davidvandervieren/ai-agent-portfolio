@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration and Personnel > ARTICLE I - Elections
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH2ADPE_ARTIEL"
 sha256: ec83374a4eb7fbce69549f695bd496234d3cf52723317fe0bfa3f8621c95a446
-fetched_at: "2026-09-18T14:25:34+00:00"
+fetched_at: "2026-09-23T06:23:32+00:00"
 ---
 
 (a)

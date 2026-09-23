@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - Revenue and Finance > CHAPTER 3.32 - Reserve Increases > 3.32.010 - Reserves from excess revenues.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT3REFI_CH3.32REIN_3.32.010REEXRE"
 sha256: 3f61e8627b47f8e1cf6ef34607fe9c6232bdd091fec8761344cdb095e7555218
-fetched_at: "2026-09-18T21:24:44+00:00"
+fetched_at: "2026-09-23T12:57:31+00:00"
 ---
 
 Revenues from sources not excluded from fiscal year spending by Article X, Section

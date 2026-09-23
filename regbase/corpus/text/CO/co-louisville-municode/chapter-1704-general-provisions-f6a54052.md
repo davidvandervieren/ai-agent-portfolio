@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.04 - GENERAL PROVISIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.04GEPR"
 sha256: 559f3a53232d90c271b21736beff0926230bb631a2bc81b1e3da504f6a32bc78
-fetched_at: "2026-09-18T12:53:07+00:00"
+fetched_at: "2026-09-23T05:26:56+00:00"
 ---
 
 The ordinance codified in chapters 17.04 through 17.72 shall be cited as the zoning ordinance of the city.

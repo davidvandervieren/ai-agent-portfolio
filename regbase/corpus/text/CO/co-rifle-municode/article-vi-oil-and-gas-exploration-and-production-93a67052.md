@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE VI - Oil and Gas Exploration and Production
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH6BULIRE_ARTVIOIGAEXPR"
 sha256: 03cba0cf337c800db0a51135918648ec8ae8382840862d58e6144bb3e38e3699
-fetched_at: "2026-09-18T14:26:18+00:00"
+fetched_at: "2026-09-23T06:24:15+00:00"
 ---
 
 Unless otherwise stated in this Article, this Article shall apply to any and all exploration,

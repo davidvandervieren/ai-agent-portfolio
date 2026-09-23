@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE XIII - Landscape Guidelines
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTXIIILAGU"
 sha256: 23bec817db351f4f684371e220810a32552daa972ef552e03f2af55c2f2f3cd2
-fetched_at: "2026-09-18T14:27:37+00:00"
+fetched_at: "2026-09-23T06:25:36+00:00"
 ---
 
 Editor's note— Ord. 20 §2, adopted Jan. 7, 2015, repealed the former Art. XIII, §§ 16-13-10—16-13-170, and

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > Article 21. - Natural Medicine
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH16LAUSCO_ART21NAME"
 sha256: bf4f90ccf12b00b0b97a826f3f153c67bb15b5aac712d05856535452de47aacc
-fetched_at: "2026-09-18T22:49:31+00:00"
+fetched_at: "2026-09-23T14:06:21+00:00"
 ---
 
 For purposes of this Chapter, the following words, terms, and phrases shall have the

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: ARTICLE 2 - ADMINISTRATION > DIVISION 2.17 - CITY PROJECTS
 url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART2AD_DIV2.17CIPR"
 sha256: 5f462684fc4dc1fd997c2cac5437d1e30a58b58cc88d9faa4956a48c23875478
-fetched_at: "2026-09-18T20:10:58+00:00"
+fetched_at: "2026-09-23T15:09:29+00:00"
 ---
 
 The City Council, Planning and Zoning Commission, Land Use Review Commission and Director

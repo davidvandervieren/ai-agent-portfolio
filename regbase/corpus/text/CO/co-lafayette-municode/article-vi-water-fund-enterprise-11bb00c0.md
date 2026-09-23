@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 120 - WATER > ARTICLE VI. - WATER FUND ENTERPRISE
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH120WA_ARTVIWAFUEN"
 sha256: bf58a5256a208520b9f25effadefc4ed986c30c7f8c76425793fa7300cedeca5
-fetched_at: "2026-09-18T12:10:18+00:00"
+fetched_at: "2026-09-23T05:06:57+00:00"
 ---
 
 Editor's note— Ordinance No. 1993-53, adopted Jan. 4, 1994, did not specifically amend this Code;

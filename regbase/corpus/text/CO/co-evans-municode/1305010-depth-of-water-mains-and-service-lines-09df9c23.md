@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - Public Services > CHAPTER 13.05 - Location and Depth of Water Mains and Service Lines > 13.05.010 - Depth of water mains and service lines.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT13PUSE_CH13.05LODEWAMASELI_13.05.010DEWAMASELI"
 sha256: 88c71fb4c00e4e167085c4ae362d1d493c7575a074162ae1b2c635947663730b
-fetched_at: "2026-09-18T21:39:56+00:00"
+fetched_at: "2026-09-23T13:12:24+00:00"
 ---
 
 Unless otherwise specified by ordinance, or unless otherwise required or approved

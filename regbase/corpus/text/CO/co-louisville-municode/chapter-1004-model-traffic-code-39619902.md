@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 10 - VEHICLES AND TRAFFIC > Chapter 10.04 - MODEL TRAFFIC CODE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT10VETR_CH10.04MOTRCO"
 sha256: 7511ad4cfc05891f10d3cd2c1b6c37260c1f44818ed9cbf45766520eb3c27855
-fetched_at: "2026-09-18T12:51:09+00:00"
+fetched_at: "2026-09-23T05:24:59+00:00"
 ---
 
 Cross reference— Any ordinances prescribing through streets, parking and traffic regulations, speed

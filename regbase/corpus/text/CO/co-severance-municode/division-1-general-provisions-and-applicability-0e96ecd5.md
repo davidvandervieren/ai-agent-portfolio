@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > Article 10 - Flood Damage Prevention > Division 1 - General Provisions and Applicability.
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH16LAUSCO_ART10FLDAPR_DIV1GEPRAP"
 sha256: 01f43e820393acde43c6c4888077e1c6b7b6b7a24adaf07579f2be08f6d0f46a
-fetched_at: "2026-09-18T22:54:40+00:00"
+fetched_at: "2026-09-23T14:08:13+00:00"
 ---
 
 The legislature of the state has, in Article 20 of Title 29, C.R.S. and, as may be

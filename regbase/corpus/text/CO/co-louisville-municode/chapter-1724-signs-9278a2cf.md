@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.24 - SIGNS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.24SI"
 sha256: 2844f969931cd636e809df83c0cbc015a8be3c052d3c12c2432a0f5574826fc0
-fetched_at: "2026-09-18T12:53:19+00:00"
+fetched_at: "2026-09-23T05:27:10+00:00"
 ---
 
 Editor's note— Ord. No. 1779-2019, § 2, adopted Oct. 15, 2019, amended in its entirety to read as

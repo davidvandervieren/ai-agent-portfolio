@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.64 - AMENDMENTS TO COMPREHENSIVE DEVELOPMENT PLAN
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.64AMCODEPL"
 sha256: 414b77a4b5c8030cf592eb5d1a4f68214a89e66591aadddc89628d893e2e9552
-fetched_at: "2026-09-18T12:53:41+00:00"
+fetched_at: "2026-09-23T05:27:34+00:00"
 ---
 
 The purpose of this chapter is to provide a procedure to allow for the amendment of

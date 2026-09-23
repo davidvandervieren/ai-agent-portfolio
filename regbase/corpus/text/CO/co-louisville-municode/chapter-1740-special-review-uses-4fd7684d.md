@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.40 - SPECIAL REVIEW USES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.40SPREUS"
 sha256: bf14052ea8d2ec5f514745322d9256ab8bcaf09776d19dcd89ec7ca28a1a2bc9
-fetched_at: "2026-09-18T12:53:25+00:00"
+fetched_at: "2026-09-23T05:27:18+00:00"
 ---
 
 Although each zoning district is primarily intended for a predominant type of use

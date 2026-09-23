@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > Chapter 5.16 - MASSAGE PARLORS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT5BULIRE_CH5.16MAPA"
 sha256: 4527e4cc418327a38b199412b84a0269b4fb2d55d479b4903b99be19c538a1bb
-fetched_at: "2026-09-18T12:49:15+00:00"
+fetched_at: "2026-09-23T05:23:04+00:00"
 ---
 
 State Law reference— Minimum standards, C.R.S. § 12-48.5-101 et seq.

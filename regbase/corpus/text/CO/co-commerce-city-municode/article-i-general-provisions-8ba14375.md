@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 6 - NUISANCES > ARTICLE I. - GENERAL PROVISIONS
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH6NU_ARTIGEPR"
 sha256: 3639ded589bcd8a39c77ba92c36e7edfb2fc78fe8fa8008c33014888373ad20a
-fetched_at: "2026-09-18T14:05:34+00:00"
+fetched_at: "2026-09-23T06:07:41+00:00"
 ---
 
 The purpose and intent of this chapter is to protect the public health, safety and

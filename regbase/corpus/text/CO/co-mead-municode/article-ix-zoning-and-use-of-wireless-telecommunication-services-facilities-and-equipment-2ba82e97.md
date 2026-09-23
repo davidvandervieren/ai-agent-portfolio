@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE IX - Zoning and Use of Wireless Telecommunication Services, Facilities and Equipment
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH16LAUSCO_ARTIXZOUSWITESEFAEQ"
 sha256: 2ab2b5d685005ea7c9edbd3fc3908a3bfd37d3da52b76f2be37dba9e6819dcf5
-fetched_at: "2026-09-18T23:05:42+00:00"
+fetched_at: "2026-09-23T14:19:25+00:00"
 ---
 
 The words used in this Article shall have their common meaning unless that meaning

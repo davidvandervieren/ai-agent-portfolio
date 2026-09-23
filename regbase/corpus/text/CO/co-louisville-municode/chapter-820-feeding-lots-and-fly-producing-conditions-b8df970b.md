@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8.20 - FEEDING LOTS AND FLY PRODUCING CONDITIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.20FELOFLPRCO"
 sha256: c2107e72a5b94aef392fa848ea8cf9ae567801b1cd9c092b0fa4835bef48fa2b
-fetched_at: "2026-09-18T12:49:52+00:00"
+fetched_at: "2026-09-23T05:23:43+00:00"
 ---
 
 Editor's note— Ord. No. 1707-2015, § 2, adopted Nov. 20, 2015, repealed the former Ch. 8.20, §§ 8.20.010—8.20.040,

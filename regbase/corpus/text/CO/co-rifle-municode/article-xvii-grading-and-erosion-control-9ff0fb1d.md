@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE XVII - Grading and Erosion Control
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTXVIIGRERCO"
 sha256: 4b355f7198bc2d5869caddb22a4aec40e67440d47c86628a000d0fb99d2c2edd
-fetched_at: "2026-09-18T14:27:43+00:00"
+fetched_at: "2026-09-23T06:25:42+00:00"
 ---
 
 (a)

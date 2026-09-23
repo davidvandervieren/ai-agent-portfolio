@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE XV - Offenses Involving Minors and Underage Persons
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH10GEOF_ARTXVOFINMIUNPE"
 sha256: ef5d6e9957233c1308208feb4e49f8a93932f3431bdbc45d71294c8966bd81f6
-fetched_at: "2026-09-18T23:05:05+00:00"
+fetched_at: "2026-09-23T14:18:49+00:00"
 ---
 
 The following words, terms and phrases, when used in this Article, shall have the

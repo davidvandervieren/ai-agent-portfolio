@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE 1 - Cable Television Franchise > Division 11 - Cable System Configuration, Technical Standards and Testing
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH5FRCOSY_ART1CATEFR_DIV11CASYCOTESTTE"
 sha256: 08b26a13a0b106a97553983d63db845874ccc02a42068a59c57944fb9d5cbed5
-fetched_at: "2026-09-18T22:53:37+00:00"
+fetched_at: "2026-09-23T14:07:10+00:00"
 ---
 
 (a)

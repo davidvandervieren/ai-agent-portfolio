@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE XI - Noise
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH10GEOF_ARTXINO"
 sha256: eac089e98673c8484b153ad3a2276d84defd224c420a1a4c424866a80efaa950
-fetched_at: "2026-09-18T14:27:03+00:00"
+fetched_at: "2026-09-23T06:25:02+00:00"
 ---
 
 This Article seeks to preserve the quality of life, health, safety and welfare of

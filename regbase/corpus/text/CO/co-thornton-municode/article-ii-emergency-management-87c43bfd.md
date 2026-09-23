@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 38 - LAW ENFORCEMENT, OFFENSES AND TRAFFIC > ARTICLE II. - EMERGENCY MANAGEMENT
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CO_CH38LAENOFTR_ARTIIEMMA"
 sha256: de767be0880bd7de0cf82231a79554c6410dc78c2a2c787f77a35dfb9393b69d
-fetched_at: "2026-09-18T13:15:39+00:00"
+fetched_at: "2026-09-23T05:47:04+00:00"
 ---
 
 Cross reference— Administration, Ch. 2.

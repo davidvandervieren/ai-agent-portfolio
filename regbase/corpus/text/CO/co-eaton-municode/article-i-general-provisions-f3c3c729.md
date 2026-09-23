@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER VII - Planning and Zoning Regulations > SECTION III - Planned Unit Development > Article I - General Provisions
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHVIIPLZORE_SIIIPLUNDE_ARTIGEPR"
 sha256: 81d25dd0c04eff4b70aa9feb61a57564bb033b2c95cf127547a139fc5d52b8df
-fetched_at: "2026-09-18T22:37:39+00:00"
+fetched_at: "2026-09-23T13:54:31+00:00"
 ---
 
 Editor's note— Ord. 641 §25, adopted March 21, 2024, repealed the former Section III, §§ 7-3-1—7-3-25, and

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.41 - POLICE COMMISSION > 2.41.010 - MEMBERSHIP REQUIREMENTS.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT2ADPE_CH2.41POCO_2.41.010MERE"
 sha256: 3e25deaccebd7001df7209086e0bfc1943b19f0e14a881f345e2285aa8c51434
-fetched_at: "2026-09-18T19:26:01+00:00"
+fetched_at: "2026-09-23T10:58:53+00:00"
 ---
 
 A.

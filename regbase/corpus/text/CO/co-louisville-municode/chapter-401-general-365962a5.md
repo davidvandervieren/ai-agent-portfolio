@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 4 - CITY OPEN SPACE > Chapter 4.01 - GENERAL
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT4CIOPSP_CH4.01GE"
 sha256: bec7f1ed58da70e381e5ef717e0bafd8dc5c241c57ec1ec445b130c340704f67
-fetched_at: "2026-09-18T12:48:56+00:00"
+fetched_at: "2026-09-23T05:22:43+00:00"
 ---
 
 This chapter establishes a board of citizens to advise the city staff and council

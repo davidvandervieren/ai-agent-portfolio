@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > ARTICLE II - Elections > 2.01 - Election Laws.
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=HORUCH_ARTIIEL_2.01ELLA"
 sha256: 2641d0a9a8a08cb12535858e8b4f21c7ac900e9d78370a734dda38b9209d6b86
-fetched_at: "2026-09-18T22:50:09+00:00"
+fetched_at: "2026-09-23T14:08:30+00:00"
 ---
 
 Town elections shall be governed by the Colorado Municipal Election Laws, C.R.S. §31-10-101 et seq., as amended, except as otherwise provided in this Charter or by ordinance hereafter

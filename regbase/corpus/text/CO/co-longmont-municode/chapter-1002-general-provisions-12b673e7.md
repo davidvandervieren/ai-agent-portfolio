@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 10 - PUBLIC PEACE, MORALS AND WELFARE > CHAPTER 10.02. - GENERAL PROVISIONS
 url: "https://library.municode.com/co/longmont/codes/code_of_ordinances?nodeId=PTIICOOR_TIT10PUPEMOWE_CH10.02GEPR"
 sha256: c92b47e266977a6a90709421c0555af61e3f836f90fcbe784e55f7aabd072b0d
-fetched_at: "2026-09-22T03:56:55+00:00"
+fetched_at: "2026-09-23T04:29:58+00:00"
 ---
 
 State Law reference— Criminal Code, C.R.S. § 18-1-101 et seq.

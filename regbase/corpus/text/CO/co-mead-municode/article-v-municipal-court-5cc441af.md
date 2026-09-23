@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration and Personnel > ARTICLE V - Municipal Court
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH2ADPE_ARTVMUCO"
 sha256: 1399fdd7f6ee2a70c838db3617853435adbc77a36635bfa14a7706a341469dd1
-fetched_at: "2026-09-18T23:03:05+00:00"
+fetched_at: "2026-09-23T14:17:01+00:00"
 ---
 
 (a)

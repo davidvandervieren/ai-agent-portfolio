@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE XI - Vested Property Rights
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTXIVEPRRI"
 sha256: d9e9ddc0944a8fe540a3583e94f3428a409a9a5b71b3477e2f705b12868622af
-fetched_at: "2026-09-18T14:27:33+00:00"
+fetched_at: "2026-09-23T06:25:32+00:00"
 ---
 
 The purpose of this Article is to provide procedures necessary to implement the provisions

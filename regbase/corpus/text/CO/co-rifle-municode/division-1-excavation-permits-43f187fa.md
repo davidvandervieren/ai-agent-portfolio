@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 11 - Streets, Sidewalks and Public Property > ARTICLE IV - Excavations > Division 1 - Excavation Permits
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH11STSIPUPR_ARTIVEX_DIV1EXPE"
 sha256: 2d6cd7e687e27fc11b486befd42b567716ea810982c24f197f9b4d572c1348e1
-fetched_at: "2026-09-18T14:33:38+00:00"
+fetched_at: "2026-09-23T06:27:20+00:00"
 ---
 
 The purpose of this Article is to safeguard life, limb, property and the public welfare

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > Chapter XVI MISCELLANEOUS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=CH_CHXVMI"
 sha256: d69182f7ed31c0bd6ea03ce024876f152ff069ced54d56a5102f99b0598331af
-fetched_at: "2026-09-18T12:08:47+00:00"
+fetched_at: "2026-09-23T05:03:16+00:00"
 ---
 
 After the effective date of this Charter, the city shall be vested with all property,

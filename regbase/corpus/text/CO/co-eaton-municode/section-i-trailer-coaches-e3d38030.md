@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER VIII - Licensing > SECTION I - Trailer Coaches
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHVIIILI_SITRCO"
 sha256: d76a0338c89fad9f177b47469d69adb59e666d7782ab75d3b27b07aa6e378c65
-fetched_at: "2026-09-18T22:35:48+00:00"
+fetched_at: "2026-09-23T13:52:43+00:00"
 ---
 
 As used in this Chapter:

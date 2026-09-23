@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 30 - HEALTH AND SANITATION > ARTICLE II. - LOCAL HEALTH DEPARTMENT
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CO_CH30HESA_ARTIILOHEDE"
 sha256: 82944d43792ce2c293b8a8618f287e5ae0ce199834071e1a3cb1b583bfdba207
-fetched_at: "2026-09-18T13:15:34+00:00"
+fetched_at: "2026-09-23T05:46:59+00:00"
 ---
 
 Cross reference— Animals, Ch. 6; environment, Ch. 22; nuisances, § 38-386 et seq.; smoking in public places, § 38-456 et seq.; solid waste, Ch. 58; water and sewer systems, § 74-86 et seq.

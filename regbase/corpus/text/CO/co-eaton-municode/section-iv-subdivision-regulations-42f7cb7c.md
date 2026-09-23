@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER VII - Planning and Zoning Regulations > SECTION IV - Subdivision Regulations
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHVIIPLZORE_SIVSURE"
 sha256: 6e95368df7b2e869603d5df94e2ebd5a9d5f7c922e1aae30d5623796e68ab969
-fetched_at: "2026-09-18T22:35:30+00:00"
+fetched_at: "2026-09-23T13:52:25+00:00"
 ---
 
 (a)

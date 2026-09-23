@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF RIFLE HOME RULE CHARTER > ARTICLE II - ELECTIONS > 2.1 - COLORADO MUNICIPAL ELECTION LAWS ADOPTED
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CIRIHORUCH_ARTIIEL_2.1COMUELLAAD"
 sha256: b4f3cb3f70141b8689a6a507fca13d2b1aedd53881b7436071b7eb2324965827
-fetched_at: "2026-09-18T14:28:34+00:00"
+fetched_at: "2026-09-23T06:29:13+00:00"
 ---
 
 City Elections shall be governed by the Colorado Municipal Election Law as now existing

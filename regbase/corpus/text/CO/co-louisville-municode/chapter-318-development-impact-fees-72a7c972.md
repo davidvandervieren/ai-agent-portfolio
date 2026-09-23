@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3.18 - DEVELOPMENT IMPACT FEES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT3REFI_CH3.18DEIMFE"
 sha256: 4ffb7ae5d28547e7ee5c37d0824c3670b7d25cd4e68aa961e9f4182d71df6929
-fetched_at: "2026-09-18T12:48:38+00:00"
+fetched_at: "2026-09-23T05:22:27+00:00"
 ---
 
 Editor's note— Ord. No. 1506-2006, § 2, adopted Dec. 19, 2006, effective Feb. 11, 2007, repealed

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8.56 - SMOKING IN PUBLIC PLACES PROHIBITED
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.56SMPUPLPR"
 sha256: 4e028dee8ddc8884b3861b6060f0f9cf445c01db3654c76a719baf56c89636a9
-fetched_at: "2026-09-18T12:50:10+00:00"
+fetched_at: "2026-09-23T05:23:59+00:00"
 ---
 
 Editor's note— Ord. No. 1396, Series 2002, § 1, adopted Aug. 20, 2002, repealed former ch. 8.56 in

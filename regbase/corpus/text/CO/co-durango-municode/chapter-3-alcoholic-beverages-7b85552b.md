@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 3 - ALCOHOLIC BEVERAGES
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTIICOOR_CH3ALBE"
 sha256: 5b38326f85aacc229bfb2f1935d03bd5e278549f18137f60f06abdaa192ec97d
-fetched_at: "2026-09-18T17:59:04+00:00"
+fetched_at: "2026-09-23T09:56:54+00:00"
 ---
 
 Editor's note— Ord. No. O-2019-21 , § 1, adopted November 19, 2019, repealed ch. 3, §§ 3-1—3-15 and enacted a new ch.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.18 - 2024 INTERNATIONAL ENERGY CONSERVATION CODE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.182024INENCOCO"
 sha256: 34cca18e8489c4312c85073bdc30978205be69fa7ce3b5651e3aef32aacb3473
-fetched_at: "2026-09-18T12:52:25+00:00"
+fetched_at: "2026-09-23T05:26:14+00:00"
 ---
 
 Editor's note— Ord. No. 1816, § 1, adopted October 19, 2021, repealed Ch. 15.18, §§ 15.18.010—15.18.050,

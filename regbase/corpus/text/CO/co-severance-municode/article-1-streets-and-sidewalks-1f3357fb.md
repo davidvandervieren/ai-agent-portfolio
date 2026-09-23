@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 11 - Streets, Sidewalks and Public Property > ARTICLE 1 - Streets and Sidewalks
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH11STSIPUPR_ART1STSI"
 sha256: 45afe72e4c3754a6e5ce0bfd53af98db2b8721cceeb5ef9803ddaabb2a5ea22d
-fetched_at: "2026-09-18T22:49:11+00:00"
+fetched_at: "2026-09-23T14:05:53+00:00"
 ---
 
 The owner, occupant, lessee or person in possession or control of any premises or

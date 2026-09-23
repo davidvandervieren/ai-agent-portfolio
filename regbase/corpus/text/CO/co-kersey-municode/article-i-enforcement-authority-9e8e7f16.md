@@ -10,7 +10,7 @@ doc_type: code
 citation_root: KERSEY LAND DEVELOPMENT CODE > CHAPTER 24 - VIOLATIONS AND ENFORCEMENT > ARTICLE I. - ENFORCEMENT AUTHORITY
 url: "https://library.municode.com/co/kersey/codes/municipal_code?nodeId=APXAKELADECO_CH24VIEN_ARTIENAU"
 sha256: 90955615d476b769cf7a89cf355b86eae3202a038efefd3d2f4c633d265b6733
-fetched_at: "2026-09-18T22:11:48+00:00"
+fetched_at: "2026-09-23T13:43:20+00:00"
 ---
 
 Provisions of these regulations shall be enforced by the Town Manager, Town Attorney,

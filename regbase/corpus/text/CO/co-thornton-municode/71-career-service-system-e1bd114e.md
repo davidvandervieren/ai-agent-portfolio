@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHAPTER VII. - PERSONNEL AND CAREER SERVICE > 7.1. - Career Service System.
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHVIIPECASE_7.1CASESY"
 sha256: b628c5286ab418f176f32a26e3f091e5913fbdfd8c65aa0b96b29bb742a40636
-fetched_at: "2026-09-18T13:17:20+00:00"
+fetched_at: "2026-09-23T05:53:15+00:00"
 ---
 
 (a)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.20 - OFF-STREET PARKING AND LOADING
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.20OREPALO"
 sha256: 9de3fc8e95faf376636d349f76133aeb243ce81c95d88643ba1f5149d37676a8
-fetched_at: "2026-09-18T12:53:17+00:00"
+fetched_at: "2026-09-23T05:27:08+00:00"
 ---
 
 Cross reference— Vehicles and traffic, tit. 10; Commercial Development Design Standards and Guidelines,

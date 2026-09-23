@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 34 - HUMAN RIGHTS > ARTICLE II. - PROCEDURE FOR PROCESSING COMPLAINTS OF DISCRIMINATION IN CITY PROGRAMS
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CO_CH34HURI_ARTIIPRPRCODIPR"
 sha256: 26be402caa7595d08de7cc5f0ebaf0a8df6ed76a86a720a7a4d036c30203a3c0
-fetched_at: "2026-09-18T13:15:36+00:00"
+fetched_at: "2026-09-23T05:47:01+00:00"
 ---
 
 Cross reference— Equal opportunity and affirmative action programs, § 54-271 et seq.

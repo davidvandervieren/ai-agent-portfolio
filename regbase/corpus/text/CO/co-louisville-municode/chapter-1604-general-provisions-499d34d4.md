@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 16 - SUBDIVISIONS > Chapter 16.04 - GENERAL PROVISIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT16SU_CH16.04GEPR"
 sha256: f6739d4016f5fc3082a792677c4c2f02be9e640d0150f61a5c027d4eb577d50b
-fetched_at: "2026-09-18T12:52:48+00:00"
+fetched_at: "2026-09-23T05:26:38+00:00"
 ---
 
 Cross reference— Any ordinance dedicating or accepting any plat or subdivision in the city saved from

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 13 - Municipal Utilities > ARTICLE 1 - Utility Services
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH13MUUT_ART1UTSE"
 sha256: f8e8fc77c19a375627a4de2c582a0884bd3cd167dbd2d08748dd6d5b98ada839
-fetched_at: "2026-09-18T22:49:16+00:00"
+fetched_at: "2026-09-23T14:05:59+00:00"
 ---
 
 The provisions of this Article shall be applicable to all Town utilities, including

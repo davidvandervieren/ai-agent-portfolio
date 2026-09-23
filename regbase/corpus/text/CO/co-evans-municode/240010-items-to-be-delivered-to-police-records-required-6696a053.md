@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.40 - Lost and Confiscated Property > 2.40.010 - Items to be delivered to police - records required.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.40LOCOPR_2.40.010ITBEDEPOECRE"
 sha256: 191fca44b7bce9eeb8b889e8c5e443872f1cb857aceaf4f46fc37dfe6196663a
-fetched_at: "2026-09-18T21:22:31+00:00"
+fetched_at: "2026-09-23T12:55:21+00:00"
 ---
 
 All lost property found, all stolen property seized and remaining unclaimed, and all

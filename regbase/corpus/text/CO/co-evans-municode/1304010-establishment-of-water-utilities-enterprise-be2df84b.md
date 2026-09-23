@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - Public Services > CHAPTER 13.04 - Utilities Department and Waterworks System > 13.04.010 - Establishment of Water Utilities Enterprise.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT13PUSE_CH13.04UTDEWASY_13.04.010ESWAUTEN"
 sha256: 01f5c1cd8c9734116ef6d880ae4f1137dc5a8de987734175a4bf6e9c0539a98f
-fetched_at: "2026-09-18T21:39:12+00:00"
+fetched_at: "2026-09-23T13:11:40+00:00"
 ---
 
 A.

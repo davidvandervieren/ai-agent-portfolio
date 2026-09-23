@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF RIFLE HOME RULE CHARTER > ARTICLE I - GENERAL PROVISIONS > 1.1 - NAME AND BOUNDARIES
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CIRIHORUCH_ARTIGEPR_1.1NABO"
 sha256: 491990007d3be8ff53332532f01c1ce3e8b73fdd3090923ea68947f3fe4efb74
-fetched_at: "2026-09-18T14:28:26+00:00"
+fetched_at: "2026-09-23T06:29:05+00:00"
 ---
 
 The municipal corporation heretofore existing as the Town of Rifle in Garfield County,

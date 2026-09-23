@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Home Rule Charter > CHAPTER VII. - Legislation > 7.1 - Prior City legislation.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=HORUCH_CHVIILE_7.1PRLE"
 sha256: 04c8a09fbf02dda90f49cdb97483c2d9bdebc9b1fb7566285bcfbd7c2ff68c39
-fetched_at: "2026-09-18T21:15:45+00:00"
+fetched_at: "2026-09-23T12:48:51+00:00"
 ---
 
 All valid by-laws, ordinances, resolutions, rules and regulations of the City which

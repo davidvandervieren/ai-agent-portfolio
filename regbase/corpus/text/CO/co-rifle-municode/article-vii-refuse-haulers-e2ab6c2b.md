@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE VII - Refuse Haulers
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH6BULIRE_ARTVIIREHA"
 sha256: aef0feaefd6687ca016dfd0a895dfec3290ced48127440fc33750aa74251f3f9
-fetched_at: "2026-09-18T14:26:20+00:00"
+fetched_at: "2026-09-23T06:24:17+00:00"
 ---
 
 As used in this Chapter, the following terms shall have the meanings indicated:

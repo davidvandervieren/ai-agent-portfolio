@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 32 - CABLE TELEVISION FRANCHISES
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH32CATEFR"
 sha256: 55c125c2ad456beba1b99f7262b02fe7ea911a54edcdfac9a522ed0722fb0116
-fetched_at: "2026-09-18T12:07:00+00:00"
+fetched_at: "2026-09-23T05:02:22+00:00"
 ---
 
 Editor's note— Section 1 of Ord. No. 2000-34, adopted Oct. 3, 2000, repealed Ch. 32 in its entirety,

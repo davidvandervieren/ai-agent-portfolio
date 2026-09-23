@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - LAND USE CODE > CHAPTER 17.49 - IMPROVEMENT GUARANTEES AND DEVELOPMENT AGREEMENTS > 17.49.010 - GENERAL REQUIREMENTS.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT17LAUSCO_CH17.49IMGUDEAG_17.49.010GERE"
 sha256: 40e4a5917efbe440ac48f3e93b0dc90fd01acc4ce1375eca2a8768bae1bd9ef6
-fetched_at: "2026-09-18T19:56:17+00:00"
+fetched_at: "2026-09-23T11:29:14+00:00"
 ---
 
 An approval of a land development application which requires a development agreement

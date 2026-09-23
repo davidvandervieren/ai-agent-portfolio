@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 12 - SOLID WASTE
 url: "https://library.municode.com/co/bayfield/codes/code_of_ordinances?nodeId=CO_CH12SOWA"
 sha256: fcef3359cc317e10b38b5d6d2093170243a1d8238f74d23b4451b66ae2690274
-fetched_at: "2026-09-18T18:33:07+00:00"
+fetched_at: "2026-09-23T10:11:32+00:00"
 ---
 
 Editor's note— The editor has treated §§ 2—7 of Ord. No. 156, adopted Nov. 2, 1982, as amendatory

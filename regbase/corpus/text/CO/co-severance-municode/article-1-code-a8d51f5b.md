@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 1 - General Provisions > ARTICLE 1 - Code
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH1GEPR_ART1CO"
 sha256: f87f449722ce63f9d26761f136840245ca412f99888fffe846105a240c10853a
-fetched_at: "2026-09-18T22:47:37+00:00"
+fetched_at: "2026-09-23T14:04:20+00:00"
 ---
 
 (a)

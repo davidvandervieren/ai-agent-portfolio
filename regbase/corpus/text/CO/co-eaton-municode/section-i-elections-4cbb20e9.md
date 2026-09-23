@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER IV - Elections, Recall and Municipal Campaign Finance > SECTION I - Elections
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHIVELREMUCAFI_SIEL"
 sha256: 1bd72c92d983ec4586a63b3605c9fd797aa04638d0bb1e09aad0d55d03416896
-fetched_at: "2026-09-18T22:35:06+00:00"
+fetched_at: "2026-09-23T13:52:01+00:00"
 ---
 
 Editor's note— Ord. 612 § 1, adopted January 21, 2021, amended the title of Chapter IV to read as herein

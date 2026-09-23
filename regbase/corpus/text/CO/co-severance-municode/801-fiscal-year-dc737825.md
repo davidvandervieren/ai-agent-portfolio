@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > ARTICLE VIII - Town Finances and Borrowing > 8.01 - Fiscal Year.
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=HORUCH_ARTVIIITOFIBO_8.01FIYE"
 sha256: b4ec3088f6c3d5842b1b9938a1e04eb6009296d6539ae85ff8c05ee5e899ee66
-fetched_at: "2026-09-18T22:51:16+00:00"
+fetched_at: "2026-09-23T14:09:34+00:00"
 ---
 
 The fiscal year of the Town and all of its agencies shall begin on the first (1 st ) day of January and end on the thirty-first (31 st ) day of December each year.

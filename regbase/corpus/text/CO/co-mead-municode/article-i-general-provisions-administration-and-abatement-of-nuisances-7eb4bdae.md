@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 7 - Health, Sanitation and Animals > ARTICLE I - General Provisions, Administration and Abatement of Nuisances
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH7HESAAN_ARTIGEPRADABNU"
 sha256: da2d9052105b1edcc9b79d588235296ad9d15f7abcd595c1533be38cf247c869
-fetched_at: "2026-09-18T23:04:05+00:00"
+fetched_at: "2026-09-23T14:17:50+00:00"
 ---
 
 It is the policy of the Town pursuant to Section 31-15-401(c), C.R.S., that every

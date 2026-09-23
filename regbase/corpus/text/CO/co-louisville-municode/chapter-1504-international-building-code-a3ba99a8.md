@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.04 - INTERNATIONAL BUILDING CODE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.04INBUCO"
 sha256: c7e932a2f0917b2475ef6946a8c89ca158c96f050c5da3240c62228683de52ae
-fetched_at: "2026-09-18T12:52:09+00:00"
+fetched_at: "2026-09-23T05:25:58+00:00"
 ---
 
 Editor's note— Ord. No. 1764-2018, § 1, adopted Sep. 4, 2018, repealed the former Ch. 15.04, §§ 15.04.010—15.04.160,

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 110 - TAXATION > ARTICLE VII. - OIL AND GAS POLLUTION SEVERANCE TAX
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH110TA_ARTVIIOIGAPOSETA"
 sha256: 9082f840f1a561ed4a662a6256c098e22490f4dbe54f16b86e7f070506008b3d
-fetched_at: "2026-09-18T12:10:14+00:00"
+fetched_at: "2026-09-23T05:06:41+00:00"
 ---
 
 This article is to impose the oil and gas pollution tax approved by the voters in

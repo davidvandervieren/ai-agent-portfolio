@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER - FOR THE CITY OF LOUISVILLE, COLORADO > ARTICLE 13. - CITY-OWNED UTILITIES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=CHTRFOLOCO_ART13CINEUT"
 sha256: 74cfeea9e2685a84fb270f7aafdaf6ae78835183dc8fccdf9791152366dcf864
-fetched_at: "2026-09-18T12:47:31+00:00"
+fetched_at: "2026-09-23T05:21:19+00:00"
 ---
 
 The City shall have and exercise, in any matter pertaining to City-owned utilities,

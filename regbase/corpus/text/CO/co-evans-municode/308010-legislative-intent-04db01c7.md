@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - Revenue and Finance > CHAPTER 3.08 - Public Accommodations Tax > 3.08.010 - Legislative intent.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT3REFI_CH3.08PUACTA_3.08.010LEIN"
 sha256: c8fe4001842726ffa80c0135c8583c5c7e30f49d8905dc575f9dfba91fe675b2
-fetched_at: "2026-09-18T21:23:21+00:00"
+fetched_at: "2026-09-23T12:56:12+00:00"
 ---
 
 The legislative intent of the City Council in enacting the ordinance codified in this

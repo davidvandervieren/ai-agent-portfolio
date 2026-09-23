@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE XVI - Fairway Avenue Construction Off-Site Impact Fees
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTXVIFAAVCOOTEIMFE"
 sha256: 25eeaf722ee26118b469d338224ee020b5ef6a76e38dede121f97e161f92654a
-fetched_at: "2026-09-18T14:27:41+00:00"
+fetched_at: "2026-09-23T06:25:40+00:00"
 ---
 
 The purpose of this Article is to set forth certain fees for the construction of Fairway

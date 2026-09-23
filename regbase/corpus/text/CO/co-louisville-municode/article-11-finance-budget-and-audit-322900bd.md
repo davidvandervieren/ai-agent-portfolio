@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER - FOR THE CITY OF LOUISVILLE, COLORADO > ARTICLE 11. - FINANCE, BUDGET, AND AUDIT
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=CHTRFOLOCO_ART11FIBUAU"
 sha256: 0cca56284b2d3c8e64e8d013c46977c95d27fdf30e0ce3cca73088c1818e7913
-fetched_at: "2026-09-18T12:47:28+00:00"
+fetched_at: "2026-09-23T05:21:16+00:00"
 ---
 
 The fiscal year shall be the same as the calendar year.

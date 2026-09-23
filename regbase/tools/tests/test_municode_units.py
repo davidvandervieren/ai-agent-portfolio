@@ -98,6 +98,30 @@ def main() -> int:
     check("section under a title: chapter is the unit, title is not",
           ids(municode.content_units(nodes)) == ["T_TIT24_CH15"])
 
+    # Berthoud numbers its sections straight after the chapter, with no S:
+    # CH1GEPR_1.1TISC. A live run took 250 requests and found one unit.
+    ch1 = N("CH1GEPR", "Chapter 1 - GENERAL PROVISIONS")
+    ch30 = N("CH30BEDECO", "Chapter 30 - BERTHOUD DEVELOPMENT CODE")
+    nodes = [N("15678", "Code of Ordinances"), N("SUHITA", "SUPPLEMENT HISTORY TABLE")] \
+            + link(ch1, N("CH1GEPR_1.1TISC", "1.1 - Title and Scope"),
+                   N("CH1GEPR_1.3PUUSEV", "1.3 - Publication")) \
+            + link(ch30, N("CH30BEDECO_S15OIGADRPR", "SECTION 15 - OIL AND GAS"))
+    check("numbered sections without S: each chapter is the unit once",
+          ids(municode.content_units(nodes)) == ["CH1GEPR", "CH30BEDECO"])
+    check("a numbered tail is a section, a bare product id is not",
+          municode.is_section("CH1GEPR_1.1TISC") and not municode.is_section("15678")
+          and not municode.is_section("CH30BEDECO"))
+
+    # Codes numbered by title (Silt): 17.08.015 sits under chapter 17.08. Its
+    # id carries _CH, so it used to pass as a childless chapter and each
+    # definition was fetched on its own - 1,600 requests for 1,633 nodes.
+    t17 = N("TIT17ZO", "Title 17 - ZONING")
+    c1708 = N("TIT17ZO_CH17.08DE", "Chapter 17.08 - DEFINITIONS")
+    nodes = [root] + link(t17, c1708) + link(c1708, N("TIT17ZO_CH17.08DE_17.08.010DE", "Definitions"),
+                                              N("TIT17ZO_CH17.08DE_17.08.015ACST", "Accessory"))
+    check("title-numbered sections: the chapter is the unit, not each section",
+          ids(municode.content_units(nodes)) == ["TIT17ZO_CH17.08DE"])
+
     print("\n" + ("units are chapters, never sections" if not failed else f"{failed} check(s) failed"))
     return 1 if failed else 0
 

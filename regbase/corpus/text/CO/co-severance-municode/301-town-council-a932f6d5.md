@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > ARTICLE III - Town Council > 3.01 - Town Council.
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=HORUCH_ARTIIITOCO_3.01TOCO"
 sha256: e4e4f348ccc3235d247f91f00ff345b3d3c92870db5df313b631585c68983cbe
-fetched_at: "2026-09-18T22:50:17+00:00"
+fetched_at: "2026-09-23T14:08:37+00:00"
 ---
 
 (1)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - WATER AND SEWERS > Chapter 13.24 - SEWER SERVICE INSTALLATION
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT13WASE_CH13.24SESEIN"
 sha256: 56f7852d016cb799c07ffb45699071a14b5ae506f62143721ec04ea6a8629ad3
-fetched_at: "2026-09-18T12:51:48+00:00"
+fetched_at: "2026-09-23T05:25:36+00:00"
 ---
 
 A.

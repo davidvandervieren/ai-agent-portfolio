@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE X - Open-Burning Fires and Fireworks
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH10GEOF_ARTXOPRNFIFI"
 sha256: 401e4dbada4ba881d712e53a9e9e60f40d2ca3ad4b1fe8ec8820f5eff855937c
-fetched_at: "2026-09-18T14:27:01+00:00"
+fetched_at: "2026-09-23T06:25:00+00:00"
 ---
 
 This Article seeks to preserve the quality of life, health, safety and welfare of

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > CHAPTER 3.20 - UNIFORM COLLECTION ORDINANCE > 3.20.010 - TITLE AND CITATION.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT3REFI_CH3.20UNCOOR_3.20.010TICI"
 sha256: 97e25a91e14d0f99d95c89e45f0388d2931bc8700dfff2bdaf3446c8684e899e
-fetched_at: "2026-09-18T19:30:22+00:00"
+fetched_at: "2026-09-23T11:03:15+00:00"
 ---
 
 Chapter 3.20 shall be known as the "Uniform Collection Ordinance." The Uniform Collection Ordinance

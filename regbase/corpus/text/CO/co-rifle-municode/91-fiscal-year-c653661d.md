@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF RIFLE HOME RULE CHARTER > ARTICLE IX - CITY FINANCES > 9.1 - FISCAL YEAR
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CIRIHORUCH_ARTIXCIFI_9.1FIYE"
 sha256: d3862f95fe57bc7d033544e346c073b5f81a01162f877ce17343dc01ba8f9998
-fetched_at: "2026-09-18T14:30:27+00:00"
+fetched_at: "2026-09-23T06:31:05+00:00"
 ---
 
 The fiscal year for the City of Rifle and of all its agencies, shall begin on the

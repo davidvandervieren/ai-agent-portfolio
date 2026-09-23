@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 7 - ADMINISTRATIVE CITATIONS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH7ADCI"
 sha256: 3e393d3aa20a4794e04d3aaa251752becb2a7cfd99946fccfcf0c6fdccaf6b17
-fetched_at: "2026-09-18T12:06:40+00:00"
+fetched_at: "2026-09-23T05:02:14+00:00"
 ---
 
 For the purposes of this chapter, the following terms shall have the following meanings,

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8.60 - AIRCRAFT OPERATION RESTRICTIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.60AIOPRE"
 sha256: ecf34f42a797e3e49b73a3f81b2e063cade42a58651fa751fd3bf28051b2dcbb
-fetched_at: "2026-09-18T12:50:11+00:00"
+fetched_at: "2026-09-23T05:24:01+00:00"
 ---
 
 In order to protect the public health, safety and general welfare, it is the purpose

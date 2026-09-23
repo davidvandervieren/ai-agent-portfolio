@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.32 - DISASTER EMERGENCY PREPAREDNESS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.32DIEMPR"
 sha256: efb435ce39ce9b9df3b084e88dc862c82875aa21931821da7854c209ea5f6d82
-fetched_at: "2026-09-18T12:48:28+00:00"
+fetched_at: "2026-09-23T05:22:17+00:00"
 ---
 
 A.

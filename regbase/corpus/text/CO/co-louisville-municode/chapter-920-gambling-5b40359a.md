@@ -10,7 +10,7 @@ doc_type: code
 citation_root: III. OFFENSES AGAINST PUBLIC DECENCY > Chapter 9.20 - GAMBLING
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=IIOFAGPUDE_CH9.20GA"
 sha256: 4dfff97c24ade85c9e945faebd1865c9617ebba9bcdd4dfed6e85ea42f3efc0d
-fetched_at: "2026-09-18T12:50:19+00:00"
+fetched_at: "2026-09-23T05:24:09+00:00"
 ---
 
 State Law reference— Gambling, C.R.S. § 18-10-101 et seq.

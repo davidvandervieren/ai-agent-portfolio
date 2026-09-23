@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 13 - Municipal Utilities > ARTICLE IV - Water and Wastewater Systems Improvement Fee
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH13MUUT_ARTIVWAWASYIMFE"
 sha256: 26ce93fdc7a3e4ece40e4fd0e7c5a22ef3c18d2f16a5b4516441b6ea3390b1a1
-fetched_at: "2026-09-18T14:27:17+00:00"
+fetched_at: "2026-09-23T06:25:16+00:00"
 ---
 
 Any person desiring to connect and tap onto the City water system, wastewater system

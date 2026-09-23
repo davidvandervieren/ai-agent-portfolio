@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.14 - Department of Community Development > 2.14.010 - Community Development Department established - Director.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.14DECODE_2.14.010CODEDEESIR"
 sha256: 5b10cffe59ee68db648aa13652659cd4384807e20b1d06f83d555a68905d8ffb
-fetched_at: "2026-09-18T21:21:15+00:00"
+fetched_at: "2026-09-23T12:54:11+00:00"
 ---
 
 There is established the Community Development Department, the director of which shall

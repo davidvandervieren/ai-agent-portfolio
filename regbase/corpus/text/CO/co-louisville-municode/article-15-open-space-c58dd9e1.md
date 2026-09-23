@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER - FOR THE CITY OF LOUISVILLE, COLORADO > ARTICLE 15. - OPEN SPACE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=CHTRFOLOCO_ART15OPSP"
 sha256: ad6337f89dafa1be98c8c796f9e02f6c7000c15d6cd1410d46a76d24a9a476c3
-fetched_at: "2026-09-18T12:47:35+00:00"
+fetched_at: "2026-09-23T05:21:23+00:00"
 ---
 
 The purpose of this article is to establish management standards for City-owned open

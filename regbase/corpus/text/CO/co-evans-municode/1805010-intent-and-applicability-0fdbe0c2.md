@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 18 - Land Development Code > CHAPTER 18.05 - Residential Development > 18.05.010 - Intent and applicability.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT18LADECO_CH18.05REDE_18.05.010INAP"
 sha256: 2031184c871bdb77bc9d8924b3dbed63905d941aa2052193fdb4415f130e50ce
-fetched_at: "2026-09-18T21:50:25+00:00"
+fetched_at: "2026-09-23T13:22:43+00:00"
 ---
 
 Editor's note— Ord. 804-23 , § 2(Exh. A), adopted Oct. 17, 2023, repealed the former Ch. 18.05, §§ 18.05.010—18.05.040,

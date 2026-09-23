@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 9 - Public Peace, Morals and Welfare > CHAPTER 9.28 - Offenses By or Against Minors > 9.28.010 - Curfew hours for minors - exceptions.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT9PUPEMOWE_CH9.28OFAGMI_9.28.010CUHOMIXC"
 sha256: 90f9a577b2f8e84236a65b7d5b113c4b9de6175d8b1dfb97671f5b1aab6a262d
-fetched_at: "2026-09-18T21:34:16+00:00"
+fetched_at: "2026-09-23T13:06:58+00:00"
 ---
 
 It is unlawful for any minor under the age of eighteen (18) years to be or remain

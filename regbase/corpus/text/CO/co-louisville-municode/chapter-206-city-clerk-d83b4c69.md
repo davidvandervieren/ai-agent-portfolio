@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.06 - CITY CLERK
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.06CICL"
 sha256: 4ee8049017b4be40956063c3b8ae66b436d7bcbb33ba7ba45bd31f6b636ee683
-fetched_at: "2026-09-18T12:48:00+00:00"
+fetched_at: "2026-09-23T05:21:48+00:00"
 ---
 
 The city manager shall appoint a qualified person to serve as the city clerk.

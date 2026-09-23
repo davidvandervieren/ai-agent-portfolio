@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - LAND USE CODE > CHAPTER 17.33 - CAMPGROUNDS AND RECREATIONAL VEHICLE PARKS > 17.33.010 - DEVELOPMENT STANDARDS.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT17LAUSCO_CH17.33CAREVEPA_17.33.010DEST"
 sha256: e956d2b69c36d4b79291837640b4c9cb06a38873fb61f6ad4b0d40b4b1c8882e
-fetched_at: "2026-09-18T19:54:01+00:00"
+fetched_at: "2026-09-23T11:26:58+00:00"
 ---
 
 A.

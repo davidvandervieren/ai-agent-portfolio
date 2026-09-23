@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE IV - Local Improvement Regulations > Division 4 - Bond Regulations
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH4REFI_ARTIVLOIMRE_DIV4BORE"
 sha256: f5a7ca49b7b4982b3d2e5479ab425d031a978032784989636b31b54e43fb7744
-fetched_at: "2026-09-18T14:33:04+00:00"
+fetched_at: "2026-09-23T06:26:47+00:00"
 ---
 
 (a)

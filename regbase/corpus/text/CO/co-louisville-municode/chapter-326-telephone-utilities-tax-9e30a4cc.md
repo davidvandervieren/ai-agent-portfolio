@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3.26 - TELEPHONE UTILITIES TAX
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT3REFI_CH3.26TEUTTA"
 sha256: ba89a66b000c71ae3dec399334b9a7acb399dc3956d003e45720903a84c56a01
-fetched_at: "2026-09-18T12:48:46+00:00"
+fetched_at: "2026-09-23T05:22:35+00:00"
 ---
 
 Editor's note— Ord. No. 1500, § 1, adopted Sept. 19, 2006, repealed the former ch. 3.26, §§ 3.26.010—3.26.070,

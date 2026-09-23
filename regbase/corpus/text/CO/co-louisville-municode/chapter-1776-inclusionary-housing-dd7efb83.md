@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.76 - Inclusionary Housing
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.76INHO"
 sha256: 52197723cfae4366bd4f05bfc1bba6123f60123e51eafa4dcbda4b1ce415a846
-fetched_at: "2026-09-18T12:53:47+00:00"
+fetched_at: "2026-09-23T05:27:40+00:00"
 ---
 
 A.

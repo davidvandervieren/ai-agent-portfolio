@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration and Personnel > ARTICLE III - Officers and Employees
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH2ADPE_ARTIIIOFEM"
 sha256: 2f662b03376880b18f52ed7f2b570fac83c9be2d0d3e5c2a8ce2a7c141e5c399
-fetched_at: "2026-09-18T23:03:01+00:00"
+fetched_at: "2026-09-23T14:16:57+00:00"
 ---
 
 (a)

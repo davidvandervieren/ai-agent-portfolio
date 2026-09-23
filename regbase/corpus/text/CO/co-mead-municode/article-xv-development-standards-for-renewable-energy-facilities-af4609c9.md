@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE XV - Development Standards for Renewable Energy Facilities
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH16LAUSCO_ARTXVDESTREENFA"
 sha256: 13d926ccd5cde6cb6f761a3943ad11e3b1e9d8b511bad8b914c3fdc890fa01ce
-fetched_at: "2026-09-18T23:05:54+00:00"
+fetched_at: "2026-09-23T14:19:37+00:00"
 ---
 
 The following definitions apply for purposes of Chapter 16 of this Code.

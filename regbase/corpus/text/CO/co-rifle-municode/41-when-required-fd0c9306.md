@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF RIFLE HOME RULE CHARTER > ARTICLE IV - ORDINANCES > 4.1 - WHEN REQUIRED
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CIRIHORUCH_ARTIVOR_4.1WHRE"
 sha256: f0b78fb20b9cddcd46f20ae1a6fc26c27b361f5fdf2e116f242e2cbaf2b8e48f
-fetched_at: "2026-09-18T14:29:12+00:00"
+fetched_at: "2026-09-23T06:29:51+00:00"
 ---
 
 All legislative enactments of the Council must be in the form of ordinances. Legislative

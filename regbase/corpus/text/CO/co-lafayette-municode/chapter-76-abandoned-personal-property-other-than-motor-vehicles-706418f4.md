@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 76 - ABANDONED PERSONAL PROPERTY OTHER THAN MOTOR VEHICLES
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH76ABPEPROTMOVE"
 sha256: 9d67f5d8e4b9e28f68ea04535a20b9dc5c752e71844ba88ccdaf4b34d7bdcdb5
-fetched_at: "2026-09-18T12:07:28+00:00"
+fetched_at: "2026-09-23T05:02:34+00:00"
 ---
 
 Editor's note— Sec. 2 of Ord. No. 2014-13, adopted May 6, 2014, amended the Code by directing ch.

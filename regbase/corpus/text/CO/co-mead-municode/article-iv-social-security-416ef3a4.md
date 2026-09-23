@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration and Personnel > ARTICLE IV - Social Security
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH2ADPE_ARTIVSOSE"
 sha256: cf45f9893196fc8f3dc166f7620849ea34ff2e4c05d40e380059b815bd289eac
-fetched_at: "2026-09-18T23:03:03+00:00"
+fetched_at: "2026-09-23T14:16:59+00:00"
 ---
 
 In the opinion of the Board of Trustees, the extension of the social security system

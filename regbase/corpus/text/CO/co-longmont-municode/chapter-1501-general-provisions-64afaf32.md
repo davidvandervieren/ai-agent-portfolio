@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 15 - LAND DEVELOPMENT CODE > CHAPTER 15.01. - GENERAL PROVISIONS
 url: "https://library.municode.com/co/longmont/codes/code_of_ordinances?nodeId=PTIICOOR_TIT15LADECO_CH15.01GEPR"
 sha256: 268d44f9251353e82b026b01a346a3f9ae1aae184b53b2b9ec29a12c40d2b5ec
-fetched_at: "2026-09-22T03:58:42+00:00"
+fetched_at: "2026-09-23T04:32:05+00:00"
 ---
 
 State Law reference— Planning and zoning, C.R.S. § 31-23-101 et seq.

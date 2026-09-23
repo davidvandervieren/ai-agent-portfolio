@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 26 - DEVELOPMENT AND ZONING > TABLE 26-A - PERMITTED USES
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH26DEZO_TABLE_26-APEUS"
 sha256: 9b824f2a15f6be9995a13e604b45bfb55463342620e0295cb10c6a91b3cf9353
-fetched_at: "2026-09-18T12:09:14+00:00"
+fetched_at: "2026-09-23T05:08:29+00:00"
 ---
 
 Use | AG | RE1 RE2 | R0 R1 | R2 | OTR | R3 R4 | RSR | T1 | B1 | C1 | M1 | DR | P

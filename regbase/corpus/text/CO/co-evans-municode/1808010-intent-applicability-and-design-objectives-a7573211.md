@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 18 - Land Development Code > CHAPTER 18.08 - Landscape Design > 18.08.010 - Intent, applicability, and design objectives.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT18LADECO_CH18.08LADE_18.08.010INAPDEOB"
 sha256: 450cbea5cff7d69ec84a8824eec7357225e1f529a7334d2b6cb13891fa3477ff
-fetched_at: "2026-09-18T21:51:23+00:00"
+fetched_at: "2026-09-23T13:23:42+00:00"
 ---
 
 Editor's note— Ord. 804-23 , § 2(Exh. A), adopted Oct. 17, 2023, repealed the former Ch. 18.08, §§ 18.08.010—18.08.090,

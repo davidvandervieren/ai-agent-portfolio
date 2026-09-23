@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > Chapter VIII GENERAL FINANCE—BUDGET, AUDIT
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=CH_CHVIGEFIUDAU"
 sha256: 99a98c3bdb652df2cb62bf6c8ba6630d43df10d6b849186c17ee39d8c5770d58
-fetched_at: "2026-09-18T12:08:31+00:00"
+fetched_at: "2026-09-23T05:03:00+00:00"
 ---
 
 The fiscal year of the city and all its agencies shall begin on the first day of January

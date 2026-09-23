@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 13 - Municipal Utilities > ARTICLE V - Backflow Prevention Assemblies
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH13MUUT_ARTVBAPRAS"
 sha256: bd7ef3d28868ee5d6376fb564b5dce0d2e27ec6580071727e1ec4b2c46c99f53
-fetched_at: "2026-09-18T14:27:19+00:00"
+fetched_at: "2026-09-23T06:25:18+00:00"
 ---
 
 It is the intent of the City Council by this Article to protect the municipal water

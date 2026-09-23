@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.32 - FENCES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.32FE"
 sha256: f03947d049a0a4bbb7db67c652831eacb68dd0b3533a195420b54a2077b573ae
-fetched_at: "2026-09-18T12:52:37+00:00"
+fetched_at: "2026-09-23T05:26:26+00:00"
 ---
 
 Editor's note— Ord. No. 1427-2003, § 9, Oct. 7, 2003, repealed the former ch. 15.32, §§ 15.32.010,

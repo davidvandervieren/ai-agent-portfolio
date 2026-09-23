@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER VII - Planning and Zoning Regulations > SECTION XII - Natural Medicine Businesses
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHVIIPLZORE_SXIINAMEBU"
 sha256: e4fba3f86d3ef220b9904b628a20959751c00cc20cefed085880a5c0ccb5ecd5
-fetched_at: "2026-09-18T22:35:42+00:00"
+fetched_at: "2026-09-23T13:52:39+00:00"
 ---
 
 The Town Board finds and determines that the Colorado Natural Medicine Code, codified

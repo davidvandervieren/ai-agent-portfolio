@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 7 - Health, Sanitation and Animals > ARTICLE VIII - Insects—Bees
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH7HESAAN_ARTVIIIINEE"
 sha256: 7c99922071099a5e8e0ffc12c4b681835a75881ac56aa5570363fd2ba5562248
-fetched_at: "2026-09-18T23:04:19+00:00"
+fetched_at: "2026-09-23T14:18:04+00:00"
 ---
 
 The following words, terms and phrases, when used in this Article, shall have the

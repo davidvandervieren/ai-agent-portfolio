@@ -1897,18 +1897,35 @@ sources:
   - swd_well
   - compressor_station
   - gas_processing_plant
-  landing_url: https://library.municode.com/co/johnstown
+  landing_url: https://ecode360.com/JO6992
   documents:
-  - title: Article XI - Oil and Gas Exploration and Production
-    url: https://library.municode.com/co/johnstown/codes/municipal_code?nodeId=CH17SU_ARTXIOIGAEXPR
-    doc_type: ordinance
+  - title: Town of Johnstown Code (eCode360)
+    url: https://ecode360.com/JO6992
+    doc_type: code
     format: html
-    citation_root: Johnstown Municipal Code Ch. 17, Art. XI
-  confidence: verified
-  last_reviewed: '2026-09-04'
+    notes: Johnstown moved its code from Municode to General Code's eCode360; the
+      Municode publication answers with no codes and its pages render empty (checked
+      live 2026-09-23). eCode360 shows legislation through 12-01-2025.
+  - title: Chapter 17 - Land Use and Development Code (eCode360)
+    url: https://ecode360.com/49248866
+    doc_type: code
+    format: html
+    citation_root: Johnstown Municipal Code Ch. 17
+    notes: Article XI, Oil and Gas Exploration and Production, sits in this chapter.
+  - title: Land Use and Development Code (town PDF)
+    url: https://www.johnstownco.gov/DocumentCenter/View/1403/Land-Use-And-Development-Code
+    doc_type: code
+    format: pdf
+    citation_root: Johnstown Land Use and Development Code
+  - title: Town Codes | Johnstown, CO
+    url: https://www.johnstownco.gov/353/Town-Codes
+    doc_type: guidance
+    format: html
+  confidence: probable
+  last_reviewed: '2026-09-23'
   jurisdiction_level: municipal
   state: CO
-  code_platform: municode
+  code_platform: ecode360
 - id: co-milliken-municode
   municipality: Milliken
   county: Weld
@@ -1949,15 +1966,16 @@ sources:
   - swd_well
   - compressor_station
   - gas_processing_plant
-  landing_url: https://library.municode.com/co/platteville
+  landing_url: https://library.municode.com/co/platteville/codes/code_of_ordinances
   documents:
-  - title: Municipal Code | Platteville, CO (Municode)
-    url: https://library.municode.com/co/platteville
+  - title: Code of Ordinances | Platteville, CO (Municode)
+    url: https://library.municode.com/co/platteville/codes/code_of_ordinances
     doc_type: code
     format: html
-    notes: Specific oil & gas chapter not located this pass
-  confidence: unverified
-  last_reviewed: '2026-09-04'
+    notes: Code path verified by search 2026-09-23 (chapters 7 and 10 resolve under
+      codes/code_of_ordinances). Without it the harvester took the first product listed.
+  confidence: probable
+  last_reviewed: '2026-09-23'
   jurisdiction_level: municipal
   state: CO
   code_platform: municode
@@ -2118,18 +2136,24 @@ sources:
   - swd_well
   - compressor_station
   - gas_processing_plant
-  landing_url: https://library.municode.com/co/northglenn
+  landing_url: https://municode.northglenn.org/
   documents:
-  - title: Municipal Code | Northglenn, CO (Municode)
-    url: https://library.municode.com/co/northglenn
+  - title: Chapter 11 - Unified Development Ordinance | Northglenn, CO
+    url: https://municode.northglenn.org/ch11/chapter_11.html
     doc_type: code
     format: html
-    notes: Specific oil & gas chapter not located this pass
-  confidence: unverified
-  last_reviewed: '2026-09-04'
+    notes: Northglenn hosts its code itself at municode.northglenn.org, one HTML page per
+      chapter; it is not on Municode Library (verified by search 2026-09-23). Chapter 11
+      is the land-use chapter; harvest with --crawl to follow the other chapters.
+  - title: Article 1-1 - Municipal Code and Ordinances | Northglenn, CO
+    url: https://municode.northglenn.org/ch1/content_1-1.html
+    doc_type: code
+    format: html
+  confidence: probable
+  last_reviewed: '2026-09-23'
   jurisdiction_level: municipal
   state: CO
-  code_platform: municode
+  code_platform: self_hosted
 - id: co-commerce-city-municode
   municipality: Commerce City
   county: Adams
@@ -2201,18 +2225,23 @@ sources:
   - swd_well
   - compressor_station
   - gas_processing_plant
-  landing_url: https://library.municode.com/co/parachute
+  landing_url: https://parachute.municipal.codes/PMC
   documents:
-  - title: Municipal Code | Parachute, CO (Municode)
-    url: https://library.municode.com/co/parachute
+  - title: Parachute Municipal Code (municipal.codes)
+    url: https://parachute.municipal.codes/PMC
     doc_type: code
     format: html
-    notes: Specific oil & gas chapter not located this pass
-  confidence: unverified
-  last_reviewed: '2026-09-04'
+    notes: Parachute publishes on parachute.municipal.codes, not Municode Library (verified
+      by search 2026-09-23); 15 titles including land use regulations. Harvest with --crawl.
+  - title: Municipal Code | Town of Parachute
+    url: https://townofparachute.colorado.gov/government/municipal-code
+    doc_type: guidance
+    format: html
+  confidence: probable
+  last_reviewed: '2026-09-23'
   jurisdiction_level: municipal
   state: CO
-  code_platform: municode
+  code_platform: self_hosted
 - id: co-silt-municode
   municipality: Silt
   county: Garfield
@@ -2541,17 +2570,17 @@ sources:
   - swd_well
   - compressor_station
   - gas_processing_plant
-  code_platform: unknown
-  landing_url: https://library.municode.com/co/ault
+  code_platform: self_hosted
+  landing_url: https://myaultgov.org/government/codes/municipal-code/view
   documents:
-  - title: Municipal Code | Ault, CO (Municode - inferred, not directly confirmed)
-    url: https://library.municode.com/co/ault
+  - title: Municipal Code | Town of Ault, CO (town portal)
+    url: https://myaultgov.org/government/codes/municipal-code/view
     doc_type: code
-    format: html
-    notes: Not directly confirmed via search this pass - URL follows Municode CO pattern used by neighboring
-      Weld County towns; verify before use
-  confidence: unverified
-  last_reviewed: '2026-09-04'
+    format: unknown
+    notes: Ault is not on Municode Library; the town publishes the code on its own portal
+      (verified by search 2026-09-23). Format on that page not yet confirmed.
+  confidence: probable
+  last_reviewed: '2026-09-23'
   jurisdiction_level: municipal
   state: CO
 - id: co-severance-municode

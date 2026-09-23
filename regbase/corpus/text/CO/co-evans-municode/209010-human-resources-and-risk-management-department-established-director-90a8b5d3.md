@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.09 - Human Resources and Risk Management Department > 2.09.010 - Human Resources and Risk Management Department established - Director.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.09HURERIMADE_2.09.010HURERIMADEESIR"
 sha256: 5bf2dc76629af39e1046486760c3804ba79871461c54a3f6aee6cc3a542717ac
-fetched_at: "2026-09-18T21:20:47+00:00"
+fetched_at: "2026-09-23T12:53:45+00:00"
 ---
 
 There is established the Department of Human Resources and Risk Management, the director

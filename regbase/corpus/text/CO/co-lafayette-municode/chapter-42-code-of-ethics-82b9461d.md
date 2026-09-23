@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 42 - CODE OF ETHICS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH42COET"
 sha256: f3aba27264f610e25c16fb9bc3264b723ba664ec5065417d67088465819a174b
-fetched_at: "2026-09-18T12:07:10+00:00"
+fetched_at: "2026-09-23T05:02:27+00:00"
 ---
 
 Editor's note— Section 1 of Ord. No. 2008-19, adopted May 20, 2008, amended ch. 42 in its entirety

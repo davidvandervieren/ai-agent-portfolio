@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.14 - INTERNATIONAL EXISTING BUILDING CODE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.14INEXBUCO"
 sha256: 2d20e91296063eaddf6087093b1fe91b28a6c81b2622b827bff6754300c0403b
-fetched_at: "2026-09-18T12:52:19+00:00"
+fetched_at: "2026-09-23T05:26:08+00:00"
 ---
 
 Editor's note— Ord. No. 1907-2025 , § 6, adopted November 3, 2025, repealed the former Ch. 15.14, §§ 15.14.010—15.14.040,

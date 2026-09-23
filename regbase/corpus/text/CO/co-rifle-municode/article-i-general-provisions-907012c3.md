@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE I - General Provisions
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH18BURE_ARTIGEPR"
 sha256: 7fa02cea41b9b916d0f627833204fc856eb4269020ad06ae415453f0c8054805
-fetched_at: "2026-09-18T14:27:47+00:00"
+fetched_at: "2026-09-23T06:25:46+00:00"
 ---
 
 This Chapter may be cited for all purposes as the City of Rifle Building and Construction Code .

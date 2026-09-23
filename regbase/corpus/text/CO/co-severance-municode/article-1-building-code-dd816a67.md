@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE 1 - Building Code
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH18BURE_ART1BUCO"
 sha256: 85493824c69cbfa88b152e04ad8cf5c9cb772924eda61a054c6f3e5c57580ea9
-fetched_at: "2026-09-18T22:49:33+00:00"
+fetched_at: "2026-09-23T14:06:23+00:00"
 ---
 
 Editor's note— Ord. No. 2025-27 , § 2, Dec. 9, 2025, repealed the former Art. 1., §§ 18-1-10—18-10-40, and enacted

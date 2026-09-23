@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 42 - LICENSES, PERMITS AND BUSINESSES > ARTICLE VI. - NON-ALCOHOLIC ENTERTAINMENT CLUB LICENSE > DIVISION 1. - [GENERALLY]
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CO_CH42LIPEBU_ARTVINCOENCLLI_DIV1GE"
 sha256: 67deedb27652d228d27f814ee2f28707cd49175d12f474a7962a94456f09ae2b
-fetched_at: "2026-09-18T13:21:45+00:00"
+fetched_at: "2026-09-23T05:50:13+00:00"
 ---
 
 The provisions of this Article VI shall be referred to and may be cited herein as

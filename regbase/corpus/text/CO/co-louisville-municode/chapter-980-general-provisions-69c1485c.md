@@ -10,7 +10,7 @@ doc_type: code
 citation_root: VIII. WEAPONS > Chapter 9.80 - GENERAL PROVISIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=VIWE_CH9.80GEPR"
 sha256: 388b3f7fb2bba0563aee3e64e5f6fc58c44c8ecf1706a4ba22e8d60f32000878
-fetched_at: "2026-09-18T12:50:57+00:00"
+fetched_at: "2026-09-23T05:24:47+00:00"
 ---
 
 For the purposes of this article the following terms, phrases, words, and their derivatives

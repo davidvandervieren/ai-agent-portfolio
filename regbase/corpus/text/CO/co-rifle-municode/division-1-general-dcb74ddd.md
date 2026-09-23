@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE I - General Provisions > Division 1 - General
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTIGEPR_DIV1GE"
 sha256: 39e7e37e316815d32fc04056924c6733b50960cc4206e450ec90887e5d51dd59
-fetched_at: "2026-09-18T14:34:14+00:00"
+fetched_at: "2026-09-23T06:27:54+00:00"
 ---
 
 The ordinance codified in this Chapter shall be known and may be cited and referred

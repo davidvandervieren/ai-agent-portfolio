@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 7 - PARKS AND RECREATION
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH7PARE"
 sha256: 8675927cdfce7554c01a1ad080adc5015605b85e20a9b828b7174ab3bb2e2052
-fetched_at: "2026-09-18T14:04:51+00:00"
+fetched_at: "2026-09-23T06:06:53+00:00"
 ---
 
 [The following words, terms and phrases, when used in this chapter, shall have the

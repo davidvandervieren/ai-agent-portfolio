@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 7 - Health, Sanitation and Animals > ARTICLE III - Garbage and Refuse
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH7HESAAN_ARTIIIGARE"
 sha256: 49861375b704dd3e8c4d660f7bea262fdc0e03559c545b95f7429cfbc7eab687
-fetched_at: "2026-09-18T23:04:09+00:00"
+fetched_at: "2026-09-23T14:17:54+00:00"
 ---
 
 It shall be deemed a public nuisance and unlawful to deposit, accumulate, store, keep,

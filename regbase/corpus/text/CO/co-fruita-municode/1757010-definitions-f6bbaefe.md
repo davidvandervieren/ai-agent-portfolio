@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - LAND USE CODE > CHAPTER 17.57 - DEFINITIONS AND RULES OF INTERPRETATIONS > 17.57.010 - DEFINITIONS.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT17LAUSCO_CH17.57DERUIN_17.57.010DE"
 sha256: d4053ec204bf5515b3d0ffd8a08e35fcd82891d011bffa32d578bf4c23778bd4
-fetched_at: "2026-09-18T19:57:17+00:00"
+fetched_at: "2026-09-23T11:30:16+00:00"
 ---
 
 Words contained in this chapter are those having a special meaning relative to the

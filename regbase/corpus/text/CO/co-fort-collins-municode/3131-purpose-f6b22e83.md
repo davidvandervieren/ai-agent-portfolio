@@ -10,7 +10,7 @@ doc_type: code
 citation_root: ARTICLE 3 - GENERAL DEVELOPMENT STANDARDS > DIVISION 3.13 - WATER ADEQUACY DETERMINATIONS > 3.13.1 - Purpose.
 url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART3GEDEST_DIV3.13WAADDE_3.13.1PU"
 sha256: b46e7e93b9fd9f9708f48897f4076b1898eecc1b2a556d631da268ab255f12a3
-fetched_at: "2026-09-18T20:19:19+00:00"
+fetched_at: "2026-09-23T15:17:52+00:00"
 ---
 
 The general purpose of this Division is to establish the standards and procedures

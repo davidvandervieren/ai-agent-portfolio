@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.52 - ADMINISTRATION AND ENFORCEMENT
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.52ADEN"
 sha256: d8458c0e4ca0862d418aded0ea6f2dc024376b7de7d9a766e2d410a4a071e59d
-fetched_at: "2026-09-18T12:53:33+00:00"
+fetched_at: "2026-09-23T05:27:26+00:00"
 ---
 
 Cross reference— Administration and personnel, tit. 2; building code board of appeals, ch. 15.56; board of adjustment, ch. 17.48; temporary use permit, ch. 17.60.

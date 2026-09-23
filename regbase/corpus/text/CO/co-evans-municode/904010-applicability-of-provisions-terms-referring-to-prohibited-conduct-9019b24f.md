@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 9 - Public Peace, Morals and Welfare > CHAPTER 9.04 - General Provisions > 9.04.010 - Applicability of provisions - terms referring to prohibited conduct.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT9PUPEMOWE_CH9.04GEPR_9.04.010APPRERREPRCO"
 sha256: ac4c8cfc15243759fcc8e47fef2b9a484dc6024e39ecaa5ec75670b2cbd193eb
-fetched_at: "2026-09-18T21:32:05+00:00"
+fetched_at: "2026-09-23T13:04:48+00:00"
 ---
 
 A.

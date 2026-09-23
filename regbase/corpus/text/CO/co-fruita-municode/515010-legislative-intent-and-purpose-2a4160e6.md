@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > CHAPTER 5.15 - MEDICAL MARIJUANA BUSINESSES PROHIBITED > 5.15.010 - LEGISLATIVE INTENT AND PURPOSE
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT5BULIRE_CH5.15MEMABUPR_5.15.010LEINPU"
 sha256: 896c7685cdb9089a2e8252b9e4c9d3df157889efe6bbc9d23da6df409d1d10f9
-fetched_at: "2026-09-18T19:31:15+00:00"
+fetched_at: "2026-09-23T11:04:14+00:00"
 ---
 
 A.

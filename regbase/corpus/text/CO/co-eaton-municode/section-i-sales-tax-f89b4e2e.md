@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER XVI - Taxes > SECTION I - Sales Tax
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHXVITA_SISATA"
 sha256: 03222f615ed0d36302909042424fc9d72d1243870a11fc722c7509edbb94345c
-fetched_at: "2026-09-18T22:37:11+00:00"
+fetched_at: "2026-09-23T13:54:06+00:00"
 ---
 
 The purpose of this Chapter is to impose a sales tax on the privilege of selling tangible

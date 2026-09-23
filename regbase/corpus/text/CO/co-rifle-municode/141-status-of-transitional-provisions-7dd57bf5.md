@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF RIFLE HOME RULE CHARTER > ARTICLE XIV - TRANSITIONAL PERIOD > 14.1 - STATUS OF TRANSITIONAL PROVISIONS
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CIRIHORUCH_ARTXIVTRPE_14.1STTRPR"
 sha256: 17238c7c69de08806853de86d3a500a2756968f823a854974c79f7daeb660be0
-fetched_at: "2026-09-18T14:32:23+00:00"
+fetched_at: "2026-09-23T06:32:57+00:00"
 ---
 
 The purpose of this article is to provide for an orderly transition from the present

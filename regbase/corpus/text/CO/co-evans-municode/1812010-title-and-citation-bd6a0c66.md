@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 18 - Land Development Code > CHAPTER 18.12 - Areas and Activities of State Interest > 18.12.010 - Title and citation.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT18LADECO_CH18.12ARACSTIN_18.12.010TICI"
 sha256: 685585a97ba75dba244af566271d92cd06de829acf594c6ee7b2d1cf6b238f01
-fetched_at: "2026-09-18T21:52:20+00:00"
+fetched_at: "2026-09-23T13:24:39+00:00"
 ---
 
 The regulations found in this Chapter may be referred to generally as the 1041 Regulations,

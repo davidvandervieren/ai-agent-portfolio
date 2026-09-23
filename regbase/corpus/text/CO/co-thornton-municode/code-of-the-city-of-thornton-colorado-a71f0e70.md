@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CODE OF THE CITY OF THORNTON, COLORADO
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=COTHCO"
 sha256: 3693fa8d32fc4fd41d35d059b44226bfe231f5d6b6b44050cb8b7d4f6a6b7fde
-fetched_at: "2026-09-18T13:14:27+00:00"
+fetched_at: "2026-09-23T05:46:01+00:00"
 ---
 
 ____________

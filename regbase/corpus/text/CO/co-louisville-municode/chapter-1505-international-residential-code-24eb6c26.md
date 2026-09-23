@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.05 - INTERNATIONAL RESIDENTIAL CODE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.05INRECO"
 sha256: 2b21ceec3616021c1359f42bf571f33dd2a4509fb7e03644d3eef58ef581f71c
-fetched_at: "2026-09-18T12:52:11+00:00"
+fetched_at: "2026-09-23T05:26:00+00:00"
 ---
 
 Editor's note— Ord. No. 1764-2018, § 2, adopted Sep. 4, 2018, repealed the former Ch. 15.05, §§ 15.05.010—15.05.110,

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER VII - Planning and Zoning Regulations > SECTION XIII - Nonfunctional Turf, Nonfunctional Artificial Turf and Invasive Plant Species
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHVIIPLZORE_SXIIINOTUNOARTUINPLSP"
 sha256: 79d857d4a870ad3beb58d378c2429db2b792f8146af131495e254c1b0a5c8a66
-fetched_at: "2026-09-18T22:35:44+00:00"
+fetched_at: "2026-09-23T13:52:41+00:00"
 ---
 
 For purposes of this section:

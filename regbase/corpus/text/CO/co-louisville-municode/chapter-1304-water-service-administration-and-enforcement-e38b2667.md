@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - WATER AND SEWERS > Chapter 13.04 - WATER SERVICE ADMINISTRATION AND ENFORCEMENT
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT13WASE_CH13.04WASEADEN"
 sha256: 89de41d728f97de3f83c07d50f850833e22e28e43c9fc0cc58d302daf8b5b612
-fetched_at: "2026-09-18T12:51:38+00:00"
+fetched_at: "2026-09-23T05:25:28+00:00"
 ---
 
 Cross reference— Administration and personnel, tit. 2.

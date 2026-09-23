@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 7 - Civil Emergencies > CHAPTER 7.04 - Disaster Emergency Management Ordinance > 7.04.010 - Short title.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT7CIEM_CH7.04DIEMMAOR_7.04.010SHTI"
 sha256: 3c02f8ad3e3162741ce4ff8c4c965be79a2bdb93b568b4705ddac8bf1c0a96fd
-fetched_at: "2026-09-18T21:29:40+00:00"
+fetched_at: "2026-09-23T13:02:30+00:00"
 ---
 
 This chapter shall be known and may be cited and referred to as the "disaster emergency

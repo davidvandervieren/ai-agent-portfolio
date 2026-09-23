@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE XV - Knollridge PUD Procedures > Division 1 - General Provisions
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTXVKNPUPR_DIV1GEPR"
 sha256: a8b6408a8a0da5e7cdc819eeebb4bc18b8baeec43c1ff3a8afbedc9e215b2975
-fetched_at: "2026-09-18T14:34:57+00:00"
+fetched_at: "2026-09-23T06:28:36+00:00"
 ---
 
 The purpose of this Article is to set forth certain additional procedures and requirements

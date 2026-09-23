@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > Chapter I NAME AND BOUNDARIES
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=CH_CHINABO"
 sha256: cd199e100cf042a9774be95d419e08ab75143a9fa546c5bb9bc8e469e5f369a3
-fetched_at: "2026-09-18T12:08:15+00:00"
+fetched_at: "2026-09-23T05:02:46+00:00"
 ---
 
 The municipal corporation heretofore existing as the "Town of Lafayette" in Boulder

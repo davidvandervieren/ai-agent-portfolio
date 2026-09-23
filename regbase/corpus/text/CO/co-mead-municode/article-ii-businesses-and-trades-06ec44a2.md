@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE II - Businesses and Trades
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH6BULIRE_ARTIIBUTR"
 sha256: 90bb0b45099f45863a2f380dddf1b4b7437eb982d818b3291e810bf4e4ca8d3c
-fetched_at: "2026-09-18T23:03:56+00:00"
+fetched_at: "2026-09-23T14:17:40+00:00"
 ---
 
 A general business is any business activity not otherwise identified herein. The annual

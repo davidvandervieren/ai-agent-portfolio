@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Home Rule Charter > CHAPTER XVI. - Transitional Provisions > 16.1 - Status of transitional provisions.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=HORUCH_CHXVITRPR_16.1STTRPR"
 sha256: 169a8dc6fc6518712fffd22c30a618c3f1796c53cdfdbd5ecdef14fb6b9967be
-fetched_at: "2026-09-18T21:18:42+00:00"
+fetched_at: "2026-09-23T12:51:39+00:00"
 ---
 
 The purpose of this Chapter is to provide for an orderly transition from the present

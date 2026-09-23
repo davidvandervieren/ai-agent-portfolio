@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER - FOR THE CITY OF LOUISVILLE, COLORADO > ARTICLE 10. - BOARDS AND COMMISSIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=CHTRFOLOCO_ART10BOCO"
 sha256: 6e4bbe105098679db634b3c6eb2a4bf9cdda16ef34ebeb21ca5457b56bf362af
-fetched_at: "2026-09-18T12:47:24+00:00"
+fetched_at: "2026-09-23T05:21:13+00:00"
 ---
 
 (a)

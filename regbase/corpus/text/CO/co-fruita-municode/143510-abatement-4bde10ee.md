@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 14 - STORMWATER MANAGEMENT > CHAPTER 14.35 - ABATEMENT AND PENALTIES > 14.35.10 - ABATEMENT.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT14STMA_CH14.35ABPE_14.35.10AB"
 sha256: d49f962d401b7298608388f55f56b51c1a0c5bc2e78e24a23f38c792b7a88526
-fetched_at: "2026-09-18T19:48:10+00:00"
+fetched_at: "2026-09-23T11:21:06+00:00"
 ---
 
 Any person who violates a prohibition or fails to meet a requirement of this title

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 6 - Animals > CHAPTER 6.04 - Animal Control > 6.04.010 - Definitions.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT6AN_CH6.04ANCO_6.04.010DE"
 sha256: de9f582871f97514ff9f0688647d3b1e5d4ed9852fbb633c9f007369be20cd34
-fetched_at: "2026-09-18T21:28:12+00:00"
+fetched_at: "2026-09-23T13:01:00+00:00"
 ---
 
 As used in this Chapter, the following words have the following meanings:

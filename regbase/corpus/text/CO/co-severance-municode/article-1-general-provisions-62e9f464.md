@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - Offenses > ARTICLE 1. - General Provisions
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH10OF_ART1GEPR"
 sha256: 76f2afe181dae1e655a6c0612e8f62af632083b7269d6a3842e36e00c848d1ab
-fetched_at: "2026-09-18T22:48:46+00:00"
+fetched_at: "2026-09-23T14:05:29+00:00"
 ---
 
 Editor's note— Ord. No. 2022-21 § 1, adopted Oct. 27, 2022, repealed the former Ch. 10, §§ 10-1-10—10-1-60, 10-2-10—10-2-90,

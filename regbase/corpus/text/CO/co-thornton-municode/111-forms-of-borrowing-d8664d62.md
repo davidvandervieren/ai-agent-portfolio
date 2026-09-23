@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHAPTER XI. - MUNICIPAL BORROWING > 11.1. - Forms of borrowing.
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHXIMUBO_11.1FOBO"
 sha256: 7cb56fc54e9872c99efe86b34a1ed5415a689a87e635a836f2678e0bb38e48c3
-fetched_at: "2026-09-18T13:18:31+00:00"
+fetched_at: "2026-09-23T05:54:25+00:00"
 ---
 
 The City may borrow money and issue securities or enter into other obligations to

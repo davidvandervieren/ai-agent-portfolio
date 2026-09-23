@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > Chapter 5.26 - HEALTHY BEVERAGES IN CHILDREN'S MEALS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT5BULIRE_CH5.26HEBECHME"
 sha256: c98a4c967f1428c71b32e54c49701f2ed8d47136d4695ebc3d5bb5bff9d402a2
-fetched_at: "2026-09-18T12:49:26+00:00"
+fetched_at: "2026-09-23T05:23:14+00:00"
 ---
 
 For the purpose of this chapter, the following words and phrases shall have the following

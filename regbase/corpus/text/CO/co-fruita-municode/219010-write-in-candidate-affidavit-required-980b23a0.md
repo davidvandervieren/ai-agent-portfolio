@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.19 - ELECTIONS > 2.19.010 - WRITE-IN CANDIDATE AFFIDAVIT REQUIRED.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT2ADPE_CH2.19EL_2.19.010WRCAAFRE"
 sha256: cebcf13372095b740d05885ad1915a93bd8e14e79084ea0fff2657c6562a479f
-fetched_at: "2026-09-18T19:24:14+00:00"
+fetched_at: "2026-09-23T10:57:03+00:00"
 ---
 
 No write-in vote for any municipal office shall be counted unless an affidavit of

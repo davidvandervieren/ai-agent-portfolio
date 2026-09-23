@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 13 - Municipal Utilities > ARTICLE I - Water System > Division 1 - General Provisions
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH13MUUT_ARTIWASY_DIV1GEPR"
 sha256: 03307dc1a76aac4d5ce164cb6888e0007600e821967e76fa61c18d512fb99123
-fetched_at: "2026-09-18T14:33:41+00:00"
+fetched_at: "2026-09-23T06:27:24+00:00"
 ---
 
 Unless the context specifically indicates otherwise, the following terms, as used

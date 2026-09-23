@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 20 - TAXATION > ARTICLE IX. - TAX ON HOTEL AND MOTEL ROOM AND ACCOMMODATION SERVICES
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH20TA_ARTIXTAHOMOROACSE"
 sha256: 453dddd416ae10548adb21dd22ffc29e5f8f1ab55342fe9e8b26bf2f1306f761
-fetched_at: "2026-09-18T14:06:12+00:00"
+fetched_at: "2026-09-23T06:08:26+00:00"
 ---
 
 The purpose of this article is to impose a four (4) percent tax on the price paid

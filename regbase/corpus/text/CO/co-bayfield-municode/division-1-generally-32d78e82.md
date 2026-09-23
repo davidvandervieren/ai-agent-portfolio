@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 15 - UTILITIES > ARTICLE IV. - SEWER > DIVISION 1. - GENERALLY
 url: "https://library.municode.com/co/bayfield/codes/code_of_ordinances?nodeId=CO_CH15UT_ARTIVSE_DIV1GE"
 sha256: dc5278fe50fca32800905942d1cc3b2ab8e13dde18082049086a278ebda9b033
-fetched_at: "2026-09-18T18:34:42+00:00"
+fetched_at: "2026-09-23T10:13:01+00:00"
 ---
 
 Editor's note— Ord. No. 458, adopted April 20, 2021, added Art. IV, Sewer, title. Ord. No. 469, adopted

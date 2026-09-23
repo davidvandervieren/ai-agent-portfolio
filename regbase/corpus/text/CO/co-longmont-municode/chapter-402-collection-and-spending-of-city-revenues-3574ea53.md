@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 4 - REVENUE AND FINANCE > CHAPTER 4.02. - COLLECTION AND SPENDING OF CITY REVENUES
 url: "https://library.municode.com/co/longmont/codes/code_of_ordinances?nodeId=PTIICOOR_TIT4REFI_CH4.02COSPRE"
 sha256: 558d8e9fe09e477ab41256e25e45bb9a90f80d2fbbe5152f6eaf5e0aab470be4
-fetched_at: "2026-09-22T03:53:59+00:00"
+fetched_at: "2026-09-23T04:26:54+00:00"
 ---
 
 Subject to budgeting requirements of the Longmont home rule Charter, the city, for

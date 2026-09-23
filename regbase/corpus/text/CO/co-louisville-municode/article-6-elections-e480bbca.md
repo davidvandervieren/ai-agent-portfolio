@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER - FOR THE CITY OF LOUISVILLE, COLORADO > ARTICLE 6. - ELECTIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=CHTRFOLOCO_ART6EL"
 sha256: 4487bdcf80fa282d0e85646e34338cf92831f25a7b505758f80debf0716b59ad
-fetched_at: "2026-09-18T12:47:14+00:00"
+fetched_at: "2026-09-23T05:21:05+00:00"
 ---
 
 Except as otherwise provided by this Charter or by ordinance, City elections shall

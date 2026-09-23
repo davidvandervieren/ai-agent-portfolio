@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration and Personnel > ARTICLE XI - Records Retention
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH2ADPE_ARTXIRERE"
 sha256: 9e0e01aaf458592c27a5d886530013fe7dca7efd48efef07e5a706e526d72d8a
-fetched_at: "2026-09-18T23:03:17+00:00"
+fetched_at: "2026-09-23T14:17:11+00:00"
 ---
 
 It is hereby declared to be the policy of the Town to provide for the efficient, economical

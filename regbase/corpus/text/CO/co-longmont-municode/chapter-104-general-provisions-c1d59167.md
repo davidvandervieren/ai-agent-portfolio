@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 1 - GENERAL PROVISIONS > CHAPTER 1.04. - GENERAL PROVISIONS
 url: "https://library.municode.com/co/longmont/codes/code_of_ordinances?nodeId=PTIICOOR_TIT1GEPR_CH1.04GEPR"
 sha256: 94b4100bab035fe40d89a357ffd8a8307e590c51bdf38bc907953dcc428142b0
-fetched_at: "2026-09-22T03:52:58+00:00"
+fetched_at: "2026-09-23T04:25:49+00:00"
 ---
 
 The ordinances contained in these chapters shall constitute and shall be designated

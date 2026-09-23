@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER VII - Planning and Zoning Regulations > SECTION XI - Telecommunications Towers and Antennas
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHVIIPLZORE_SXITETOAN"
 sha256: a3896aff43b04e9192ed9b3b5ae329e2739dcd9c66028cd8960e7401ad746eca
-fetched_at: "2026-09-18T22:35:40+00:00"
+fetched_at: "2026-09-23T13:52:37+00:00"
 ---
 
 Alternative tower structure shall mean man-made trees, clock towers, bell steeples, light poles and similar alternative

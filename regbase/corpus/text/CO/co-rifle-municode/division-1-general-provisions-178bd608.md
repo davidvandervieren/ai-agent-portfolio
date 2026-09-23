@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 13 - Municipal Utilities > ARTICLE III - Wastewater System > Division 1 - General Provisions
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH13MUUT_ARTIIIWASY_DIV1GEPR"
 sha256: 0e81f161d8b8c387f65e34bd5688670182f820e91450eb8759087247bc07744d
-fetched_at: "2026-09-18T14:33:59+00:00"
+fetched_at: "2026-09-23T06:27:42+00:00"
 ---
 
 Whenever the following words or phrases are used in this Article, they shall have

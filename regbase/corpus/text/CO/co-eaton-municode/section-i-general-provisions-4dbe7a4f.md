@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER X - General Offenses > SECTION I - General Provisions
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHXGEOF_SIGEPR"
 sha256: ab5ae628461c95db1bcd3cd7642beeadc965a96ee4fc562b73b1461dc2f4618e
-fetched_at: "2026-09-18T22:36:15+00:00"
+fetched_at: "2026-09-23T13:53:09+00:00"
 ---
 
 (a)

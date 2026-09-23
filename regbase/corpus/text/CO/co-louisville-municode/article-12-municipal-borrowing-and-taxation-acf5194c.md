@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER - FOR THE CITY OF LOUISVILLE, COLORADO > ARTICLE 12. - MUNICIPAL BORROWING AND TAXATION
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=CHTRFOLOCO_ART12MUBOTA"
 sha256: c06c044611531cecbf565d66c5dc01fabc25fef5aa199c0c199acefc1bed3c79
-fetched_at: "2026-09-18T12:47:29+00:00"
+fetched_at: "2026-09-23T05:21:17+00:00"
 ---
 
 (a)

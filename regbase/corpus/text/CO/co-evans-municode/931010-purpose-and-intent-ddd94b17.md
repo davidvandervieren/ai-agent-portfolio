@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 9 - Public Peace, Morals and Welfare > CHAPTER 9.31 - Camping and Camping-Related Activities on Public Property > 9.31.010 - Purpose and intent.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT9PUPEMOWE_CH9.31CACALAACPUPR_9.31.010PUIN"
 sha256: 435697689f7a3a8ac41e9255ee8d76dc71e4f9412f33e0652cc70f12e5e353a5
-fetched_at: "2026-09-18T21:34:54+00:00"
+fetched_at: "2026-09-23T13:07:30+00:00"
 ---
 
 Section 1.3 of the Evans Home Rule Charter; Title 31, Art. 15 of the Colorado Revised Statutes;

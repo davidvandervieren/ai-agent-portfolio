@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 6 - DEPARTMENTS AND OFFICERS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH6DEOF"
 sha256: 19ee0fb001bb6d00aaab9cc0cb5fb9d03d3bc32317b418741a55414b3550ad67
-fetched_at: "2026-09-18T12:06:38+00:00"
+fetched_at: "2026-09-23T05:02:11+00:00"
 ---
 
 (a)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE 1 - Cable Television Franchise > Division 7 - Reports and Records
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH5FRCOSY_ART1CATEFR_DIV7RERE"
 sha256: dcf7bae1cac0a7c9b9c966da1db1ff037bb7344e8c2f8949da1863c9022da046
-fetched_at: "2026-09-18T22:53:29+00:00"
+fetched_at: "2026-09-23T14:07:02+00:00"
 ---
 
 The Town, including the Town's auditor or his or her authorized representative, shall

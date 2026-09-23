@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.12 - Police Department > 2.12.010 - Established - Chief of Police authority.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.12PODE_2.12.010ESHIPOAU"
 sha256: 2964d8ed9d5509245a10a8588fe5c9f2ef46fa3986d5f6a3abfc331c4f7e4f63
-fetched_at: "2026-09-18T21:20:59+00:00"
+fetched_at: "2026-09-23T12:53:57+00:00"
 ---
 
 There is hereby established the Police Department, the Director of which shall be

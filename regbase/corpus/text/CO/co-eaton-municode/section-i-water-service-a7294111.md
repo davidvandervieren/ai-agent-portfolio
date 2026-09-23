@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER IX - Water and Sewer > SECTION I - Water Service
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHIXWASE_SIWASE"
 sha256: c834fbf62d1d4a96f955c848d67645664bbf0e88cd18cc4327f9e141d750b0a7
-fetched_at: "2026-09-18T22:36:00+00:00"
+fetched_at: "2026-09-23T13:52:55+00:00"
 ---
 
 It shall be unlawful for any owner, lessee or user to turn on or cause to be turned

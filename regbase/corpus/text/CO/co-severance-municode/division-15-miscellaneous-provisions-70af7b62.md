@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE 1 - Cable Television Franchise > Division 15 - Miscellaneous Provisions
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH5FRCOSY_ART1CATEFR_DIV15MIPR"
 sha256: 60e01910483957801aa815ac686bdb395f15f62de1dc49e2e888e3b5a0ae6ce9
-fetched_at: "2026-09-18T22:53:45+00:00"
+fetched_at: "2026-09-23T14:07:18+00:00"
 ---
 
 If any section, subsection, paragraph, term or provision of this Franchise is determined

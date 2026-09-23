@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER - FOR THE CITY OF LOUISVILLE, COLORADO > ARTICLE 5. - OPEN GOVERNMENT AND ETHICS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=CHTRFOLOCO_ART5OPGOET"
 sha256: 8a3566482497a3fd7d35cf58ec2c57f1078fbcca4ccc7d37f359dd603d2c86c3
-fetched_at: "2026-09-18T12:47:12+00:00"
+fetched_at: "2026-09-23T05:21:03+00:00"
 ---
 
 (a)

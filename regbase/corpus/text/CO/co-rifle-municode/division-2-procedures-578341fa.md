@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE IV - Local Improvement Regulations > Division 2 - Procedures
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH4REFI_ARTIVLOIMRE_DIV2PR"
 sha256: b4a8625908775e14e4ea87f4408d4858a6a8ec7d9cc630988c8ad432b21ec07a
-fetched_at: "2026-09-18T14:33:00+00:00"
+fetched_at: "2026-09-23T06:26:43+00:00"
 ---
 
 The City Council, upon behalf of the City and in its name, for the purpose of defraying

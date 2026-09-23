@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - Business Taxes, Licenses and Regulations > CHAPTER 5.20 - Pawnbrokers > 5.20.010 - Pawnbroker defined.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT5BUTALIRE_CH5.20PA_5.20.010PADE"
 sha256: 94989fe6f25c02e652612bf459c6c37622c6ad40329823ce29105a6ef284c5b2
-fetched_at: "2026-09-18T21:26:36+00:00"
+fetched_at: "2026-09-23T12:59:22+00:00"
 ---
 
 A.

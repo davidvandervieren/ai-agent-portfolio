@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE XII - Smoking Ban
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH10GEOF_ARTXIISMBA"
 sha256: 247520f0d3755c5c7bd33d04b165e5f775d012503789219c7a281770acbb4e12
-fetched_at: "2026-09-18T14:27:05+00:00"
+fetched_at: "2026-09-23T06:25:04+00:00"
 ---
 
 This Article seeks to protect nonsmokers from involuntary exposure to environmental

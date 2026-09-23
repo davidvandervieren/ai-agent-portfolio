@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8.12 - TREES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.12TR"
 sha256: e45c2caaaa16a15c68fa2d1a61e4eb417f09585eefd344689b644874fc6839c6
-fetched_at: "2026-09-18T12:49:48+00:00"
+fetched_at: "2026-09-23T05:23:39+00:00"
 ---
 
 Editor's note— Ord. No. 1484-2006, § 1, adopted Feb. 7, 2006, repealed the former ch. 8.12, §§ 8.12.010—8.12-160,

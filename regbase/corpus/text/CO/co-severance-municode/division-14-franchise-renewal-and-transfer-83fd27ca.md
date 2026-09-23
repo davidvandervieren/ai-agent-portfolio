@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE 1 - Cable Television Franchise > Division 14 - Franchise Renewal and Transfer
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH5FRCOSY_ART1CATEFR_DIV14FRRETR"
 sha256: 5c921b9b34c298aaeb6f13ff7f3b01a5ec96c2cc4287c4aa24058c8f22e67784
-fetched_at: "2026-09-18T22:53:43+00:00"
+fetched_at: "2026-09-23T14:07:16+00:00"
 ---
 
 The Town and the Grantee agree that any proceedings undertaken by the Town that relate

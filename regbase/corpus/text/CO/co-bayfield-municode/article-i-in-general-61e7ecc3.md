@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 9 - OFFENSES—MISCELLANEOUS > ARTICLE I. - IN GENERAL
 url: "https://library.municode.com/co/bayfield/codes/code_of_ordinances?nodeId=CO_CH9OFIS_ARTIINGE"
 sha256: dcef3c1d7326803ff9e04e183c39efac7f95eef43bfe701a33b177e31f5d4d70
-fetched_at: "2026-09-18T18:33:22+00:00"
+fetched_at: "2026-09-23T10:12:25+00:00"
 ---
 
 Cross reference— Cruelty to animals, § 3-1; vehicle mufflers, § 7-5; failure to appear in municipal court, § 8-46; fraudulently avoiding payment of admission fees, § 9-24; police department, Ch. 11.

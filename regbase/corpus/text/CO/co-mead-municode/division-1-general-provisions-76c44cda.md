@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE III - Alcohol Beverages > Division 1 - General Provisions
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH6BULIRE_ARTIIIALBE_DIV1GEPR"
 sha256: bef174de973f20ec6415f7ac026bfc3e50ac799c743a89c44311e739af3f8eeb
-fetched_at: "2026-09-18T23:06:25+00:00"
+fetched_at: "2026-09-23T14:20:07+00:00"
 ---
 
 Editor's note— Ord. No. 1068 , §1, 2024, repealed the former Art. III, §§ 6-3-10—6-3-390, and enacted a new Art.

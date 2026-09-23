@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE IX - Retail Marijuana
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH6BULIRE_ARTIXREMA"
 sha256: 93d64d2586d6cfeb06f5639259a1d2f599c87947ec2bef9aae63b077a6404392
-fetched_at: "2026-09-18T14:26:24+00:00"
+fetched_at: "2026-09-23T06:24:21+00:00"
 ---
 
 Section 16 of Article XVIII of the Colorado Constitution, also commonly known as Amendment

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE I - Franchise Applications Generally.
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH5FRCOSY_ARTIFRAPGE"
 sha256: 2e5205cf497a7b634213ad5fd3200465f2810a5d312aee7f1699447a3bdd0947
-fetched_at: "2026-09-18T23:03:47+00:00"
+fetched_at: "2026-09-23T14:17:34+00:00"
 ---
 
 Editor's note— Ord. No. 1027 , §2, adopted March 27, 2023, repealed the former Ch. 5, Art. I—VII, §§ 5-1-10—5-1-60;

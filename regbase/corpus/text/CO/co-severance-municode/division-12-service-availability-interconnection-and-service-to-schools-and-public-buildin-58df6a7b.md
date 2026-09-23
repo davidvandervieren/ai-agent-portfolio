@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE 1 - Cable Television Franchise > Division 12 - Service Availability, Interconnection and Service to Schools and Public Buildings
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH5FRCOSY_ART1CATEFR_DIV12SEAVINSESCPUBU"
 sha256: 8070fba464c42f078f08c7d7b8df44f4edfd526c77bbeab31e0fe4d6fd5c86fb
-fetched_at: "2026-09-18T22:53:39+00:00"
+fetched_at: "2026-09-23T14:07:12+00:00"
 ---
 
 (a)

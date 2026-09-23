@@ -10,7 +10,7 @@ doc_type: code
 citation_root: I. OFFENSES BY OR AGAINST PUBLIC OFFICERS AND GOVERNMENT > Chapter 9.02 - INTERFERENCE WITH FIRE DEPARTMENT
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=I.OFAGPUOFGO_CH9.02INFIDE"
 sha256: bb0232d1605c57b2fd4a9edab22d6046a0a41805801ff339d25d1179011d8c58
-fetched_at: "2026-09-18T12:50:15+00:00"
+fetched_at: "2026-09-23T05:24:05+00:00"
 ---
 
 Cross reference— Administration and personnel, tit. 2.

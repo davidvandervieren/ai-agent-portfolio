@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHAPTER XVIII - COLLECTIVE BARGAINING FOR FIRE FIGHTERS AND POLICE OFFICERS > 18.1. - Statement of policy.
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHXVIIICOBAFIFIPOOF_18.1STPO"
 sha256: 7b460be5ce1bc12c9925c95cb0516a9d2bac4e778eacabcf25d0aff637a6ed95
-fetched_at: "2026-09-18T13:19:30+00:00"
+fetched_at: "2026-09-23T05:55:23+00:00"
 ---
 
 The protection of the public health, safety and welfare demand that fire fighters

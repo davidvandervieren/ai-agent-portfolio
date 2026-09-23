@@ -10,7 +10,7 @@ doc_type: code
 citation_root: ARTICLE 3 - GENERAL DEVELOPMENT STANDARDS > Division 3.11 - Development Standards for the South College Gateway Area > 3.11.1 - Applicability and Purpose
 url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART3GEDEST_DIV3.11DESTSOCOGAAR_3.11.1APPU"
 sha256: 5dda2b9d76fa672585d3a18e8d2791a2121863ac9e96e3bbc874b078a1386c92
-fetched_at: "2026-09-18T20:18:59+00:00"
+fetched_at: "2026-09-23T15:17:32+00:00"
 ---
 
 (A)

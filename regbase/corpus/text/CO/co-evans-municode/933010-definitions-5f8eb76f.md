@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 9 - Public Peace, Morals and Welfare > CHAPTER 9.33 - Fireworks > 9.33.010 - Definitions.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT9PUPEMOWE_CH9.33FI_9.33.010DE"
 sha256: 7db26e7f36720377e86894f526306e43a40b1927f8cc4ab88c3c917dc299d4d2
-fetched_at: "2026-09-18T21:35:34+00:00"
+fetched_at: "2026-09-23T13:08:10+00:00"
 ---
 
 A.

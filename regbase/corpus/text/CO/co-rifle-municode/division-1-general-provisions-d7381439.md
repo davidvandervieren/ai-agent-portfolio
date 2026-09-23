@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 11 - Streets, Sidewalks and Public Property > ARTICLE I - Sidewalks > Division 1 - General Provisions
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH11STSIPUPR_ARTISI_DIV1GEPR"
 sha256: 417cea6ef02f6cf481cf002bb830769d1c494a33b5a2b55e32e89f7b95eb3378
-fetched_at: "2026-09-18T14:33:32+00:00"
+fetched_at: "2026-09-23T06:27:16+00:00"
 ---
 
 A sidewalk having an offset, being either a raise or a depression in excess of three-quarters

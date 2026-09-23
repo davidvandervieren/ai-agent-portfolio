@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 10 - BUILDING CODE > ARTICLE V. - SOUTH THORNTON URBAN RENEWAL AUTHORITY NON-RESIDENTIAL PROPERTY MAINTENANCE CODE. > DIVISION 1. - SCOPE AND APPLICATION
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CO_CH10BUCO_ARTVSOTHURREAUNSIPRMACO_DIV1SCAP"
 sha256: b34aeb3c5e4435715207ac9b398225184141cc3b63dfddbc8c0f3128a42ce6e5
-fetched_at: "2026-09-18T13:20:30+00:00"
+fetched_at: "2026-09-23T05:48:29+00:00"
 ---
 
 (a)

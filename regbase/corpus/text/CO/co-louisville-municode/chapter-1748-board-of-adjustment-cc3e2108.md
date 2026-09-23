@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.48 - BOARD OF ADJUSTMENT
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.48BOAD"
 sha256: 4a44da6429d63b57cc8e0bdfc2962f53bd0050efd8acc51a9f45e21d3600fe7f
-fetched_at: "2026-09-18T12:53:31+00:00"
+fetched_at: "2026-09-23T05:27:24+00:00"
 ---
 
 Cross reference— Administration and enforcement, ch. 17.52.

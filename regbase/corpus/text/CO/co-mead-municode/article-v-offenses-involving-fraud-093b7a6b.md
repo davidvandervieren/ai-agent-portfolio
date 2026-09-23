@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE V - Offenses Involving Fraud
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH10GEOF_ARTVOFINFR"
 sha256: 2e893486f4f5bcb38d6963e1ec2adcf042fe52d2d9af47291b4f02c38c13f10a
-fetched_at: "2026-09-18T23:04:43+00:00"
+fetched_at: "2026-09-23T14:18:28+00:00"
 ---
 
 (a)

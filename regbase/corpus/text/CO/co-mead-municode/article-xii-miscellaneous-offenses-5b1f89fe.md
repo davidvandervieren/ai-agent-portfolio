@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE XII - Miscellaneous Offenses
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH10GEOF_ARTXIIMIOF"
 sha256: 6241b6f6cd7b18ab4a26559f276e816c52ddfc1717211681c3ac4881f4840d24
-fetched_at: "2026-09-18T23:04:58+00:00"
+fetched_at: "2026-09-23T14:18:43+00:00"
 ---
 
 It is unlawful for any person to engage in gambling; namely, the risking of any money,

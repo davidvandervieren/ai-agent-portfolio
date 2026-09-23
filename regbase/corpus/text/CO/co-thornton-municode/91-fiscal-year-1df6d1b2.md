@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHAPTER IX. - GENERAL FINANCE—BUDGET, AUDIT > 9.1. - Fiscal year.
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHIXGEFIUDAU_9.1FIYE"
 sha256: b9c58f3f13ed4a46d4ffc22141402b03a5ffd79641fd95a39d2fbb026db3e9e9
-fetched_at: "2026-09-18T13:18:07+00:00"
+fetched_at: "2026-09-23T05:54:01+00:00"
 ---
 
 The fiscal year of the City and of all its agencies shall begin on the first day of

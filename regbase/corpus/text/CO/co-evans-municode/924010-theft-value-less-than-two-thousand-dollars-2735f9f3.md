@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 9 - Public Peace, Morals and Welfare > CHAPTER 9.24 - Offenses Against Property > 9.24.010 - Theft - value less than two thousand dollars.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT9PUPEMOWE_CH9.24OFAGPR_9.24.010THALLETWTHDO"
 sha256: 2309d128e89f5e4ef6ae8b93bf6716a6781b9d18f9ff4b72090c38cd06c817f2
-fetched_at: "2026-09-18T21:33:25+00:00"
+fetched_at: "2026-09-23T13:06:08+00:00"
 ---
 
 A person commits theft when he or she knowingly obtains or exercises control over

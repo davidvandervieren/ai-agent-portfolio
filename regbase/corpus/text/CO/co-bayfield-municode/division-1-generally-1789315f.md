@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 15 - UTILITIES > ARTICLE III. - STORMWATER > DIVISION 1. - GENERALLY
 url: "https://library.municode.com/co/bayfield/codes/code_of_ordinances?nodeId=CO_CH15UT_ARTIIIST_DIV1GE"
 sha256: 206969a1213995af2449dcc645aa08043fca13510917d8859c8cee6dffdf72f4
-fetched_at: "2026-09-18T18:34:38+00:00"
+fetched_at: "2026-09-23T10:12:55+00:00"
 ---
 
 It is the intent of this article to: promote the public health, safety and welfare

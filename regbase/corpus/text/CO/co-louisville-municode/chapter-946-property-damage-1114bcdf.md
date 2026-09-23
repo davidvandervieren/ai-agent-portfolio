@@ -10,7 +10,7 @@ doc_type: code
 citation_root: V. OFFENSES AGAINST PROPERTY > Chapter 9.46 - PROPERTY DAMAGE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=V.OFAGPR_CH9.46PRDA"
 sha256: 61336759e705ab110f83c0a494ba52c2257eef019f06cdf47e722249d14f70f5
-fetched_at: "2026-09-18T12:50:37+00:00"
+fetched_at: "2026-09-23T05:24:27+00:00"
 ---
 
 It shall be unlawful for any person to willfully, maliciously, wantonly, negligently

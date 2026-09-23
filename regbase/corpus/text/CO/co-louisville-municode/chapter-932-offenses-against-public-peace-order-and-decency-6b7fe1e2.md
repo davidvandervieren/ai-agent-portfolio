@@ -10,7 +10,7 @@ doc_type: code
 citation_root: IV. OFFENSES AGAINST PUBLIC PEACE > Chapter 9.32 - OFFENSES AGAINST PUBLIC PEACE, ORDER AND DECENCY
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=IVOFAGPUPE_CH9.32OFAGPUPEORDE"
 sha256: a36ee8a979d20f3ce47b7879b8ebbbd3f4cb30cb6bfc0f6a2cccb2d416dd233b
-fetched_at: "2026-09-18T12:50:25+00:00"
+fetched_at: "2026-09-23T05:24:15+00:00"
 ---
 
 Ord. No. 1790-2020, § 1, adopted February 4, 2020, repealed ch. 9.32, §§ 9.32.010—9.32.050 and enacted a new ch. 9.32 as set out herein. Former ch. 9.32 pertained to disorderly conduct and derived from §§ 9.32.010—9.32.050 of the Code of 1977; Ord. No. 579-1978, § 15; Ord. No. 718-1981, § 2; Ord. No. 748-1981,

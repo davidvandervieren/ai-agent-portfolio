@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - WATER AND SEWERS > Chapter 13.20 - SEWER SERVICE ADMINISTRATION AND ENFORCEMENT
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT13WASE_CH13.20SESEADEN"
 sha256: 17d73aaf83a5b2935d95a8f5174b4bba4b0165145a057a097cf5388b17bf9cc3
-fetched_at: "2026-09-18T12:51:44+00:00"
+fetched_at: "2026-09-23T05:25:34+00:00"
 ---
 
 Cross reference— Administration and personnel, tit. 2.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3.30 - EMERGENCY TELEPHONE CHARGE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT3REFI_CH3.30EMTECH"
 sha256: 6f4013795201febfd483729ab840720c585147e78050356eee81d441cafb2f6d
-fetched_at: "2026-09-18T12:48:48+00:00"
+fetched_at: "2026-09-23T05:22:38+00:00"
 ---
 
 Cross reference— Telephone utility tax, ch. 3.26.

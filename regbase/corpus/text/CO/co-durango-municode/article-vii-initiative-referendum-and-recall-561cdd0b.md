@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE VII. - INITIATIVE, REFERENDUM AND RECALL
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTICH_ARTVIIINRERE"
 sha256: ce8c6e6ae12eaa2f8a631f6ce6b7d7e8e36cc933bea19d4408507c1430b5dc89
-fetched_at: "2026-09-18T17:59:29+00:00"
+fetched_at: "2026-09-23T09:57:13+00:00"
 ---
 
 (a)

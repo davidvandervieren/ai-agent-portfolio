@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 74 - UTILITIES > ARTICLE IV. - WATER AND SEWER SYSTEMS > DIVISION 5. - RATES AND CHARGES
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CO_CH74UT_ARTIVWASESY_DIV5RACH"
 sha256: 977b5cf61c6ee52fd7976cc54c3f953bdc3184b45cc4b05286affa350e3a8b32
-fetched_at: "2026-09-18T13:22:48+00:00"
+fetched_at: "2026-09-23T05:50:47+00:00"
 ---
 
 Water, sewer, and stormwater service charges shall be as established by ordinance.

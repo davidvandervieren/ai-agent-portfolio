@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER VII - Planning and Zoning Regulations > SECTION VII - Oil and Gas Drilling Regulations
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHVIIPLZORE_SVIIOIGADRRE"
 sha256: a073a262966f9613644d97d3e7df566d5684b1b16b4e11398b1d6919de0d16a3
-fetched_at: "2026-09-18T22:35:36+00:00"
+fetched_at: "2026-09-23T13:52:31+00:00"
 ---
 
 These regulations are enacted to protect and promote the health, safety, morals, convenience,

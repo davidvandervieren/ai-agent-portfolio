@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 13 - LICENSES AND BUSINESS REGULATIONS > ARTICLE IV. - SOLICITORS AND VENDORS > DIVISION 1. - DOOR TO DOOR SOLICITATION
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTIICOOR_CH13LIBURE_ARTIVSOVE_DIV1DODOSO"
 sha256: 0f374eea46e2bbb38c821b4e8d2d6b31c19de87a24cafe9dc5313fb9defa8e7a
-fetched_at: "2026-09-18T18:02:00+00:00"
+fetched_at: "2026-09-23T10:01:20+00:00"
 ---
 
 Editor's note— Ord. No. O-2015-01, § 1, adopted Feb. 3, 2015, amended Art. IV in its entirety to

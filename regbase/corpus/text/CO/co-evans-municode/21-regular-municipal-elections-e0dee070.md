@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Home Rule Charter > CHAPTER II. - Elections > 2.1 -           Regular municipal elections.          
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=HORUCH_CHIIEL_2.1REMUEL"
 sha256: 1ded4906960ffed4f76a3e1e6efed4fee52b90202ea3abd6f36ce7055a0ebe11
-fetched_at: "2026-09-18T21:14:13+00:00"
+fetched_at: "2026-09-23T12:47:15+00:00"
 ---
 
 Regular municipal elections shall be held on the first Tuesday following the first

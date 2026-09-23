@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Home Rule Charter > CHAPTER V. - Municipal Court > 5.1 - Municipal Court.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=HORUCH_CHVMUCO_5.1MUCO"
 sha256: 89acaa269ae510f33cfbeb0490815981e397b28869fd4855aad50c7e084bb9d4
-fetched_at: "2026-09-18T21:15:19+00:00"
+fetched_at: "2026-09-23T12:48:25+00:00"
 ---
 
 (a)

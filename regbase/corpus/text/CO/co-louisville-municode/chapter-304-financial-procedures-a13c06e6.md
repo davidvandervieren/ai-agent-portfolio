@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3.04 - FINANCIAL PROCEDURES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT3REFI_CH3.04FIPR"
 sha256: 7de8872406d2fb9b7ddd20e0959988b364a9002f4a71f981ea3172d4d8240155
-fetched_at: "2026-09-18T12:48:30+00:00"
+fetched_at: "2026-09-23T05:22:19+00:00"
 ---
 
 The fiscal year of the city shall commence on January 1 in each year.

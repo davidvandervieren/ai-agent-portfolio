@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - LAND USE CODE > CHAPTER 17.15 - SIGN CODE > 17.15.010 - PURPOSE.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT17LAUSCO_CH17.15SICO_17.15.010PU"
 sha256: 30dab693ab7c25bbcc5663738c2f91aa26f469c7250395b8a975f8cbe9104744
-fetched_at: "2026-09-18T19:51:47+00:00"
+fetched_at: "2026-09-23T11:24:45+00:00"
 ---
 
 The standards and requirements contained in this chapter are intended to coordinate

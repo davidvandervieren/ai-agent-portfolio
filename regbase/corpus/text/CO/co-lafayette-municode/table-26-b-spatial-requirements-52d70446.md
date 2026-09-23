@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 26 - DEVELOPMENT AND ZONING > TABLE 26-B - SPATIAL REQUIREMENTS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH26DEZO_TABLE_26-BSPRE"
 sha256: f049b7f869eb79e807efa5b3b149825f4d1b0f9f8b780711f79a7aff64483505
-fetched_at: "2026-09-18T12:09:16+00:00"
+fetched_at: "2026-09-23T05:08:30+00:00"
 ---
 
 | AG | RE1 | RE2 | R0 | R1 | R2 | R3 | R4 | RSR | OTR | T1 | B1 | C1 | M1 | DR | P

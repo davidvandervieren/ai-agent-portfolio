@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > CHAPTER 5.60 - QUALIFICATIONS OF APPLICANTS > 5.60.010 - QUALIFICATIONS OF APPLICANTS.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT5BULIRE_CH5.60QUAP_5.60.010QUAP"
 sha256: a7766f18b7efcc445cf4992d037daffa94b9dda60112c77dd31400c7414d089c
-fetched_at: "2026-09-18T19:33:28+00:00"
+fetched_at: "2026-09-23T11:06:28+00:00"
 ---
 
 The general standards set out in this section relative to the qualifications of every

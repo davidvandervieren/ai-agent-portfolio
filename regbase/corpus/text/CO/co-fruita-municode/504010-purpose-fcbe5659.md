@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > CHAPTER 5.04 - BUSINESS LICENSES > 5.04.010 - PURPOSE.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT5BULIRE_CH5.04BULI_5.04.010PU"
 sha256: 58852d617c72d283bb874301c440801d7c90660676b4c998b6a1dab14b8169ee
-fetched_at: "2026-09-18T19:30:42+00:00"
+fetched_at: "2026-09-23T11:03:34+00:00"
 ---
 
 The purpose of this chapter is the regulation and registration of businesses operating

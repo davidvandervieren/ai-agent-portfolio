@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE 1 - Cable Television Franchise > Division 9 - Access
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH5FRCOSY_ART1CATEFR_DIV9AC"
 sha256: 0bf8437f0e76cd132dfff0d8d478d0cfc2ed3171043f1f957a6d21a0829ae5d4
-fetched_at: "2026-09-18T22:53:33+00:00"
+fetched_at: "2026-09-23T14:07:06+00:00"
 ---
 
 Upon ninety (90) days' written notice from the Town, prior to the beginning of production

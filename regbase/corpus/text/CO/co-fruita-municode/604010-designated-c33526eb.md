@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 6 - ANIMALS > CHAPTER 6.04 - DEFINITIONS > 6.04.010 - DESIGNATED.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT6AN_CH6.04DE_6.04.010DE"
 sha256: 6f2e08a8588441b14935cf92ba2fe7c38d47a7d39f597fba2ff7e927a1c5bdf4
-fetched_at: "2026-09-18T19:33:49+00:00"
+fetched_at: "2026-09-23T11:06:50+00:00"
 ---
 
 As used in this title, the following words or phrases shall have the following meanings,

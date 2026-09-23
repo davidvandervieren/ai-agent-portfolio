@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE 1 - Cable Television Franchise > Division 2 - Grant of Franchise
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH5FRCOSY_ART1CATEFR_DIV2GRFR"
 sha256: 512e5ba86004aea3440ba1c99e6f54a426706cc29e8b851700b63fde564665fe
-fetched_at: "2026-09-18T22:53:19+00:00"
+fetched_at: "2026-09-23T14:06:51+00:00"
 ---
 
 (a)

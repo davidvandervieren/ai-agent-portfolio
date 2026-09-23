@@ -1,0 +1,74 @@
+---
+source_id: co-silt-municode
+jurisdiction: Silt, CO
+state: CO
+county: Garfield
+municipality: Silt
+agency: Town of Silt
+title: 17.78.010 - Special use.
+doc_type: code
+citation_root: Title 17 - ZONING > Chapter 17.78 - SPECIAL USE PERMITS > 17.78.010 - Special use.
+url: "https://library.municode.com/co/silt/codes/?nodeId=TIT17ZO_CH17.78SPUSPE_17.78.010SPUS"
+sha256: 27a67a41c98ce9fbbceba97cdd512b84d3f8921e31a24b1fd9e4348735380e6d
+fetched_at: "2026-09-23T08:17:06+00:00"
+---
+
+Special uses are uses other than permitted uses. A special use is granted by a special
+use permit which is defined at Section 17.08.400 . A special use may or may not be appropriate and may or may not be allowed by the
+board, in its discretion.
+(Ord. 12, Series of 1984 § 8 (part))
+Special uses may be permitted only upon prior approval of the board. The board shall
+first receive and consider recommendations from the planning and zoning commission
+and town administration, and shall conduct a public hearing.
+(Ord. 12, Series of 1984 § 8 (part))
+Criteria for review of special use applications are:
+A.
+Compliance of the application with this code;
+B.
+Compatibility of the proposal with the character of the surrounding area;
+C.
+Desirability and need for the proposed use;
+D.
+Encouragement of the most appropriate use of land throughout the town;
+E.
+Potential for adverse environmental influences that might result from the proposed
+use;
+F.
+Compatibility of the proposed use with the comprehensive plan; and
+G.
+Adequate provision for ingress and egress of vehicular and other traffic; parking,
+servicing and loading/unloading; refuse and service areas; utilities; screening and
+buffering; signage; yards and open space; and any other items determined necessary
+or appropriate by the board.
+(Ord. 12, Series of 1984 § 8 (part))
+A.
+An applicant desiring a special use permit shall submit a written application on forms
+supplied by the town and a fee. The board of trustees shall set the fee for special
+use permit per this chapter annually by resolution, or as often as necessary, in the
+board's sole discretion. The town administration shall review the application and
+refer the same, with recommendations, to the planning and zoning commission. The planning
+and zoning commission shall consider the application and hold a public hearing at
+a regular meeting. The planning and zoning commission shall cause the application
+to be referred to the board, with the town administration's recommendations and the
+recommendations of the planning and zoning commission.
+B.
+A public hearing shall be held by the board after notifying the adjoining property
+owners of the subject property and after posting notice of such hearing at least fifteen
+days prior to such hearing in a public place in the community.
+C.
+Following the hearing, the board shall issue its decision on the application. The
+board may approve, approve with conditions or deny the application. On any approval
+of a special use permit, the board may impose terms, conditions, limitations, restrictions
+and requirements as the board deems necessary, advisable or convenient. With any such
+grant, the board shall include specific provisions to assure the town's enforceability
+of the special use permit provisions and the applicant's continuing compliance with
+all of its terms, conditions, limitations, restrictions and requirements.
+D.
+The applicant for special use permit or any other action under this chapter shall
+be responsible for all fees and charges incurred by the town in connection with such
+application, including, but not limited to, legal fees, planning fees, engineering
+fees, and filing or recording fees. In addition, the applicant shall submit a fifteen
+percent administrative fee based on the total of all consultant charges for the review
+of the special use permit application.
+(Ord. 4-01 (part))
+(Ord. No. 8-2012, § 8, 4-23-2012; Ord. No. 7-2022, § 2, 5-23-2022)

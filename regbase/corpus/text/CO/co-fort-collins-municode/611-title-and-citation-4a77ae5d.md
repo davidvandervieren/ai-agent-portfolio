@@ -10,7 +10,7 @@ doc_type: code
 citation_root: ARTICLE 6 - GUIDELINES AND REGULATIONS FOR AREAS AND ACTIVITIES OF STATE INTEREST > DIVISION 6.1 - INTRODUCTORY AND GENERAL PROVISIONS > 6.1.1 - Title and Citation
 url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART6GUREARACSTIN_DIV6.1INGEPR_6.1.1TICI"
 sha256: 069de80465d106e5dac4fc5c1f400eb48b56f5a8d74ebcb0d238d0bc4a52a3c8
-fetched_at: "2026-09-18T20:19:35+00:00"
+fetched_at: "2026-09-23T15:18:09+00:00"
 ---
 
 The various regulations constituting Divisions 1 through 13 of Article 6 are titled and may be cited as the "Guidelines and Regulations for Areas and Activities

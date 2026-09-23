@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > ARTICLE VI - Ordinances > 6.01 - Action by Ordinance Required.
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=HORUCH_ARTVIOR_6.01ACORRE"
 sha256: 3a8b2e9302f3f47ad578a24913a996d09b5a3f506bdb15b16ea58559f833f854
-fetched_at: "2026-09-18T22:50:55+00:00"
+fetched_at: "2026-09-23T14:09:14+00:00"
 ---
 
 In addition to such acts of the Council that are required by other provisions of this

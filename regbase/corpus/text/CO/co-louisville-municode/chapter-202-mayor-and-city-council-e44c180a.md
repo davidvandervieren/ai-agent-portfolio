@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.02 - MAYOR AND CITY COUNCIL
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.02MACO"
 sha256: f4c1c9b5c14dbfa5dba6469826f79da6586fd752c514437adfc5ef511cf247de
-fetched_at: "2026-09-18T12:47:56+00:00"
+fetched_at: "2026-09-23T05:21:44+00:00"
 ---
 
 A.

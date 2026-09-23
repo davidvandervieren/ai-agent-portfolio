@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE IV - Local Improvement Regulations > Division 1 - General Provisions
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH4REFI_ARTIVLOIMRE_DIV1GEPR"
 sha256: 3e69d394006445097c38da5f19df8be52997ec3b0f3fcad90757f82950940ae3
-fetched_at: "2026-09-18T14:32:58+00:00"
+fetched_at: "2026-09-23T06:26:41+00:00"
 ---
 
 This Article shall be known as the Local Improvements Law. (Prior code 12.04.002)

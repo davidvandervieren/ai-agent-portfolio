@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 27 - LAND USE AND DEVELOPMENT CODE
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTIICOOR_CH27LAUSDECO"
 sha256: 574e4481e4a71e91d49823b00709682c01b9a6a77a4113e5ac3e4306dcc88ab9
-fetched_at: "2026-09-18T17:59:10+00:00"
+fetched_at: "2026-09-23T10:02:00+00:00"
 ---
 
 Editor's note— Ordinance No. O-2014-24 was adopted by the Durango City Council on June 16, 2014.

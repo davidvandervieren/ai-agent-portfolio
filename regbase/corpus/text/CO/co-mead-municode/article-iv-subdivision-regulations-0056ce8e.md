@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE IV - Subdivision Regulations
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH16LAUSCO_ARTIVSURE"
 sha256: 1cd4789263ce78b7090bcf48968d0cd748ff7f7c9456705bb1617bd94f8e3e8c
-fetched_at: "2026-09-18T23:05:35+00:00"
+fetched_at: "2026-09-23T14:19:17+00:00"
 ---
 
 The provisions of this Article shall apply to any and all development of land within

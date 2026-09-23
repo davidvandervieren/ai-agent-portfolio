@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER II - Administration > SECTION I - Corporate Authority, Mayor
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHIIAD_SICOAUMA"
 sha256: 6bd0fd071245e64c81b662e674d890d1246a739d73e9434a3955872a1b41118d
-fetched_at: "2026-09-18T22:34:39+00:00"
+fetched_at: "2026-09-23T13:51:33+00:00"
 ---
 
 The corporate authority of the Town of Eaton is by state law vested in a Board of

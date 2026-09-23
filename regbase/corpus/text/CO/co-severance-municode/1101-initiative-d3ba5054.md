@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > ARTICLE XI - Initiative, Referendum, and Recall > 11.01 - Initiative.
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=HORUCH_ARTXIINRERE_11.01IN"
 sha256: 1ee8fba96fb9cda1a064f6c3c0ed5605ad386fe3aa5574e7148be9730b1ad61e
-fetched_at: "2026-09-18T22:52:16+00:00"
+fetched_at: "2026-09-23T14:10:30+00:00"
 ---
 
 (1)

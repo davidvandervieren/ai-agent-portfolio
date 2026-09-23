@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE II - Community Design and Development Standards
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH16LAUSCO_ARTIICODEDEST"
 sha256: 4f449cd5377828ae472881ea6d6052d60ea04a9e31624f9a30f44fa73f64989e
-fetched_at: "2026-09-18T23:05:30+00:00"
+fetched_at: "2026-09-23T14:19:13+00:00"
 ---
 
 (a)

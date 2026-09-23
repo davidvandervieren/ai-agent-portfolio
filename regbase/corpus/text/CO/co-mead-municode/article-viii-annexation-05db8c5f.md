@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE VIII - Annexation
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH16LAUSCO_ARTVIIIAN"
 sha256: bb9aa59a0379f0b4bfb9c97d7561409395f78adaef24ccfe58cb7ccc2d1b2756
-fetched_at: "2026-09-18T23:05:40+00:00"
+fetched_at: "2026-09-23T14:19:23+00:00"
 ---
 
 Editor's note— Ord. 876 , §2, adopted in 2018, repealed the former Article VIII, §§ 16-8-10—16-8-100 and enacted

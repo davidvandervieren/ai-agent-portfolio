@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE VIII - Alcoholic Beverages and Drugs
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH10GEOF_ARTVIIIALBEDR"
 sha256: 26b9ea4ee1d5137aabe57292f1eb754d505452000235f31b6af6f47a4f38aaa1
-fetched_at: "2026-09-18T14:26:57+00:00"
+fetched_at: "2026-09-23T06:24:56+00:00"
 ---
 
 The City adopts this Article relating to intoxicating liquor and drugs in accordance

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > CHARTER COMPARATIVE TABLE
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTICH_CHCOTA"
 sha256: 3be2447f2874081e5f9c03749dc68dc78fc3ac746f62c5eee2fa64e503986117
-fetched_at: "2026-09-18T17:59:37+00:00"
+fetched_at: "2026-09-23T10:02:02+00:00"
 ---
 
 The original Charter, Articles I through X, is set out as adopted on November 7, 1978.

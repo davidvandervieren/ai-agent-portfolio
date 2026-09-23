@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE VI - Lodging Tax
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH4REFI_ARTVILOTA"
 sha256: 19c2464c94945ee82a93e37916de9c4cf7ae8cf38c5f2059fdbe1244134a097d
-fetched_at: "2026-09-18T14:26:02+00:00"
+fetched_at: "2026-09-23T06:24:00+00:00"
 ---
 
 Commencing January 1, 2008, there is hereby levied a tax on the leasing or renting

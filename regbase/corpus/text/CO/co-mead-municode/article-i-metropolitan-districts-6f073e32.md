@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 12 - Improvement and Metropolitan Districts > ARTICLE I - Metropolitan Districts
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH12IMMEDI_ARTIMEDI"
 sha256: a8bd25723bb2218d13ccb0e6a630da70583ee560ba5afb347caf8f758f01fc8c
-fetched_at: "2026-09-18T23:05:16+00:00"
+fetched_at: "2026-09-23T14:18:59+00:00"
 ---
 
 Editor's note— Ord. No. 1016 , §2, adopted November 1, 2022, amended the title of Ch. 12 to read as herein set

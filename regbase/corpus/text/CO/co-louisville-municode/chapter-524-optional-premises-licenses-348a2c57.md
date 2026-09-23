@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > Chapter 5.24 - OPTIONAL PREMISES LICENSES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT5BULIRE_CH5.24OPPRLI"
 sha256: 1694345065182e4a1fd5291586bc5f3be7a2ab9645e40a00c2887758a047f7c9
-fetched_at: "2026-09-18T12:49:24+00:00"
+fetched_at: "2026-09-23T05:23:12+00:00"
 ---
 
 The following standards for the issuance of optional premises licenses or for optional

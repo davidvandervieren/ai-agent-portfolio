@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE VIII - Medical Marijuana
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH6BULIRE_ARTVIIIMEMA"
 sha256: 45060ef710ac253f61153571a7f28b1436ba37be3bef2c122f5cdd6200cda704
-fetched_at: "2026-09-18T14:26:22+00:00"
+fetched_at: "2026-09-23T06:24:19+00:00"
 ---
 
 (a)

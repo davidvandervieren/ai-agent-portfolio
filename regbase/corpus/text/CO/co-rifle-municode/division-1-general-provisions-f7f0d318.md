@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE II - Retail Sales and Use Tax > Division 1 - General Provisions
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH4REFI_ARTIIRESAUSTA_DIV1GEPR"
 sha256: 7c3054354273a013b42feb2580530b3720692e101eb1b5666148935913873a34
-fetched_at: "2026-09-18T14:32:39+00:00"
+fetched_at: "2026-09-23T06:26:21+00:00"
 ---
 
 This Article shall be known and cited as the City Retail Sales and Use Tax Code .

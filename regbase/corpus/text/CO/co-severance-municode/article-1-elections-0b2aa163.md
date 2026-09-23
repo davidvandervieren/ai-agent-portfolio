@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration > ARTICLE 1 - Elections
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH2AD_ART1EL"
 sha256: c721b1fca5cf02133f1dd8ae3d2eba6028b35487b3bb63087803a03fe8eb9cae
-fetched_at: "2026-09-18T22:47:51+00:00"
+fetched_at: "2026-09-23T14:04:32+00:00"
 ---
 
 All elections shall be held and conducted in accordance with the Colorado Municipal

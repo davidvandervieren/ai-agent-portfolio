@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE VII - Retail Marijuana Excise Tax
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH4REFI_ARTVIIREMAEXTA"
 sha256: afd458ff6206330ba3fe9c75f501824dcb6af8665f74645546cb20488768249d
-fetched_at: "2026-09-18T14:26:07+00:00"
+fetched_at: "2026-09-23T06:24:02+00:00"
 ---
 
 Commencing January 1, 2015, there is hereby levied an excise tax in the amount of

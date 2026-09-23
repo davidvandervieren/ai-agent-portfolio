@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 8 - Health & Safety > CHAPTER 8.12 - Repealed by Ordinance No. 466-09
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT8HESA_CH8.12REORNO466-09"
 sha256: a15f2b7a8911f7ecb1d8deab19b3fd0144f7a92d2d2093d4b3c20587666e20e4
-fetched_at: "2026-09-18T21:13:44+00:00"
+fetched_at: "2026-09-23T12:46:47+00:00"
 ---
 
 This Chapter shall be known as the "Municipal Refuse Collection Code," may be cited

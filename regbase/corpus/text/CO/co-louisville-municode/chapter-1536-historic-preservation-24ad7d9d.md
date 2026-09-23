@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.36 - HISTORIC PRESERVATION
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.36HIPR"
 sha256: 3aebe758ea09412da38d408a122c8c9cfd43dd3a6e1f2456fcf5a697384f4533
-fetched_at: "2026-09-18T12:52:39+00:00"
+fetched_at: "2026-09-23T05:26:28+00:00"
 ---
 
 Editor's note— Prior to the reenactment of Ch. 15.36 by Ord. No. 1463-2005, Ord. No. 1427-2003, §

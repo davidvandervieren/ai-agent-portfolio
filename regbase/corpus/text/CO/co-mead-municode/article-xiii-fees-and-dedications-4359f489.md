@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE XIII - Fees and Dedications
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH16LAUSCO_ARTXIIIFEDE"
 sha256: c312dc098cc60e09da730984535b146bdc44a59f770b78c941d311d8045dd777
-fetched_at: "2026-09-18T23:05:51+00:00"
+fetched_at: "2026-09-23T14:19:33+00:00"
 ---
 
 The following fees and dedications shall be charged to the applicant for the review

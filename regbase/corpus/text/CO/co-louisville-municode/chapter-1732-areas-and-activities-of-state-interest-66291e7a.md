@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.32 - AREAS AND ACTIVITIES OF STATE INTEREST
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.32ARACSTIN"
 sha256: 8c4d73c793c32c3e2301679f1530af730bc70805260a0fcd240f10219f4c6ab0
-fetched_at: "2026-09-18T12:53:21+00:00"
+fetched_at: "2026-09-23T05:27:14+00:00"
 ---
 
 The following words, terms and phrases, when used in this chapter, shall have the

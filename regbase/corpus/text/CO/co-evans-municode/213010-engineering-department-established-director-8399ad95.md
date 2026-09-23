@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.13 - Engineering Department > 2.13.010 - Engineering Department established - Director.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.13ENDE_2.13.010ENDEESIR"
 sha256: cacc26880a2f7cf1748e6d9ef55024d65eeb7de231a6f1e6fabba4743ee3fd34
-fetched_at: "2026-09-18T21:21:09+00:00"
+fetched_at: "2026-09-23T12:54:07+00:00"
 ---
 
 There is established the Engineering Department, the director of which shall be the

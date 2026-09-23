@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - Public Services > CHAPTER 13.34 - Erosion Control Practices > 13.34.010 - Definitions.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT13PUSE_CH13.34ERCOPR_13.34.010DE"
 sha256: 9fdff6e2fd7158da04853bb983598396c67dee0c018593c7953fde78ef8b2831
-fetched_at: "2026-09-18T21:44:05+00:00"
+fetched_at: "2026-09-23T13:16:31+00:00"
 ---
 
 For the purposes of this Chapter, the following terms shall have the following meanings:

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHAPTER II. - MUNICIPAL POWERS > 2.1. - Powers, rights, and liabilities.
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHIIMUPO_2.1PORILI"
 sha256: e84421dd61eafeb80c70abe5accdd03b3a004680163a8caef5cffdce7dfa5aef
-fetched_at: "2026-09-18T13:15:54+00:00"
+fetched_at: "2026-09-23T05:51:55+00:00"
 ---
 
 By the name of the City of Thornton the municipal corporation shall have perpetual

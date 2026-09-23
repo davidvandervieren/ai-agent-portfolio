@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 1 - GENERAL PROVISIONS > ARTICLE I. - IN GENERAL
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CO_CH1GEPR_ARTIINGE"
 sha256: de359e997ddf4a016925a9baee62f04c49c7de317ef155b419f0d79bad4244ab
-fetched_at: "2026-09-18T13:15:20+00:00"
+fetched_at: "2026-09-23T05:46:03+00:00"
 ---
 
 The ordinances in this and the following chapters and sections shall constitute and

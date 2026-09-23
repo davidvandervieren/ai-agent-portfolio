@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3.32 - RETAIL MARIJUANA CULTIVATION FACILITY TAX
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT3REFI_CH3.32REMACUFATA"
 sha256: 82920d167aad210658e8f1b82358f34141462384fe9ffee1d288d8313d123970
-fetched_at: "2026-09-18T12:48:50+00:00"
+fetched_at: "2026-09-23T05:22:40+00:00"
 ---
 
 The city council intends that an additional excise tax be imposed on the first sale

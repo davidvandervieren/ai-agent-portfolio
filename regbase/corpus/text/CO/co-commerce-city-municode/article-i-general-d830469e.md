@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 23 - EMERGENCY OPERATIONS PLAN > ARTICLE I. - GENERAL
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH23EMOPPL_ARTIGE"
 sha256: b3593d3ce02b37df03123d74a1f707796390a4f17ea488f68e2f938b9e0fdf30
-fetched_at: "2026-09-18T14:06:22+00:00"
+fetched_at: "2026-09-23T06:08:42+00:00"
 ---
 
 This chapter shall be known as the City of Commerce City Emergency Operations Plan

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 4 - ANIMAL CODE > ARTICLE I. - GENERAL PROVISIONS
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH4ANCO_ARTIGEPR"
 sha256: 9434f76a4fb65d8ceff65fb72884686ebf2a12fd7066266d01c41e7cfc1b0477
-fetched_at: "2026-09-18T14:05:14+00:00"
+fetched_at: "2026-09-23T06:07:12+00:00"
 ---
 
 (a)

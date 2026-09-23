@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE XVIII - CB Central Business District > Division 1 - Introduction
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTXVIIICBCEBUDI_DIV1IN"
 sha256: 038a4a60801ad2dbdf9fb3e915cbdfc96369f64196faeb8336849e01f8f0af27
-fetched_at: "2026-09-18T14:35:02+00:00"
+fetched_at: "2026-09-23T06:28:41+00:00"
 ---
 
 This Article functions as a separate component of Chapter 16 of this Code. All text,

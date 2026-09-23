@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 91 - RESERVED
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH91RE"
 sha256: 670214534e9e111a2fdaf6b83121e36191b93667de55d60a2089e1e1d9efd327
-fetched_at: "2026-09-18T12:07:42+00:00"
+fetched_at: "2026-09-23T05:08:15+00:00"
 ---
 
 Chapter 91 - RESERVED

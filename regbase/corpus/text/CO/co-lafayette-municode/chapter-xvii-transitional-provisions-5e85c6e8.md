@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > Chapter XVII TRANSITIONAL PROVISIONS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=CH_CHXVTRPR"
 sha256: 59db46c1dbadccf76497eae85e52ac4a38ee771837e7cee8fb0ef41a6da11822
-fetched_at: "2026-09-18T12:08:49+00:00"
+fetched_at: "2026-09-23T05:03:18+00:00"
 ---
 
 The purpose of this chapter is to provide for an orderly transition from the old government

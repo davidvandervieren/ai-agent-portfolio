@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE VI - Enforcement
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH16LAUSCO_ARTVIEN"
 sha256: d07a56d1145c16885f4b059b17329e991b3e416f0be3dcf56895bfd81136df22
-fetched_at: "2026-09-18T23:05:38+00:00"
+fetched_at: "2026-09-23T14:19:21+00:00"
 ---
 
 (a)

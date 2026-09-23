@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.29 - TEEN COURT PROGRAM > 2.29.010 - DEFINITIONS.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT2ADPE_CH2.29TECOPR_2.29.010DE"
 sha256: 08717d2921d2223e7144974c471c70b1bb4c70f8b3901ab987fd5429a58317e2
-fetched_at: "2026-09-18T19:25:17+00:00"
+fetched_at: "2026-09-23T10:58:07+00:00"
 ---
 
 As used in this chapter, unless the context otherwise requires:

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 4 - FEES > ARTICLE I. - ADMINISTRATIVE FEES
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH4FE_ARTIADFE"
 sha256: 9c62cb246e7e6802ff284ce568ec36e78026f47e1aadc3cc8345e34e2257f9cd
-fetched_at: "2026-09-18T12:08:51+00:00"
+fetched_at: "2026-09-23T05:03:21+00:00"
 ---
 
 (a)

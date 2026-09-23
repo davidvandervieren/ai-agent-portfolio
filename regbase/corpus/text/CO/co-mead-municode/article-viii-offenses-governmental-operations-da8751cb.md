@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE VIII - Offenses - Governmental Operations
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH10GEOF_ARTVIIIOFOVOP"
 sha256: 40a93821a4a4b54b045aff577c4818f40ddb950c599c7f7a8f71d55e1676c634
-fetched_at: "2026-09-18T23:04:51+00:00"
+fetched_at: "2026-09-23T14:18:35+00:00"
 ---
 
 (a)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.20 - CITY DEPARTMENTS > 2.20.010 - GENERAL PROVISIONS.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT2ADPE_CH2.20CIDE_2.20.010GEPR"
 sha256: e176004c5b865c25b2de618d8575f03e4fe1458e65426ad1b7d1134ee9cfafe2
-fetched_at: "2026-09-18T19:24:18+00:00"
+fetched_at: "2026-09-23T10:57:07+00:00"
 ---
 
 Pursuant to the Fruita City Charter the City Council may establish or abolish City

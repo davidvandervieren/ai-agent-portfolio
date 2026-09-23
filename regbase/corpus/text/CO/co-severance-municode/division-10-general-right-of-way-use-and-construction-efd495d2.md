@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE 1 - Cable Television Franchise > Division 10 - General Right-of-Way Use and Construction
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH5FRCOSY_ART1CATEFR_DIV10GERI-WUSCO"
 sha256: bceb471017c7f78b0ed9091a1aeff16c6dc13fa034c42e2f5bc220a3fd16572e
-fetched_at: "2026-09-18T22:53:36+00:00"
+fetched_at: "2026-09-23T14:07:08+00:00"
 ---
 
 Subject to generally applicable laws, regulations, rules, resolutions and ordinances

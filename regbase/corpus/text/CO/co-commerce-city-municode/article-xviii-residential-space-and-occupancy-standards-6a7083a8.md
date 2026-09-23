@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 5 - BUILDINGS AND BUILDING REGULATIONS > ARTICLE XVIII. - RESIDENTIAL SPACE AND OCCUPANCY STANDARDS
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH5BUBURE_ARTXVIIIRESPOCST"
 sha256: f5450b23abba16bff9fd5a964f9de8bf677419e00f28968cad29476135cf91be
-fetched_at: "2026-09-18T14:05:32+00:00"
+fetched_at: "2026-09-23T06:07:38+00:00"
 ---
 
 For purposes of this Article XVIII, the following definitions shall apply:

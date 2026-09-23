@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE I - General Provisions
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH10GEOF_ARTIGEPR"
 sha256: dd1019e18ee5de3256da4331dbfeb53efa907becfa8d626ceb27cc748040f678
-fetched_at: "2026-09-18T23:04:36+00:00"
+fetched_at: "2026-09-23T14:18:20+00:00"
 ---
 
 Pursuant to Part 2 of Article 16 of Title 31, C.R.S., there is adopted by reference,

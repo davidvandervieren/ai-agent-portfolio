@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Title 2 - ADMINISTRATION > CHAPTER 2.04. - ELECTIONS
 url: "https://library.municode.com/co/longmont/codes/code_of_ordinances?nodeId=PTIICOOR_TIT2AD_CH2.04EL"
 sha256: 3ab49ccd3877b6e7ddf89502c5026e12493072bd93871b9d756e38cd5db7039c
-fetched_at: "2026-09-22T03:53:07+00:00"
+fetched_at: "2026-09-23T04:25:58+00:00"
 ---
 
 The boundaries of the three wards within the city as contemplated at article II, section 2.6 of the Municipal Charter, are fixed, as designated and described below, all of which

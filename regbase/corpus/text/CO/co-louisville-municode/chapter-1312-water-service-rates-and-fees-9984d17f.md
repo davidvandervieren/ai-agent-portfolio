@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - WATER AND SEWERS > Chapter 13.12 - WATER SERVICE RATES AND FEES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT13WASE_CH13.12WASERAFE"
 sha256: dc0f094cd81178adbf1e6b1ffe76d1eb35e5be6f5ddd41d42d16626227e2b36b
-fetched_at: "2026-09-18T12:51:42+00:00"
+fetched_at: "2026-09-23T05:25:32+00:00"
 ---
 
 Cross reference— Revenue and finance, tit. 3.

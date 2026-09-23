@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 9 - Public Peace, Morals and Welfare > CHAPTER 9.36 - Penalty for Violations > 9.36.010 - Violation - penalty.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT9PUPEMOWE_CH9.36PEVI_9.36.010VIEN"
 sha256: 8624aea8a7d605a1f6986161d73206619c6e19e01f8f3b807867cc5466edcdb7
-fetched_at: "2026-09-18T21:35:42+00:00"
+fetched_at: "2026-09-23T13:08:18+00:00"
 ---
 
 Any person who violates any of the provisions of this Title is guilty of a violation

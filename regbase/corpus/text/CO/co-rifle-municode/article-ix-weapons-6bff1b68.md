@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE IX - Weapons
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH10GEOF_ARTIXWE"
 sha256: c7b31c159dd05eb36e8e09c4a4d276f4d958fe327a455f1ee631da65c935d43c
-fetched_at: "2026-09-18T14:26:59+00:00"
+fetched_at: "2026-09-23T06:24:58+00:00"
 ---
 
 (a)

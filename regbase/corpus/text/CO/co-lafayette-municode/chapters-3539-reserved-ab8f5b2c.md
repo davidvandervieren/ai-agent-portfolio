@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapters 35—39 - RESERVED
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CHAPTERS_35--39RE"
 sha256: e4e680ec08f8c5dfb11f6707e4341be33ed2e30ba44f34e58e0bf49aa3fc62ce
-fetched_at: "2026-09-18T12:07:05+00:00"
+fetched_at: "2026-09-23T05:07:52+00:00"
 ---
 
 Editor's note— Section 1 of Ord. No. 2011-45, adopted Dec. 6, 2011, repealed in its entirety Ch.

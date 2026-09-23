@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - WATER AND SEWERS > Chapter 13.08 - WATER SERVICE REGULATIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT13WASE_CH13.08WASERE"
 sha256: 1c8abea2feacf9e2e5644c7918ea9d021a1215599f08b9ddd495d76580b52dd6
-fetched_at: "2026-09-18T12:51:40+00:00"
+fetched_at: "2026-09-23T05:25:30+00:00"
 ---
 
 All regulations contained in this chapter or chapter 13.12 shall be considered a part of the contract of every person taking water from the

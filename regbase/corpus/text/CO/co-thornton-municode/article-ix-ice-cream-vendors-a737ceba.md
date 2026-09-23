@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 42 - LICENSES, PERMITS AND BUSINESSES > ARTICLE IX. - ICE CREAM VENDORS
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CO_CH42LIPEBU_ARTIXICCRVE"
 sha256: a91fe26a538e511268392065369b5e84957b1525ea7b88ff3543989c1d01ffbe
-fetched_at: "2026-09-18T13:15:40+00:00"
+fetched_at: "2026-09-23T05:47:18+00:00"
 ---
 
 Editor's note— Section 1 of Ord. No. 2432, adopted Aug. 26, 1996, has been included herein as §§

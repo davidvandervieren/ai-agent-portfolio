@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 13 - MUNICIPAL UTILITIES > ARTICLE VII. - STORMWATER ENTERPRISE AND ASSOCIATED FUND AND FEES
 url: "https://library.municode.com/co/kersey/codes/municipal_code?nodeId=COOR_CH13MUUT_ARTVIISTENASFUFE"
 sha256: 158aae22bc63a39cd92826c3dcfff55ce973c210d182ec0bce35f28a90bc18a1
-fetched_at: "2026-09-18T22:09:31+00:00"
+fetched_at: "2026-09-23T13:42:21+00:00"
 ---
 
 (a)

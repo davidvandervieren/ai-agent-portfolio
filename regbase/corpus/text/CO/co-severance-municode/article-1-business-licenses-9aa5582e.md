@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE 1 - Business Licenses
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH6BULIRE_ART1BULI"
 sha256: 204bba55bdd42c9808461fea9c30c0e72d805517b7ff13ca413eccdd0418eb93
-fetched_at: "2026-09-18T22:48:18+00:00"
+fetched_at: "2026-09-23T14:04:56+00:00"
 ---
 
 The purpose of this Article is the regulation and registration of businesses operating

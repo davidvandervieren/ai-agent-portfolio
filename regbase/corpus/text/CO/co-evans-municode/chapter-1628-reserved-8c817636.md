@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 16 - Environment > CHAPTER 16.28 - Reserved
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT16EN_CH16.28RE"
 sha256: 98bf0a4b3434561c1a53986da11581533a1aa94a18f05147a93990b87a48bccb
-fetched_at: "2026-09-18T21:14:01+00:00"
+fetched_at: "2026-09-23T12:47:03+00:00"
 ---
 
 Editor's note— Ord. 631-15 , § 1(Exh. 1), adopted Oct. 6, 2015, amended Ch. 16.04 in its entirety to read as

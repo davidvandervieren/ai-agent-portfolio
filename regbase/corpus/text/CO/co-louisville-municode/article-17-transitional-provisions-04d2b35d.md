@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER - FOR THE CITY OF LOUISVILLE, COLORADO > ARTICLE 17. - TRANSITIONAL PROVISIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=CHTRFOLOCO_ART17TRPR"
 sha256: 042d314671d11c0dd0a3659f5e0faba59974d33ed5c8d4b1c6523b050f81606d
-fetched_at: "2026-09-18T12:47:39+00:00"
+fetched_at: "2026-09-23T05:21:27+00:00"
 ---
 
 This Charter shall become effective immediately upon filing and recording with the

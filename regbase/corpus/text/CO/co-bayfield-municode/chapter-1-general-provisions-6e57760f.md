@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 1 - GENERAL PROVISIONS
 url: "https://library.municode.com/co/bayfield/codes/code_of_ordinances?nodeId=CO_CH1GEPR"
 sha256: b9e0f300acb020e7a8115aeb22666d6049065e9d9bd019c83d124da73a32b973
-fetched_at: "2026-09-18T18:33:01+00:00"
+fetched_at: "2026-09-23T10:11:25+00:00"
 ---
 
 The ordinances embraced in this and the following chapters and sections shall constitute

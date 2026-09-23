@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 5 - BUILDINGS AND BUILDING REGULATIONS > ARTICLE IX. - CONSTRUCTION DEFECTS REPAIR
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH5BUBURE_ARTIXCODERE"
 sha256: 8ca31602ba1dd437ccd3d573c906b9ce308d57a1edca818c9c4ce26a4ea0acfc
-fetched_at: "2026-09-18T14:05:30+00:00"
+fetched_at: "2026-09-23T06:07:36+00:00"
 ---
 
 The provisions of this article shall apply only to new construction within the city

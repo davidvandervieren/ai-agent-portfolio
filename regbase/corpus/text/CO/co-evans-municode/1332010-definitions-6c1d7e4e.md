@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - Public Services > CHAPTER 13.32 - Illicit Discharges Into Evans Storm Drainage System > 13.32.010 - Definitions.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT13PUSE_CH13.32ILDIINEVSTDRSY_13.32.010DE"
 sha256: c3540c950cc2ca41a32f475a487f78252c92036770067f8df8219290ec4e9862
-fetched_at: "2026-09-18T21:43:23+00:00"
+fetched_at: "2026-09-23T13:15:49+00:00"
 ---
 
 For the purposes of this Chapter, the following shall mean:

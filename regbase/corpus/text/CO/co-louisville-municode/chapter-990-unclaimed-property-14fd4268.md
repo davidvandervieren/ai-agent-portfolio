@@ -10,7 +10,7 @@ doc_type: code
 citation_root: IX. DISPOSAL OF UNCLAIMED PROPERTY > Chapter 9.90 - UNCLAIMED PROPERTY
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=IXDIUNPR_CH9.90UNPR"
 sha256: 709f37f421f3dfea8ae479e90d04e208153110c02996ec3cc7d6224a3d94c809
-fetched_at: "2026-09-18T12:51:05+00:00"
+fetched_at: "2026-09-23T05:24:55+00:00"
 ---
 
 Unless otherwise required by context or use, words and terms shall be defined as follows:

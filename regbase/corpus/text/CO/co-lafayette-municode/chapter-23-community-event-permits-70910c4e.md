@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 23 - COMMUNITY EVENT PERMITS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH23COEVPE"
 sha256: 36b999e1c8d41a524bc2c38346d24dce2afdb213d302dc746398017a948991f2
-fetched_at: "2026-09-18T12:06:50+00:00"
+fetched_at: "2026-09-23T05:02:17+00:00"
 ---
 
 The purpose of this chapter is to regulate events and activities conducted on public

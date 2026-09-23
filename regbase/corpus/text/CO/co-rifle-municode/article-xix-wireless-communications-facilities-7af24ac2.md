@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE XIX - Wireless Communications Facilities
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTXIXWICOFA"
 sha256: ceed2d8d950533ed32ee653dc2e0776159c11525b67e0577f389949e4490553c
-fetched_at: "2026-09-18T14:27:45+00:00"
+fetched_at: "2026-09-23T06:25:44+00:00"
 ---
 
 The following words, terms, and phrases, when used in this chapter, shall have the

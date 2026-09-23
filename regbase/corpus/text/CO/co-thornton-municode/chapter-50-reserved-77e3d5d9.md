@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 50 - RESERVED
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CO_CH50RE"
 sha256: f22d048fbfc30a12caf6676b5781a74d2157ec631e6820dfde762d781d5f052b
-fetched_at: "2026-09-18T13:14:59+00:00"
+fetched_at: "2026-09-23T05:51:37+00:00"
 ---
 
 Editor's note— Ord. No. 2963, § 2, adopted Oct. 10, 2006, repealed §§ 50-1—50-3, which pertained

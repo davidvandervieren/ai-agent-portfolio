@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.10 - CITY ATTORNEY
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.10CIAT"
 sha256: 65e1f2d19405d3e4c853709d4045461be0086c31ba73acb5401d8c41503d2e23
-fetched_at: "2026-09-18T12:48:04+00:00"
+fetched_at: "2026-09-23T05:21:51+00:00"
 ---
 
 The city council, by the affirmative vote of a majority of the entire council, shall

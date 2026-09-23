@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 8 - VEHICLES AND TRAFFIC > ARTICLE II. - MODEL TRAFFIC CODE
 url: "https://library.municode.com/co/kersey/codes/municipal_code?nodeId=COOR_CH8VETR_ARTIIMOTRCO"
 sha256: 03ed00db91afdfd40edf54e08e130b1a40b7fcee5fd712dffbdcd15a7bcd80c5
-fetched_at: "2026-09-18T22:09:23+00:00"
+fetched_at: "2026-09-23T13:41:36+00:00"
 ---
 
 Editor's note— Ord. No. 2024-0004 , Exh. C, adopted Oct. 8, 2024, amended ch. 8 in its entirety to read as herein set

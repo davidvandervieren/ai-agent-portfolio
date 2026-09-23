@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE I - General and Special Funds
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH4REFI_ARTIGESPFU"
 sha256: e13ad32c154e554ca8622b0415fe3bfa0858b4fbe517d3047f01619d6605a14e
-fetched_at: "2026-09-18T14:25:58+00:00"
+fetched_at: "2026-09-23T06:23:56+00:00"
 ---
 
 Moneys in the funds created in this Chapter shall be in the custody of and managed

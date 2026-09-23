@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 110 - TAXATION > ARTICLE III. - SALES AND USE TAX > DIVISION 7. - SALES AND USE TAX FOR MENTAL HEALTH AND HUMAN SERVICES
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH110TA_ARTIIISAUSTA_DIV7SAUSTAMEHEHUSE"
 sha256: a882f4a3abecd1caf40f4a8624fba69490067eec9765f9347665f4481f27d57c
-fetched_at: "2026-09-18T12:13:12+00:00"
+fetched_at: "2026-09-23T05:07:19+00:00"
 ---
 
 Effective January 1, 2022, in addition to the sales tax otherwise imposed by section 110-34 of this article, there is levied and there shall be collected and paid a tax of one

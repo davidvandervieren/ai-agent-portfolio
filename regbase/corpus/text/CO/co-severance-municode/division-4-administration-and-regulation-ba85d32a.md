@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE 1 - Cable Television Franchise > Division 4 - Administration and Regulation
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH5FRCOSY_ART1CATEFR_DIV4ADRE"
 sha256: c7c7877f453284a65ddb91042081787c596352d98ab74a88737c9c53c23be44b
-fetched_at: "2026-09-18T22:53:23+00:00"
+fetched_at: "2026-09-23T14:06:55+00:00"
 ---
 
 (a)

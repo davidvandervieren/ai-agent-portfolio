@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER VII - Planning and Zoning Regulations > SECTION VIII - Vested Property Rights
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHVIIPLZORE_SVIIIVEPRRI"
 sha256: ee01fcc9d8a476bee09a566950d1f9db433bd37b4d12e02ea1c8221946d142f8
-fetched_at: "2026-09-18T22:35:38+00:00"
+fetched_at: "2026-09-23T13:52:33+00:00"
 ---
 
 The intent of this Chapter is to provide the procedures necessary to implement the

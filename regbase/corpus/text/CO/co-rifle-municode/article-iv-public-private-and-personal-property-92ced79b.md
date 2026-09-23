@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE IV - Public, Private and Personal Property
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH10GEOF_ARTIVPUPRPEPR"
 sha256: 28fddb6c5cd2bc24e5228e0f42ccb3a0a99f2d069925613b58946837b37605d7
-fetched_at: "2026-09-18T14:26:50+00:00"
+fetched_at: "2026-09-23T06:24:46+00:00"
 ---
 
 (a)

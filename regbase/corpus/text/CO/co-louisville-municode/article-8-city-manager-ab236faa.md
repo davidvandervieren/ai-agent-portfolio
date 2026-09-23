@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER - FOR THE CITY OF LOUISVILLE, COLORADO > ARTICLE 8. - CITY MANAGER
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=CHTRFOLOCO_ART8CIMA"
 sha256: d52b6d199090b999e65e889fe1413717e4d121183ec42d2436a54ed7974361bc
-fetched_at: "2026-09-18T12:47:21+00:00"
+fetched_at: "2026-09-23T05:21:09+00:00"
 ---
 
 (a)

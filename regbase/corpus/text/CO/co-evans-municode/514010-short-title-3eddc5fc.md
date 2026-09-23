@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - Business Taxes, Licenses and Regulations > CHAPTER 5.14 - Open Air Markets > 5.14.010 - Short title.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT5BUTALIRE_CH5.14OPAIMA_5.14.010SHTI"
 sha256: a8d6503a36d847d1e4bc43bb1e7bf29b7ec936fc3fbb18e13ae0abee3fe9a214
-fetched_at: "2026-09-18T21:25:49+00:00"
+fetched_at: "2026-09-23T12:58:36+00:00"
 ---
 
 This Chapter shall be known and cited as "Open Air Markets."

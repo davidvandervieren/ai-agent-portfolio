@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 40 - ELECTIONS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH40EL"
 sha256: a8b4b05dded08fb410f0e6f759c0a8717664bacb0a5bd234c1aee15d9fbab7e4
-fetched_at: "2026-09-18T12:07:06+00:00"
+fetched_at: "2026-09-23T05:02:25+00:00"
 ---
 
 Charter reference— Elections generally, Ch. III; initiative and referendum. § 7.9 et seq.; election to approve taxes, § 9.2; granting of public utility franchise, § 14.2; amendments to charter, § 16.10.

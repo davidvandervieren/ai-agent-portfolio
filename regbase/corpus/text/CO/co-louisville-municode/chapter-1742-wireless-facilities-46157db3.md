@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.42 - WIRELESS FACILITIES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.42WIFA"
 sha256: 697d08e35a24b144c1d927c6258eb2f53af5c721d649ef622e54a96862439255
-fetched_at: "2026-09-18T12:53:27+00:00"
+fetched_at: "2026-09-23T05:27:21+00:00"
 ---
 
 Editor's note— Ord. No. 1763-2018, § 4, adopted Oct. 2, 2018, repealed the former Ch. 17.42, §§ 17.42.010—17.42.100,

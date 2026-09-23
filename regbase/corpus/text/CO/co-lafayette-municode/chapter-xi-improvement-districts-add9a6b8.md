@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > Chapter XI IMPROVEMENT DISTRICTS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=CH_CHXIIMDI"
 sha256: 97f560f6491f76a1abea409e4c60ce41f4f077287c7e8bd2c7f9981dc7cd59bd
-fetched_at: "2026-09-18T12:08:36+00:00"
+fetched_at: "2026-09-23T05:03:06+00:00"
 ---
 
 The City shall have the power to contract for, construct, or install special or local

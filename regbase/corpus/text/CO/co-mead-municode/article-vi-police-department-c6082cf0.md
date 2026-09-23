@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 2 - Administration and Personnel > ARTICLE VI - Police Department
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH2ADPE_ARTVIPODE"
 sha256: 4f30727073c6508047fa0e8e9e6f3d9a925e3cae27aa22d4b17469cf33cead53
-fetched_at: "2026-09-18T23:03:07+00:00"
+fetched_at: "2026-09-23T14:17:03+00:00"
 ---
 
 Editor's note— Ord. 764 §8, adopted in 2015, states that this Article is suspended from operation

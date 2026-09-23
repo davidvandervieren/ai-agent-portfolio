@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 18 - Building Regulations > ARTICLE I - General Provisions
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH18BURE_ARTIGEPR"
 sha256: f2a7fc8c53830a1d41b1c4de9c68594b1359a231ab229c48d9ef49be3992b3a8
-fetched_at: "2026-09-18T23:05:58+00:00"
+fetched_at: "2026-09-23T14:19:41+00:00"
 ---
 
 Editor's note— Ord. No. 892 , §2, adopted June 24, 2019, repealed the former Chapter 18, Articles I, II, §§ 18-1-10—18-1-180

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE XII - Flood Damage Prevention
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH16LAUSCO_ARTXIIFLDAPR"
 sha256: 56c646c72df620433312d0c90582032cc10446833c3ea9d2aec68b347006dad1
-fetched_at: "2026-09-18T23:05:48+00:00"
+fetched_at: "2026-09-23T14:19:31+00:00"
 ---
 
 Editor's note— Ord. 849 , §1, adopted June 24, 2017, repealed the former Art. XII, §§16-12-10—16-12-30, and

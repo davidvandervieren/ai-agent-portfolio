@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > Chapter V GENERAL PROVISIONS REGARDING OFFICERS AND PERSONNEL OF THE CITY
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=CH_CHVGEPRREOFPECI"
 sha256: fd0bcb22b2399fc560d01fcf4e7de61e873675f96c0ffcb70a5c3326a5204a5c
-fetched_at: "2026-09-18T12:08:23+00:00"
+fetched_at: "2026-09-23T05:02:55+00:00"
 ---
 
 No person shall hold any elective office of the city unless such person has been a

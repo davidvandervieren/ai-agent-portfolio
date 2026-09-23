@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 11 - Streets, Sidewalks and Public Property > ARTICLE I - Streets and Sidewalks
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH11STSIPUPR_ARTISTSI"
 sha256: c648956e2b5b5f7e661a03d9908eee6fb3a20f2da12d14056bdca22ec3e29de8
-fetched_at: "2026-09-18T23:05:06+00:00"
+fetched_at: "2026-09-23T14:18:51+00:00"
 ---
 
 As used in this Chapter, the following words shall have the following meanings;

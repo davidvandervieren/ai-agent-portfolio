@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > ARTICLE X - Taxation > 10.01 - Power to Tax.
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=HORUCH_ARTXTA_10.01POTA"
 sha256: 4608835efa4659919a1794580989f228245f741705772ea709d9ce59209b11ed
-fetched_at: "2026-09-18T22:52:10+00:00"
+fetched_at: "2026-09-23T14:10:24+00:00"
 ---
 
 The Town shall have all powers of taxation available to municipalities in the Colorado

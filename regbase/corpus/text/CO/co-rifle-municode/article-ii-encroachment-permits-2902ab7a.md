@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 11 - Streets, Sidewalks and Public Property > ARTICLE II - Encroachment Permits
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH11STSIPUPR_ARTIIENPE"
 sha256: 9d8e04ad1cdccf72a8e93448db2e9212ac3ee9a7ba0fc6f78574b80a28483790
-fetched_at: "2026-09-18T14:27:07+00:00"
+fetched_at: "2026-09-23T06:25:06+00:00"
 ---
 
 (a)

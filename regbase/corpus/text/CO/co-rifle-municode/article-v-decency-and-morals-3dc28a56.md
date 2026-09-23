@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE V - Decency and Morals
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH10GEOF_ARTVDEMO"
 sha256: c1410890dad18e42d6b45659e044d7301ff35e52690b14b8936227896177cfcf
-fetched_at: "2026-09-18T14:26:51+00:00"
+fetched_at: "2026-09-23T06:24:48+00:00"
 ---
 
 Any person who knowingly performs or offers or agrees to perform any act of sexual

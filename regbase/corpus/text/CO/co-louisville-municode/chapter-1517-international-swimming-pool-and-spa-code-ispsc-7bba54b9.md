@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.17 - INTERNATIONAL SWIMMING POOL AND SPA CODE (ISPSC)
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.17INSWPOSPCOIS"
 sha256: 2bc065445589f600b39de7ff2000cd7b18bd9b6016c15a856530ad4600379755
-fetched_at: "2026-09-18T12:52:23+00:00"
+fetched_at: "2026-09-23T05:26:12+00:00"
 ---
 
 The International Swimming Pool and Spa Code, 2024 Edition, published by the International

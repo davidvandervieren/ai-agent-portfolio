@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Home Rule Charter > CHAPTER XI. - Improvement Districts > 11.1 - Special and local improvement districts and construction of improvements therein.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=HORUCH_CHXIIMDI_11.1SPLOIMDICOIMTH"
 sha256: a103604f95901237f3d225f9830f6e35ceede3970acd3fec389e5c0d3a632f41
-fetched_at: "2026-09-18T21:17:21+00:00"
+fetched_at: "2026-09-23T12:50:19+00:00"
 ---
 
 (1)

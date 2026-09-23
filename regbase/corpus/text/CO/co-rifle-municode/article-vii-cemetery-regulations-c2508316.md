@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 11 - Streets, Sidewalks and Public Property > ARTICLE VII - Cemetery Regulations
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH11STSIPUPR_ARTVIICERE"
 sha256: 94331bcad094b19ce1036262fc5146c039003fb1c04fa82b0c2808846dc2ffa7
-fetched_at: "2026-09-18T14:27:15+00:00"
+fetched_at: "2026-09-23T06:25:14+00:00"
 ---
 
 There is hereby created a municipal cemetery under the name of Rose Hill Cemetery,

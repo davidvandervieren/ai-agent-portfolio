@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > CHAPTER 3.16 - COMMUNITY CENTER FUND > 3.16.010 - ESTABLISHMENT OF FUND.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT3REFI_CH3.16COCEFU_3.16.010ESFU"
 sha256: d8d4da5e4afc30f938053f974b5c8a9424bde73dad95bc88d261a05bcfcb964d
-fetched_at: "2026-09-18T19:28:40+00:00"
+fetched_at: "2026-09-23T11:01:33+00:00"
 ---
 
 There is hereby established the "Community Center Fund" in accordance with the ballot

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF RIFLE HOME RULE CHARTER > ARTICLE VII - BOARD AND COMMISSIONS > 7.1 - GENERAL PROVISIONS
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CIRIHORUCH_ARTVIIBOCO_7.1GEPR"
 sha256: b8f43778439169c173a6cd31b12a3fe08feafb99dd77547c05e4eed1ecbaa105
-fetched_at: "2026-09-18T14:30:10+00:00"
+fetched_at: "2026-09-23T06:30:49+00:00"
 ---
 
 The Council may by ordinance establish Boards and Commissions and provide for their

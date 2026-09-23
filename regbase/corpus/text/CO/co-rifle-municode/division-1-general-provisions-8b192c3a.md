@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE V - Review Procedures > Division 1 - General Provisions
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTVREPR_DIV1GEPR"
 sha256: 622c78c1296cfbf8f5e7ee7ad40c194005a778299dc629411616d2d91b3ce031
-fetched_at: "2026-09-18T14:34:38+00:00"
+fetched_at: "2026-09-23T06:28:18+00:00"
 ---
 
 Any land use activity, as defined in this Chapter, and located within the City, shall

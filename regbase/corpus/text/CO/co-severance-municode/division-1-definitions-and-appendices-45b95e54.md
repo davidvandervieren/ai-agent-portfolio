@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 5 - Franchises and Communication Systems > ARTICLE 1 - Cable Television Franchise > Division 1 - Definitions and Appendices
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH5FRCOSY_ART1CATEFR_DIV1DEAP"
 sha256: b9bd8ed971d605e912e4fa69616332c00abd2adc3fc60deed577a17fe2f2aa36
-fetched_at: "2026-09-18T22:53:17+00:00"
+fetched_at: "2026-09-23T14:06:49+00:00"
 ---
 
 For the purposes of this Franchise, the following terms, phrases, words and their

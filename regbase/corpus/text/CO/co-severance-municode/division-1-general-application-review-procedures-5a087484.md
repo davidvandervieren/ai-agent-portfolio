@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > Article 2 - Application Procedures and Review Criteria > Division 1 - General Application Review Procedures
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH16LAUSCO_ART2APPRRECR_DIV1GEAPREPR"
 sha256: b99ceb02d0df8a6d6851b34441e0b080454c1122085b5afbebaf6e103b3e2abb
-fetched_at: "2026-09-18T22:54:09+00:00"
+fetched_at: "2026-09-23T14:07:38+00:00"
 ---
 
 Applications and land use procedures shall be processed in accordance with the following

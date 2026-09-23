@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.12 - INTERNATIONAL FIRE CODE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.12INFICO"
 sha256: 6dddc06509f109716b1d1d3630dd83e032ec9f1f92460e84c54150a31bc1cb8f
-fetched_at: "2026-09-18T12:52:17+00:00"
+fetched_at: "2026-09-23T05:26:06+00:00"
 ---
 
 Editor's note— Ord. No. 1764, § 4, adopted Sep. 4, 2018, repealed the former Ch. 15.12, §§ 15.12.010—15.12.160,

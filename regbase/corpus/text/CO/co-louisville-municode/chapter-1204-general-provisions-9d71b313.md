@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 12 - STREETS AND SIDEWALKS > Chapter 12.04 - GENERAL PROVISIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT12STSI_CH12.04GEPR"
 sha256: 52bbca98e11119c5ed881fa6fa4fb1c0d610cb86a0fc5ab1b9a30cffe439d34b
-fetched_at: "2026-09-18T12:51:25+00:00"
+fetched_at: "2026-09-23T05:25:16+00:00"
 ---
 
 Cross reference— Any ordinance or resolution dedicating, naming, establishing, locating, relocating,

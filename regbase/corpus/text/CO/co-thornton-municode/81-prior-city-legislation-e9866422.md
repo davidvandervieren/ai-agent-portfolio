@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHAPTER VIII. - LEGISLATION > 8.1. - Prior City legislation.
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHVIIILE_8.1PRLE"
 sha256: e084d5856f90fa41e64d9d7ebc07df9fc55b6371d3729223db09f4f6bf437434
-fetched_at: "2026-09-18T13:17:32+00:00"
+fetched_at: "2026-09-23T05:53:27+00:00"
 ---
 
 All valid bylaws, ordinances, resolutions, rules and regulations of the City which

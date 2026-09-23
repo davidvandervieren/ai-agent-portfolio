@@ -10,7 +10,7 @@ doc_type: code
 citation_root: ARTICLE 3 - GENERAL DEVELOPMENT STANDARDS > Division 3.7 - Compact Urban Growth Standards > 3.7.1 - General
 url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART3GEDEST_DIV3.7COURGRST_3.7.1GE"
 sha256: 84363c58239c7a667025f0783fe79984dfce8477c21b70b83fb908c306b76af5
-fetched_at: "2026-09-18T20:16:50+00:00"
+fetched_at: "2026-09-23T15:15:29+00:00"
 ---
 
 (A)

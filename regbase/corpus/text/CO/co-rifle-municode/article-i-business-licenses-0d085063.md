@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE I - Business Licenses
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH6BULIRE_ARTIBULI"
 sha256: dc8b02227391d87b18ec3ae6e60d7333abca1475ffe435fc5cad4898e263cbfe
-fetched_at: "2026-09-18T14:26:10+00:00"
+fetched_at: "2026-09-23T06:24:06+00:00"
 ---
 
 No person shall conduct, carry on or engage in any business, avocation or calling

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.08 - 2024 INTERNATIONAL MECHANICAL CODE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.082024INMECO"
 sha256: 0e01d601128a5b8fb71fc6b88fce3fa76c11f567cf21e424d7f89aec36497505
-fetched_at: "2026-09-18T12:52:13+00:00"
+fetched_at: "2026-09-23T05:26:02+00:00"
 ---
 
 Editor's note— Ord. No. 1764, § 3, adopted Sep. 4, 2018, repealed the former Ch. 15.08, §§ 15.08.010—15.08.080,

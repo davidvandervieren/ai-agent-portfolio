@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > ARTICLE VII - Municipal Court > 7.01 - Created.
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=HORUCH_ARTVIIMUCO_7.01CR"
 sha256: e7f6b42d83aa193ce97a4587c35b1e4d8a86c77bb1c7edde3199ab9d3ff2f779
-fetched_at: "2026-09-18T22:51:11+00:00"
+fetched_at: "2026-09-23T14:09:30+00:00"
 ---
 
 (1)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER V - Municipal Court > SECTION I - Creation, Composition and Jurisdiction
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHVMUCO_SICRCOJU"
 sha256: 47c17fe62c622eee0d407830b4f959d0e772b19d2092668191ebf9fe530a0e7f
-fetched_at: "2026-09-18T22:35:12+00:00"
+fetched_at: "2026-09-23T13:52:07+00:00"
 ---
 
 As used in this Article, the following terms shall have the following meanings:

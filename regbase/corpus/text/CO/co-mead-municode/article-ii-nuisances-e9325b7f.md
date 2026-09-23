@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 7 - Health, Sanitation and Animals > ARTICLE II - Nuisances
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH7HESAAN_ARTIINU"
 sha256: 3ac7579d1c95941fbe7d25edd45573724ed4c75d80e4361122935a6a3b8a79ec
-fetched_at: "2026-09-18T23:04:07+00:00"
+fetched_at: "2026-09-23T14:17:53+00:00"
 ---
 
 (a)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE II - Sales Tax Licenses
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH6BULIRE_ARTIISATALI"
 sha256: 90badcf873ac0d26c368ec9c7f4df8b59df66a7b17482b49b7c053c6b23c6e4b
-fetched_at: "2026-09-18T14:26:12+00:00"
+fetched_at: "2026-09-23T06:24:08+00:00"
 ---
 
 It shall be unlawful for any person to engage in the business of selling at retail

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapters 60—64 - RESERVED
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CHAPTERS_60--64RE"
 sha256: 22cfd9a91fe03b4b79cf9fa02097ee707a79f3369846dde5c7dd662c9556378b
-fetched_at: "2026-09-18T12:07:23+00:00"
+fetched_at: "2026-09-23T05:08:02+00:00"
 ---
 
 Editor's note— At the time of codification, Ch. 60, § 60-1, provided that ordinances pertaining to

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE IV - Local Improvement Regulations > Division 7 - Refunding and Reassessment
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH4REFI_ARTIVLOIMRE_DIV7RERE"
 sha256: 20eaabde995fc96b5d261040e100d871ad26808504ae14bbd9b5ffd0d86e1b52
-fetched_at: "2026-09-18T14:33:10+00:00"
+fetched_at: "2026-09-23T06:26:53+00:00"
 ---
 
 (a)

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 7 - CEMETERIES > ARTICLE II. - GREENMOUNT CEMETERY
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTIICOOR_CH7CE_ARTIIGRCE"
 sha256: c3c410d9d86a3c42ef82d47d97d4f5f52708314141c6b6741ef5175e68277c9b
-fetched_at: "2026-09-18T17:59:46+00:00"
+fetched_at: "2026-09-23T09:58:11+00:00"
 ---
 
 Cross reference— Administration, Ch. 2; streets, sidewalks and other public places, Ch. 21.

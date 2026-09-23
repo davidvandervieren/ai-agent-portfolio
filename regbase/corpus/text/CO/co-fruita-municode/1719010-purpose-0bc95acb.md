@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - LAND USE CODE > CHAPTER 17.19 - PLANNED UNIT DEVELOPMENTS > 17.19.010 - PURPOSE.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT17LAUSCO_CH17.19PLUNDE_17.19.010PU"
 sha256: 1ec96141da8a5a0fe31a81d0fc88812c9dc8da7ed8d18f8cb6f304ecd324fbdf
-fetched_at: "2026-09-18T19:52:27+00:00"
+fetched_at: "2026-09-23T11:25:25+00:00"
 ---
 
 The purpose of this chapter is to encourage flexibility and innovation in developments

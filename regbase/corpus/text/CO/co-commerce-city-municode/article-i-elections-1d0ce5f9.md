@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 2 - ADMINISTRATION > ARTICLE I. - ELECTIONS
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH2AD_ARTIEL"
 sha256: 573070f5fa79fc7eb6fc554eb656be8c143f2fa7aec89630f7adc806e45797db
-fetched_at: "2026-09-18T14:05:04+00:00"
+fetched_at: "2026-09-23T06:07:02+00:00"
 ---
 
 The city shall be divided into four (4) election wards, with the boundaries thereof

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.12 - MUNICIPAL COURT
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.12MUCO"
 sha256: 5a67a45abe46781924e026a9b8a532dcefaf5bffdaa08fe40f00d3499b633207
-fetched_at: "2026-09-18T12:48:06+00:00"
+fetched_at: "2026-09-23T05:21:53+00:00"
 ---
 
 A.

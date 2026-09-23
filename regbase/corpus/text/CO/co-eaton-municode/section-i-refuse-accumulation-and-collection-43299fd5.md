@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER XII - Refuse > SECTION I - Refuse Accumulation and Collection
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHXIIRE_SIREACCO"
 sha256: 2df278424da28395f61c17e3d9d6440cfb1db65524fc1451f3c198c8dd1c5f69
-fetched_at: "2026-09-18T22:36:37+00:00"
+fetched_at: "2026-09-23T13:53:31+00:00"
 ---
 
 (a)

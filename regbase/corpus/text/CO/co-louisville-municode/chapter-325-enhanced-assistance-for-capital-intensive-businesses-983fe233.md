@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3.25 - ENHANCED ASSISTANCE FOR CAPITAL INTENSIVE BUSINESSES
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT3REFI_CH3.25ENASCAINBU"
 sha256: 78b74de84b843c8f04671156fa37d57eb9b729dab7f8e3364fccbe28c9358159
-fetched_at: "2026-09-18T12:48:44+00:00"
+fetched_at: "2026-09-23T05:22:34+00:00"
 ---
 
 There is established within the city an enhanced assistance program for capital intensive

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 13 - LICENSES AND BUSINESS REGULATIONS > ARTICLE IX. - LOCAL LICENSING AUTHORITY
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTIICOOR_CH13LIBURE_ARTIXLOLIAU"
 sha256: 2aa9e2d713c7d1335d8ddcc5b425ee9cb4e5dc2b38ca32bcb436a4659dd0b71b
-fetched_at: "2026-09-18T17:59:55+00:00"
+fetched_at: "2026-09-23T09:58:48+00:00"
 ---
 
 There is hereby established a liquor licensing authority with the duty and authority

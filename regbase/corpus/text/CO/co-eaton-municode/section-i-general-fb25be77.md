@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER III - Finances > SECTION I - General
 url: "https://library.municode.com/co/eaton/codes/municipal_code?nodeId=CHIIIFI_SIGE"
 sha256: 2c9db390307899c4ac647c992ffbfc0a1498690f7b9ce05ba8e23eb405fda1ff
-fetched_at: "2026-09-18T22:35:00+00:00"
+fetched_at: "2026-09-23T13:51:55+00:00"
 ---
 
 The fiscal year of the Town shall commence on the first day of January and end on

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8.08 - WEEDS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.08WE"
 sha256: 7f2d874f0fc305dc426aecb27b6666964a044ce4d8ade8ee92a453829e0c3df7
-fetched_at: "2026-09-18T12:49:46+00:00"
+fetched_at: "2026-09-23T05:23:37+00:00"
 ---
 
 State Law reference— Authority to abate, C.R.S. § 31-15-401(1)(d).

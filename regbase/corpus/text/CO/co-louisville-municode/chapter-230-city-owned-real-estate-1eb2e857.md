@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.30 - CITY OWNED REAL ESTATE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.30CIOWREES"
 sha256: d06ef5cb2e655deb9cc81afcf6664ccdcb935c548f2e62357b3dcd25850aa043
-fetched_at: "2026-09-18T12:48:26+00:00"
+fetched_at: "2026-09-23T05:22:15+00:00"
 ---
 
 A.

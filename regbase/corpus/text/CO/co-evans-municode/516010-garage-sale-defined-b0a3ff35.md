@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - Business Taxes, Licenses and Regulations > CHAPTER 5.16 - Garage Sales > 5.16.010 - Garage sale defined.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT5BUTALIRE_CH5.16GASA_5.16.010GASADE"
 sha256: eeb95831d81553e941295c2fde33ef38fa7b89ed23e6160c29938c18c7f0e852
-fetched_at: "2026-09-18T21:26:22+00:00"
+fetched_at: "2026-09-23T12:59:07+00:00"
 ---
 
 A garage sale, as regulated by this Chapter, means a sale of tangible personal property had in a

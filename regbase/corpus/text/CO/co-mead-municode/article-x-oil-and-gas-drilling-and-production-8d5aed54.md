@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > ARTICLE X - Oil and Gas Drilling and Production
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH16LAUSCO_ARTXOIGADRPR"
 sha256: b6a7878dbcb6b9f130110af049b0022d29cc55f8e6aa095fa1a2cb6714233981
-fetched_at: "2026-09-18T23:05:44+00:00"
+fetched_at: "2026-09-23T14:19:27+00:00"
 ---
 
 These regulations are enacted to provide for the safety, preserve the health, promote

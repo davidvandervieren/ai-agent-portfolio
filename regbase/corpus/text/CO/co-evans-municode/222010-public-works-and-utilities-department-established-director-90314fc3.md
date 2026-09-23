@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.22 - Public Works and Utilities Department > 2.22.010 - Public Works and Utilities Department established - Director.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.22PUWOUTDE_2.22.010PUWOUTDEESIR"
 sha256: 388e90a3f9fd1c06e5334de766cc77fb9ec7798d4c8969b88af77d8db6207a6a
-fetched_at: "2026-09-18T21:21:26+00:00"
+fetched_at: "2026-09-23T12:54:21+00:00"
 ---
 
 There is established the Public Works and Utilities Department, the director of which

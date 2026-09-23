@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 70 - NUISANCES > ARTICLE I. - NUISANCE ABATEMENT
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH70NU_ARTINUAB"
 sha256: 9fe84718a3bdfe98346d8ed3c61bf88bca537b3b2663c527553869ef044348ac
-fetched_at: "2026-09-18T12:09:52+00:00"
+fetched_at: "2026-09-23T05:05:14+00:00"
 ---
 
 Editor's note— Section 1 of Ord. No. 2008-31, adopted Oct. 7, 2008, repealed and reenacted Ch. 70

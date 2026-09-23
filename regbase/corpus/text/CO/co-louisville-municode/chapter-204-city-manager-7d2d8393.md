@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.04 - CITY MANAGER
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.04CIMA"
 sha256: c5e8aac87e4146b9d226489f1dd2d6efe5272e62c6c98ffb20e29647499d8e64
-fetched_at: "2026-09-18T12:47:58+00:00"
+fetched_at: "2026-09-23T05:21:45+00:00"
 ---
 
 A.

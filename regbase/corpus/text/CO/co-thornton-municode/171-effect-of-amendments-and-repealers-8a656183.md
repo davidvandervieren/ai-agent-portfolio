@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHAPTER XVII. - TRANSITIONAL PROVISIONS > 17.1. - Effect of amendments and repealers.
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHXVIITRPR_17.1EFAMRE"
 sha256: 84384ab605acf06cee1bc25d76401ec6b663d4017e95fce874cfc45684e6a378
-fetched_at: "2026-09-18T13:19:28+00:00"
+fetched_at: "2026-09-23T05:55:21+00:00"
 ---
 
 Approval by the electors of any Charter Amendment which repeals any section or portion

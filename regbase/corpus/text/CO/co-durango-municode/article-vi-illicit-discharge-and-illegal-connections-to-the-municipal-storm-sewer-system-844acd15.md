@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 25 - UTILITIES > ARTICLE VI. - ILLICIT DISCHARGE AND ILLEGAL CONNECTIONS TO THE MUNICIPAL STORM SEWER SYSTEM
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTIICOOR_CH25UT_ARTVIILDIILCOMUSTSESY"
 sha256: c23d57050ccbd7436700495e2bee0fa5304f8695f3d9234f7101a18c9865895d
-fetched_at: "2026-09-18T18:00:13+00:00"
+fetched_at: "2026-09-23T10:00:07+00:00"
 ---
 
 The purpose of this article is to provide for the health, safety, and general welfare

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE II - Government and Public Officers
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH10GEOF_ARTIIGOPUOF"
 sha256: 42d206405fe2ff6e754f99adc7a40e076ac9236b76ab422107b36603f294965d
-fetched_at: "2026-09-18T14:26:45+00:00"
+fetched_at: "2026-09-23T06:24:42+00:00"
 ---
 
 For purposes of this Chapter, the following words shall have the meanings ascribed

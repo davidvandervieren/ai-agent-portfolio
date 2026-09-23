@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 11 - Streets, Sidewalks and Public Property > ARTICLE V - Road and Bridge Specifications
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH11STSIPUPR_ARTVROBRSP"
 sha256: 31cf2d0c464d8532b1a9f354dc714aedd8d1068393d4595bc1e1856638440529
-fetched_at: "2026-09-18T14:27:11+00:00"
+fetched_at: "2026-09-23T06:25:10+00:00"
 ---
 
 Pursuant to the authority contained in Title 31, Article 16, Part 2, C.R.S., there

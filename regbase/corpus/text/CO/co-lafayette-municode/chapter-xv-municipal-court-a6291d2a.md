@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > Chapter XV MUNICIPAL COURT
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=CH_CHXVMUCO"
 sha256: be87760ee5cc634a1ddd455160d332c447d481487ca765644840481487916224
-fetched_at: "2026-09-18T12:08:45+00:00"
+fetched_at: "2026-09-23T05:03:14+00:00"
 ---
 
 The Judicial Department shall be a "Municipal Court" whose employees shall be supervised

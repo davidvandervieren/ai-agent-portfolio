@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 13 - Municipal Utilities > ARTICLE VI - Water Rights Dedication
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH13MUUT_ARTVIWARIDE"
 sha256: 40eda2a618afa8feaf4600b4787be3a4cf2353f32ea81119e5a4a93096fca12a
-fetched_at: "2026-09-18T14:27:21+00:00"
+fetched_at: "2026-09-23T06:25:21+00:00"
 ---
 
 (a)

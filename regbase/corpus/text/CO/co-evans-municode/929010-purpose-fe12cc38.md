@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 9 - Public Peace, Morals and Welfare > CHAPTER 9.29 - Prohibited Residency of Sex Offenders > 9.29.010 - Purpose.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT9PUPEMOWE_CH9.29PRRESEOF_9.29.010PU"
 sha256: e35c9d16a48fdae4d520fdea30f4b1efe9ae6d903880f9c01c703ad7a9dcb670
-fetched_at: "2026-09-18T21:34:24+00:00"
+fetched_at: "2026-09-23T13:07:06+00:00"
 ---
 
 A.

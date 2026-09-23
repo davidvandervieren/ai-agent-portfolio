@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > Article 7 - Wireless Telecommunication Services and Facilities
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH16LAUSCO_ART7WITESEFA"
 sha256: 47ad32dce85ce73b8d71cc51d5a19eeabca9d6b4c6d141288b8b6cfb479eb532
-fetched_at: "2026-09-18T22:49:25+00:00"
+fetched_at: "2026-09-23T14:06:15+00:00"
 ---
 
 It is unlawful for any person to install or operate a wireless telecommunication service

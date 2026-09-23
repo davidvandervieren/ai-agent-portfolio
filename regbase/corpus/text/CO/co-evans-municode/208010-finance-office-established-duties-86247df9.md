@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.08 - Department of Finance > 2.08.010 - Finance Office established - duties.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.08DEFI_2.08.010FIOFESUT"
 sha256: 9eadbc55d4a6132df56b6802d8173de881ad77ec845296478ce2e779e8153a7d
-fetched_at: "2026-09-18T21:20:41+00:00"
+fetched_at: "2026-09-23T12:53:39+00:00"
 ---
 
 A.

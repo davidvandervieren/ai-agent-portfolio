@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE XIII - Noise Regulation
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH10GEOF_ARTXIIINORE"
 sha256: e25fe350735336d17513bd11edcb7fef70cce90e0afc589fc94f82959bc42c49
-fetched_at: "2026-09-18T23:05:00+00:00"
+fetched_at: "2026-09-23T14:18:45+00:00"
 ---
 
 This Article is enacted to protect, preserve and promote the health, safety, welfare,

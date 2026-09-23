@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > Chapter VII LEGISLATION
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=CH_CHVILE"
 sha256: e3b3d55a4e218785af577b5dc571f627483ce640969c56ade51dbef482235c77
-fetched_at: "2026-09-18T12:08:27+00:00"
+fetched_at: "2026-09-23T05:02:58+00:00"
 ---
 
 All valid bylaws, ordinances, resolutions, rules and regulations of the city which

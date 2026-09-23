@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - LAND USE CODE > CHAPTER 17.37 - PARKING STANDARDS > 17.37.010 - OFF-STREET PARKING STANDARDS; GENERAL PROVISIONS.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT17LAUSCO_CH17.37PAST_17.37.010OREPASTGEPR"
 sha256: cdf815d1a92b1dafb3a41dc8a5a60b457366300028d0faf04d2a9baf26ea9210
-fetched_at: "2026-09-18T19:54:33+00:00"
+fetched_at: "2026-09-23T11:27:32+00:00"
 ---
 
 The purpose of this chapter is to ensure that sufficient parking is provided to serve

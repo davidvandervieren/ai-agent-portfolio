@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - Public Services > CHAPTER 13.20 - Sewer System > 13.20.010 - Definitions.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT13PUSE_CH13.20SESY_13.20.010DE"
 sha256: 36b122d3319cbe23fa3b46a41ca338b1fdfb1582f822b01c14a6a34bc288a574
-fetched_at: "2026-09-18T21:42:10+00:00"
+fetched_at: "2026-09-23T13:14:37+00:00"
 ---
 
 Unless the context specifically indicates otherwise, the meaning of the terms used

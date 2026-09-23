@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 26 - FINANCE AND TAXATION > ARTICLE VII. - LODGINGS TAX
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CO_CH26FITA_ARTVIILOTA"
 sha256: 985c287b470077c524acf30853e47e1afe197a62397f6da15c6319f790d0cd7b
-fetched_at: "2026-09-18T13:15:32+00:00"
+fetched_at: "2026-09-23T05:46:57+00:00"
 ---
 
 There is levied an excise tax on the price paid or charged for the lease, rental or

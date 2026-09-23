@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 13 - Municipal Utilities > ARTICLE VII - Raw Water Irrigation
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH13MUUT_ARTVIIRAWAIR"
 sha256: fd41b1c3d74a71e9a74e7c5977426ec04a21f171310182863a8949d317dd67b2
-fetched_at: "2026-09-18T14:27:23+00:00"
+fetched_at: "2026-09-23T06:25:22+00:00"
 ---
 
 Water is a finite and precious resource necessary for the preservation and enhancement

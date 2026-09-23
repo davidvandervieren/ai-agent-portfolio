@@ -10,7 +10,7 @@ doc_type: code
 citation_root: ARTICLE 3 - GENERAL DEVELOPMENT STANDARDS > Division 3.8 - Supplementary Regulations > 3.8.1 - Accessory Buildings, Structures and Uses
 url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART3GEDEST_DIV3.8SURE_3.8.1ACBUSTUS"
 sha256: e257301efe9e98ff3855582aee73f75d7b2793b907c0805dd91e875ae5b7c31d
-fetched_at: "2026-09-18T20:16:57+00:00"
+fetched_at: "2026-09-23T15:15:36+00:00"
 ---
 
 Accessory buildings, structures and uses (when the facts, circumstances and context

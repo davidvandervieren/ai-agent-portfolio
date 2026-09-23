@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 12 - Streets, Sidewalks and Public Places > CHAPTER 12.16 - Repealed by Ordinance No. 466-09
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT12STSIPUPL_CH12.16REORNO466-09"
 sha256: d815c3e7a2d54cd45863d57b955d31010472be9b6e25aec7643f82faed7bc085
-fetched_at: "2026-09-18T21:13:49+00:00"
+fetched_at: "2026-09-23T12:46:53+00:00"
 ---
 
 Editor's note— Ord. 779-22 , § 1, adopted Sept. 6, 2022, repealed the former Ch. 12.04, §§ 12.04.010—12.04.230,

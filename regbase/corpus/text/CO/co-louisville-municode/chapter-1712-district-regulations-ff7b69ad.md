@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - ZONING > Chapter 17.12 - DISTRICT REGULATIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT17ZO_CH17.12DIRE"
 sha256: d81d3ba271fd2fa070a3d7157b6f86f18368e3abe23de534f3de02d1514e43f1
-fetched_at: "2026-09-18T12:53:11+00:00"
+fetched_at: "2026-09-23T05:27:00+00:00"
 ---
 
 State Law reference— Authority to establish zoning districts, C.R.S. § 31-23-301 et seq.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 7 - Health, Sanitation and Animals > ARTICLE VI - Animals
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH7HESAAN_ARTVIAN"
 sha256: 1042dd51147b8081e16e0a2b93b271b4677f5bdfa2ea7f30056fe8eeee9a05c7
-fetched_at: "2026-09-18T23:04:15+00:00"
+fetched_at: "2026-09-23T14:18:00+00:00"
 ---
 
 The provisions of this Article are intended to provide for the health, safety and

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 18 - Land Development Code > CHAPTER 18.06 - Nonresidential Development > 18.06.010 - Intent and applicability.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT18LADECO_CH18.06NODE_18.06.010INAP"
 sha256: 9d7c8a8118b5ab3fb490f00e8c94cd2161cefb1fa48ffb82d9f360a75b394a9d
-fetched_at: "2026-09-18T21:50:41+00:00"
+fetched_at: "2026-09-23T13:22:59+00:00"
 ---
 
 Editor's note— Ord. 804-23 , § 2(Exh. A), adopted Oct. 17, 2023, repealed the former Ch. 18.06, §§ 18.06.010—18.06.100,

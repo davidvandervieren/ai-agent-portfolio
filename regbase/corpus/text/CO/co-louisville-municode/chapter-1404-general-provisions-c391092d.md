@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 14 - PARKS AND RECREATION > Chapter 14.04 - GENERAL PROVISIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT14PARE_CH14.04GEPR"
 sha256: 8cfa39a5883614552b7373f6e13067b68024a39821877557317bc8789c0470a8
-fetched_at: "2026-09-18T12:51:57+00:00"
+fetched_at: "2026-09-23T05:25:46+00:00"
 ---
 
 Cross reference— Streets and sidewalks, tit. 12.

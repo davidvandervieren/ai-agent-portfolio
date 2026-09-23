@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 8 - Vehicles and Traffic > ARTICLE I - Model Traffic Code
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH8VETR_ARTIMOTRCO"
 sha256: 5a83f130513cd6d9aa446b48fdd00239712cbd52de9efd9697f25eb9b11107cb
-fetched_at: "2026-09-18T23:04:21+00:00"
+fetched_at: "2026-09-23T14:18:06+00:00"
 ---
 
 Pursuant to Parts 1 and 2 of Article 16 of Title 31, C.R.S., there is hereby adopted

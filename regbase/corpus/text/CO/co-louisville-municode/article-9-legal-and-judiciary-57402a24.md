@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER - FOR THE CITY OF LOUISVILLE, COLORADO > ARTICLE 9. - LEGAL AND JUDICIARY
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=CHTRFOLOCO_ART9LEJU"
 sha256: 079c7b68466e24c59e7f49f8ef91e4f7ae39e24adcbffd63eb7d2690d6f1ad1b
-fetched_at: "2026-09-18T12:47:22+00:00"
+fetched_at: "2026-09-23T05:21:11+00:00"
 ---
 
 (a)

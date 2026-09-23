@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 3 - MUNICIPAL COURT AND ADMINISTRATIVE HEARINGS > ARTICLE I. - MUNICIPAL COURT > DIVISION 1. - GENERAL PROVISIONS
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH3MUCOADHE_ARTIMUCO_DIV1GEPR"
 sha256: 04a55d56cefea0a46cf89fc1cc0a02296731a49c903e45bd78498ca00dc3c275
-fetched_at: "2026-09-18T14:06:32+00:00"
+fetched_at: "2026-09-23T06:08:52+00:00"
 ---
 
 The municipal court shall be a qualified court of record as defined by state law.

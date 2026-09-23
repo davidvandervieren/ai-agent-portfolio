@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE IV - Local Improvement Regulations > Division 6 - Sewer Connections
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH4REFI_ARTIVLOIMRE_DIV6SECO"
 sha256: 6fc1254d407ad85488778eca380e67d35ab1a1c01cdaa43227de3074017b30e2
-fetched_at: "2026-09-18T14:33:08+00:00"
+fetched_at: "2026-09-23T06:26:51+00:00"
 ---
 
 The City may establish and maintain separate or combined sewer systems, which systems

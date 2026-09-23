@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER - FOR THE CITY OF LOUISVILLE, COLORADO > ARTICLE 16. - MISCELLANEOUS PROVISIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=CHTRFOLOCO_ART16MIPR"
 sha256: 9abcffd46e06f406fc394015ae3af406138d6ff2eb934c5676e9dab8c0d78559
-fetched_at: "2026-09-18T12:47:37+00:00"
+fetched_at: "2026-09-23T05:21:25+00:00"
 ---
 
 (a)

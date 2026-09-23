@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use Code > Article 9 - Solar Facilities Development
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=CH16LAUSCO_ART9SOFADE"
 sha256: 19534b5f916338aadd02ccb5953d10454cd6f2f69da06f78721c0c0dbb150584
-fetched_at: "2026-09-18T22:49:29+00:00"
+fetched_at: "2026-09-23T14:06:19+00:00"
 ---
 
 These regulations are enacted to provide for the safety, preserve the health, promote

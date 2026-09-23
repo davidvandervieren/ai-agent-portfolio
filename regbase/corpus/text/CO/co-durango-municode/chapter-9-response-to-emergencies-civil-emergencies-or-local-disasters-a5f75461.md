@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 9 - RESPONSE TO EMERGENCIES, CIVIL EMERGENCIES OR LOCAL DISASTERS
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTIICOOR_CH9REEMCIEMLODI"
 sha256: 3164ea7647cb3c86e404047fce5e37362aa0761dc1d90e994d30651fa4a4a967
-fetched_at: "2026-09-18T17:59:06+00:00"
+fetched_at: "2026-09-23T09:56:56+00:00"
 ---
 
 This chapter shall be known and may be cited as the "Durango Emergency and Local Disaster

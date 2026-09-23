@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 90 - PUBLIC IMPROVEMENTS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH90PUIM"
 sha256: 2dc577918f4bed562f77248d844b5703d334e90271c258ad42f964abeeeaf7b9
-fetched_at: "2026-09-18T12:07:40+00:00"
+fetched_at: "2026-09-23T05:02:39+00:00"
 ---
 
 Charter reference— Improvement districts, Ch. XI.

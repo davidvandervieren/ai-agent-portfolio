@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - Business Taxes, Licenses and Regulations > CHAPTER 5.10 - Adult Businesses > 5.10.010 - Short title.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT5BUTALIRE_CH5.10ADBU_5.10.010SHTI"
 sha256: 4eb3c3279afe18b9598b0fc9bcf6805fc007a1ea82484535554785641e89d60b
-fetched_at: "2026-09-18T21:24:52+00:00"
+fetched_at: "2026-09-23T12:57:39+00:00"
 ---
 
 This Chapter shall be known as the "Evans Adult Business Ordinance."

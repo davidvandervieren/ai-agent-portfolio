@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.20 - Reserved
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.20RE"
 sha256: 759ee794216553317367fbd83e702459e5985de748e39543a66a9db26b98b36e
-fetched_at: "2026-09-18T21:13:33+00:00"
+fetched_at: "2026-09-23T12:46:37+00:00"
 ---
 
 CHAPTER 2.20 - Reserved

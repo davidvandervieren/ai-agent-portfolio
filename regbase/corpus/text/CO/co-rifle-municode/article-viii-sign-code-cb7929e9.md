@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE VIII - Sign Code
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTVIIISICO"
 sha256: 69484caced22326c0b37362f9d1301a3ab12df7bbeba6cfc4f076d0a2fb2610a
-fetched_at: "2026-09-18T14:27:27+00:00"
+fetched_at: "2026-09-23T06:25:27+00:00"
 ---
 
 Editor's note— Ord. 19 §2, adopted Jan. 7, 2015, effective Feb. 1, 2015, repealed the former Art. VIII,

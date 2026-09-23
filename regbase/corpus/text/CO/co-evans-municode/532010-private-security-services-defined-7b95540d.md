@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - Business Taxes, Licenses and Regulations > CHAPTER 5.32 - Private Security Services > 5.32.010 - Private security services defined.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT5BUTALIRE_CH5.32PRSESE_5.32.010PRSESEDE"
 sha256: fe5c536ed77a7ef904410c2d64b68414e29bbbd8b8e24be0d475b52a8f303643
-fetched_at: "2026-09-18T21:26:52+00:00"
+fetched_at: "2026-09-23T12:59:38+00:00"
 ---
 
 A.

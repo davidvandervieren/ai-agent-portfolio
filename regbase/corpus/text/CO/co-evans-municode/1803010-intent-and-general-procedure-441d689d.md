@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 18 - Land Development Code > CHAPTER 18.03 - Procedure > 18.03.010 - Intent and general procedure.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT18LADECO_CH18.03PR_18.03.010INGEPR"
 sha256: fda1876e41f8309edbd15c12a24e2608073e7ffb37ddf951be0bab373a867dfe
-fetched_at: "2026-09-18T21:49:36+00:00"
+fetched_at: "2026-09-23T13:21:57+00:00"
 ---
 
 Editor's note— Ord. 804-23 , § 2(Exh. A), adopted Oct. 17, 2023, repealed the former Ch. 18.03, § 18.03.010,

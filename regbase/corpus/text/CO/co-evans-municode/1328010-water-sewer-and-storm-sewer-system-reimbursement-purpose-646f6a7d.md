@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - Public Services > CHAPTER 13.28 - Water, Sewer and Storm Sewer System Reimbursement > 13.28.010 - Water, sewer, and storm sewer system reimbursement - purpose.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT13PUSE_CH13.28WASESTSESYRE_13.28.010WASESTSESYREUR"
 sha256: c1048cfc6680b0bbc6331a5b90cfecbe3f55c6b0bf0ceea36b66f36b48577620
-fetched_at: "2026-09-18T21:43:15+00:00"
+fetched_at: "2026-09-23T13:15:41+00:00"
 ---
 
 It is the intention of the City Council in providing a reimbursement procedure under

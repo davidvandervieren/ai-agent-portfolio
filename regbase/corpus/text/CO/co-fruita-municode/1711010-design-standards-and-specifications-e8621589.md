@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 17 - LAND USE CODE > CHAPTER 17.11 - GENERAL DEVELOPMENT STANDARDS > 17.11.010 - DESIGN STANDARDS AND SPECIFICATIONS.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT17LAUSCO_CH17.11GEDEST_17.11.010DESTSP"
 sha256: 6a871260ef08789c5f92dc514d6381e97659c5f505ddec88a9003b1941b77750
-fetched_at: "2026-09-18T19:51:05+00:00"
+fetched_at: "2026-09-23T11:24:05+00:00"
 ---
 
 The following standards and regulations are applicable to all projects requiring approval

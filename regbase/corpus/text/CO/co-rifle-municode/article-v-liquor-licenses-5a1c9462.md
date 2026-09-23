@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE V - Liquor Licenses
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH6BULIRE_ARTVLILI"
 sha256: 68c492e1350f43bf5a3b75f64e2b3e850ed7cedb8db746e4d71a9c1d1ad55d6e
-fetched_at: "2026-09-18T14:26:16+00:00"
+fetched_at: "2026-09-23T06:24:14+00:00"
 ---
 
 As used in this Article, unless the context otherwise requires:

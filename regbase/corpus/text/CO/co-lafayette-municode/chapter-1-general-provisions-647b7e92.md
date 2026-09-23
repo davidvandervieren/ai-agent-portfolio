@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 1 - GENERAL PROVISIONS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH1GEPR"
 sha256: 5808aabc62834d65bdab2a11b8167a1e31478a3d86fe44094a2e41f61499ed30
-fetched_at: "2026-09-18T12:06:34+00:00"
+fetched_at: "2026-09-23T05:02:09+00:00"
 ---
 
 Charter reference— Name and boundaries of city, § 1.1; exercise of municipal powers as provided by ordinance, § 2.1.

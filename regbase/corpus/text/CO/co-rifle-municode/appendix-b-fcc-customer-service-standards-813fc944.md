@@ -10,7 +10,7 @@ doc_type: code
 citation_root: APPENDIX B - FCC CUSTOMER SERVICE STANDARDS
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=APPENDIX_APXBFCCUSEST"
 sha256: f1852bb22de29dba8cfb0280972e6a71de72316cb657c83ff1c9590108e32bb8
-fetched_at: "2026-09-18T14:28:22+00:00"
+fetched_at: "2026-09-23T06:26:19+00:00"
 ---
 
 Table of Contents

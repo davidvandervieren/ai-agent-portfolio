@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.11 - Economic Development Department > 2.11.010 - Economic Development Department established - Director.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.11ECDEDE_2.11.010ECDEDEESIR"
 sha256: 2b6e2a291d11e0b04e785d7471acb0223f58dcda2651bdfee13c42aa381c34ce
-fetched_at: "2026-09-18T21:20:55+00:00"
+fetched_at: "2026-09-23T12:53:53+00:00"
 ---
 
 There is established the Department of Economic Development, the director of which

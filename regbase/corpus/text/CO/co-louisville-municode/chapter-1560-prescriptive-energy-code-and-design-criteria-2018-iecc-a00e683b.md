@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.60 - PRESCRIPTIVE ENERGY CODE AND DESIGN CRITERIA (2018 IECC)
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.60PRENCODECR2018IE"
 sha256: 785d98c36ff58feb5968bb090eb2340738ed5fd6d3e797eac5f8071d0a2bc349
-fetched_at: "2026-09-18T12:52:43+00:00"
+fetched_at: "2026-09-23T05:26:34+00:00"
 ---
 
 This chapter regulates the design and construction of residential and commercial heated

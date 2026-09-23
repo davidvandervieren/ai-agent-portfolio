@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF RIFLE HOME RULE CHARTER > ARTICLE VIII - CITY ATTORNEY AND MUNICIPAL COURT > 8.1 - APPOINTMENT OF CITY ATTORNEY
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CIRIHORUCH_ARTVIIICIATMUCO_8.1APAT"
 sha256: ef40f8f29d072116d83b14fb47bcab2eca5ac8d7cc209623c74daa7d8b0ff8e7
-fetched_at: "2026-09-18T14:30:14+00:00"
+fetched_at: "2026-09-23T06:30:53+00:00"
 ---
 
 The Council shall appoint a City Attorney who shall be the legal representative of

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > CHAPTER 5.21 - ENTERTAINMENT DISTRICT > 5.21.010 - PURPOSE AND AUTHORITY.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT5BULIRE_CH5.21ENDI_5.21.010PUAU"
 sha256: 19a5a4f6405ce557e080ceab58a4362e64254051f53ca0663c2d8846efb161f6
-fetched_at: "2026-09-18T19:31:52+00:00"
+fetched_at: "2026-09-23T11:04:50+00:00"
 ---
 
 A.

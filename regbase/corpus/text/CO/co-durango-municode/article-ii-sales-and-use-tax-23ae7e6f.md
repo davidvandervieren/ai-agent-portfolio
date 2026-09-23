@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 23 - TAXATION > ARTICLE II. - SALES AND USE TAX
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTIICOOR_CH23TA_ARTIISAUSTA"
 sha256: c2dd39f747db97ff1d0785d56a3a1fbc826c6a0a28075031c1e7c2efc4b1a628
-fetched_at: "2026-09-18T18:00:08+00:00"
+fetched_at: "2026-09-23T09:59:43+00:00"
 ---
 
 Cross reference— Retail sales license, § 13-230 et seq.

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - Administration and Personnel > CHAPTER 2.42 - Disposition and Sale of City-Owned Real Property > 2.42.010 - Surplus property.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT2ADPE_CH2.42DISACINEREPR_2.42.010SUPR"
 sha256: 9aeaa1cd08b2864f15c8bb7fe80df1654333600221137b45ee6ee25ba4386eaa
-fetched_at: "2026-09-18T21:22:41+00:00"
+fetched_at: "2026-09-23T12:55:31+00:00"
 ---
 
 Whenever the City owns real property not presently used for municipal purposes, nor

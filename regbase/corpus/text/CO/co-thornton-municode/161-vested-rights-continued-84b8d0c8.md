@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHAPTER XVI. - MISCELLANEOUS > 16.1. - Vested rights continued.
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHXVIMI_16.1VERICO"
 sha256: c5b7fc9267c240a53da38f0e1de5d09ac4e97df0bbda3221559670b5077bc35f
-fetched_at: "2026-09-18T13:19:11+00:00"
+fetched_at: "2026-09-23T05:55:05+00:00"
 ---
 
 After the effective date of this Charter the City shall be vested with all property,

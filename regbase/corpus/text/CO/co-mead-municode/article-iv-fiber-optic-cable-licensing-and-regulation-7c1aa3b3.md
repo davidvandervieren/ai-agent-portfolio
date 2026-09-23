@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 6 - Business Licenses and Regulations > ARTICLE IV - Fiber-Optic Cable Licensing and Regulation
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH6BULIRE_ARTIVFITICALIRE"
 sha256: 915481acdff4496272c683355f089063ad3989229ee663bd45b430d3cc1423c4
-fetched_at: "2026-09-18T23:03:57+00:00"
+fetched_at: "2026-09-23T14:17:42+00:00"
 ---
 
 The Town Clerk is hereby authorized to issue licenses and permits for the installation

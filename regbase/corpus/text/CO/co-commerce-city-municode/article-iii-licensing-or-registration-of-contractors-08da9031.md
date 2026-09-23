@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 5 - BUILDINGS AND BUILDING REGULATIONS > ARTICLE III. - LICENSING OR REGISTRATION OF CONTRACTORS
 url: "https://library.municode.com/co/commerce_city/codes/municipal_code?nodeId=COOR_CH5BUBURE_ARTIIILIRECO"
 sha256: cebe9ab27c291df2f0d4b27557f96c6fde05d873b4b9cb35a48d2540795f76cf
-fetched_at: "2026-09-18T14:05:26+00:00"
+fetched_at: "2026-09-23T06:07:28+00:00"
 ---
 
 Editor's note— Ord. No. 2478 , § 2(Exh. A), adopted May 15, 2023, repealed the former Art. III, §§ 5-36—5-44, and

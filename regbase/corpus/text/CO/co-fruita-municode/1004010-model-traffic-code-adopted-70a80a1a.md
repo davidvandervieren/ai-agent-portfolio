@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 10 - VEHICLES AND TRAFFIC > CHAPTER 10.04 - MUNICIPAL TRAFFIC CODE > 10.04.010 - MODEL TRAFFIC CODE ADOPTED.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT10VETR_CH10.04MUTRCO_10.04.010MOTRCOAD"
 sha256: 4b57ca0e0c5923fe7379493505b489775c2ed4b14f7889e683bf33fb57562efc
-fetched_at: "2026-09-18T19:40:27+00:00"
+fetched_at: "2026-09-23T11:13:26+00:00"
 ---
 
 Pursuant to Parts 1 and 2 of Article 16 of Title 31, C.R.S., as amended, there is

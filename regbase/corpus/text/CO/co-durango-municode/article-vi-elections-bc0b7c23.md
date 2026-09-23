@@ -10,7 +10,7 @@ doc_type: code
 citation_root: PART I - CHARTER > ARTICLE VI. - ELECTIONS
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTICH_ARTVIEL"
 sha256: fbde4958dd5bd94287906671493c9801347e7e8cd2681c9974fee442c74d48fc
-fetched_at: "2026-09-18T17:59:27+00:00"
+fetched_at: "2026-09-23T09:57:12+00:00"
 ---
 
 City elections shall be governed by the Colorado Municipal Election Law as now existing

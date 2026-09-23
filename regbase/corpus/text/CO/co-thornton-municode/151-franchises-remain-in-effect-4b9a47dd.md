@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHARTER > CHAPTER XV. - FRANCHISES > 15.1. - Franchises remain in effect.
 url: "https://library.municode.com/co/thornton/codes/code_of_ordinances?nodeId=CH_CHXVFR_15.1FRREEF"
 sha256: 2eb1298cbd1280b5c27cd18becdeed1c831411856b7486d1608e6c2f940c2260
-fetched_at: "2026-09-18T13:19:03+00:00"
+fetched_at: "2026-09-23T05:54:57+00:00"
 ---
 
 All franchises to which the City is a party when this Charter becomes effective shall

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 92 - REIMBURSEMENT ASSESSMENT DISTRICTS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH92REASDI"
 sha256: 19b1dc9ca8493900f1fd560d67917ff00b01b9f3b46e383343998f5b1236c303
-fetched_at: "2026-09-18T12:07:44+00:00"
+fetched_at: "2026-09-23T05:02:42+00:00"
 ---
 
 (a)

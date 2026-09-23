@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE X - Offenses Relating to Firearms and Weapons
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH10GEOF_ARTXOFREFIWE"
 sha256: c06a976215263b2ab3e36f77f91657a66100f91df81cd275f1ebf12a1893ac4d
-fetched_at: "2026-09-18T23:04:54+00:00"
+fetched_at: "2026-09-23T14:18:39+00:00"
 ---
 
 (a)

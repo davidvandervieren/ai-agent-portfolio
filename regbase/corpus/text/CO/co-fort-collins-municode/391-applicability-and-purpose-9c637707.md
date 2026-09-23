@@ -10,7 +10,7 @@ doc_type: code
 citation_root: ARTICLE 3 - GENERAL DEVELOPMENT STANDARDS > Division 3.9 - Development Standards for the I-25 Corridor > 3.9.1 - Applicability and Purpose
 url: "https://library.municode.com/co/fort_collins/codes/land_use?nodeId=ART3GEDEST_DIV3.9DESTI-CO_3.9.1APPU"
 sha256: ebe925c4b03f126abb34bcdcf5a336f8f2c4b6deca200613cfd7a8d7831f7d4b
-fetched_at: "2026-09-18T20:18:25+00:00"
+fetched_at: "2026-09-23T15:16:58+00:00"
 ---
 
 (A)

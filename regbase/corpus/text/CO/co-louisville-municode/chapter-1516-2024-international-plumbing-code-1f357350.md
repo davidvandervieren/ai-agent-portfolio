@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.16 - 2024 INTERNATIONAL PLUMBING CODE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.162024INPLCO"
 sha256: fdb7ace37c33c829bfc976ecbef5ad5193c99f58d27c9b5152555dde404c3d20
-fetched_at: "2026-09-18T12:52:21+00:00"
+fetched_at: "2026-09-23T05:26:10+00:00"
 ---
 
 Editor's note— Ord. No. 1764, § 7, adopted Sep. 4, 2018, repealed the former Ch. 15.16, §§ 15.16.010—15.16.130,

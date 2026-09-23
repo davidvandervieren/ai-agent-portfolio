@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 3 - Appointed Boards and Committees > ARTICLE I - General Provisions
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH3APBOCO_ARTIGEPR"
 sha256: ce703c2e8b11f458a0adf6383180803ef34ac8b71d28a7e0fe40885b228bcab7
-fetched_at: "2026-09-18T23:03:19+00:00"
+fetched_at: "2026-09-23T14:17:13+00:00"
 ---
 
 Editor's note— Ord. No. 770 §1, adopted April 27, 2015, repealed the former Ch. 3, §§ 3-1-10—3-6-90, and enacted

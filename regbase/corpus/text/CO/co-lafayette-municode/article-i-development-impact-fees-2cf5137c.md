@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 30 - BUILDINGS AND BUILDING REGULATIONS > ARTICLE I. - DEVELOPMENT IMPACT FEES
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH30BUBURE_ARTIDEIMFE"
 sha256: d4d9592d4282d1ef54a91323529f724409f641c581b04fbc646693c3d0047038
-fetched_at: "2026-09-18T12:09:26+00:00"
+fetched_at: "2026-09-23T05:04:10+00:00"
 ---
 
 Editor's note— Ord. No. 2026-12 , § 1, adopted July 7, 2026, repealed ch. 30, arts. I—XV, §§ 30-1—30-11, 30-21—30-27,

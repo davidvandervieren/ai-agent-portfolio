@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > CHAPTER 5.70 - SUSPENSION AND REVOCATION PROCEDURES > 5.70.010 - GROUNDS FOR SUSPENSION OR REVOCATION.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT5BULIRE_CH5.70SUREPR_5.70.010GRSURE"
 sha256: 44dddaa652d8855d1b67bdfe2cf4167cbc49ba16b903a51bfba6fa7b05841116
-fetched_at: "2026-09-18T19:33:31+00:00"
+fetched_at: "2026-09-23T11:06:30+00:00"
 ---
 
 The Licensing Officer shall suspend for a period not to exceed six (6) months or revoke

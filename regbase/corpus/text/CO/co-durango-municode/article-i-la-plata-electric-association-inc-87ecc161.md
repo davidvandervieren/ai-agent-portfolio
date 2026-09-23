@@ -10,7 +10,7 @@ doc_type: code
 citation_root: APPENDIX A - FRANCHISES > ARTICLE I. - LA PLATA ELECTRIC ASSOCIATION, INC.
 url: "https://library.municode.com/co/durango/codes/code_of_ordinances?nodeId=PTIICOOR_APXAFR_ARTILAPLELASIN"
 sha256: c91b8b5dd3f0ece9b22a04ef0b67e97c4f8aba648778cc2edbfaad50f10367b9
-fetched_at: "2026-09-18T18:00:16+00:00"
+fetched_at: "2026-09-23T10:00:09+00:00"
 ---
 
 AMENDED ORDINANCE NO. 2012-13

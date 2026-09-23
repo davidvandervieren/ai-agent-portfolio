@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > CHAPTER 5.20 - ALCOHOLIC BEVERAGE LICENSES > 5.20.010 - DEFINITIONS.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT5BULIRE_CH5.20ALBELI_5.20.010DE"
 sha256: fe6fe7405e5bb24bc3c18a55443229e46c96a3b20750df553c64605e1171abde
-fetched_at: "2026-09-18T19:31:23+00:00"
+fetched_at: "2026-09-23T11:04:22+00:00"
 ---
 
 For purposes of this chapter, the following shall mean:

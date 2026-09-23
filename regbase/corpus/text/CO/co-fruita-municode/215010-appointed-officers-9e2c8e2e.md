@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > CHAPTER 2.15 - OFFICERS AND EMPLOYEES > 2.15.010 - APPOINTED OFFICERS.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT2ADPE_CH2.15OFEM_2.15.010APOF"
 sha256: 8c309994e5aec3ae667d76e774c78ee9a415e5676193d85e4f62d76543426f11
-fetched_at: "2026-09-18T19:24:05+00:00"
+fetched_at: "2026-09-23T10:56:53+00:00"
 ---
 
 Pursuant to the Fruita City Charter, Article IV, the following officers of the City

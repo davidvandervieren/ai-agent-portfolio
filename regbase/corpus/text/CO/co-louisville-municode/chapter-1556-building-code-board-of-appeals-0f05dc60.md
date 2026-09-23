@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.56 - BUILDING CODE BOARD OF APPEALS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.56BUCOBOAP"
 sha256: d7b6adf3bf24842bca9dd9b31931eb8bf6268d4d14374055cd5f408fbbaaf4e1
-fetched_at: "2026-09-18T12:52:41+00:00"
+fetched_at: "2026-09-23T05:26:32+00:00"
 ---
 
 Cross reference— Administration and enforcement of zoning, ch. 17.52.

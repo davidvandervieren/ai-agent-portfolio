@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.22 - 1997 UNIFORM CODE FOR THE ABATEMENT OF DANGEROUS BUILDINGS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.221997UNCOABDABU"
 sha256: 2c2ed9acb45567f01576ab6d37633f0a0c6d8acab0a915494854fc91cb9cf55f
-fetched_at: "2026-09-18T12:52:31+00:00"
+fetched_at: "2026-09-23T05:26:20+00:00"
 ---
 
 The Uniform Code for the Abatement of Dangerous Buildings, 1997 Edition, published

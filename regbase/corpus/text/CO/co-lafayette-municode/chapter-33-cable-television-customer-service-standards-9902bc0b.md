@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 33 - CABLE TELEVISION CUSTOMER SERVICE STANDARDS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH33CATECUSEST"
 sha256: 345e0da1bc5bbf74326db80d4c57ba45652f6d00b6b3d108d5f1bfdb2f556f73
-fetched_at: "2026-09-18T12:07:02+00:00"
+fetched_at: "2026-09-23T05:02:23+00:00"
 ---
 
 (a)

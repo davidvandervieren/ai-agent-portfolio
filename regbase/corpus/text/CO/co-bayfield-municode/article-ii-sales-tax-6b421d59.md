@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 14 - TAXATION > ARTICLE II. - SALES TAX
 url: "https://library.municode.com/co/bayfield/codes/code_of_ordinances?nodeId=CO_CH14TA_ARTIISATA"
 sha256: 1ea24732423e31da7f1e18848b10f25f25fb844cc33796ee502f60eae3410059
-fetched_at: "2026-09-18T18:33:26+00:00"
+fetched_at: "2026-09-23T10:12:35+00:00"
 ---
 
 Cross reference— Administration, Ch. 2; licenses and business regulations, Ch. 5; motor vehicles and traffic, Ch. 7; utilities, Ch. 15.

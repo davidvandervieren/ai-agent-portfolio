@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 8 - HEALTH AND SAFETY > Chapter 8.04 - RODENT CONTROL
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT8HESA_CH8.04ROCO"
 sha256: ad86f098bea82473d42d254438df21f449ce57bc0efe5d6fc046d0450c17576d
-fetched_at: "2026-09-18T12:49:44+00:00"
+fetched_at: "2026-09-23T05:23:35+00:00"
 ---
 
 Cross reference— Animals, tit. 6; pest control, ch. 8.40.

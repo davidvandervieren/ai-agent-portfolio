@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 7 - Health, Sanitation and Animals > ARTICLE I - Administration and Abatement of Nuisances
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH7HESAAN_ARTIADABNU"
 sha256: dce67bd625b752b7360ab6ce91c2aea10b83b86d304af0d6aa62ca75d32c07ad
-fetched_at: "2026-09-18T14:26:26+00:00"
+fetched_at: "2026-09-23T06:24:23+00:00"
 ---
 
 As used in this Chapter, the following terms shall have the meanings indicated:

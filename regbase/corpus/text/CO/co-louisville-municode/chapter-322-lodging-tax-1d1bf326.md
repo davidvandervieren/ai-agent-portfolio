@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > Chapter 3.22 - LODGING TAX
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT3REFI_CH3.22LOTA"
 sha256: 121703d7306936c6c9165d75a5ff67c14672b588dd9734804c66c96a8deefee8
-fetched_at: "2026-09-18T12:48:40+00:00"
+fetched_at: "2026-09-23T05:22:29+00:00"
 ---
 
 This chapter shall be known and cited as the "City of Louisville Lodging Tax Code."

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.14 - CITY PROSECUTOR
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.14CIPR"
 sha256: a7433d168935e71ca7f4a452cd7ecb2397bbd08cfbc18c4ece2dd10a78057b81
-fetched_at: "2026-09-18T12:48:08+00:00"
+fetched_at: "2026-09-23T05:21:55+00:00"
 ---
 
 The city council, by the affirmative vote of a majority of the entire council, shall

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - WATER AND SEWER > CHAPTER 13.04 - WATER REGULATIONS > 13.04.010 - SERVICE—APPLICATION REQUIRED.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT13WASE_CH13.04WARE_13.04.010SEPPRE"
 sha256: dd16dc94996d50edcef70eed62bea0472b8829393890ab5e1afd0abcb489d48a
-fetched_at: "2026-09-18T19:42:34+00:00"
+fetched_at: "2026-09-23T11:15:36+00:00"
 ---
 
 All persons who desire to use water from the City water system shall, before doing

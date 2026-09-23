@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 5 - BUSINESS LICENSES AND REGULATIONS > Chapter 5.10 - MEDICAL MARIJUANA
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT5BULIRE_CH5.10MEMA"
 sha256: df544ca09cf8934852d78d1f5e40ecdf421937a4116e07c8eff227333973cad7
-fetched_at: "2026-09-18T12:49:10+00:00"
+fetched_at: "2026-09-23T05:22:58+00:00"
 ---
 
 Editor's note— Ord. No. 1630-2013, § 2, adopted April 16, 2013, enacted a temporary moratorium pertaining

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Home Rule Charter > CHAPTER IV. - General Administrative Organization > 4.1 -           Administrative departments.          
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=HORUCH_CHIVGEADOR_4.1ADDE"
 sha256: 4b6aab7318c413cf7d69ba7afcc10f4939f0262618852de08e60c04aa9f6755f
-fetched_at: "2026-09-18T21:14:59+00:00"
+fetched_at: "2026-09-23T12:48:02+00:00"
 ---
 
 The Administrative functions of the City shall be performed within the Administrative

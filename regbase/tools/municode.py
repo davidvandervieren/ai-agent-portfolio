@@ -100,12 +100,18 @@ def _first_int(obj: Any, *names: str) -> Optional[int]:
 #   PTIICOOR_TIT22BUCO                 a title
 #   PTIICOOR_TIT22BUCO_CH16OIGAEXWEDR  a chapter under it
 #   ..._CH16OIGAEXWEDR_S22-401PU       a section under that
+# Not every code prefixes its sections with S. Berthoud's are numbered
+# straight after the chapter (CH1GEPR_1.1TISC), and codes numbered by title
+# do the same under a chapter (TIT17ZO_CH17.08DE_17.08.015ACST). A last id
+# segment that starts with a digit is a section in every code seen so far;
+# structural nodes keep a CH/ART/DIV/TIT/PT prefix.
 _SECTION_RE = re.compile(r"_S\d", re.I)
+_NUMBERED_TAIL_RE = re.compile(r"_\d[^_]*$")
 _CHAPTER_RE = re.compile(r"_(CH|ART|DIV)[\dA-Z]", re.I)
 
 
 def is_section(node_id: str) -> bool:
-    return bool(_SECTION_RE.search(node_id))
+    return bool(_SECTION_RE.search(node_id) or _NUMBERED_TAIL_RE.search(node_id))
 
 
 def content_units(nodes: list) -> list:
@@ -187,6 +193,7 @@ class BrowserTransport:
         self.api_headers: dict[str, str] = {}
         self.observed_ids: dict[str, int] = {}
         self.observed_urls: list[str] = []
+        self.page_urls: list[str] = []        # every request, for diagnosis
 
         self._pw = sync_playwright().start()
         self._browser, self.browser_used = render_mod._launch(self._pw)
@@ -207,6 +214,8 @@ class BrowserTransport:
 
     def _observe(self, request) -> None:
         url = request.url
+        if len(self.page_urls) < 300:
+            self.page_urls.append(url)
         if "/api/" not in url and "/localapi/" not in url:
             return
         self.observed_urls.append(url)
@@ -386,7 +395,26 @@ class Municode:
             if best is None:
                 best = (pid, name)
         if not best:
-            raise RuntimeError(f"no product found for clientId {ref.client_id}")
+            # Some clients (Johnstown, CO) answer ClientContent with no codes
+            # at all; the page reaches theirs through PublicationVersion
+            # instead. Ask that the way the page does before giving up.
+            name = (product_hint or "code of ordinances").replace("_", " ")
+            try:
+                vm = self._get(f"/localapi/PublicationVersion/GetViewModel/"
+                               f"{ref.client_id}/{quote(name)}")
+            except RuntimeError:
+                vm = None
+            pid = _first_int(vm, "productId") if vm else None
+            jid = _first_int(vm, "jobId") if vm else None
+            if pid and jid:
+                ref.product_id, ref.product_name, ref.job_id = pid, name, jid
+                return ref
+            # Johnstown's answer carries only {id, publicationId, name}, and
+            # codesToc/CodesContent answer 404 to those ids (tried live
+            # 2026-09-23). Such a code is served some other way; say so.
+            raise RuntimeError(f"no product found for clientId {ref.client_id}"
+                               + (" (published as a PublicationVersion, which the "
+                                  "codes API does not serve)" if vm else ""))
         ref.product_id, ref.product_name = best
 
         job = self._get(f"/api/Jobs/latest/{ref.product_id}")
@@ -565,6 +593,19 @@ def main() -> int:
         print(f"observed  : {len(t.observed_urls)} API call(s) by the page; "
               f"ids {t.observed_ids or 'none'}; "
               f"headers reused: {sorted(t.api_headers) or 'none'}")
+        if args.dump:
+            for u in t.observed_urls[:20]:
+                print(f"    {u[:160]}")
+            static = (".js", ".css", ".png", ".gif", ".svg", ".woff", ".woff2",
+                      ".ico", ".jpg", ".ttf", ".map")
+            skip = ("google", "gstatic", "doubleclick", "facebook", "hotjar")
+            others = [u for u in t.page_urls
+                      if u not in t.observed_urls
+                      and not any(k in u for k in skip)
+                      and not u.split("?")[0].lower().endswith(static)]
+            print(f"other requests, any host ({len(others)}), first 40:")
+            for u in others[:40]:
+                print(f"    {u[:160]}")
     try:
         return _run(m, args, state, client, product)
     finally:
@@ -577,12 +618,26 @@ def _run(m: "Municode", args, state: str, client: str, product: str) -> int:
     except Exception as exc:
         print(f"resolve failed: {exc}")
         if args.dump:
+            org = None
             try:
-                print(json.dumps(m._get(
-                    f"/localapi/Organizations/GetByUrlEncodedNames/{state}/{client}"),
-                    indent=1)[:2000])
+                org = m._get(f"/localapi/Organizations/GetByUrlEncodedNames/{state}/{client}")
+                print(json.dumps(org, indent=1)[:2000])
             except Exception as e2:
                 print(f"  (dump also failed: {e2})")
+            cid = _first_int(org, "clientId", "id", "organizationId") if org else None
+            # What the product lookups actually answered, so a code the site
+            # lists under an unexpected name or endpoint can be found.
+            probes = []
+            if cid:
+                name = quote((product or "code of ordinances").replace("_", " "))
+                probes.append(f"/api/ClientContent/{cid}")
+                probes.append(f"/api/Products/name?clientId={cid}&productName={name}")
+                probes.append(f"/localapi/PublicationVersion/GetViewModel/{cid}/{name}")
+            for path in probes:
+                try:
+                    print(f"\n{path}\n" + json.dumps(m._get(path), indent=1)[:2500])
+                except Exception as e2:
+                    print(f"\n{path}\n  failed: {e2}")
         return 1
 
     print(f"clientId  : {ref.client_id}")
@@ -611,6 +666,11 @@ def _run(m: "Municode", args, state: str, client: str, product: str) -> int:
             deepest = max((n.depth for n in allnodes), default=0)
             print(f"\nexpanded  : {len(allnodes)} node(s), {len(leaves)} leaves, "
                   f"depth {deepest}")
+            units = content_units(allnodes)
+            print(f"units     : {len(units)} content unit(s) the harvester would fetch")
+            print("   sample leaf ids (the shape decides what counts as a section):")
+            for n in leaves[:12]:
+                print(f"     {n.node_id[:60]:<62} {n.title[:50]}")
             hits = [n for n in allnodes if re.search(r"oil|gas|pipeline", n.title, re.I)]
             if hits:
                 print("   oil & gas related:")

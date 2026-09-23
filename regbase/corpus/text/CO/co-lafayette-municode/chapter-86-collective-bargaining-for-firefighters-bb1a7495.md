@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 86 - COLLECTIVE BARGAINING FOR FIREFIGHTERS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH86COBAFI"
 sha256: c603985762a354dcf8f3203149b67ee57bcd19112effd47ca1bbbbba6775b873
-fetched_at: "2026-09-18T12:07:34+00:00"
+fetched_at: "2026-09-23T05:02:35+00:00"
 ---
 
 The protection of the public health, safety and welfare demands that the city's firefighters

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 9 - Public Peace, Morals and Welfare > CHAPTER 9.16 - Offenses Against the Person and Public Order > 9.16.010 - Loitering - activities prohibited - affirmative defense.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT9PUPEMOWE_CH9.16OFAGPEPUOR_9.16.010LOCTPRFFDE"
 sha256: 40a608ae039f19b18ad4e00d632ada0ecfbcc2a436680ecb040f64980dee54a6
-fetched_at: "2026-09-18T21:32:45+00:00"
+fetched_at: "2026-09-23T13:05:26+00:00"
 ---
 
 A.

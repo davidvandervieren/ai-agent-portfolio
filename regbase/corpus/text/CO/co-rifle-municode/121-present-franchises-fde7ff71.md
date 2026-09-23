@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CITY OF RIFLE HOME RULE CHARTER > ARTICLE XII - FRANCHISES > 12.1 - PRESENT FRANCHISES
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CIRIHORUCH_ARTXIIFR_12.1PRFR"
 sha256: 075d620be0f91ddcb2856600e4c10880e9417365707054a096c75503adf6fda8
-fetched_at: "2026-09-18T14:31:24+00:00"
+fetched_at: "2026-09-23T06:31:58+00:00"
 ---
 
 All franchise ordinances of the City in effect at the time that this Charter is adopted

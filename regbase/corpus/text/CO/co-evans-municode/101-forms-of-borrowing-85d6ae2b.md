@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Home Rule Charter > CHAPTER X. - Municipal Borrowing > 10.1 - Forms of borrowing.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=HORUCH_CHXMUBO_10.1FOBO"
 sha256: bb877824835898cd70938c08ee3c42c1a8fe113c3977f44d2841716e20559c9c
-fetched_at: "2026-09-18T21:17:02+00:00"
+fetched_at: "2026-09-23T12:50:01+00:00"
 ---
 
 The City may borrow money and issue the following securities to evidence such borrowing:

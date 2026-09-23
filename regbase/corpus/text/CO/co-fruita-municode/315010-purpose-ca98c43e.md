@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 3 - REVENUE AND FINANCE > CHAPTER 3.15 - USE TAX ON BUILDING MATERIALS AND ON VEHICLES > ARTICLE I. - GENERAL PROVISIONS > 3.15.010 - PURPOSE.
 url: "https://library.municode.com/co/fruita/codes/municipal_code?nodeId=TIT3REFI_CH3.15USTABUMAVE_ARTIGEPR_3.15.010PU"
 sha256: 3b407de84f396079ef5a6f4a083e6fc433525a94a0318642f7c05c6defd89c26
-fetched_at: "2026-09-18T19:57:19+00:00"
+fetched_at: "2026-09-23T11:30:18+00:00"
 ---
 
 The purpose of this chapter is to raise revenue and provide a complementary tax to

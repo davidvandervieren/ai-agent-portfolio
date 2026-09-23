@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Chapter 20 - AMUSEMENTS
 url: "https://library.municode.com/co/lafayette/codes/code_of_ordinances?nodeId=COOR_CH20AM"
 sha256: 5331bcca856da930a653a389ee33fe77c754cc7de54ae1f875157b20b6a62475
-fetched_at: "2026-09-18T12:06:46+00:00"
+fetched_at: "2026-09-23T05:02:15+00:00"
 ---
 
 Editor's note— The amusements ordinances of the city are in the process of revision and will be included

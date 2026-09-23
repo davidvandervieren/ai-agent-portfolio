@@ -10,7 +10,7 @@ doc_type: code
 citation_root: Home Rule Charter > CHAPTER IX. - Taxation > 9.1 - Collection of taxes.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=HORUCH_CHIXTA_9.1COTA"
 sha256: 4a67b8c9dffd2e64c8deec9079a9f72f55a8bc411e549eb2656d4bb4bdbe237b
-fetched_at: "2026-09-18T21:16:54+00:00"
+fetched_at: "2026-09-23T12:49:53+00:00"
 ---
 
 (1)

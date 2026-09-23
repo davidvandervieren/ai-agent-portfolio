@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 13 - Public Services > CHAPTER 13.22 - Wastewater Pretreatment > 13.22.010 - General provisions.
 url: "https://library.municode.com/co/evans/codes/municipal_code?nodeId=MUCO_TIT13PUSE_CH13.22WAPR_13.22.010GEPR"
 sha256: ccf4c2f3365754c7b68ea36239ae471aa7f915fa5b5d850cd12d4dd7e602aa93
-fetched_at: "2026-09-18T21:42:31+00:00"
+fetched_at: "2026-09-23T13:14:57+00:00"
 ---
 
 A.

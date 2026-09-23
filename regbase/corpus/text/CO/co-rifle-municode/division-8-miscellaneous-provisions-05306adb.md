@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 4 - Revenue and Finance > ARTICLE IV - Local Improvement Regulations > Division 8 - Miscellaneous Provisions
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH4REFI_ARTIVLOIMRE_DIV8MIPR"
 sha256: ab1e0c6154099023134294e66cfaa31fcefab9cfd0bec8306f5630245a733c5f
-fetched_at: "2026-09-18T14:33:12+00:00"
+fetched_at: "2026-09-23T06:26:55+00:00"
 ---
 
 Whenever any district or local improvement providing for paving is ordered under the

@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 10 - General Offenses > ARTICLE II - Attempt, Conspiracy, Complicity, Accessory
 url: "https://library.municode.com/co/mead/codes/municipal_code?nodeId=CD_CH10GEOF_ARTIIATCOCOAC"
 sha256: b51bf8193ea4a12a9e20fa798ae633f19650923b40edc5d8d904d9f3211eb8ad
-fetched_at: "2026-09-18T23:04:37+00:00"
+fetched_at: "2026-09-23T14:18:22+00:00"
 ---
 
 (a)

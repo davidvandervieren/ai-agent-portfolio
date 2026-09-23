@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 2 - ADMINISTRATION AND PERSONNEL > Chapter 2.16 - ELECTIONS
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.16EL"
 sha256: 1f15e1513d631109db84769ebf2b183cd42ef5538f4701d6031cb2dde2984f84
-fetched_at: "2026-09-18T12:48:10+00:00"
+fetched_at: "2026-09-23T05:21:57+00:00"
 ---
 
 A.

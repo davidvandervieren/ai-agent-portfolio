@@ -10,7 +10,7 @@ doc_type: code
 citation_root: HOME RULE CHARTER > ARTICLE IX - Public Utilities, Franchises, and Use of Public Property > 9.01 - Town Authority.
 url: "https://library.municode.com/co/severance/codes/municipal_code?nodeId=HORUCH_ARTIXPUUTFRUSPUPR_9.01TOAU"
 sha256: b0e27f494a0b7a012798609eecb64116458a19b89d4299614cff730f07df5691
-fetched_at: "2026-09-18T22:51:48+00:00"
+fetched_at: "2026-09-23T14:10:07+00:00"
 ---
 
 (1)

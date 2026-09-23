@@ -10,7 +10,7 @@ doc_type: code
 citation_root: TITLE 15 - BUILDINGS AND CONSTRUCTION > Chapter 15.10 - 2024 INTERNATIONAL FUEL GAS CODE
 url: "https://library.municode.com/co/louisville/codes/code_of_ordinances?nodeId=TIT15BUCO_CH15.102024INFUGACO"
 sha256: e9ed3fed0f73a6e70852436af894f5c0e34b55a8af320dd0339ed772fb7a65a7
-fetched_at: "2026-09-18T12:52:15+00:00"
+fetched_at: "2026-09-23T05:26:04+00:00"
 ---
 
 Editor's note— Ord. No. 1764, § 4, adopted Sep. 4, 2018, repealed the former Ch. 15.10, §§ 15.10.010—15.10.040,

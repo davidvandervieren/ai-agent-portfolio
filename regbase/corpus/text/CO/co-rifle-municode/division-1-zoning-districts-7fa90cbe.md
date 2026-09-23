@@ -10,7 +10,7 @@ doc_type: code
 citation_root: CHAPTER 16 - Land Use and Development > ARTICLE III - Zoning > Division 1 - Zoning Districts
 url: "https://library.municode.com/co/rifle/codes/charter_and_municipal_code?nodeId=CH16LAUSDE_ARTIIIZO_DIV1ZODI"
 sha256: 1dc7138925dff825931a6ebb50d09688d50705022a260060b9bccd0e88512c62
-fetched_at: "2026-09-18T14:34:18+00:00"
+fetched_at: "2026-09-23T06:27:58+00:00"
 ---
 
 To carry out the provisions of this Chapter and the City's Comprehensive Plan, the
